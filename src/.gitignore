@@ -1,0 +1,3 @@
+__pycache__/*
+maratona/__pycache__/*
+!.gitignore
