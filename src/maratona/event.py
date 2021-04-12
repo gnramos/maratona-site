@@ -1,12 +1,12 @@
 import os
 
 # Constants
-SELECTORS = ['Region', 'UF', 'Institution']
+GROUPS = ['Region', 'UF', 'Institution']
 
 
 def _aggregate_count_girls(df):
     count, filters = {}, []
-    for col in SELECTORS:
+    for col in GROUPS:
         filters.append(col)
         for items, group in df[filters + ['Sex']].groupby(filters):
             aux_dict = count
@@ -16,7 +16,8 @@ def _aggregate_count_girls(df):
                     aux_dict[k] = {}
                 aux_dict = aux_dict[k]
             # json não reconhece tipos do NumPy.
-            aux_dict['Value'] = int(group[group['Sex'] == 'Female']['Sex'].count())
+            aux_dict['Value'] = int(group[
+                group['Sex'] == 'Female']['Sex'].count())
 
     count['Value'] = sum(item['Value'] for item in count.values())
     return count
@@ -24,7 +25,7 @@ def _aggregate_count_girls(df):
 
 def _aggregate_count_teams(df):
     count, filters = {}, []
-    for col in SELECTORS:
+    for col in GROUPS:
         filters.append(col)
         for items, group in df[filters + ['Team']].groupby(filters):
             aux_dict = count
@@ -42,7 +43,7 @@ def _aggregate_count_teams(df):
 
 def _aggregate_mean_rank(df):
     mean, filters = {}, []
-    for col in SELECTORS:
+    for col in GROUPS:
         filters.append(col)
         for i, row in df[df['Rank'] > 0].groupby(filters).mean().iterrows():
             aux_dict = mean
@@ -51,7 +52,7 @@ def _aggregate_mean_rank(df):
                 if k not in aux_dict:
                     aux_dict[k] = {}
                 aux_dict = aux_dict[k]
-            aux_dict['Value'] = row['Rank']
+            aux_dict['Value'] = float(row['Rank'])
 
     return mean
 
@@ -63,8 +64,8 @@ def _aggregate_to_js(year, phase, df):
 
 
 def _aggregate_javascript(metric, feature, year, phase, df):
-    json_str = eval(f'_aggregate_{metric.lower()}_{feature.lower()}(df)')
-    json_data = dict_to_json(json_str)
+    event = eval(f'_aggregate_{metric.lower()}_{feature.lower()}(df)')
+    json = dict_to_json(event)
 
     return f'''if (AGGREGATED === undefined)
   var AGGREGATED = {{}};
@@ -75,13 +76,13 @@ if (AGGREGATED["{metric}"]["{feature}"] === undefined)
 if (AGGREGATED["{metric}"]["{feature}"][{year}] === undefined)
   AGGREGATED["{metric}"]["{feature}"][{year}] = {{}};
 
-AGGREGATED["{metric}"]["{feature}"][{year}]["{phase}"] = {json_data};
+AGGREGATED["{metric}"]["{feature}"][{year}]["{phase}"] = {json};
 '''
 
 
-def dict_to_json(json_str):
+def dict_to_json(event):
     from json import dumps
-    return dumps(json_str, indent=2, ensure_ascii=False)
+    return dumps(event, indent=2, ensure_ascii=False)
 
 
 def load_js_in_html(year, phase):
