@@ -57,7 +57,7 @@ Para ambos, as informações indicadas em letras maiúsculas são substituídas 
 
 ## `-p` ou `--participant`
 
-O processamento dos participantes envolve a análise dos dados de diversos relatórios e a reestruturação deles como dicionários, que são armazenados em arquivos `.js` para serem carregados na página. Especificamente, o arquivo `[contestants.js](../docs/js/data/contestants.js)` tem o dicionário _CONTESTANTS_ com a seguinte estrutura:
+O processamento dos participantes envolve a análise dos dados de diversos relatórios e a reestruturação deles como dicionários, que são armazenados em arquivos `.js` para serem carregados na página. Especificamente, o arquivo [`contestants.js`](../docs/js/data/contestants.js) tem o dicionário _CONTESTANTS_ com a seguinte estrutura:
 
 ```javascript
 CONTESTANTS = {
@@ -70,7 +70,7 @@ CONTESTANTS = {
 };
 ```
 
-Já o arquivo `[institutions.js](../docs/js/data/institutions.js)` tem o dicionário _INSTITUTIONS_ com a seguinte estrutura:
+Já o arquivo [`institutions.js`](../docs/js/data/institutions.js) tem o dicionário _INSTITUTIONS_ com a seguinte estrutura:
 
 ```javascript
 INSTITUTIONS = {

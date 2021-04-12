@@ -17,7 +17,7 @@ As informações são extraídas dos relatórios disponibilizados pelo [ICPC](ht
 * Rank
 * Role
 
-O arquivo deve ser salvo com a seguinte estrutura de nome: `YYYY_1aFase.csv` ou `YYYY_Nacional.csv`, conforme  o evento, dentro do diretório `[reports](reports)`.
+O arquivo deve ser salvo com a seguinte estrutura de nome: `YYYY_1aFase.csv` ou `YYYY_Nacional.csv`, conforme  o evento, dentro do diretório [`reports`](reports).
 
 
 ## Processamento
@@ -63,4 +63,4 @@ O diretório [js](docs/js) contém os arquivos javascript do site. Além de scri
 
 A exibição dos *eventos* é feita pela página [event.html](docs/eventos.html), com a manipulação dos dados via script [event.js](docs/js/eventos.js). Neste caso, o `parser` processa o relatório de um evento específico e gera o arquivo `YYYY_FASE.js`, que apenas atualiza a variável `CONTESTS` (dicionário) com os dados do evento _FASE_ (*1aFase* ou *Nacional*) realizado no ano _YYYY_. O arquivo HTML é atualizado automaticamente com essa informação.
 
-A exibição das *participações* é feita pela página [participation.html](docs/participation.html), com a manipulação dos dados via script [participation.js](docs/js/participation.js). Neste caso, o `parser` processa o relatório de um evento específico e escreve essas informações nos arquivos `[contestants.js](docs/js/data/contestants.js)` e `[institutions.js](docs/js/data/institutions.js)`, que são carregados pelo HTML.
+A exibição das *participações* é feita pela página [participation.html](docs/participation.html), com a manipulação dos dados via script [participation.js](docs/js/participation.js). Neste caso, o `parser` processa o relatório de um evento específico e escreve essas informações nos arquivos [`contestants.js`](docs/js/data/contestants.js) e [`institutions.js`](docs/js/data/institutions.js), que são carregados pelo HTML.
