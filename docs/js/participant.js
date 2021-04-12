@@ -100,8 +100,8 @@ function selectorChanged(selector) {
 }
 
 function ufChanged() {
-  while (institutionSelector.options.length > 1)
-    institutionSelector.remove(institutionSelector.options.length - 1);
+  removeSelectorOptions(institutionSelector);
+  contestantSelector.options[0].selected = 'selected';
 
   var info = fetchDataFor("instititution", INSTITUTIONS);
   for (let text of Object.keys(info).sort(caseInsensitive)) {
@@ -112,6 +112,8 @@ function ufChanged() {
 }
 
 function institutionChanged() {
+  contestantSelector.options[0].selected = 'selected';
+
   participantImg.src = institutionImgSrc();
   participantImg.style.display = "inline";
 
@@ -132,6 +134,9 @@ function institutionChanged() {
 }
 
 function contestantChanged() {
+  ufSelector.options[0].selected = 'selected';
+  removeSelectorOptions(institutionSelector);
+
   // participantImg.src = `img/contestant/${info["Username"]}`;
   // participantImg.style.display = "inline";
   var info = fetchDataFor("contestant", CONTESTANTS)[current("contestant")];
