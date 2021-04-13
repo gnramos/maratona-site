@@ -148,7 +148,10 @@ CONTESTS[{year}]["{phase}"] = {dict_to_json(event)};
 
 def to_file(year, phase, df, overwrite=False):
     event_js = f'../docs/js/data/{year}_{phase}.js'
-    if not os.path.isfile(event_js) or overwrite:
+
+    if os.path.isfile(event_js) and not overwrite:
+        print(f'Não sobrescrever o arquivo "{event_js}" (veja a opção "-o").')
+    else:
         with open(event_js, 'w', encoding='utf-8') as file:
             file.write(_to_js(year, phase, df))
             file.write('\n\n')

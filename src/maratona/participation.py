@@ -35,6 +35,9 @@ def update_institutions(institutions, year, phase, df):
 
 def to_file(name, info, overwrite=False):
     participation_js = f'../docs/js/data/{name.lower()}.js'
-    if not os.path.isfile(participation_js) or overwrite:
+
+    if os.path.isfile(participation_js) and not overwrite:
+        print(f'Não sobrescrever o arquivo "{participation_js}" (veja a opção "-o").')
+    else:
         with open(participation_js, 'w', encoding='utf-8') as file:
             file.write(f'{name.upper()} = {dict_to_json(info)};')
