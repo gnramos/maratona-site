@@ -177,7 +177,7 @@ def _guess_institution_UF(institution):
 
 def _hash(text):
     text = [c for c in re.sub(r'[\W_]', '', text.lower())]
-    random.seed(sum(ord(c) for c in text))
+    random.seed(sum(ord(text[i]) for i in range(0, len(text), 2)))
     random.shuffle(text)
     return ''.join(text)
 
