@@ -58,9 +58,9 @@ def _aggregate_mean_rank(df):
 
 
 def _aggregate_to_js(year, phase, df):
-    return f'{_aggregate_javascript("Mean", "Rank",  year, phase, df)}\n\n' \
-           f'{_aggregate_javascript("Count", "Girls",  year, phase, df)}\n\n' \
-           f'{_aggregate_javascript("Count", "Teams",  year, phase, df)}\n'
+    return (f'{_aggregate_javascript("Mean", "Rank",  year, phase, df)}\n\n'
+            f'{_aggregate_javascript("Count", "Girls",  year, phase, df)}\n\n'
+            f'{_aggregate_javascript("Count", "Teams",  year, phase, df)}\n')
 
 
 def _aggregate_javascript(metric, feature, year, phase, df):
@@ -130,7 +130,8 @@ def _to_js(year, phase, df):
         event[r][u][i][t] = {'Rank': int(group[1].iloc[0]['Rank']),
                              'SiteRank': int(group[1].iloc[0]['SiteRank']),
                              'Site': group[1].iloc[0]['Site'],
-                             'Short name': group[1].iloc[0]['Institution short name'],
+                             'Short name': group[1].iloc[0][
+                                'Institution short name'],
                              'Contestants': list(group[1]['FullName']),
                              'Sex': list(group[1]['Sex']),
                              'Coach': coach}

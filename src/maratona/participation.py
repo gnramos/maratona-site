@@ -17,7 +17,8 @@ def update_contestants(contestants, year, phase, df):
 
 
 def update_institutions(institutions, year, phase, df):
-    df = df[df['Role'] == 'Contestant'].sort_values(by=['Region', 'UF', 'Site', 'Rank'])
+    df = df[df['Role'] == 'Contestant'].sort_values(by=['Region', 'UF', 'Site',
+                                                        'Rank'])
     for group, group_df in df.groupby(['Region', 'UF', 'Site', 'Institution']):
         uf, inst = group[1], group[-1]
 
@@ -37,7 +38,8 @@ def to_file(name, info, overwrite=False):
     participation_js = f'../docs/js/data/{name.lower()}.js'
 
     if os.path.isfile(participation_js) and not overwrite:
-        print(f'Não sobrescrever o arquivo "{participation_js}" (veja a opção "-o").')
+        print(f'Não sobrescrever o arquivo "{participation_js}" '
+              '(veja a opção "-o").')
     else:
         with open(participation_js, 'w', encoding='utf-8') as file:
             file.write(f'{name.upper()} = {dict_to_json(info)};')
