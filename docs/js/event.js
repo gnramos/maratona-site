@@ -209,7 +209,6 @@ function teamChanged() {
   statHeader.innerHTML = current("team");
   var heightPx = statHeader.clientHeight / 2;
 
-  console.log(rankImg(current("phase"), heightPx, teamInfo["Rank"]));
   statHeader.innerHTML = `${rankImg(current("phase"), heightPx, teamInfo["Rank"])} ${statHeader.innerHTML}`;
   if (current("phase") == PHASES[0])
     statHeader.innerHTML = `${rankImg(current("phase"), heightPx, teamInfo["SiteRank"])} ${statHeader.innerHTML}`;
