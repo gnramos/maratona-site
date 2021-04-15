@@ -5,6 +5,7 @@ GROUPS = ['Region', 'UF', 'Institution']
 
 
 def _aggregate_count_girls(df):
+    df = df[(df['Role'] == 'Contestant') & (df['Sex'] == 'Female')]
     count, filters = {}, []
     for col in GROUPS:
         filters.append(col)

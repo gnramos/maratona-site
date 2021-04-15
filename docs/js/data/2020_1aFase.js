@@ -8738,7 +8738,7 @@ CONTESTS[2020]["1aFase"] = {
       "Centro Federal de Educação Tecnológica Celso Suckow da Fonseca": {
         "The Backspaces Boys": {
           "Rank": 356,
-          "SiteRank": 24,
+          "SiteRank": 28,
           "Site": "Rio de Janeiro",
           "Short name": "CEFET/RJ",
           "Contestants": [
@@ -8757,7 +8757,7 @@ CONTESTS[2020]["1aFase"] = {
       "Centro Federal de Educação Tecnológica Celso Suckow da Fonseca - Campus Petrópolis": {
         "Aff, tá em C++": {
           "Rank": 637,
-          "SiteRank": 35,
+          "SiteRank": 39,
           "Site": "Rio de Janeiro",
           "Short name": "CEFET/RJ Petrópolis",
           "Contestants": [
@@ -8774,7 +8774,7 @@ CONTESTS[2020]["1aFase"] = {
         },
         "JAVAiTarde": {
           "Rank": 189,
-          "SiteRank": 14,
+          "SiteRank": 17,
           "Site": "Rio de Janeiro",
           "Short name": "CEFET/RJ Petrópolis",
           "Contestants": [
@@ -8791,7 +8791,7 @@ CONTESTS[2020]["1aFase"] = {
         },
         "O.py tá on": {
           "Rank": 418,
-          "SiteRank": 29,
+          "SiteRank": 33,
           "Site": "Rio de Janeiro",
           "Short name": "CEFET/RJ Petrópolis",
           "Contestants": [
@@ -8808,7 +8808,7 @@ CONTESTS[2020]["1aFase"] = {
         },
         "PD pá": {
           "Rank": 61,
-          "SiteRank": 3,
+          "SiteRank": 5,
           "Site": "Rio de Janeiro",
           "Short name": "CEFET/RJ Petrópolis",
           "Contestants": [
@@ -8825,7 +8825,7 @@ CONTESTS[2020]["1aFase"] = {
         },
         "sem IDEia pro nome": {
           "Rank": 198,
-          "SiteRank": 15,
+          "SiteRank": 18,
           "Site": "Rio de Janeiro",
           "Short name": "CEFET/RJ Petrópolis",
           "Contestants": [
@@ -8844,7 +8844,7 @@ CONTESTS[2020]["1aFase"] = {
       "Centro Universitário Serra dos Órgãos - UNIFESO": {
         "Os bons": {
           "Rank": 448,
-          "SiteRank": 32,
+          "SiteRank": 36,
           "Site": "Rio de Janeiro",
           "Short name": "UNIFESO",
           "Contestants": [
@@ -8861,7 +8861,7 @@ CONTESTS[2020]["1aFase"] = {
         },
         "Rubber Ducks": {
           "Rank": 255,
-          "SiteRank": 18,
+          "SiteRank": 21,
           "Site": "Rio de Janeiro",
           "Short name": "UNIFESO",
           "Contestants": [
@@ -8878,7 +8878,7 @@ CONTESTS[2020]["1aFase"] = {
         },
         "TCC do ^o": {
           "Rank": 267,
-          "SiteRank": 20,
+          "SiteRank": 23,
           "Site": "Rio de Janeiro",
           "Short name": "UNIFESO",
           "Contestants": [
@@ -8894,10 +8894,80 @@ CONTESTS[2020]["1aFase"] = {
           "Coach": "Rafael Gomes Monteiro"
         }
       },
+      "Instituto Militar de Engenharia": {
+        "0xC0000005": {
+          "Rank": 48,
+          "SiteRank": 4,
+          "Site": "Rio de Janeiro",
+          "Short name": "IME",
+          "Contestants": [
+            "Guilherme De Sá Menezes",
+            "Arnon Mello Barbosa",
+            "Gabriel Vinícius De Souza Silva"
+          ],
+          "Sex": [
+            "Male",
+            "Male",
+            "Male"
+          ],
+          "Coach": "Claudia Justel"
+        },
+        "Time 3": {
+          "Rank": 306,
+          "SiteRank": 26,
+          "Site": "Rio de Janeiro",
+          "Short name": "IME",
+          "Contestants": [
+            "Pedro Novaes Carnevale",
+            "Rafael Tchen Yin Hang Wei",
+            "Alexandre Belfort De Almeida Chiacchio"
+          ],
+          "Sex": [
+            "Male",
+            "Male",
+            "Male"
+          ],
+          "Coach": "Claudia Justel"
+        },
+        "Time 4": {
+          "Rank": 101,
+          "SiteRank": 7,
+          "Site": "Rio de Janeiro",
+          "Short name": "IME",
+          "Contestants": [
+            "Bruno Gorresen Mello",
+            "Pietro Motta Geronimi",
+            "João Miguel De Lima Filho"
+          ],
+          "Sex": [
+            "Male",
+            "Male",
+            "Male"
+          ],
+          "Coach": "Claudia Justel"
+        },
+        "WA em O(1)": {
+          "Rank": 30,
+          "SiteRank": 2,
+          "Site": "Rio de Janeiro",
+          "Short name": "IME",
+          "Contestants": [
+            "Sergio Macário",
+            "Caio Rocha",
+            "Davi Holanda"
+          ],
+          "Sex": [
+            "Male",
+            "Male",
+            "Male"
+          ],
+          "Coach": "Claudia Justel"
+        }
+      },
       "Pontificia Universidade Catolica do Rio de Janeiro": {
         "Equipe 11": {
           "Rank": 454,
-          "SiteRank": 34,
+          "SiteRank": 38,
           "Site": "Rio de Janeiro",
           "Short name": "PUC Rio de Janeiro",
           "Contestants": [
@@ -8914,7 +8984,7 @@ CONTESTS[2020]["1aFase"] = {
         },
         "Equipe 12": {
           "Rank": 436,
-          "SiteRank": 31,
+          "SiteRank": 35,
           "Site": "Rio de Janeiro",
           "Short name": "PUC Rio de Janeiro",
           "Contestants": [
@@ -8931,7 +9001,7 @@ CONTESTS[2020]["1aFase"] = {
         },
         "Equipe 13": {
           "Rank": 144,
-          "SiteRank": 9,
+          "SiteRank": 12,
           "Site": "Rio de Janeiro",
           "Short name": "PUC Rio de Janeiro",
           "Contestants": [
@@ -8948,7 +9018,7 @@ CONTESTS[2020]["1aFase"] = {
         },
         "Equipe 14": {
           "Rank": 154,
-          "SiteRank": 10,
+          "SiteRank": 13,
           "Site": "Rio de Janeiro",
           "Short name": "PUC Rio de Janeiro",
           "Contestants": [
@@ -8965,7 +9035,7 @@ CONTESTS[2020]["1aFase"] = {
         },
         "Equipe 2": {
           "Rank": 378,
-          "SiteRank": 26,
+          "SiteRank": 30,
           "Site": "Rio de Janeiro",
           "Short name": "PUC Rio de Janeiro",
           "Contestants": [
@@ -8982,7 +9052,7 @@ CONTESTS[2020]["1aFase"] = {
         },
         "Equipe 4": {
           "Rank": 363,
-          "SiteRank": 25,
+          "SiteRank": 29,
           "Site": "Rio de Janeiro",
           "Short name": "PUC Rio de Janeiro",
           "Contestants": [
@@ -8999,7 +9069,7 @@ CONTESTS[2020]["1aFase"] = {
         },
         "Equipe 6": {
           "Rank": 396,
-          "SiteRank": 27,
+          "SiteRank": 31,
           "Site": "Rio de Janeiro",
           "Short name": "PUC Rio de Janeiro",
           "Contestants": [
@@ -9016,7 +9086,7 @@ CONTESTS[2020]["1aFase"] = {
         },
         "Equipe 8": {
           "Rank": 173,
-          "SiteRank": 13,
+          "SiteRank": 16,
           "Site": "Rio de Janeiro",
           "Short name": "PUC Rio de Janeiro",
           "Contestants": [
@@ -9033,7 +9103,7 @@ CONTESTS[2020]["1aFase"] = {
         },
         "JÁ ERA": {
           "Rank": 293,
-          "SiteRank": 22,
+          "SiteRank": 25,
           "Site": "Rio de Janeiro",
           "Short name": "PUC Rio de Janeiro",
           "Contestants": [
@@ -9050,7 +9120,7 @@ CONTESTS[2020]["1aFase"] = {
         },
         "NP-Lúcia": {
           "Rank": 34,
-          "SiteRank": 2,
+          "SiteRank": 3,
           "Site": "Rio de Janeiro",
           "Short name": "PUC Rio de Janeiro",
           "Contestants": [
@@ -9067,7 +9137,7 @@ CONTESTS[2020]["1aFase"] = {
         },
         "VIM pela camisa": {
           "Rank": 205,
-          "SiteRank": 16,
+          "SiteRank": 19,
           "Site": "Rio de Janeiro",
           "Short name": "PUC Rio de Janeiro",
           "Contestants": [
@@ -9086,7 +9156,7 @@ CONTESTS[2020]["1aFase"] = {
       "Universidade Federal Fluminense - Polo Universitário de Rio das Ostras": {
         "C#Boys and JavaGirl": {
           "Rank": 339,
-          "SiteRank": 23,
+          "SiteRank": 27,
           "Site": "Rio de Janeiro",
           "Short name": "UFF-PURO",
           "Contestants": [
@@ -9103,7 +9173,7 @@ CONTESTS[2020]["1aFase"] = {
         },
         "EulerBit": {
           "Rank": 453,
-          "SiteRank": 33,
+          "SiteRank": 37,
           "Site": "Rio de Janeiro",
           "Short name": "UFF-PURO",
           "Contestants": [
@@ -9120,7 +9190,7 @@ CONTESTS[2020]["1aFase"] = {
         },
         "FLABIT": {
           "Rank": 664,
-          "SiteRank": 37,
+          "SiteRank": 41,
           "Site": "Rio de Janeiro",
           "Short name": "UFF-PURO",
           "Contestants": [
@@ -9137,7 +9207,7 @@ CONTESTS[2020]["1aFase"] = {
         },
         "FSociety": {
           "Rank": 266,
-          "SiteRank": 19,
+          "SiteRank": 22,
           "Site": "Rio de Janeiro",
           "Short name": "UFF-PURO",
           "Contestants": [
@@ -9154,7 +9224,7 @@ CONTESTS[2020]["1aFase"] = {
         },
         "GEJBuffers": {
           "Rank": 417,
-          "SiteRank": 28,
+          "SiteRank": 32,
           "Site": "Rio de Janeiro",
           "Short name": "UFF-PURO",
           "Contestants": [
@@ -9171,7 +9241,7 @@ CONTESTS[2020]["1aFase"] = {
         },
         "Garotes de programa": {
           "Rank": 649,
-          "SiteRank": 36,
+          "SiteRank": 40,
           "Site": "Rio de Janeiro",
           "Short name": "UFF-PURO",
           "Contestants": [
@@ -9188,7 +9258,7 @@ CONTESTS[2020]["1aFase"] = {
         },
         "Turminha do slby": {
           "Rank": 121,
-          "SiteRank": 8,
+          "SiteRank": 11,
           "Site": "Rio de Janeiro",
           "Short name": "UFF-PURO",
           "Contestants": [
@@ -9207,7 +9277,7 @@ CONTESTS[2020]["1aFase"] = {
       "Universidade Federal Rural do Rio de Janeiro": {
         "ATISLabs": {
           "Rank": 103,
-          "SiteRank": 5,
+          "SiteRank": 8,
           "Site": "Rio de Janeiro",
           "Short name": "UFRRJ",
           "Contestants": [
@@ -9224,7 +9294,7 @@ CONTESTS[2020]["1aFase"] = {
         },
         "Capivara++": {
           "Rank": 168,
-          "SiteRank": 12,
+          "SiteRank": 15,
           "Site": "Rio de Janeiro",
           "Short name": "UFRRJ",
           "Contestants": [
@@ -9243,7 +9313,7 @@ CONTESTS[2020]["1aFase"] = {
       "Universidade Federal do Rio de Janeiro": {
         "Os Foragidos": {
           "Rank": 69,
-          "SiteRank": 4,
+          "SiteRank": 6,
           "Site": "Rio de Janeiro",
           "Short name": "UFRJ",
           "Contestants": [
@@ -9277,7 +9347,7 @@ CONTESTS[2020]["1aFase"] = {
         },
         "Toss a balloon to your coder": {
           "Rank": 110,
-          "SiteRank": 6,
+          "SiteRank": 9,
           "Site": "Rio de Janeiro",
           "Short name": "UFRJ",
           "Contestants": [
@@ -9294,7 +9364,7 @@ CONTESTS[2020]["1aFase"] = {
         },
         "Trio [Nome a ser definido]": {
           "Rank": 167,
-          "SiteRank": 11,
+          "SiteRank": 14,
           "Site": "Rio de Janeiro",
           "Short name": "UFRJ",
           "Contestants": [
@@ -9313,7 +9383,7 @@ CONTESTS[2020]["1aFase"] = {
       "Universidade do Estado do Rio de Janeiro": {
         "FULLSCORETRIO": {
           "Rank": 252,
-          "SiteRank": 17,
+          "SiteRank": 20,
           "Site": "Rio de Janeiro",
           "Short name": "UERJ",
           "Contestants": [
@@ -9330,7 +9400,7 @@ CONTESTS[2020]["1aFase"] = {
         },
         "FalhaDeSegmentação": {
           "Rank": 429,
-          "SiteRank": 30,
+          "SiteRank": 34,
           "Site": "Rio de Janeiro",
           "Short name": "UERJ",
           "Contestants": [
@@ -9347,7 +9417,7 @@ CONTESTS[2020]["1aFase"] = {
         },
         "UERJLRP": {
           "Rank": 268,
-          "SiteRank": 21,
+          "SiteRank": 24,
           "Site": "Rio de Janeiro",
           "Short name": "UERJ",
           "Contestants": [
@@ -9364,7 +9434,7 @@ CONTESTS[2020]["1aFase"] = {
         },
         "UERJPP": {
           "Rank": 111,
-          "SiteRank": 7,
+          "SiteRank": 10,
           "Site": "Rio de Janeiro",
           "Short name": "UERJ",
           "Contestants": [
@@ -10459,76 +10529,6 @@ CONTESTS[2020]["1aFase"] = {
             "Male"
           ],
           "Coach": "Marcio Crocomo"
-        }
-      },
-      "Instituto Militar de Engenharia": {
-        "0xC0000005": {
-          "Rank": 48,
-          "SiteRank": 2,
-          "Site": "Rio de Janeiro",
-          "Short name": "IME",
-          "Contestants": [
-            "Guilherme De Sá Menezes",
-            "Arnon Mello Barbosa",
-            "Gabriel Vinícius De Souza Silva"
-          ],
-          "Sex": [
-            "Male",
-            "Male",
-            "Male"
-          ],
-          "Coach": "Claudia Justel"
-        },
-        "Time 3": {
-          "Rank": 306,
-          "SiteRank": 4,
-          "Site": "Rio de Janeiro",
-          "Short name": "IME",
-          "Contestants": [
-            "Pedro Novaes Carnevale",
-            "Rafael Tchen Yin Hang Wei",
-            "Alexandre Belfort De Almeida Chiacchio"
-          ],
-          "Sex": [
-            "Male",
-            "Male",
-            "Male"
-          ],
-          "Coach": "Claudia Justel"
-        },
-        "Time 4": {
-          "Rank": 101,
-          "SiteRank": 3,
-          "Site": "Rio de Janeiro",
-          "Short name": "IME",
-          "Contestants": [
-            "Bruno Gorresen Mello",
-            "Pietro Motta Geronimi",
-            "João Miguel De Lima Filho"
-          ],
-          "Sex": [
-            "Male",
-            "Male",
-            "Male"
-          ],
-          "Coach": "Claudia Justel"
-        },
-        "WA em O(1)": {
-          "Rank": 30,
-          "SiteRank": 1,
-          "Site": "Rio de Janeiro",
-          "Short name": "IME",
-          "Contestants": [
-            "Sergio Macário",
-            "Caio Rocha",
-            "Davi Holanda"
-          ],
-          "Sex": [
-            "Male",
-            "Male",
-            "Male"
-          ],
-          "Coach": "Claudia Justel"
         }
       },
       "Instituto Tecnológico de Aeronautica": {
@@ -14471,7 +14471,7 @@ AGGREGATED["Mean"]["Rank"][2020]["1aFase"] = {
       }
     },
     "RJ": {
-      "Value": 284.8095238095238,
+      "Value": 270.5869565217391,
       "Centro Federal de Educação Tecnológica Celso Suckow da Fonseca": {
         "Value": 356.0
       },
@@ -14480,6 +14480,9 @@ AGGREGATED["Mean"]["Rank"][2020]["1aFase"] = {
       },
       "Centro Universitário Serra dos Órgãos - UNIFESO": {
         "Value": 323.3333333333333
+      },
+      "Instituto Militar de Engenharia": {
+        "Value": 121.25
       },
       "Pontificia Universidade Catolica do Rio de Janeiro": {
         "Value": 270.1111111111111
@@ -14498,7 +14501,7 @@ AGGREGATED["Mean"]["Rank"][2020]["1aFase"] = {
       }
     },
     "SP": {
-      "Value": 368.7297668038409,
+      "Value": 374.28330995792425,
       "Centro Universitario Municipal de Franca": {
         "Value": 337.0
       },
@@ -14564,9 +14567,6 @@ AGGREGATED["Mean"]["Rank"][2020]["1aFase"] = {
       },
       "Instituto Federal de São Paulo - Campus Piracicaba": {
         "Value": 492.7692307692308
-      },
-      "Instituto Militar de Engenharia": {
-        "Value": 121.25
       },
       "Instituto Tecnológico de Aeronautica": {
         "Value": 168.9090909090909
@@ -14746,23 +14746,17 @@ if (AGGREGATED["Count"]["Girls"][2020] === undefined)
 
 AGGREGATED["Count"]["Girls"][2020]["1aFase"] = {
   "Centro-Oeste": {
-    "Value": 26,
+    "Value": 24,
     "DF": {
-      "Value": 16,
+      "Value": 14,
       "Centro Universitário IESB": {
         "Value": 2
-      },
-      "Centro Universitário de Brasília": {
-        "Value": 0
       },
       "Instituto Federal de Educação, Ciência e Tecnologia de Brasília": {
         "Value": 1
       },
       "Universidade de Brasília": {
-        "Value": 13
-      },
-      "Universidade de Brasília - Faculdade UnB Gama": {
-        "Value": 0
+        "Value": 11
       }
     },
     "GO": {
@@ -14770,29 +14764,17 @@ AGGREGATED["Count"]["Girls"][2020]["1aFase"] = {
       "Instituto Federal Goiano - Campus Rio Verde": {
         "Value": 1
       },
-      "Instituto de Informática - UFG": {
-        "Value": 0
-      },
       "Pontifícia Universidade Católica de Goiás": {
         "Value": 3
       },
       "Unidade Universitária de Ciências Exatas e Tecnológicas - UEG": {
         "Value": 1
-      },
-      "Universidade Federal de Goiás - Câmpus Jataí": {
-        "Value": 0
-      },
-      "Universidade de Rio Verde": {
-        "Value": 0
       }
     },
     "MS": {
       "Value": 4,
       "Campus de Ponta Porã - Universidade Federal de Mato Grosso do Sul": {
         "Value": 3
-      },
-      "Faculdade de Computação - UFMS": {
-        "Value": 0
       },
       "Universidade Federal da Grande Dourados": {
         "Value": 1
@@ -14802,60 +14784,36 @@ AGGREGATED["Count"]["Girls"][2020]["1aFase"] = {
       "Value": 1,
       "Universidade Federal de Mato Grosso - Campus Cuiabá": {
         "Value": 1
-      },
-      "Universidade do Estado de Mato Grosso": {
-        "Value": 0
       }
     }
   },
   "Nordeste": {
-    "Value": 105,
+    "Value": 77,
     "AL": {
       "Value": 5,
       "Universidade Federal de Alagoas": {
         "Value": 5
-      },
-      "Universidade Federal de Alagoas - Campus Arapiraca": {
-        "Value": 0
       }
     },
     "BA": {
-      "Value": 23,
-      "UNIME - União Metropolitana de Educação e Cultura": {
-        "Value": 0
-      },
+      "Value": 13,
       "Universidade Catolica do Salvador": {
         "Value": 7
       },
       "Universidade Estadual de Feira de Santana": {
-        "Value": 6
+        "Value": 2
       },
       "Universidade Estadual de Santa Cruz": {
-        "Value": 4
-      },
-      "Universidade Estadual do Sudoeste da Bahia": {
-        "Value": 1
+        "Value": 2
       },
       "Universidade Estadual do Sudoeste da Bahia - Campus Jequié": {
-        "Value": 5
-      },
-      "Universidade Federal da Bahia": {
-        "Value": 0
+        "Value": 2
       }
     },
     "CE": {
-      "Value": 28,
-      "Centro Universitário Christus": {
-        "Value": 1
-      },
-      "Faculdade Lourenço Filho": {
-        "Value": 0
-      },
+      "Value": 27,
       "Faculdade Paraíso do Ceará": {
         "Value": 3
-      },
-      "Instituto Federal de Educação, Ciência e Tecnologia do Ceará - Campus Aracati": {
-        "Value": 0
       },
       "Instituto Federal de Educação, Ciência e Tecnologia do Ceará - Campus Crato": {
         "Value": 1
@@ -14890,44 +14848,32 @@ AGGREGATED["Count"]["Girls"][2020]["1aFase"] = {
       "Faculdade de Balsas": {
         "Value": 1
       },
-      "Unidade de Ensino Superior Dom Bosco - UNDB": {
-        "Value": 0
-      },
       "Universidade Federal do Maranhão": {
         "Value": 1
       }
     },
     "PB": {
-      "Value": 18,
-      "Centro Universitário Unifacisa": {
-        "Value": 0
-      },
+      "Value": 12,
       "Centro Universitário de João Pessoa": {
         "Value": 1
       },
-      "Instituto Federal de Educação, Ciência e Tecnologia da Paraíba - Campus Campina Grande": {
-        "Value": 0
-      },
       "Instituto Federal de Educação, Ciência e Tecnologia da Paraíba - Campus João Pessoa": {
-        "Value": 9
-      },
-      "Universidade Estadual da Paraíba": {
-        "Value": 1
+        "Value": 5
       },
       "Universidade Federal da Paraíba": {
         "Value": 1
       },
       "Universidade Federal de Campina Grande": {
-        "Value": 5
+        "Value": 4
       },
       "Universidade do Vale do Paraíba": {
         "Value": 1
       }
     },
     "PE": {
-      "Value": 9,
+      "Value": 6,
       "CESAR School": {
-        "Value": 5
+        "Value": 2
       },
       "Universidade Federal Rural de Pernambuco": {
         "Value": 1
@@ -14940,30 +14886,18 @@ AGGREGATED["Count"]["Girls"][2020]["1aFase"] = {
       }
     },
     "PI": {
-      "Value": 9,
-      "Instituto Federal de Educação, Ciência e Tecnologia do Piauí": {
-        "Value": 1
-      },
-      "Universidade Estadual do Piauí": {
-        "Value": 0
-      },
-      "Universidade Estadual do Piauí - Campus de Parnaíba": {
-        "Value": 0
-      },
+      "Value": 2,
       "Universidade Federal do Piauí": {
-        "Value": 8
-      },
-      "Universidade Federal do Piauí - Campus Picos": {
-        "Value": 0
+        "Value": 2
       }
     },
     "RN": {
-      "Value": 9,
+      "Value": 8,
       "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte - Campus Natal-Central": {
         "Value": 2
       },
       "Universidade Federal do Rio Grande do Norte": {
-        "Value": 6
+        "Value": 5
       },
       "Universidade do Estado do Rio Grande do Norte": {
         "Value": 1
@@ -14973,45 +14907,30 @@ AGGREGATED["Count"]["Girls"][2020]["1aFase"] = {
       "Value": 2,
       "Faculdade de Tecnologia SENAI CIMATEC": {
         "Value": 2
-      },
-      "Universidade Federal de Sergipe": {
-        "Value": 0
       }
     }
   },
   "Norte": {
-    "Value": 104,
+    "Value": 60,
     "AC": {
-      "Value": 3,
-      "Centro Universitário U:VERSE": {
-        "Value": 1
-      },
-      "Faculdade Meta": {
-        "Value": 0
-      },
-      "Instituto Federal de Educação, Ciência e Tecnologia do Acre": {
-        "Value": 0
-      },
+      "Value": 2,
       "Universidade Federal do Acre": {
         "Value": 2
       }
     },
     "AM": {
-      "Value": 47,
+      "Value": 28,
       "Institute of Computing - Federal University of Amazonas": {
-        "Value": 16
+        "Value": 6
       },
       "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas": {
-        "Value": 9
+        "Value": 8
       },
       "UNINORTE - Laureate International Universities": {
-        "Value": 7
+        "Value": 3
       },
       "Universidade Federal do Amazonas": {
-        "Value": 9
-      },
-      "Universidade Federal do Amazonas - Campus Itacoatiara": {
-        "Value": 0
+        "Value": 5
       },
       "Universidade do Estado do Amazonas": {
         "Value": 5
@@ -15021,15 +14940,15 @@ AGGREGATED["Count"]["Girls"][2020]["1aFase"] = {
       }
     },
     "AP": {
-      "Value": 8,
+      "Value": 6,
       "Universidade Federal do Amapá": {
-        "Value": 8
+        "Value": 6
       }
     },
     "PA": {
-      "Value": 34,
+      "Value": 20,
       "Instituto Federal de Educação, Ciência e Tecnologia do Pará - IFPA Campus Itaituba": {
-        "Value": 4
+        "Value": 3
       },
       "Instituto Federal de Educação, Ciência e Tecnologia do Triângulo Mineiro campus Uberaba Parque Tecnológico": {
         "Value": 1
@@ -15038,22 +14957,16 @@ AGGREGATED["Count"]["Girls"][2020]["1aFase"] = {
         "Value": 3
       },
       "Universidade Federal do Oeste do Pará": {
-        "Value": 22
+        "Value": 10
       },
       "Universidade Federal do Pará": {
-        "Value": 4
+        "Value": 3
       }
     },
     "RO": {
-      "Value": 11,
+      "Value": 3,
       "Fundação Universidade Federal de Rondônia": {
-        "Value": 11
-      }
-    },
-    "RR": {
-      "Value": 0,
-      "Universidade Federal de Roraima": {
-        "Value": 0
+        "Value": 3
       }
     },
     "TO": {
@@ -15064,56 +14977,29 @@ AGGREGATED["Count"]["Girls"][2020]["1aFase"] = {
     }
   },
   "Sudeste": {
-    "Value": 238,
+    "Value": 176,
     "ES": {
       "Value": 3,
-      "Centro Universitário Norte do Espírito Santo - Universidade Federal do Espírito Santo": {
-        "Value": 0
-      },
-      "Centro Universitário Vila Velha": {
-        "Value": 0
-      },
       "Instituto Federal de Educação, Ciência e Tecnologia do Espírito Santo": {
         "Value": 1
-      },
-      "UFES-Campus Alegre": {
-        "Value": 0
       },
       "Universidade Federal do Espirito Santo": {
         "Value": 2
       }
     },
     "MG": {
-      "Value": 108,
+      "Value": 90,
       "Centro Federal de Educação Tecnológica de Minas Gerais - Campus 2": {
         "Value": 2
       },
       "Centro Federal de Educação Tecnológica de Minas Gerais Campus Timóteo": {
         "Value": 6
       },
-      "Centro Universitário do Planalto de Araxá": {
-        "Value": 0
-      },
-      "Centro de Ensino Superior de Juiz de Fora": {
-        "Value": 0
-      },
-      "FAI - Centro de Ensino Superior em Gestão, Tecnologia e Educação": {
-        "Value": 0
-      },
       "Faculdade Governador Ozanam Coelho": {
         "Value": 2
       },
-      "Faculdade Única de Ipatinga (Única Educacional)": {
-        "Value": 0
-      },
       "INATEL - Instituto Nacional de Telecomunicações": {
         "Value": 2
-      },
-      "Instituto Federal Do Norte de Minas Gerais - Campus Montes Claros": {
-        "Value": 0
-      },
-      "Instituto Federal de Educação, Ciência e Tecnologia do Sul de Minas Gerais - Campus Juiz de Fora": {
-        "Value": 0
       },
       "Instituto Federal de Educação, Ciência e Tecnologia do Sul de Minas Gerais - Campus Machado": {
         "Value": 1
@@ -15122,16 +15008,7 @@ AGGREGATED["Count"]["Girls"][2020]["1aFase"] = {
         "Value": 12
       },
       "Instituto Federal de Educação, Ciência e Tecnologia do Sul de Minas Gerais - Campus Poços de Caldas": {
-        "Value": 10
-      },
-      "Instituto Federal do Triângulo Mineiro Campus Uberaba Parque Tecnológico": {
-        "Value": 0
-      },
-      "Pontifícia Universidade Católica de Minas Gerais": {
-        "Value": 0
-      },
-      "Universidade Estadual de Montes Claros - UNIMONTES": {
-        "Value": 0
+        "Value": 9
       },
       "Universidade Federal de Itajubá - Campus Itabira": {
         "Value": 4
@@ -15142,92 +15019,50 @@ AGGREGATED["Count"]["Girls"][2020]["1aFase"] = {
       "Universidade Federal de Minas Gerais": {
         "Value": 11
       },
-      "Universidade Federal de Ouro Preto": {
-        "Value": 0
-      },
       "Universidade Federal de São João Del Rei - CAP": {
         "Value": 4
       },
       "Universidade Federal de Uberlândia": {
-        "Value": 14
+        "Value": 13
       },
       "Universidade Federal de Uberlândia - Campus Monte Carmelo - Sistemas de Informação": {
-        "Value": 5
+        "Value": 1
       },
       "Universidade Federal de Viçosa": {
         "Value": 4
       },
       "Universidade Federal de Viçosa - Campus Florestal": {
-        "Value": 26
+        "Value": 15
       },
       "Universidade Federal do Triângulo Mineiro": {
-        "Value": 4
-      },
-      "Universidade do Vale do Sapucaí - UNIVAS": {
-        "Value": 0
+        "Value": 3
       }
     },
     "RJ": {
-      "Value": 18,
-      "Centro Federal de Educação Tecnológica Celso Suckow da Fonseca": {
-        "Value": 0
-      },
+      "Value": 12,
       "Centro Federal de Educação Tecnológica Celso Suckow da Fonseca - Campus Petrópolis": {
         "Value": 4
-      },
-      "Centro Universitário Serra dos Órgãos - UNIFESO": {
-        "Value": 1
       },
       "Pontificia Universidade Catolica do Rio de Janeiro": {
         "Value": 2
       },
       "Universidade Federal Fluminense - Polo Universitário de Rio das Ostras": {
-        "Value": 6
-      },
-      "Universidade Federal Rural do Rio de Janeiro": {
-        "Value": 0
-      },
-      "Universidade Federal do Rio de Janeiro": {
         "Value": 5
       },
-      "Universidade do Estado do Rio de Janeiro": {
-        "Value": 0
+      "Universidade Federal do Rio de Janeiro": {
+        "Value": 1
       }
     },
     "SP": {
-      "Value": 109,
-      "Centro Universitario Municipal de Franca": {
-        "Value": 0
-      },
-      "Centro Universitário Hermínio Ometto": {
-        "Value": 0
-      },
-      "Centro Universitário Salesiano de São Paulo": {
-        "Value": 0
-      },
-      "Centro Universitário Senac-SP": {
-        "Value": 0
-      },
-      "Centro Universitário da FEI": {
-        "Value": 0
-      },
-      "Escola de Engenharia de Piracicaba": {
-        "Value": 0
-      },
-      "Faculdade de Informática e Administração Paulista": {
-        "Value": 0
-      },
+      "Value": 71,
       "Faculdade de Tecnologia Termomecanica": {
-        "Value": 4
+        "Value": 2
       },
       "Faculdade de Tecnologia de Cruzeiro": {
         "Value": 1
       },
       "Faculdade de Tecnologia de Garça": {
         "Value": 2
-      },
-      "Faculdade de Tecnologia de Mococa": {
-        "Value": 0
       },
       "Faculdade de Tecnologia de Sorocaba": {
         "Value": 1
@@ -15236,10 +15071,7 @@ AGGREGATED["Count"]["Girls"][2020]["1aFase"] = {
         "Value": 4
       },
       "Faculdade de Tecnologia de São Paulo": {
-        "Value": 5
-      },
-      "Faculdades Integradas de Bauru": {
-        "Value": 0
+        "Value": 2
       },
       "Fatec Bauru": {
         "Value": 3
@@ -15254,43 +15086,28 @@ AGGREGATED["Count"]["Girls"][2020]["1aFase"] = {
         "Value": 1
       },
       "Instituto Federal de São Paulo": {
-        "Value": 6
-      },
-      "Instituto Federal de São Paulo - Barretos": {
-        "Value": 0
-      },
-      "Instituto Federal de São Paulo - Campus Piracicaba": {
         "Value": 4
       },
-      "Instituto Militar de Engenharia": {
+      "Instituto Federal de São Paulo - Campus Piracicaba": {
         "Value": 4
       },
       "Instituto Tecnológico de Aeronautica": {
         "Value": 1
       },
       "Pontifícia Universidade Católica de Campinas": {
-        "Value": 4
+        "Value": 1
       },
       "UNESP - Universidade Estadual Paulista (Faculdade de Ciências e Tecnologia - Presidente Prudente)": {
-        "Value": 2
+        "Value": 1
       },
       "UNESP - Universidade Estadual Paulista (IBILCE)": {
         "Value": 2
       },
       "UNESP - Universidade Estadual Paulista - (Faculdade de Ciências - Bauru)": {
-        "Value": 5
+        "Value": 1
       },
       "UNIVEM - Centro Universitário Eurípides de Marília": {
         "Value": 2
-      },
-      "UNOESTE - Universidade do Oeste Paulista": {
-        "Value": 0
-      },
-      "Universidade Católica de Santos": {
-        "Value": 0
-      },
-      "Universidade Estadual Paulista Rio Claro": {
-        "Value": 0
       },
       "Universidade Estadual de Campinas": {
         "Value": 1
@@ -15298,23 +15115,17 @@ AGGREGATED["Count"]["Girls"][2020]["1aFase"] = {
       "Universidade Federal de São Carlos": {
         "Value": 5
       },
-      "Universidade Federal de São Paulo": {
-        "Value": 0
-      },
       "Universidade Federal do ABC": {
-        "Value": 4
+        "Value": 1
       },
       "Universidade Nove de Julho": {
-        "Value": 6
+        "Value": 4
       },
       "Universidade Presbiteriana Mackenzie": {
         "Value": 4
       },
-      "Universidade São Francisco": {
-        "Value": 0
-      },
       "Universidade Virtual do Estado de São Paulo": {
-        "Value": 26
+        "Value": 12
       },
       "Universidade de São Paulo": {
         "Value": 3
@@ -15328,41 +15139,26 @@ AGGREGATED["Count"]["Girls"][2020]["1aFase"] = {
     }
   },
   "Sul": {
-    "Value": 46,
+    "Value": 28,
     "PR": {
-      "Value": 11,
+      "Value": 8,
       "Centro Universitário Internacional": {
         "Value": 2
-      },
-      "UNIOESTE - Campus Cascavel": {
-        "Value": 0
-      },
-      "UNIOESTE - Campus de Foz do Iguaçu": {
-        "Value": 0
       },
       "Universidade Estadual de Londrina": {
         "Value": 1
       },
-      "Universidade Estadual de Maringá": {
-        "Value": 0
-      },
       "Universidade Estadual do Centro-Oeste": {
-        "Value": 3
+        "Value": 1
       },
       "Universidade Federal do Paraná": {
         "Value": 1
-      },
-      "Universidade Tecnológica Federal do Paraná (UTFPR) - Campus Dois Vizinhos": {
-        "Value": 0
       },
       "Universidade Tecnológica Federal do Paraná (UTFPR) - Campus Toledo": {
         "Value": 1
       },
       "Universidade Tecnológica Federal do Paraná - Campus Curitiba": {
-        "Value": 3
-      },
-      "Universidade Tecnológica Federal do Paraná - campus Ponta Grossa": {
-        "Value": 0
+        "Value": 2
       }
     },
     "RS": {
@@ -15370,66 +15166,33 @@ AGGREGATED["Count"]["Girls"][2020]["1aFase"] = {
       "Fundação Universidade Federal do Rio Grande": {
         "Value": 4
       },
-      "Universidade Católica de Pelotas": {
-        "Value": 0
-      },
-      "Universidade Federal de Santa Maria": {
-        "Value": 0
-      },
       "Universidade Federal do Rio Grande do Sul": {
         "Value": 3
-      },
-      "Universidade Regional Integrada - Campus de Erechim": {
-        "Value": 0
-      },
-      "Universidade de Passo Fundo": {
-        "Value": 0
       }
     },
     "SC": {
-      "Value": 28,
-      "Instituto Federal Catarinense": {
-        "Value": 0
-      },
-      "Instituto Federal de Santa Catarina": {
-        "Value": 0
-      },
-      "Instituto de Ensino Superior da Grande Florianópolis": {
-        "Value": 0
-      },
-      "UNISOCIESC - Centro Universitário Sociedade Educacional de Santa Catarina": {
-        "Value": 0
-      },
+      "Value": 13,
       "UNIVILLE - Universidade da Região de Joinville": {
-        "Value": 5
+        "Value": 3
       },
       "UNOESC - Universidade do Oeste de Santa Catarina - Chapecó": {
         "Value": 2
       },
-      "UNOESC - Universidade do Oeste de Santa Catarina - São Miguel do Oeste": {
-        "Value": 0
-      },
       "Universidade Comunitária Regional de Chapecó": {
         "Value": 1
-      },
-      "Universidade Federal da Fronteira Sul": {
-        "Value": 0
-      },
-      "Universidade Federal de Santa Catarina (Campus Araranguá)": {
-        "Value": 0
       },
       "Universidade Federal de Santa Catarina (Campus Florianópolis)": {
         "Value": 1
       },
       "Universidade do Estado de Santa Catarina": {
-        "Value": 18
+        "Value": 5
       },
       "Universidade do Oeste de Santa Catarina - Joaçaba": {
         "Value": 1
       }
     }
   },
-  "Value": 519
+  "Value": 365
 };
 
 
@@ -15866,7 +15629,7 @@ AGGREGATED["Count"]["Teams"][2020]["1aFase"] = {
       }
     },
     "RJ": {
-      "Value": 37,
+      "Value": 41,
       "Centro Federal de Educação Tecnológica Celso Suckow da Fonseca": {
         "Value": 1
       },
@@ -15875,6 +15638,9 @@ AGGREGATED["Count"]["Teams"][2020]["1aFase"] = {
       },
       "Centro Universitário Serra dos Órgãos - UNIFESO": {
         "Value": 3
+      },
+      "Instituto Militar de Engenharia": {
+        "Value": 4
       },
       "Pontificia Universidade Catolica do Rio de Janeiro": {
         "Value": 11
@@ -15893,7 +15659,7 @@ AGGREGATED["Count"]["Teams"][2020]["1aFase"] = {
       }
     },
     "SP": {
-      "Value": 172,
+      "Value": 168,
       "Centro Universitario Municipal de Franca": {
         "Value": 2
       },
@@ -15959,9 +15725,6 @@ AGGREGATED["Count"]["Teams"][2020]["1aFase"] = {
       },
       "Instituto Federal de São Paulo - Campus Piracicaba": {
         "Value": 3
-      },
-      "Instituto Militar de Engenharia": {
-        "Value": 4
       },
       "Instituto Tecnológico de Aeronautica": {
         "Value": 8
