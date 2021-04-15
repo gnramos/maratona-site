@@ -17,8 +17,7 @@ def _aggregate_count_girls(df):
                     aux_dict[k] = {}
                 aux_dict = aux_dict[k]
             # json não reconhece tipos do NumPy.
-            aux_dict['Value'] = int(group[
-                group['Sex'] == 'Female']['Sex'].count())
+            aux_dict['Value'] = int(group['Sex'].count())
 
     count['Value'] = sum(item['Value'] for item in count.values())
     return count
