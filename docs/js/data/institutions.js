@@ -11,8 +11,8 @@ INSTITUTIONS = {
           "BestRank": 129
         },
         "2019": {
-          "Team": 4,
-          "BestRank": 0
+          "Team": 3,
+          "BestRank": 371
         },
         "2020": {
           "Team": 2,
@@ -161,7 +161,7 @@ INSTITUTIONS = {
           "BestRank": 248
         },
         "2020": {
-          "Team": 8,
+          "Team": 7,
           "BestRank": 332
         }
       }
@@ -219,8 +219,8 @@ INSTITUTIONS = {
           "BestRank": 290
         },
         "2019": {
-          "Team": 6,
-          "BestRank": 0
+          "Team": 5,
+          "BestRank": 504
         },
         "2020": {
           "Team": 1,
@@ -527,8 +527,8 @@ INSTITUTIONS = {
           "BestRank": 190
         },
         "2019": {
-          "Team": 6,
-          "BestRank": 0
+          "Team": 5,
+          "BestRank": 124
         }
       }
     },
@@ -541,10 +541,6 @@ INSTITUTIONS = {
         "2019": {
           "Team": 3,
           "BestRank": 253
-        },
-        "2020": {
-          "Team": 3,
-          "BestRank": 682
         }
       }
     },
@@ -563,8 +559,8 @@ INSTITUTIONS = {
           "BestRank": 510
         },
         "2020": {
-          "Team": 13,
-          "BestRank": 0
+          "Team": 7,
+          "BestRank": 304
         }
       },
       "Nacional": {
@@ -773,7 +769,7 @@ INSTITUTIONS = {
           "BestRank": 133
         },
         "2020": {
-          "Team": 5,
+          "Team": 4,
           "BestRank": 215
         }
       }
@@ -853,7 +849,7 @@ INSTITUTIONS = {
           "BestRank": 373
         },
         "2020": {
-          "Team": 3,
+          "Team": 2,
           "BestRank": 281
         }
       }
@@ -923,7 +919,7 @@ INSTITUTIONS = {
           "BestRank": 377
         },
         "2020": {
-          "Team": 2,
+          "Team": 1,
           "BestRank": 596
         }
       }
@@ -943,8 +939,8 @@ INSTITUTIONS = {
           "BestRank": 31
         },
         "2020": {
-          "Team": 17,
-          "BestRank": 0
+          "Team": 12,
+          "BestRank": 16
         }
       },
       "Nacional": {
@@ -1013,7 +1009,7 @@ INSTITUTIONS = {
           "BestRank": 172
         },
         "2020": {
-          "Team": 3,
+          "Team": 2,
           "BestRank": 206
         }
       },
@@ -1059,8 +1055,8 @@ INSTITUTIONS = {
     "Universidade Federal do Cariri": {
       "1aFase": {
         "2020": {
-          "Team": 6,
-          "BestRank": 0
+          "Team": 3,
+          "BestRank": 386
         }
       }
     }
@@ -1079,10 +1075,6 @@ INSTITUTIONS = {
         "2019": {
           "Team": 3,
           "BestRank": 211
-        },
-        "2020": {
-          "Team": 2,
-          "BestRank": 682
         }
       }
     },
@@ -1127,8 +1119,8 @@ INSTITUTIONS = {
           "BestRank": 636
         },
         "2020": {
-          "Team": 2,
-          "BestRank": 0
+          "Team": 1,
+          "BestRank": 550
         }
       }
     }
@@ -1277,8 +1269,8 @@ INSTITUTIONS = {
     "CESAR School": {
       "1aFase": {
         "2020": {
-          "Team": 3,
-          "BestRank": 0
+          "Team": 1,
+          "BestRank": 407
         }
       }
     },
@@ -1457,8 +1449,8 @@ INSTITUTIONS = {
     "Instituto Federal de Educação, Ciência e Tecnologia do Ceará - Campus Tianguá": {
       "1aFase": {
         "2019": {
-          "Team": 5,
-          "BestRank": 0
+          "Team": 4,
+          "BestRank": 184
         }
       }
     },
@@ -1499,11 +1491,11 @@ INSTITUTIONS = {
           "BestRank": 124
         },
         "2019": {
-          "Team": 6,
-          "BestRank": 0
+          "Team": 4,
+          "BestRank": 235
         },
         "2020": {
-          "Team": 4,
+          "Team": 2,
           "BestRank": 317
         }
       }
@@ -1523,7 +1515,7 @@ INSTITUTIONS = {
           "BestRank": 52
         },
         "2020": {
-          "Team": 10,
+          "Team": 8,
           "BestRank": 63
         }
       },
@@ -1567,10 +1559,6 @@ INSTITUTIONS = {
         "2018": {
           "Team": 1,
           "BestRank": 627
-        },
-        "2019": {
-          "Team": 1,
-          "BestRank": 0
         }
       }
     }
@@ -1587,8 +1575,8 @@ INSTITUTIONS = {
           "BestRank": 91
         },
         "2019": {
-          "Team": 9,
-          "BestRank": 0
+          "Team": 8,
+          "BestRank": 20
         }
       }
     },
@@ -1607,8 +1595,8 @@ INSTITUTIONS = {
           "BestRank": 10
         },
         "2020": {
-          "Team": 5,
-          "BestRank": 0
+          "Team": 4,
+          "BestRank": 18
         }
       },
       "Nacional": {
@@ -1651,7 +1639,7 @@ INSTITUTIONS = {
       },
       "1aFase": {
         "2020": {
-          "Team": 2,
+          "Team": 1,
           "BestRank": 128
         }
       }
@@ -1669,8 +1657,8 @@ INSTITUTIONS = {
           "BestRank": 639
         },
         "2019": {
-          "Team": 3,
-          "BestRank": 0
+          "Team": 2,
+          "BestRank": 626
         }
       }
     },
@@ -1793,8 +1781,8 @@ INSTITUTIONS = {
           "BestRank": 41
         },
         "2020": {
-          "Team": 6,
-          "BestRank": 0
+          "Team": 5,
+          "BestRank": 47
         }
       },
       "Nacional": {
@@ -1837,7 +1825,7 @@ INSTITUTIONS = {
     "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas": {
       "1aFase": {
         "2020": {
-          "Team": 7,
+          "Team": 5,
           "BestRank": 435
         }
       }
@@ -1845,7 +1833,7 @@ INSTITUTIONS = {
     "UNINORTE - Laureate International Universities": {
       "1aFase": {
         "2020": {
-          "Team": 3,
+          "Team": 2,
           "BestRank": 579
         }
       }
@@ -1891,8 +1879,8 @@ INSTITUTIONS = {
           "BestRank": 358
         },
         "2020": {
-          "Team": 8,
-          "BestRank": 0
+          "Team": 4,
+          "BestRank": 509
         }
       },
       "Nacional": {
@@ -1977,11 +1965,11 @@ INSTITUTIONS = {
           "BestRank": 378
         },
         "2019": {
-          "Team": 2,
-          "BestRank": 0
+          "Team": 1,
+          "BestRank": 625
         },
         "2020": {
-          "Team": 2,
+          "Team": 1,
           "BestRank": 461
         }
       }
@@ -1995,7 +1983,7 @@ INSTITUTIONS = {
       },
       "1aFase": {
         "2020": {
-          "Team": 4,
+          "Team": 1,
           "BestRank": 400
         }
       }
@@ -2040,13 +2028,9 @@ INSTITUTIONS = {
           "Team": 4,
           "BestRank": 413
         },
-        "2019": {
-          "Team": 1,
-          "BestRank": 0
-        },
         "2020": {
-          "Team": 8,
-          "BestRank": 0
+          "Team": 3,
+          "BestRank": 179
         }
       },
       "Nacional": {
@@ -2071,12 +2055,6 @@ INSTITUTIONS = {
         "2019": {
           "Team": 2,
           "BestRank": 157
-        }
-      },
-      "Nacional": {
-        "2019": {
-          "Team": 1,
-          "BestRank": 0
         }
       }
     },
@@ -2109,14 +2087,6 @@ INSTITUTIONS = {
           "BestRank": 47
         }
       }
-    },
-    "Universidade Estadual de Roraima": {
-      "1aFase": {
-        "2019": {
-          "Team": 1,
-          "BestRank": 0
-        }
-      }
     }
   },
   "TO": {
@@ -2145,7 +2115,7 @@ INSTITUTIONS = {
     "Instituto Federal do Tocantins - Campus Paraíso do Tocantins": {
       "1aFase": {
         "2020": {
-          "Team": 2,
+          "Team": 1,
           "BestRank": 624
         }
       }
@@ -2175,7 +2145,7 @@ INSTITUTIONS = {
           "BestRank": 156
         },
         "2020": {
-          "Team": 2,
+          "Team": 1,
           "BestRank": 537
         }
       }
@@ -2223,7 +2193,7 @@ INSTITUTIONS = {
           "BestRank": 80
         },
         "2020": {
-          "Team": 9,
+          "Team": 8,
           "BestRank": 27
         }
       },
@@ -2337,10 +2307,6 @@ INSTITUTIONS = {
         "2019": {
           "Team": 3,
           "BestRank": 500
-        },
-        "2020": {
-          "Team": 1,
-          "BestRank": 682
         }
       }
     },
@@ -2379,8 +2345,8 @@ INSTITUTIONS = {
           "BestRank": 249
         },
         "2020": {
-          "Team": 7,
-          "BestRank": 0
+          "Team": 3,
+          "BestRank": 573
         }
       }
     },
@@ -2449,10 +2415,6 @@ INSTITUTIONS = {
         "2018": {
           "Team": 1,
           "BestRank": 657
-        },
-        "2019": {
-          "Team": 1,
-          "BestRank": 0
         }
       }
     },
@@ -2555,8 +2517,8 @@ INSTITUTIONS = {
           "BestRank": 328
         },
         "2019": {
-          "Team": 2,
-          "BestRank": 0
+          "Team": 1,
+          "BestRank": 606
         }
       }
     },
@@ -2571,12 +2533,12 @@ INSTITUTIONS = {
           "BestRank": 101
         },
         "2019": {
-          "Team": 21,
-          "BestRank": 0
+          "Team": 20,
+          "BestRank": 89
         },
         "2020": {
-          "Team": 15,
-          "BestRank": 0
+          "Team": 10,
+          "BestRank": 54
         }
       },
       "Nacional": {
@@ -2673,8 +2635,8 @@ INSTITUTIONS = {
           "BestRank": 222
         },
         "2019": {
-          "Team": 3,
-          "BestRank": 0
+          "Team": 2,
+          "BestRank": 250
         }
       }
     },
@@ -2733,7 +2695,7 @@ INSTITUTIONS = {
           "BestRank": 279
         },
         "2020": {
-          "Team": 2,
+          "Team": 1,
           "BestRank": 259
         }
       }
@@ -2821,8 +2783,8 @@ INSTITUTIONS = {
           "BestRank": 9
         },
         "2020": {
-          "Team": 19,
-          "BestRank": 0
+          "Team": 18,
+          "BestRank": 3
         }
       },
       "Nacional": {
@@ -2871,11 +2833,11 @@ INSTITUTIONS = {
           "BestRank": 13
         },
         "2019": {
-          "Team": 16,
-          "BestRank": 0
+          "Team": 14,
+          "BestRank": 16
         },
         "2020": {
-          "Team": 21,
+          "Team": 19,
           "BestRank": 37
         }
       },
@@ -3041,8 +3003,8 @@ INSTITUTIONS = {
           "BestRank": 420
         },
         "2019": {
-          "Team": 4,
-          "BestRank": 0
+          "Team": 2,
+          "BestRank": 406
         }
       }
     },
@@ -3073,11 +3035,11 @@ INSTITUTIONS = {
           "BestRank": 542
         },
         "2019": {
-          "Team": 3,
-          "BestRank": 0
+          "Team": 2,
+          "BestRank": 278
         },
         "2020": {
-          "Team": 2,
+          "Team": 1,
           "BestRank": 280
         }
       }
@@ -3093,7 +3055,7 @@ INSTITUTIONS = {
           "BestRank": 240
         },
         "2020": {
-          "Team": 16,
+          "Team": 14,
           "BestRank": 270
         }
       },
@@ -3236,18 +3198,6 @@ INSTITUTIONS = {
         }
       }
     },
-    "Instituto Federal de Educação, Ciência e Tecnologia do Sul de Minas Gerais - Campus Machado": {
-      "1aFase": {
-        "2019": {
-          "Team": 1,
-          "BestRank": 0
-        },
-        "2020": {
-          "Team": 1,
-          "BestRank": 384
-        }
-      }
-    },
     "Instituto Federal de Minas Gerais - Campus Bambuí": {
       "1aFase": {
         "2019": {
@@ -3272,6 +3222,14 @@ INSTITUTIONS = {
         }
       }
     },
+    "Instituto Federal de Educação, Ciência e Tecnologia do Sul de Minas Gerais - Campus Machado": {
+      "1aFase": {
+        "2020": {
+          "Team": 1,
+          "BestRank": 384
+        }
+      }
+    },
     "Instituto Federal do Triângulo Mineiro Campus Uberaba Parque Tecnológico": {
       "1aFase": {
         "2020": {
@@ -3283,7 +3241,7 @@ INSTITUTIONS = {
     "Universidade Federal de São João Del Rei - CAP": {
       "1aFase": {
         "2020": {
-          "Team": 4,
+          "Team": 2,
           "BestRank": 583
         }
       }
@@ -3437,8 +3395,8 @@ INSTITUTIONS = {
           "BestRank": 46
         },
         "2019": {
-          "Team": 8,
-          "BestRank": 0
+          "Team": 7,
+          "BestRank": 44
         },
         "2020": {
           "Team": 11,
@@ -3709,7 +3667,7 @@ INSTITUTIONS = {
           "BestRank": 213
         },
         "2020": {
-          "Team": 6,
+          "Team": 4,
           "BestRank": 383
         }
       }
@@ -3775,8 +3733,8 @@ INSTITUTIONS = {
           "BestRank": 595
         },
         "2019": {
-          "Team": 5,
-          "BestRank": 0
+          "Team": 4,
+          "BestRank": 355
         }
       }
     },
@@ -3847,8 +3805,8 @@ INSTITUTIONS = {
           "BestRank": 570
         },
         "2020": {
-          "Team": 5,
-          "BestRank": 0
+          "Team": 1,
+          "BestRank": 522
         }
       },
       "Nacional": {
@@ -3921,7 +3879,7 @@ INSTITUTIONS = {
           "BestRank": 129
         },
         "2020": {
-          "Team": 3,
+          "Team": 2,
           "BestRank": 99
         }
       },
@@ -3947,8 +3905,8 @@ INSTITUTIONS = {
           "BestRank": 143
         },
         "2020": {
-          "Team": 6,
-          "BestRank": 0
+          "Team": 1,
+          "BestRank": 237
         }
       },
       "Nacional": {
@@ -4015,8 +3973,8 @@ INSTITUTIONS = {
           "BestRank": 200
         },
         "2020": {
-          "Team": 6,
-          "BestRank": 0
+          "Team": 3,
+          "BestRank": 195
         }
       }
     },
@@ -4103,7 +4061,7 @@ INSTITUTIONS = {
           "BestRank": 364
         },
         "2020": {
-          "Team": 3,
+          "Team": 2,
           "BestRank": 308
         }
       }
@@ -4205,10 +4163,6 @@ INSTITUTIONS = {
         "2018": {
           "Team": 1,
           "BestRank": 54
-        },
-        "2019": {
-          "Team": 1,
-          "BestRank": 0
         }
       }
     },
@@ -4227,8 +4181,8 @@ INSTITUTIONS = {
           "BestRank": 134
         },
         "2020": {
-          "Team": 13,
-          "BestRank": 0
+          "Team": 9,
+          "BestRank": 388
         }
       }
     },
@@ -4301,7 +4255,7 @@ INSTITUTIONS = {
           "BestRank": 90
         },
         "2020": {
-          "Team": 6,
+          "Team": 5,
           "BestRank": 130
         }
       },
@@ -4357,8 +4311,8 @@ INSTITUTIONS = {
           "BestRank": 106
         },
         "2019": {
-          "Team": 9,
-          "BestRank": 0
+          "Team": 6,
+          "BestRank": 36
         },
         "2020": {
           "Team": 3,
@@ -4394,12 +4348,6 @@ INSTITUTIONS = {
           "Team": 6,
           "BestRank": 498
         }
-      },
-      "Nacional": {
-        "2019": {
-          "Team": 1,
-          "BestRank": 0
-        }
       }
     },
     "Universidade Paulista - Campus Araçatuba": {
@@ -4429,11 +4377,11 @@ INSTITUTIONS = {
           "BestRank": 384
         },
         "2019": {
-          "Team": 4,
-          "BestRank": 0
+          "Team": 1,
+          "BestRank": 652
         },
         "2020": {
-          "Team": 4,
+          "Team": 3,
           "BestRank": 423
         }
       },
@@ -4617,7 +4565,7 @@ INSTITUTIONS = {
           "BestRank": 409
         },
         "2020": {
-          "Team": 2,
+          "Team": 1,
           "BestRank": 271
         }
       }
@@ -4633,8 +4581,8 @@ INSTITUTIONS = {
           "BestRank": 174
         },
         "2020": {
-          "Team": 3,
-          "BestRank": 0
+          "Team": 1,
+          "BestRank": 432
         }
       }
     },
@@ -4685,12 +4633,8 @@ INSTITUTIONS = {
           "BestRank": 122
         },
         "2019": {
-          "Team": 2,
-          "BestRank": 0
-        },
-        "2020": {
           "Team": 1,
-          "BestRank": 682
+          "BestRank": 201
         }
       }
     },
@@ -4740,18 +4684,6 @@ INSTITUTIONS = {
         }
       }
     },
-    "Instituição Toledo de Ensino": {
-      "1aFase": {
-        "2019": {
-          "Team": 1,
-          "BestRank": 0
-        },
-        "2020": {
-          "Team": 2,
-          "BestRank": 682
-        }
-      }
-    },
     "Instituto Federal de São Paulo": {
       "1aFase": {
         "2019": {
@@ -4759,7 +4691,7 @@ INSTITUTIONS = {
           "BestRank": 312
         },
         "2020": {
-          "Team": 4,
+          "Team": 3,
           "BestRank": 108
         }
       }
@@ -4767,12 +4699,12 @@ INSTITUTIONS = {
     "Universidade Federal de São Paulo": {
       "1aFase": {
         "2019": {
-          "Team": 3,
-          "BestRank": 0
+          "Team": 2,
+          "BestRank": 227
         },
         "2020": {
-          "Team": 4,
-          "BestRank": 0
+          "Team": 2,
+          "BestRank": 492
         }
       }
     },
@@ -4793,7 +4725,7 @@ INSTITUTIONS = {
     "Centro Universitário Senac-SP": {
       "1aFase": {
         "2020": {
-          "Team": 2,
+          "Team": 1,
           "BestRank": 362
         }
       }
@@ -4809,7 +4741,7 @@ INSTITUTIONS = {
     "UNESP - Universidade Estadual Paulista (IBILCE)": {
       "1aFase": {
         "2020": {
-          "Team": 4,
+          "Team": 3,
           "BestRank": 207
         }
       }
@@ -4825,7 +4757,7 @@ INSTITUTIONS = {
     "Universidade Virtual do Estado de São Paulo": {
       "1aFase": {
         "2020": {
-          "Team": 7,
+          "Team": 5,
           "BestRank": 572
         }
       }
@@ -4833,8 +4765,8 @@ INSTITUTIONS = {
     "Universidade do Extremo Sul Catarinense": {
       "1aFase": {
         "2020": {
-          "Team": 3,
-          "BestRank": 0
+          "Team": 1,
+          "BestRank": 132
         }
       }
     }
@@ -4923,12 +4855,12 @@ INSTITUTIONS = {
           "BestRank": 137
         },
         "2019": {
-          "Team": 6,
-          "BestRank": 0
+          "Team": 5,
+          "BestRank": 140
         },
         "2020": {
-          "Team": 4,
-          "BestRank": 0
+          "Team": 3,
+          "BestRank": 160
         }
       },
       "Nacional": {
@@ -5121,8 +5053,8 @@ INSTITUTIONS = {
           "BestRank": 109
         },
         "2020": {
-          "Team": 3,
-          "BestRank": 0
+          "Team": 2,
+          "BestRank": 93
         }
       }
     },
@@ -5203,8 +5135,8 @@ INSTITUTIONS = {
           "BestRank": 152
         },
         "2019": {
-          "Team": 2,
-          "BestRank": 0
+          "Team": 1,
+          "BestRank": 601
         }
       }
     },
@@ -5399,8 +5331,8 @@ INSTITUTIONS = {
           "BestRank": 161
         },
         "2019": {
-          "Team": 4,
-          "BestRank": 0
+          "Team": 2,
+          "BestRank": 397
         }
       }
     },
@@ -5481,8 +5413,8 @@ INSTITUTIONS = {
     "Universidade Tecnológica Federal do Paraná (UTFPR) - Campus Dois Vizinhos": {
       "1aFase": {
         "2019": {
-          "Team": 2,
-          "BestRank": 0
+          "Team": 1,
+          "BestRank": 178
         }
       }
     },
@@ -5657,7 +5589,7 @@ INSTITUTIONS = {
           "BestRank": 261
         },
         "2020": {
-          "Team": 5,
+          "Team": 2,
           "BestRank": 576
         }
       }
@@ -5811,7 +5743,7 @@ INSTITUTIONS = {
           "BestRank": 84
         },
         "2020": {
-          "Team": 7,
+          "Team": 6,
           "BestRank": 43
         }
       }
@@ -5965,10 +5897,6 @@ INSTITUTIONS = {
         "2019": {
           "Team": 4,
           "BestRank": 212
-        },
-        "2020": {
-          "Team": 3,
-          "BestRank": 0
         }
       }
     }

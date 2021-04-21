@@ -4955,8 +4955,7 @@ CONTESTANTS = {
     "FullName": "Victor Wagner",
     "1aFase": {
       "2017": 377.0,
-      "2018": 441.0,
-      "2019": 0.0
+      "2018": 441.0
     }
   },
   "mowsgn7otlcasi9mian": {
@@ -6315,9 +6314,6 @@ CONTESTANTS = {
       "2017": 254.0,
       "2018": 278.0,
       "2019": 157.0
-    },
-    "Nacional": {
-      "2019": 0.0
     }
   },
   "liaragmrodcnfjrcoacimti": {
@@ -9044,8 +9040,7 @@ CONTESTANTS = {
   "mjorrseinmucpnlioogronehimuiea": {
     "FullName": "Uemerson Pinheiro Junior",
     "1aFase": {
-      "2017": 707.0,
-      "2019": 0.0
+      "2017": 707.0
     }
   },
   "mlmaooeobcrinisabvhatals": {
@@ -9315,8 +9310,7 @@ CONTESTANTS = {
   "vscadodaroigmliigurome": {
     "FullName": "Davi Rodrigues Cardoso",
     "1aFase": {
-      "2017": 420.0,
-      "2019": 0.0
+      "2017": 420.0
     }
   },
   "zmioliagulmia95aarrmc": {
@@ -10578,8 +10572,7 @@ CONTESTANTS = {
   "cmgiep5ll2smoeiresma": {
     "FullName": "Pedro Meireles",
     "1aFase": {
-      "2017": 708.0,
-      "2019": 0.0
+      "2017": 708.0
     }
   },
   "cpmieolsomliigahpvm": {
@@ -11305,8 +11298,7 @@ CONTESTANTS = {
   "asgobakmlgkmgaci": {
     "FullName": "Kaue Gabas",
     "1aFase": {
-      "2017": 339.0,
-      "2020": 682.0
+      "2017": 339.0
     }
   },
   "atioivajrolcllommg": {
@@ -13877,9 +13869,6 @@ CONTESTANTS = {
       "2017": 642.0,
       "2018": 319.0,
       "2019": 163.0
-    },
-    "Nacional": {
-      "2019": 0.0
     }
   },
   "mndisotahkfeiarll": {
@@ -14801,8 +14790,7 @@ CONTESTANTS = {
     "FullName": "Pedro Henrique Torres Peres Garozi",
     "1aFase": {
       "2017": 388.0,
-      "2018": 294.0,
-      "2019": 0.0
+      "2018": 294.0
     }
   },
   "enksiagircmeilmgsoba": {
@@ -15044,8 +15032,7 @@ CONTESTANTS = {
     "FullName": "Tiago Pedrozo Do Nascimento",
     "1aFase": {
       "2017": 708.0,
-      "2018": 137.0,
-      "2019": 0.0
+      "2018": 137.0
     }
   },
   "ooimnhtgrodmaigarichl": {
@@ -18912,8 +18899,7 @@ CONTESTANTS = {
     "FullName": "Alberto Vinicius Martins Rocha",
     "1aFase": {
       "2018": 585.0,
-      "2019": 495.0,
-      "2020": 682.0
+      "2019": 495.0
     }
   },
   "elvlwcinmaeheagrm1dt0oa": {
@@ -18946,8 +18932,7 @@ CONTESTANTS = {
     "FullName": "Armando Pinheiro Dos Santos Júnior",
     "1aFase": {
       "2018": 585.0,
-      "2019": 495.0,
-      "2020": 682.0
+      "2019": 495.0
     }
   },
   "leyngllmtomaiontcaoy": {
@@ -19039,8 +19024,7 @@ CONTESTANTS = {
   "olcmcgeaaepnmlooshclismr": {
     "FullName": "Carlos Henrique Menezes Coelho Lopes",
     "1aFase": {
-      "2018": 660.0,
-      "2020": 0.0
+      "2018": 660.0
     }
   },
   "omluamoslcifdgaz": {
@@ -19906,8 +19890,7 @@ CONTESTANTS = {
   "cinrgfemlamsvaioiblonr": {
     "FullName": "Breno Silva",
     "1aFase": {
-      "2018": 691.0,
-      "2019": 0.0
+      "2018": 691.0
     }
   },
   "ciolmcaomiootlaagig": {
@@ -20270,8 +20253,7 @@ CONTESTANTS = {
   "larhoyalmielcydawcunnmteioe": {
     "FullName": "Aluciney De Souza",
     "1aFase": {
-      "2018": 639.0,
-      "2019": 0.0
+      "2018": 639.0
     }
   },
   "lc1aegeaoaiillimrldm0nm": {
@@ -20771,8 +20753,7 @@ CONTESTANTS = {
   "aaocadsmloteiromimrehl": {
     "FullName": "Adriele Camila Da Costa Ramos",
     "1aFase": {
-      "2018": 378.0,
-      "2020": 682.0
+      "2018": 378.0
     }
   },
   "eohkcimlgiaslmtkamel": {
@@ -20849,7 +20830,6 @@ CONTESTANTS = {
     "FullName": "Wan Song Rocha",
     "1aFase": {
       "2018": 413.0,
-      "2019": 0.0,
       "2020": 179.0
     },
     "Nacional": {
@@ -20890,7 +20870,6 @@ CONTESTANTS = {
     "FullName": "Uthant Vicentin Leite",
     "1aFase": {
       "2018": 413.0,
-      "2019": 0.0,
       "2020": 179.0
     },
     "Nacional": {
@@ -21536,8 +21515,7 @@ CONTESTANTS = {
     "FullName": "Mateus Cirino Silva",
     "1aFase": {
       "2018": 612.0,
-      "2019": 380.0,
-      "2020": 682.0
+      "2019": 380.0
     }
   },
   "lcmsigruistaaxmceol": {
@@ -21576,8 +21554,7 @@ CONTESTANTS = {
     "FullName": "Geraldo Vitor Da Costa Netto",
     "1aFase": {
       "2018": 612.0,
-      "2019": 380.0,
-      "2020": 682.0
+      "2019": 380.0
     }
   },
   "rjiervieoblfvau": {
@@ -22381,8 +22358,7 @@ CONTESTANTS = {
   "eemlutorhfz96ailmtagcoreira": {
     "FullName": "Rafael Gutierrez Simôes",
     "1aFase": {
-      "2018": 657.0,
-      "2019": 0.0
+      "2018": 657.0
     }
   },
   "eoomhnmutacilimhgihaic": {
@@ -22427,8 +22403,7 @@ CONTESTANTS = {
   "itdmwaahboelomcrnno": {
     "FullName": "Brendon Wallace Da Silva",
     "1aFase": {
-      "2018": 657.0,
-      "2019": 0.0
+      "2018": 657.0
     }
   },
   "liitacjmmeviiimoorsohnulc": {
@@ -22988,8 +22963,7 @@ CONTESTANTS = {
   "rimgdocamlpbsreiao": {
     "FullName": "Pedro Henrique Rabis Diniz",
     "1aFase": {
-      "2018": 35.0,
-      "2019": 0.0
+      "2018": 35.0
     }
   },
   "ritmtdoophtlmaooec": {
@@ -23478,9 +23452,6 @@ CONTESTANTS = {
       "2018": 242.0,
       "2019": 110.0,
       "2020": 94.0
-    },
-    "Nacional": {
-      "2019": 0.0
     }
   },
   "imfnartvhoaencolm": {
@@ -23520,9 +23491,6 @@ CONTESTANTS = {
       "2018": 242.0,
       "2019": 110.0,
       "2020": 94.0
-    },
-    "Nacional": {
-      "2019": 0.0
     }
   },
   "mkloardoilcboviotinusol": {
@@ -23594,9 +23562,6 @@ CONTESTANTS = {
       "2018": 242.0,
       "2019": 110.0,
       "2020": 94.0
-    },
-    "Nacional": {
-      "2019": 0.0
     }
   },
   "uereiupnwadngbrbrefaelsouqe": {
@@ -25201,8 +25166,7 @@ CONTESTANTS = {
   "hcbaodbiaoulumroclefanarua": {
     "FullName": "Caio Cesar Ramalho Follador",
     "1aFase": {
-      "2018": 412.0,
-      "2019": 0.0
+      "2018": 412.0
     }
   },
   "huirloeecncjimitloaegumq": {
@@ -25252,8 +25216,7 @@ CONTESTANTS = {
   "iovsmscmmalioitsia1e1eorl2h0a": {
     "FullName": "Messias Oliveira Da Silva",
     "1aFase": {
-      "2018": 503.0,
-      "2019": 0.0
+      "2018": 503.0
     }
   },
   "ir0o1aoullcciemaslvmg": {
@@ -25417,8 +25380,7 @@ CONTESTANTS = {
   "rmvstehmbrlrioiaioco": {
     "FullName": "Rodrigo Vitor Ribeiro",
     "1aFase": {
-      "2018": 503.0,
-      "2019": 0.0
+      "2018": 503.0
     }
   },
   "rorustaoufmtsembp": {
@@ -25503,8 +25465,7 @@ CONTESTANTS = {
   "1aildsmmom3egscilg4oao": {
     "FullName": "Diogo Sales",
     "1aFase": {
-      "2018": 160.0,
-      "2019": 0.0
+      "2018": 160.0
     }
   },
   "6gac1gm9lim9zfo": {
@@ -25571,8 +25532,7 @@ CONTESTANTS = {
     "FullName": "Gabriel Thiago Henrique Dos Santos",
     "1aFase": {
       "2018": 581.0,
-      "2019": 299.0,
-      "2020": 0.0
+      "2019": 299.0
     }
   },
   "cimtrocamlamlhmiao": {
@@ -25685,8 +25645,7 @@ CONTESTANTS = {
     "FullName": "Hudson Proença",
     "1aFase": {
       "2018": 324.0,
-      "2019": 628.0,
-      "2020": 0.0
+      "2019": 628.0
     }
   },
   "l1momloomacgijr5aain": {
@@ -25983,8 +25942,7 @@ CONTESTANTS = {
   "bonnuvortocagliamamfann": {
     "FullName": "Bruna Von Groll",
     "1aFase": {
-      "2018": 161.0,
-      "2019": 0.0
+      "2018": 161.0
     }
   },
   "bopoumaigclozcliml": {
@@ -26163,8 +26121,7 @@ CONTESTANTS = {
   "lsmtamvooslifcgi": {
     "FullName": "Lucas Tossi",
     "1aFase": {
-      "2018": 161.0,
-      "2019": 0.0
+      "2018": 161.0
     }
   },
   "mahionmaricayulsitrnlo": {
@@ -26876,12 +26833,6 @@ CONTESTANTS = {
       "2019": 23.0
     }
   },
-  "lrrodcikmaiama7omcg7": {
-    "FullName": "Márcio Sindeaux",
-    "1aFase": {
-      "2019": 0.0
-    }
-  },
   "lslsefeoibtuderbataievnhsieud": {
     "FullName": "Heloise Silva",
     "1aFase": {
@@ -26932,22 +26883,10 @@ CONTESTANTS = {
       "2020": 97.0
     }
   },
-  "oshtl2eocmnc4aabim": {
-    "FullName": "Erika Santos",
-    "1aFase": {
-      "2019": 0.0
-    }
-  },
   "rboajlfcamlmoeirgal": {
     "FullName": "Rafael Job",
     "1aFase": {
       "2019": 154.0
-    }
-  },
-  "rmgiuoalticmjocgsv": {
-    "FullName": "João Guntijo",
-    "1aFase": {
-      "2019": 0.0
     }
   },
   "sgmob5ao5iolr1inmpjciu": {
@@ -27129,12 +27068,6 @@ CONTESTANTS = {
       "2020": 312.0
     }
   },
-  "iopcrigponiioagidssoraomermrlfsl": {
-    "FullName": "Rodrigo Moreira Pires De Andrade",
-    "1aFase": {
-      "2019": 0.0
-    }
-  },
   "itomerafceimasgdhumtrusebn": {
     "FullName": "Matheus Naves Amorim",
     "1aFase": {
@@ -27268,12 +27201,6 @@ CONTESTANTS = {
       "2020": 405.0
     }
   },
-  "tnaogcisdairmlamhapmaciiol": {
-    "FullName": "Caio Martins Padilha Batista",
-    "1aFase": {
-      "2019": 0.0
-    }
-  },
   "uaio8lgsimmntmccro1aaa": {
     "FullName": "Marcio Costa",
     "1aFase": {
@@ -27284,12 +27211,6 @@ CONTESTANTS = {
     "FullName": "Luiz Augusto Firmino Guimarães",
     "1aFase": {
       "2019": 665.0
-    }
-  },
-  "vmf0acirgelsmmi0oa12l": {
-    "FullName": "Lucas Lucas Vicente Serafim",
-    "1aFase": {
-      "2019": 0.0
     }
   },
   "1i10fg102rlmojamr0c2": {
@@ -27844,8 +27765,7 @@ CONTESTANTS = {
   "ioaccsehfcdtnnobluoauilr": {
     "FullName": "Antônio Carlos Cordeiro Lopes Filho",
     "1aFase": {
-      "2019": 510.0,
-      "2020": 0.0
+      "2019": 510.0
     }
   },
   "ioio0sa7ll0tm0macnhos": {
@@ -27869,8 +27789,7 @@ CONTESTANTS = {
   "mensucfrantiuelsdloczbiua": {
     "FullName": "Luiz Felipe Viana Menezes Nascimento",
     "1aFase": {
-      "2019": 613.0,
-      "2020": 0.0
+      "2019": 613.0
     }
   },
   "miohralmsm5p4tag6mcgba": {
@@ -27947,23 +27866,10 @@ CONTESTANTS = {
       "2019": 388.0
     }
   },
-  "rmliamamogaalaiacco": {
-    "FullName": "Caio Amaral",
-    "1aFase": {
-      "2019": 0.0
-    }
-  },
-  "tahmdhadamicitlmoaaocsocov": {
-    "FullName": "Davi Costa",
-    "1aFase": {
-      "2019": 0.0
-    }
-  },
   "tcnreuauuazdmseshrclbbl": {
     "FullName": "Berman Benjamin Friedrich Dos Santos Schultz",
     "1aFase": {
-      "2019": 510.0,
-      "2020": 0.0
+      "2019": 510.0
     }
   },
   "ubsgdcreroctiaoaubssirel": {
@@ -27977,12 +27883,6 @@ CONTESTANTS = {
     "1aFase": {
       "2019": 545.0,
       "2020": 513.0
-    }
-  },
-  "wahimcezgvotjemslric": {
-    "FullName": "Jose Schweitzer",
-    "1aFase": {
-      "2019": 0.0
     }
   },
   "yagccimialeralmmthoio": {
@@ -28294,8 +28194,7 @@ CONTESTANTS = {
   "caeslaligtmnsaaelogivemtimu": {
     "FullName": "Samuel Evangelista De Aquino Júnior",
     "1aFase": {
-      "2019": 537.0,
-      "2020": 0.0
+      "2019": 537.0
     }
   },
   "cuoauaeaiisrbmvrlapxf": {
@@ -28337,8 +28236,7 @@ CONTESTANTS = {
   "mwuoggiiiearhnlmtilmaceill": {
     "FullName": "Guilherme Willian Saraiva Da Hora",
     "1aFase": {
-      "2019": 537.0,
-      "2020": 0.0
+      "2019": 537.0
     }
   },
   "omngirsorgcmlaenioden": {
@@ -28350,15 +28248,13 @@ CONTESTANTS = {
   "icrmsilldaorimeea0cgmou94g": {
     "FullName": "Felix Maciel Rodrigues Dos Santos",
     "1aFase": {
-      "2019": 665.0,
-      "2020": 682.0
+      "2019": 665.0
     }
   },
   "mtamnkbolwuotvoaoeca": {
     "FullName": "Marcos Vinicius Watanabe De Araújo Carneiro",
     "1aFase": {
-      "2019": 211.0,
-      "2020": 682.0
+      "2019": 211.0
     }
   },
   "mtaraibm3ofoceahlm1le": {
@@ -28394,8 +28290,7 @@ CONTESTANTS = {
   "edb0a015ln1o01ud28urbnu": {
     "FullName": "Jose Delfim Veloso Santos Filho",
     "1aFase": {
-      "2019": 665.0,
-      "2020": 0.0
+      "2019": 665.0
     }
   },
   "edb0a015ln1o04ud28urbnu": {
@@ -28767,12 +28662,6 @@ CONTESTANTS = {
       "2019": 584.0
     }
   },
-  "aaommlaiaingtsraweredcg": {
-    "FullName": "Arântia Araújo",
-    "1aFase": {
-      "2019": 0.0
-    }
-  },
   "aynmoh2etcdirljaom": {
     "FullName": "João Andrey Gomes Marques",
     "1aFase": {
@@ -28789,12 +28678,6 @@ CONTESTANTS = {
     "FullName": "Tassyane Fontenele",
     "1aFase": {
       "2019": 584.0
-    }
-  },
-  "loeasalmolcuergiaaiabjcmimnisrec": {
-    "FullName": "Jessica Lima",
-    "1aFase": {
-      "2019": 0.0
     }
   },
   "ltmomnale0gs1rm5ic0iat": {
@@ -28832,12 +28715,6 @@ CONTESTANTS = {
     "FullName": "Matheus Cardoso",
     "1aFase": {
       "2019": 271.0
-    }
-  },
-  "yalrmkaemaomlbgliaic": {
-    "FullName": "Lara Kimbely Alves",
-    "1aFase": {
-      "2019": 0.0
     }
   },
   "13cciasm1m0llga1o0u": {
@@ -28992,12 +28869,6 @@ CONTESTANTS = {
       "2019": 265.0
     }
   },
-  "aiv5gial99cd9od1mm7": {
-    "FullName": "David Araújo",
-    "1aFase": {
-      "2019": 0.0
-    }
-  },
   "algedolmnoe1capgkoir1rmisi": {
     "FullName": "Kergionaldo Pires",
     "1aFase": {
@@ -29058,18 +28929,6 @@ CONTESTANTS = {
       "2019": 265.0
     }
   },
-  "hsefojniaar8glioocetmo9fhmt": {
-    "FullName": "Jefferson Santos",
-    "1aFase": {
-      "2019": 0.0
-    }
-  },
-  "iaclonbomrmgci": {
-    "FullName": "Pedro Orlando De Albuquerque Duarte",
-    "1aFase": {
-      "2019": 0.0
-    }
-  },
   "jbdaneoorsnulreuuirrsag": {
     "FullName": "Jonas Rodrigues",
     "1aFase": {
@@ -29098,12 +28957,6 @@ CONTESTANTS = {
       "2019": 21.0
     }
   },
-  "lraqugmcnaceiluvohesmei": {
-    "FullName": "Lucas Costa",
-    "1aFase": {
-      "2019": 0.0
-    }
-  },
   "mgiaeogncallaitomdr": {
     "FullName": "Renato Nicacio",
     "1aFase": {
@@ -29128,12 +28981,6 @@ CONTESTANTS = {
       "2019": 644.0
     }
   },
-  "nfrlpaiacjieblensaouraaurodro": {
-    "FullName": "Poliana Pereira",
-    "1aFase": {
-      "2019": 0.0
-    }
-  },
   "nixrjlemnasreefuneorfsbue": {
     "FullName": "Jefferson Ximenes",
     "1aFase": {
@@ -29150,12 +28997,6 @@ CONTESTANTS = {
     "FullName": "Douglas Lima",
     "1aFase": {
       "2019": 604.0
-    }
-  },
-  "omsceloascisnralmiaadtagl": {
-    "FullName": "Alissandra Castelo Branco Cabral",
-    "1aFase": {
-      "2019": 0.0
     }
   },
   "ouhtklohmocloeio1ieol": {
@@ -29195,12 +29036,6 @@ CONTESTANTS = {
       "2020": 582.0
     }
   },
-  "thoatmeeiuerdsmcaloim": {
-    "FullName": "Mateus Prazeres",
-    "1aFase": {
-      "2019": 0.0
-    }
-  },
   "ugdoamelsiorlmmplcatra": {
     "FullName": "Christian Lima Freitag",
     "1aFase": {
@@ -29208,23 +29043,10 @@ CONTESTANTS = {
       "2020": 582.0
     }
   },
-  "airecsgofdalinrmcloamugadu": {
-    "FullName": "Luis França",
-    "1aFase": {
-      "2019": 0.0
-    }
-  },
   "aludrfibvcf": {
     "FullName": "Danilo Freire",
     "1aFase": {
       "2019": 363.0
-    }
-  },
-  "aoldauoolnmaosijmnhct": {
-    "FullName": "Jadson Santos",
-    "1aFase": {
-      "2019": 0.0,
-      "2020": 71.0
     }
   },
   "becaiafrlbu": {
@@ -29310,12 +29132,6 @@ CONTESTANTS = {
     "FullName": "Gustavo Calazans",
     "1aFase": {
       "2019": 294.0
-    }
-  },
-  "orqirifoprueauacjanrrbaula": {
-    "FullName": "Roque Junior",
-    "1aFase": {
-      "2019": 0.0
     }
   },
   "ubanara2ilcfs": {
@@ -29434,12 +29250,6 @@ CONTESTANTS = {
       "2019": 665.0
     }
   },
-  "mspmias17occmehuta53lgaom": {
-    "FullName": "Matheus Campos Dos Santos",
-    "1aFase": {
-      "2019": 0.0
-    }
-  },
   "nirsg6a78crloaadmkemm": {
     "FullName": "André Lima",
     "1aFase": {
@@ -29456,12 +29266,6 @@ CONTESTANTS = {
     "FullName": "João Lucas Araújo",
     "1aFase": {
       "2019": 566.0
-    }
-  },
-  "omagmsmcgtvlaodniegs": {
-    "FullName": "Gabriel Maciel Dos Santos",
-    "1aFase": {
-      "2019": 0.0
     }
   },
   "omatsamcestlrhmeiauo": {
@@ -29647,15 +29451,13 @@ CONTESTANTS = {
   "iguavrlloarohimcoxearliemmghc": {
     "FullName": "Guilherme Carvalho",
     "1aFase": {
-      "2019": 311.0,
-      "2020": 0.0
+      "2019": 311.0
     }
   },
   "iidmecauoihdauamlqmtgeeenlrar": {
     "FullName": "Jesse Almeida",
     "1aFase": {
-      "2019": 665.0,
-      "2020": 0.0
+      "2019": 665.0
     }
   },
   "jciamrodammgvoeual": {
@@ -29679,8 +29481,7 @@ CONTESTANTS = {
   "rficlmigmpheadrlteoos": {
     "FullName": "Felipe Rodrigues",
     "1aFase": {
-      "2019": 615.0,
-      "2020": 0.0
+      "2019": 615.0
     }
   },
   "criod5norhleecidimtt1ama": {
@@ -29736,8 +29537,7 @@ CONTESTANTS = {
   "aiduglacoolsaine7cmemoqr": {
     "FullName": "Queilane Cardoso",
     "1aFase": {
-      "2019": 665.0,
-      "2020": 682.0
+      "2019": 665.0
     }
   },
   "amg8iyoojaall1mnjolce": {
@@ -29763,13 +29563,6 @@ CONTESTANTS = {
     "FullName": "Lucas De Freitas Cardoso",
     "1aFase": {
       "2019": 442.0
-    }
-  },
-  "csamonmiat2criigsiea68ld": {
-    "FullName": "Cristiane Da Conceição Dias",
-    "1aFase": {
-      "2019": 0.0,
-      "2020": 461.0
     }
   },
   "cvcanoamntasnrnalmibodeiliigenlae": {
@@ -29801,13 +29594,6 @@ CONTESTANTS = {
       "2020": 578.0
     }
   },
-  "in72leurgdlama3mtaidocfao": {
-    "FullName": "Daniela Matias Furtado",
-    "1aFase": {
-      "2019": 0.0,
-      "2020": 682.0
-    }
-  },
   "ioalo1rdcudsndonomefektoge": {
     "FullName": "Diego Fernandes",
     "1aFase": {
@@ -29818,12 +29604,6 @@ CONTESTANTS = {
     "FullName": "Alessandro Roberto Baségio",
     "1aFase": {
       "2019": 442.0
-    }
-  },
-  "mcfiaegmuaieinllribugjao": {
-    "FullName": "Juliane Barbosa Figueira",
-    "1aFase": {
-      "2019": 0.0
     }
   },
   "mclgmloniamagaaqe": {
@@ -29903,8 +29683,7 @@ CONTESTANTS = {
   "tmvmaceathiomtol": {
     "FullName": "Matheus Motta",
     "1aFase": {
-      "2019": 625.0,
-      "2020": 682.0
+      "2019": 625.0
     }
   },
   "ualiiaamcoreaijmzlsgnu": {
@@ -29929,12 +29708,6 @@ CONTESTANTS = {
       "2019": 665.0
     }
   },
-  "maiolgenloimabcr": {
-    "FullName": "Naerbio Dos Santos Bezerra",
-    "1aFase": {
-      "2019": 0.0
-    }
-  },
   "1glis1aocmmtuolcah": {
     "FullName": "George Lucas Monção Zambonin",
     "1aFase": {
@@ -29957,21 +29730,6 @@ CONTESTANTS = {
     "FullName": "Elson Júnior",
     "1aFase": {
       "2019": 157.0
-    },
-    "Nacional": {
-      "2019": 0.0
-    }
-  },
-  "cyhlsojovommadeoieooert": {
-    "FullName": "José Geronimo",
-    "1aFase": {
-      "2019": 0.0
-    }
-  },
-  "gviofoarl012icimeaml": {
-    "FullName": "Bruno Oliveira",
-    "1aFase": {
-      "2019": 0.0
     }
   },
   "iaimlmiomatmolladgeaicglhiaw": {
@@ -29986,12 +29744,6 @@ CONTESTANTS = {
       "2019": 617.0
     }
   },
-  "lag11oeusancurmoim3mihar2bto": {
-    "FullName": "Bruno Cunha",
-    "1aFase": {
-      "2019": 0.0
-    }
-  },
   "loua9amma2sgs7clic": {
     "FullName": "Lucas Daniel Miranda Freitas",
     "1aFase": {
@@ -30002,9 +29754,6 @@ CONTESTANTS = {
     "FullName": "Guilherme Saraiva",
     "1aFase": {
       "2019": 157.0
-    },
-    "Nacional": {
-      "2019": 0.0
     }
   },
   "rlomnlec2msgaaedu1mi": {
@@ -30443,8 +30192,7 @@ CONTESTANTS = {
   "elotfiomcealmmmathuosj": {
     "FullName": "Mateus Melo",
     "1aFase": {
-      "2019": 653.0,
-      "2020": 682.0
+      "2019": 653.0
     }
   },
   "emtmcorlmsuhoaigd7a": {
@@ -30506,8 +30254,7 @@ CONTESTANTS = {
   "mcaaemssaeiseolmoucgomihrpdtm": {
     "FullName": "Matheus Campos",
     "1aFase": {
-      "2019": 653.0,
-      "2020": 682.0
+      "2019": 653.0
     }
   },
   "mhotaillooroadecmn51f": {
@@ -30773,19 +30520,6 @@ CONTESTANTS = {
       "2020": 325.0
     }
   },
-  "caiormauahiooqoepsny": {
-    "FullName": "André Aquino",
-    "1aFase": {
-      "2019": 0.0
-    }
-  },
-  "cemoiatrjmeullinomgi": {
-    "FullName": "Marcelo Junior",
-    "1aFase": {
-      "2019": 0.0,
-      "2020": 384.0
-    }
-  },
   "claigsaammoiosmaiiaasssrr": {
     "FullName": "Samira Rosa",
     "1aFase": {
@@ -30817,13 +30551,6 @@ CONTESTANTS = {
       "2019": 564.0
     }
   },
-  "e2toohocmreimacli0l": {
-    "FullName": "Leonardo Eric",
-    "1aFase": {
-      "2019": 0.0,
-      "2020": 682.0
-    }
-  },
   "ectmotomalfhmiaala": {
     "FullName": "Matheus Silva",
     "1aFase": {
@@ -30834,12 +30561,6 @@ CONTESTANTS = {
     "FullName": "Luiz Felipe Montuani E Silva",
     "1aFase": {
       "2019": 432.0
-    }
-  },
-  "eigobacamjrgmlmlisg": {
-    "FullName": "João Gabriel Madeira Silva",
-    "1aFase": {
-      "2019": 0.0
     }
   },
   "eimtaocamlpsnhcodo": {
@@ -30857,15 +30578,13 @@ CONTESTANTS = {
   "emmplnthevsalcfaoaoifi": {
     "FullName": "Felipe Navas",
     "1aFase": {
-      "2019": 542.0,
-      "2020": 0.0
+      "2019": 542.0
     }
   },
   "g5lcmeecamola0ievl2irsz1e": {
     "FullName": "Eliezer Alves",
     "1aFase": {
-      "2019": 205.0,
-      "2020": 682.0
+      "2019": 205.0
     }
   },
   "garvsczguolimtmcr": {
@@ -30877,8 +30596,7 @@ CONTESTANTS = {
   "gcaolvmamiiluscn": {
     "FullName": "Lucas Costa",
     "1aFase": {
-      "2019": 278.0,
-      "2020": 682.0
+      "2019": 278.0
     }
   },
   "gdo3leeoiraniiemcr1mb": {
@@ -30924,15 +30642,13 @@ CONTESTANTS = {
   "icmoscafmatnlangog": {
     "FullName": "Guilherme Castello",
     "1aFase": {
-      "2019": 542.0,
-      "2020": 0.0
+      "2019": 542.0
     }
   },
   "ieartm7iaallamhomnlco": {
     "FullName": "Lara Milena Custódio Rezende",
     "1aFase": {
-      "2019": 665.0,
-      "2020": 682.0
+      "2019": 665.0
     }
   },
   "iglaeieom5clm1ctgep": {
@@ -30957,14 +30673,7 @@ CONTESTANTS = {
   "ja3p8l09o2ig2mcm": {
     "FullName": "João Paulo Souza",
     "1aFase": {
-      "2019": 477.0,
-      "2020": 0.0
-    }
-  },
-  "l3iismcl2yeameovialnkgm": {
-    "FullName": "Misael Silva",
-    "1aFase": {
-      "2019": 0.0
+      "2019": 477.0
     }
   },
   "lcursaimttcrehehpomeaomia": {
@@ -30996,12 +30705,6 @@ CONTESTANTS = {
     "FullName": "Alexandre Júnior",
     "1aFase": {
       "2019": 153.0
-    }
-  },
-  "logueeonopracnammsvlii": {
-    "FullName": "Everson Paulino",
-    "1aFase": {
-      "2019": 0.0
     }
   },
   "lulauuissadomnuserseofnedinasbdcli": {
@@ -31078,8 +30781,7 @@ CONTESTANTS = {
   "oaiomaccthlmnaoajst": {
     "FullName": "Janaina Costa",
     "1aFase": {
-      "2019": 582.0,
-      "2020": 682.0
+      "2019": 582.0
     }
   },
   "oavsicmzbaultougmmhaogs": {
@@ -31091,8 +30793,7 @@ CONTESTANTS = {
   "ocoemtt1aldnalxi0mrthraela2nueo0i": {
     "FullName": "Alexandre Tertuliano",
     "1aFase": {
-      "2019": 523.0,
-      "2020": 682.0
+      "2019": 523.0
     }
   },
   "oi1aim9aammoalejsig9ocbl9trngr": {
@@ -31105,12 +30806,6 @@ CONTESTANTS = {
     "FullName": "Larissa Pereira",
     "1aFase": {
       "2019": 582.0
-    }
-  },
-  "opaeamgoedimchlmgrd": {
-    "FullName": "Pedro Martins",
-    "1aFase": {
-      "2019": 0.0
     }
   },
   "opoiicmmeselsnlgrmbaoan": {
@@ -31179,12 +30874,6 @@ CONTESTANTS = {
       "2019": 476.0
     }
   },
-  "tcmhmomomgiirosmala": {
-    "FullName": "Gabriel Maroco",
-    "1aFase": {
-      "2019": 0.0
-    }
-  },
   "tim0tma7uerliaqnoeh10mg3c": {
     "FullName": "Matheus Silva",
     "1aFase": {
@@ -31204,13 +30893,6 @@ CONTESTANTS = {
       "2019": 314.0
     }
   },
-  "tmtecshiclnituiliameoeabvo": {
-    "FullName": "Vinicius Costa",
-    "1aFase": {
-      "2019": 0.0,
-      "2020": 280.0
-    }
-  },
   "tnaisntioereomhadhpfemacrlo": {
     "FullName": "Heitor Braga",
     "1aFase": {
@@ -31226,8 +30908,7 @@ CONTESTANTS = {
   "uuue02im0m6s0d81leabr0zdns9f1i1": {
     "FullName": "Sarah Silva",
     "1aFase": {
-      "2019": 665.0,
-      "2020": 682.0
+      "2019": 665.0
     }
   },
   "zlomiviaragcleur": {
@@ -31426,12 +31107,6 @@ CONTESTANTS = {
       "2019": 48.0
     }
   },
-  "aeu5vlalomhomsdudi9tc": {
-    "FullName": "Eduardo Alves",
-    "1aFase": {
-      "2019": 0.0
-    }
-  },
   "aiotrueoeqtrmcsnegslmmelaa": {
     "FullName": "Renato Teles",
     "1aFase": {
@@ -31470,18 +31145,6 @@ CONTESTANTS = {
     "FullName": "Luiz Henrique Dutra Martins",
     "1aFase": {
       "2019": 665.0
-    }
-  },
-  "dcgmoysmllgamiokua": {
-    "FullName": "Maycon Rosa",
-    "1aFase": {
-      "2019": 0.0
-    }
-  },
-  "emacsidrosmlienugechd": {
-    "FullName": "Eduardo Schneider",
-    "1aFase": {
-      "2019": 0.0
     }
   },
   "eracoalmcm7m0iisglavujlo": {
@@ -31528,12 +31191,6 @@ CONTESTANTS = {
     "FullName": "Gustavo Jesus De Abreu",
     "1aFase": {
       "2019": 487.0
-    }
-  },
-  "horgmujhmaoiontlneic": {
-    "FullName": "Reginaldo Alves Domingos Júnior",
-    "1aFase": {
-      "2019": 0.0
     }
   },
   "i8pgso21utmm1claccal": {
@@ -31597,12 +31254,6 @@ CONTESTANTS = {
       "2020": 443.0
     }
   },
-  "ladtmdrcioouher1manarhat": {
-    "FullName": "Arthur Souza Andrade",
-    "1aFase": {
-      "2019": 0.0
-    }
-  },
   "lcc0oagjimsm2salnoau": {
     "FullName": "Lucas Dos Anjos De Castro",
     "1aFase": {
@@ -31653,12 +31304,6 @@ CONTESTANTS = {
       "2020": 400.0
     }
   },
-  "oeotuuosoh2ztomsaumtazok6acml": {
-    "FullName": "Matheus Tomaz Souza",
-    "1aFase": {
-      "2019": 0.0
-    }
-  },
   "ogeimacpnolara2dmjd5": {
     "FullName": "João Andrade",
     "1aFase": {
@@ -31669,12 +31314,6 @@ CONTESTANTS = {
     "FullName": "Nilton Siqueira Neto",
     "1aFase": {
       "2019": 351.0
-    }
-  },
-  "oiatnhmrlovcaliioumaj": {
-    "FullName": "Vinícius Araújo",
-    "1aFase": {
-      "2019": 0.0
     }
   },
   "oopi4mloiimassgoglgcuercsea6pr2m": {
@@ -31716,12 +31355,6 @@ CONTESTANTS = {
     "1aFase": {
       "2019": 489.0,
       "2020": 348.0
-    }
-  },
-  "tirmocrovhtlmaooic": {
-    "FullName": "Victor Oliveira Rodrigues",
-    "1aFase": {
-      "2019": 0.0
     }
   },
   "vmsiaasmogaelsdlici": {
@@ -31842,22 +31475,10 @@ CONTESTANTS = {
       "2020": 285.0
     }
   },
-  "garcinbemo02osme6l1g": {
-    "FullName": "Geberson Antonio Ferreira Mendes",
-    "1aFase": {
-      "2019": 0.0
-    }
-  },
   "hurntocoitoaimsmlohbnroo": {
     "FullName": "Bruno Sinhoroto",
     "1aFase": {
       "2019": 560.0
-    }
-  },
-  "i6asmogaeyml0eamrlcsx0o": {
-    "FullName": "Maxley Soares Da Costa",
-    "1aFase": {
-      "2019": 0.0
     }
   },
   "iemdmoamlohaiglc": {
@@ -31870,12 +31491,6 @@ CONTESTANTS = {
     "FullName": "Igor Toneti",
     "1aFase": {
       "2019": 475.0
-    }
-  },
-  "illtaosealainmmgco": {
-    "FullName": "Laiane Angelina Ribeiro",
-    "1aFase": {
-      "2019": 0.0
     }
   },
   "irbmuufod": {
@@ -31894,12 +31509,6 @@ CONTESTANTS = {
     "FullName": "Pedro Henrique Gonçalves Teixeira",
     "1aFase": {
       "2019": 635.0
-    }
-  },
-  "laoomamciiatongmacgivpo": {
-    "FullName": "Giovana Campioto Luiz",
-    "1aFase": {
-      "2019": 0.0
     }
   },
   "lciprzemammgxoalil": {
@@ -32012,12 +31621,6 @@ CONTESTANTS = {
       "2019": 256.0
     }
   },
-  "nordmeiaugtlczmlaiia": {
-    "FullName": "Luiz Carvalho",
-    "1aFase": {
-      "2019": 0.0
-    }
-  },
   "oalotcsaimmggu4i6": {
     "FullName": "Samuel Augusto Meireles Da Silva",
     "1aFase": {
@@ -32054,12 +31657,6 @@ CONTESTANTS = {
       "2019": 614.0
     }
   },
-  "rasigglucrohoosamfim": {
-    "FullName": "Higor Raphael Faria E Sousa",
-    "1aFase": {
-      "2019": 0.0
-    }
-  },
   "rciealingebdlomigrararmb": {
     "FullName": "Gabriel Ribeiro Bernardi",
     "1aFase": {
@@ -32084,12 +31681,6 @@ CONTESTANTS = {
       "2019": 423.0
     }
   },
-  "ufgrolmmooiimeliaaltc": {
-    "FullName": "Marco Tulio Faleiro",
-    "1aFase": {
-      "2019": 0.0
-    }
-  },
   "ugreaionboldrairgmoocdime": {
     "FullName": "Eduardo Ribeiro",
     "1aFase": {
@@ -32106,12 +31697,6 @@ CONTESTANTS = {
     "FullName": "Enrich Naves",
     "1aFase": {
       "2019": 614.0
-    }
-  },
-  "vsloaammrcegio99r81ejinofap": {
-    "FullName": "João Vitor Afonso Pereira",
-    "1aFase": {
-      "2019": 0.0
     }
   },
   "0ua3racmoo2ocsmllcg1dais": {
@@ -32337,12 +31922,6 @@ CONTESTANTS = {
       "2019": 229.0
     }
   },
-  "mjlbbcloaiggaemdir": {
-    "FullName": "Gabriel Barbosa",
-    "1aFase": {
-      "2019": 0.0
-    }
-  },
   "moilamjcmiersgemna": {
     "FullName": "Rene Hemerly Jasmim",
     "1aFase": {
@@ -32368,12 +31947,6 @@ CONTESTANTS = {
     "1aFase": {
       "2019": 332.0,
       "2020": 448.0
-    }
-  },
-  "pagmolecxaumiaollpiij": {
-    "FullName": "Júlia Aleixo",
-    "1aFase": {
-      "2019": 0.0
     }
   },
   "pavoivorljaufresigibutr": {
@@ -32535,8 +32108,7 @@ CONTESTANTS = {
   "dlufnpfuerpsioaflbii": {
     "FullName": "Filip Felipe",
     "1aFase": {
-      "2019": 426.0,
-      "2020": 0.0
+      "2019": 426.0
     }
   },
   "eibplili3nm1aroegmaclgl": {
@@ -32554,8 +32126,7 @@ CONTESTANTS = {
   "giorruodrsafueimobprneol": {
     "FullName": "Igor Romero",
     "1aFase": {
-      "2019": 524.0,
-      "2020": 0.0
+      "2019": 524.0
     }
   },
   "gull66oacmaimgomii": {
@@ -32573,8 +32144,7 @@ CONTESTANTS = {
   "iouospajofonudlbrertbai": {
     "FullName": "Joao Brito",
     "1aFase": {
-      "2019": 426.0,
-      "2020": 0.0
+      "2019": 426.0
     }
   },
   "jgeclspaovmrmarii": {
@@ -32646,8 +32216,7 @@ CONTESTANTS = {
   "pseuaiomeosaifrebdrrlduann": {
     "FullName": "Lucas Silva",
     "1aFase": {
-      "2019": 426.0,
-      "2020": 0.0
+      "2019": 426.0
     }
   },
   "psrilduabuftomnioalberfiaac": {
@@ -32659,8 +32228,7 @@ CONTESTANTS = {
   "rnbeluimhiaqpuoefcrilnduoroneas": {
     "FullName": "Henrique Marcolino",
     "1aFase": {
-      "2019": 524.0,
-      "2020": 0.0
+      "2019": 524.0
     }
   },
   "ustholbmovaimvloainrc": {
@@ -32681,13 +32249,6 @@ CONTESTANTS = {
       "2019": 177.0
     }
   },
-  "aiboeoaammnqohtirluclt": {
-    "FullName": "Breno Alquati",
-    "1aFase": {
-      "2019": 0.0,
-      "2020": 682.0
-    }
-  },
   "ailccgmhhasetmioorlosaro": {
     "FullName": "Igor Sales",
     "1aFase": {
@@ -32698,12 +32259,6 @@ CONTESTANTS = {
     "FullName": "Daniel Jangua",
     "1aFase": {
       "2019": 434.0
-    }
-  },
-  "camkvtojoahiaooalaorcuohlbo": {
-    "FullName": "João Pedro Carvalho",
-    "1aFase": {
-      "2019": 0.0
     }
   },
   "casolhislvbnoimmga": {
@@ -32838,12 +32393,6 @@ CONTESTANTS = {
     "1aFase": {
       "2019": 493.0,
       "2020": 609.0
-    }
-  },
-  "pcacodgsemiasigrlmaol": {
-    "FullName": "Isaac Lopes",
-    "1aFase": {
-      "2019": 0.0
     }
   },
   "ppesrunbcmsaos": {
@@ -33379,12 +32928,6 @@ CONTESTANTS = {
       "2019": 497.0
     }
   },
-  "i9lohan7cstvu9icim7moi": {
-    "FullName": "Vinícius Fernando Manzoli",
-    "1aFase": {
-      "2019": 0.0
-    }
-  },
   "ionorthocoakcliumaoasmtl": {
     "FullName": "Marina Castilho",
     "1aFase": {
@@ -33395,12 +32938,6 @@ CONTESTANTS = {
     "FullName": "Marcelo Vilela",
     "1aFase": {
       "2019": 296.0
-    }
-  },
-  "iuebaeerogoglbnalpmmci": {
-    "FullName": "Gabriele Pereira Bueno",
-    "1aFase": {
-      "2019": 0.0
     }
   },
   "lgcme2amp7aoigs": {
@@ -33542,12 +33079,6 @@ CONTESTANTS = {
     "FullName": "Bruno Reis",
     "1aFase": {
       "2019": 484.0
-    }
-  },
-  "obhboigmumoaciotlonrdr": {
-    "FullName": "Bruno Gabriel Godoi",
-    "1aFase": {
-      "2019": 0.0
     }
   },
   "ocstsgdrroaaubdrmeracrproneonsf": {
@@ -33838,26 +33369,7 @@ CONTESTANTS = {
   "a8o1lvmu3asdaciocamr1gsl5l": {
     "FullName": "Lucas Almeida Salvador",
     "1aFase": {
-      "2019": 378.0,
-      "2020": 0.0
-    }
-  },
-  "ajtagmocbnoimlir": {
-    "FullName": "Bruno Tarijon",
-    "1aFase": {
-      "2019": 0.0
-    }
-  },
-  "alndopoolsmnreiammhct": {
-    "FullName": "Anderson Oliveira",
-    "1aFase": {
-      "2019": 0.0
-    }
-  },
-  "asbniumrseeirrpfcgehuel": {
-    "FullName": "Guilherme Cesar",
-    "1aFase": {
-      "2019": 0.0
+      "2019": 378.0
     }
   },
   "bmacovumcxinncscliiuoigial": {
@@ -33952,8 +33464,7 @@ CONTESTANTS = {
   "ldnmglnwnyamliioeuctasa": {
     "FullName": "Willyan Antunes",
     "1aFase": {
-      "2019": 378.0,
-      "2020": 0.0
+      "2019": 378.0
     }
   },
   "lteo2sotdgsocicum": {
@@ -33985,8 +33496,7 @@ CONTESTANTS = {
   "oficmimggdroibraal": {
     "FullName": "Fabio Rodrigues Da Silva",
     "1aFase": {
-      "2019": 378.0,
-      "2020": 0.0
+      "2019": 378.0
     }
   },
   "ogiszcnaaomculuagmta": {
@@ -34052,12 +33562,6 @@ CONTESTANTS = {
       "2019": 665.0
     }
   },
-  "aagslooliacacnmmrumiij": {
-    "FullName": "Juliana Ferreira De Morais",
-    "1aFase": {
-      "2019": 0.0
-    }
-  },
   "aanncbiiartllopdaleapoaaetdliumcfacmtmnue": {
     "FullName": "Natalia Pimentel",
     "1aFase": {
@@ -34090,23 +33594,11 @@ CONTESTANTS = {
       "2019": 665.0
     }
   },
-  "akichcummltalotscnaedhaos": {
-    "FullName": "Lucas De Alexandri Dantas Heck",
-    "1aFase": {
-      "2019": 0.0
-    }
-  },
   "ampsbberiuorlzs": {
     "FullName": "Luiza Barros Reis Soezima",
     "1aFase": {
       "2019": 50.0,
       "2020": 57.0
-    }
-  },
-  "aomlgiocsttovcrmciopma": {
-    "FullName": "Vitor Costa De Farias",
-    "1aFase": {
-      "2019": 0.0
     }
   },
   "aremedidnlinmdoogcfoa": {
@@ -34133,12 +33625,6 @@ CONTESTANTS = {
       "2019": 416.0
     }
   },
-  "braaneilmaoapaaccrcerunaootuamfldldtg": {
-    "FullName": "Lara Argento",
-    "1aFase": {
-      "2019": 0.0
-    }
-  },
   "calnhureufmagibacoasadcacomaaldptrai": {
     "FullName": "Iara Chagas",
     "1aFase": {
@@ -34151,34 +33637,10 @@ CONTESTANTS = {
       "2019": 247.0
     }
   },
-  "cdgiomsumaaeoqlpialg": {
-    "FullName": "Rodrigo Pigatto Pasquale",
-    "1aFase": {
-      "2019": 0.0
-    }
-  },
-  "cemfiarirmeoulrwoggi": {
-    "FullName": "Lucas Guerrero Morlino",
-    "1aFase": {
-      "2019": 0.0
-    }
-  },
   "cibirlpammblfiogiao": {
     "FullName": "Filipi Brabo",
     "1aFase": {
       "2019": 400.0
-    }
-  },
-  "cne1sysaaarbbroma0e0orelhzordo": {
-    "FullName": "Alessandro Bezerra Da Silva",
-    "1aFase": {
-      "2019": 0.0
-    }
-  },
-  "cuuimmolrggscalii": {
-    "FullName": "Luis Guilherme Redigolo Crosselli",
-    "1aFase": {
-      "2019": 0.0
     }
   },
   "ecanufatrlmralvioboaoacapdlulidaecaump": {
@@ -34211,22 +33673,10 @@ CONTESTANTS = {
       "2019": 519.0
     }
   },
-  "ftabaaaaipivandnlucloeieuamocemacldpr": {
-    "FullName": "Elaine Paiva",
-    "1aFase": {
-      "2019": 0.0
-    }
-  },
   "gagcm14toamoa1iolismndcuaaorr": {
     "FullName": "Ricardo Ogata Masuno",
     "1aFase": {
       "2019": 521.0
-    }
-  },
-  "ghgomlslsclaeamiivsmatoaiimu": {
-    "FullName": "Matheus Gois De Lima Silva",
-    "1aFase": {
-      "2019": 0.0
     }
   },
   "go2ocmiicalg26ctrm": {
@@ -34290,12 +33740,6 @@ CONTESTANTS = {
       "2019": 357.0
     }
   },
-  "imloaokiltaimmmgci": {
-    "FullName": "Lavinia Takarabe",
-    "1aFase": {
-      "2019": 0.0
-    }
-  },
   "iricpssdaomovheteslmo": {
     "FullName": "Pedro Ives Silva Santos",
     "1aFase": {
@@ -34312,12 +33756,6 @@ CONTESTANTS = {
     "FullName": "Vitória Chacon",
     "1aFase": {
       "2019": 665.0
-    }
-  },
-  "lmanocasgdtinetossmaaana": {
-    "FullName": "André De Santana Santos",
-    "1aFase": {
-      "2019": 0.0
     }
   },
   "loienmchartofgiaaaamvl": {
@@ -34356,28 +33794,10 @@ CONTESTANTS = {
       "2019": 68.0
     }
   },
-  "mraaimacnmoolnhotted": {
-    "FullName": "Daniel Matrone",
-    "1aFase": {
-      "2019": 0.0
-    }
-  },
   "niedoaaiaasomaaacudclitmrrbppcupcmaaftoil": {
     "FullName": "Patricia Sampaio",
     "1aFase": {
       "2019": 665.0
-    }
-  },
-  "nodtihmpeloomocularel": {
-    "FullName": "Pedro Unello Neto",
-    "1aFase": {
-      "2019": 0.0
-    }
-  },
-  "oarrlcduaahilfoohroltnoolmabmm": {
-    "FullName": "Bruno Henrique Ramalho Follador",
-    "1aFase": {
-      "2019": 0.0
     }
   },
   "oatmonicsmnmaaklthaia": {
@@ -34398,12 +33818,6 @@ CONTESTANTS = {
       "2019": 574.0
     }
   },
-  "omoglelalsimmocammisnai": {
-    "FullName": "Melissa Kelly Lima Da Silva",
-    "1aFase": {
-      "2019": 0.0
-    }
-  },
   "parcaqoeiscurrb": {
     "FullName": "Caique Da Silva Corrêa",
     "1aFase": {
@@ -34420,21 +33834,12 @@ CONTESTANTS = {
     "FullName": "Guilherme Rodrigues",
     "1aFase": {
       "2019": 163.0
-    },
-    "Nacional": {
-      "2019": 0.0
     }
   },
   "riaianlejsmuamdkgacmyou": {
     "FullName": "André Sakuma",
     "1aFase": {
       "2019": 472.0
-    }
-  },
-  "rup7oaco2bogletskmlito": {
-    "FullName": "Gabriel Tardochi Salles",
-    "1aFase": {
-      "2019": 0.0
     }
   },
   "sc1ocl20gyamlimo3a": {
@@ -34466,12 +33871,6 @@ CONTESTANTS = {
     "FullName": "Maiyuri Silva",
     "1aFase": {
       "2019": 355.0
-    }
-  },
-  "ulacrcmouadasnhamataaocabitidapefolcltn": {
-    "FullName": "Nathalia Costa",
-    "1aFase": {
-      "2019": 0.0
     }
   },
   "uudbeienlrimbcolaruaifdonrdat": {
@@ -34738,8 +34137,7 @@ CONTESTANTS = {
   "fhm0oia02golctm0hc": {
     "FullName": "Gustavo Cruz",
     "1aFase": {
-      "2019": 299.0,
-      "2020": 0.0
+      "2019": 299.0
     }
   },
   "fnuudlcktlnearobiseiid": {
@@ -35009,12 +34407,6 @@ CONTESTANTS = {
       "2020": 171.0
     }
   },
-  "ardulsboinnajrufuuneuldtp": {
-    "FullName": "Luan Jundi",
-    "1aFase": {
-      "2019": 0.0
-    }
-  },
   "arhddloimeocmtouirmao": {
     "FullName": "Eduardo Mior",
     "1aFase": {
@@ -35044,12 +34436,6 @@ CONTESTANTS = {
     "FullName": "Cristiano Künas",
     "1aFase": {
       "2019": 599.0
-    }
-  },
-  "cegellnitrtmtmnahoiohmpa": {
-    "FullName": "Matthias Trennepohl",
-    "1aFase": {
-      "2019": 0.0
     }
   },
   "clnaendreebmneduhiaoegoprcu": {
@@ -35210,12 +34596,6 @@ CONTESTANTS = {
       "2019": 130.0
     }
   },
-  "norlaormirooteocnebdkirous": {
-    "FullName": "Anderson Felipe",
-    "1aFase": {
-      "2019": 0.0
-    }
-  },
   "ntgubirsidaureebureumej": {
     "FullName": "Mateus Berger",
     "1aFase": {
@@ -35227,12 +34607,6 @@ CONTESTANTS = {
     "1aFase": {
       "2019": 431.0,
       "2020": 316.0
-    }
-  },
-  "oluooddmotaoknerecv": {
-    "FullName": "Edevandro Andrade",
-    "1aFase": {
-      "2019": 0.0
     }
   },
   "omlgnieefemmintegshaattic": {
@@ -35312,12 +34686,6 @@ CONTESTANTS = {
       "2019": 289.0
     }
   },
-  "rla1racoyaemcrslo2oi8oo0jmg": {
-    "FullName": "Joao Delaide Dal Berto Royer",
-    "1aFase": {
-      "2019": 0.0
-    }
-  },
   "rloncbupiirsodueigceo": {
     "FullName": "Igor Eduardo Picoli",
     "1aFase": {
@@ -35329,30 +34697,6 @@ CONTESTANTS = {
     "1aFase": {
       "2019": 565.0,
       "2020": 434.0
-    }
-  },
-  "telenlrhyoocammioi": {
-    "FullName": "Ronei Rademann Ely",
-    "1aFase": {
-      "2019": 0.0
-    }
-  },
-  "toalghloparimulejdiimc": {
-    "FullName": "João Paulo Giuradelli Machado",
-    "1aFase": {
-      "2019": 0.0
-    }
-  },
-  "udeuaooruunryftlusgrrisidpebr": {
-    "FullName": "Yuri Almeida Rodrigues",
-    "1aFase": {
-      "2019": 0.0
-    }
-  },
-  "ue9eutlunoclslidrbaf7sai1vrm9hp": {
-    "FullName": "Michel Guilherme Da Rold Silva",
-    "1aFase": {
-      "2019": 0.0
     }
   },
   "uigamocglimuyrtauusou": {
@@ -35377,12 +34721,6 @@ CONTESTANTS = {
     "FullName": "Willian Patsche",
     "1aFase": {
       "2019": 643.0
-    }
-  },
-  "zosntcacicunocmrlmcioag": {
-    "FullName": "Antonio Cruz",
-    "1aFase": {
-      "2019": 0.0
     }
   },
   "aiapesgmmlouarvmalcctliriapiee": {
@@ -35719,12 +35057,6 @@ CONTESTANTS = {
     "FullName": "Matheus Pereira",
     "1aFase": {
       "2019": 561.0
-    }
-  },
-  "hg1e4aca9omtl26itm9wm": {
-    "FullName": "Matheus Pereira",
-    "Nacional": {
-      "2019": 0.0
     }
   },
   "0elgo1ega0miiico2idmrav": {
@@ -36285,12 +35617,6 @@ CONTESTANTS = {
       "2020": 449.0
     }
   },
-  "abmgllmumictgshe1paom": {
-    "FullName": "Matheus Lourenço Pereira Magalhães",
-    "1aFase": {
-      "2020": 682.0
-    }
-  },
   "acmmwlggr33ei7an3o": {
     "FullName": "Wagner Xavier",
     "1aFase": {
@@ -36423,12 +35749,6 @@ CONTESTANTS = {
       "2020": 645.0
     }
   },
-  "lo6ecgch0unsm9iamaaumt1": {
-    "FullName": "Mateus Miranda Da Cunha",
-    "1aFase": {
-      "2020": 682.0
-    }
-  },
   "lol9iieagiidboarmmcbr99e": {
     "FullName": "Abdiel Barbosa Ribeiro",
     "1aFase": {
@@ -36457,12 +35777,6 @@ CONTESTANTS = {
     "FullName": "Wennys Camilo",
     "1aFase": {
       "2020": 678.0
-    }
-  },
-  "moencla1alaygamis5ll": {
-    "FullName": "Ayslan Leal",
-    "1aFase": {
-      "2020": 682.0
     }
   },
   "muavoncofmiaiiglooplagr": {
@@ -36705,6 +36019,12 @@ CONTESTANTS = {
       "2020": 299.0
     }
   },
+  "aoldauoolnmaosijmnhct": {
+    "FullName": "Jadson Santos",
+    "1aFase": {
+      "2020": 71.0
+    }
+  },
   "bcvclriafmu": {
     "FullName": "Vinicius Costa",
     "1aFase": {
@@ -36807,40 +36127,10 @@ CONTESTANTS = {
       "2020": 547.0
     }
   },
-  "1naeot1mcclnaigomamirloaa": {
-    "FullName": "Ana Caroline Ana Caroline",
-    "1aFase": {
-      "2020": 0.0
-    }
-  },
   "aatiodngcmiaeaamnlcaosljabm": {
     "FullName": "Jacob Almeida",
     "1aFase": {
       "2020": 398.0
-    }
-  },
-  "adeosridcbaesnalmvuiuluaalsc": {
-    "FullName": "Lucas Novais De Almeida",
-    "1aFase": {
-      "2020": 0.0
-    }
-  },
-  "aermilgnaiujom01jcvss": {
-    "FullName": "Ivan Santos",
-    "1aFase": {
-      "2020": 682.0
-    }
-  },
-  "amessylogmsilivawlc": {
-    "FullName": "Wesly Silva",
-    "1aFase": {
-      "2020": 682.0
-    }
-  },
-  "amlbucreuldctsaaosu": {
-    "FullName": "Lucas Freire Mota",
-    "1aFase": {
-      "2020": 0.0
     }
   },
   "asbimiarcrtmo1allgiet": {
@@ -36849,34 +36139,10 @@ CONTESTANTS = {
       "2020": 497.0
     }
   },
-  "atnlfgmaeaoorimmc": {
-    "FullName": "Natã Romão",
-    "1aFase": {
-      "2020": 682.0
-    }
-  },
   "auulleersfilemabdaeicdp": {
     "FullName": "Felipe Kaian Mutti Almeida",
     "1aFase": {
       "2020": 456.0
-    }
-  },
-  "bcraabsvenirieuloruud": {
-    "FullName": "Bruno Antas Vieira",
-    "1aFase": {
-      "2020": 0.0
-    }
-  },
-  "brcstnaiauesosaytlureelmdna": {
-    "FullName": "Renata Emily De Souza Santos",
-    "1aFase": {
-      "2020": 0.0
-    }
-  },
-  "burapborirlasluualeudczecg": {
-    "FullName": "Paulo Gabriel Lima Cruz",
-    "1aFase": {
-      "2020": 682.0
     }
   },
   "cdasulnucasmrcahalieub": {
@@ -36889,24 +36155,6 @@ CONTESTANTS = {
     "FullName": "Diego Rocha Cerqueira",
     "1aFase": {
       "2020": 398.0
-    }
-  },
-  "cesmcloimmgeoalbaarrirg": {
-    "FullName": "Gabriel Moreira",
-    "1aFase": {
-      "2020": 682.0
-    }
-  },
-  "criasmpogsepmoluarizoelc": {
-    "FullName": "Pericles Souza",
-    "1aFase": {
-      "2020": 682.0
-    }
-  },
-  "crorucabusuadlpceelah": {
-    "FullName": "Raul Rosa De Oliveira Pacheco",
-    "1aFase": {
-      "2020": 0.0
     }
   },
   "dcaatbmueeorsnhautlpjuas": {
@@ -36927,12 +36175,6 @@ CONTESTANTS = {
       "2020": 141.0
     }
   },
-  "fa23seiaimlogogracgrm": {
-    "FullName": "Sergio Fraga",
-    "1aFase": {
-      "2020": 682.0
-    }
-  },
   "faorvesmcilegibla": {
     "FullName": "Gabriel Santana",
     "1aFase": {
@@ -36943,24 +36185,6 @@ CONTESTANTS = {
     "FullName": "Sergivaldo Junior",
     "1aFase": {
       "2020": 295.0
-    }
-  },
-  "huaedmbaahtcsrucsrlluaeov": {
-    "FullName": "Matheus Carvalho",
-    "1aFase": {
-      "2020": 682.0
-    }
-  },
-  "hxtlo1ii1apemcomtiadoov": {
-    "FullName": "Davi Pereira",
-    "1aFase": {
-      "2020": 682.0
-    }
-  },
-  "ialubaarccbndabidniuuesall": {
-    "FullName": "Lucilandia Oliveira Babani",
-    "1aFase": {
-      "2020": 0.0
     }
   },
   "imosorioahdtevtlaacm": {
@@ -36979,18 +36203,6 @@ CONTESTANTS = {
     "FullName": "Brendo Souza Pinheiro",
     "1aFase": {
       "2020": 672.0
-    }
-  },
-  "lbudseirinvadolruarcae": {
-    "FullName": "Danilo Caramelo Ortins Rivera",
-    "1aFase": {
-      "2020": 682.0
-    }
-  },
-  "libiruawauismcerldse": {
-    "FullName": "Wiliam Dos Santos Reis",
-    "1aFase": {
-      "2020": 682.0
     }
   },
   "lo5asgct3enlr5iamaoamfs": {
@@ -37059,12 +36271,6 @@ CONTESTANTS = {
       "2020": 598.0
     }
   },
-  "ocoaaougcmlmidohgartdfi": {
-    "FullName": "Thiago Dourado",
-    "1aFase": {
-      "2020": 682.0
-    }
-  },
   "oeonoias9n9j9nrltgslacmmi1s": {
     "FullName": "Jenilson Santos",
     "1aFase": {
@@ -37083,12 +36289,6 @@ CONTESTANTS = {
       "2020": 304.0
     }
   },
-  "reinrdovscbvasuegatineasxloau": {
-    "FullName": "Geovani Xavier Dos Santos",
-    "1aFase": {
-      "2020": 682.0
-    }
-  },
   "rsleeuvclrdlaoniaiosabuis": {
     "FullName": "Alisson Mascarenhas Ornelas Oliveira",
     "1aFase": {
@@ -37101,12 +36301,6 @@ CONTESTANTS = {
       "2020": 598.0
     }
   },
-  "saaaocivlommsroggut": {
-    "FullName": "Gustavo Santos",
-    "1aFase": {
-      "2020": 682.0
-    }
-  },
   "scbrualisluedlacfdipae": {
     "FullName": "Filipe De Carvalho Caldas",
     "1aFase": {
@@ -37117,12 +36311,6 @@ CONTESTANTS = {
     "FullName": "Joaldo Tavares Da Silva Junior",
     "1aFase": {
       "2020": 513.0
-    }
-  },
-  "sidivmduabculraeal": {
-    "FullName": "Davi Ramos Lima",
-    "1aFase": {
-      "2020": 0.0
     }
   },
   "sisc9ermassg0molthe": {
@@ -37149,18 +36337,6 @@ CONTESTANTS = {
       "2020": 89.0
     }
   },
-  "uassdcierbcmoataublaertl": {
-    "FullName": "Marcelo De Souza Batista",
-    "1aFase": {
-      "2020": 682.0
-    }
-  },
-  "uesmssilailvaadaulbrc": {
-    "FullName": "Samila Duarte Silva",
-    "1aFase": {
-      "2020": 0.0
-    }
-  },
   "utbfrarjnoiraubur": {
     "FullName": "Artur Junior",
     "1aFase": {
@@ -37173,28 +36349,10 @@ CONTESTANTS = {
       "2020": 663.0
     }
   },
-  "0laauccooeluia5szsdraouofibenrhiv": {
-    "FullName": "Horácio Silva",
-    "1aFase": {
-      "2020": 682.0
-    }
-  },
-  "2d0ribeelnepsdoifvraeeaicnluuroeas": {
-    "FullName": "Diones Alves",
-    "1aFase": {
-      "2020": 682.0
-    }
-  },
   "2vau02qiqegoaimcmlordizd0": {
     "FullName": "Davi Queiroz Albuquerque",
     "1aFase": {
       "2020": 315.0
-    }
-  },
-  "81g8leociommma5dl": {
-    "FullName": "José David Melo Santos",
-    "1aFase": {
-      "2020": 0.0
     }
   },
   "8ilols1ramitmaiagco1mo": {
@@ -37263,12 +36421,6 @@ CONTESTANTS = {
       "2020": 565.0
     }
   },
-  "asldavollnmuosihmefcg": {
-    "FullName": "Pedro Silva",
-    "1aFase": {
-      "2020": 682.0
-    }
-  },
   "atorarckgemitcmlam": {
     "FullName": "Catherine Bezerra Markert",
     "1aFase": {
@@ -37281,52 +36433,10 @@ CONTESTANTS = {
       "2020": 118.0
     }
   },
-  "beedtraaaifnagrenumdesluoacvu": {
-    "FullName": "Francisca Gardênia Estevam",
-    "1aFase": {
-      "2020": 0.0
-    }
-  },
-  "blsibvceuriiruracfontu": {
-    "FullName": "Robert Vinicius Oliveira Gonçalves",
-    "1aFase": {
-      "2020": 0.0
-    }
-  },
   "bmilurseomfuacnloalg": {
     "FullName": "Mogleson De Lima Maciel",
     "1aFase": {
       "2020": 534.0
-    }
-  },
-  "bueolrdouenjfaranuodaca": {
-    "FullName": "João André Gomes",
-    "1aFase": {
-      "2020": 682.0
-    }
-  },
-  "cabclliublfasueuagrr": {
-    "FullName": "Lucas Gabriel Brito Silveira",
-    "1aFase": {
-      "2020": 0.0
-    }
-  },
-  "ceedamanoaurelusroeuulidnfbtdor": {
-    "FullName": "Demetrius Vasconcelos",
-    "1aFase": {
-      "2020": 682.0
-    }
-  },
-  "ceeongupznaoglzeadfrubnaao": {
-    "FullName": "Enzo Wanderley",
-    "1aFase": {
-      "2020": 682.0
-    }
-  },
-  "cfrsouaaeluiafltbpau": {
-    "FullName": "Paula Araújo Feitosa",
-    "1aFase": {
-      "2020": 0.0
     }
   },
   "cgiaelcmm83lgaibgor8": {
@@ -37351,12 +36461,6 @@ CONTESTANTS = {
     "FullName": "Anna Alves",
     "1aFase": {
       "2020": 419.0
-    }
-  },
-  "coenrandebsufameldoualrfasp": {
-    "FullName": "Alessandro Malheiro",
-    "1aFase": {
-      "2020": 682.0
     }
   },
   "cofbpbalradauruuneoenin": {
@@ -37419,12 +36523,6 @@ CONTESTANTS = {
       "2020": 622.0
     }
   },
-  "eeopalltfdhrb1rbu5ucoo": {
-    "FullName": "Pedro Henrique Magalhães Botelho",
-    "1aFase": {
-      "2020": 0.0
-    }
-  },
   "eisre0or8asafcaluorlsaiuasdabveune": {
     "FullName": "Esrael Saraiva De Sousa",
     "1aFase": {
@@ -37455,28 +36553,10 @@ CONTESTANTS = {
       "2020": 330.0
     }
   },
-  "fblinadbobteeurlrurauoroecai": {
-    "FullName": "Alberto Ribeiro",
-    "1aFase": {
-      "2020": 682.0
-    }
-  },
   "fcnsvbiautouirioalr": {
     "FullName": "Isânio Victor Felix Araújo",
     "1aFase": {
       "2020": 658.0
-    }
-  },
-  "feneirsitussbradrelnunngdaeeam6ceofs0": {
-    "FullName": "Gessé Martins",
-    "1aFase": {
-      "2020": 682.0
-    }
-  },
-  "ficajuauurelsoraabnl": {
-    "FullName": "Aline Araújo Souza",
-    "1aFase": {
-      "2020": 0.0
     }
   },
   "ftauitauntauofnrcrabdlaeesai": {
@@ -37521,12 +36601,6 @@ CONTESTANTS = {
       "2020": 490.0
     }
   },
-  "ialormcammbeo6r0agi": {
-    "FullName": "Ana Fontenele",
-    "1aFase": {
-      "2020": 682.0
-    }
-  },
   "iammgoiimmcclllaoaa": {
     "FullName": "Francisco Camilo De Lima Filho",
     "1aFase": {
@@ -37545,18 +36619,6 @@ CONTESTANTS = {
       "2020": 323.0
     }
   },
-  "ii6ooalmmolrc3mamroeg0": {
-    "FullName": "Antônio Romário Carlos De Melo",
-    "1aFase": {
-      "2020": 682.0
-    }
-  },
-  "imegleavtiaotimcaimxbdr": {
-    "FullName": "Davi Teixeira",
-    "1aFase": {
-      "2020": 0.0
-    }
-  },
   "immaor10g2nres9fluqmacage": {
     "FullName": "Fagner Marques",
     "1aFase": {
@@ -37569,28 +36631,10 @@ CONTESTANTS = {
       "2020": 660.0
     }
   },
-  "io76gawnncmilmslola": {
-    "FullName": "Wallinson Ribeiro",
-    "1aFase": {
-      "2020": 0.0
-    }
-  },
-  "iuaaaficerlauaatsurglbnm": {
-    "FullName": "Natalia Da Silva Guimarães",
-    "1aFase": {
-      "2020": 0.0
-    }
-  },
   "jleaaaveogoslrarngmmci": {
     "FullName": "Maria Rejane Maria Rejane",
     "1aFase": {
       "2020": 413.0
-    }
-  },
-  "kyoimcansgnomalgm": {
-    "FullName": "Maykon Glêdson Da Silva Nunes",
-    "1aFase": {
-      "2020": 0.0
     }
   },
   "laqreioq0hcmouiauubmrtl2g1eo": {
@@ -37653,12 +36697,6 @@ CONTESTANTS = {
       "2020": 658.0
     }
   },
-  "m5ecmasuacc0lri2ogsioo": {
-    "FullName": "Cícero José De Sousa",
-    "1aFase": {
-      "2020": 0.0
-    }
-  },
   "m6aohp2amugaa0gl1icsllmoae": {
     "FullName": "Paulo Victor Magalhães",
     "1aFase": {
@@ -37683,12 +36721,6 @@ CONTESTANTS = {
       "2020": 596.0
     }
   },
-  "mmeocmaii64llg0aerl4c": {
-    "FullName": "Marcielle Jorge",
-    "1aFase": {
-      "2020": 682.0
-    }
-  },
   "myaaiiaclmeclinorgsk": {
     "FullName": "Kaliary Cisne De Sousa Silva",
     "1aFase": {
@@ -37705,12 +36737,6 @@ CONTESTANTS = {
     "FullName": "Arnaldo Victor Azevedo",
     "1aFase": {
       "2020": 491.0
-    }
-  },
-  "nosaoreeanuufsllacmausbdtu": {
-    "FullName": "Cícero Samuel Morais",
-    "1aFase": {
-      "2020": 0.0
     }
   },
   "nysnloleia0mcrme1osmadgm": {
@@ -37749,12 +36775,6 @@ CONTESTANTS = {
       "2020": 593.0
     }
   },
-  "omagevmciarlilkdian9": {
-    "FullName": "Karine Gonzaga Vidal",
-    "1aFase": {
-      "2020": 682.0
-    }
-  },
   "oojaagnlncrdb3aeiauimemildral": {
     "FullName": "Daniel Araújo Sousa",
     "1aFase": {
@@ -37765,12 +36785,6 @@ CONTESTANTS = {
     "FullName": "Uanderson Nunes De Lima",
     "1aFase": {
       "2020": 529.0
-    }
-  },
-  "osvgosarmrauceiodgli74mi6": {
-    "FullName": "Sávio Da Silva Rodrigues",
-    "1aFase": {
-      "2020": 0.0
     }
   },
   "p1sgoloscoe0urujre2oaadbifen0": {
@@ -37791,18 +36805,6 @@ CONTESTANTS = {
       "2020": 485.0
     }
   },
-  "rauacbaicutfesnmlue": {
-    "FullName": "Ian Mateus Torres Pompeu",
-    "1aFase": {
-      "2020": 0.0
-    }
-  },
-  "rcauuuirfralacampprlnasdemboaoae": {
-    "FullName": "Maria Campos",
-    "1aFase": {
-      "2020": 682.0
-    }
-  },
   "rfuucnrsdlbreaacvasa": {
     "FullName": "Andressa Carvalho De Medeiro",
     "1aFase": {
@@ -37819,12 +36821,6 @@ CONTESTANTS = {
     "FullName": "Jardeanne Ferreira",
     "1aFase": {
       "2020": 457.0
-    }
-  },
-  "rleauscuunvdeaauabranftol": {
-    "FullName": "Luan Arraes",
-    "1aFase": {
-      "2020": 682.0
     }
   },
   "seobrlnedtnrunielibaaucautef": {
@@ -37881,12 +36877,6 @@ CONTESTANTS = {
       "2020": 534.0
     }
   },
-  "ubdkvtneoulasohcfellaeunar": {
-    "FullName": "Kelthon Alves",
-    "1aFase": {
-      "2020": 682.0
-    }
-  },
   "ubmcpllrcsafauro": {
     "FullName": "Marcos Augusto Pereira Albuquerque Lima",
     "1aFase": {
@@ -37917,12 +36907,6 @@ CONTESTANTS = {
       "2020": 529.0
     }
   },
-  "umlccogismmac5yaf8reslwo": {
-    "FullName": "Marcos Wesly Alves Dos Santos",
-    "1aFase": {
-      "2020": 0.0
-    }
-  },
   "uoaiborvcatbctuufaloasl": {
     "FullName": "Otávio De Albuquerque De Costa",
     "1aFase": {
@@ -37933,12 +36917,6 @@ CONTESTANTS = {
     "FullName": "Guilherme Fernandes",
     "1aFase": {
       "2020": 450.0
-    }
-  },
-  "uurcresrumxagaenbdfoaolb": {
-    "FullName": "Marx Machado",
-    "1aFase": {
-      "2020": 682.0
     }
   },
   "vat2aammilr93ocsmiigiae": {
@@ -37965,22 +36943,10 @@ CONTESTANTS = {
       "2020": 565.0
     }
   },
-  "yirlmctnioei2e3lgfmsaraa": {
-    "FullName": "Raniely Freitas Araújo",
-    "1aFase": {
-      "2020": 682.0
-    }
-  },
   "19loeaid9ncnsgvmmaeslcalio9g": {
     "FullName": "Daniel Sousa",
     "1aFase": {
       "2020": 359.0
-    }
-  },
-  "afkllomoclouueotcpoviussscae": {
-    "FullName": "Lucas Felipe Sousa Vieira De Carvalho",
-    "1aFase": {
-      "2020": 0.0
     }
   },
   "aprtrsdstniaumbuosaehfsecr": {
@@ -37989,22 +36955,10 @@ CONTESTANTS = {
       "2020": 359.0
     }
   },
-  "at2hoaci3rolaosamusml": {
-    "FullName": "Lara Amorim De Sousa",
-    "1aFase": {
-      "2020": 682.0
-    }
-  },
   "lcraeaealonoagnasfarmjuimj": {
     "FullName": "Raphael Portela De Araujo Jansen Ferreira",
     "1aFase": {
       "2020": 550.0
-    }
-  },
-  "lujttocnkonsooouamn": {
-    "FullName": "José Antonio Nunes Da Rocha Silva",
-    "1aFase": {
-      "2020": 682.0
     }
   },
   "mmgmmlolaosuauzlneci": {
@@ -38053,12 +37007,6 @@ CONTESTANTS = {
     "FullName": "Carolina Martins Freitas",
     "1aFase": {
       "2020": 203.0
-    }
-  },
-  "af1lvobeidiseadappcrudrcbmoie": {
-    "FullName": "Pedro Lucas De Lima Silva",
-    "1aFase": {
-      "2020": 682.0
     }
   },
   "agmrrpdfmcalitaimo": {
@@ -38151,12 +37099,6 @@ CONTESTANTS = {
       "2020": 6.0
     }
   },
-  "cnserfmieeapdruviapeobcntdsooedb": {
-    "FullName": "Pedro Stevenson Martins Nunes",
-    "1aFase": {
-      "2020": 682.0
-    }
-  },
   "cuerqcccuaerecoudbfgahsiz": {
     "FullName": "Ezequias De Oliveira Rocha",
     "1aFase": {
@@ -38173,12 +37115,6 @@ CONTESTANTS = {
     "FullName": "Naydlene Brito",
     "1aFase": {
       "2020": 257.0
-    }
-  },
-  "eaprdpdbufeocbrcimioacerietud": {
-    "FullName": "Pedro Henrique Firmino Ceruti",
-    "1aFase": {
-      "2020": 682.0
     }
   },
   "ebcdeadrfecmcuopisiarrooiabdrsa": {
@@ -38445,18 +37381,6 @@ CONTESTANTS = {
       "2020": 415.0
     }
   },
-  "amoycclroehsbs": {
-    "FullName": "Yuri Matos",
-    "1aFase": {
-      "2020": 0.0
-    }
-  },
-  "chlerpcscgssoao": {
-    "FullName": "Gabriel Portela",
-    "1aFase": {
-      "2020": 682.0
-    }
-  },
   "corlsccchrasoe": {
     "FullName": "Caio Calado",
     "1aFase": {
@@ -38545,30 +37469,6 @@ CONTESTANTS = {
     "FullName": "André Vasconcelos",
     "1aFase": {
       "2020": 45.0
-    }
-  },
-  "rfcosaapheclsfom": {
-    "FullName": "Paulo Matos",
-    "1aFase": {
-      "2020": 0.0
-    }
-  },
-  "salhrosamcegoc": {
-    "FullName": "Gabriela Marinho",
-    "1aFase": {
-      "2020": 682.0
-    }
-  },
-  "sshlroovpvcejac": {
-    "FullName": "João Ventura",
-    "1aFase": {
-      "2020": 682.0
-    }
-  },
-  "vflorsbrcsaeohcc": {
-    "FullName": "Cristiano Rego",
-    "1aFase": {
-      "2020": 0.0
     }
   },
   "3aiulgagowscv0ortmm": {
@@ -38793,12 +37693,6 @@ CONTESTANTS = {
       "2020": 393.0
     }
   },
-  "anrnfzduudoeobjurner": {
-    "FullName": "Enzo D'anjour",
-    "1aFase": {
-      "2020": 682.0
-    }
-  },
   "aoemcaedmaehslstragmddnviu": {
     "FullName": "Matheus Andrade",
     "1aFase": {
@@ -38809,12 +37703,6 @@ CONTESTANTS = {
     "FullName": "Layza Amorim",
     "1aFase": {
       "2020": 301.0
-    }
-  },
-  "bcadaimcrorrbuefnfiieddaiaroco": {
-    "FullName": "Fabio Cavalcante",
-    "1aFase": {
-      "2020": 682.0
     }
   },
   "cieallisorambuorsnuoug": {
@@ -38833,18 +37721,6 @@ CONTESTANTS = {
     "FullName": "Felipe Rocha",
     "1aFase": {
       "2020": 581.0
-    }
-  },
-  "dasvuidnefcamfoorcncaiereb": {
-    "FullName": "João Dionisio",
-    "1aFase": {
-      "2020": 682.0
-    }
-  },
-  "dnfubolvprdesuearoijor": {
-    "FullName": "João Pedro Paulo",
-    "1aFase": {
-      "2020": 682.0
     }
   },
   "dprudreorooenradfcubs": {
@@ -38883,18 +37759,6 @@ CONTESTANTS = {
       "2020": 411.0
     }
   },
-  "iadu3nltpoffcseuer5rbe": {
-    "FullName": "Felipe Costa",
-    "1aFase": {
-      "2020": 682.0
-    }
-  },
-  "ieds15l0osoavagjlmoinmrc2aol": {
-    "FullName": "José Ronaldo Silva",
-    "1aFase": {
-      "2020": 682.0
-    }
-  },
   "iiiiglrccsrraoataommmova": {
     "FullName": "Vitória Alves",
     "1aFase": {
@@ -38905,12 +37769,6 @@ CONTESTANTS = {
     "FullName": "Wallysson Silva",
     "1aFase": {
       "2020": 301.0
-    }
-  },
-  "liavsrrnnredceiiacodeaaiifurmtomb": {
-    "FullName": "Luiz Oliveira",
-    "1aFase": {
-      "2020": 682.0
     }
   },
   "lnthgnttsloaaeommci": {
@@ -38967,24 +37825,6 @@ CONTESTANTS = {
       "2020": 526.0
     }
   },
-  "oafnearuorcfcibamaeidsrid": {
-    "FullName": "Lucas Oliveira",
-    "1aFase": {
-      "2020": 682.0
-    }
-  },
-  "obcrmoarcdjsaajednnfoieehduir": {
-    "FullName": "Jherod Anjos",
-    "1aFase": {
-      "2020": 682.0
-    }
-  },
-  "oirnsairefebilmmiueaeat1cduroahcdv": {
-    "FullName": "Matheus Silva",
-    "1aFase": {
-      "2020": 682.0
-    }
-  },
   "ommllmgaaavlncmgoaoidi": {
     "FullName": "Danilo Galvão",
     "1aFase": {
@@ -39009,18 +37849,6 @@ CONTESTANTS = {
       "2020": 411.0
     }
   },
-  "uadnrbnernvuelsefri": {
-    "FullName": "Rennê Silva",
-    "1aFase": {
-      "2020": 682.0
-    }
-  },
-  "uefrmerrlyiredunbenef": {
-    "FullName": "Emelyn Freire",
-    "1aFase": {
-      "2020": 682.0
-    }
-  },
   "uomclolymmakciugl": {
     "FullName": "Lucas Moura Nascimento",
     "1aFase": {
@@ -39031,30 +37859,6 @@ CONTESTANTS = {
     "FullName": "Rafael Bessa Loureiro",
     "1aFase": {
       "2020": 128.0
-    }
-  },
-  "iforiandreslcaomutamnahy": {
-    "FullName": "Fernanda Hirata",
-    "1aFase": {
-      "2020": 682.0
-    }
-  },
-  "iielmcxommotamaagop": {
-    "FullName": "Ruama Martins",
-    "1aFase": {
-      "2020": 682.0
-    }
-  },
-  "onnilaoaootcomcggnatimnet": {
-    "FullName": "Antonio César Nunes De Azevedo Filho",
-    "1aFase": {
-      "2020": 682.0
-    }
-  },
-  "acdlmmiluhcaorsaropvieoeolit": {
-    "FullName": "Pedro Lucas",
-    "1aFase": {
-      "2020": 0.0
     }
   },
   "cgairnoulaza4ieamf2m3livos": {
@@ -39091,18 +37895,6 @@ CONTESTANTS = {
     "FullName": "José Freire",
     "1aFase": {
       "2020": 18.0
-    }
-  },
-  "ll3roui0eii1mma2aecg": {
-    "FullName": "Raul Nascimento",
-    "1aFase": {
-      "2020": 0.0
-    }
-  },
-  "msurreraoodciipgfiroucsbdfb": {
-    "FullName": "Fabricio Linhares",
-    "1aFase": {
-      "2020": 0.0
     }
   },
   "mydaolzreoctdinreemeh": {
@@ -39285,12 +38077,6 @@ CONTESTANTS = {
       "2020": 579.0
     }
   },
-  "baamogandaplcualmmi": {
-    "FullName": "Ana Paula Magalhãesde Brito",
-    "1aFase": {
-      "2020": 682.0
-    }
-  },
   "bainmlozaetcnairev": {
     "FullName": "Anna Beatriz Amorim De Araújo",
     "1aFase": {
@@ -39333,22 +38119,10 @@ CONTESTANTS = {
       "2020": 675.0
     }
   },
-  "clfccommljdlauioio": {
-    "FullName": "João Camilo",
-    "1aFase": {
-      "2020": 682.0
-    }
-  },
   "dccormmbueurifehpa": {
     "FullName": "Helio Rodrigues",
     "1aFase": {
       "2020": 441.0
-    }
-  },
-  "dlbai2eaecuurm0c": {
-    "FullName": "Cleidiana Alves",
-    "1aFase": {
-      "2020": 0.0
     }
   },
   "dnsfcr1bueusedv9a": {
@@ -39361,12 +38135,6 @@ CONTESTANTS = {
     "FullName": "Elian Oliveira Batista",
     "1aFase": {
       "2020": 681.0
-    }
-  },
-  "eiglilfc03aielfpmmma2o": {
-    "FullName": "Felipe Lima",
-    "1aFase": {
-      "2020": 682.0
     }
   },
   "euuaaufdmlojopbaisuimznrce": {
@@ -39391,12 +38159,6 @@ CONTESTANTS = {
     "FullName": "Alexandre Ventilari",
     "1aFase": {
       "2020": 156.0
-    }
-  },
-  "iahmnlocmaolcccbteielaer": {
-    "FullName": "Rebeca Pinto",
-    "1aFase": {
-      "2020": 682.0
     }
   },
   "ialcboa919amuig9mtpanm": {
@@ -39471,12 +38233,6 @@ CONTESTANTS = {
       "2020": 126.0
     }
   },
-  "maumrf9jedeeeudl1b": {
-    "FullName": "Maria Mendonça",
-    "1aFase": {
-      "2020": 0.0
-    }
-  },
   "mblwiofmuccepfraud": {
     "FullName": "Fylype Wase Cabral Lira",
     "1aFase": {
@@ -39519,12 +38275,6 @@ CONTESTANTS = {
       "2020": 627.0
     }
   },
-  "nfntvmegcgaelokimeso": {
-    "FullName": "Keven De Paula",
-    "1aFase": {
-      "2020": 682.0
-    }
-  },
   "nmhmacnorgcmlaanitiae": {
     "FullName": "Marianne Giovana Guimarães Sales Haddad",
     "1aFase": {
@@ -39535,12 +38285,6 @@ CONTESTANTS = {
     "FullName": "Jose Tiago Santos Lima",
     "1aFase": {
       "2020": 279.0
-    }
-  },
-  "nunaaslllvicgimaom": {
-    "FullName": "Luana Lins",
-    "1aFase": {
-      "2020": 682.0
     }
   },
   "oamlrcta6udace1mmlingmaiso": {
@@ -39639,12 +38383,6 @@ CONTESTANTS = {
       "2020": 608.0
     }
   },
-  "uadb2ucilbe0rmme": {
-    "FullName": "Marcelo Brilhante",
-    "1aFase": {
-      "2020": 0.0
-    }
-  },
   "ueurm9ec1eabdmps": {
     "FullName": "Mateus Santos",
     "1aFase": {
@@ -39669,78 +38407,6 @@ CONTESTANTS = {
       "2020": 441.0
     }
   },
-  "v6lmllcrmmobagi": {
-    "FullName": "Abimael Ferreira",
-    "1aFase": {
-      "2020": 682.0
-    }
-  },
-  "vmnagasmrclsiahaaoci": {
-    "FullName": "Sarah Leite",
-    "1aFase": {
-      "2020": 682.0
-    }
-  },
-  "yototcrnroomhocaibireb": {
-    "FullName": "Ericton Felicidade",
-    "1aFase": {
-      "2020": 682.0
-    }
-  },
-  "cinhgliim55llmamiaaoadcmae": {
-    "FullName": "Camila Teixeira",
-    "1aFase": {
-      "2020": 0.0
-    }
-  },
-  "loasmgirmalccilpm": {
-    "FullName": "Maiara Priscila Lima Dos Santos",
-    "1aFase": {
-      "2020": 0.0
-    }
-  },
-  "logsua4zcnmakoaa0mi": {
-    "FullName": "Ana De Souza",
-    "1aFase": {
-      "2020": 0.0
-    }
-  },
-  "mnaaaamoisaluccgosgairuaib": {
-    "FullName": "Bianca Maria Sousa Aguiar",
-    "1aFase": {
-      "2020": 0.0
-    }
-  },
-  "monoltaactnsmncmciegi": {
-    "FullName": "Nathália Nascimento",
-    "1aFase": {
-      "2020": 0.0
-    }
-  },
-  "onslamcnigmseylunilm": {
-    "FullName": "Jamilly Bárbara Nunes",
-    "1aFase": {
-      "2020": 0.0
-    }
-  },
-  "1cr5ao7n61mi18ilmnaasm1ag": {
-    "FullName": "Mariana Siqueira",
-    "1aFase": {
-      "2020": 682.0
-    }
-  },
-  "ac3migsao0uvllimestm3aa": {
-    "FullName": "Mateus Silva",
-    "1aFase": {
-      "2020": 682.0
-    }
-  },
-  "acisoihvammtfomvll": {
-    "FullName": "Vânia Mara",
-    "1aFase": {
-      "2020": 682.0
-    }
-  },
   "auhorelligomcromeliegmm": {
     "FullName": "Guilherme Melo",
     "1aFase": {
@@ -39753,58 +38419,10 @@ CONTESTANTS = {
       "2020": 348.0
     }
   },
-  "ihmegmdoyeicciaseellm": {
-    "FullName": "Dieyse Leal",
-    "1aFase": {
-      "2020": 682.0
-    }
-  },
-  "ljaebrmbgcmoieiloag012siel0": {
-    "FullName": "José Rodrigues",
-    "1aFase": {
-      "2020": 682.0
-    }
-  },
   "llooumeaaciontmvailcauiiuogrgs": {
     "FullName": "Luciano Santos",
     "1aFase": {
       "2020": 348.0
-    }
-  },
-  "lnasltmormat2pgiicoch": {
-    "FullName": "Tharlison Silva",
-    "1aFase": {
-      "2020": 682.0
-    }
-  },
-  "msgl1ii2aomaccamarnspmcrsoc0oc4fo": {
-    "FullName": "Marcos Ribeiro",
-    "1aFase": {
-      "2020": 682.0
-    }
-  },
-  "mtiuatsothgcapcsrimaltvnmoo": {
-    "FullName": "José Gustavo",
-    "1aFase": {
-      "2020": 682.0
-    }
-  },
-  "o19scvia0am3clisuslmgla": {
-    "FullName": "Lucas Silva",
-    "1aFase": {
-      "2020": 682.0
-    }
-  },
-  "acoatbmcamzaginciisrllie": {
-    "FullName": "Izabela Cristina Lopes Carvalho",
-    "1aFase": {
-      "2020": 682.0
-    }
-  },
-  "aimrnlmawnesigaaapcaooigmv": {
-    "FullName": "Wagner Viana Sampaio",
-    "1aFase": {
-      "2020": 682.0
     }
   },
   "c9ocsillh8gmhaymmeaalocrdi": {
@@ -39813,16 +38431,10 @@ CONTESTANTS = {
       "2020": 564.0
     }
   },
-  "cslalnlamo2aouiec03gpmi": {
-    "FullName": "Luciana Sousa",
+  "csamonmiat2criigsiea68ld": {
+    "FullName": "Cristiane Da Conceição Dias",
     "1aFase": {
-      "2020": 682.0
-    }
-  },
-  "emioodnicias8lma4ae72rnseg": {
-    "FullName": "Neidiane Andrade Soares",
-    "1aFase": {
-      "2020": 682.0
+      "2020": 461.0
     }
   },
   "g00p2l5at1o2imc1m": {
@@ -39831,34 +38443,10 @@ CONTESTANTS = {
       "2020": 509.0
     }
   },
-  "gavaiesllriercmcooma": {
-    "FullName": "Sueli Da Silva Corrêa",
-    "1aFase": {
-      "2020": 682.0
-    }
-  },
   "gtpolcaao9o3ucimouml": {
     "FullName": "Paulo Antonio Paulo Antonio",
     "1aFase": {
       "2020": 509.0
-    }
-  },
-  "ic3inle9naaoamgrlcem": {
-    "FullName": "Anne Larice Anne Larice Dos",
-    "1aFase": {
-      "2020": 682.0
-    }
-  },
-  "ilzepasmnoj8cangkaii1omiat": {
-    "FullName": "Keiziani Santos De Souza",
-    "1aFase": {
-      "2020": 0.0
-    }
-  },
-  "imgllemcsalnseeiivao": {
-    "FullName": "Eliene Santos",
-    "1aFase": {
-      "2020": 682.0
     }
   },
   "jm9ingl1raooideckas2cm": {
@@ -39867,34 +38455,10 @@ CONTESTANTS = {
       "2020": 578.0
     }
   },
-  "lajgmntcirodtaepmpacluoa": {
-    "FullName": "Claudenor Neves Pantoja",
-    "1aFase": {
-      "2020": 0.0
-    }
-  },
-  "nicagdnmloosajosm": {
-    "FullName": "Everson Yan Silva Dos Anjos",
-    "1aFase": {
-      "2020": 0.0
-    }
-  },
   "nsiomicogrlmdaouhka": {
     "FullName": "Kairo Húdson Alvarenga Tavares",
     "1aFase": {
       "2020": 509.0
-    }
-  },
-  "rmlncib2aaaieogrmmiaoc": {
-    "FullName": "Raiane Coimbra",
-    "1aFase": {
-      "2020": 682.0
-    }
-  },
-  "ae7ksmfhcnanoidalgtmorie4": {
-    "FullName": "Fernando Ferreira",
-    "1aFase": {
-      "2020": 682.0
     }
   },
   "atommlehrlcohiton": {
@@ -39903,34 +38467,10 @@ CONTESTANTS = {
       "2020": 642.0
     }
   },
-  "cacvtuimmamoariorjltoh": {
-    "FullName": "Joao Ribeiro",
-    "1aFase": {
-      "2020": 682.0
-    }
-  },
-  "cmlmegeaaorhnsgois": {
-    "FullName": "Gustavo Henrique",
-    "1aFase": {
-      "2020": 682.0
-    }
-  },
   "damgcaon0llceuehierm7s": {
     "FullName": "Aden Hercules",
     "1aFase": {
       "2020": 642.0
-    }
-  },
-  "gcmiilasoatao1ngr1mh": {
-    "FullName": "Sarah Gabryela Rodrigues Togni",
-    "1aFase": {
-      "2020": 682.0
-    }
-  },
-  "glo7lnrlmeaugiamca2me": {
-    "FullName": "Laura Mengel",
-    "1aFase": {
-      "2020": 682.0
     }
   },
   "goccillohaolmgeutoiamc": {
@@ -39939,34 +38479,10 @@ CONTESTANTS = {
       "2020": 471.0
     }
   },
-  "lahgmfavorconbpiiama": {
-    "FullName": "Fabiana Fabiana",
-    "1aFase": {
-      "2020": 682.0
-    }
-  },
-  "lmhtemommosilucahhopvtea": {
-    "FullName": "Matheus Melo",
-    "1aFase": {
-      "2020": 0.0
-    }
-  },
   "mcsamg2oc1bmlia": {
     "FullName": "Marcelo Cruz De Sousa",
     "1aFase": {
       "2020": 642.0
-    }
-  },
-  "mi2ojcmueailo3gsln3a8thr": {
-    "FullName": "Thales Junior De Souza Gomes",
-    "1aFase": {
-      "2020": 682.0
-    }
-  },
-  "mihc9lmo9vcaimoti1it9ognro": {
-    "FullName": "Victor Moitinho",
-    "1aFase": {
-      "2020": 0.0
     }
   },
   "mmielcmanhbsolmacg": {
@@ -39975,58 +38491,10 @@ CONTESTANTS = {
       "2020": 471.0
     }
   },
-  "muonoeooko2bror7ltu1ct4rs": {
-    "FullName": "Bruno Lima",
-    "1aFase": {
-      "2020": 682.0
-    }
-  },
-  "nvsaooxlmmgatlbinrcaccea": {
-    "FullName": "Robson Cavalcante",
-    "1aFase": {
-      "2020": 682.0
-    }
-  },
-  "oklammstcusevaoeobrdluol": {
-    "FullName": "Samuel Valdés",
-    "1aFase": {
-      "2020": 682.0
-    }
-  },
   "rogalsreciibrulaevmagbasmrieo": {
     "FullName": "Gabriel Barros",
     "1aFase": {
       "2020": 471.0
-    }
-  },
-  "s1jcfnarfmmeoolc1sdeig": {
-    "FullName": "Jéfferson Douglas",
-    "1aFase": {
-      "2020": 0.0
-    }
-  },
-  "umtaigplalunoiorcmlcovas": {
-    "FullName": "Paulo Victor Vieira Lunas",
-    "1aFase": {
-      "2020": 682.0
-    }
-  },
-  "vraimcageuaomcmlilcoiteiramselo": {
-    "FullName": "Mateus Oliveira",
-    "1aFase": {
-      "2020": 682.0
-    }
-  },
-  "9pelosliaaiemcrmgrag8vb": {
-    "FullName": "Gabriel Veras",
-    "1aFase": {
-      "2020": 682.0
-    }
-  },
-  "caiivomolahmmlretced": {
-    "FullName": "João Victor Maciel De Freitas",
-    "1aFase": {
-      "2020": 682.0
     }
   },
   "dnorlghoalaemenoeaclinmr": {
@@ -40039,12 +38507,6 @@ CONTESTANTS = {
     "FullName": "George Trindade Rodrigues",
     "1aFase": {
       "2020": 624.0
-    }
-  },
-  "orleafmmontigdcilx2aae": {
-    "FullName": "Alexandre Alexandre",
-    "1aFase": {
-      "2020": 682.0
     }
   },
   "sagmoivcenlmixrlamaie": {
@@ -40113,12 +38575,6 @@ CONTESTANTS = {
       "2020": 488.0
     }
   },
-  "eimoasllitwosrdicrosomnnosgsisma": {
-    "FullName": "Windsor Lóss",
-    "1aFase": {
-      "2020": 682.0
-    }
-  },
   "enalaorciesvndgodezrofepmeam": {
     "FullName": "Fernando Peres",
     "1aFase": {
@@ -40147,18 +38603,6 @@ CONTESTANTS = {
     "FullName": "João Lima",
     "1aFase": {
       "2020": 219.0
-    }
-  },
-  "ioiimegarnmlaapbzcizlg": {
-    "FullName": "Gabriel Palhares",
-    "1aFase": {
-      "2020": 682.0
-    }
-  },
-  "leuisoghamaaveocsmclalfrmu": {
-    "FullName": "Samuel Carlos Xavier De Carvalho",
-    "1aFase": {
-      "2020": 682.0
     }
   },
   "lil1aopoa3lwecnhimgicamc": {
@@ -40227,12 +38671,6 @@ CONTESTANTS = {
       "2020": 193.0
     }
   },
-  "oupicgnjacmljmcaomo": {
-    "FullName": "Christian State",
-    "1aFase": {
-      "2020": 682.0
-    }
-  },
   "psaaculmio0oulh0ocm12tla": {
     "FullName": "Paulo Cerqueira",
     "1aFase": {
@@ -40243,12 +38681,6 @@ CONTESTANTS = {
     "FullName": "Henrique Faria Ribeiro",
     "1aFase": {
       "2020": 273.0
-    }
-  },
-  "remccomomzacgirgl": {
-    "FullName": "Rafael Cozer",
-    "1aFase": {
-      "2020": 682.0
     }
   },
   "sgoracelmatmsigsaoatbpi": {
@@ -40273,12 +38705,6 @@ CONTESTANTS = {
     "FullName": "João Ferrete",
     "1aFase": {
       "2020": 200.0
-    }
-  },
-  "usnqiscmhreiimmoleioag": {
-    "FullName": "Henrique Miossi De Araújo",
-    "1aFase": {
-      "2020": 682.0
     }
   },
   "v2ieoriaamiellcncdhoan0muagr": {
@@ -40321,12 +38747,6 @@ CONTESTANTS = {
     "FullName": "Guilherme Augusto Sousa Eler",
     "1aFase": {
       "2020": 499.0
-    }
-  },
-  "1sooavok3emtumollc": {
-    "FullName": "Matheus Santos",
-    "1aFase": {
-      "2020": 682.0
     }
   },
   "270ficleamo3lmg3a": {
@@ -40395,12 +38815,6 @@ CONTESTANTS = {
       "2020": 520.0
     }
   },
-  "aadituomecbmgn1gr2losoun": {
-    "FullName": "Brendon Augusto",
-    "1aFase": {
-      "2020": 682.0
-    }
-  },
   "aansmrmilcgooimlu": {
     "FullName": "Manuela Sousa",
     "1aFase": {
@@ -40437,12 +38851,6 @@ CONTESTANTS = {
       "2020": 414.0
     }
   },
-  "aediamwomg32lcimli1l": {
-    "FullName": "Ed William Pereira",
-    "1aFase": {
-      "2020": 682.0
-    }
-  },
   "aeumliortbgomainrlohcmaa": {
     "FullName": "Mariano Glauber Torres Fernandes",
     "1aFase": {
@@ -40471,12 +38879,6 @@ CONTESTANTS = {
     "FullName": "Lázaro Bodevan",
     "1aFase": {
       "2020": 364.0
-    }
-  },
-  "allacueyzaimgalimiltmolm": {
-    "FullName": "Emilly Saraiva",
-    "1aFase": {
-      "2020": 682.0
     }
   },
   "am66chgaoaonlcdimrnue": {
@@ -40623,12 +39025,6 @@ CONTESTANTS = {
       "2020": 116.0
     }
   },
-  "boieamuparlinlcavamogsl": {
-    "FullName": "Breno Wellington Da Silva Paula",
-    "1aFase": {
-      "2020": 682.0
-    }
-  },
   "brtvlumroncnosamgsiibe": {
     "FullName": "Levi Guimarães Martins",
     "1aFase": {
@@ -40671,22 +39067,16 @@ CONTESTANTS = {
       "2020": 289.0
     }
   },
+  "cemoiatrjmeullinomgi": {
+    "FullName": "Marcelo Junior",
+    "1aFase": {
+      "2020": 384.0
+    }
+  },
   "cfitbuneisrpeudaaiiuvernudi": {
     "FullName": "Vinicius Duarte",
     "1aFase": {
       "2020": 669.0
-    }
-  },
-  "cga4eale3n3mimlo": {
-    "FullName": "Enael Ferraz Rocha",
-    "1aFase": {
-      "2020": 682.0
-    }
-  },
-  "chtniuolaaoicomlcfmlio": {
-    "FullName": "Luciano Carvalho Junior",
-    "1aFase": {
-      "2020": 0.0
     }
   },
   "clioracaommchiagodh": {
@@ -40695,22 +39085,10 @@ CONTESTANTS = {
       "2020": 364.0
     }
   },
-  "clmlum82a0caosgiul0": {
-    "FullName": "Lucas Duarte",
-    "1aFase": {
-      "2020": 682.0
-    }
-  },
   "clmnleeaollrigaoaom": {
     "FullName": "Lorena Leão",
     "1aFase": {
       "2020": 406.0
-    }
-  },
-  "cmorirmtbhaovrfsaioertrielale": {
-    "FullName": "Robert Da Silva Ferreira",
-    "1aFase": {
-      "2020": 682.0
     }
   },
   "cmvduoooaihms2iagtrrguotsle": {
@@ -40809,12 +39187,6 @@ CONTESTANTS = {
       "2020": 460.0
     }
   },
-  "elcgioaimaoazimlactnl": {
-    "FullName": "Caio Zanatelli",
-    "1aFase": {
-      "2020": 0.0
-    }
-  },
   "elcsisamloaoucasggmtu": {
     "FullName": "Augusto Lessa Corrêa",
     "1aFase": {
@@ -40825,12 +39197,6 @@ CONTESTANTS = {
     "FullName": "Hellen Harada",
     "1aFase": {
       "2020": 477.0
-    }
-  },
-  "elsajoa1moongooet0riohcm": {
-    "FullName": "João Victor Pires Generoso",
-    "1aFase": {
-      "2020": 682.0
     }
   },
   "eovruvflobaaj": {
@@ -40875,12 +39241,6 @@ CONTESTANTS = {
       "2020": 370.0
     }
   },
-  "eui92nb775urzusisae1d1mfmdl0011": {
-    "FullName": "Heberty Heberty",
-    "1aFase": {
-      "2020": 682.0
-    }
-  },
   "euqhoarecm4m1in4genirblo": {
     "FullName": "Breno Borrasqui",
     "1aFase": {
@@ -40909,12 +39269,6 @@ CONTESTANTS = {
     "FullName": "João Pedro Ribeiro",
     "1aFase": {
       "2020": 528.0
-    }
-  },
-  "g91soragac9pmmilo": {
-    "FullName": "Ramon Elias Da Costa",
-    "1aFase": {
-      "2020": 682.0
     }
   },
   "gaitosoimma19sar9clanjm": {
@@ -40965,12 +39319,6 @@ CONTESTANTS = {
       "2020": 640.0
     }
   },
-  "gnb6l92ui1ac8oom1mr": {
-    "FullName": "Bruno Oliveira Paes De Lima",
-    "1aFase": {
-      "2020": 682.0
-    }
-  },
   "goeoojado8m9acimprml": {
     "FullName": "João Pedro Miranda De Faria",
     "1aFase": {
@@ -41013,12 +39361,6 @@ CONTESTANTS = {
       "2020": 583.0
     }
   },
-  "hktocopcatolmiziimsgm": {
-    "FullName": "João Antônio Gomes",
-    "1aFase": {
-      "2020": 682.0
-    }
-  },
   "hleigcaioamsnemtdilamg": {
     "FullName": "Thais Macela De Lira Menegaldi",
     "1aFase": {
@@ -41041,18 +39383,6 @@ CONTESTANTS = {
     "FullName": "Alison Reis",
     "1aFase": {
       "2020": 524.0
-    }
-  },
-  "idl4aozeamainmmgcu": {
-    "FullName": "Daiane Garcia",
-    "1aFase": {
-      "2020": 682.0
-    }
-  },
-  "idm0carl1aealalifvs11moag": {
-    "FullName": "Rafael Amancio Da Silva",
-    "1aFase": {
-      "2020": 682.0
     }
   },
   "idtclbeumourfbczrg": {
@@ -41217,12 +39547,6 @@ CONTESTANTS = {
       "2020": 196.0
     }
   },
-  "jeioraamigb1bo0nocmilgla": {
-    "FullName": "João Gabriel Francisco De Azevedo",
-    "1aFase": {
-      "2020": 0.0
-    }
-  },
   "jrgmeelbgilneaeatsuio": {
     "FullName": "Miguel Ribeiro",
     "1aFase": {
@@ -41277,52 +39601,16 @@ CONTESTANTS = {
       "2020": 213.0
     }
   },
-  "lcisiucaligzonai2m2vimm": {
-    "FullName": "Vinicius Ribeiro",
-    "1aFase": {
-      "2020": 682.0
-    }
-  },
-  "lehoua9mmhmgca7tiss": {
-    "FullName": "Matheus Henrique De Souza",
-    "1aFase": {
-      "2020": 0.0
-    }
-  },
   "leumusgrmlheiorefvb": {
     "FullName": "Guilherme Melos",
     "1aFase": {
       "2020": 104.0
     }
   },
-  "lg4vo1ian5gc1mcm": {
-    "FullName": "Gabriel Campos Nogueira Vieira",
-    "1aFase": {
-      "2020": 0.0
-    }
-  },
-  "ljcmmiaoam2mgtv": {
-    "FullName": "João Victor Moreira Tamm",
-    "1aFase": {
-      "2020": 0.0
-    }
-  },
-  "llew7ockeaolita8mcpofeoul": {
-    "FullName": "Wallace Teixeira",
-    "1aFase": {
-      "2020": 0.0
-    }
-  },
   "lmacoonhocmliiautrcim": {
     "FullName": "Leandro Mucciaroni De Souza",
     "1aFase": {
       "2020": 212.0
-    }
-  },
-  "lnaoanauflrbebuur": {
-    "FullName": "Luanna Rabelo",
-    "1aFase": {
-      "2020": 682.0
     }
   },
   "lnlciramcooioeemudggsn": {
@@ -41343,12 +39631,6 @@ CONTESTANTS = {
       "2020": 321.0
     }
   },
-  "lokivmcn7prefgiaeeemlc": {
-    "FullName": "Felipe Pereira Verneck Da Silva",
-    "1aFase": {
-      "2020": 682.0
-    }
-  },
   "lreaaaiyogfjldoacsmmci": {
     "FullName": "Jádyla Maria Cesário Firmino",
     "1aFase": {
@@ -41361,40 +39643,16 @@ CONTESTANTS = {
       "2020": 122.0
     }
   },
-  "luckaiholstflmciom": {
-    "FullName": "Lucas Parreira Filgueiras",
-    "1aFase": {
-      "2020": 682.0
-    }
-  },
   "lusarirgbaufaiausr": {
     "FullName": "Larissa Lima Moraes Aguiar",
     "1aFase": {
       "2020": 230.0
     }
   },
-  "m1elhfeloiit0aecatter21epioirorrm": {
-    "FullName": "Pietro Ferreira Leite De Arruda",
-    "1aFase": {
-      "2020": 0.0
-    }
-  },
   "m5dg1rgcamisoaems02l": {
     "FullName": "Esdras Oliveira",
     "1aFase": {
       "2020": 269.0
-    }
-  },
-  "m6anjiaolirlu1lomoodcgnea": {
-    "FullName": "Leonardo Henrique Juliano Da Silva",
-    "1aFase": {
-      "2020": 682.0
-    }
-  },
-  "mcguergmoocfibildeiiejao": {
-    "FullName": "Joice Figueiredo",
-    "1aFase": {
-      "2020": 682.0
     }
   },
   "mcieneladgpilshom": {
@@ -41517,12 +39775,6 @@ CONTESTANTS = {
       "2020": 555.0
     }
   },
-  "msiaaottlomogncim": {
-    "FullName": "Otto Siman",
-    "1aFase": {
-      "2020": 682.0
-    }
-  },
   "mtonainsatolihsacfmsedor": {
     "FullName": "Tássis Fernandes",
     "1aFase": {
@@ -41613,12 +39865,6 @@ CONTESTANTS = {
       "2020": 543.0
     }
   },
-  "ofsirgghiaelumcammo": {
-    "FullName": "Heitor Filho",
-    "1aFase": {
-      "2020": 682.0
-    }
-  },
   "ogenefmgacimnulharieq": {
     "FullName": "Henrique Correa Faganello",
     "1aFase": {
@@ -41643,28 +39889,10 @@ CONTESTANTS = {
       "2020": 573.0
     }
   },
-  "ohnmaoreamaeaerioyrfbcrarslo": {
-    "FullName": "Alan Moraes Ferreira",
-    "1aFase": {
-      "2020": 0.0
-    }
-  },
   "oihgnoqammreingiellcur": {
     "FullName": "Henrique Loring",
     "1aFase": {
       "2020": 520.0
-    }
-  },
-  "olbmbaigsbainmaic": {
-    "FullName": "Ana Gabriela Menezes Costa",
-    "1aFase": {
-      "2020": 682.0
-    }
-  },
-  "olc1mlalgbaiec2ep9fsmlsui0io": {
-    "FullName": "Luis Felipe Blasco",
-    "1aFase": {
-      "2020": 682.0
     }
   },
   "olooaondvepkcoulitpmraoa": {
@@ -41695,12 +39923,6 @@ CONTESTANTS = {
     "FullName": "Arthur Assis",
     "1aFase": {
       "2020": 382.0
-    }
-  },
-  "oneexidrdcoictimraulale": {
-    "FullName": "Andre Luiz Da Silva Teixeira",
-    "1aFase": {
-      "2020": 682.0
     }
   },
   "orgrecblmasmaitboothait": {
@@ -41805,12 +40027,6 @@ CONTESTANTS = {
       "2020": 321.0
     }
   },
-  "rgesmacsomllcoissaz": {
-    "FullName": "Lucas Souza Soares",
-    "1aFase": {
-      "2020": 682.0
-    }
-  },
   "rgimcm1liapaocuaougna2ojiilr": {
     "FullName": "Paulo Júnior",
     "1aFase": {
@@ -41847,12 +40063,6 @@ CONTESTANTS = {
       "2020": 617.0
     }
   },
-  "rnleglbeiiamalhaotatjoclmvin": {
-    "FullName": "Rachel Braga Vecchi",
-    "1aFase": {
-      "2020": 682.0
-    }
-  },
   "rorulrnubieobfub": {
     "FullName": "Bruno Fernandes",
     "1aFase": {
@@ -41883,12 +40093,6 @@ CONTESTANTS = {
       "2020": 164.0
     }
   },
-  "s1o6ai8clmmggmoe7": {
-    "FullName": "Gabriel Oliveira",
-    "1aFase": {
-      "2020": 682.0
-    }
-  },
   "saotfvbsaiesgurm": {
     "FullName": "Tássia Gomes",
     "1aFase": {
@@ -41899,12 +40103,6 @@ CONTESTANTS = {
     "FullName": "Henrique Santana",
     "1aFase": {
       "2020": 185.0
-    }
-  },
-  "sd1oorimagmar5iicnreigal8m": {
-    "FullName": "Igor Reis Miranda",
-    "1aFase": {
-      "2020": 682.0
     }
   },
   "sdaftasatisnubduminearluelmasrnioonj": {
@@ -41961,18 +40159,6 @@ CONTESTANTS = {
       "2020": 563.0
     }
   },
-  "tgaitvlosojdamrocoasnhmoaiaomlhnc": {
-    "FullName": "Jonatas Carvalho Domingos",
-    "1aFase": {
-      "2020": 682.0
-    }
-  },
-  "tgvaomdheamumaaclriri": {
-    "FullName": "Arthur Sousa",
-    "1aFase": {
-      "2020": 682.0
-    }
-  },
   "theitjrpdlooaiommci": {
     "FullName": "Pedro Jiticovski",
     "1aFase": {
@@ -41997,16 +40183,16 @@ CONTESTANTS = {
       "2020": 612.0
     }
   },
+  "tmtecshiclnituiliameoeabvo": {
+    "FullName": "Vinicius Costa",
+    "1aFase": {
+      "2020": 280.0
+    }
+  },
   "tpohsmgomclaimaitoaoach": {
     "FullName": "Thiago Almeida Campos",
     "1aFase": {
       "2020": 186.0
-    }
-  },
-  "tzleiplheoocammiup": {
-    "FullName": "Luiz Oliveira",
-    "1aFase": {
-      "2020": 682.0
     }
   },
   "uaeo0na2cm0grnrsibndoel0m": {
@@ -42055,12 +40241,6 @@ CONTESTANTS = {
     "FullName": "Samuel Deboni Fraga",
     "1aFase": {
       "2020": 442.0
-    }
-  },
-  "uomacrlgcmimcmaai": {
-    "FullName": "Cecília Camimura Oliveira",
-    "1aFase": {
-      "2020": 682.0
     }
   },
   "uomaeirgohaglicorsumittvsasame": {
@@ -42645,46 +40825,10 @@ CONTESTANTS = {
       "2020": 306.0
     }
   },
-  "bshaalrimrocttoiimman": {
-    "FullName": "Rai Bonassa",
-    "1aFase": {
-      "2020": 0.0
-    }
-  },
   "giblklicaanlmoojelsmo": {
     "FullName": "Jackson Belloli",
     "1aFase": {
       "2020": 132.0
-    }
-  },
-  "moamoplarnrevicpdeutg": {
-    "FullName": "Pedro Chimuco",
-    "1aFase": {
-      "2020": 682.0
-    }
-  },
-  "naerucbhiiooortzlomnlnmo": {
-    "FullName": "Bruno Lorenzoni",
-    "1aFase": {
-      "2020": 0.0
-    }
-  },
-  "ngroim1iggmdcnel0aeahw": {
-    "FullName": "Wagner Ghedin",
-    "1aFase": {
-      "2020": 682.0
-    }
-  },
-  "tilbooanpbrbpohmmmocoe": {
-    "FullName": "Breno Pombo",
-    "1aFase": {
-      "2020": 682.0
-    }
-  },
-  "virearaiaimgiandfcfonmoeelrl": {
-    "FullName": "Flávia De Noni Ferreira",
-    "1aFase": {
-      "2020": 0.0
     }
   },
   "006frbte8sudf4110aet9c": {
@@ -42697,12 +40841,6 @@ CONTESTANTS = {
     "FullName": "Artur Rodrigues",
     "1aFase": {
       "2020": 83.0
-    }
-  },
-  "0eb1p610r032e2": {
-    "FullName": "Cleber Augusto Silva",
-    "1aFase": {
-      "2020": 682.0
     }
   },
   "0n00ianevbo7l12rpu1su": {
@@ -42729,12 +40867,6 @@ CONTESTANTS = {
       "2020": 9.0
     }
   },
-  "1sfepgletomrvtpiafoebca0": {
-    "FullName": "Felipe Sampaio Da Mota",
-    "1aFase": {
-      "2020": 0.0
-    }
-  },
   "2a8inpbd93amcr2r9cu": {
     "FullName": "Renan Fernando Franco Da Silva",
     "1aFase": {
@@ -42751,12 +40883,6 @@ CONTESTANTS = {
     "FullName": "Claudia Fiorentino Andrade",
     "1aFase": {
       "2020": 643.0
-    }
-  },
-  "2iru3n1u81vol0ba0psne": {
-    "FullName": "Mariana Roman Oliveira",
-    "1aFase": {
-      "2020": 682.0
     }
   },
   "3nai419o2rln9euubsp0v": {
@@ -42789,12 +40915,6 @@ CONTESTANTS = {
       "2020": 328.0
     }
   },
-  "5umevclsoaarigfsvptac8bsr": {
-    "FullName": "Marcus Vinícius Souza Silva",
-    "1aFase": {
-      "2020": 0.0
-    }
-  },
   "6icadl9doagmum8": {
     "FullName": "Maria Eduarda Santos",
     "1aFase": {
@@ -42825,12 +40945,6 @@ CONTESTANTS = {
       "2020": 587.0
     }
   },
-  "9lmolamu9mouoaicgrij": {
-    "FullName": "Julio Moura",
-    "1aFase": {
-      "2020": 682.0
-    }
-  },
   "a6m0gaeurigooncsluc4mila": {
     "FullName": "Lucas Roberto",
     "1aFase": {
@@ -42847,12 +40961,6 @@ CONTESTANTS = {
     "FullName": "Gabriel Augusto Lima Silva",
     "1aFase": {
       "2020": 607.0
-    }
-  },
-  "aaclmn0imviegglr2o": {
-    "FullName": "Leonardo Vinagre",
-    "1aFase": {
-      "2020": 682.0
     }
   },
   "aatarcaoomohnclmvehirlreoladc1s": {
@@ -42891,24 +40999,6 @@ CONTESTANTS = {
       "2020": 238.0
     }
   },
-  "actmll9iho0muhou": {
-    "FullName": "Luana Godoy",
-    "1aFase": {
-      "2020": 0.0
-    }
-  },
-  "actmlr7iso9mfhoa": {
-    "FullName": "Rafael Furtado",
-    "1aFase": {
-      "2020": 0.0
-    }
-  },
-  "acue7oiomgol0btvmnc20ri": {
-    "FullName": "Victor Bueno",
-    "1aFase": {
-      "2020": 0.0
-    }
-  },
   "adcl6mgioyl1mam": {
     "FullName": "Luis Damy",
     "1aFase": {
@@ -42927,40 +41017,16 @@ CONTESTANTS = {
       "2020": 308.0
     }
   },
-  "afbcervaoxisrtvpebgoern": {
-    "FullName": "Breno Luis Da Silva Xavier",
-    "1aFase": {
-      "2020": 0.0
-    }
-  },
   "agteiboprsaogtcahomvtf": {
     "FullName": "Thiago Yoshiaki Toma",
     "1aFase": {
       "2020": 588.0
     }
   },
-  "ahaioa6tosmnfm9tslrgac": {
-    "FullName": "Rafael Dos Santos Pereira",
-    "1aFase": {
-      "2020": 682.0
-    }
-  },
   "ahrsbmupas": {
     "FullName": "Antonio Hachisuca",
     "1aFase": {
       "2020": 125.0
-    }
-  },
-  "aikmarlcgokmgcemiabr": {
-    "FullName": "Gabriel Silva",
-    "1aFase": {
-      "2020": 0.0
-    }
-  },
-  "aileaugoriimgtemclosmjfuli": {
-    "FullName": "Miguel Freitas",
-    "1aFase": {
-      "2020": 0.0
     }
   },
   "alareaotusnaciabpfldrgun": {
@@ -42987,28 +41053,10 @@ CONTESTANTS = {
       "2020": 140.0
     }
   },
-  "anpunoitlfitsrvaeb": {
-    "FullName": "Flávia Nitto",
-    "1aFase": {
-      "2020": 682.0
-    }
-  },
-  "aombcirilcieatavfo": {
-    "FullName": "Fabrício Malta De Oliveira",
-    "1aFase": {
-      "2020": 0.0
-    }
-  },
   "aosgiemfillxmocmaaiin": {
     "FullName": "Maína Caçador Alexandre",
     "1aFase": {
       "2020": 641.0
-    }
-  },
-  "arcooreotbpmdrtbre": {
-    "FullName": "Pedro Galvão Barretto",
-    "1aFase": {
-      "2020": 682.0
     }
   },
   "arenlmoollmaeiidmohct": {
@@ -43023,28 +41071,10 @@ CONTESTANTS = {
       "2020": 556.0
     }
   },
-  "arouinlonftssastnbs": {
-    "FullName": "Luiz Felipe Silva Santos",
-    "1aFase": {
-      "2020": 682.0
-    }
-  },
-  "artscsvosfonjaep23ab7togo": {
-    "FullName": "Joao Pedro Dos Santos",
-    "1aFase": {
-      "2020": 0.0
-    }
-  },
   "arurspjiayonuasbm": {
     "FullName": "Yasmin Araujo",
     "1aFase": {
       "2020": 297.0
-    }
-  },
-  "asglficimevamloiiaor": {
-    "FullName": "Isabelle Oliveira",
-    "1aFase": {
-      "2020": 0.0
     }
   },
   "ataorisbrsoorliltnnnsecetuz": {
@@ -43069,18 +41099,6 @@ CONTESTANTS = {
     "FullName": "Lucas Vaz Maia",
     "1aFase": {
       "2020": 498.0
-    }
-  },
-  "avlraorehaortomiacdhcvlmln": {
-    "FullName": "Andre Carvalho",
-    "1aFase": {
-      "2020": 682.0
-    }
-  },
-  "avteoeadtbbacrprsfabigirbt": {
-    "FullName": "Barbara Bidetti",
-    "1aFase": {
-      "2020": 682.0
     }
   },
   "bchrioabsrbouanpdfeesg": {
@@ -43111,12 +41129,6 @@ CONTESTANTS = {
     "FullName": "Cirilo Morais",
     "1aFase": {
       "2020": 19.0
-    }
-  },
-  "c2atsac2n0b9ker3zo2im9m2": {
-    "FullName": "Thayná Gomes Da Silva",
-    "1aFase": {
-      "2020": 682.0
     }
   },
   "cabbrdnalenatfuaansuoua": {
@@ -43155,12 +41167,6 @@ CONTESTANTS = {
       "2020": 498.0
     }
   },
-  "ceramsymliakinloanagv": {
-    "FullName": "Nayra Kaline",
-    "1aFase": {
-      "2020": 682.0
-    }
-  },
   "cgiwaimllmkwox": {
     "FullName": "Willian Wang",
     "1aFase": {
@@ -43197,22 +41203,10 @@ CONTESTANTS = {
       "2020": 362.0
     }
   },
-  "cl1mori5vom1mma4ascg": {
-    "FullName": "Marcos Vinicius",
-    "1aFase": {
-      "2020": 682.0
-    }
-  },
   "cmeaublsarmrgraqtoggsiaoimr": {
     "FullName": "Guilherme Garros",
     "1aFase": {
       "2020": 544.0
-    }
-  },
-  "cmrnaoaicodmiaiaagtzcneorld": {
-    "FullName": "Caio Andrade",
-    "1aFase": {
-      "2020": 682.0
     }
   },
   "cmtihmshmaagocleaung": {
@@ -43233,12 +41227,6 @@ CONTESTANTS = {
       "2020": 250.0
     }
   },
-  "craigammnampdoioidlsam": {
-    "FullName": "Dimas Pereira",
-    "1aFase": {
-      "2020": 682.0
-    }
-  },
   "crtmafifatjmiloaounht": {
     "FullName": "Rafael Fuziyama",
     "1aFase": {
@@ -43257,22 +41245,10 @@ CONTESTANTS = {
       "2020": 331.0
     }
   },
-  "dfaemmogleicolamli": {
-    "FullName": "Leonardo Fernandes De Lima",
-    "1aFase": {
-      "2020": 682.0
-    }
-  },
   "dishsautratmrsuffbnaeaecr": {
     "FullName": "Iara Silva",
     "1aFase": {
       "2020": 218.0
-    }
-  },
-  "docnspsrivccatroeasegfbofn": {
-    "FullName": "Edson Isaac José Francisco",
-    "1aFase": {
-      "2020": 682.0
     }
   },
   "dpbvmsuazeesienr": {
@@ -43347,12 +41323,6 @@ CONTESTANTS = {
       "2020": 542.0
     }
   },
-  "ecgiioaemlveztaodmd": {
-    "FullName": "Gabriel Souza",
-    "1aFase": {
-      "2020": 0.0
-    }
-  },
   "eiaagkaktlooarcmmci": {
     "FullName": "Eric Hideki Kataoka Ferreira",
     "1aFase": {
@@ -43363,12 +41333,6 @@ CONTESTANTS = {
     "FullName": "Eric Ribeiro",
     "1aFase": {
       "2020": 246.0
-    }
-  },
-  "eilnavlsubvsapsir": {
-    "FullName": "Miguel Silva",
-    "1aFase": {
-      "2020": 682.0
     }
   },
   "eisumciuorclggmiaa": {
@@ -43455,12 +41419,6 @@ CONTESTANTS = {
       "2020": 331.0
     }
   },
-  "ftsliabusnraavegiropn": {
-    "FullName": "Renato Galvani Sarto",
-    "1aFase": {
-      "2020": 682.0
-    }
-  },
   "g9vvcb9aroimmltcoi": {
     "FullName": "Victor Vasconcellos Borba",
     "1aFase": {
@@ -43515,12 +41473,6 @@ CONTESTANTS = {
       "2020": 588.0
     }
   },
-  "gol0imfa22efmilrpdreieiacrplheaa0": {
-    "FullName": "Felipe Padilha Ferreira",
-    "1aFase": {
-      "2020": 682.0
-    }
-  },
   "grleommsozegalrciqanuio": {
     "FullName": "Angelo Queiroz",
     "1aFase": {
@@ -43545,12 +41497,6 @@ CONTESTANTS = {
       "2020": 585.0
     }
   },
-  "havelrssgnaecoirvtfpbo": {
-    "FullName": "Heron Lorena Alves Da Silva",
-    "1aFase": {
-      "2020": 0.0
-    }
-  },
   "hc7ss0amo0rnalagiomim1aa": {
     "FullName": "Samira Silva",
     "1aFase": {
@@ -43569,12 +41515,6 @@ CONTESTANTS = {
       "2020": 308.0
     }
   },
-  "hiungmciiciisiavlmclucotse": {
-    "FullName": "Vinicius Pereira Lucchesi",
-    "1aFase": {
-      "2020": 682.0
-    }
-  },
   "hiupeoieartleotgepmcmdqrnaliu": {
     "FullName": "Pedro Pauletti",
     "1aFase": {
@@ -43585,18 +41525,6 @@ CONTESTANTS = {
     "FullName": "Matheus Vidal",
     "1aFase": {
       "2020": 408.0
-    }
-  },
-  "hmglalmcowllaenimiao": {
-    "FullName": "Wilhan Mello",
-    "1aFase": {
-      "2020": 682.0
-    }
-  },
-  "hmhraonneemnlsateoicadt": {
-    "FullName": "Nathan Resende Da Silva Pinto",
-    "1aFase": {
-      "2020": 682.0
     }
   },
   "hmimiaorsuetuaathcnismlom": {
@@ -43629,12 +41557,6 @@ CONTESTANTS = {
       "2020": 522.0
     }
   },
-  "i1l8ltgmnoimsaacm": {
-    "FullName": "Natalia Lima",
-    "1aFase": {
-      "2020": 682.0
-    }
-  },
   "ia9rbadudsoaceudivisn": {
     "FullName": "David Acassio Da Silva",
     "1aFase": {
@@ -43645,12 +41567,6 @@ CONTESTANTS = {
     "FullName": "Letícia Abelha",
     "1aFase": {
       "2020": 274.0
-    }
-  },
-  "ialauritonntsbaurosbsengz": {
-    "FullName": "Gabriel Teodoro Suzano",
-    "1aFase": {
-      "2020": 682.0
     }
   },
   "iambelovgitacasearielegmll": {
@@ -43689,22 +41605,10 @@ CONTESTANTS = {
       "2020": 308.0
     }
   },
-  "idr1l5c3oamiivdamluage0o": {
-    "FullName": "Maria Eduarda Basilio De Oliveira",
-    "1aFase": {
-      "2020": 0.0
-    }
-  },
   "ie9rbiduddiiseughiren": {
     "FullName": "Giovanna Desideri De Paiva",
     "1aFase": {
       "2020": 554.0
-    }
-  },
-  "igembbfslaormiegarocrlg": {
-    "FullName": "Gabriel Francisco Borges",
-    "1aFase": {
-      "2020": 0.0
     }
   },
   "iiagrttbouoluprsnpanaot": {
@@ -43719,12 +41623,6 @@ CONTESTANTS = {
       "2020": 181.0
     }
   },
-  "ilemsloemavaicdmgadlvaus": {
-    "FullName": "Samuel Silva",
-    "1aFase": {
-      "2020": 682.0
-    }
-  },
   "illj23mogvc5ma": {
     "FullName": "Luiz Vasconcelos Júnior",
     "1aFase": {
@@ -43737,12 +41635,6 @@ CONTESTANTS = {
       "2020": 673.0
     }
   },
-  "imahinlmanginualjoycato": {
-    "FullName": "Jonathan Willian Goncales Alves",
-    "1aFase": {
-      "2020": 682.0
-    }
-  },
   "imglcomcsellarnialao": {
     "FullName": "Ellian Carlos Oliveria Costa",
     "1aFase": {
@@ -43753,24 +41645,6 @@ CONTESTANTS = {
     "FullName": "Edvandro Negreiros",
     "1aFase": {
       "2020": 296.0
-    }
-  },
-  "imosatgmcc3o8aeutall": {
-    "FullName": "Lucas Teato",
-    "1aFase": {
-      "2020": 682.0
-    }
-  },
-  "inhrjcnamio5onblaentagm": {
-    "FullName": "Jonathan Binner",
-    "1aFase": {
-      "2020": 682.0
-    }
-  },
-  "ioacmpgaalmlesstuccmvo": {
-    "FullName": "Samuel Costa",
-    "1aFase": {
-      "2020": 0.0
     }
   },
   "ioeimllthecoganadommet": {
@@ -43791,24 +41665,6 @@ CONTESTANTS = {
       "2020": 478.0
     }
   },
-  "iovlohotgneprhatbrsifsaccec": {
-    "FullName": "Christian Cezar Coelho",
-    "1aFase": {
-      "2020": 682.0
-    }
-  },
-  "irbrahfsseiiybpnuu": {
-    "FullName": "Yuri Shiba",
-    "1aFase": {
-      "2020": 0.0
-    }
-  },
-  "italoummaearagcn5tasumm": {
-    "FullName": "Mateus Gimenez",
-    "1aFase": {
-      "2020": 682.0
-    }
-  },
   "itifkoaomvncocsousloinou": {
     "FullName": "Vinicius Afonso Oliveira",
     "1aFase": {
@@ -43827,34 +41683,16 @@ CONTESTANTS = {
       "2020": 146.0
     }
   },
-  "jmstugmimodaaileermovcyt": {
-    "FullName": "João Marcelino",
-    "1aFase": {
-      "2020": 682.0
-    }
-  },
   "kaotetldjrcenpiuohoomno": {
     "FullName": "Pedro Jantin",
     "1aFase": {
       "2020": 567.0
     }
   },
-  "kkaoemmacoulptlfueiodo": {
-    "FullName": "Felipe Kumada",
-    "1aFase": {
-      "2020": 682.0
-    }
-  },
   "kodgnomooonatavludrruoeetc": {
     "FullName": "Eduardo Argenton",
     "1aFase": {
       "2020": 567.0
-    }
-  },
-  "kr2ounmtcouldtilausoeo": {
-    "FullName": "Luis Durante",
-    "1aFase": {
-      "2020": 0.0
     }
   },
   "ksemtenrelmlkoyooecvout": {
@@ -43887,28 +41725,10 @@ CONTESTANTS = {
       "2020": 408.0
     }
   },
-  "lepliiombgcorlottompaopia": {
-    "FullName": "Pablo Polito",
-    "1aFase": {
-      "2020": 682.0
-    }
-  },
   "llgcnismmlcgiaoodn": {
     "FullName": "Gustavo Lima",
     "1aFase": {
       "2020": 38.0
-    }
-  },
-  "llm0ma21oaigili0cyme": {
-    "FullName": "Lia Cavalheiro",
-    "1aFase": {
-      "2020": 682.0
-    }
-  },
-  "lln0oererahbcuagdxs1mavpeemft": {
-    "FullName": "Alexandre Pereira Hummel Junior",
-    "1aFase": {
-      "2020": 0.0
     }
   },
   "llraocovaesarmfmdiraiigiomeaodllecl": {
@@ -43953,12 +41773,6 @@ CONTESTANTS = {
       "2020": 671.0
     }
   },
-  "lrtessgsninopugaob": {
-    "FullName": "Gabriel Gonçales Lopes",
-    "1aFase": {
-      "2020": 0.0
-    }
-  },
   "lturihospbi": {
     "FullName": "Thiago Oliveira",
     "1aFase": {
@@ -43977,12 +41791,6 @@ CONTESTANTS = {
       "2020": 611.0
     }
   },
-  "m9acogo0mmg1o4iln": {
-    "FullName": "Lucas Silva Dos Anjos",
-    "1aFase": {
-      "2020": 0.0
-    }
-  },
   "maoapoonodleuargomascdtrlid": {
     "FullName": "Eduardo Porto",
     "1aFase": {
@@ -43999,12 +41807,6 @@ CONTESTANTS = {
     "FullName": "Thomas Taino",
     "1aFase": {
       "2020": 274.0
-    }
-  },
-  "mdanreiscglodaopwedulemoes": {
-    "FullName": "Wendel Pedro De Sousa",
-    "1aFase": {
-      "2020": 682.0
     }
   },
   "meabouduadronclrsreep": {
@@ -44079,12 +41881,6 @@ CONTESTANTS = {
       "2020": 544.0
     }
   },
-  "mmgoao0amrpcbl3i0itssm": {
-    "FullName": "Gustavo Medeiros Madeira",
-    "1aFase": {
-      "2020": 0.0
-    }
-  },
   "mmilgmslrocieeiaaarmcmaladit": {
     "FullName": "Marciel Almeida",
     "1aFase": {
@@ -44127,12 +41923,6 @@ CONTESTANTS = {
       "2020": 298.0
     }
   },
-  "nagmoodcsrcmeeilagrim": {
-    "FullName": "Matheus Corrêa",
-    "1aFase": {
-      "2020": 682.0
-    }
-  },
   "naihaeraogsnluealnmmci": {
     "FullName": "Nauane Linhares",
     "1aFase": {
@@ -44149,12 +41939,6 @@ CONTESTANTS = {
     "FullName": "Daniel Monteiro",
     "1aFase": {
       "2020": 607.0
-    }
-  },
-  "ngoa48blcmbmribfuo": {
-    "FullName": "Bruno Bernardi Bianchi Ferreira",
-    "1aFase": {
-      "2020": 682.0
     }
   },
   "niuslfuasinphedoasrbiumr": {
@@ -44179,12 +41963,6 @@ CONTESTANTS = {
     "FullName": "Anderson Silva",
     "1aFase": {
       "2020": 361.0
-    }
-  },
-  "nomg1ii3ialncpmc": {
-    "FullName": "Pedro Ninci",
-    "1aFase": {
-      "2020": 682.0
     }
   },
   "nradbtrxbreeoluspai": {
@@ -44223,12 +42001,6 @@ CONTESTANTS = {
       "2020": 570.0
     }
   },
-  "oapscemaaemgdpcoiluglrortlon": {
-    "FullName": "Pedro Pregnolato",
-    "1aFase": {
-      "2020": 682.0
-    }
-  },
   "oatepvrbsumjn": {
     "FullName": "João Mota",
     "1aFase": {
@@ -44245,12 +42017,6 @@ CONTESTANTS = {
     "FullName": "Bruno Pessoa Reis",
     "1aFase": {
       "2020": 226.0
-    }
-  },
-  "occcmiara24clogi1iaom": {
-    "FullName": "Caio Roccia",
-    "1aFase": {
-      "2020": 682.0
     }
   },
   "ocrrinmivodunfubieviczenuas": {
@@ -44283,22 +42049,10 @@ CONTESTANTS = {
       "2020": 566.0
     }
   },
-  "ohomevarakrfsrplirroitioheccusolte": {
-    "FullName": "Christopher Silva",
-    "1aFase": {
-      "2020": 682.0
-    }
-  },
   "ohuotacmabocdijmlc": {
     "FullName": "Matheus Santos",
     "1aFase": {
       "2020": 357.0
-    }
-  },
-  "oijeglacreeialloarmamoln": {
-    "FullName": "Leonardo Alves Da Costa Larangeira",
-    "1aFase": {
-      "2020": 682.0
     }
   },
   "oilgnlminyrcsleaovmaa": {
@@ -44325,12 +42079,6 @@ CONTESTANTS = {
       "2020": 587.0
     }
   },
-  "olotegdorodmktorooioclu": {
-    "FullName": "Rodrigo Toledo",
-    "1aFase": {
-      "2020": 682.0
-    }
-  },
   "omamhglortcmlaeoiucab": {
     "FullName": "Marcelo Buga",
     "1aFase": {
@@ -44341,12 +42089,6 @@ CONTESTANTS = {
     "FullName": "Igor Brito",
     "1aFase": {
       "2020": 19.0
-    }
-  },
-  "onmpmmilotcaliatcoccehoaacag": {
-    "FullName": "Camila De Fátima Ferreira Pacheco",
-    "1aFase": {
-      "2020": 682.0
     }
   },
   "oocgraafh16ecsrvbticaop": {
@@ -44367,12 +42109,6 @@ CONTESTANTS = {
       "2020": 431.0
     }
   },
-  "oomtartapbcmiilouoocgmcoavacj": {
-    "FullName": "João Baptista",
-    "1aFase": {
-      "2020": 682.0
-    }
-  },
   "oooasmocaouamiohtkpilc": {
     "FullName": "Caio Sampaio",
     "1aFase": {
@@ -44383,12 +42119,6 @@ CONTESTANTS = {
     "FullName": "Leonardo Silva",
     "1aFase": {
       "2020": 197.0
-    }
-  },
-  "oopunldunudiofrasrebdlareaar": {
-    "FullName": "Leonardo Souza",
-    "1aFase": {
-      "2020": 682.0
     }
   },
   "ooramhentkicrholamili": {
@@ -44403,34 +42133,16 @@ CONTESTANTS = {
       "2020": 41.0
     }
   },
-  "ore1bagrtooclcom0joigma": {
-    "FullName": "João Cavina",
-    "1aFase": {
-      "2020": 682.0
-    }
-  },
   "orlebslisedtboununaanmro": {
     "FullName": "Leonardo Ribeiro Blume",
     "1aFase": {
       "2020": 451.0
     }
   },
-  "oroaionrcmlmecargatftti": {
-    "FullName": "Artur Freire Dos Santos",
-    "1aFase": {
-      "2020": 0.0
-    }
-  },
   "orsiienrscntrueoqdaaiunrhb": {
     "FullName": "Henrique Ricardo",
     "1aFase": {
       "2020": 399.0
-    }
-  },
-  "otbwsseiylaraeihucnnrrlds": {
-    "FullName": "Weslley Richard",
-    "1aFase": {
-      "2020": 0.0
     }
   },
   "otrhmuosolvotshmcatinadags": {
@@ -44475,12 +42187,6 @@ CONTESTANTS = {
       "2020": 19.0
     }
   },
-  "piianrnrefioreebpdslua": {
-    "FullName": "Danilo Pereira Da Silva",
-    "1aFase": {
-      "2020": 682.0
-    }
-  },
   "pleair60vn0b2uno280us": {
     "FullName": "Geovana Aparecida Coelho Corrêa",
     "1aFase": {
@@ -44491,12 +42197,6 @@ CONTESTANTS = {
     "FullName": "Henrique Bustillos",
     "1aFase": {
       "2020": 552.0
-    }
-  },
-  "pnlnabsculnifirebuaooaesdi": {
-    "FullName": "Bianca Seolin",
-    "1aFase": {
-      "2020": 682.0
     }
   },
   "pntcssioabgsrvrinaruaot": {
@@ -44547,28 +42247,10 @@ CONTESTANTS = {
       "2020": 218.0
     }
   },
-  "rflrboimrepnidaaanaasu": {
-    "FullName": "Adriano Amaral",
-    "1aFase": {
-      "2020": 682.0
-    }
-  },
   "rincarlcgokmbbomdoen": {
     "FullName": "Brendon Borck",
     "1aFase": {
       "2020": 190.0
-    }
-  },
-  "rlacmhmnciiafausomg": {
-    "FullName": "Selma Silva",
-    "1aFase": {
-      "2020": 682.0
-    }
-  },
-  "rleacruveoarrtbfgohpifegs": {
-    "FullName": "Hulgo Ferreira",
-    "1aFase": {
-      "2020": 682.0
     }
   },
   "rmilhlooitcmlamoilsue": {
@@ -44589,12 +42271,6 @@ CONTESTANTS = {
       "2020": 616.0
     }
   },
-  "rouotmbcaisisomcakool": {
-    "FullName": "Marcio Junior",
-    "1aFase": {
-      "2020": 682.0
-    }
-  },
   "rslczoamuguciomnjily": {
     "FullName": "Julio Cruz",
     "1aFase": {
@@ -44605,18 +42281,6 @@ CONTESTANTS = {
     "FullName": "Sueli Corrêa",
     "1aFase": {
       "2020": 194.0
-    }
-  },
-  "s12rgpife0lvporsdvtaoceba": {
-    "FullName": "Pedro Reginaldo Tome Silva",
-    "1aFase": {
-      "2020": 682.0
-    }
-  },
-  "s1m6gcadmobgoli": {
-    "FullName": "Gabriel Baptista De Souza Oliveira",
-    "1aFase": {
-      "2020": 0.0
     }
   },
   "saitmraaoccltgmipa": {
@@ -44667,12 +42331,6 @@ CONTESTANTS = {
       "2020": 428.0
     }
   },
-  "siarzabonovtunsuristo": {
-    "FullName": "Vitor Dos Santos Segovia Souza",
-    "1aFase": {
-      "2020": 682.0
-    }
-  },
   "sjaaooooviomlrktasccmolocu": {
     "FullName": "João Marcos Cardoso Da Silva",
     "1aFase": {
@@ -44683,12 +42341,6 @@ CONTESTANTS = {
     "FullName": "Willian Leme",
     "1aFase": {
       "2020": 195.0
-    }
-  },
-  "sltpraoaev0niaeaag1sabfdlesdmcr": {
-    "FullName": "Alessandra Alves De Almeida",
-    "1aFase": {
-      "2020": 682.0
     }
   },
   "smaczsimoohdlguafgeiao": {
@@ -44715,22 +42367,10 @@ CONTESTANTS = {
       "2020": 91.0
     }
   },
-  "smmiagesroolrncjcotaeatli": {
-    "FullName": "Jean Vicente",
-    "1aFase": {
-      "2020": 0.0
-    }
-  },
   "snrolruaaitbpisoncaussa": {
     "FullName": "Lucas Pereira",
     "1aFase": {
       "2020": 451.0
-    }
-  },
-  "sprlatufadineafesdorlbuana": {
-    "FullName": "Rafael Dantas",
-    "1aFase": {
-      "2020": 682.0
     }
   },
   "srggaoieeblnpfsiaautoefivelcergd": {
@@ -44787,12 +42427,6 @@ CONTESTANTS = {
       "2020": 91.0
     }
   },
-  "taraihgliouboemclomo": {
-    "FullName": "Guilherme Rabelo",
-    "1aFase": {
-      "2020": 0.0
-    }
-  },
   "tbiosnagalmnpluraaumc": {
     "FullName": "Bruna Santos De Paula",
     "1aFase": {
@@ -44809,30 +42443,6 @@ CONTESTANTS = {
     "FullName": "Thiago Martins Joaquim",
     "1aFase": {
       "2020": 336.0
-    }
-  },
-  "tleeadrsautscrsfabsmiuen": {
-    "FullName": "Melissa Fontenelle",
-    "1aFase": {
-      "2020": 682.0
-    }
-  },
-  "tliolsgocoprmcodlomvirjaeaa": {
-    "FullName": "Joao Ricardo Lopes Lovato",
-    "1aFase": {
-      "2020": 682.0
-    }
-  },
-  "tlorapig0vosjs4fe9cabves": {
-    "FullName": "Jose Lucas Rodrigues Silva",
-    "1aFase": {
-      "2020": 0.0
-    }
-  },
-  "tltbapdgonesforoinfreroocvigr": {
-    "FullName": "Rodrigo Augusto De Souza Florentino",
-    "1aFase": {
-      "2020": 0.0
     }
   },
   "tmlmcogaili3nzhnaua3": {
@@ -44863,18 +42473,6 @@ CONTESTANTS = {
     "FullName": "Gabriel Gandour",
     "1aFase": {
       "2020": 102.0
-    }
-  },
-  "ucsrbnpenebseararokl": {
-    "FullName": "Karen Barcelos",
-    "1aFase": {
-      "2020": 682.0
-    }
-  },
-  "ue5srlcoaacbvqtgpavsife2i": {
-    "FullName": "Caique Oliveira Silva",
-    "1aFase": {
-      "2020": 682.0
     }
   },
   "uesbasevoobrlpto": {
@@ -44925,12 +42523,6 @@ CONTESTANTS = {
       "2020": 197.0
     }
   },
-  "uratbsostosincnva": {
-    "FullName": "Vinícius Pereira Freire Costa",
-    "1aFase": {
-      "2020": 0.0
-    }
-  },
   "urgmaogdha0lttmsiec0mh7aoo": {
     "FullName": "Matheus Henrique Gotardo Pintor",
     "1aFase": {
@@ -44967,12 +42559,6 @@ CONTESTANTS = {
       "2020": 556.0
     }
   },
-  "vimotrleivohgatscmcoal": {
-    "FullName": "Victor Moreno",
-    "1aFase": {
-      "2020": 0.0
-    }
-  },
   "vmacnlimodtmlgiecsaori": {
     "FullName": "Victor Maldinês Santos Macedo",
     "1aFase": {
@@ -44997,22 +42583,10 @@ CONTESTANTS = {
       "2020": 340.0
     }
   },
-  "vv0irrfragcaptdec1sbaoiaop": {
-    "FullName": "Ricardo Sousa De Paiva",
-    "1aFase": {
-      "2020": 682.0
-    }
-  },
   "yc2ghoo0slva2oms0yeiim": {
     "FullName": "Yves Yoshio Ohi",
     "1aFase": {
       "2020": 395.0
-    }
-  },
-  "zdo7oroaemeicomgiuc4rlaj": {
-    "FullName": "Joao Bosco Felix",
-    "1aFase": {
-      "2020": 682.0
     }
   },
   "ztacimiemgthaumlgoiot": {
@@ -45189,12 +42763,6 @@ CONTESTANTS = {
       "2020": 242.0
     }
   },
-  "lga9votookmsuouotu9otc": {
-    "FullName": "Gustavo Amorim",
-    "1aFase": {
-      "2020": 0.0
-    }
-  },
   "nalcaidllimcoogbiaelammoedc": {
     "FullName": "Daniel Carlos Chaves Boll",
     "1aFase": {
@@ -45205,12 +42773,6 @@ CONTESTANTS = {
     "FullName": "Poliana Ferreira",
     "1aFase": {
       "2020": 134.0
-    }
-  },
-  "nsn0dalof2arsue1ndrst7beropuu": {
-    "FullName": "Anderson Silva",
-    "1aFase": {
-      "2020": 0.0
     }
   },
   "oagmogocimamrfallnoii": {
@@ -45277,12 +42839,6 @@ CONTESTANTS = {
     "FullName": "Arthur Pimont",
     "1aFase": {
       "2020": 313.0
-    }
-  },
-  "udn9ruubcsell9t1p7lfiroaus": {
-    "FullName": "Lucas Leal Da Silva",
-    "1aFase": {
-      "2020": 0.0
     }
   },
   "uocibaliricogalrbemmrs": {
@@ -45543,18 +43099,6 @@ CONTESTANTS = {
       "2020": 284.0
     }
   },
-  "acm0oasgublomglan1ci": {
-    "FullName": "Lucas Montalvão Bongalhardo",
-    "1aFase": {
-      "2020": 682.0
-    }
-  },
-  "aeenmaizmotnlnim3rlmmoig0c": {
-    "FullName": "Eliton Eliton",
-    "1aFase": {
-      "2020": 682.0
-    }
-  },
   "aphouunpberzocdeecpe": {
     "FullName": "João Vitor Zeppe",
     "1aFase": {
@@ -45597,12 +43141,6 @@ CONTESTANTS = {
       "2020": 284.0
     }
   },
-  "cnrhg2amta7eumaloscil10": {
-    "FullName": "Charles Tuan",
-    "1aFase": {
-      "2020": 682.0
-    }
-  },
   "dirlmcasmdoreaaugca": {
     "FullName": "Eduarda Rosa",
     "1aFase": {
@@ -45633,12 +43171,6 @@ CONTESTANTS = {
       "2020": 576.0
     }
   },
-  "eitalyzuirrgbieirebnmlvnlal": {
-    "FullName": "Gabrielly Martinez",
-    "1aFase": {
-      "2020": 682.0
-    }
-  },
   "eopoprrumsgodlemsadic": {
     "FullName": "Pedro Pordeus Santos",
     "1aFase": {
@@ -45649,12 +43181,6 @@ CONTESTANTS = {
     "FullName": "Mateus Antonio Franceschina",
     "1aFase": {
       "2020": 483.0
-    }
-  },
-  "faagncolaougllmselormni": {
-    "FullName": "Lowgan Luan Flores",
-    "1aFase": {
-      "2020": 682.0
     }
   },
   "ffaonnaoditodhsemercml": {
@@ -45727,12 +43253,6 @@ CONTESTANTS = {
     "FullName": "Gabriel Chüller Batistella",
     "1aFase": {
       "2020": 638.0
-    }
-  },
-  "icrntavoaclulbsli1use": {
-    "FullName": "Lucas Fernandes Da Costa",
-    "1aFase": {
-      "2020": 682.0
     }
   },
   "ilg1aisaltmecobmm3mia": {
@@ -45993,22 +43513,10 @@ CONTESTANTS = {
       "2020": 668.0
     }
   },
-  "tielmcrnmaoetgaigyp": {
-    "FullName": "Thainã Petry",
-    "1aFase": {
-      "2020": 682.0
-    }
-  },
   "tigusiamoviimclranurc": {
     "FullName": "Artur Machado",
     "1aFase": {
       "2020": 533.0
-    }
-  },
-  "tmsmuhszcgoegadielmanuaeo": {
-    "FullName": "Matheus De Souza",
-    "1aFase": {
-      "2020": 682.0
     }
   },
   "tvseqaurloemecioigmamlriciai": {
@@ -46075,12 +43583,6 @@ CONTESTANTS = {
     "FullName": "Eric Silveira",
     "1aFase": {
       "2020": 502.0
-    }
-  },
-  "vdloirnlrbiartmirpueechhaisn": {
-    "FullName": "Christopher Ramos Miranda",
-    "1aFase": {
-      "2020": 682.0
     }
   },
   "vnomemnacodnliolcrmgar": {

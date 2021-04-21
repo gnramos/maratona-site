@@ -59,6 +59,6 @@ def _write_institution_file(df, overwrite):
 
 
 def to_file(df, overwrite=False):
-    df = df[df['Role'] == 'Contestant']
+    df = df[(df['Role'] == 'Contestant') & (df['Rank'] > 0)]
     _write_contestant_file(df, overwrite)
     _write_institution_file(df, overwrite)
