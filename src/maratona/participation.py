@@ -1,26 +1,48 @@
 import os
 
+# Constants
+GROUPS = ['Year', 'Phase', 'Region', 'UF']
+
 
 def dict_to_json(json_str):
     from json import dumps
     return dumps(json_str, indent=2, ensure_ascii=False)
 
 
-def update_contestants(contestants, year, phase, df):
-    for _, row in df[df['Role'] == 'Contestant'].iterrows():
-        if row['Username'] not in contestants:
-            contestants[row['Username']] = {'FullName': row['FullName']}
-        if phase not in contestants[row['Username']]:
-            contestants[row['Username']][phase] = {}
+def _write_to_file(name, info, overwrite):
+    participation_js = f'../docs/js/data/{name.lower()}.js'
 
-        contestants[row['Username']][phase][year] = row["Rank"]
+    if os.path.isfile(participation_js) and not overwrite:
+        print(f'Não sobrescrever o arquivo "{participation_js}" '
+              '(veja a opção "-o").')
+    else:
+        with open(participation_js, 'w', encoding='utf-8') as file:
+            file.write(f'{name.upper()} = {dict_to_json(info)};')
 
 
-def update_institutions(institutions, year, phase, df):
-    df = df[df['Role'] == 'Contestant'].sort_values(by=['Region', 'UF', 'Site',
-                                                        'Rank'])
-    for group, group_df in df.groupby(['Region', 'UF', 'Site', 'Institution']):
-        uf, inst = group[1], group[-1]
+def _write_contestant_file(df, overwrite):
+    df = df.sort_values(by=GROUPS + ['Username'])
+
+    contestants = {}
+    for group, group_df in df.groupby(GROUPS + ['Site', 'Username']):
+        year, phase, username = group[0], group[1], group[-1]
+        for _, row in group_df.iterrows():
+            if username not in contestants:
+                contestants[username] = {'FullName': row['FullName']}
+            if phase not in contestants[username]:
+                contestants[username][phase] = {}
+
+            contestants[username][phase][year] = row['Rank']
+
+    _write_to_file('contestants', contestants, overwrite)
+
+
+def _write_institution_file(df, overwrite):
+    df = df.sort_values(by=GROUPS + ['Institution', 'Rank'])
+
+    institutions = {}
+    for group, group_df in df.groupby(GROUPS + ['Institution']):
+        year, phase, uf, inst = group[0], group[1], group[-2], group[-1]
 
         if uf not in institutions:
             institutions[uf] = {}
@@ -33,13 +55,10 @@ def update_institutions(institutions, year, phase, df):
             'Team': group_df['Team'].nunique(),
             'BestRank': int(group_df.iloc[0]['Rank'])}
 
+    _write_to_file('institutions', institutions, overwrite)
 
-def to_file(name, info, overwrite=False):
-    participation_js = f'../docs/js/data/{name.lower()}.js'
 
-    if os.path.isfile(participation_js) and not overwrite:
-        print(f'Não sobrescrever o arquivo "{participation_js}" '
-              '(veja a opção "-o").')
-    else:
-        with open(participation_js, 'w', encoding='utf-8') as file:
-            file.write(f'{name.upper()} = {dict_to_json(info)};')
+def to_file(df, overwrite=False):
+    df = df[df['Role'] == 'Contestant']
+    _write_contestant_file(df, overwrite)
+    _write_institution_file(df, overwrite)

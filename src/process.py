@@ -18,7 +18,7 @@ parser.add_argument('-o', '--overwrite', action='store_true',
 args = parser.parse_args()
 
 
-contestants, institutions = {}, {}
+df_part = None
 for file in args.files:
     year, phase, df = report.process(file, args.guess_uf, not args.quiet)
 
@@ -28,9 +28,12 @@ for file in args.files:
             event.load_js_in_html(year, phase)
 
         if args.participacoes:
-            participation.update_contestants(contestants, year, phase, df)
-            participation.update_institutions(institutions, year, phase, df)
+            df['Phase'] = phase
+            df['Year'] = year
+            if df_part is None:
+                df_part = df
+            else:
+                df_part = df_part.append(df, verify_integrity=True, ignore_index=True)
 
 if args.participacoes:
-    participation.to_file('Contestants', contestants, args.overwrite)
-    participation.to_file('Institutions', institutions, args.overwrite)
+    participation.to_file(df_part, args.overwrite)
