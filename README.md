@@ -45,7 +45,7 @@ Os resultados podem ser visualizados em duas páginas distintas. Todos os arquiv
 docs
   |- img
   |    +- [YYYY]
-  |    |    + poster.jpg
+  |    |    +- poster.jpg
   |    |    +- 1aFase
   |    |    |    `- [RANK].jpg
   |    |    `- Nacional
