@@ -29,7 +29,7 @@ cd src
 python3 process.py ../reports/2018_Nacional.csv ../reports/2019*.csv -p -e -o -g
 ```
 
-Algumas informações interessantes sobre o evento podem ser apresentadas neste processamento. Os resultados são armazenados em arquivos javascript, para serem carregados na página e permitirem uma visualização dinâmica. A opção `-e` gera os dados sobre os eventos anuais, que são e a opção `-p` das participações de instituições e competidores nesses eventos. Use a opção `-h` para detalhes sobre as funcionalidades.
+Algumas informações interessantes sobre o evento podem ser apresentadas neste processamento. Os resultados são armazenados em arquivos javascript, para serem carregados na página e permitirem uma visualização dinâmica. A opção `-e` gera os dados sobre os eventos anuais, e a opção `-p` das participações de instituições e competidores nesses eventos. Use a opção `-h` para detalhes sobre as funcionalidades.
 
 ### Arquivos Auxiliares
 
@@ -61,8 +61,8 @@ O diretório [img](docs/img) contém as imagens do site. Imagens de bandeiras de
 
 O diretório [js](docs/js) contém os arquivos javascript do site. Além de scripts de manipulação de páginas, o diretório [data](docs/js/data) contém os arquivos com as informações processadas dos eventos, no formato de dicionários.
 
-A exibição dos *eventos* é feita pela página [event.html](docs/eventos.html), com a manipulação dos dados via script [`event.js`](docs/js/eventos.js). Neste caso, o `parser` processa o relatório de um evento específico e gera o arquivo `YYYY_FASE.js`, que apenas atualiza a variável `CONTESTS` (dicionário) com os dados do evento _FASE_ (*1aFase* ou *Nacional*) realizado no ano _YYYY_. O arquivo HTML é atualizado automaticamente com essa informação.
+A exibição dos *eventos* é feita pela página [event.html](docs/event.html), com a manipulação dos dados via script [`event.js`](docs/js/event.js). Neste caso, o `parser` processa o relatório de um evento específico e gera o arquivo `YYYY_FASE.js`, que apenas atualiza a variável `CONTESTS` (dicionário) com os dados do evento _FASE_ (*1aFase* ou *Nacional*) realizado no ano _YYYY_. O arquivo HTML é atualizado automaticamente com essa informação.
 
-A exibição das *participações* é feita pela página [participation.html](docs/participation.html), com a manipulação dos dados via script [`participation.js`](docs/js/participation.js). Neste caso, o `parser` processa o relatório de um evento específico e escreve essas informações nos arquivos [`contestants.js`](docs/js/data/contestants.js) e [`institutions.js`](docs/js/data/institutions.js), que são carregados pelo HTML.
+A exibição das *participações* é feita pela página [participant.html](docs/participant.html), com a manipulação dos dados via script [`participant.js`](docs/js/participant.js). Neste caso, o `parser` processa o relatório de um evento específico e escreve essas informações nos arquivos [`contestants.js`](docs/js/data/contestants.js) e [`institutions.js`](docs/js/data/institutions.js), que são carregados pelo HTML.
 
 Mais detalhes sobre o processamento [aqui](src).
