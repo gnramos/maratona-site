@@ -4,9 +4,9 @@ import os
 GROUPS = ['Year', 'Phase', 'Region', 'UF']
 
 
-def dict_to_json(json_str):
+def dict_to_json(info):
     from json import dumps
-    return dumps(json_str, indent=2, ensure_ascii=False)
+    return dumps(info, indent=2, ensure_ascii=False)
 
 
 def _write_to_file(name, info, overwrite):
