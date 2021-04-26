@@ -33,7 +33,9 @@ for file in args.files:
             if df_part is None:
                 df_part = df
             else:
-                df_part = df_part.append(df, verify_integrity=True, ignore_index=True)
+                df_part = df_part.append(df, verify_integrity=True,
+                                         ignore_index=True)
 
 if args.participacoes:
+    print('Processando as participações...')
     participation.to_file(df_part, args.overwrite)
