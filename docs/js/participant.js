@@ -92,8 +92,10 @@ function selectorChanged(selector) {
 
   if (isDefault(selector)) {
     participantImg.style.display = "none";
+    chart.style.display = "none";
     document.getElementById(`${selector}Stat`).innerHTML = "";
   } else {
+    chart.style.display = "inline";
     statHeader.innerHTML = current(selector);
     window[`${selector}Changed`]();
   }
@@ -109,6 +111,8 @@ function ufChanged() {
     option.text = text;
     institutionSelector.add(option);
   }
+
+  chart.style.display = "none";
 }
 
 function institutionChanged() {
@@ -131,6 +135,8 @@ function institutionChanged() {
       participantStat.innerHTML += `</ul>`;
     }
   }
+
+  drawCurveTypes(info, false);
 }
 
 function contestantChanged() {
@@ -154,6 +160,44 @@ function contestantChanged() {
       participantStat.innerHTML += `</ul>`;
     }
   }
+
+  drawCurveTypes(info, true);
+}
+
+
+function drawCurveTypes(info, isContestant) {
+  var data = new google.visualization.DataTable();
+  data.addColumn('string', 'Year');
+
+  var minYear = new Date().getFullYear(), maxYear = 1995, years, row;
+  for (let phase of PHASES) {
+    data.addColumn('number', phase);
+    if (info[phase]) {
+      years = Object.keys(info[phase]).sort();
+      if (minYear > years[0])
+        minYear = years[0];
+      if (maxYear < years[years.length - 1])
+        maxYear = years[years.length - 1];
+    }
+  }
+
+  for (var year = Number(minYear); year <= maxYear; year++) {
+    row = [year.toString()];
+    for (let phase of PHASES)
+      if (info[phase] && info[phase][year])
+        row.push(isContestant ? info[phase][year] : info[phase][year]["BestRank"]);
+      else
+        row.push(null);
+
+    data.addRow(row);
+  }
+
+  var options = {hAxis: {title: 'Ano'},
+                 vAxis: {title: 'Rank'},
+                 legend: {position: 'top'}};
+
+  var lineChart = new google.visualization.LineChart(chart);
+  lineChart.draw(data, options);
 }
 
 /******************************************************************************
@@ -163,5 +207,6 @@ function contestantChanged() {
 if (typeof CONTESTANTS === "undefined" || typeof INSTITUTIONS === "undefined") {
   document.write("Erro...<br><br>Não há dados carregados!");
 } else {
+  google.charts.load('current', {packages: ['corechart', 'line']});
   populateSelectors();
 }
