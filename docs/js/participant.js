@@ -172,6 +172,7 @@ function drawCurveTypes(info, isContestant) {
   var minYear = new Date().getFullYear(), maxYear = 1995, years, row;
   for (let phase of PHASES) {
     data.addColumn('number', phase);
+    data.addColumn({'type': 'string', 'role': 'tooltip', 'p': {'html': true}});
     if (info[phase]) {
       years = Object.keys(info[phase]).sort();
       if (minYear > years[0])
@@ -181,20 +182,25 @@ function drawCurveTypes(info, isContestant) {
     }
   }
 
+  var heightPx = 25, rank;
+
   for (var year = Number(minYear); year <= maxYear; year++) {
     row = [year.toString()];
     for (let phase of PHASES)
-      if (info[phase] && info[phase][year])
-        row.push(isContestant ? info[phase][year] : info[phase][year]["BestRank"]);
+      if (info[phase] && info[phase][year]) {
+        rank = isContestant ? info[phase][year] : info[phase][year]["BestRank"];
+        row.push(rank, `<div style="padding:5px 5px 5px 5px; min-width:75px;">${rank} ${rankImg(phase, heightPx, rank)}</div>`);
+      }
       else
-        row.push(null);
+        row.push(null, '');
 
     data.addRow(row);
   }
 
   var options = {hAxis: {title: 'Ano'},
                  vAxis: {title: 'Rank'},
-                 legend: {position: 'top'}};
+                 legend: {position: 'top'},
+                 tooltip: {isHtml: true}};
 
   var lineChart = new google.visualization.LineChart(chart);
   lineChart.draw(data, options);
