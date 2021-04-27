@@ -93,11 +93,8 @@ function addOptionsToSelector(selector) {
   var e = document.getElementById(`${selector}Selector`),
     options = Object.keys(fetchDataFor(selector)).sort(caseInsensitive);
 
-  for (let text of options) {
-    var option = document.createElement("option");
-    option.text = text;
-    e.add(option);
-  }
+  for (let text of options)
+    e.options.add(new Option(text));
 }
 
 function changeDisplay(selector, value) {

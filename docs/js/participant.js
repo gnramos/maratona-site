@@ -40,6 +40,7 @@ function fetchDataFor(selector, source) {
   if (selector == "uf")
     return source;
 
+  // Institution
   return source[current("uf")];
 }
 
@@ -48,54 +49,30 @@ function fetchDataFor(selector, source) {
  ******************************************************************************/
 
 function populateSelectors() {
-  // UF
-  var info = fetchDataFor("uf", INSTITUTIONS),
-      option = document.createElement("option");
+  var info = fetchDataFor("uf", INSTITUTIONS);
 
-  option.text = "UF";
-  ufSelector.add(option);
-  for (let text of Object.keys(info).sort(caseInsensitive)) {
-    option = document.createElement("option");
-    option.text = text;
-    ufSelector.add(option);
-  }
+  ufSelector.options.add(new Option(DEFAULT_NAME["uf"]));
+  for (let text of Object.keys(info).sort(caseInsensitive))
+    ufSelector.options.add(new Option(text));
 
-  // Instituição
-  option = document.createElement("option");
-  option.text = "Instituição";
-  institutionSelector.add(option);
-
-  // Contestants
-  option = document.createElement("option");
-  option.text = "Competidores";
-  contestantSelector.add(option);
+  institutionSelector.options.add(new Option(DEFAULT_NAME["institution"]));
 
   info = fetchDataFor("contestant", CONTESTANTS);
+  contestantSelector.options.add(new Option(DEFAULT_NAME["contestant"]));
+
   var items = Object.keys(info).map(function(key) { return [key, CONTESTANTS[key]['FullName']]; });
   items.sort(function(a, b) { return caseInsensitive(a[1], b[1]); });
 
-  for (let item of items) {
-    var option = document.createElement("option");
-    option.value = item[0];
-    option.text = item[1];
-    contestantSelector.add(option);
-  }
+  for (let item of items)
+    contestantSelector.options.add(new Option(item[1], item[0]));
 }
 
 // Atualização dos dados.
 function selectorChanged(selector) {
-  // Remove options, images and statistics for following selectors.
-  for (let sel of SELECTORS) {
-    participantImg.style.display = "none";
-    participantStat.innerHTML = '';
-  }
-
-  if (isDefault(selector)) {
-    participantImg.style.display = "none";
-    chart.style.display = "none";
-    document.getElementById(`${selector}Stat`).innerHTML = "";
-  } else {
-    chart.style.display = "inline";
+  if (isDefault(selector))
+    statistics.style.display = "none";
+  else {
+    statistics.style.display = "inline";
     statHeader.innerHTML = current(selector);
     window[`${selector}Changed`]();
   }
@@ -106,13 +83,10 @@ function ufChanged() {
   contestantSelector.options[0].selected = 'selected';
 
   var info = fetchDataFor("instititution", INSTITUTIONS);
-  for (let text of Object.keys(info).sort(caseInsensitive)) {
-    var option = document.createElement("option");
-    option.text = text;
-    institutionSelector.add(option);
-  }
+  for (let text of Object.keys(info).sort(caseInsensitive))
+    institutionSelector.options.add(new Option(text));
 
-  chart.style.display = "none";
+  statistics.style.display = "none";
 }
 
 function institutionChanged() {
@@ -165,6 +139,11 @@ function contestantChanged() {
 }
 
 
+function toolTip(phase, rank) {
+  return `<div style="padding:5px 5px 5px 5px; min-width:75px;"><strong>Rank:</strong> ${rank} ${rankImg(phase, 12, rank)}</div>`;
+}
+
+
 function drawCurveTypes(info, isContestant) {
   var data = new google.visualization.DataTable();
   data.addColumn('string', 'Year');
@@ -182,14 +161,13 @@ function drawCurveTypes(info, isContestant) {
     }
   }
 
-  var heightPx = 25, rank;
-
+  var rank;
   for (var year = Number(minYear); year <= maxYear; year++) {
     row = [year.toString()];
     for (let phase of PHASES)
       if (info[phase] && info[phase][year]) {
         rank = isContestant ? info[phase][year] : info[phase][year]["BestRank"];
-        row.push(rank, `<div style="padding:5px 5px 5px 5px; min-width:75px;">${rank} ${rankImg(phase, heightPx, rank)}</div>`);
+        row.push(rank, toolTip(phase, rank));
       }
       else
         row.push(null, '');
