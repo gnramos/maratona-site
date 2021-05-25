@@ -700,8 +700,8 @@ CONTESTS[2020]["1aFase"] = {
           "Coach": "Andre Ribeiro"
         },
         "União Flasco": {
-          "Rank": 682,
-          "SiteRank": 24,
+          "Rank": 0,
+          "SiteRank": 0,
           "Site": "Goiás",
           "Short name": "IFGoiano - Campus Ri",
           "Contestants": [
@@ -1467,8 +1467,8 @@ CONTESTS[2020]["1aFase"] = {
     "BA": {
       "UNIME - União Metropolitana de Educação e Cultura": {
         "CodeBreaker": {
-          "Rank": 682,
-          "SiteRank": 22,
+          "Rank": 0,
+          "SiteRank": 0,
           "Site": "Bahia",
           "Short name": "UNIME",
           "Contestants": [
@@ -1484,8 +1484,8 @@ CONTESTS[2020]["1aFase"] = {
           "Coach": "Alex Alves Da Paixão"
         },
         "JEDIs": {
-          "Rank": 682,
-          "SiteRank": 22,
+          "Rank": 0,
+          "SiteRank": 0,
           "Site": "Bahia",
           "Short name": "UNIME",
           "Contestants": [
@@ -1501,8 +1501,8 @@ CONTESTS[2020]["1aFase"] = {
           "Coach": "Alex Alves Da Paixão"
         },
         "Not expected": {
-          "Rank": 682,
-          "SiteRank": 22,
+          "Rank": 0,
+          "SiteRank": 0,
           "Site": "Bahia",
           "Short name": "UNIME",
           "Contestants": [
@@ -1571,8 +1571,8 @@ CONTESTS[2020]["1aFase"] = {
           "Coach": "Mario Jorge Pereira"
         },
         "Gemada Team": {
-          "Rank": 682,
-          "SiteRank": 22,
+          "Rank": 0,
+          "SiteRank": 0,
           "Site": "Bahia",
           "Short name": "UCSAL",
           "Contestants": [
@@ -1622,8 +1622,8 @@ CONTESTS[2020]["1aFase"] = {
           "Coach": "Mario Jorge Pereira"
         },
         "Println": {
-          "Rank": 682,
-          "SiteRank": 22,
+          "Rank": 0,
+          "SiteRank": 0,
           "Site": "Bahia",
           "Short name": "UCSAL",
           "Contestants": [
@@ -2099,8 +2099,8 @@ CONTESTS[2020]["1aFase"] = {
           "Coach": "Fabricio Carneiro"
         },
         "da3m0nS": {
-          "Rank": 682,
-          "SiteRank": 43,
+          "Rank": 0,
+          "SiteRank": 0,
           "Site": "Ceará",
           "Short name": "FAP",
           "Contestants": [
@@ -2207,8 +2207,8 @@ CONTESTS[2020]["1aFase"] = {
           "Coach": "Anderson Aragão"
         },
         "Gatinhos de Programa": {
-          "Rank": 682,
-          "SiteRank": 43,
+          "Rank": 0,
+          "SiteRank": 0,
           "Site": "Ceará",
           "Short name": "IFCE-Tianguá",
           "Contestants": [
@@ -2330,8 +2330,8 @@ CONTESTS[2020]["1aFase"] = {
           "Coach": "Claudio Carvalho"
         },
         "Os mascarados": {
-          "Rank": 682,
-          "SiteRank": 43,
+          "Rank": 0,
+          "SiteRank": 0,
           "Site": "Ceará",
           "Short name": "",
           "Contestants": [
@@ -2419,8 +2419,8 @@ CONTESTS[2020]["1aFase"] = {
           "Coach": "Thiago Marcilon"
         },
         "LDM": {
-          "Rank": 682,
-          "SiteRank": 43,
+          "Rank": 0,
+          "SiteRank": 0,
           "Site": "Ceará",
           "Short name": "UFCA",
           "Contestants": [
@@ -2436,8 +2436,8 @@ CONTESTS[2020]["1aFase"] = {
           "Coach": "Thiago Marcilon"
         },
         "New line coders": {
-          "Rank": 682,
-          "SiteRank": 43,
+          "Rank": 0,
+          "SiteRank": 0,
           "Site": "Ceará",
           "Short name": "UFCA",
           "Contestants": [
@@ -2627,8 +2627,8 @@ CONTESTS[2020]["1aFase"] = {
           "Coach": "Wladimir Araújo Tavares"
         },
         "Scorpion": {
-          "Rank": 682,
-          "SiteRank": 43,
+          "Rank": 0,
+          "SiteRank": 0,
           "Site": "Ceará",
           "Short name": "UFC - Crateús",
           "Contestants": [
@@ -2939,8 +2939,8 @@ CONTESTS[2020]["1aFase"] = {
     "MA": {
       "Faculdade de Balsas": {
         "Brute Force": {
-          "Rank": 682,
-          "SiteRank": 4,
+          "Rank": 0,
+          "SiteRank": 0,
           "Site": "Maranhão",
           "Short name": "UNIBALSAS",
           "Contestants": [
@@ -2956,8 +2956,8 @@ CONTESTS[2020]["1aFase"] = {
           "Coach": "Bruno Ramon De Almeida E Silva"
         },
         "Lovelace": {
-          "Rank": 682,
-          "SiteRank": 4,
+          "Rank": 0,
+          "SiteRank": 0,
           "Site": "Maranhão",
           "Short name": "UNIBALSAS",
           "Contestants": [
@@ -3157,8 +3157,8 @@ CONTESTS[2020]["1aFase"] = {
           "Coach": "Thiago Gouveia Da Silva"
         },
         "3P": {
-          "Rank": 682,
-          "SiteRank": 28,
+          "Rank": 0,
+          "SiteRank": 0,
           "Site": "Paraíba",
           "Short name": "IFPB - João Pessoa",
           "Contestants": [
@@ -3594,8 +3594,8 @@ CONTESTS[2020]["1aFase"] = {
     "PE": {
       "CESAR School": {
         "Acácia": {
-          "Rank": 682,
-          "SiteRank": 9,
+          "Rank": 0,
+          "SiteRank": 0,
           "Site": "Pernambuco",
           "Short name": "CESAR School",
           "Contestants": [
@@ -4194,8 +4194,8 @@ CONTESTS[2020]["1aFase"] = {
           "Coach": "Jorgiano Vidal"
         },
         "Sherlock code": {
-          "Rank": 682,
-          "SiteRank": 12,
+          "Rank": 0,
+          "SiteRank": 0,
           "Site": "Rio Grande do Norte",
           "Short name": "IFRN - CNAT",
           "Contestants": [
@@ -4211,8 +4211,8 @@ CONTESTS[2020]["1aFase"] = {
           "Coach": "Jorgiano Vidal"
         },
         "Tri Angular": {
-          "Rank": 682,
-          "SiteRank": 12,
+          "Rank": 0,
+          "SiteRank": 0,
           "Site": "Rio Grande do Norte",
           "Short name": "IFRN - CNAT",
           "Contestants": [
@@ -4281,8 +4281,8 @@ CONTESTS[2020]["1aFase"] = {
           "Coach": "Sérgio Medeiros"
         },
         "Em cima da hora": {
-          "Rank": 682,
-          "SiteRank": 12,
+          "Rank": 0,
+          "SiteRank": 0,
           "Site": "Rio Grande do Norte",
           "Short name": "UFRN",
           "Contestants": [
@@ -4332,8 +4332,8 @@ CONTESTS[2020]["1aFase"] = {
           "Coach": "Sérgio Medeiros"
         },
         "RootMasters": {
-          "Rank": 682,
-          "SiteRank": 12,
+          "Rank": 0,
+          "SiteRank": 0,
           "Site": "Rio Grande do Norte",
           "Short name": "UFRN",
           "Contestants": [
@@ -4440,8 +4440,8 @@ CONTESTS[2020]["1aFase"] = {
           "Coach": "Marcos Santos"
         },
         "ToRuRi": {
-          "Rank": 682,
-          "SiteRank": 2,
+          "Rank": 0,
+          "SiteRank": 0,
           "Site": "Bahia",
           "Short name": "Senai Cimatic",
           "Contestants": [
@@ -4885,8 +4885,8 @@ CONTESTS[2020]["1aFase"] = {
           "Coach": "Amadeu Anderlin"
         },
         "CodeG;rls": {
-          "Rank": 682,
-          "SiteRank": 28,
+          "Rank": 0,
+          "SiteRank": 0,
           "Site": "Amazonas",
           "Short name": "IFAM",
           "Contestants": [
@@ -4902,8 +4902,8 @@ CONTESTS[2020]["1aFase"] = {
           "Coach": "Amadeu Anderlin"
         },
         "Lindinhos": {
-          "Rank": 682,
-          "SiteRank": 28,
+          "Rank": 0,
+          "SiteRank": 0,
           "Site": "Amazonas",
           "Short name": "IFAM",
           "Contestants": [
@@ -5023,8 +5023,8 @@ CONTESTS[2020]["1aFase"] = {
           "Coach": "Jéssica Soares"
         },
         "os curiosos": {
-          "Rank": 682,
-          "SiteRank": 28,
+          "Rank": 0,
+          "SiteRank": 0,
           "Site": "Amazonas",
           "Short name": "UNINORTE",
           "Contestants": [
@@ -5328,8 +5328,8 @@ CONTESTS[2020]["1aFase"] = {
           "Coach": "Michel Yvano"
         },
         "Na minha máquina rodou!": {
-          "Rank": 682,
-          "SiteRank": 8,
+          "Rank": 0,
+          "SiteRank": 0,
           "Site": "Pará",
           "Short name": "IFPA - Campus Itaitu",
           "Contestants": [
@@ -5383,8 +5383,8 @@ CONTESTS[2020]["1aFase"] = {
       },
       "Instituto Federal do Triangulo Mineiro - Análise e Desenvolvimento Sistemas - Patrocínio": {
         "Buffer": {
-          "Rank": 682,
-          "SiteRank": 4,
+          "Rank": 0,
+          "SiteRank": 0,
           "Site": "Minas Gerais",
           "Short name": "IFTM-Patrocinio/ADS",
           "Contestants": [
@@ -5417,8 +5417,8 @@ CONTESTS[2020]["1aFase"] = {
           "Coach": "Jean Sousa"
         },
         "helloworld": {
-          "Rank": 682,
-          "SiteRank": 4,
+          "Rank": 0,
+          "SiteRank": 0,
           "Site": "Minas Gerais",
           "Short name": "IFTM-Patrocinio/ADS",
           "Contestants": [
@@ -5434,8 +5434,8 @@ CONTESTS[2020]["1aFase"] = {
           "Coach": "Jean Sousa"
         },
         "vai_na.sort();": {
-          "Rank": 682,
-          "SiteRank": 4,
+          "Rank": 0,
+          "SiteRank": 0,
           "Site": "Minas Gerais",
           "Short name": "IFTM-Patrocinio/ADS",
           "Contestants": [
@@ -5453,8 +5453,8 @@ CONTESTS[2020]["1aFase"] = {
       },
       "Universidade Federal do Oeste do Pará": {
         "Dev Cunhantãs": {
-          "Rank": 682,
-          "SiteRank": 8,
+          "Rank": 0,
+          "SiteRank": 0,
           "Site": "Pará",
           "Short name": "UFOPA",
           "Contestants": [
@@ -5470,8 +5470,8 @@ CONTESTS[2020]["1aFase"] = {
           "Coach": "Flavia Monteiro"
         },
         "Dev Girls": {
-          "Rank": 682,
-          "SiteRank": 8,
+          "Rank": 0,
+          "SiteRank": 0,
           "Site": "Pará",
           "Short name": "UFOPA",
           "Contestants": [
@@ -5504,8 +5504,8 @@ CONTESTS[2020]["1aFase"] = {
           "Coach": "Flavia Monteiro"
         },
         "Hacker's Jr": {
-          "Rank": 682,
-          "SiteRank": 8,
+          "Rank": 0,
+          "SiteRank": 0,
           "Site": "Pará",
           "Short name": "UFOPA",
           "Contestants": [
@@ -5646,8 +5646,8 @@ CONTESTS[2020]["1aFase"] = {
           "Coach": "Liliane Jacon"
         },
         "Equipe 101": {
-          "Rank": 682,
-          "SiteRank": 4,
+          "Rank": 0,
+          "SiteRank": 0,
           "Site": "Rondônia",
           "Short name": "UNIR",
           "Contestants": [
@@ -5663,8 +5663,8 @@ CONTESTS[2020]["1aFase"] = {
           "Coach": "Liliane Jacon"
         },
         "Extreme Go Horse": {
-          "Rank": 682,
-          "SiteRank": 4,
+          "Rank": 0,
+          "SiteRank": 0,
           "Site": "Rondônia",
           "Short name": "UNIR",
           "Contestants": [
@@ -5731,8 +5731,8 @@ CONTESTS[2020]["1aFase"] = {
           "Coach": "Liliane Jacon"
         },
         "Titanica": {
-          "Rank": 682,
-          "SiteRank": 4,
+          "Rank": 0,
+          "SiteRank": 0,
           "Site": "Rondônia",
           "Short name": "UNIR",
           "Contestants": [
@@ -5748,8 +5748,8 @@ CONTESTS[2020]["1aFase"] = {
           "Coach": "Liliane Jacon"
         },
         "Tribo Binária": {
-          "Rank": 682,
-          "SiteRank": 4,
+          "Rank": 0,
+          "SiteRank": 0,
           "Site": "Rondônia",
           "Short name": "UNIR",
           "Contestants": [
@@ -5807,8 +5807,8 @@ CONTESTS[2020]["1aFase"] = {
           "Coach": "Ivo Oliveira"
         },
         "Paradise Valley": {
-          "Rank": 682,
-          "SiteRank": 2,
+          "Rank": 0,
+          "SiteRank": 0,
           "Site": "Tocantins",
           "Short name": "IFTO - Paraíso do To",
           "Contestants": [
@@ -5900,8 +5900,8 @@ CONTESTS[2020]["1aFase"] = {
           "Coach": "Alessandro Bertolani"
         },
         "TAPPe Team": {
-          "Rank": 682,
-          "SiteRank": 15,
+          "Rank": 0,
+          "SiteRank": 0,
           "Site": "Espirito Santo",
           "Short name": "UVV",
           "Contestants": [
@@ -6025,8 +6025,8 @@ CONTESTS[2020]["1aFase"] = {
           "Coach": "Giovanni Comarela"
         },
         "No - Wrong Answer": {
-          "Rank": 682,
-          "SiteRank": 15,
+          "Rank": 0,
+          "SiteRank": 0,
           "Site": "Espirito Santo",
           "Short name": "UFES",
           "Contestants": [
@@ -6286,8 +6286,8 @@ CONTESTS[2020]["1aFase"] = {
           "Coach": "Alessio Miranda Junior"
         },
         "Pão de Queijo": {
-          "Rank": 682,
-          "SiteRank": 133,
+          "Rank": 0,
+          "SiteRank": 0,
           "Site": "Minas Gerais",
           "Short name": "CEFET-MG - Timóteo",
           "Contestants": [
@@ -6354,8 +6354,8 @@ CONTESTS[2020]["1aFase"] = {
           "Coach": "Alessio Miranda Junior"
         },
         "Team BIO": {
-          "Rank": 682,
-          "SiteRank": 133,
+          "Rank": 0,
+          "SiteRank": 0,
           "Site": "Minas Gerais",
           "Short name": "CEFET-MG - Timóteo",
           "Contestants": [
@@ -6460,8 +6460,8 @@ CONTESTS[2020]["1aFase"] = {
       },
       "Centro de Ensino Superior de Juiz de Fora": {
         "Time Uniacademia": {
-          "Rank": 682,
-          "SiteRank": 133,
+          "Rank": 0,
+          "SiteRank": 0,
           "Site": "Minas Gerais",
           "Short name": "CES/JF",
           "Contestants": [
@@ -6566,8 +6566,8 @@ CONTESTS[2020]["1aFase"] = {
           "Coach": "Joás Weslei Baía"
         },
         "Não temos Struct pra isso!": {
-          "Rank": 682,
-          "SiteRank": 133,
+          "Rank": 0,
+          "SiteRank": 0,
           "Site": "Minas Gerais",
           "Short name": "",
           "Contestants": [
@@ -6583,8 +6583,8 @@ CONTESTS[2020]["1aFase"] = {
           "Coach": "Joás Weslei Baía"
         },
         "Você é o cara": {
-          "Rank": 682,
-          "SiteRank": 133,
+          "Rank": 0,
+          "SiteRank": 0,
           "Site": "Minas Gerais",
           "Short name": "",
           "Contestants": [
@@ -6600,8 +6600,8 @@ CONTESTS[2020]["1aFase"] = {
           "Coach": "Joás Weslei Baía"
         },
         "vai_na_sort()": {
-          "Rank": 682,
-          "SiteRank": 133,
+          "Rank": 0,
+          "SiteRank": 0,
           "Site": "Minas Gerais",
           "Short name": "",
           "Contestants": [
@@ -6867,8 +6867,8 @@ CONTESTS[2020]["1aFase"] = {
           "Coach": "Ricardo José Martins"
         },
         "ELS-e": {
-          "Rank": 682,
-          "SiteRank": 133,
+          "Rank": 0,
+          "SiteRank": 0,
           "Site": "Minas Gerais",
           "Short name": "IFSULMGMuz",
           "Contestants": [
@@ -6901,8 +6901,8 @@ CONTESTS[2020]["1aFase"] = {
           "Coach": "Ricardo José Martins"
         },
         "Espartanos": {
-          "Rank": 682,
-          "SiteRank": 133,
+          "Rank": 0,
+          "SiteRank": 0,
           "Site": "Minas Gerais",
           "Short name": "IFSULMGMuz",
           "Contestants": [
@@ -7054,8 +7054,8 @@ CONTESTS[2020]["1aFase"] = {
           "Coach": "Ricardo José Martins"
         },
         "Ômega": {
-          "Rank": 682,
-          "SiteRank": 133,
+          "Rank": 0,
+          "SiteRank": 0,
           "Site": "Minas Gerais",
           "Short name": "IFSULMGMuz",
           "Contestants": [
@@ -7249,8 +7249,8 @@ CONTESTS[2020]["1aFase"] = {
           "Coach": "Heveraldo Oliveira"
         },
         "Só queria aprender a fazer joguinho ;-;": {
-          "Rank": 682,
-          "SiteRank": 133,
+          "Rank": 0,
+          "SiteRank": 0,
           "Site": "Minas Gerais",
           "Short name": "UNIMONTES",
           "Contestants": [
@@ -7837,8 +7837,8 @@ CONTESTS[2020]["1aFase"] = {
           "Coach": "Alex Vidigal Bastos"
         },
         "FOB - Fire Of Babylon": {
-          "Rank": 682,
-          "SiteRank": 133,
+          "Rank": 0,
+          "SiteRank": 0,
           "Site": "Minas Gerais",
           "Short name": "UFSJ",
           "Contestants": [
@@ -7854,8 +7854,8 @@ CONTESTS[2020]["1aFase"] = {
           "Coach": "Alex Vidigal Bastos"
         },
         "Turing Programmers": {
-          "Rank": 682,
-          "SiteRank": 133,
+          "Rank": 0,
+          "SiteRank": 0,
           "Site": "Minas Gerais",
           "Short name": "UFSJ",
           "Contestants": [
@@ -7941,8 +7941,8 @@ CONTESTS[2020]["1aFase"] = {
           "Coach": "João Henrique De Souza Pereira"
         },
         "AMMADevs": {
-          "Rank": 682,
-          "SiteRank": 133,
+          "Rank": 0,
+          "SiteRank": 0,
           "Site": "Minas Gerais",
           "Short name": "UFU",
           "Contestants": [
@@ -8060,8 +8060,8 @@ CONTESTS[2020]["1aFase"] = {
           "Coach": "João Henrique De Souza Pereira"
         },
         "HGL": {
-          "Rank": 682,
-          "SiteRank": 133,
+          "Rank": 0,
+          "SiteRank": 0,
           "Site": "Minas Gerais",
           "Short name": "UFU",
           "Contestants": [
@@ -8716,8 +8716,8 @@ CONTESTS[2020]["1aFase"] = {
           "Coach": "Roberto Rocha"
         },
         "fatalError.py": {
-          "Rank": 682,
-          "SiteRank": 133,
+          "Rank": 0,
+          "SiteRank": 0,
           "Site": "Minas Gerais",
           "Short name": "UNIVAS",
           "Contestants": [
@@ -9528,8 +9528,8 @@ CONTESTS[2020]["1aFase"] = {
       },
       "Centro Universitário Senac-SP": {
         "Capítons": {
-          "Rank": 682,
-          "SiteRank": 131,
+          "Rank": 0,
+          "SiteRank": 0,
           "Site": "São Paulo",
           "Short name": "Senac-SP",
           "Contestants": [
@@ -9598,8 +9598,8 @@ CONTESTS[2020]["1aFase"] = {
       },
       "Escola de Engenharia de Piracicaba": {
         "Equipe Zero": {
-          "Rank": 682,
-          "SiteRank": 131,
+          "Rank": 0,
+          "SiteRank": 0,
           "Site": "São Paulo",
           "Short name": "EEP",
           "Contestants": [
@@ -9615,8 +9615,8 @@ CONTESTS[2020]["1aFase"] = {
           "Coach": "Clerivaldo Roccia"
         },
         "O3PA": {
-          "Rank": 682,
-          "SiteRank": 131,
+          "Rank": 0,
+          "SiteRank": 0,
           "Site": "São Paulo",
           "Short name": "EEP",
           "Contestants": [
@@ -9791,8 +9791,8 @@ CONTESTS[2020]["1aFase"] = {
           "Coach": "Carlos Nascimento"
         },
         "JaN (Just a N00b)": {
-          "Rank": 682,
-          "SiteRank": 131,
+          "Rank": 0,
+          "SiteRank": 0,
           "Site": "São Paulo",
           "Short name": "FATEC Cruzeiro",
           "Contestants": [
@@ -9916,8 +9916,8 @@ CONTESTS[2020]["1aFase"] = {
           "Coach": "Antonio Cesar Barros Munari"
         },
         "Os Pasteleiros de Madagascar": {
-          "Rank": 682,
-          "SiteRank": 131,
+          "Rank": 0,
+          "SiteRank": 0,
           "Site": "São Paulo",
           "Short name": "",
           "Contestants": [
@@ -9935,8 +9935,8 @@ CONTESTS[2020]["1aFase"] = {
       },
       "Faculdade de Tecnologia de São José dos Campos": {
         "42": {
-          "Rank": 682,
-          "SiteRank": 131,
+          "Rank": 0,
+          "SiteRank": 0,
           "Site": "São Paulo",
           "Short name": "FATEC-SJC",
           "Contestants": [
@@ -10020,8 +10020,8 @@ CONTESTS[2020]["1aFase"] = {
           "Coach": "Reinaldo Gen Ichiro Arakaki"
         },
         "LogicalTeam": {
-          "Rank": 682,
-          "SiteRank": 131,
+          "Rank": 0,
+          "SiteRank": 0,
           "Site": "São Paulo",
           "Short name": "FATEC-SJC",
           "Contestants": [
@@ -10109,8 +10109,8 @@ CONTESTS[2020]["1aFase"] = {
           "Coach": "Heleno Vale"
         },
         "FILÉ COM FRITAS": {
-          "Rank": 682,
-          "SiteRank": 131,
+          "Rank": 0,
+          "SiteRank": 0,
           "Site": "São Paulo",
           "Short name": "FIB",
           "Contestants": [
@@ -10128,8 +10128,8 @@ CONTESTS[2020]["1aFase"] = {
       },
       "Fatec Bauru": {
         "GadoNovo": {
-          "Rank": 682,
-          "SiteRank": 131,
+          "Rank": 0,
+          "SiteRank": 0,
           "Site": "São Paulo",
           "Short name": "Fatec Bauru",
           "Contestants": [
@@ -10234,8 +10234,8 @@ CONTESTS[2020]["1aFase"] = {
       },
       "Instituição Toledo de Ensino": {
         "Avengers of VSCode": {
-          "Rank": 682,
-          "SiteRank": 131,
+          "Rank": 0,
+          "SiteRank": 0,
           "Site": "São Paulo",
           "Short name": "ITE",
           "Contestants": [
@@ -10251,8 +10251,8 @@ CONTESTS[2020]["1aFase"] = {
           "Coach": "Anderson Talon"
         },
         "Coders Union": {
-          "Rank": 682,
-          "SiteRank": 131,
+          "Rank": 0,
+          "SiteRank": 0,
           "Site": "São Paulo",
           "Short name": "ITE",
           "Contestants": [
@@ -10304,8 +10304,8 @@ CONTESTS[2020]["1aFase"] = {
           "Coach": "Rafael João"
         },
         "[BRI] Mr. Robot": {
-          "Rank": 682,
-          "SiteRank": 131,
+          "Rank": 0,
+          "SiteRank": 0,
           "Site": "São Paulo",
           "Short name": "IFSP - Birigui",
           "Contestants": [
@@ -10374,8 +10374,8 @@ CONTESTS[2020]["1aFase"] = {
       },
       "Instituto Federal de São Paulo": {
         "BLL IFSP-ARQ Team": {
-          "Rank": 682,
-          "SiteRank": 131,
+          "Rank": 0,
+          "SiteRank": 0,
           "Site": "São Paulo",
           "Short name": "IFSP",
           "Contestants": [
@@ -10671,8 +10671,8 @@ CONTESTS[2020]["1aFase"] = {
       },
       "Pontifícia Universidade Católica de Campinas": {
         "Code Capital": {
-          "Rank": 682,
-          "SiteRank": 131,
+          "Rank": 0,
+          "SiteRank": 0,
           "Site": "São Paulo",
           "Short name": "PUC-Campinas",
           "Contestants": [
@@ -10777,8 +10777,8 @@ CONTESTS[2020]["1aFase"] = {
           "Coach": "Aleardo Manacero"
         },
         "Goose Corp": {
-          "Rank": 682,
-          "SiteRank": 131,
+          "Rank": 0,
+          "SiteRank": 0,
           "Site": "São Paulo",
           "Short name": "IBILCE-UNESP",
           "Contestants": [
@@ -11176,8 +11176,8 @@ CONTESTS[2020]["1aFase"] = {
           "Coach": "Ciro Trindade"
         },
         "VLG": {
-          "Rank": 682,
-          "SiteRank": 131,
+          "Rank": 0,
+          "SiteRank": 0,
           "Site": "São Paulo",
           "Short name": "UniSantos",
           "Contestants": [
@@ -11369,8 +11369,8 @@ CONTESTS[2020]["1aFase"] = {
       },
       "Universidade Federal de São Carlos": {
         "Diorama": {
-          "Rank": 682,
-          "SiteRank": 131,
+          "Rank": 0,
+          "SiteRank": 0,
           "Site": "São Paulo",
           "Short name": "UFSCar",
           "Contestants": [
@@ -11507,8 +11507,8 @@ CONTESTS[2020]["1aFase"] = {
           "Coach": "Arlindo Conceicao"
         },
         "Lobos Virtuais de Diadema": {
-          "Rank": 682,
-          "SiteRank": 131,
+          "Rank": 0,
+          "SiteRank": 0,
           "Site": "São Paulo",
           "Short name": "UNIFESP",
           "Contestants": [
@@ -11751,8 +11751,8 @@ CONTESTS[2020]["1aFase"] = {
           "Coach": "Israel Florentino"
         },
         "MackTrio": {
-          "Rank": 682,
-          "SiteRank": 131,
+          "Rank": 0,
+          "SiteRank": 0,
           "Site": "São Paulo",
           "Short name": "",
           "Contestants": [
@@ -11770,8 +11770,8 @@ CONTESTS[2020]["1aFase"] = {
       },
       "Universidade São Francisco": {
         "Milgrau Team": {
-          "Rank": 682,
-          "SiteRank": 131,
+          "Rank": 0,
+          "SiteRank": 0,
           "Site": "São Paulo",
           "Short name": "USF",
           "Contestants": [
@@ -11823,8 +11823,8 @@ CONTESTS[2020]["1aFase"] = {
           "Coach": "Lucy Mari Tabuti"
         },
         "Dark Kali": {
-          "Rank": 682,
-          "SiteRank": 131,
+          "Rank": 0,
+          "SiteRank": 0,
           "Site": "São Paulo",
           "Short name": "Univesp",
           "Contestants": [
@@ -11874,8 +11874,8 @@ CONTESTS[2020]["1aFase"] = {
           "Coach": "Lucy Mari Tabuti"
         },
         "Team Gambiware": {
-          "Rank": 682,
-          "SiteRank": 131,
+          "Rank": 0,
+          "SiteRank": 0,
           "Site": "São Paulo",
           "Short name": "Univesp",
           "Contestants": [
@@ -12373,8 +12373,8 @@ CONTESTS[2020]["1aFase"] = {
           "Coach": "Luciano Antunes"
         },
         "Comp UNESC": {
-          "Rank": 682,
-          "SiteRank": 2,
+          "Rank": 0,
+          "SiteRank": 0,
           "Site": "Santa Catarina",
           "Short name": "UNESC",
           "Contestants": [
@@ -13326,8 +13326,8 @@ CONTESTS[2020]["1aFase"] = {
           "Coach": "Leanderson André"
         },
         "High Performance": {
-          "Rank": 682,
-          "SiteRank": 45,
+          "Rank": 0,
+          "SiteRank": 0,
           "Site": "Santa Catarina",
           "Short name": "UNIVILLE",
           "Contestants": [
@@ -13343,8 +13343,8 @@ CONTESTS[2020]["1aFase"] = {
           "Coach": "Leanderson André"
         },
         "Los Hermanos Que Restaram": {
-          "Rank": 682,
-          "SiteRank": 45,
+          "Rank": 0,
+          "SiteRank": 0,
           "Site": "Santa Catarina",
           "Short name": "UNIVILLE",
           "Contestants": [
@@ -13377,8 +13377,8 @@ CONTESTS[2020]["1aFase"] = {
           "Coach": "Leanderson André"
         },
         "Tailowma": {
-          "Rank": 682,
-          "SiteRank": 45,
+          "Rank": 0,
+          "SiteRank": 0,
           "Site": "Santa Catarina",
           "Short name": "UNIVILLE",
           "Contestants": [
@@ -14055,7 +14055,7 @@ if (AGGREGATED["Mean"]["Rank"][2020] === undefined)
 
 AGGREGATED["Mean"]["Rank"][2020]["1aFase"] = {
   "Centro-Oeste": {
-    "Value": 320.8125,
+    "Value": 316.24050632911394,
     "DF": {
       "Value": 265.66875,
       "Centro Universitário IESB": {
@@ -14075,9 +14075,9 @@ AGGREGATED["Mean"]["Rank"][2020]["1aFase"] = {
       }
     },
     "GO": {
-      "Value": 385.0408163265306,
+      "Value": 372.40425531914894,
       "Instituto Federal Goiano - Campus Rio Verde": {
-        "Value": 569.5
+        "Value": 553.4285714285714
       },
       "Instituto de Informática - UFG": {
         "Value": 222.3846153846154
@@ -14118,7 +14118,7 @@ AGGREGATED["Mean"]["Rank"][2020]["1aFase"] = {
     }
   },
   "Nordeste": {
-    "Value": 376.0503311258278,
+    "Value": 336.20359281437123,
     "AL": {
       "Value": 323.86486486486484,
       "Universidade Federal de Alagoas": {
@@ -14129,12 +14129,9 @@ AGGREGATED["Mean"]["Rank"][2020]["1aFase"] = {
       }
     },
     "BA": {
-      "Value": 405.35593220338984,
-      "UNIME - União Metropolitana de Educação e Cultura": {
-        "Value": 682.0
-      },
+      "Value": 341.9583333333333,
       "Universidade Catolica do Salvador": {
-        "Value": 565.0
+        "Value": 531.5714285714286
       },
       "Universidade Estadual de Feira de Santana": {
         "Value": 303.52941176470586
@@ -14153,7 +14150,7 @@ AGGREGATED["Mean"]["Rank"][2020]["1aFase"] = {
       }
     },
     "CE": {
-      "Value": 449.2610837438424,
+      "Value": 416.5730337078652,
       "Centro Universitário Christus": {
         "Value": 554.5
       },
@@ -14161,7 +14158,7 @@ AGGREGATED["Mean"]["Rank"][2020]["1aFase"] = {
         "Value": 491.0
       },
       "Faculdade Paraíso do Ceará": {
-        "Value": 501.6
+        "Value": 456.5
       },
       "Instituto Federal de Educação, Ciência e Tecnologia do Ceará - Campus Aracati": {
         "Value": 199.0
@@ -14170,35 +14167,32 @@ AGGREGATED["Mean"]["Rank"][2020]["1aFase"] = {
         "Value": 498.5
       },
       "Instituto Federal de Educação, Ciência e Tecnologia do Ceará - Campus Tianguá": {
-        "Value": 435.6666666666667
+        "Value": 312.5
       },
       "Instituto Federal de Ensino, Ciência e Tecnologia do Ceará": {
         "Value": 376.25
       },
       "Universidade Estadual Vale do Acaraú": {
-        "Value": 491.6666666666667
+        "Value": 396.5
       },
       "Universidade Estadual do Ceará": {
         "Value": 152.0
       },
       "Universidade Federal do Cariri": {
-        "Value": 614.6
+        "Value": 569.6666666666666
       },
       "Universidade Federal do Ceará": {
         "Value": 322.38461538461536
       },
       "Universidade Federal do Ceará - Campus Crateús": {
-        "Value": 639.0
+        "Value": 596.0
       },
       "Universidade Federal do Ceará - Campus Quixadá": {
         "Value": 463.6666666666667
       }
     },
     "MA": {
-      "Value": 484.2,
-      "Faculdade de Balsas": {
-        "Value": 682.0
-      },
+      "Value": 352.3333333333333,
       "Unidade de Ensino Superior Dom Bosco - UNDB": {
         "Value": 550.0
       },
@@ -14207,7 +14201,7 @@ AGGREGATED["Mean"]["Rank"][2020]["1aFase"] = {
       }
     },
     "PB": {
-      "Value": 267.3529411764706,
+      "Value": 248.2153846153846,
       "Centro Universitário Unifacisa": {
         "Value": 399.22222222222223
       },
@@ -14218,7 +14212,7 @@ AGGREGATED["Mean"]["Rank"][2020]["1aFase"] = {
         "Value": 304.0
       },
       "Instituto Federal de Educação, Ciência e Tecnologia da Paraíba - Campus João Pessoa": {
-        "Value": 363.94444444444446
+        "Value": 300.3333333333333
       },
       "Universidade Estadual da Paraíba": {
         "Value": 143.0
@@ -14234,9 +14228,9 @@ AGGREGATED["Mean"]["Rank"][2020]["1aFase"] = {
       }
     },
     "PE": {
-      "Value": 223.26666666666668,
+      "Value": 190.5,
       "CESAR School": {
-        "Value": 544.5
+        "Value": 407.0
       },
       "Universidade Federal Rural de Pernambuco": {
         "Value": 415.0
@@ -14267,21 +14261,21 @@ AGGREGATED["Mean"]["Rank"][2020]["1aFase"] = {
       }
     },
     "RN": {
-      "Value": 415.27848101265823,
+      "Value": 336.57377049180326,
       "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte - Campus Natal-Central": {
-        "Value": 565.5
+        "Value": 449.0
       },
       "Universidade Federal do Rio Grande do Norte": {
-        "Value": 363.23728813559325
+        "Value": 298.18367346938777
       },
       "Universidade do Estado do Rio Grande do Norte": {
         "Value": 582.0
       }
     },
     "SE": {
-      "Value": 354.16,
+      "Value": 291.7142857142857,
       "Faculdade de Tecnologia SENAI CIMATEC": {
-        "Value": 405.0
+        "Value": 128.0
       },
       "Universidade Federal de Sergipe": {
         "Value": 330.2352941176471
@@ -14289,7 +14283,7 @@ AGGREGATED["Mean"]["Rank"][2020]["1aFase"] = {
     }
   },
   "Norte": {
-    "Value": 473.1043771043771,
+    "Value": 411.07423580786025,
     "AC": {
       "Value": 406.05263157894734,
       "Centro Universitário U:VERSE": {
@@ -14306,15 +14300,15 @@ AGGREGATED["Mean"]["Rank"][2020]["1aFase"] = {
       }
     },
     "AM": {
-      "Value": 425.8235294117647,
+      "Value": 394.06611570247935,
       "Institute of Computing - Federal University of Amazonas": {
         "Value": 278.45
       },
       "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas": {
-        "Value": 571.7222222222222
+        "Value": 523.2
       },
       "UNINORTE - Laureate International Universities": {
-        "Value": 647.6153846153846
+        "Value": 632.3333333333334
       },
       "Universidade Federal do Amazonas": {
         "Value": 358.25
@@ -14330,27 +14324,27 @@ AGGREGATED["Mean"]["Rank"][2020]["1aFase"] = {
       }
     },
     "PA": {
-      "Value": 531.0121951219512,
+      "Value": 429.3265306122449,
       "Instituto Federal de Educação, Ciência e Tecnologia do Pará - IFPA Campus Itaituba": {
-        "Value": 581.5454545454545
+        "Value": 461.0
       },
       "Instituto Federal de Educação, Ciência e Tecnologia do Triângulo Mineiro campus Uberaba Parque Tecnológico": {
         "Value": 400.77777777777777
       },
       "Instituto Federal do Triangulo Mineiro - Análise e Desenvolvimento Sistemas - Patrocínio": {
-        "Value": 611.5
+        "Value": 400.0
       },
       "Universidade Federal do Oeste do Pará": {
-        "Value": 615.8333333333334
+        "Value": 568.5714285714286
       },
       "Universidade Federal do Pará": {
         "Value": 158.5
       }
     },
     "RO": {
-      "Value": 570.7241379310345,
+      "Value": 433.7692307692308,
       "Fundação Universidade Federal de Rondônia": {
-        "Value": 570.7241379310345
+        "Value": 433.7692307692308
       }
     },
     "RR": {
@@ -14360,21 +14354,21 @@ AGGREGATED["Mean"]["Rank"][2020]["1aFase"] = {
       }
     },
     "TO": {
-      "Value": 653.0,
+      "Value": 624.0,
       "Instituto Federal do Tocantins - Campus Paraíso do Tocantins": {
-        "Value": 653.0
+        "Value": 624.0
       }
     }
   },
   "Sudeste": {
-    "Value": 372.0693251533742,
+    "Value": 335.0309065934066,
     "ES": {
-      "Value": 337.35820895522386,
+      "Value": 290.6271186440678,
       "Centro Universitário Norte do Espírito Santo - Universidade Federal do Espírito Santo": {
         "Value": 332.3333333333333
       },
       "Centro Universitário Vila Velha": {
-        "Value": 609.5
+        "Value": 537.0
       },
       "Instituto Federal de Educação, Ciência e Tecnologia do Espírito Santo": {
         "Value": 287.0
@@ -14383,28 +14377,25 @@ AGGREGATED["Mean"]["Rank"][2020]["1aFase"] = {
         "Value": 214.0
       },
       "Universidade Federal do Espirito Santo": {
-        "Value": 303.6216216216216
+        "Value": 257.75757575757575
       }
     },
     "MG": {
-      "Value": 401.2282282282282,
+      "Value": 368.7772194304858,
       "Centro Federal de Educação Tecnológica de Minas Gerais - Campus 2": {
         "Value": 303.0
       },
       "Centro Federal de Educação Tecnológica de Minas Gerais Campus Timóteo": {
-        "Value": 504.25
+        "Value": 478.85714285714283
       },
       "Centro Universitário do Planalto de Araxá": {
         "Value": 320.0
-      },
-      "Centro de Ensino Superior de Juiz de Fora": {
-        "Value": 682.0
       },
       "FAI - Centro de Ensino Superior em Gestão, Tecnologia e Educação": {
         "Value": 524.0
       },
       "Faculdade Governador Ozanam Coelho": {
-        "Value": 645.0
+        "Value": 608.0
       },
       "Faculdade Única de Ipatinga (Única Educacional)": {
         "Value": 407.0
@@ -14422,7 +14413,7 @@ AGGREGATED["Mean"]["Rank"][2020]["1aFase"] = {
         "Value": 384.0
       },
       "Instituto Federal de Educação, Ciência e Tecnologia do Sul de Minas Gerais - Campus Muzambinho": {
-        "Value": 506.9230769230769
+        "Value": 454.4
       },
       "Instituto Federal de Educação, Ciência e Tecnologia do Sul de Minas Gerais - Campus Poços de Caldas": {
         "Value": 447.0740740740741
@@ -14434,7 +14425,7 @@ AGGREGATED["Mean"]["Rank"][2020]["1aFase"] = {
         "Value": 485.0
       },
       "Universidade Estadual de Montes Claros - UNIMONTES": {
-        "Value": 470.5
+        "Value": 259.0
       },
       "Universidade Federal de Itajubá - Campus Itabira": {
         "Value": 492.0
@@ -14449,10 +14440,10 @@ AGGREGATED["Mean"]["Rank"][2020]["1aFase"] = {
         "Value": 136.0
       },
       "Universidade Federal de São João Del Rei - CAP": {
-        "Value": 644.25
+        "Value": 606.5
       },
       "Universidade Federal de Uberlândia": {
-        "Value": 462.6862745098039
+        "Value": 438.8478260869565
       },
       "Universidade Federal de Uberlândia - Campus Monte Carmelo - Sistemas de Informação": {
         "Value": 396.35714285714283
@@ -14467,7 +14458,7 @@ AGGREGATED["Mean"]["Rank"][2020]["1aFase"] = {
         "Value": 461.5
       },
       "Universidade do Vale do Sapucaí - UNIVAS": {
-        "Value": 481.0
+        "Value": 280.0
       }
     },
     "RJ": {
@@ -14501,7 +14492,7 @@ AGGREGATED["Mean"]["Rank"][2020]["1aFase"] = {
       }
     },
     "SP": {
-      "Value": 374.28330995792425,
+      "Value": 325.8279220779221,
       "Centro Universitario Municipal de Franca": {
         "Value": 337.0
       },
@@ -14512,13 +14503,13 @@ AGGREGATED["Mean"]["Rank"][2020]["1aFase"] = {
         "Value": 264.0
       },
       "Centro Universitário Senac-SP": {
-        "Value": 522.0
+        "Value": 362.0
       },
       "Centro Universitário da FEI": {
         "Value": 338.3333333333333
       },
       "Escola de Engenharia de Piracicaba": {
-        "Value": 610.6666666666666
+        "Value": 575.0
       },
       "Faculdade de Informática e Administração Paulista": {
         "Value": 358.0
@@ -14527,7 +14518,7 @@ AGGREGATED["Mean"]["Rank"][2020]["1aFase"] = {
         "Value": 350.0
       },
       "Faculdade de Tecnologia de Cruzeiro": {
-        "Value": 602.0
+        "Value": 522.0
       },
       "Faculdade de Tecnologia de Garça": {
         "Value": 634.0
@@ -14536,31 +14527,28 @@ AGGREGATED["Mean"]["Rank"][2020]["1aFase"] = {
         "Value": 336.0
       },
       "Faculdade de Tecnologia de Sorocaba": {
-        "Value": 379.0
+        "Value": 244.33333333333334
       },
       "Faculdade de Tecnologia de São José dos Campos": {
-        "Value": 545.0769230769231
+        "Value": 237.0
       },
       "Faculdade de Tecnologia de São Paulo": {
         "Value": 352.3333333333333
       },
       "Faculdades Integradas de Bauru": {
-        "Value": 476.5
+        "Value": 271.0
       },
       "Fatec Bauru": {
-        "Value": 557.0
+        "Value": 432.0
       },
       "Fatec Ourinhos": {
         "Value": 463.6666666666667
       },
-      "Instituição Toledo de Ensino": {
-        "Value": 682.0
-      },
       "Instituto Federal de Educação, Ciência e Tecnologia de São Paulo - Campus Birigui": {
-        "Value": 422.05882352941177
+        "Value": 342.0769230769231
       },
       "Instituto Federal de São Paulo": {
-        "Value": 386.75
+        "Value": 288.3333333333333
       },
       "Instituto Federal de São Paulo - Barretos": {
         "Value": 429.6363636363636
@@ -14572,13 +14560,13 @@ AGGREGATED["Mean"]["Rank"][2020]["1aFase"] = {
         "Value": 168.9090909090909
       },
       "Pontifícia Universidade Católica de Campinas": {
-        "Value": 511.3333333333333
+        "Value": 426.0
       },
       "UNESP - Universidade Estadual Paulista (Faculdade de Ciências e Tecnologia - Presidente Prudente)": {
         "Value": 526.1111111111111
       },
       "UNESP - Universidade Estadual Paulista (IBILCE)": {
-        "Value": 461.25
+        "Value": 387.6666666666667
       },
       "UNESP - Universidade Estadual Paulista - (Faculdade de Ciências - Bauru)": {
         "Value": 156.06666666666666
@@ -14590,7 +14578,7 @@ AGGREGATED["Mean"]["Rank"][2020]["1aFase"] = {
         "Value": 94.0
       },
       "Universidade Católica de Santos": {
-        "Value": 513.4
+        "Value": 494.6666666666667
       },
       "Universidade Estadual Paulista Rio Claro": {
         "Value": 357.0
@@ -14599,10 +14587,10 @@ AGGREGATED["Mean"]["Rank"][2020]["1aFase"] = {
         "Value": 64.125
       },
       "Universidade Federal de São Carlos": {
-        "Value": 315.5
+        "Value": 242.2
       },
       "Universidade Federal de São Paulo": {
-        "Value": 559.3333333333334
+        "Value": 498.0
       },
       "Universidade Federal do ABC": {
         "Value": 350.6923076923077
@@ -14611,13 +14599,10 @@ AGGREGATED["Mean"]["Rank"][2020]["1aFase"] = {
         "Value": 585.7586206896551
       },
       "Universidade Presbiteriana Mackenzie": {
-        "Value": 562.75
-      },
-      "Universidade São Francisco": {
-        "Value": 682.0
+        "Value": 523.0
       },
       "Universidade Virtual do Estado de São Paulo": {
-        "Value": 622.0576923076923
+        "Value": 604.075
       },
       "Universidade de São Paulo": {
         "Value": 57.44444444444444
@@ -14626,12 +14611,12 @@ AGGREGATED["Mean"]["Rank"][2020]["1aFase"] = {
         "Value": 202.4375
       },
       "Universidade do Extremo Sul Catarinense": {
-        "Value": 407.0
+        "Value": 132.0
       }
     }
   },
   "Sul": {
-    "Value": 342.7851458885942,
+    "Value": 329.702479338843,
     "PR": {
       "Value": 248.92380952380952,
       "Centro Universitário Internacional": {
@@ -14690,7 +14675,7 @@ AGGREGATED["Mean"]["Rank"][2020]["1aFase"] = {
       }
     },
     "SC": {
-      "Value": 405.4646464646465,
+      "Value": 384.42391304347825,
       "Instituto Federal Catarinense": {
         "Value": 368.0
       },
@@ -14704,7 +14689,7 @@ AGGREGATED["Mean"]["Rank"][2020]["1aFase"] = {
         "Value": 376.4
       },
       "UNIVILLE - Universidade da Região de Joinville": {
-        "Value": 653.25
+        "Value": 613.0
       },
       "UNOESC - Universidade do Oeste de Santa Catarina - Chapecó": {
         "Value": 470.5238095238095

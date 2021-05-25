@@ -13961,48 +13961,33 @@ if (AGGREGATED["Count"]["Girls"][2018] === undefined)
 
 AGGREGATED["Count"]["Girls"][2018]["1aFase"] = {
   "Centro-Oeste": {
-    "Value": 42,
+    "Value": 27,
     "DF": {
-      "Value": 9,
+      "Value": 4,
       "Centro Universitário IESB": {
-        "Value": 8
-      },
-      "Instituto Federal de Educação, Ciência e Tecnologia de Brasília": {
-        "Value": 0
-      },
-      "Universidade de Brasília": {
-        "Value": 0
+        "Value": 3
       },
       "Universidade de Brasília - Faculdade UnB Gama": {
         "Value": 1
       }
     },
     "GO": {
-      "Value": 13,
-      "Faculdade de Tecnologia Senac Goiás": {
-        "Value": 0
-      },
+      "Value": 9,
       "Instituto Federal Goiano - Campus Rio Verde": {
         "Value": 1
       },
-      "Instituto Federal de Educação, Ciência e Tecnologia do Triângulo Mineiro - Campus Paracatu": {
-        "Value": 0
-      },
       "Instituto de Informática - UFG": {
-        "Value": 4
+        "Value": 3
       },
       "Pontifícia Universidade Católica de Goiás": {
         "Value": 3
       },
       "Unidade Universitária de Ciências Exatas e Tecnológicas - UEG": {
-        "Value": 4
-      },
-      "Universidade Federal de Catalão": {
-        "Value": 1
+        "Value": 2
       }
     },
     "MS": {
-      "Value": 20,
+      "Value": 14,
       "Faculdade de Computação - UFMS": {
         "Value": 1
       },
@@ -14010,26 +13995,23 @@ AGGREGATED["Count"]["Girls"][2018]["1aFase"] = {
         "Value": 3
       },
       "Instituto Federal de Educação, Ciência e Tecnologia de São Paulo - Campus Presidente Epitácio": {
-        "Value": 3
+        "Value": 2
       },
       "Instituto Federal de Educação, Ciências e Tecnologia do Mato Grosso do Sul - Campus Nova Andradina": {
         "Value": 1
       },
-      "Universidade Católica Dom Bosco": {
-        "Value": 0
-      },
       "Universidade Estadual de Mato Grosso do Sul": {
-        "Value": 9
+        "Value": 5
       },
       "Universidade Federal da Grande Dourados": {
-        "Value": 3
+        "Value": 2
       }
     }
   },
   "Nordeste": {
-    "Value": 88,
+    "Value": 35,
     "BA": {
-      "Value": 35,
+      "Value": 11,
       "Faculdade de Tecnologia SENAI CIMATEC": {
         "Value": 1
       },
@@ -14037,46 +14019,22 @@ AGGREGATED["Count"]["Girls"][2018]["1aFase"] = {
         "Value": 1
       },
       "Instituto Federal de Ciência e Tecnologia da Bahia - Campus Irecê": {
-        "Value": 12
+        "Value": 4
       },
       "Universidade Catolica do Salvador": {
-        "Value": 4
-      },
-      "Universidade Estadual do Sudoeste da Bahia": {
-        "Value": 4
+        "Value": 3
       },
       "Universidade Estadual do Sudoeste da Bahia - Campus Jequié": {
-        "Value": 12
-      },
-      "Universidade Federal da Bahia": {
-        "Value": 0
-      },
-      "Universidade Federal do Vale do São Francisco": {
-        "Value": 1
-      },
-      "Universidade do Estado da Bahia": {
-        "Value": 0
+        "Value": 2
       }
     },
     "CE": {
-      "Value": 13,
-      "Faculdade Paraíso do Ceará": {
-        "Value": 0
-      },
+      "Value": 10,
       "Faculdade de Juazeiro do Norte": {
         "Value": 1
       },
-      "Federal University Rural of the Semi-Arid": {
-        "Value": 0
-      },
-      "Instituto Federal de Educação, Ciência e Tecnologia do Ceará - Campus Crato": {
-        "Value": 0
-      },
-      "Instituto Federal de Educação, Ciência e Tecnologia do Ceará - Campus Tianguá": {
-        "Value": 0
-      },
       "Instituto Federal de Ensino, Ciência e Tecnologia do Ceará": {
-        "Value": 2
+        "Value": 1
       },
       "Universidade Estadual Vale do Acaraú": {
         "Value": 2
@@ -14084,154 +14042,85 @@ AGGREGATED["Count"]["Girls"][2018]["1aFase"] = {
       "Universidade Estadual do Ceará": {
         "Value": 1
       },
-      "Universidade Federal do Ceará": {
-        "Value": 0
-      },
-      "Universidade Federal do Ceará - Campus Crateús": {
-        "Value": 0
-      },
       "Universidade Federal do Ceará - Campus Quixadá": {
         "Value": 3
       },
       "Universidade Federal do Ceará - Campus Russas": {
-        "Value": 4
+        "Value": 2
       }
     },
     "MA": {
-      "Value": 4,
-      "Faculdade de Balsas": {
-        "Value": 0
-      },
+      "Value": 2,
       "Unidade de Ensino Superior Dom Bosco - UNDB": {
         "Value": 1
       },
       "Universidade Federal do Maranhão": {
-        "Value": 3
+        "Value": 1
       }
     },
     "PB": {
-      "Value": 11,
+      "Value": 4,
       "Centro Universitário de João Pessoa": {
         "Value": 1
       },
-      "Faculdade de Ciências Sociais Aplicadas - FACISA (PB)": {
-        "Value": 0
-      },
-      "Federal Rural University of Pernambuco - Academic Unit of Garanhuns": {
-        "Value": 0
-      },
       "Instituto Federal de Educação, Ciência e Tecnologia da Paraíba - Campus João Pessoa": {
-        "Value": 5
+        "Value": 1
       },
       "Universidade Estadual da Paraíba": {
-        "Value": 4
+        "Value": 1
       },
       "Universidade Federal da Paraíba - Campus IV": {
         "Value": 1
-      },
-      "Universidade Federal de Campina Grande": {
-        "Value": 0
       }
     },
     "PE": {
-      "Value": 6,
-      "Faculdades Integradas Barros Melo": {
-        "Value": 0
-      },
+      "Value": 2,
       "Universidade Federal Rural de Pernambuco": {
         "Value": 2
-      },
-      "Universidade Federal de Pernambuco": {
-        "Value": 4
       }
     },
     "PI": {
-      "Value": 13,
-      "Centro Universitário Estácio de Teresina": {
-        "Value": 0
-      },
-      "Instituto Federal de Educação, Ciência e Tecnologia do Piauí": {
-        "Value": 1
-      },
-      "Instituto Federal de Educação, Ciência e Tecnologia do Piauí - Campus Picos": {
-        "Value": 0
-      },
-      "Universidade Estadual do Piauí": {
-        "Value": 0
-      },
-      "Universidade Estadual do Piauí - Campus de Parnaíba": {
-        "Value": 1
-      },
-      "Universidade Federal do Piauí": {
-        "Value": 3
-      },
+      "Value": 3,
       "Universidade Federal do Piauí - Campus Picos": {
-        "Value": 8
+        "Value": 3
       }
     },
     "RN": {
-      "Value": 4,
-      "Federal University Rural of the Semi-Arid": {
-        "Value": 1
-      },
+      "Value": 1,
       "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte - Campus Natal-Central": {
-        "Value": 3
-      },
-      "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte - Campus Parnamirim": {
-        "Value": 0
-      },
-      "Universidade Federal do Rio Grande do Norte": {
-        "Value": 0
-      },
-      "Universidade do Estado do Rio Grande do Norte": {
-        "Value": 0
+        "Value": 1
       }
     },
     "SE": {
       "Value": 2,
-      "Universidade Federal de Alagoas": {
-        "Value": 0
-      },
-      "Universidade Federal de Alagoas - Campus Arapiraca": {
-        "Value": 0
-      },
       "Universidade Federal de Sergipe": {
         "Value": 2
       }
     }
   },
   "Norte": {
-    "Value": 47,
+    "Value": 23,
     "AC": {
-      "Value": 11,
-      "Faculdade Barão do Rio Branco": {
-        "Value": 0
-      },
-      "Instituto Federal de Educação, Ciência e Tecnologia do Acre": {
-        "Value": 1
-      },
+      "Value": 7,
       "Universidade Federal do Acre": {
-        "Value": 10
+        "Value": 7
       }
     },
     "AM": {
-      "Value": 19,
+      "Value": 5,
       "Institute of Computing - Federal University of Amazonas": {
-        "Value": 6
+        "Value": 1
       },
       "Instituto de Ensino Superior Fucapi": {
-        "Value": 4
+        "Value": 1
       },
       "Universidade do Estado do Amazonas": {
-        "Value": 9
+        "Value": 3
       }
     },
     "PA": {
-      "Value": 5,
+      "Value": 4,
       "Instituto Federal de Educação, Ciência e Tecnologia do Pará - IFPA Campus Itaituba": {
-        "Value": 1
-      },
-      "Universidade Federal do Oeste do Pará": {
         "Value": 1
       },
       "Universidade Federal do Pará": {
@@ -14242,9 +14131,9 @@ AGGREGATED["Count"]["Girls"][2018]["1aFase"] = {
       }
     },
     "RO": {
-      "Value": 9,
+      "Value": 4,
       "Fundação Universidade Federal de Rondônia": {
-        "Value": 9
+        "Value": 4
       }
     },
     "RR": {
@@ -14255,119 +14144,50 @@ AGGREGATED["Count"]["Girls"][2018]["1aFase"] = {
       "Universidade Federal de Roraima": {
         "Value": 2
       }
-    },
-    "TO": {
-      "Value": 0,
-      "Universidade Federal do Tocantins": {
-        "Value": 0
-      }
     }
   },
   "Sudeste": {
-    "Value": 177,
+    "Value": 111,
     "ES": {
-      "Value": 5,
-      "Centro Universitário Norte do Espírito Santo - Universidade Federal do Espírito Santo": {
-        "Value": 3
-      },
+      "Value": 1,
       "Instituto Federal de Educação, Ciência e Tecnologia do Espírito Santo": {
-        "Value": 2
-      },
-      "UFES-Campus Alegre": {
-        "Value": 0
-      },
-      "Universidade Federal do Espirito Santo": {
-        "Value": 0
+        "Value": 1
       }
     },
     "MG": {
-      "Value": 74,
+      "Value": 53,
       "Centro Federal de Educação Tecnológica de Minas Gerais - Campus 2": {
         "Value": 4
       },
       "Centro Federal de Educação Tecnológica de Minas Gerais Campus Timóteo": {
-        "Value": 3
-      },
-      "Centro Universitario Municipal de Franca": {
-        "Value": 0
+        "Value": 2
       },
       "Centro Universitário do Sul de Minas": {
         "Value": 3
       },
-      "FAI - Centro de Ensino Superior em Gestão, Tecnologia e Educação": {
-        "Value": 0
-      },
-      "Faculdade Governador Ozanam Coelho": {
-        "Value": 0
-      },
-      "Faculdade Una de Uberlândia": {
-        "Value": 0
-      },
-      "Faculdade de Ciencia e Tecnologia de Montes Claros": {
-        "Value": 1
-      },
       "Faculdade de Tecnologia Dr. Thomaz Novelino": {
-        "Value": 1
-      },
-      "Faculdades Associadas de Uberaba - Sistemas de Informação": {
-        "Value": 0
-      },
-      "Faculdades Santo Agostinho": {
         "Value": 1
       },
       "INATEL - Instituto Nacional de Telecomunicações": {
         "Value": 3
       },
-      "Instituto Ensinar Brasil": {
-        "Value": 0
-      },
       "Instituto Federal Do Norte de Minas Gerais - Campus Montes Claros": {
         "Value": 1
       },
       "Instituto Federal de Educação, Ciência e Tecnologia de Minas Gerais - Campus Ouro Branco": {
-        "Value": 2
-      },
-      "Instituto Federal de Educação, Ciência e Tecnologia de Minas Gerais - Campus São João Evangelista": {
-        "Value": 0
-      },
-      "Instituto Federal de Educação, Ciência e Tecnologia de Uberlandia - Tecnologia em Sistemas para Internet": {
-        "Value": 0
-      },
-      "Instituto Federal de Educação, Ciência e Tecnologia do Sul de Minas Gerais - Campus Inconfidentes": {
-        "Value": 0
+        "Value": 1
       },
       "Instituto Federal de Educação, Ciência e Tecnologia do Sul de Minas Gerais - Campus Muzambinho": {
         "Value": 7
-      },
-      "Instituto Federal de Educação, Ciência e Tecnologia do Sul de Minas Gerais - Campus Passos": {
-        "Value": 1
-      },
-      "Instituto Federal de Educação, Ciência e Tecnologia do Sul de Minas Gerais - Campus Poços de Caldas": {
-        "Value": 0
-      },
-      "Instituto Federal de Educação, Ciência e Tecnologia do Triângulo Mineiro": {
-        "Value": 0
       },
       "Instituto Federal de Educação, Ciência e Tecnologia do Triângulo Mineiro - Campus Ituiutaba": {
         "Value": 6
       },
       "Instituto Federal de Educação, Ciência e Tecnologia do Triângulo Mineiro campus Uberaba Parque Tecnológico": {
-        "Value": 7
-      },
-      "Instituto Federal do Triangulo Mineiro - Análise e Desenvolvimento Sistemas - Patrocínio": {
-        "Value": 1
-      },
-      "Instituto Master de Ensino Presidente Antônio Carlos": {
-        "Value": 3
+        "Value": 2
       },
       "Pontifícia Universidade Católica de Minas Gerais": {
         "Value": 1
-      },
-      "Universidade Estadual de Montes Claros - UNIMONTES": {
-        "Value": 0
-      },
-      "Universidade Federal de Itajubá - Campus Itabira": {
-        "Value": 0
       },
       "Universidade Federal de Itajubá - Campus Itajubá": {
         "Value": 2
@@ -14384,25 +14204,13 @@ AGGREGATED["Count"]["Girls"][2018]["1aFase"] = {
       "Universidade Federal de Uberlândia - Campus Monte Carmelo - Sistemas de Informação": {
         "Value": 1
       },
-      "Universidade Federal de Viçosa": {
-        "Value": 0
-      },
       "Universidade Federal de Viçosa - Campus Florestal": {
-        "Value": 11
+        "Value": 6
       },
       "Universidade Federal do Triângulo Mineiro": {
         "Value": 2
       },
-      "Universidade José do Rosário Vellano": {
-        "Value": 0
-      },
       "Universidade de Uberaba - Campus Uberaba": {
-        "Value": 1
-      },
-      "Universidade de Uberaba - Campus Uberlândia": {
-        "Value": 1
-      },
-      "Universidade do Estado de Minas Gerais - Unidade Passos": {
         "Value": 1
       },
       "Universidade do Vale do Sapucaí - UNIVAS": {
@@ -14410,7 +14218,7 @@ AGGREGATED["Count"]["Girls"][2018]["1aFase"] = {
       }
     },
     "RJ": {
-      "Value": 29,
+      "Value": 16,
       "Centro Federal de Educação Tecnológica Celso Suckow da Fonseca": {
         "Value": 1
       },
@@ -14418,82 +14226,40 @@ AGGREGATED["Count"]["Girls"][2018]["1aFase"] = {
         "Value": 1
       },
       "Centro Universitario Carioca": {
-        "Value": 5
+        "Value": 4
       },
       "Centro Universitário Serra dos Órgãos - UNIFESO": {
         "Value": 3
       },
-      "Federal Fluminense University": {
-        "Value": 0
-      },
       "Instituto Militar de Engenharia": {
-        "Value": 7
-      },
-      "Pontificia Universidade Catolica do Rio de Janeiro": {
-        "Value": 0
+        "Value": 1
       },
       "Universidade Federal Fluminense": {
-        "Value": 2
+        "Value": 1
       },
       "Universidade Federal Fluminense - Polo Universitário de Rio das Ostras": {
-        "Value": 4
+        "Value": 2
       },
       "Universidade Federal do Rio de Janeiro": {
-        "Value": 3
+        "Value": 1
       },
       "Universidade do Estado do Rio de Janeiro": {
-        "Value": 3
+        "Value": 2
       }
     },
     "SP": {
-      "Value": 69,
-      "Centro Estadual de Educação Tecnológica Paula Souza": {
-        "Value": 0
-      },
-      "Centro Universitário Católico Salesiano Auxilum": {
-        "Value": 0
-      },
+      "Value": 41,
       "Centro Universitário Hermínio Ometto": {
         "Value": 1
       },
       "Centro Universitário Salesiano de São Paulo": {
         "Value": 1
       },
-      "Centro Universitário da FEI": {
-        "Value": 0
-      },
-      "Centro Universitário de Bauru": {
-        "Value": 0
-      },
-      "Escola Superior de Propaganda e Marketing de São Paulo": {
-        "Value": 0
-      },
-      "Escola de Engenharia de Piracicaba": {
-        "Value": 0
-      },
-      "FACENS - Faculdade de Engenharia de Sorocaba": {
-        "Value": 0
-      },
-      "FATEC Itapetininga": {
-        "Value": 0
-      },
-      "Faculdade Das Americas": {
-        "Value": 2
-      },
       "Faculdade de Informática e Administração Paulista": {
-        "Value": 2
+        "Value": 1
       },
       "Faculdade de Jaguariúna - FAJ": {
         "Value": 4
-      },
-      "Faculdade de Tecnologia Americana": {
-        "Value": 0
-      },
-      "Faculdade de Tecnologia de Cruzeiro": {
-        "Value": 0
-      },
-      "Faculdade de Tecnologia de Garça": {
-        "Value": 0
       },
       "Faculdade de Tecnologia de Guaratingueta": {
         "Value": 2
@@ -14501,47 +14267,23 @@ AGGREGATED["Count"]["Girls"][2018]["1aFase"] = {
       "Faculdade de Tecnologia de Itu": {
         "Value": 1
       },
-      "Faculdade de Tecnologia de Ourinhos": {
-        "Value": 0
-      },
       "Faculdade de Tecnologia de Sorocaba": {
         "Value": 1
       },
-      "Faculdade de Tecnologia de São José dos Campos": {
-        "Value": 0
-      },
       "Faculdade de Tecnologia de São Paulo": {
-        "Value": 5
-      },
-      "Faculdades Integradas de Bauru": {
-        "Value": 0
+        "Value": 1
       },
       "Fatec Bauru": {
-        "Value": 5
-      },
-      "Institute of Computing - University of Campinas": {
-        "Value": 0
+        "Value": 1
       },
       "Instituto Federal de Educação, Ciência e Tecnologia de São Paulo": {
         "Value": 2
       },
-      "Instituto Federal de Educação, Ciência e Tecnologia de São Paulo - Campus Birigui": {
-        "Value": 1
-      },
-      "Instituto Federal de São Paulo - Barretos": {
-        "Value": 0
-      },
       "Instituto Federal de São Paulo - Campus Piracicaba": {
         "Value": 2
       },
-      "Instituto Tecnológico de Aeronautica": {
-        "Value": 0
-      },
-      "UNESP - Universidade Estadual Paulista (Faculdade de Ciências e Tecnologia - Presidente Prudente)": {
-        "Value": 0
-      },
       "UNESP - Universidade Estadual Paulista - (Faculdade de Ciências - Bauru)": {
-        "Value": 10
+        "Value": 4
       },
       "UNIP - Campus Sorocaba": {
         "Value": 1
@@ -14549,26 +14291,8 @@ AGGREGATED["Count"]["Girls"][2018]["1aFase"] = {
       "UNIVEM - Centro Universitário Eurípides de Marília": {
         "Value": 2
       },
-      "UNOESTE - Universidade do Oeste Paulista": {
-        "Value": 0
-      },
-      "Universidade Católica de Santos": {
-        "Value": 0
-      },
-      "Universidade Estadual de Campinas": {
-        "Value": 0
-      },
-      "Universidade Estadual do Norte do Paraná": {
-        "Value": 0
-      },
-      "Universidade Federal de São Carlos": {
-        "Value": 1
-      },
-      "Universidade Federal de São Carlos - Campus Sorocaba": {
-        "Value": 1
-      },
       "Universidade Federal do ABC": {
-        "Value": 6
+        "Value": 1
       },
       "Universidade Nove de Julho": {
         "Value": 1
@@ -14576,20 +14300,11 @@ AGGREGATED["Count"]["Girls"][2018]["1aFase"] = {
       "Universidade Paulista - Campus Araçatuba": {
         "Value": 1
       },
-      "Universidade Paulista - Campus Bauru": {
-        "Value": 0
-      },
       "Universidade Presbiteriana Mackenzie": {
-        "Value": 7
-      },
-      "Universidade São Francisco": {
-        "Value": 0
+        "Value": 5
       },
       "Universidade São Judas Tadeu": {
         "Value": 3
-      },
-      "Universidade de Sorocaba": {
-        "Value": 0
       },
       "Universidade de São Paulo": {
         "Value": 1
@@ -14597,80 +14312,41 @@ AGGREGATED["Count"]["Girls"][2018]["1aFase"] = {
       "Universidade de São Paulo - Campus de São Carlos": {
         "Value": 3
       },
-      "Universidade de Taubaté": {
-        "Value": 0
-      },
       "Universidade do Vale do Paraíba": {
-        "Value": 3
+        "Value": 2
       }
     }
   },
   "Sul": {
-    "Value": 36,
+    "Value": 24,
     "PR": {
-      "Value": 15,
+      "Value": 8,
       "UNIOESTE - Campus Cascavel": {
         "Value": 2
       },
       "UNIOESTE - Campus de Foz do Iguaçu": {
-        "Value": 12
+        "Value": 5
       },
       "Universidade Estadual de Maringá": {
         "Value": 1
-      },
-      "Universidade Estadual do Centro-Oeste": {
-        "Value": 0
-      },
-      "Universidade Positivo": {
-        "Value": 0
-      },
-      "Universidade Tecnológica Federal do Paraná (UTFPR) - Campus Toledo": {
-        "Value": 0
-      },
-      "Universidade Tecnológica Federal do Paraná - Campus Medianeira": {
-        "Value": 0
-      },
-      "Universidade Tecnológica Federal do Paraná - campus Ponta Grossa": {
-        "Value": 0
       }
     },
     "RS": {
-      "Value": 15,
+      "Value": 12,
       "Faculdade de Tecnologia Senac Pelotas": {
-        "Value": 2
+        "Value": 1
       },
       "Fundação Universidade Federal do Rio Grande": {
         "Value": 3
       },
-      "Horus Faculdades - Pinhalzinho": {
-        "Value": 0
-      },
-      "Instituto Federal Sul-rio-grandense - Campus Passo Fundo": {
-        "Value": 0
-      },
       "Pontifícia Universidade Católica do Rio Grande do Sul": {
         "Value": 1
       },
-      "UNOESC - Universidade do Oeste de Santa Catarina - Chapecó": {
-        "Value": 0
-      },
-      "UNOESC - Universidade do Oeste de Santa Catarina - São Miguel do Oeste": {
-        "Value": 0
-      },
-      "UNOESC - Universidade do Oeste de Santa Catarina - Xanxerê": {
-        "Value": 0
-      },
-      "Universidade Católica de Pelotas": {
-        "Value": 0
-      },
-      "Universidade Comunitária Regional de Chapecó": {
-        "Value": 0
-      },
       "Universidade Federal da Fronteira Sul": {
-        "Value": 2
+        "Value": 1
       },
       "Universidade Federal do Pampa - Campus Alegrete": {
-        "Value": 2
+        "Value": 1
       },
       "Universidade Federal do Rio Grande do Sul": {
         "Value": 3
@@ -14680,37 +14356,16 @@ AGGREGATED["Count"]["Girls"][2018]["1aFase"] = {
       },
       "Universidade Regional do Noroeste do Estado do Rio Grande do Sul": {
         "Value": 1
-      },
-      "Universidade de Passo Fundo": {
-        "Value": 0
       }
     },
     "SC": {
-      "Value": 6,
-      "Centro de Educação do Planalto Norte": {
-        "Value": 0
-      },
-      "Faculdade Anhanguera de Joinville": {
-        "Value": 0
-      },
-      "UNIVILLE - Universidade da Região de Joinville": {
-        "Value": 0
-      },
-      "Universidade Federal de Santa Catarina (Campus Araranguá)": {
-        "Value": 1
-      },
-      "Universidade Federal de Santa Catarina (Campus Florianópolis)": {
-        "Value": 0
-      },
+      "Value": 4,
       "Universidade do Estado de Santa Catarina": {
         "Value": 4
-      },
-      "Universidade do Estado de Santa Catarina - CEAVI": {
-        "Value": 1
       }
     }
   },
-  "Value": 390
+  "Value": 220
 };
 
 

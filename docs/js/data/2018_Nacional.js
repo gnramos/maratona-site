@@ -886,10 +886,29 @@ CONTESTS[2018]["Nacional"] = {
       }
     },
     "RJ": {
+      "Instituto Militar de Engenharia": {
+        "Fast WA Transform": {
+          "Rank": 5,
+          "SiteRank": 1,
+          "Site": "Brazilian Finals",
+          "Short name": "IME",
+          "Contestants": [
+            "Rebeca Calazans De Brito",
+            "Mateus Cândido Lima De Castro",
+            "João Pedro De Araújo Xavier"
+          ],
+          "Sex": [
+            "Female",
+            "Male",
+            "Male"
+          ],
+          "Coach": "Claudia Justel"
+        }
+      },
       "Universidade Federal do Rio de Janeiro": {
         "Vitamina C++": {
           "Rank": 17,
-          "SiteRank": 1,
+          "SiteRank": 2,
           "Site": "Brazilian Finals",
           "Short name": "UFRJ",
           "Contestants": [
@@ -910,7 +929,7 @@ CONTESTS[2018]["Nacional"] = {
       "Centro Universitário da FEI": {
         "Monografo": {
           "Rank": 60,
-          "SiteRank": 18,
+          "SiteRank": 17,
           "Site": "Brazilian Finals",
           "Short name": "FEI",
           "Contestants": [
@@ -929,7 +948,7 @@ CONTESTS[2018]["Nacional"] = {
       "FACENS - Faculdade de Engenharia de Sorocaba": {
         "The Ducks": {
           "Rank": 31,
-          "SiteRank": 10,
+          "SiteRank": 9,
           "Site": "Brazilian Finals",
           "Short name": "FACENS",
           "Contestants": [
@@ -948,7 +967,7 @@ CONTESTS[2018]["Nacional"] = {
       "Faculdade de Tecnologia de Cruzeiro": {
         "scienceTech": {
           "Rank": 51,
-          "SiteRank": 13,
+          "SiteRank": 12,
           "Site": "Brazilian Finals",
           "Short name": "FATEC Cruzeiro",
           "Contestants": [
@@ -967,7 +986,7 @@ CONTESTS[2018]["Nacional"] = {
       "Faculdade de Tecnologia de São José dos Campos": {
         "Paitom 3": {
           "Rank": 52,
-          "SiteRank": 14,
+          "SiteRank": 13,
           "Site": "Brazilian Finals",
           "Short name": "FATEC-SJC",
           "Contestants": [
@@ -986,7 +1005,7 @@ CONTESTS[2018]["Nacional"] = {
       "Faculdade de Tecnologia de São Paulo": {
         "2 Leandros e 1 Não": {
           "Rank": 58,
-          "SiteRank": 17,
+          "SiteRank": 16,
           "Site": "Brazilian Finals",
           "Short name": "FATEC São Paulo",
           "Contestants": [
@@ -1005,7 +1024,7 @@ CONTESTS[2018]["Nacional"] = {
       "Instituto Federal de São Paulo - Campus Piracicaba": {
         "C ta loco?": {
           "Rank": 67,
-          "SiteRank": 19,
+          "SiteRank": 18,
           "Site": "Brazilian Finals",
           "Short name": "IFSP - Piracicaba",
           "Contestants": [
@@ -1021,29 +1040,10 @@ CONTESTS[2018]["Nacional"] = {
           "Coach": "Marcio Crocomo"
         }
       },
-      "Instituto Militar de Engenharia": {
-        "Fast WA Transform": {
-          "Rank": 5,
-          "SiteRank": 2,
-          "Site": "Brazilian Finals",
-          "Short name": "IME",
-          "Contestants": [
-            "Rebeca Calazans De Brito",
-            "Mateus Cândido Lima De Castro",
-            "João Pedro De Araújo Xavier"
-          ],
-          "Sex": [
-            "Female",
-            "Male",
-            "Male"
-          ],
-          "Coach": "Claudia Justel"
-        }
-      },
       "Instituto Tecnológico de Aeronautica": {
         "CalopsITA": {
           "Rank": 6,
-          "SiteRank": 3,
+          "SiteRank": 2,
           "Site": "Brazilian Finals",
           "Short name": "ITA",
           "Contestants": [
@@ -1062,7 +1062,7 @@ CONTESTS[2018]["Nacional"] = {
       "UNESP - Universidade Estadual Paulista - (Faculdade de Ciências - Bauru)": {
         "Colecionadores de Balões": {
           "Rank": 48,
-          "SiteRank": 12,
+          "SiteRank": 11,
           "Site": "Brazilian Finals",
           "Short name": "UNESP-Bauru",
           "Contestants": [
@@ -1081,7 +1081,7 @@ CONTESTS[2018]["Nacional"] = {
       "UNOESTE - Universidade do Oeste Paulista": {
         "R2-D2": {
           "Rank": 54,
-          "SiteRank": 15,
+          "SiteRank": 14,
           "Site": "Brazilian Finals",
           "Short name": "UNOESTE",
           "Contestants": [
@@ -1100,7 +1100,7 @@ CONTESTS[2018]["Nacional"] = {
       "Universidade Estadual de Campinas": {
         "Time com o melhor nome": {
           "Rank": 18,
-          "SiteRank": 7,
+          "SiteRank": 6,
           "Site": "Brazilian Finals",
           "Short name": "UNICAMP",
           "Contestants": [
@@ -1119,7 +1119,7 @@ CONTESTS[2018]["Nacional"] = {
       "Universidade Federal de São Carlos": {
         "estoura_na.sort();": {
           "Rank": 35,
-          "SiteRank": 11,
+          "SiteRank": 10,
           "Site": "Brazilian Finals",
           "Short name": "UFSCar",
           "Contestants": [
@@ -1138,7 +1138,7 @@ CONTESTS[2018]["Nacional"] = {
       "Universidade Federal de São Carlos - Campus Sorocaba": {
         "C ilá": {
           "Rank": 21,
-          "SiteRank": 8,
+          "SiteRank": 7,
           "Site": "Brazilian Finals",
           "Short name": "UFSCar-Sorocaba",
           "Contestants": [
@@ -1157,7 +1157,7 @@ CONTESTS[2018]["Nacional"] = {
       "Universidade Federal do ABC": {
         "lupa linda": {
           "Rank": 28,
-          "SiteRank": 9,
+          "SiteRank": 8,
           "Site": "Brazilian Finals",
           "Short name": "UFABC",
           "Contestants": [
@@ -1176,7 +1176,7 @@ CONTESTS[2018]["Nacional"] = {
       "Universidade Presbiteriana Mackenzie": {
         "Ralôtim": {
           "Rank": 57,
-          "SiteRank": 16,
+          "SiteRank": 15,
           "Site": "Brazilian Finals",
           "Short name": "",
           "Contestants": [
@@ -1195,7 +1195,7 @@ CONTESTS[2018]["Nacional"] = {
       "Universidade de São Paulo": {
         "Meu patrão": {
           "Rank": 7,
-          "SiteRank": 4,
+          "SiteRank": 3,
           "Site": "Brazilian Finals",
           "Short name": "USP",
           "Contestants": [
@@ -1212,7 +1212,7 @@ CONTESTS[2018]["Nacional"] = {
         },
         "dog hits dog": {
           "Rank": 8,
-          "SiteRank": 5,
+          "SiteRank": 4,
           "Site": "Brazilian Finals",
           "Short name": "USP",
           "Contestants": [
@@ -1231,7 +1231,7 @@ CONTESTS[2018]["Nacional"] = {
       "Universidade de São Paulo - Campus de São Carlos": {
         "Ferabytes": {
           "Rank": 14,
-          "SiteRank": 6,
+          "SiteRank": 5,
           "Site": "Brazilian Finals",
           "Short name": "USP - São Carlos",
           "Contestants": [
@@ -1621,13 +1621,16 @@ AGGREGATED["Mean"]["Rank"][2018]["Nacional"] = {
       }
     },
     "RJ": {
-      "Value": 17.0,
+      "Value": 9.8,
+      "Instituto Militar de Engenharia": {
+        "Value": 5.0
+      },
       "Universidade Federal do Rio de Janeiro": {
         "Value": 17.0
       }
     },
     "SP": {
-      "Value": 33.07368421052632,
+      "Value": 34.96629213483146,
       "Centro Universitário da FEI": {
         "Value": 60.0
       },
@@ -1645,9 +1648,6 @@ AGGREGATED["Mean"]["Rank"][2018]["Nacional"] = {
       },
       "Instituto Federal de São Paulo - Campus Piracicaba": {
         "Value": 67.0
-      },
-      "Instituto Militar de Engenharia": {
-        "Value": 5.0
       },
       "Instituto Tecnológico de Aeronautica": {
         "Value": 6.0
@@ -1729,299 +1729,68 @@ if (AGGREGATED["Count"]["Girls"][2018] === undefined)
 AGGREGATED["Count"]["Girls"][2018]["Nacional"] = {
   "Centro-Oeste": {
     "Value": 1,
-    "DF": {
-      "Value": 0,
-      "Universidade de Brasília": {
-        "Value": 0
-      },
-      "Universidade de Brasília - Faculdade UnB Gama": {
-        "Value": 0
-      }
-    },
-    "GO": {
-      "Value": 0,
-      "Instituto de Informática - UFG": {
-        "Value": 0
-      },
-      "Pontifícia Universidade Católica de Goiás": {
-        "Value": 0
-      }
-    },
     "MS": {
       "Value": 1,
       "Faculdade de Computação - UFMS": {
         "Value": 1
-      },
-      "Universidade Federal da Grande Dourados": {
-        "Value": 0
-      }
-    }
-  },
-  "Nordeste": {
-    "Value": 5,
-    "AL": {
-      "Value": 0,
-      "Universidade Federal de Alagoas - Campus Arapiraca": {
-        "Value": 0
-      }
-    },
-    "BA": {
-      "Value": 1,
-      "Universidade Catolica do Salvador": {
-        "Value": 0
-      },
-      "Universidade Estadual do Sudoeste da Bahia": {
-        "Value": 1
-      },
-      "Universidade Federal da Bahia": {
-        "Value": 0
-      }
-    },
-    "CE": {
-      "Value": 0,
-      "Instituto Federal de Educação, Ciência e Tecnologia do Ceará - Campus Crato": {
-        "Value": 0
-      },
-      "Universidade Estadual do Ceará": {
-        "Value": 0
-      },
-      "Universidade Federal do Ceará - Campus Quixadá": {
-        "Value": 0
-      }
-    },
-    "MA": {
-      "Value": 0,
-      "Universidade Federal do Maranhão": {
-        "Value": 0
-      }
-    },
-    "PB": {
-      "Value": 1,
-      "Instituto Federal de Educação, Ciência e Tecnologia da Paraíba - Campus João Pessoa": {
-        "Value": 1
-      },
-      "Universidade Federal de Campina Grande": {
-        "Value": 0
-      }
-    },
-    "PE": {
-      "Value": 2,
-      "Universidade Federal de Pernambuco": {
-        "Value": 2
-      }
-    },
-    "PI": {
-      "Value": 1,
-      "Universidade Estadual do Piauí - Campus de Parnaíba": {
-        "Value": 0
-      },
-      "Universidade Federal do Piauí": {
-        "Value": 1
-      }
-    },
-    "RN": {
-      "Value": 0,
-      "Universidade Federal do Rio Grande do Norte": {
-        "Value": 0
-      }
-    },
-    "SE": {
-      "Value": 0,
-      "Faculdade de Tecnologia SENAI CIMATEC": {
-        "Value": 0
-      },
-      "Universidade Federal de Sergipe": {
-        "Value": 0
       }
     }
   },
   "Norte": {
-    "Value": 5,
-    "AC": {
-      "Value": 0,
-      "Universidade Federal do Acre": {
-        "Value": 0
-      }
-    },
-    "AM": {
-      "Value": 2,
-      "Institute of Computing - Federal University of Amazonas": {
-        "Value": 1
-      },
-      "Universidade do Estado do Amazonas": {
-        "Value": 1
-      }
-    },
-    "PA": {
-      "Value": 1,
-      "Instituto Federal de Educação, Ciência e Tecnologia do Triângulo Mineiro campus Uberaba Parque Tecnológico": {
-        "Value": 1
-      },
-      "Instituto Federal do Triangulo Mineiro - Análise e Desenvolvimento Sistemas - Patrocínio": {
-        "Value": 0
-      },
-      "Universidade Federal do Pará": {
-        "Value": 0
-      }
-    },
-    "RO": {
-      "Value": 1,
-      "Fundação Universidade Federal de Rondônia": {
-        "Value": 1
-      }
-    },
+    "Value": 1,
     "RR": {
       "Value": 1,
       "Universidade Federal de Roraima": {
         "Value": 1
       }
-    },
-    "TO": {
-      "Value": 0,
-      "Universidade Federal do Tocantins": {
-        "Value": 0
-      }
     }
   },
   "Sudeste": {
-    "Value": 18,
-    "ES": {
-      "Value": 0,
-      "Universidade Federal do Espirito Santo": {
-        "Value": 0
-      }
-    },
+    "Value": 10,
     "MG": {
       "Value": 4,
-      "Centro Federal de Educação Tecnológica de Minas Gerais Campus Timóteo": {
-        "Value": 0
-      },
       "INATEL - Instituto Nacional de Telecomunicações": {
         "Value": 1
       },
       "Instituto Federal de Educação, Ciência e Tecnologia do Sul de Minas Gerais - Campus Muzambinho": {
         "Value": 1
       },
-      "Instituto Federal de Educação, Ciência e Tecnologia do Sul de Minas Gerais - Campus Poços de Caldas": {
-        "Value": 0
-      },
       "Instituto Federal de Educação, Ciência e Tecnologia do Triângulo Mineiro - Campus Ituiutaba": {
         "Value": 1
       },
-      "Universidade Federal de Itajubá - Campus Itabira": {
-        "Value": 0
-      },
-      "Universidade Federal de Itajubá - Campus Itajubá": {
-        "Value": 0
-      },
-      "Universidade Federal de Minas Gerais": {
-        "Value": 0
-      },
-      "Universidade Federal de Uberlândia": {
-        "Value": 0
-      },
       "Universidade Federal de Uberlândia - Campus Monte Carmelo - Sistemas de Informação": {
         "Value": 1
-      },
-      "Universidade Federal de Viçosa": {
-        "Value": 0
       }
     },
     "RJ": {
       "Value": 1,
-      "Universidade Federal do Rio de Janeiro": {
+      "Instituto Militar de Engenharia": {
         "Value": 1
       }
     },
     "SP": {
-      "Value": 13,
-      "Centro Universitário da FEI": {
-        "Value": 0
-      },
-      "FACENS - Faculdade de Engenharia de Sorocaba": {
-        "Value": 0
-      },
-      "Faculdade de Tecnologia de Cruzeiro": {
-        "Value": 0
-      },
-      "Faculdade de Tecnologia de São José dos Campos": {
-        "Value": 0
-      },
-      "Faculdade de Tecnologia de São Paulo": {
-        "Value": 1
-      },
+      "Value": 5,
       "Instituto Federal de São Paulo - Campus Piracicaba": {
         "Value": 1
       },
-      "Instituto Militar de Engenharia": {
-        "Value": 3
-      },
-      "Instituto Tecnológico de Aeronautica": {
-        "Value": 0
-      },
       "UNESP - Universidade Estadual Paulista - (Faculdade de Ciências - Bauru)": {
-        "Value": 2
-      },
-      "UNOESTE - Universidade do Oeste Paulista": {
-        "Value": 0
-      },
-      "Universidade Estadual de Campinas": {
-        "Value": 0
-      },
-      "Universidade Federal de São Carlos": {
-        "Value": 0
-      },
-      "Universidade Federal de São Carlos - Campus Sorocaba": {
-        "Value": 1
-      },
-      "Universidade Federal do ABC": {
         "Value": 1
       },
       "Universidade Presbiteriana Mackenzie": {
-        "Value": 4
-      },
-      "Universidade de São Paulo": {
-        "Value": 0
-      },
-      "Universidade de São Paulo - Campus de São Carlos": {
-        "Value": 0
+        "Value": 3
       }
     }
   },
   "Sul": {
     "Value": 1,
-    "PR": {
-      "Value": 0,
-      "UNIOESTE - Campus Cascavel": {
-        "Value": 0
-      },
-      "Universidade Tecnológica Federal do Paraná - campus Ponta Grossa": {
-        "Value": 0
-      }
-    },
     "RS": {
       "Value": 1,
       "Universidade Federal do Rio Grande do Sul": {
         "Value": 1
-      },
-      "Universidade de Passo Fundo": {
-        "Value": 0
-      }
-    },
-    "SC": {
-      "Value": 0,
-      "Universidade Federal da Fronteira Sul": {
-        "Value": 0
-      },
-      "Universidade Federal de Santa Catarina (Campus Araranguá)": {
-        "Value": 0
-      },
-      "Universidade do Estado de Santa Catarina": {
-        "Value": 0
       }
     }
   },
-  "Value": 30
+  "Value": 13
 };
 
 
@@ -2236,13 +2005,16 @@ AGGREGATED["Count"]["Teams"][2018]["Nacional"] = {
       }
     },
     "RJ": {
-      "Value": 1,
+      "Value": 2,
+      "Instituto Militar de Engenharia": {
+        "Value": 1
+      },
       "Universidade Federal do Rio de Janeiro": {
         "Value": 1
       }
     },
     "SP": {
-      "Value": 19,
+      "Value": 18,
       "Centro Universitário da FEI": {
         "Value": 1
       },
@@ -2259,9 +2031,6 @@ AGGREGATED["Count"]["Teams"][2018]["Nacional"] = {
         "Value": 1
       },
       "Instituto Federal de São Paulo - Campus Piracicaba": {
-        "Value": 1
-      },
-      "Instituto Militar de Engenharia": {
         "Value": 1
       },
       "Instituto Tecnológico de Aeronautica": {

@@ -722,6 +722,25 @@ CONTESTS[2019]["Nacional"] = {
       }
     },
     "RJ": {
+      "Instituto Militar de Engenharia": {
+        "Cadê o meu coach?": {
+          "Rank": 20,
+          "SiteRank": 2,
+          "Site": "Brazilian Finals",
+          "Short name": "IME",
+          "Contestants": [
+            "Arnon Mello Barbosa",
+            "Caio Rocha",
+            "Henrique Navarro"
+          ],
+          "Sex": [
+            "Male",
+            "Male",
+            "Male"
+          ],
+          "Coach": "Claudia Justel"
+        }
+      },
       "Pontificia Universidade Catolica do Rio de Janeiro": {
         "Censurados pelo Crivella": {
           "Rank": 11,
@@ -746,7 +765,7 @@ CONTESTS[2019]["Nacional"] = {
       "Centro Universitario Municipal de Franca": {
         "C + ou -": {
           "Rank": 54,
-          "SiteRank": 13,
+          "SiteRank": 12,
           "Site": "Brazilian Finals",
           "Short name": "UNIFACEF",
           "Contestants": [
@@ -765,7 +784,7 @@ CONTESTS[2019]["Nacional"] = {
       "FACENS - Faculdade de Engenharia de Sorocaba": {
         "Enigma": {
           "Rank": 46,
-          "SiteRank": 11,
+          "SiteRank": 10,
           "Site": "Brazilian Finals",
           "Short name": "FACENS",
           "Contestants": [
@@ -784,7 +803,7 @@ CONTESTS[2019]["Nacional"] = {
       "Faculdade de Tecnologia de Sorocaba": {
         "RENEGADES": {
           "Rank": 44,
-          "SiteRank": 10,
+          "SiteRank": 9,
           "Site": "Brazilian Finals",
           "Short name": "",
           "Contestants": [
@@ -803,7 +822,7 @@ CONTESTS[2019]["Nacional"] = {
       "Fatec Ourinhos": {
         "Jumentus": {
           "Rank": 55,
-          "SiteRank": 14,
+          "SiteRank": 13,
           "Site": "Brazilian Finals",
           "Short name": "Fatec Ourinhos",
           "Contestants": [
@@ -819,29 +838,10 @@ CONTESTS[2019]["Nacional"] = {
           "Coach": "Alex Marino Gonçalves De Almeida"
         }
       },
-      "Instituto Militar de Engenharia": {
-        "Cadê o meu coach?": {
-          "Rank": 20,
-          "SiteRank": 6,
-          "Site": "Brazilian Finals",
-          "Short name": "IME",
-          "Contestants": [
-            "Arnon Mello Barbosa",
-            "Caio Rocha",
-            "Henrique Navarro"
-          ],
-          "Sex": [
-            "Male",
-            "Male",
-            "Male"
-          ],
-          "Coach": "Claudia Justel"
-        }
-      },
       "Instituto Tecnológico de Aeronautica": {
         "Pappy van Poodle": {
           "Rank": 24,
-          "SiteRank": 7,
+          "SiteRank": 6,
           "Site": "Brazilian Finals",
           "Short name": "ITA",
           "Contestants": [
@@ -860,7 +860,7 @@ CONTESTS[2019]["Nacional"] = {
       "UNESP - Universidade Estadual Paulista - (Faculdade de Ciências - Bauru)": {
         "Colecionadores de Balões": {
           "Rank": 39,
-          "SiteRank": 9,
+          "SiteRank": 8,
           "Site": "Brazilian Finals",
           "Short name": "UNESP-Bauru",
           "Contestants": [
@@ -934,7 +934,7 @@ CONTESTS[2019]["Nacional"] = {
       "Universidade Federal de São Carlos": {
         "BoraCodarCaramba": {
           "Rank": 51,
-          "SiteRank": 12,
+          "SiteRank": 11,
           "Site": "Brazilian Finals",
           "Short name": "UFSCar",
           "Contestants": [
@@ -953,7 +953,7 @@ CONTESTS[2019]["Nacional"] = {
       "Universidade Federal do ABC": {
         "buiatchaka": {
           "Rank": 31,
-          "SiteRank": 8,
+          "SiteRank": 7,
           "Site": "Brazilian Finals",
           "Short name": "UFABC",
           "Contestants": [
@@ -1352,13 +1352,16 @@ AGGREGATED["Mean"]["Rank"][2019]["Nacional"] = {
       }
     },
     "RJ": {
-      "Value": 11.0,
+      "Value": 15.909090909090908,
+      "Instituto Militar de Engenharia": {
+        "Value": 20.0
+      },
       "Pontificia Universidade Catolica do Rio de Janeiro": {
         "Value": 11.0
       }
     },
     "SP": {
-      "Value": 28.208955223880597,
+      "Value": 29.016393442622952,
       "Centro Universitario Municipal de Franca": {
         "Value": 54.0
       },
@@ -1370,9 +1373,6 @@ AGGREGATED["Mean"]["Rank"][2019]["Nacional"] = {
       },
       "Fatec Ourinhos": {
         "Value": 55.0
-      },
-      "Instituto Militar de Engenharia": {
-        "Value": 20.0
       },
       "Instituto Tecnológico de Aeronautica": {
         "Value": 24.0
@@ -1443,250 +1443,34 @@ if (AGGREGATED["Count"]["Girls"][2019] === undefined)
   AGGREGATED["Count"]["Girls"][2019] = {};
 
 AGGREGATED["Count"]["Girls"][2019]["Nacional"] = {
-  "Centro-Oeste": {
-    "Value": 0,
-    "DF": {
-      "Value": 0,
-      "Universidade de Brasília": {
-        "Value": 0
-      },
-      "Universidade de Brasília - Faculdade UnB Gama": {
-        "Value": 0
-      }
-    },
-    "GO": {
-      "Value": 0,
-      "Instituto de Informática - UFG": {
-        "Value": 0
-      },
-      "Pontifícia Universidade Católica de Goiás": {
-        "Value": 0
-      }
-    },
-    "MS": {
-      "Value": 0,
-      "Faculdade de Computação - UFMS": {
-        "Value": 0
-      }
-    }
-  },
-  "Nordeste": {
-    "Value": 4,
-    "AL": {
-      "Value": 0,
-      "Universidade Federal de Alagoas": {
-        "Value": 0
-      }
-    },
-    "BA": {
-      "Value": 1,
-      "Universidade Estadual do Sudoeste da Bahia": {
-        "Value": 1
-      },
-      "Universidade Federal da Bahia": {
-        "Value": 0
-      }
-    },
-    "CE": {
-      "Value": 0,
-      "Instituto Federal de Educação, Ciência e Tecnologia do Ceará - Campus Tianguá": {
-        "Value": 0
-      },
-      "Universidade Estadual do Ceará": {
-        "Value": 0
-      },
-      "Universidade Federal do Ceará - Campus Quixadá": {
-        "Value": 0
-      }
-    },
-    "PB": {
-      "Value": 1,
-      "Centro Universitário Unifacisa": {
-        "Value": 0
-      },
-      "Instituto Federal de Educação, Ciência e Tecnologia da Paraíba - Campus João Pessoa": {
-        "Value": 1
-      },
-      "Universidade Federal de Campina Grande": {
-        "Value": 0
-      }
-    },
-    "PE": {
-      "Value": 0,
-      "Universidade Federal Rural de Pernambuco": {
-        "Value": 0
-      },
-      "Universidade Federal de Pernambuco": {
-        "Value": 0
-      }
-    },
-    "PI": {
-      "Value": 1,
-      "Universidade Federal do Piauí": {
-        "Value": 1
-      }
-    },
-    "RN": {
-      "Value": 0,
-      "Universidade Federal do Rio Grande do Norte": {
-        "Value": 0
-      }
-    },
-    "SE": {
-      "Value": 1,
-      "Universidade Federal de Sergipe": {
-        "Value": 1
-      }
-    }
-  },
   "Norte": {
-    "Value": 4,
-    "AM": {
-      "Value": 1,
-      "Institute of Computing - Federal University of Amazonas": {
-        "Value": 1
-      }
-    },
+    "Value": 1,
     "PA": {
-      "Value": 2,
-      "Universidade Federal do Oeste do Pará": {
-        "Value": 2
-      },
-      "Universidade Federal do Pará": {
-        "Value": 0
-      }
-    },
-    "RR": {
       "Value": 1,
-      "Centro Universitário Estácio da Amazônia": {
+      "Universidade Federal do Oeste do Pará": {
         "Value": 1
       }
     }
   },
   "Sudeste": {
-    "Value": 10,
-    "ES": {
-      "Value": 1,
-      "Universidade Federal do Espirito Santo": {
-        "Value": 1
-      }
-    },
+    "Value": 3,
     "MG": {
-      "Value": 4,
+      "Value": 1,
       "Centro Federal de Educação Tecnológica de Minas Gerais - Campus 2": {
         "Value": 1
-      },
-      "INATEL - Instituto Nacional de Telecomunicações": {
-        "Value": 0
-      },
-      "Instituto Federal Do Norte de Minas Gerais - Campus Montes Claros": {
-        "Value": 0
-      },
-      "Universidade Federal de Itajubá - Campus Itajubá": {
-        "Value": 0
-      },
-      "Universidade Federal de Minas Gerais": {
-        "Value": 0
-      },
-      "Universidade Federal de Uberlândia": {
-        "Value": 0
-      },
-      "Universidade Federal de Uberlândia - Campus Monte Carmelo - Sistemas de Informação": {
-        "Value": 3
-      },
-      "Universidade Federal de Viçosa": {
-        "Value": 0
-      },
-      "Universidade Federal do Triângulo Mineiro": {
-        "Value": 0
-      }
-    },
-    "RJ": {
-      "Value": 0,
-      "Pontificia Universidade Catolica do Rio de Janeiro": {
-        "Value": 0
       }
     },
     "SP": {
-      "Value": 5,
-      "Centro Universitario Municipal de Franca": {
-        "Value": 0
-      },
-      "FACENS - Faculdade de Engenharia de Sorocaba": {
-        "Value": 0
-      },
-      "Faculdade de Tecnologia de Sorocaba": {
-        "Value": 0
-      },
-      "Fatec Ourinhos": {
-        "Value": 0
-      },
-      "Instituto Militar de Engenharia": {
-        "Value": 1
-      },
-      "Instituto Tecnológico de Aeronautica": {
-        "Value": 0
-      },
+      "Value": 2,
       "UNESP - Universidade Estadual Paulista - (Faculdade de Ciências - Bauru)": {
-        "Value": 2
-      },
-      "UNOESTE - Universidade do Oeste Paulista": {
-        "Value": 0
-      },
-      "Universidade Estadual de Campinas": {
-        "Value": 0
-      },
-      "Universidade Federal de São Carlos": {
-        "Value": 0
-      },
-      "Universidade Federal do ABC": {
         "Value": 1
-      },
-      "Universidade Nove de Julho": {
-        "Value": 0
       },
       "Universidade de São Paulo": {
         "Value": 1
-      },
-      "Universidade de São Paulo - Campus de São Carlos": {
-        "Value": 0
       }
     }
   },
-  "Sul": {
-    "Value": 1,
-    "PR": {
-      "Value": 0,
-      "UNIOESTE - Campus Cascavel": {
-        "Value": 0
-      },
-      "Universidade Estadual de Maringá": {
-        "Value": 0
-      },
-      "Universidade Federal do Paraná": {
-        "Value": 0
-      }
-    },
-    "RS": {
-      "Value": 0,
-      "Universidade Federal do Rio Grande do Sul": {
-        "Value": 0
-      },
-      "Universidade de Passo Fundo": {
-        "Value": 0
-      }
-    },
-    "SC": {
-      "Value": 1,
-      "Universidade Federal da Fronteira Sul": {
-        "Value": 0
-      },
-      "Universidade do Estado de Santa Catarina": {
-        "Value": 1
-      }
-    }
-  },
-  "Value": 19
+  "Value": 4
 };
 
 
@@ -1859,13 +1643,16 @@ AGGREGATED["Count"]["Teams"][2019]["Nacional"] = {
       }
     },
     "RJ": {
-      "Value": 1,
+      "Value": 2,
+      "Instituto Militar de Engenharia": {
+        "Value": 1
+      },
       "Pontificia Universidade Catolica do Rio de Janeiro": {
         "Value": 1
       }
     },
     "SP": {
-      "Value": 16,
+      "Value": 15,
       "Centro Universitario Municipal de Franca": {
         "Value": 1
       },
@@ -1876,9 +1663,6 @@ AGGREGATED["Count"]["Teams"][2019]["Nacional"] = {
         "Value": 1
       },
       "Fatec Ourinhos": {
-        "Value": 1
-      },
-      "Instituto Militar de Engenharia": {
         "Value": 1
       },
       "Instituto Tecnológico de Aeronautica": {
