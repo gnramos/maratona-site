@@ -1,4 +1,6119 @@
 CONTESTANTS = {
+  "amymdilrmaolteacgu": {
+    "FullName": "Rudy Matela Braquehais",
+    "Nacional": {
+      "2008": 5.0,
+      "2009": 35.0
+    }
+  },
+  "cmofoileoiutdtmalagr": {
+    "FullName": "Teofilo Bezerra Dutra",
+    "Nacional": {
+      "2008": 5.0
+    }
+  },
+  "ivburafafraarrclecuotlm": {
+    "FullName": "Rafael Augusto Ferreira Do Carmo",
+    "Nacional": {
+      "2008": 5.0
+    }
+  },
+  "auprenmmtbifc": {
+    "FullName": "Maíra Araújo",
+    "Nacional": {
+      "2008": 3.0,
+      "2009": 1.0
+    }
+  },
+  "bicupfncrseh": {
+    "FullName": "Hallan Dos Santos",
+    "Nacional": {
+      "2008": 1.0
+    }
+  },
+  "bupeifraacrn": {
+    "FullName": "Artur De Aquino",
+    "Nacional": {
+      "2008": 3.0
+    }
+  },
+  "bvmeroupbcinf": {
+    "FullName": "Víctor Medeiros",
+    "Nacional": {
+      "2008": 3.0,
+      "2009": 1.0
+    }
+  },
+  "nfibpr2eupbac": {
+    "FullName": "Pedro Bello",
+    "Nacional": {
+      "2008": 1.0,
+      "2009": 1.0
+    }
+  },
+  "ppnuecipcfrb": {
+    "FullName": "Pablo Pinheiro",
+    "Nacional": {
+      "2008": 1.0,
+      "2010": 1.0
+    }
+  },
+  "lhaioogcamaateocrfsloslnme": {
+    "FullName": "Rafael Coelho",
+    "Nacional": {
+      "2008": 4.0
+    }
+  },
+  "mleizboiaaufrfrnsn": {
+    "FullName": "Lessandro Mariano",
+    "Nacional": {
+      "2008": 4.0
+    }
+  },
+  "nnoocvmialrlgocmiamageia": {
+    "FullName": "Giovanni Comarela",
+    "Nacional": {
+      "2008": 4.0
+    }
+  },
+  "closilemcsmavaang": {
+    "FullName": "Victor Silva",
+    "Nacional": {
+      "2008": 7.0
+    }
+  },
+  "dfmsmalgaeofci": {
+    "FullName": "Davi Costa",
+    "Nacional": {
+      "2008": 8.0,
+      "2009": 6.0
+    }
+  },
+  "ficrsledommoag": {
+    "FullName": "Felipe Sodré Dos Santos Silva",
+    "Nacional": {
+      "2008": 8.0
+    }
+  },
+  "fxcemsplhblubiunirse": {
+    "FullName": "Breno Flesch Franco",
+    "Nacional": {
+      "2008": 9.0
+    }
+  },
+  "gcadhomrnhiaiormcla": {
+    "FullName": "Ricardo Hahn Pereira",
+    "Nacional": {
+      "2008": 7.0,
+      "2009": 18.0,
+      "2010": 5.0
+    }
+  },
+  "igmecrlpmcalgabiro": {
+    "FullName": "Gabriel Ribeiro Da Cruz Peixoto",
+    "Nacional": {
+      "2008": 9.0,
+      "2009": 3.0
+    }
+  },
+  "melapremiptrgsomcesaol": {
+    "FullName": "Marcelo Galvão Póvoa",
+    "Nacional": {
+      "2008": 10.0,
+      "2011": 10.0
+    }
+  },
+  "ngavctaicotampgmootualois": {
+    "FullName": "Gustavo Pacianotto Gouveia",
+    "Nacional": {
+      "2008": 7.0,
+      "2009": 18.0,
+      "2010": 5.0
+    }
+  },
+  "nrilcasamlienrmehgoda": {
+    "FullName": "André Linhares Rodrigues",
+    "Nacional": {
+      "2008": 8.0
+    }
+  },
+  "oilggmscrsiaamsoi": {
+    "FullName": "Igor Ribeiro De Assis",
+    "Nacional": {
+      "2008": 10.0,
+      "2010": 8.0
+    }
+  },
+  "ulgugmciaaefomirausrla": {
+    "FullName": "Rafael Suguiura",
+    "Nacional": {
+      "2008": 9.0
+    }
+  },
+  "xlamiudncmeeeadoagnlrkia": {
+    "FullName": "Alexandre Kunieda",
+    "Nacional": {
+      "2008": 10.0,
+      "2009": 9.0,
+      "2012": 16.0,
+      "2013": 16.0
+    }
+  },
+  "cnlsmiaobrgburomai": {
+    "FullName": "Bruno Ribas",
+    "Nacional": {
+      "2008": 2.0
+    }
+  },
+  "ricsileaommbag": {
+    "FullName": "Eduardo Ribas",
+    "Nacional": {
+      "2008": 2.0,
+      "2010": 7.0
+    }
+  },
+  "sealbmigcparlorimaha": {
+    "FullName": "Raphael Ribas",
+    "Nacional": {
+      "2008": 2.0,
+      "2009": 3.0
+    }
+  },
+  "l0ocfimslxmsag": {
+    "FullName": "Luís Fernando Schultz Xavier Da Silveira",
+    "Nacional": {
+      "2008": 6.0,
+      "2009": 7.0
+    }
+  },
+  "tiaodmaimemgarcl": {
+    "FullName": "Tiago Madeira",
+    "Nacional": {
+      "2008": 6.0,
+      "2010": 6.0
+    }
+  },
+  "ucmmcnigemllaoa": {
+    "FullName": "Eluan Costa Miranda",
+    "Nacional": {
+      "2008": 6.0,
+      "2011": 20.0
+    }
+  },
+  "0ma2blofsiral08cgm": {
+    "FullName": "Ralf Bongiolo",
+    "Nacional": {
+      "2009": 49.0
+    }
+  },
+  "aalormlhtmamtaamcio": {
+    "FullName": "Matheus Pereira Amaral Moreira",
+    "Nacional": {
+      "2009": 46.0
+    }
+  },
+  "aeidnolnctodcoomahictmr": {
+    "FullName": "Luan Santos Da Silva",
+    "Nacional": {
+      "2009": 49.0
+    }
+  },
+  "amhmoihyaoolesncth": {
+    "FullName": "João Ribeiro Neto",
+    "Nacional": {
+      "2009": 38.0
+    }
+  },
+  "egsrllpxctomimay": {
+    "FullName": "Maicon Rafael Zatelli",
+    "Nacional": {
+      "2009": 26.0,
+      "2010": 20.0
+    }
+  },
+  "ibnomadenlguehimotlaislrc": {
+    "FullName": "André Luís Beling Da Rosa",
+    "Nacional": {
+      "2009": 26.0,
+      "2010": 20.0
+    }
+  },
+  "iciaminaggkummlo": {
+    "FullName": "Guilherme Kunigami",
+    "Nacional": {
+      "2009": 6.0
+    }
+  },
+  "loeaemcisnsangiaamlmto": {
+    "FullName": "Natanael Augusto Viana Simões",
+    "Nacional": {
+      "2009": 49.0
+    }
+  },
+  "mmlvelrocgcmlaorietiu": {
+    "FullName": "Victor Arndt Mueller",
+    "Nacional": {
+      "2009": 26.0,
+      "2010": 20.0
+    }
+  },
+  "rlaocmostllurzmnoailhtcaea": {
+    "FullName": "Lucas Lorentz Lara",
+    "Nacional": {
+      "2009": 38.0
+    }
+  },
+  "rseumlopcci4po": {
+    "FullName": "Mauro Cardoso Lopes",
+    "Nacional": {
+      "2009": 9.0
+    }
+  },
+  "sarecrubmrgabafpinialsals": {
+    "FullName": "Rafael Brasil",
+    "Nacional": {
+      "2009": 46.0
+    }
+  },
+  "sbtlomremcreoarperpa": {
+    "FullName": "Marcelo Galvão Póvoa",
+    "Nacional": {
+      "2009": 6.0
+    }
+  },
+  "scinuuhetmisocgagmaol": {
+    "FullName": "César Augusto Chaves Pereira",
+    "Nacional": {
+      "2009": 38.0
+    }
+  },
+  "sgccmujtlcaoliamd": {
+    "FullName": "Lucas Tiago De Castro Jesus",
+    "Nacional": {
+      "2009": 9.0,
+      "2013": 4.0
+    }
+  },
+  "uaeimcsdgaoememtlrnh": {
+    "FullName": "Matheus Issa",
+    "Nacional": {
+      "2009": 46.0
+    }
+  },
+  "evfcommiiollaeilcpg": {
+    "FullName": "Felipe Oliveira",
+    "Nacional": {
+      "2009": 31.0
+    }
+  },
+  "imiogclaulacpcom": {
+    "FullName": "Paulo Henrique Azevêdo Filho",
+    "Nacional": {
+      "2009": 31.0
+    }
+  },
+  "mpaocmaoiegalrvaulzl": {
+    "FullName": "Paulo Antonio Alvarez",
+    "Nacional": {
+      "2009": 31.0
+    }
+  },
+  "eldegmcigioeomsdaiungf": {
+    "FullName": "Diego Guedes",
+    "Nacional": {
+      "2009": 22.0
+    }
+  },
+  "glmromifogimaucul": {
+    "FullName": "Murilo Adriano Vasconcelos",
+    "Nacional": {
+      "2009": 22.0,
+      "2011": 11.0
+    }
+  },
+  "smlifegdaceanoocrflansrms": {
+    "FullName": "Carlos Fernandes",
+    "Nacional": {
+      "2009": 22.0,
+      "2010": 19.0
+    }
+  },
+  "ciaignososahlilmrsomo": {
+    "FullName": "Alisson Massaki Oshiro",
+    "Nacional": {
+      "2009": 29.0
+    }
+  },
+  "gspoltrimwcaomne": {
+    "FullName": "Pedro Silva",
+    "Nacional": {
+      "2009": 29.0
+    }
+  },
+  "sllalorvieailmmgci": {
+    "FullName": "Luciano Lacerda Silveira",
+    "Nacional": {
+      "2009": 29.0
+    }
+  },
+  "agcsimirodqoluatbohmerla": {
+    "FullName": "Gabriel Silva",
+    "Nacional": {
+      "2009": 42.0,
+      "2010": 45.0
+    }
+  },
+  "arcmliopromsagmine": {
+    "FullName": "José Ramon Trindade Pires",
+    "Nacional": {
+      "2009": 42.0,
+      "2010": 45.0
+    }
+  },
+  "duccbdsauiorogtboorfr": {
+    "FullName": "Rodrigo Nunes Souto",
+    "Nacional": {
+      "2009": 37.0,
+      "2010": 18.0
+    }
+  },
+  "pcifurcfbclebeadq": {
+    "FullName": "Felipe Augusto Queiroz De Cerqueira",
+    "Nacional": {
+      "2009": 37.0,
+      "2010": 18.0
+    }
+  },
+  "ri5gc4slms0odm0aea": {
+    "FullName": "Esdras Oliveira",
+    "Nacional": {
+      "2009": 42.0,
+      "2010": 45.0
+    }
+  },
+  "usracdacpucmbbfl": {
+    "FullName": "Lucas Prado Melo",
+    "Nacional": {
+      "2009": 37.0,
+      "2010": 18.0
+    }
+  },
+  "amiiollpnrimoercupatchioovg": {
+    "FullName": "Paulo Victor Pinheiro",
+    "Nacional": {
+      "2009": 35.0
+    }
+  },
+  "ceuemgadfajloismofq": {
+    "FullName": "Jefferson Quesado",
+    "Nacional": {
+      "2009": 48.0,
+      "2011": 13.0,
+      "2012": 24.0
+    }
+  },
+  "lcgnloyamaueramiw": {
+    "FullName": "Raul Lopes",
+    "Nacional": {
+      "2009": 48.0
+    }
+  },
+  "lcilcsmhuemgohmoaaa": {
+    "FullName": "Saulo Hachem",
+    "Nacional": {
+      "2009": 48.0
+    }
+  },
+  "vgi02ojcmamltm": {
+    "FullName": "Tiago Vieira Mendes Justino",
+    "Nacional": {
+      "2009": 35.0
+    }
+  },
+  "egcuaatrmorgmsioill": {
+    "FullName": "Victor Reis",
+    "Nacional": {
+      "2009": 39.0
+    }
+  },
+  "hoaaimaogdrnsclimi": {
+    "FullName": "Jose Rios",
+    "Nacional": {
+      "2009": 39.0
+    }
+  },
+  "odoairlmmicmgcr": {
+    "FullName": "Rodrigo Mesquita",
+    "Nacional": {
+      "2009": 39.0
+    }
+  },
+  "mgaiodoogmacsloi": {
+    "FullName": "Diogo Silva",
+    "Nacional": {
+      "2009": 17.0,
+      "2011": 3.0
+    }
+  },
+  "mtapgciiaongomrl": {
+    "FullName": "Philippe Targino",
+    "Nacional": {
+      "2009": 17.0
+    }
+  },
+  "tmmlcsiodonraalig": {
+    "FullName": "Danilo Resende",
+    "Nacional": {
+      "2009": 17.0
+    }
+  },
+  "erfbcrnupfip": {
+    "FullName": "Renan Pires",
+    "Nacional": {
+      "2009": 13.0,
+      "2010": 12.0
+    }
+  },
+  "fibemmfcnrup": {
+    "FullName": "Filipe Melo",
+    "Nacional": {
+      "2009": 13.0,
+      "2010": 1.0,
+      "2011": 1.0
+    }
+  },
+  "nepsrublaicf": {
+    "FullName": "Laís Andrade",
+    "Nacional": {
+      "2009": 13.0
+    }
+  },
+  "isugnohaalmmct": {
+    "FullName": "Hatus Níwman Borges Vieira",
+    "Nacional": {
+      "2009": 33.0
+    }
+  },
+  "lokambrioiiagfcimaco": {
+    "FullName": "Fabrício Watanabe",
+    "Nacional": {
+      "2009": 33.0
+    }
+  },
+  "oliafmsetrfsmosiahitoilc": {
+    "FullName": "Sílio Silvestre Ferreira Freitas",
+    "Nacional": {
+      "2009": 33.0
+    }
+  },
+  "eopaeklgcmilfmdei": {
+    "FullName": "Felipe Oliveira Carvalho",
+    "Nacional": {
+      "2009": 2.0,
+      "2014": 25.0
+    }
+  },
+  "rmocrgcialeaoosilru": {
+    "FullName": "Mauricio Collares Neto",
+    "Nacional": {
+      "2009": 2.0,
+      "2011": 5.0
+    }
+  },
+  "scnamieaotmgml": {
+    "FullName": "Ramon Cravo Fernandes",
+    "Nacional": {
+      "2009": 2.0
+    }
+  },
+  "gihddacrcrlamdeomoei": {
+    "FullName": "André Araújo",
+    "Nacional": {
+      "2009": 40.0
+    }
+  },
+  "iigrtioafinlsccoarmnm": {
+    "FullName": "Cristian Rossi",
+    "Nacional": {
+      "2009": 40.0
+    }
+  },
+  "rgmnazialaoamaiahcd": {
+    "FullName": "Raíza Hanada",
+    "Nacional": {
+      "2009": 40.0
+    }
+  },
+  "rranhlyoueopcaooabmd": {
+    "FullName": "Paulo De Almeida",
+    "Nacional": {
+      "2009": 28.0,
+      "2010": 31.0
+    }
+  },
+  "shcimmcmaelcpelradooayi": {
+    "FullName": "Péricles Lopes Machado",
+    "Nacional": {
+      "2009": 28.0,
+      "2010": 31.0
+    }
+  },
+  "tinatoaammomptgselicle": {
+    "FullName": "João Augusto Palmitesta Neto",
+    "Nacional": {
+      "2009": 28.0,
+      "2010": 31.0
+    }
+  },
+  "cmlmagbsaoalvefoii": {
+    "FullName": "Flavio Abe",
+    "Nacional": {
+      "2009": 32.0
+    }
+  },
+  "hnlergigvmiureoer": {
+    "FullName": "Guilherme Nogueira",
+    "Nacional": {
+      "2009": 32.0
+    }
+  },
+  "iamlongaimhocrcci": {
+    "FullName": "Rafael Valverde",
+    "Nacional": {
+      "2009": 43.0
+    }
+  },
+  "iualgemircqcomad": {
+    "FullName": "Daricque Tavares",
+    "Nacional": {
+      "2009": 43.0
+    }
+  },
+  "mdneeacrmnoztrbe": {
+    "FullName": "André Santos",
+    "Nacional": {
+      "2009": 32.0
+    }
+  },
+  "mgiclimagolmiaaf": {
+    "FullName": "Lígia Aguiar",
+    "Nacional": {
+      "2009": 43.0
+    }
+  },
+  "acpugllivmumaofo": {
+    "FullName": "Paulo Lúcio Oliveira Júnior",
+    "Nacional": {
+      "2009": 25.0,
+      "2010": 24.0
+    }
+  },
+  "agloc6icmdmai0": {
+    "FullName": "Nilson Santos Figueiredo Junior",
+    "Nacional": {
+      "2009": 21.0
+    }
+  },
+  "aueocklhltoncmomdhirgme": {
+    "FullName": "Guilherme Almeida Gonçalves",
+    "Nacional": {
+      "2009": 50.0
+    }
+  },
+  "ceupaiomllfimgo": {
+    "FullName": "Felipe Machado",
+    "Nacional": {
+      "2009": 20.0,
+      "2010": 4.0
+    }
+  },
+  "cmrtinpougdhbcf": {
+    "FullName": "Henrique Pinto",
+    "Nacional": {
+      "2009": 21.0
+    }
+  },
+  "cocrlmmfcdeugb": {
+    "FullName": "Leonardo Martinez",
+    "Nacional": {
+      "2009": 20.0,
+      "2010": 4.0
+    }
+  },
+  "crditfmcbamgrua": {
+    "FullName": "Itamar Hata",
+    "Nacional": {
+      "2009": 20.0
+    }
+  },
+  "hbrmuclcintdaecfg": {
+    "FullName": "Daniel Almeida",
+    "Nacional": {
+      "2009": 21.0
+    }
+  },
+  "laaeilmgcmlovl": {
+    "FullName": "Lucas Clemente Vella",
+    "Nacional": {
+      "2009": 41.0
+    }
+  },
+  "lnmegocmliajihicooam": {
+    "FullName": "João Lucas Michelin",
+    "Nacional": {
+      "2009": 50.0
+    }
+  },
+  "loaacmiwampsgx": {
+    "FullName": "Paulo Meloto Neves",
+    "Nacional": {
+      "2009": 50.0
+    }
+  },
+  "msaocamiaslligalven": {
+    "FullName": "Salles Magalhães",
+    "Nacional": {
+      "2009": 25.0,
+      "2010": 24.0
+    }
+  },
+  "omriratgeomcmlabn": {
+    "FullName": "Renato Barbosa Machado",
+    "Nacional": {
+      "2009": 41.0
+    }
+  },
+  "ooapxmigcsacloaimasi": {
+    "FullName": "Cássio Alkmin",
+    "Nacional": {
+      "2009": 25.0
+    }
+  },
+  "tlokuasmaaoaicnlagm": {
+    "FullName": "Alana Bueno Otsuka",
+    "Nacional": {
+      "2009": 41.0
+    }
+  },
+  "akiamolgoackmi9": {
+    "FullName": "Caio Dias Valentim",
+    "Nacional": {
+      "2009": 5.0
+    }
+  },
+  "azauplirmlncegocismae": {
+    "FullName": "Lucas Pierezan Magalhães",
+    "Nacional": {
+      "2009": 11.0,
+      "2010": 10.0
+    }
+  },
+  "cdgogoumcamaariosdllos": {
+    "FullName": "Douglas Cardoso",
+    "Nacional": {
+      "2009": 19.0,
+      "2010": 9.0
+    }
+  },
+  "ckaooovmiilagmt": {
+    "FullName": "Otavio Cardoso",
+    "Nacional": {
+      "2009": 14.0
+    }
+  },
+  "clsamgnipoaigum": {
+    "FullName": "Guilherme Carlos De Napoli Ferreira",
+    "Nacional": {
+      "2009": 5.0
+    }
+  },
+  "idoclormgilaaencioomona": {
+    "FullName": "Leonardo Inácio Oliveira",
+    "Nacional": {
+      "2009": 19.0,
+      "2010": 9.0,
+      "2011": 5.0
+    }
+  },
+  "imgliumcsdnrealicaao": {
+    "FullName": "Daniel Dos Santos Marques",
+    "Nacional": {
+      "2009": 8.0,
+      "2010": 22.0
+    }
+  },
+  "lmsaavbsmrgecio": {
+    "FullName": "Pedro Veras Bezerra Da Silva",
+    "Nacional": {
+      "2009": 8.0,
+      "2010": 10.0,
+      "2011": 5.0
+    }
+  },
+  "lsoopgjmniamalpceu": {
+    "FullName": "Juan Lopes",
+    "Nacional": {
+      "2009": 14.0,
+      "2011": 17.0,
+      "2012": 22.0
+    }
+  },
+  "mgi2oamatlc0sgso5i0": {
+    "FullName": "Tiago Silva",
+    "Nacional": {
+      "2009": 11.0
+    }
+  },
+  "mtcoaiofdgolidnmun": {
+    "FullName": "Eduardo Cardoso",
+    "Nacional": {
+      "2009": 5.0
+    }
+  },
+  "nomlamrgdpesdaaic": {
+    "FullName": "André Souza",
+    "Nacional": {
+      "2009": 19.0
+    }
+  },
+  "smdsomodlcioitah": {
+    "FullName": "Diogo Soares De Souza",
+    "Nacional": {
+      "2009": 14.0
+    }
+  },
+  "ucitmmaoingnsl": {
+    "FullName": "Bruno Ferreira",
+    "Nacional": {
+      "2009": 11.0,
+      "2010": 10.0
+    }
+  },
+  "vusopricrilinfpba": {
+    "FullName": "Paulo De Tarso Gomide Castro Silva",
+    "Nacional": {
+      "2009": 8.0
+    }
+  },
+  "aamiebfcoasmlg": {
+    "FullName": "Felipe Nisrallah Saab",
+    "Nacional": {
+      "2009": 44.0
+    }
+  },
+  "amiltvmjlgootceco": {
+    "FullName": "José Vinicius Pimenta Coletto",
+    "Nacional": {
+      "2009": 15.0
+    }
+  },
+  "b1i7oc141mmhaglc0": {
+    "FullName": "Mário Maia Tostes B. De Rezende",
+    "Nacional": {
+      "2009": 51.0
+    }
+  },
+  "cin9otoadeo1l6eahmslcmr": {
+    "FullName": "Celso Sousa",
+    "Nacional": {
+      "2009": 30.0
+    }
+  },
+  "cmgmzlaiuirlogs": {
+    "FullName": "Luiz Soares",
+    "Nacional": {
+      "2009": 30.0,
+      "2011": 45.0
+    }
+  },
+  "gmmadoednacrmil": {
+    "FullName": "Daniel Moreira",
+    "Nacional": {
+      "2009": 4.0,
+      "2010": 2.0
+    }
+  },
+  "gpuaugkutavetorsabs": {
+    "FullName": "Gustavo Perez Katague",
+    "Nacional": {
+      "2009": 15.0
+    }
+  },
+  "imnodalcegalfrm": {
+    "FullName": "Daniel Gimenes",
+    "Nacional": {
+      "2009": 36.0
+    }
+  },
+  "ladmhecocgtmoilitnoaearrm": {
+    "FullName": "Leonardo Marchetti",
+    "Nacional": {
+      "2009": 15.0,
+      "2011": 8.0
+    }
+  },
+  "lillmcvgmnoioaaegei": {
+    "FullName": "Rodrigo Veiga",
+    "Nacional": {
+      "2009": 44.0
+    }
+  },
+  "lmaiasimogovlfeidcg": {
+    "FullName": "Diego Furtado Silva",
+    "Nacional": {
+      "2009": 27.0,
+      "2010": 15.0
+    }
+  },
+  "loomrmorehulaboylcca": {
+    "FullName": "Luca Moller",
+    "Nacional": {
+      "2009": 10.0,
+      "2010": 3.0,
+      "2011": 6.0,
+      "2012": 5.0
+    }
+  },
+  "lsrreheagarlicofpmmaa": {
+    "FullName": "Raphael Ferras Gonçalves Da Silva",
+    "Nacional": {
+      "2009": 27.0,
+      "2010": 15.0,
+      "2011": 19.0
+    }
+  },
+  "oaemckailkrwacaigmsam": {
+    "FullName": "Cesar Kawakami",
+    "Nacional": {
+      "2009": 4.0,
+      "2010": 2.0
+    }
+  },
+  "olathancooolmhgdmdaiio": {
+    "FullName": "Diogo Holanda",
+    "Nacional": {
+      "2009": 10.0,
+      "2010": 3.0,
+      "2011": 2.0,
+      "2012": 5.0
+    }
+  },
+  "oxnlacggimaummm": {
+    "FullName": "Walter Filho",
+    "Nacional": {
+      "2009": 10.0,
+      "2010": 3.0,
+      "2011": 6.0,
+      "2012": 5.0
+    }
+  },
+  "pufneigcimcrioaml": {
+    "FullName": "Filipe De Carvalho Nascimento",
+    "Nacional": {
+      "2009": 51.0
+    }
+  },
+  "rmcoibagnljmiadomau": {
+    "FullName": "Bruno Junqueira Adami",
+    "Nacional": {
+      "2009": 51.0,
+      "2011": 19.0,
+      "2012": 4.0,
+      "2013": 1.0
+    }
+  },
+  "saulntigenzeoebetuelsuirfdp": {
+    "FullName": "Luiz Felipe Eugenio Stangarlin",
+    "Nacional": {
+      "2009": 44.0
+    }
+  },
+  "slromagiiicenvmi": {
+    "FullName": "Vinicius De Freitas Reis",
+    "Nacional": {
+      "2009": 27.0,
+      "2010": 15.0,
+      "2011": 19.0,
+      "2012": 4.0
+    }
+  },
+  "suoraatmacelicnligm": {
+    "FullName": "Luan Cestari",
+    "Nacional": {
+      "2009": 36.0
+    }
+  },
+  "thg2o0oaazimmlucos": {
+    "FullName": "Guilherme Souza",
+    "Nacional": {
+      "2009": 4.0,
+      "2010": 2.0
+    }
+  },
+  "tiemvriindglmaroac": {
+    "FullName": "Naresh Trivedi",
+    "Nacional": {
+      "2009": 30.0,
+      "2010": 48.0,
+      "2011": 45.0
+    }
+  },
+  "ugliammjloeooccah": {
+    "FullName": "Joel Uchoa",
+    "Nacional": {
+      "2009": 3.0
+    }
+  },
+  "umcoajagilcmiblomil": {
+    "FullName": "Julio Cesar Brito De Lima",
+    "Nacional": {
+      "2009": 36.0
+    }
+  },
+  "zociommohuusapilcdt": {
+    "FullName": "Cassius Puodzius",
+    "Nacional": {
+      "2009": 18.0
+    }
+  },
+  "7hu0flpc3grbfsr": {
+    "FullName": "Fernado Gielow",
+    "Nacional": {
+      "2009": 24.0
+    }
+  },
+  "iuzliolgcioamiremrb": {
+    "FullName": "Luiz Gustavo Cardoso Ribeiro",
+    "Nacional": {
+      "2009": 12.0,
+      "2010": 17.0
+    }
+  },
+  "mcaocamiullcagiapsv": {
+    "FullName": "Lucas Paiva",
+    "Nacional": {
+      "2009": 12.0,
+      "2010": 17.0
+    }
+  },
+  "mcmeigaiinratmmsrol": {
+    "FullName": "Alexandre Marin",
+    "Nacional": {
+      "2009": 12.0,
+      "2010": 17.0,
+      "2012": 9.0
+    }
+  },
+  "omsloiiosnrvimcciugau": {
+    "FullName": "Vinicius Ruoso",
+    "Nacional": {
+      "2009": 24.0,
+      "2010": 7.0,
+      "2011": 4.0
+    }
+  },
+  "vrrafliuoirrpniftbe": {
+    "FullName": "Ricardo Oliveira",
+    "Nacional": {
+      "2009": 24.0,
+      "2010": 7.0,
+      "2011": 4.0
+    }
+  },
+  "0pbfr994u1": {
+    "FullName": "Eli Maruani",
+    "Nacional": {
+      "2009": 45.0
+    }
+  },
+  "18u0bprf19": {
+    "FullName": "Tiago Antonio Pilau Fucilini",
+    "Nacional": {
+      "2009": 45.0
+    }
+  },
+  "ayhonaemlgdmlnci": {
+    "FullName": "Daniel Pigatto",
+    "Nacional": {
+      "2009": 47.0
+    }
+  },
+  "celoiplrrmdgmaoo": {
+    "FullName": "Rodrigo Ruas Oliveira",
+    "Nacional": {
+      "2009": 34.0
+    }
+  },
+  "cifmgtuceorllhlaekmeihomi": {
+    "FullName": "Guilherme Fickel",
+    "Nacional": {
+      "2009": 34.0
+    }
+  },
+  "eglahlmdocmpij": {
+    "FullName": "João Paulo Orlando",
+    "Nacional": {
+      "2009": 47.0
+    }
+  },
+  "f7u019rbp8": {
+    "FullName": "Ronaldo Rathis Sacco",
+    "Nacional": {
+      "2009": 45.0
+    }
+  },
+  "leczadtentmamoiga": {
+    "FullName": "Adriano Zanette",
+    "Nacional": {
+      "2009": 23.0
+    }
+  },
+  "lfcuarssoimbmoign": {
+    "FullName": "Bruno Fiss",
+    "Nacional": {
+      "2009": 16.0
+    }
+  },
+  "licrdagnimambomlaosu": {
+    "FullName": "Luís Armando Bianchin",
+    "Nacional": {
+      "2009": 16.0
+    }
+  },
+  "mbbllogamoirmca": {
+    "FullName": "Leonardo Borba",
+    "Nacional": {
+      "2009": 23.0,
+      "2010": 16.0
+    }
+  },
+  "ooacmitllaglbima": {
+    "FullName": "André Tibola",
+    "Nacional": {
+      "2009": 34.0
+    }
+  },
+  "scouoaiamzllmzg": {
+    "FullName": "Saulo Matté Madalozzo",
+    "Nacional": {
+      "2009": 47.0
+    }
+  },
+  "sgfumfaevprrrgnfbieir": {
+    "FullName": "Gabriel Pereira",
+    "Nacional": {
+      "2009": 23.0
+    }
+  },
+  "srvifiaebfnkguialerusr": {
+    "FullName": "Kauê Silveira",
+    "Nacional": {
+      "2009": 16.0
+    }
+  },
+  "ahulgnorlameneihmtecg": {
+    "FullName": "Helena Günther",
+    "Nacional": {
+      "2009": 7.0
+    }
+  },
+  "tioailhmcwmrkarag": {
+    "FullName": "Bruno Farias De Loreto",
+    "Nacional": {
+      "2009": 7.0
+    }
+  },
+  "aailmmcamolhtmnsoiotuco": {
+    "FullName": "Luciano Martins Matos",
+    "Nacional": {
+      "2010": 28.0
+    }
+  },
+  "apsm2hn0oicjmna": {
+    "FullName": "Emerson Katsumi Matsumoto",
+    "Nacional": {
+      "2010": 40.0
+    }
+  },
+  "breakmorfhchtr": {
+    "FullName": "Fernando Henrique Hideo Kanada",
+    "Nacional": {
+      "2010": 49.0,
+      "2011": 30.0,
+      "2012": 42.0
+    }
+  },
+  "engzasemoouimoltajrvc": {
+    "FullName": "Everton José De Souza",
+    "Nacional": {
+      "2010": 49.0
+    }
+  },
+  "gciitmmraimaulauoyciga": {
+    "FullName": "Amauri Gabriel De Jesus Júnior",
+    "Nacional": {
+      "2010": 49.0,
+      "2011": 30.0,
+      "2012": 42.0
+    }
+  },
+  "habdycpmrnrnoeooha": {
+    "FullName": "André Pinheiro Melo",
+    "Nacional": {
+      "2010": 28.0
+    }
+  },
+  "imcilmauiasoaimcgarkoams": {
+    "FullName": "Maurício Massaaki Yochizumi",
+    "Nacional": {
+      "2010": 40.0
+    }
+  },
+  "loirmansanaigmfrcicoma": {
+    "FullName": "Francismar Mariano De Oliveira",
+    "Nacional": {
+      "2010": 40.0,
+      "2011": 30.0
+    }
+  },
+  "sadoomelhlssaacunijmeucaot": {
+    "FullName": "Jean Lucas Sousa",
+    "Nacional": {
+      "2010": 28.0
+    }
+  },
+  "cipugezoclaraulmfaomg": {
+    "FullName": "Paulo Cezar Pereira Costa",
+    "Nacional": {
+      "2010": 19.0,
+      "2011": 11.0,
+      "2012": 13.0,
+      "2013": 9.0
+    }
+  },
+  "lwlcsiaovamtgyiirloim": {
+    "FullName": "Wisllay Martins Vitrio Dos Santos",
+    "Nacional": {
+      "2010": 19.0,
+      "2011": 11.0,
+      "2012": 13.0,
+      "2014": 14.0
+    }
+  },
+  "gs1ado9im98bmlc": {
+    "FullName": "Diego Barros E Silva",
+    "Nacional": {
+      "2010": 26.0
+    }
+  },
+  "mcignadoaoilmslhgi": {
+    "FullName": "Dilson Rosa Higa",
+    "Nacional": {
+      "2010": 26.0
+    }
+  },
+  "moirilnoeklcac": {
+    "FullName": "Liliane Silveira Cougo",
+    "Nacional": {
+      "2010": 26.0
+    }
+  },
+  "agmlmcqurifioi": {
+    "FullName": "Iuri Queiroz",
+    "Nacional": {
+      "2010": 38.0
+    }
+  },
+  "dcagoimslpxmmam": {
+    "FullName": "Max Douglas Peixoto Da Silva",
+    "Nacional": {
+      "2010": 38.0
+    }
+  },
+  "moitlcocinlgimgoaraham": {
+    "FullName": "Thiago Marcilon",
+    "Nacional": {
+      "2010": 38.0
+    }
+  },
+  "alyelmxbecoegwiam": {
+    "FullName": "Welyab Paula",
+    "Nacional": {
+      "2010": 30.0,
+      "2011": 46.0
+    }
+  },
+  "asuaiaamidmamgreodmrrlccnn": {
+    "FullName": "Marcus André Miranda Teixeira Costa",
+    "Nacional": {
+      "2010": 50.0
+    }
+  },
+  "cljssoriageimetmonoo": {
+    "FullName": "José Rios Cerqueira Neto",
+    "Nacional": {
+      "2010": 30.0,
+      "2011": 46.0
+    }
+  },
+  "ghrcsematomomidelinosnoa": {
+    "FullName": "Ernando Gomes De Sousa",
+    "Nacional": {
+      "2010": 50.0
+    }
+  },
+  "rmloaomocmaiimmgcj": {
+    "FullName": "Márcio Oliveira",
+    "Nacional": {
+      "2010": 30.0,
+      "2011": 46.0
+    }
+  },
+  "ticatghmllaoohoim": {
+    "FullName": "Tiago Luiz Hendges",
+    "Nacional": {
+      "2010": 50.0
+    }
+  },
+  "cpgmhysellemilraociap": {
+    "FullName": "Phyllipe Medeiros",
+    "Nacional": {
+      "2010": 23.0,
+      "2011": 3.0,
+      "2013": 7.0
+    }
+  },
+  "fictaicologrvmcugm": {
+    "FullName": "Antonio Victor Tavares Neto",
+    "Nacional": {
+      "2010": 23.0
+    }
+  },
+  "lmagogmlaociasurolanmii": {
+    "FullName": "Solon Aguiar Neto",
+    "Nacional": {
+      "2010": 23.0
+    }
+  },
+  "cgnaasombivhlolipim": {
+    "FullName": "Bruno Pinho",
+    "Nacional": {
+      "2010": 43.0
+    }
+  },
+  "ciitmorodcvg87lma": {
+    "FullName": "Victor Almeida",
+    "Nacional": {
+      "2010": 43.0
+    }
+  },
+  "eeggamroaneislcsosmogri": {
+    "FullName": "Sérgio Aurélio Ferreira Soares",
+    "Nacional": {
+      "2010": 43.0
+    }
+  },
+  "fsbicbluaprnec": {
+    "FullName": "Luiz Silva",
+    "Nacional": {
+      "2010": 1.0,
+      "2011": 1.0
+    }
+  },
+  "gsuaioalgauttomcmoms": {
+    "FullName": "Augusto Matos",
+    "Nacional": {
+      "2010": 12.0
+    }
+  },
+  "prebrsiaituenpm": {
+    "FullName": "Renato Parente",
+    "Nacional": {
+      "2010": 12.0
+    }
+  },
+  "isomac0amssoh6titoarcocfnnl": {
+    "FullName": "Fancisco Das Chagas Torres Dos Santos",
+    "Nacional": {
+      "2010": 44.0
+    }
+  },
+  "oorhcamagiaclmioacor": {
+    "FullName": "Cairo Rocha",
+    "Nacional": {
+      "2010": 44.0
+    }
+  },
+  "pigtcmlmeoasdgceiero": {
+    "FullName": "Diego Porto",
+    "Nacional": {
+      "2010": 44.0
+    }
+  },
+  "icmuxtaimaillongog": {
+    "FullName": "Giuliano Vilela",
+    "Nacional": {
+      "2010": 13.0
+    }
+  },
+  "lglclacsoumlmaasi": {
+    "FullName": "Lucas Lima",
+    "Nacional": {
+      "2010": 13.0
+    }
+  },
+  "m0mrg0ia06lcm2o5": {
+    "FullName": "Max Rosan",
+    "Nacional": {
+      "2010": 13.0
+    }
+  },
+  "atcslictlomsogmaoe": {
+    "FullName": "Tales Alves",
+    "Nacional": {
+      "2010": 33.0
+    }
+  },
+  "mprloffhucdmanosidb": {
+    "FullName": "Danilo Henrique Menezes",
+    "Nacional": {
+      "2010": 33.0,
+      "2011": 25.0
+    }
+  },
+  "mpsmmxalrgiaoloiopcacuoaa": {
+    "FullName": "Marcos Paulo Paixão",
+    "Nacional": {
+      "2010": 33.0
+    }
+  },
+  "comoigampmleims": {
+    "FullName": "Daniel Ferreira De Souza",
+    "Nacional": {
+      "2010": 35.0,
+      "2011": 39.0
+    }
+  },
+  "ematrlaorvfmliaairehcio": {
+    "FullName": "Rafael Vieira",
+    "Nacional": {
+      "2010": 35.0
+    }
+  },
+  "mopleilpmgfcay": {
+    "FullName": "Felypp Oliveira",
+    "Nacional": {
+      "2010": 35.0,
+      "2011": 39.0
+    }
+  },
+  "lllaoavociomfgemim": {
+    "FullName": "Flávio Fernandes De Melo",
+    "Nacional": {
+      "2010": 46.0
+    }
+  },
+  "mgtomigi1tlhhcaxao": {
+    "FullName": "Thiago Da Silva Arruda",
+    "Nacional": {
+      "2010": 46.0
+    }
+  },
+  "ngsooasinjmomarclalci": {
+    "FullName": "Janio Carlos Nascimento Silva",
+    "Nacional": {
+      "2010": 46.0
+    }
+  },
+  "aaomlogcjaavimimor": {
+    "FullName": "João Víctor Rocon Maia",
+    "Nacional": {
+      "2010": 14.0
+    }
+  },
+  "nmgsayommgpuipcfaleoci": {
+    "FullName": "Maycon Vitali",
+    "Nacional": {
+      "2010": 14.0
+    }
+  },
+  "oosgmnimesclaadrl": {
+    "FullName": "Lessandro Mariano",
+    "Nacional": {
+      "2010": 14.0
+    }
+  },
+  "cehli8tmsrtoo0ahouimmga": {
+    "FullName": "Igor Matheus Oliveira E Silva",
+    "Nacional": {
+      "2010": 37.0
+    }
+  },
+  "grlemesnoiclmgmila": {
+    "FullName": "Giselle Reis",
+    "Nacional": {
+      "2010": 25.0
+    }
+  },
+  "hbfmoayooruoolrdc": {
+    "FullName": "Rodolfo Pereira Araujo",
+    "Nacional": {
+      "2010": 36.0
+    }
+  },
+  "imkhegdmletaonmrcaou": {
+    "FullName": "Thiago Mendes Vieira",
+    "Nacional": {
+      "2010": 37.0
+    }
+  },
+  "lluoamhiocohtciam": {
+    "FullName": "Chaulio Resende Ferreira",
+    "Nacional": {
+      "2010": 24.0,
+      "2012": 28.0
+    }
+  },
+  "mniauoccumsaiislojvisgz": {
+    "FullName": "Vinícius Souza",
+    "Nacional": {
+      "2010": 29.0
+    }
+  },
+  "nocimgsomootggehlaia": {
+    "FullName": "Thiago Goulart",
+    "Nacional": {
+      "2010": 4.0
+    }
+  },
+  "olanagcamaardamreiilmnla": {
+    "FullName": "Alain André Tomaz Amaral",
+    "Nacional": {
+      "2010": 37.0
+    }
+  },
+  "ooljrmsacrmolioenfmgeu": {
+    "FullName": "Jeferson Coêlho",
+    "Nacional": {
+      "2010": 36.0
+    }
+  },
+  "otolgaojalopatimmci": {
+    "FullName": "João Palotti",
+    "Nacional": {
+      "2010": 25.0
+    }
+  },
+  "rolrsoaimitchiuygmv": {
+    "FullName": "Vitor Andrade Almeida De Souza",
+    "Nacional": {
+      "2010": 36.0
+    }
+  },
+  "rtriteammootbarcc": {
+    "FullName": "Marco Túlio Silva",
+    "Nacional": {
+      "2010": 25.0
+    }
+  },
+  "sinmdiooodmhgagoorccobey": {
+    "FullName": "Diego Carvalho Domingos",
+    "Nacional": {
+      "2010": 29.0,
+      "2011": 33.0
+    }
+  },
+  "uasomoadrncaaioymhbnp": {
+    "FullName": "Dunian Sampa",
+    "Nacional": {
+      "2010": 29.0
+    }
+  },
+  "ahllzscsrauliomofuy": {
+    "FullName": "Luiza De Noronha E Silva",
+    "Nacional": {
+      "2010": 22.0,
+      "2011": 15.0,
+      "2012": 29.0
+    }
+  },
+  "miriaagomldrcegob": {
+    "FullName": "Igor Ramos",
+    "Nacional": {
+      "2010": 9.0,
+      "2013": 10.0
+    }
+  },
+  "sljogmcireodomgpaorlgd": {
+    "FullName": "Pedro Grojsgold",
+    "Nacional": {
+      "2010": 22.0,
+      "2011": 15.0
+    }
+  },
+  "0aondommoastgscilg0lau": {
+    "FullName": "Douglas Oliveira Santos",
+    "Nacional": {
+      "2010": 8.0,
+      "2011": 10.0,
+      "2012": 2.0,
+      "2013": 4.0
+    }
+  },
+  "a1sombrtooaoyncc1sh": {
+    "FullName": "Charles Santos Da Silva",
+    "Nacional": {
+      "2010": 39.0
+    }
+  },
+  "aomudisotazenhgaclresmcc": {
+    "FullName": "Joel Edu Sánchez Castro",
+    "Nacional": {
+      "2010": 11.0
+    }
+  },
+  "avecsaarlclglrimomisiorj": {
+    "FullName": "Carlos Roberto Silveira Junior",
+    "Nacional": {
+      "2010": 27.0,
+      "2012": 33.0
+    }
+  },
+  "cilamiapgugliuomig": {
+    "FullName": "Guilherme Puglia Assunção",
+    "Nacional": {
+      "2010": 11.0
+    }
+  },
+  "cogpjgapimlcimu": {
+    "FullName": "Guilherme Cuppi Jeronimo",
+    "Nacional": {
+      "2010": 27.0,
+      "2012": 33.0
+    }
+  },
+  "dbanxogltmcliraem": {
+    "FullName": "Alex Fernando Brandt",
+    "Nacional": {
+      "2010": 42.0
+    }
+  },
+  "dsayhoaqamocoranbam": {
+    "FullName": "Amanda Aparecida Saque",
+    "Nacional": {
+      "2010": 39.0
+    }
+  },
+  "flcgmitoorlatniamo": {
+    "FullName": "Atol Fortin De Oliveira",
+    "Nacional": {
+      "2010": 6.0
+    }
+  },
+  "iamataalmnlcngmio": {
+    "FullName": "Natan Costa Lima",
+    "Nacional": {
+      "2010": 6.0
+    }
+  },
+  "iitgigmpalnomoccoarah": {
+    "FullName": "Patrícia Hongo",
+    "Nacional": {
+      "2010": 42.0,
+      "2013": 16.0,
+      "2014": 4.0
+    }
+  },
+  "ioumcri7agol8mlmlmai": {
+    "FullName": "Murilo Santos De Lima",
+    "Nacional": {
+      "2010": 11.0
+    }
+  },
+  "iwrgroiaglmmco": {
+    "FullName": "Igor Wolff Resplande",
+    "Nacional": {
+      "2010": 42.0,
+      "2012": 16.0,
+      "2013": 4.0,
+      "2014": 4.0
+    }
+  },
+  "lomoaagmebtclia": {
+    "FullName": "Leonardo Sameshima Taba",
+    "Nacional": {
+      "2010": 27.0,
+      "2011": 29.0,
+      "2012": 33.0
+    }
+  },
+  "lumpcofuuinaitollit": {
+    "FullName": "Paulo Roberto De Almeida Costa",
+    "Nacional": {
+      "2010": 8.0
+    }
+  },
+  "nemigpaordicreaeahlrm": {
+    "FullName": "Andre Hahn Pereira",
+    "Nacional": {
+      "2010": 5.0
+    }
+  },
+  "oaitlmemaisimtuoglahmc": {
+    "FullName": "Matheus De Oliveira",
+    "Nacional": {
+      "2010": 32.0
+    }
+  },
+  "oomg8ai9ralojjmc": {
+    "FullName": "João De Santana Brito Junior",
+    "Nacional": {
+      "2010": 32.0
+    }
+  },
+  "pfcmeraahprrusicbgidv": {
+    "FullName": "Fernando Henrique Piva",
+    "Nacional": {
+      "2010": 32.0
+    }
+  },
+  "pscldnoefrsieuabren": {
+    "FullName": "Celso Sousa",
+    "Nacional": {
+      "2010": 48.0
+    }
+  },
+  "spezrluoisrnseibauf": {
+    "FullName": "Luiz Gustavo Rocha Soares",
+    "Nacional": {
+      "2010": 48.0
+    }
+  },
+  "srelomcoaocwtrbre": {
+    "FullName": "Celso Wo Kar Ng",
+    "Nacional": {
+      "2010": 39.0
+    }
+  },
+  "ceairmtwmabooolivsht": {
+    "FullName": "Evaristo Wychoski Benfatti",
+    "Nacional": {
+      "2010": 41.0
+    }
+  },
+  "giahoilocmmnamentdchhoa": {
+    "FullName": "Diego Rodrigo Hachmann",
+    "Nacional": {
+      "2010": 41.0,
+      "2011": 38.0
+    }
+  },
+  "tsmmoiihoptpiactgalreo": {
+    "FullName": "Tiago Alexandre Schulz Sippert",
+    "Nacional": {
+      "2010": 41.0
+    }
+  },
+  "aaaecuimangtomlsmv": {
+    "FullName": "Mateus Nava",
+    "Nacional": {
+      "2010": 47.0
+    }
+  },
+  "cmoilgcamrmawo": {
+    "FullName": "Marco Antonio Wisniewski",
+    "Nacional": {
+      "2010": 16.0
+    }
+  },
+  "glmogretachgomi": {
+    "FullName": "Gerson Groth",
+    "Nacional": {
+      "2010": 47.0,
+      "2011": 21.0
+    }
+  },
+  "hromidnllaaiearagmcg": {
+    "FullName": "André Grahl Pereira",
+    "Nacional": {
+      "2010": 34.0
+    }
+  },
+  "loatcmionmahge": {
+    "FullName": "Marcelo Luiz Onhate",
+    "Nacional": {
+      "2010": 47.0
+    }
+  },
+  "mioopgccllimarce": {
+    "FullName": "Cícero Augusto De Lara Pahins",
+    "Nacional": {
+      "2010": 34.0
+    }
+  },
+  "rbincelhgrmdmoanezao": {
+    "FullName": "Bernardo Henz",
+    "Nacional": {
+      "2010": 34.0
+    }
+  },
+  "rmeaialnadognocmlpvao": {
+    "FullName": "Leonardo Pavan Hilário",
+    "Nacional": {
+      "2010": 16.0
+    }
+  },
+  "ibkmrhddloataocm": {
+    "FullName": "Diego Buchinger",
+    "Nacional": {
+      "2010": 21.0
+    }
+  },
+  "olsobouonamhmceacdrry": {
+    "FullName": "Marlon Fernandes De Alcantara",
+    "Nacional": {
+      "2010": 21.0
+    }
+  },
+  "rilcidmsilrogocoaamvic": {
+    "FullName": "Silvio Ricardo Cordeiro",
+    "Nacional": {
+      "2010": 21.0
+    }
+  },
+  "aalruocjmggromio9i2a": {
+    "FullName": "Igor Araújo",
+    "Nacional": {
+      "2011": 28.0
+    }
+  },
+  "alrnmthcoaid0meifeopli": {
+    "FullName": "André Filipe Naves De Barros",
+    "Nacional": {
+      "2011": 27.0
+    }
+  },
+  "ayenlaiaglllicoetmmar": {
+    "FullName": "Natália Ellery Ribeiro Couto",
+    "Nacional": {
+      "2011": 22.0
+    }
+  },
+  "behceanaoklmyoknbrcog": {
+    "FullName": "Dórian Langbeck",
+    "Nacional": {
+      "2011": 28.0
+    }
+  },
+  "cnaiocsloheoluctammataa": {
+    "FullName": "Lucas Caetano",
+    "Nacional": {
+      "2011": 27.0,
+      "2013": 53.0
+    }
+  },
+  "gieinorortobtonedciaorrt": {
+    "FullName": "Rodrigo Ribeiro",
+    "Nacional": {
+      "2011": 26.0
+    }
+  },
+  "latl2oammgio9crcsup19o": {
+    "FullName": "Lucas Porto Maziero",
+    "Nacional": {
+      "2011": 27.0,
+      "2013": 53.0
+    }
+  },
+  "lcrysmermsboeato": {
+    "FullName": "Leo Euclides De Souza Neto",
+    "Nacional": {
+      "2011": 22.0
+    }
+  },
+  "lziilapociomattahm": {
+    "FullName": "Átila Haber",
+    "Nacional": {
+      "2011": 28.0
+    }
+  },
+  "m0acsrc6kmg2o0ili": {
+    "FullName": "Ricardo Santos",
+    "Nacional": {
+      "2011": 26.0
+    }
+  },
+  "slarsissoicmagaldori": {
+    "FullName": "Silas Garrido",
+    "Nacional": {
+      "2011": 26.0
+    }
+  },
+  "ygcmrliodomirla": {
+    "FullName": "Rodrigo Lyra",
+    "Nacional": {
+      "2011": 22.0
+    }
+  },
+  "ordeaudohrmedootlcomiag": {
+    "FullName": "Eduardo Theodoro Bogue",
+    "Nacional": {
+      "2011": 34.0
+    }
+  },
+  "sabasnsmndcoremoigeal": {
+    "FullName": "Anderson Bessa Da Costa",
+    "Nacional": {
+      "2011": 34.0
+    }
+  },
+  "umiaamoilcihsgau": {
+    "FullName": "Leandro Ishi Soares De Lima",
+    "Nacional": {
+      "2011": 34.0
+    }
+  },
+  "cmomoiaeaglcmlal": {
+    "FullName": "Maria Alice Oliveira Costa Leal",
+    "Nacional": {
+      "2011": 32.0
+    }
+  },
+  "giihocklhaoeemnm": {
+    "FullName": "Jairo Calmon",
+    "Nacional": {
+      "2011": 32.0
+    }
+  },
+  "leaclaoocipmogtimm": {
+    "FullName": "Ítalo Silva",
+    "Nacional": {
+      "2011": 32.0
+    }
+  },
+  "gotmpclahmiieon": {
+    "FullName": "Thiago Gomes Nepomuceno Da Silva",
+    "Nacional": {
+      "2011": 13.0,
+      "2012": 24.0,
+      "2013": 42.0
+    }
+  },
+  "lo7cmohussiitllupacoma": {
+    "FullName": "Luís Paulo",
+    "Nacional": {
+      "2011": 13.0
+    }
+  },
+  "lmlapifecilembaaogel": {
+    "FullName": "Felipe Abella Cavalcante Mendonça De Souza",
+    "Nacional": {
+      "2011": 3.0,
+      "2015": 2.0
+    }
+  },
+  "bcbisripffuen": {
+    "FullName": "Israel Silva",
+    "Nacional": {
+      "2011": 7.0,
+      "2012": 6.0,
+      "2013": 5.0
+    }
+  },
+  "comhoagobmirhlarotti": {
+    "FullName": "Thiago Oliveira",
+    "Nacional": {
+      "2011": 36.0,
+      "2012": 40.0
+    }
+  },
+  "dcdmatpumoaierlvagi": {
+    "FullName": "Davi Pinheiro",
+    "Nacional": {
+      "2011": 1.0,
+      "2013": 3.0
+    }
+  },
+  "loiaclmsgiaelmnsedon": {
+    "FullName": "Denisson Leal",
+    "Nacional": {
+      "2011": 36.0,
+      "2012": 40.0
+    }
+  },
+  "mbecbpifurofn": {
+    "FullName": "Márcio Filho",
+    "Nacional": {
+      "2011": 7.0,
+      "2012": 3.0
+    }
+  },
+  "nlaytmcikascomnjaonhoo": {
+    "FullName": "Jackson Carvalho",
+    "Nacional": {
+      "2011": 36.0,
+      "2012": 40.0
+    }
+  },
+  "rcsibepvufpan": {
+    "FullName": "Pedro Silvestre",
+    "Nacional": {
+      "2011": 7.0,
+      "2012": 3.0,
+      "2013": 3.0
+    }
+  },
+  "alommlonliitaovceiuhnck": {
+    "FullName": "Luciano Silva",
+    "Nacional": {
+      "2011": 49.0
+    }
+  },
+  "aoolelhcao5molmijcamor0t": {
+    "FullName": "Joao Silva",
+    "Nacional": {
+      "2011": 49.0
+    }
+  },
+  "mcrmjnoocmyoslaaihto": {
+    "FullName": "Jony Silva",
+    "Nacional": {
+      "2011": 49.0
+    }
+  },
+  "deaalbotcmsfuspar": {
+    "FullName": "Tales Alves",
+    "Nacional": {
+      "2011": 25.0,
+      "2012": 27.0
+    }
+  },
+  "iincoceofracmlmalg": {
+    "FullName": "Alice Franco",
+    "Nacional": {
+      "2011": 25.0
+    }
+  },
+  "cdhdgocmoymoimslraaage": {
+    "FullName": "Dyego Machado",
+    "Nacional": {
+      "2011": 20.0
+    }
+  },
+  "csmeiithoilsitaymom": {
+    "FullName": "Junior Carlos Augusto Moreno Ribeiro",
+    "Nacional": {
+      "2011": 20.0
+    }
+  },
+  "gumiursbeodridodgemcoifaurep": {
+    "FullName": "Diego Rodrigues",
+    "Nacional": {
+      "2011": 41.0
+    }
+  },
+  "ndaoqgopuigitanimaecml": {
+    "FullName": "Diego Pinheiro",
+    "Nacional": {
+      "2011": 41.0
+    }
+  },
+  "uaogdnlelmommjcaaaieorr": {
+    "FullName": "André Araújo",
+    "Nacional": {
+      "2011": 41.0
+    }
+  },
+  "iedoimodloerhlamalgmagarrcgco": {
+    "FullName": "Marcelo Gadelha",
+    "Nacional": {
+      "2011": 39.0
+    }
+  },
+  "smtfigferuenirba": {
+    "FullName": "Guilherme Tebaldi Meira",
+    "Nacional": {
+      "2011": 23.0,
+      "2012": 30.0,
+      "2013": 29.0
+    }
+  },
+  "tojcmskrmaonibgloaic": {
+    "FullName": "Jackson Willian Brito",
+    "Nacional": {
+      "2011": 23.0
+    }
+  },
+  "uitmigcbuloenomitmlracrolt": {
+    "FullName": "Murillo Castro",
+    "Nacional": {
+      "2011": 23.0,
+      "2012": 30.0,
+      "2013": 29.0
+    }
+  },
+  "agmc1clamsormrol2i": {
+    "FullName": "Carlos Henrique Miranda Rodrigues",
+    "Nacional": {
+      "2011": 44.0
+    }
+  },
+  "amamkihluoolbhmctu": {
+    "FullName": "Lucas José Carneiro Maciel",
+    "Nacional": {
+      "2011": 43.0
+    }
+  },
+  "avnooimagamcanlllaaire": {
+    "FullName": "Luiza Alana Valeriano",
+    "Nacional": {
+      "2011": 44.0
+    }
+  },
+  "bmscaufcdnloirdgg": {
+    "FullName": "Dilson Guimarães",
+    "Nacional": {
+      "2011": 14.0
+    }
+  },
+  "cllumeimmiaeeelorghgr": {
+    "FullName": "Guilherme Storck",
+    "Nacional": {
+      "2011": 42.0,
+      "2013": 34.0
+    }
+  },
+  "crgmpaiipalgrmob": {
+    "FullName": "Artur Gripp",
+    "Nacional": {
+      "2011": 43.0
+    }
+  },
+  "igmvaommdrlicslai": {
+    "FullName": "Anderson Ribeiro E Silva",
+    "Nacional": {
+      "2011": 44.0
+    }
+  },
+  "ileathsolmnlocsnaamfio": {
+    "FullName": "Nilson Felipe Matos Mendes",
+    "Nacional": {
+      "2011": 42.0,
+      "2013": 34.0,
+      "2014": 49.0
+    }
+  },
+  "ilmcmavachaicgo": {
+    "FullName": "Thadeu Knychala Tucci",
+    "Nacional": {
+      "2011": 18.0,
+      "2012": 23.0
+    }
+  },
+  "laoomarciapjnegmdlfiicl": {
+    "FullName": "Filipe Arcanjo",
+    "Nacional": {
+      "2011": 14.0,
+      "2012": 8.0,
+      "2013": 17.0
+    }
+  },
+  "mceoiomaroodninglg": {
+    "FullName": "Diogo Oliveira",
+    "Nacional": {
+      "2011": 14.0,
+      "2014": 5.0
+    }
+  },
+  "mmtmracseiolntduhokh": {
+    "FullName": "Derik Maia Silva",
+    "Nacional": {
+      "2011": 33.0,
+      "2012": 26.0
+    }
+  },
+  "ogoctllaomlnaitedrma": {
+    "FullName": "Leonardo De Sá Alt",
+    "Nacional": {
+      "2011": 18.0,
+      "2012": 23.0
+    }
+  },
+  "snsvmizacsouicjuboyohroai": {
+    "FullName": "Vinícius Souza",
+    "Nacional": {
+      "2011": 33.0
+    }
+  },
+  "somstnaerddmrilenioegecfarnev": {
+    "FullName": "Vítor Fernandes",
+    "Nacional": {
+      "2011": 42.0,
+      "2013": 34.0
+    }
+  },
+  "tbgeacmaooilmph": {
+    "FullName": "Gabriel Silva",
+    "Nacional": {
+      "2011": 43.0
+    }
+  },
+  "umynminarfcelgqinoe": {
+    "FullName": "Enrique Fynn",
+    "Nacional": {
+      "2011": 18.0,
+      "2012": 23.0
+    }
+  },
+  "cmaogc1zirlak0m": {
+    "FullName": "Caio Cesar Faria Araujo Lima",
+    "Nacional": {
+      "2011": 17.0,
+      "2012": 22.0
+    }
+  },
+  "eldraecaommpoiagzlr": {
+    "FullName": "Pedro Lazéra Cardoso",
+    "Nacional": {
+      "2011": 15.0,
+      "2012": 29.0
+    }
+  },
+  "ooacoollmmglsanidrlhocta": {
+    "FullName": "Ronaldo Machado",
+    "Nacional": {
+      "2011": 17.0
+    }
+  },
+  "arilaommlblagiohaoilecdt": {
+    "FullName": "Gabriel Dalalio",
+    "Nacional": {
+      "2011": 2.0,
+      "2012": 1.0
+    }
+  },
+  "ckkiimoimaaooblnihsg": {
+    "FullName": "Francisco Biaso",
+    "Nacional": {
+      "2011": 48.0
+    }
+  },
+  "cmtarbogoemjcrobilrc": {
+    "FullName": "Antonio Roberto De Campos Junior",
+    "Nacional": {
+      "2011": 12.0,
+      "2012": 20.0,
+      "2013": 2.0,
+      "2014": 1.0
+    }
+  },
+  "dmmrcaamamloieflg": {
+    "FullName": "Ademar Lacerda",
+    "Nacional": {
+      "2011": 31.0
+    }
+  },
+  "eilfmgfatmsoco": {
+    "FullName": "Fernando Fonseca",
+    "Nacional": {
+      "2011": 2.0,
+      "2012": 1.0
+    }
+  },
+  "fccbrraocmusaorsrjpl": {
+    "FullName": "Carlos Roberto Silveira Junior",
+    "Nacional": {
+      "2011": 29.0
+    }
+  },
+  "feneolealplgmitmoolic": {
+    "FullName": "Felipe Tonello",
+    "Nacional": {
+      "2011": 45.0
+    }
+  },
+  "fhootrrgolmaciiemomaal": {
+    "FullName": "Rafael Horimoto De Freitas",
+    "Nacional": {
+      "2011": 29.0,
+      "2014": 21.0
+    }
+  },
+  "galedmmoairbnleroicpcu": {
+    "FullName": "Bruno Espinosa Crepaldi",
+    "Nacional": {
+      "2011": 10.0
+    }
+  },
+  "gtrcatammioflig": {
+    "FullName": "Gabriel Trita Ferreira Da Cunha",
+    "Nacional": {
+      "2011": 16.0
+    }
+  },
+  "iaologmacmbmgscra": {
+    "FullName": "Cesar Gamboa Machado",
+    "Nacional": {
+      "2011": 8.0
+    }
+  },
+  "icmmaogilugmoc": {
+    "FullName": "Guilherme De Oliveira Costa Marques",
+    "Nacional": {
+      "2011": 16.0,
+      "2013": 48.0
+    }
+  },
+  "ioamnrlcloageecm": {
+    "FullName": "Leonardo Nagami Coregliano",
+    "Nacional": {
+      "2011": 31.0
+    }
+  },
+  "itrpabcagnosouias": {
+    "FullName": "Caio Santiago",
+    "Nacional": {
+      "2011": 35.0
+    }
+  },
+  "laiamaulskcaimgagemoi": {
+    "FullName": "Giulia Satiko Maesaka",
+    "Nacional": {
+      "2011": 31.0
+    }
+  },
+  "mapheonxalmaiilitoohnc": {
+    "FullName": "Alan Zanoni Peixinho",
+    "Nacional": {
+      "2011": 24.0
+    }
+  },
+  "mclgiloaiamcpsvau": {
+    "FullName": "Lucas Piva Rocha Correa",
+    "Nacional": {
+      "2011": 8.0
+    }
+  },
+  "mgaiejrogmhcolpo": {
+    "FullName": "Jorge Henrique Piazentin Ono",
+    "Nacional": {
+      "2011": 24.0
+    }
+  },
+  "mggtiluismecholuoraemne": {
+    "FullName": "Guilherme Tsuneo Maegava",
+    "Nacional": {
+      "2011": 48.0
+    }
+  },
+  "mpgzmwfrdoolcai": {
+    "FullName": "Pedro Ferraz Zanetti",
+    "Nacional": {
+      "2011": 16.0
+    }
+  },
+  "neacielgmiasaorpmdolaalmrs": {
+    "FullName": "Alessandro Palmeira",
+    "Nacional": {
+      "2011": 12.0,
+      "2012": 20.0
+    }
+  },
+  "neorbetlppaoliafilseu": {
+    "FullName": "Felipe Freitas",
+    "Nacional": {
+      "2011": 6.0,
+      "2012": 1.0,
+      "2013": 11.0,
+      "2014": 8.0
+    }
+  },
+  "oaoearlisdodmgocsrcearminugrll": {
+    "FullName": "Leandro Carlos Rodrigues",
+    "Nacional": {
+      "2011": 48.0
+    }
+  },
+  "otdilgesaorlfmcanmo": {
+    "FullName": "Stefano Tommasini",
+    "Nacional": {
+      "2011": 12.0,
+      "2012": 20.0,
+      "2013": 2.0,
+      "2014": 1.0
+    }
+  },
+  "otmoaoar2a9llhvgmrecid": {
+    "FullName": "Edgar Lavor",
+    "Nacional": {
+      "2011": 24.0
+    }
+  },
+  "pugusrroeiotbobrerdrs": {
+    "FullName": "Roberto Rodrigues",
+    "Nacional": {
+      "2011": 35.0
+    }
+  },
+  "urpcgslregaaobvnvsen": {
+    "FullName": "Vagner Gonçalves",
+    "Nacional": {
+      "2011": 35.0
+    }
+  },
+  "ilrmnfcgdaeonioem": {
+    "FullName": "Dener Da Cunha",
+    "Nacional": {
+      "2011": 38.0
+    }
+  },
+  "mviczomavafoaanllig": {
+    "FullName": "Flávio Henrique De Bittencourt Zavan",
+    "Nacional": {
+      "2011": 4.0,
+      "2012": 11.0,
+      "2013": 15.0
+    }
+  },
+  "reanmmogasncdosrli": {
+    "FullName": "Anderson Roberto Slivinski",
+    "Nacional": {
+      "2011": 38.0
+    }
+  },
+  "aioebalmnadnicjlmgm": {
+    "FullName": "Cristiano Medeiros Dalbem",
+    "Nacional": {
+      "2011": 9.0
+    }
+  },
+  "mg42aamocilmet": {
+    "FullName": "Mateus Nava",
+    "Nacional": {
+      "2011": 21.0
+    }
+  },
+  "mgireoomalmbplaigltarc": {
+    "FullName": "Gabriel Marques Portal",
+    "Nacional": {
+      "2011": 9.0
+    }
+  },
+  "mmeolceohycaohtoorana": {
+    "FullName": "Marcelo Onhate",
+    "Nacional": {
+      "2011": 21.0
+    }
+  },
+  "nlilamomaghhumugponc": {
+    "FullName": "Hugo Puhlmann",
+    "Nacional": {
+      "2011": 40.0
+    }
+  },
+  "nyrsisyrkeukuti": {
+    "FullName": "Yuri Kunde Schlesner",
+    "Nacional": {
+      "2011": 40.0
+    }
+  },
+  "sfryergnvuifrfb": {
+    "FullName": "Vitor Fortes Rey",
+    "Nacional": {
+      "2011": 9.0
+    }
+  },
+  "unbrflqnrsmiafiut": {
+    "FullName": "Leonardo Campagnolo",
+    "Nacional": {
+      "2011": 40.0,
+      "2012": 46.0
+    }
+  },
+  "gtaoleaimscaumem": {
+    "FullName": "Mateus Souza",
+    "Nacional": {
+      "2011": 47.0
+    }
+  },
+  "iazattalmnlcagmco": {
+    "FullName": "Lucas Zanatta",
+    "Nacional": {
+      "2011": 37.0
+    }
+  },
+  "ioecmulacrdssboeregi": {
+    "FullName": "Sérgio Busarello Junior",
+    "Nacional": {
+      "2011": 37.0
+    }
+  },
+  "mlgccefdioabm65ga": {
+    "FullName": "Luiz Felipe Neitzke Alves",
+    "Nacional": {
+      "2011": 37.0
+    }
+  },
+  "pnaluegedmcrioaml": {
+    "FullName": "André Puel",
+    "Nacional": {
+      "2011": 47.0
+    }
+  },
+  "vflszouiicainmmgci": {
+    "FullName": "Vinícius Flores Zambaldi",
+    "Nacional": {
+      "2011": 47.0
+    }
+  },
+  "aacmfgsamuerlmsaio": {
+    "FullName": "Ulisses José Massafera Souza",
+    "Nacional": {
+      "2012": 42.0,
+      "2013": 39.0
+    }
+  },
+  "amg2iinmvc3cus1ol4i": {
+    "FullName": "Vinicius Henrique Aurichio",
+    "Nacional": {
+      "2012": 21.0
+    }
+  },
+  "dmmvoerocgcmlaosiltie": {
+    "FullName": "Victor Hugo De Lemos Gomes",
+    "Nacional": {
+      "2012": 34.0
+    }
+  },
+  "mcijnadoioilmslegi": {
+    "FullName": "Dilson Eiji Yamashita",
+    "Nacional": {
+      "2012": 34.0
+    }
+  },
+  "oimlhsgessacmtadmuntaosal": {
+    "FullName": "Thomas Gallassi",
+    "Nacional": {
+      "2012": 35.0
+    }
+  },
+  "otaleicrirmyefenbroarfc": {
+    "FullName": "Luis Ferrary Neto",
+    "Nacional": {
+      "2012": 35.0
+    }
+  },
+  "oyomlcoackmahimt": {
+    "FullName": "Micael Carvalho",
+    "Nacional": {
+      "2012": 35.0,
+      "2014": 30.0
+    }
+  },
+  "redsivaaporgencsnoatbvf": {
+    "FullName": "Andre Fernandes Novais",
+    "Nacional": {
+      "2012": 34.0
+    }
+  },
+  "suiplsaauaompbrt": {
+    "FullName": "Paulo Matias",
+    "Nacional": {
+      "2012": 21.0
+    }
+  },
+  "syharaombciarnomdaeor": {
+    "FullName": "André De Freitas Smaira",
+    "Nacional": {
+      "2012": 21.0,
+      "2013": 20.0
+    }
+  },
+  "dterommdamugalscsuangio": {
+    "FullName": "André Augusto Miranda Da Silva",
+    "Nacional": {
+      "2012": 13.0
+    }
+  },
+  "cmgmjraieialoik": {
+    "FullName": "Rodrigo Eiji Akamine",
+    "Nacional": {
+      "2012": 39.0
+    }
+  },
+  "ogocmerammlchiiraamo": {
+    "FullName": "Erick Rocha Amorim",
+    "Nacional": {
+      "2012": 39.0
+    }
+  },
+  "qlalgmciroidomuraiongo": {
+    "FullName": "Rodrigo Lopes De Aquino",
+    "Nacional": {
+      "2012": 39.0
+    }
+  },
+  "ciplmcfhmooljoaegil": {
+    "FullName": "Joel Pinto De Carvalho Filho",
+    "Nacional": {
+      "2012": 43.0,
+      "2013": 24.0
+    },
+    "1aFase": {
+      "2016": 61.0
+    }
+  },
+  "graimcoo1soilamig": {
+    "FullName": "Iago Rios",
+    "Nacional": {
+      "2012": 43.0,
+      "2013": 24.0
+    }
+  },
+  "ogaoctvic51mamitorml": {
+    "FullName": "João Victor Mota Do Nascimento",
+    "Nacional": {
+      "2012": 43.0,
+      "2013": 24.0
+    }
+  },
+  "pmilcmolmuasoaigflu": {
+    "FullName": "Luis Paulo De Morais Freire",
+    "Nacional": {
+      "2012": 24.0
+    }
+  },
+  "cg3odmaliotugm": {
+    "FullName": "Rodrigo Felipe Medeiros Pinto",
+    "Nacional": {
+      "2012": 17.0
+    },
+    "1aFase": {
+      "2016": 47.0
+    }
+  },
+  "lcfaafmocmaniagivtlcj": {
+    "FullName": "Felipe José Ferreira Cavalcanti",
+    "Nacional": {
+      "2012": 17.0
+    }
+  },
+  "lmiiboglgarmmce": {
+    "FullName": "Rígel Bezerra De Melo",
+    "Nacional": {
+      "2012": 17.0,
+      "2014": 59.0
+    }
+  },
+  "cfp3rifnmbeur": {
+    "FullName": "Rafael Marinheiro",
+    "Nacional": {
+      "2012": 6.0
+    }
+  },
+  "eenpusicfbrpfn": {
+    "FullName": "Sérgio Filho",
+    "Nacional": {
+      "2012": 3.0,
+      "2013": 3.0
+    }
+  },
+  "erfbclnupmiv": {
+    "FullName": "Lucas Veras",
+    "Nacional": {
+      "2012": 6.0,
+      "2013": 5.0
+    }
+  },
+  "cmaoainwgmzsilm": {
+    "FullName": "Francimar Alves",
+    "Nacional": {
+      "2012": 44.0,
+      "2014": 33.0
+    }
+  },
+  "lo1ratcahehmaoiamndcmdo": {
+    "FullName": "André Machado",
+    "Nacional": {
+      "2012": 44.0,
+      "2014": 33.0
+    }
+  },
+  "rolceuaivzsoaomtcsm": {
+    "FullName": "Marcos Castro De Souza",
+    "Nacional": {
+      "2012": 44.0,
+      "2014": 33.0
+    }
+  },
+  "2omltntihmzc9olaoia": {
+    "FullName": "Zailton Calheiros",
+    "Nacional": {
+      "2012": 14.0,
+      "2013": 14.0,
+      "2014": 15.0,
+      "2015": 10.0
+    }
+  },
+  "aosoctromoukcieuldoonmtl": {
+    "FullName": "Lucas Daniel Monteiro Dos Santos Pinheiro",
+    "Nacional": {
+      "2012": 14.0,
+      "2013": 14.0
+    }
+  },
+  "himaucma1rmtoegld": {
+    "FullName": "Helton Duarte",
+    "Nacional": {
+      "2012": 14.0,
+      "2013": 14.0
+    }
+  },
+  "glomnecgtaokeiohm": {
+    "FullName": "Antonio Ribeiro",
+    "Nacional": {
+      "2012": 27.0
+    }
+  },
+  "is8l9coalmcrlemaeavmg": {
+    "FullName": "Marcel Alves",
+    "Nacional": {
+      "2012": 27.0
+    }
+  },
+  "emaoeinmrgovitsaalrocl": {
+    "FullName": "Álvaro Reis Neto",
+    "Nacional": {
+      "2012": 48.0
+    }
+  },
+  "iiialmagu2ncqaoermm": {
+    "FullName": "Manrique Maciel Jr.",
+    "Nacional": {
+      "2012": 48.0
+    }
+  },
+  "spiiomhgcaatlonimdgo": {
+    "FullName": "Tiago Pinho",
+    "Nacional": {
+      "2012": 48.0
+    }
+  },
+  "ioelmhtaaomltarracanom": {
+    "FullName": "Renato Amaral Ribeiro",
+    "Nacional": {
+      "2012": 41.0
+    }
+  },
+  "nmcwmoagpcr3ldaeio": {
+    "FullName": "Andrew Ramires May",
+    "Nacional": {
+      "2012": 41.0
+    }
+  },
+  "omj2omoelcimetah": {
+    "FullName": "Rafael Amaral Ribeiro",
+    "Nacional": {
+      "2012": 41.0
+    }
+  },
+  "luonamcancmajarfig": {
+    "FullName": "Juan De Souza",
+    "Nacional": {
+      "2012": 30.0,
+      "2013": 29.0
+    }
+  },
+  "aoiemcplovbubcl": {
+    "FullName": "Paulo César Bobelho Barbosa",
+    "Nacional": {
+      "2012": 47.0
+    }
+  },
+  "clemmddeahsieor": {
+    "FullName": "Hélder Dias",
+    "Nacional": {
+      "2012": 26.0
+    }
+  },
+  "domdlfgaivauuomrc7e": {
+    "FullName": "Luís Eduardo De Souza Amorim",
+    "Nacional": {
+      "2012": 28.0
+    }
+  },
+  "dsaceeanxmmarolviadlig": {
+    "FullName": "Alexandre Davis",
+    "Nacional": {
+      "2012": 8.0,
+      "2013": 17.0
+    }
+  },
+  "eamomcsfgijlcla": {
+    "FullName": "Rafael P. M. Azevedo",
+    "Nacional": {
+      "2012": 28.0
+    }
+  },
+  "ggmsagieiblroeaoacijrqum": {
+    "FullName": "Jorge Gabriel Siqueira",
+    "Nacional": {
+      "2012": 26.0,
+      "2013": 22.0
+    }
+  },
+  "gjmacraamumbacohlayoniou": {
+    "FullName": "Juliana Miranda Corrêa De Guamá",
+    "Nacional": {
+      "2012": 47.0
+    }
+  },
+  "lmogugdmsiamlnocii": {
+    "FullName": "Dilson Guimarães",
+    "Nacional": {
+      "2012": 8.0,
+      "2013": 17.0
+    }
+  },
+  "m82gaillccmosaucmalei": {
+    "FullName": "Lucas Maciel",
+    "Nacional": {
+      "2012": 19.0,
+      "2013": 19.0,
+      "2015": 8.0
+    }
+  },
+  "mgaihliozmscsltu": {
+    "FullName": "Luiz Santos",
+    "Nacional": {
+      "2012": 19.0,
+      "2013": 19.0,
+      "2015": 8.0
+    },
+    "1aFase": {
+      "2016": 40.0
+    }
+  },
+  "niiifov2labmmibsgccu": {
+    "FullName": "Vinícius Felipe Botelho Barbosa",
+    "Nacional": {
+      "2012": 47.0
+    }
+  },
+  "rileemipaiogbcogsmaal": {
+    "FullName": "Gabriel Poesia",
+    "Nacional": {
+      "2012": 19.0,
+      "2013": 19.0,
+      "2014": 5.0,
+      "2015": 8.0
+    }
+  },
+  "cggaomnboool": {
+    "FullName": "Geraldo Avelino",
+    "Nacional": {
+      "2012": 18.0,
+      "2013": 6.0,
+      "2014": 10.0
+    }
+  },
+  "gepaeoimcihnlrlsafmisa": {
+    "FullName": "Felipe Rasinhas",
+    "Nacional": {
+      "2012": 18.0,
+      "2013": 6.0
+    }
+  },
+  "hgscaaomcaroomivljla": {
+    "FullName": "Jonathan Carvalhosa",
+    "Nacional": {
+      "2012": 18.0,
+      "2013": 6.0,
+      "2014": 10.0
+    }
+  },
+  "icmlouaimepilhzfog": {
+    "FullName": "Filipe Zhou",
+    "Nacional": {
+      "2012": 10.0,
+      "2013": 10.0,
+      "2014": 3.0
+    }
+  },
+  "lrfiihmomegalzcf": {
+    "FullName": "Renan Henrique Finder",
+    "Nacional": {
+      "2012": 29.0,
+      "2013": 28.0
+    }
+  },
+  "moammdgicplescanro": {
+    "FullName": "Pedro Nascimento",
+    "Nacional": {
+      "2012": 10.0,
+      "2013": 13.0,
+      "2014": 16.0
+    }
+  },
+  "oaigmicmlrozoohdgru": {
+    "FullName": "Rodrigo Zhou",
+    "Nacional": {
+      "2012": 10.0,
+      "2013": 10.0,
+      "2014": 3.0
+    }
+  },
+  "smhseomspamalmayooicoit": {
+    "FullName": "Moysés Sampaio",
+    "Nacional": {
+      "2012": 22.0
+    }
+  },
+  "adlllgmfiloroimec": {
+    "FullName": "Luís Fernando Dorelli De Abreu",
+    "Nacional": {
+      "2012": 15.0,
+      "2013": 1.0
+    }
+  },
+  "amilfammogolmrnca": {
+    "FullName": "Marlon Alcantara",
+    "Nacional": {
+      "2012": 16.0
+    }
+  },
+  "arqnfmagmlmeodci": {
+    "FullName": "André Amaral De Sousa",
+    "Nacional": {
+      "2012": 7.0,
+      "2013": 8.0,
+      "2014": 6.0,
+      "2016": 11.0
+    },
+    "1aFase": {
+      "2016": 7.0
+    }
+  },
+  "caioeeguldnllimmgc": {
+    "FullName": "Carlos Eduardo Guillén Dávila",
+    "Nacional": {
+      "2012": 4.0
+    }
+  },
+  "cersaimmnldimgo": {
+    "FullName": "Denis Moreira Dos Reis",
+    "Nacional": {
+      "2012": 15.0,
+      "2013": 20.0
+    }
+  },
+  "cmgmctaihislooc": {
+    "FullName": "Thiago Cavalcante",
+    "Nacional": {
+      "2012": 2.0
+    }
+  },
+  "dwrutbouofsscoaenrdee": {
+    "FullName": "Wallace Felipe Francisco Cardoso",
+    "Nacional": {
+      "2012": 37.0
+    }
+  },
+  "iavembdaaoodmgciracrl": {
+    "FullName": "David Esteban Marçal Cabrera",
+    "Nacional": {
+      "2012": 45.0
+    }
+  },
+  "ilicjaemgelofoempgamooa": {
+    "FullName": "João Felipe Magro Hernandes",
+    "Nacional": {
+      "2012": 37.0
+    }
+  },
+  "ioohzlllaoreaauirmmaltooclrm": {
+    "FullName": "Leonardo Murarolli Lázaro",
+    "Nacional": {
+      "2012": 38.0
+    }
+  },
+  "lmielcmssmaagtsoo": {
+    "FullName": "Marcelo Sales",
+    "Nacional": {
+      "2012": 7.0,
+      "2013": 8.0,
+      "2014": 6.0,
+      "2015": 15.0
+    }
+  },
+  "lohasmcsoisratialaomti": {
+    "FullName": "Altair Diniseti Sossai",
+    "Nacional": {
+      "2012": 38.0
+    }
+  },
+  "lpreuciepgmhopmlelmihtihaoi": {
+    "FullName": "Guilherme Philippe Figueredo",
+    "Nacional": {
+      "2012": 7.0,
+      "2013": 8.0
+    }
+  },
+  "mlnhmmtilaoscacaoaalmu": {
+    "FullName": "Lucas Oliveira Malaman",
+    "Nacional": {
+      "2012": 38.0
+    }
+  },
+  "ommnrttvhaitlaocmtaooe": {
+    "FullName": "Renato Valim Motta",
+    "Nacional": {
+      "2012": 37.0
+    }
+  },
+  "rfucaavmmloflig": {
+    "FullName": "Raul Felipe Ventura Filho",
+    "Nacional": {
+      "2012": 45.0
+    }
+  },
+  "rgaooovcommemagclapli": {
+    "FullName": "Marcelo Póvoa",
+    "Nacional": {
+      "2012": 2.0
+    }
+  },
+  "slmmccoiamaneigbao": {
+    "FullName": "Bianca Oe",
+    "Nacional": {
+      "2012": 15.0,
+      "2013": 1.0,
+      "2014": 11.0
+    }
+  },
+  "weonicorlitiotalclmiganabmior": {
+    "FullName": "Willian Bittencourt Ribeiro",
+    "Nacional": {
+      "2012": 45.0
+    }
+  },
+  "aroummobgngncalbi": {
+    "FullName": "Brunno Braga",
+    "Nacional": {
+      "2012": 9.0
+    }
+  },
+  "ctgpsdemlmoiaeirelo": {
+    "FullName": "Marcelo Teider Lopes",
+    "Nacional": {
+      "2012": 9.0
+    }
+  },
+  "eeedcudalrhtmaomoopic": {
+    "FullName": "Eduardo Bueno Da Silva",
+    "Nacional": {
+      "2012": 49.0
+    }
+  },
+  "esaalctfogmrimleibaa": {
+    "FullName": "Rafael Tibães",
+    "Nacional": {
+      "2012": 11.0
+    }
+  },
+  "meiorocshmnaicjlouptith": {
+    "FullName": "Remi Pietsch Junior",
+    "Nacional": {
+      "2012": 49.0
+    }
+  },
+  "rygcaozmmroalig": {
+    "FullName": "Rodrigo Cândido Gryzinski",
+    "Nacional": {
+      "2012": 11.0,
+      "2013": 15.0
+    }
+  },
+  "umogatlanmislnaticeoe": {
+    "FullName": "Natal Pereira Júnior",
+    "Nacional": {
+      "2012": 49.0
+    }
+  },
+  "2mrttmoe3hiloatcro": {
+    "FullName": "Renã Treto",
+    "Nacional": {
+      "2012": 36.0
+    }
+  },
+  "acmdmliamoglitazogi": {
+    "FullName": "Tiago Mizdal",
+    "Nacional": {
+      "2012": 46.0
+    }
+  },
+  "aeccaiiolhgalmotnm": {
+    "FullName": "Leonardo Piletti Chatain",
+    "Nacional": {
+      "2012": 12.0
+    }
+  },
+  "ceucmgbeaajloiamznl": {
+    "FullName": "Jean Luca Bez",
+    "Nacional": {
+      "2012": 36.0
+    }
+  },
+  "fuusirlinfmbz": {
+    "FullName": "Luiz Silva",
+    "Nacional": {
+      "2012": 46.0
+    }
+  },
+  "iaatcsotomcglmsi": {
+    "FullName": "Cássio Augusto Favaretto",
+    "Nacional": {
+      "2012": 36.0
+    }
+  },
+  "inbbignshrlffaanicur": {
+    "FullName": "Luis Armando Bianchin",
+    "Nacional": {
+      "2012": 12.0
+    }
+  },
+  "mreifagsfbnuairrrrfe": {
+    "FullName": "André Ferreira",
+    "Nacional": {
+      "2012": 12.0
+    }
+  },
+  "aiacearlrmimogbaclgggaiav": {
+    "FullName": "Gabriel Garcia Gava",
+    "Nacional": {
+      "2012": 31.0
+    }
+  },
+  "alvgnobimaiuammeichot": {
+    "FullName": "Vinícius Abouhatem",
+    "Nacional": {
+      "2012": 31.0,
+      "2013": 41.0,
+      "2014": 18.0
+    }
+  },
+  "enraneoximiotiacgrmmal": {
+    "FullName": "Ramon Teixeira",
+    "Nacional": {
+      "2012": 32.0
+    }
+  },
+  "fmamrnsotgcmlauiireao": {
+    "FullName": "Mateus Fornari",
+    "Nacional": {
+      "2012": 32.0
+    }
+  },
+  "goagal2gamm9ic": {
+    "FullName": "Gabriel Arthur Gerber Andrade",
+    "Nacional": {
+      "2012": 31.0,
+      "2013": 41.0,
+      "2014": 18.0
+    }
+  },
+  "hrhmjeeieaunlccicmsgomlagmki": {
+    "FullName": "Guilherme Jarentchuk",
+    "Nacional": {
+      "2012": 25.0
+    }
+  },
+  "ncgjooamultbminhya": {
+    "FullName": "Jhonatan Serafim",
+    "Nacional": {
+      "2012": 32.0
+    }
+  },
+  "rmglaemclngiirgibeao": {
+    "FullName": "Gabriel Hermann Negri",
+    "Nacional": {
+      "2012": 25.0
+    }
+  },
+  "rmkmgaclpseneaidoi": {
+    "FullName": "André Diego Piske",
+    "Nacional": {
+      "2012": 25.0
+    }
+  },
+  "afgmcclomidg": {
+    "FullName": "Danilo Françoso Tedeschi",
+    "Nacional": {
+      "2013": 40.0
+    }
+  },
+  "aioimhewmcltroapllmi": {
+    "FullName": "Willer Matayoshi",
+    "Nacional": {
+      "2013": 50.0
+    }
+  },
+  "aotmohaitcaivljoom": {
+    "FullName": "João Otávio De Almeida",
+    "Nacional": {
+      "2013": 40.0
+    }
+  },
+  "c1tlirofepgrvlscsboaavs9a": {
+    "FullName": "Carlos Igor Silva",
+    "Nacional": {
+      "2013": 38.0
+    }
+  },
+  "cieggpaomcaanulmrmomi": {
+    "FullName": "Amauri Gabriel De Jesus Júnior",
+    "Nacional": {
+      "2013": 39.0
+    }
+  },
+  "cotacddicogstlmam": {
+    "FullName": "Diego Costa",
+    "Nacional": {
+      "2013": 54.0
+    }
+  },
+  "furingclsaelamcadmo": {
+    "FullName": "Lucas Daniel Ferreira",
+    "Nacional": {
+      "2013": 40.0
+    }
+  },
+  "giifocrlaasrnmbm": {
+    "FullName": "Fernanda Ribas Pineda",
+    "Nacional": {
+      "2013": 39.0
+    }
+  },
+  "iwoassnlmgcdiaomli": {
+    "FullName": "Walison Silva",
+    "Nacional": {
+      "2013": 54.0
+    }
+  },
+  "jmtmgdolohoaaelvsaci": {
+    "FullName": "Joseval Silva",
+    "Nacional": {
+      "2013": 38.0
+    }
+  },
+  "laioaehmhacmadmoithtl": {
+    "FullName": "Thayssa Almeida",
+    "Nacional": {
+      "2013": 50.0
+    }
+  },
+  "lotijdo8cemavdi0hmi": {
+    "FullName": "Deivid Reis",
+    "Nacional": {
+      "2013": 54.0
+    }
+  },
+  "mcomrcipfraouladihto": {
+    "FullName": "Ricardo Borges",
+    "Nacional": {
+      "2013": 54.0
+    }
+  },
+  "mlomvmgoirncanesniri": {
+    "FullName": "Minervino Rodrigues",
+    "Nacional": {
+      "2013": 54.0
+    }
+  },
+  "moeolmlawhcamiaicitth": {
+    "FullName": "Camila Santos",
+    "Nacional": {
+      "2013": 50.0
+    }
+  },
+  "oischamogodmttul": {
+    "FullName": "Douglas Selvati",
+    "Nacional": {
+      "2013": 53.0
+    }
+  },
+  "oocnturoyfadboesmh": {
+    "FullName": "Eduardo Fontes",
+    "Nacional": {
+      "2013": 38.0
+    }
+  },
+  "tntolcgicoormanjoumtilaarai": {
+    "FullName": "Altair Junior",
+    "Nacional": {
+      "2013": 54.0
+    }
+  },
+  "eeoaflalivimsrscas": {
+    "FullName": "Rafael De Assis Cruz",
+    "Nacional": {
+      "2013": 9.0,
+      "2014": 14.0,
+      "2016": 9.0,
+      "2017": 12.0,
+      "2018": 11.0
+    },
+    "1aFase": {
+      "2016": 35.0,
+      "2017": 32.0,
+      "2018": 6.0
+    }
+  },
+  "igaoeriolitlmhramabcml": {
+    "FullName": "Gabriel De Lima Rabelo",
+    "Nacional": {
+      "2013": 37.0
+    }
+  },
+  "mmualpiuoongocrvlslkoetooc": {
+    "FullName": "Murilo Conçalves Pereira",
+    "Nacional": {
+      "2013": 37.0
+    }
+  },
+  "vcolwkehlmsooillmat": {
+    "FullName": "Welton Cardoso Do Carmo",
+    "Nacional": {
+      "2013": 9.0,
+      "2014": 26.0,
+      "2015": 20.0
+    }
+  },
+  "xmslacltoocmeiaah": {
+    "FullName": "Carlos Alexandre Xavier Da Silva",
+    "Nacional": {
+      "2013": 37.0,
+      "2014": 26.0,
+      "2015": 20.0
+    }
+  },
+  "lciaulotchmtsimosua": {
+    "FullName": "Lucas Tsutsui Da Silva",
+    "Nacional": {
+      "2013": 30.0
+    }
+  },
+  "mjrocmepiegalrotatsn": {
+    "FullName": "Jean Torres",
+    "Nacional": {
+      "2013": 30.0
+    },
+    "1aFase": {
+      "2016": 133.0
+    }
+  },
+  "nllsioueoorefamrbmausrinve": {
+    "FullName": "Emerson Silva",
+    "Nacional": {
+      "2013": 30.0
+    }
+  },
+  "asozalahylhnciljowmobmt": {
+    "FullName": "Walas Jhony L. Moraes",
+    "Nacional": {
+      "2013": 49.0
+    }
+  },
+  "inaaylelmtlcogmuo": {
+    "FullName": "Luan Teylo",
+    "Nacional": {
+      "2013": 49.0
+    }
+  },
+  "lohijmciolnodtiaaoumnr": {
+    "FullName": "Danilo Londero",
+    "Nacional": {
+      "2013": 49.0
+    }
+  },
+  "elkcocmarhigeagoomg": {
+    "FullName": "George Barbosa",
+    "Nacional": {
+      "2013": 54.0
+    }
+  },
+  "muocrochiimnteorjalio": {
+    "FullName": "Érico Ferreira Souza Júnior",
+    "Nacional": {
+      "2013": 54.0
+    }
+  },
+  "ntciatnomoramohmill": {
+    "FullName": "Amilton Rodrigues Nunes",
+    "Nacional": {
+      "2013": 54.0
+    }
+  },
+  "hiogd1mmoa4ttscilgolau": {
+    "FullName": "Douglas Rocha",
+    "Nacional": {
+      "2013": 51.0
+    }
+  },
+  "icmlsrtqoiucminreoanboaeaohlafah": {
+    "FullName": "Afonso Calábria",
+    "Nacional": {
+      "2013": 51.0
+    }
+  },
+  "ictomcommalrmngarjaiiosaurni": {
+    "FullName": "Macário Martins",
+    "Nacional": {
+      "2013": 54.0
+    }
+  },
+  "mmaliegfeieccopuel": {
+    "FullName": "Felipe De Almeida Xavier",
+    "Nacional": {
+      "2013": 42.0
+    }
+  },
+  "ngmaroamlopaigjc": {
+    "FullName": "José Almeida",
+    "Nacional": {
+      "2013": 54.0
+    }
+  },
+  "tmgmenolhcesaloyauci": {
+    "FullName": "Thalyson Gomes Nepomuceno Da Silva",
+    "Nacional": {
+      "2013": 42.0,
+      "2015": 23.0
+    }
+  },
+  "vjcndemmleairotooiue": {
+    "FullName": "Tadeu Jerônimo",
+    "Nacional": {
+      "2013": 54.0
+    }
+  },
+  "zgcbmraeareoliamr": {
+    "FullName": "André Bezerra",
+    "Nacional": {
+      "2013": 51.0
+    }
+  },
+  "1itsgladmcu0omemac": {
+    "FullName": "Mateus Carvalho Dantas",
+    "Nacional": {
+      "2013": 7.0
+    },
+    "1aFase": {
+      "2017": 20.0
+    }
+  },
+  "ctlhlamafiraplcemoo": {
+    "FullName": "Rafael Catalão Lopes Perrella",
+    "Nacional": {
+      "2013": 12.0,
+      "2014": 2.0
+    },
+    "1aFase": {
+      "2017": 20.0
+    }
+  },
+  "dyfmenmorcsm": {
+    "FullName": "Rémy De Fru",
+    "Nacional": {
+      "2013": 12.0,
+      "2015": 25.0
+    },
+    "1aFase": {
+      "2016": 47.0
+    }
+  },
+  "eompeatcmolgimnlareiim": {
+    "FullName": "Danilo Pimenteira Melo Nascimento",
+    "Nacional": {
+      "2013": 7.0,
+      "2014": 59.0
+    }
+  },
+  "honmao14ltolmcaciaseuml": {
+    "FullName": "Manoel Lucas Urbano De Barros Lins",
+    "Nacional": {
+      "2013": 12.0,
+      "2014": 2.0,
+      "2015": 2.0
+    }
+  },
+  "mahsoemrficrpeeijtaalo": {
+    "FullName": "Jefferson Pereira Sá",
+    "Nacional": {
+      "2013": 43.0
+    }
+  },
+  "onamlomctthdaemlai": {
+    "FullName": "Anderson Matias",
+    "Nacional": {
+      "2013": 43.0
+    }
+  },
+  "vrlsmtocousagogmiat": {
+    "FullName": "Gustavo Stor",
+    "Nacional": {
+      "2013": 5.0,
+      "2014": 9.0,
+      "2015": 1.0
+    }
+  },
+  "zathoqcmoceimulraiaec": {
+    "FullName": "Caíque Mariano",
+    "Nacional": {
+      "2013": 43.0,
+      "2014": 32.0
+    },
+    "1aFase": {
+      "2016": 136.0
+    }
+  },
+  "9snoranedtcasoohmlml3i": {
+    "FullName": "Anderson Lima",
+    "Nacional": {
+      "2013": 45.0,
+      "2015": 19.0,
+      "2016": 32.0
+    },
+    "1aFase": {
+      "2016": 103.0
+    }
+  },
+  "mngomlgifglapcaseo": {
+    "FullName": "Sebastiao Galeno",
+    "Nacional": {
+      "2013": 45.0
+    }
+  },
+  "mraocomiljlregitcer": {
+    "FullName": "José Luís Rodrigues Terceiro",
+    "Nacional": {
+      "2013": 45.0
+    }
+  },
+  "mlmwlmtoeeccandhoidl": {
+    "FullName": "Wendell Araújo",
+    "Nacional": {
+      "2013": 25.0
+    }
+  },
+  "oehepmotcaaclopimhrl": {
+    "FullName": "Charles Brito",
+    "Nacional": {
+      "2013": 25.0
+    }
+  },
+  "rhaycaootofcbmdo": {
+    "FullName": "Álvaro Tavares",
+    "Nacional": {
+      "2013": 25.0
+    }
+  },
+  "ahfumriaqdmleoengmionicl": {
+    "FullName": "Danilo Henrique Menezes",
+    "Nacional": {
+      "2013": 18.0
+    }
+  },
+  "ihtecxemsmaobotl": {
+    "FullName": "Gilberto Santos",
+    "Nacional": {
+      "2013": 18.0
+    }
+  },
+  "soaooomydm1roalbec0hl": {
+    "FullName": "Aldo Lemos",
+    "Nacional": {
+      "2013": 18.0
+    }
+  },
+  "loazcmidsmomgh": {
+    "FullName": "Diogo Soares",
+    "Nacional": {
+      "2013": 54.0
+    }
+  },
+  "merfmuumadcsipofpb": {
+    "FullName": "Marcos Paulo Farias",
+    "Nacional": {
+      "2013": 54.0
+    },
+    "1aFase": {
+      "2016": 106.0
+    }
+  },
+  "zouvcardcebttmnes": {
+    "FullName": "Lázaro Albuquerque",
+    "Nacional": {
+      "2013": 54.0
+    }
+  },
+  "igiolneltiavnmmcicalnw": {
+    "FullName": "Vincent Tadaiesky",
+    "Nacional": {
+      "2013": 47.0
+    }
+  },
+  "lraoayljgimopcm": {
+    "FullName": "Joary Wanzeler",
+    "Nacional": {
+      "2013": 47.0
+    }
+  },
+  "sdmareaoaaisconllg8o0mccm": {
+    "FullName": "Carlos Damasceno",
+    "Nacional": {
+      "2013": 47.0
+    }
+  },
+  "aeiognuaainclrlmmg": {
+    "FullName": "Angela Silviane Moura Cunha",
+    "Nacional": {
+      "2013": 54.0
+    }
+  },
+  "loac9namanl3gsmairim": {
+    "FullName": "Marina Lans",
+    "Nacional": {
+      "2013": 54.0
+    }
+  },
+  "mjaoivorimagcrtfolc": {
+    "FullName": "Vitor Soares Lima",
+    "Nacional": {
+      "2013": 54.0
+    }
+  },
+  "iglcacomamiaooa": {
+    "FullName": "Caio Augusto Araujo Oliveira",
+    "Nacional": {
+      "2013": 33.0,
+      "2014": 7.0
+    }
+  },
+  "irlarggllcmbmgo": {
+    "FullName": "Gabriel Resende Gonçalves",
+    "Nacional": {
+      "2013": 35.0
+    }
+  },
+  "mocmabohotnlirumsh": {
+    "FullName": "Bruno Santos",
+    "Nacional": {
+      "2013": 35.0
+    }
+  },
+  "oirdamcadoeamjoniulrlga": {
+    "FullName": "Leandro Augusto De Araújo Silva",
+    "Nacional": {
+      "2013": 35.0
+    }
+  },
+  "rbohiiamloaavcfalgmou": {
+    "FullName": "Fúlvio Abrahão De Paula",
+    "Nacional": {
+      "2013": 22.0,
+      "2014": 19.0,
+      "2015": 11.0,
+      "2016": 5.0
+    },
+    "1aFase": {
+      "2016": 9.0
+    }
+  },
+  "rgciagcomoatmpvhila": {
+    "FullName": "Thiago Carvalho Pinto",
+    "Nacional": {
+      "2013": 22.0,
+      "2014": 19.0,
+      "2015": 11.0,
+      "2016": 5.0
+    },
+    "1aFase": {
+      "2016": 9.0
+    }
+  },
+  "rlsauapmgmtorhirc": {
+    "FullName": "Arthur Pires",
+    "Nacional": {
+      "2013": 33.0
+    }
+  },
+  "rmvacnulmboaoaigorl": {
+    "FullName": "Alvaro Bruno Silva Pereira",
+    "Nacional": {
+      "2013": 33.0,
+      "2014": 7.0,
+      "2015": 27.0
+    }
+  },
+  "loineprbiuxsioeedmfgrj": {
+    "FullName": "Diego Ximenes Mendes",
+    "Nacional": {
+      "2013": 13.0,
+      "2014": 3.0
+    }
+  },
+  "mnmleigvuaouqlliaeqibracusa": {
+    "FullName": "Ian Albuquerque Raymundo Da Silva",
+    "Nacional": {
+      "2013": 28.0
+    },
+    "1aFase": {
+      "2016": 732.0,
+      "2017": 59.0,
+      "2018": 46.0
+    }
+  },
+  "odpoaoaallnmtangkocntlceraimo": {
+    "FullName": "Leonardo Kaplan",
+    "Nacional": {
+      "2013": 28.0
+    }
+  },
+  "opuiccrvlfibpjr": {
+    "FullName": "Victor Costa",
+    "Nacional": {
+      "2013": 13.0,
+      "2014": 16.0
+    }
+  },
+  "ahseligocmsmkoa": {
+    "FullName": "Rafael Mariottini Tomazela",
+    "Nacional": {
+      "2013": 48.0
+    }
+  },
+  "amilrimvmgorucoca": {
+    "FullName": "Victor Moura",
+    "Nacional": {
+      "2013": 23.0
+    }
+  },
+  "auomaadmcsjlicaligm": {
+    "FullName": "Lucas Junqueira Adami",
+    "Nacional": {
+      "2013": 20.0
+    }
+  },
+  "azioiualromclsmmmg": {
+    "FullName": "Luiz Ramos",
+    "Nacional": {
+      "2013": 11.0,
+      "2014": 8.0,
+      "2015": 9.0
+    }
+  },
+  "ccfaramipogiolmam": {
+    "FullName": "Márcio Paiva",
+    "Nacional": {
+      "2013": 23.0
+    }
+  },
+  "cerols7it77aemnfo0ojhm": {
+    "FullName": "Jeferson Lesbão De Siqueira",
+    "Nacional": {
+      "2013": 44.0
+    }
+  },
+  "cheoatpllumcaiiimorono": {
+    "FullName": "Paulo Roberto Cerioni",
+    "Nacional": {
+      "2013": 26.0,
+      "2014": 21.0
+    }
+  },
+  "gimteocamltiohjpuo": {
+    "FullName": "Guilherme Augusto Potje",
+    "Nacional": {
+      "2013": 52.0
+    }
+  },
+  "ilgoeiureclaofmihrrpeulaemmg": {
+    "FullName": "Paulo Freire",
+    "Nacional": {
+      "2013": 26.0
+    }
+  },
+  "imaerilmirglotqocoacpua": {
+    "FullName": "Caique Lira",
+    "Nacional": {
+      "2013": 11.0,
+      "2014": 8.0,
+      "2015": 9.0
+    }
+  },
+  "kooidtncaohlrmcadmo": {
+    "FullName": "Artur Jordão Lima Correia",
+    "Nacional": {
+      "2013": 52.0
+    }
+  },
+  "ledlaembogtrseiafcamnmiior": {
+    "FullName": "Breno Lima De Freitas",
+    "Nacional": {
+      "2013": 48.0
+    }
+  },
+  "lniasalocicmoglaom": {
+    "FullName": "Alison Luiz De Oliveira Chaves",
+    "Nacional": {
+      "2013": 44.0
+    }
+  },
+  "mahpormeiiceluhmgtlzlo": {
+    "FullName": "Guilherme Lopes",
+    "Nacional": {
+      "2013": 36.0
+    }
+  },
+  "mcemvniksrioolarihto": {
+    "FullName": "Vinicius Zibetti Resko",
+    "Nacional": {
+      "2013": 44.0,
+      "2015": 16.0,
+      "2016": 30.0
+    },
+    "1aFase": {
+      "2016": 38.0
+    }
+  },
+  "mcieiomatosbgragli": {
+    "FullName": "Tiago Reis",
+    "Nacional": {
+      "2013": 26.0,
+      "2014": 21.0,
+      "2015": 7.0
+    }
+  },
+  "mowsmrgimmlakcakco": {
+    "FullName": "Marcos Kawakami",
+    "Nacional": {
+      "2013": 2.0,
+      "2014": 1.0
+    }
+  },
+  "nmbahcacpasouogoroioiylma": {
+    "FullName": "Luciano Gusmão Sampaio",
+    "Nacional": {
+      "2013": 36.0
+    }
+  },
+  "oahlawcpitmonjlaoilm": {
+    "FullName": "Willian Tetsuya Suzuki",
+    "Nacional": {
+      "2013": 36.0
+    }
+  },
+  "ovilamroialigcemgstc": {
+    "FullName": "Victor Elias",
+    "Nacional": {
+      "2013": 23.0
+    }
+  },
+  "rca1gleimom9c9i": {
+    "FullName": "Eric Oakley",
+    "Nacional": {
+      "2013": 16.0
+    }
+  },
+  "riuenuuhrtfeeemdbeglsso": {
+    "FullName": "Guilherme Fernandes Sekine",
+    "Nacional": {
+      "2013": 52.0
+    }
+  },
+  "cmbocrmigluaaramggono": {
+    "FullName": "Bruno De Camargo Barreto Silva",
+    "Nacional": {
+      "2013": 54.0
+    }
+  },
+  "ezniangepdrruefcfribiv": {
+    "FullName": "Guilherme Derenievicz",
+    "Nacional": {
+      "2013": 15.0
+    }
+  },
+  "maichomisntohaolhgt": {
+    "FullName": "Thiago Henrique Nunes De Souza",
+    "Nacional": {
+      "2013": 54.0
+    }
+  },
+  "omitsdcaorocoacmaisralrh": {
+    "FullName": "Ricardo Corassa",
+    "Nacional": {
+      "2013": 54.0
+    }
+  },
+  "4pfr88ub05": {
+    "FullName": "Henrique Becker",
+    "Nacional": {
+      "2013": 46.0
+    }
+  },
+  "fipammcrebzioettgmla": {
+    "FullName": "Bernardo Zamperetti",
+    "Nacional": {
+      "2013": 21.0
+    }
+  },
+  "fzeaommhlnrtrlocibaaaio": {
+    "FullName": "Rafael Kuntzer Barizon",
+    "Nacional": {
+      "2013": 46.0
+    }
+  },
+  "lesalcbnogmdomleisia": {
+    "FullName": "Daniel Bossle",
+    "Nacional": {
+      "2013": 21.0,
+      "2014": 17.0,
+      "2017": 24.0
+    },
+    "1aFase": {
+      "2017": 18.0
+    }
+  },
+  "ocostlhibmrmaoso": {
+    "FullName": "Rodrigo Boos",
+    "Nacional": {
+      "2013": 21.0
+    }
+  },
+  "tbserfobkuulpdeneirbmfi": {
+    "FullName": "Thainan Bystronski Remboski",
+    "Nacional": {
+      "2013": 32.0,
+      "2015": 13.0
+    }
+  },
+  "ub144890rfp": {
+    "FullName": "Júlia Zottis",
+    "Nacional": {
+      "2013": 46.0
+    }
+  },
+  "uesrbmxulreifiddalnfvpe": {
+    "FullName": "Lucas Xavier",
+    "Nacional": {
+      "2013": 32.0,
+      "2015": 13.0
+    }
+  },
+  "uiblznueufeopdwadsdfr": {
+    "FullName": "William Souza",
+    "Nacional": {
+      "2013": 32.0,
+      "2015": 13.0
+    }
+  },
+  "agommlsrrimgareohieencc": {
+    "FullName": "Geomar Schreiner",
+    "Nacional": {
+      "2013": 27.0
+    }
+  },
+  "aoiogaliiaiclnummg": {
+    "FullName": "Iago Berndt",
+    "Nacional": {
+      "2013": 27.0,
+      "2014": 20.0
+    }
+  },
+  "komnmmojrdgacalai": {
+    "FullName": "Jonatas Adilson Marques",
+    "Nacional": {
+      "2013": 31.0
+    }
+  },
+  "lmilffagoecmpiaep": {
+    "FullName": "Felipe De Azevedo Piovezan",
+    "Nacional": {
+      "2013": 41.0
+    }
+  },
+  "mtomgcaomicmaanaouorlpc": {
+    "FullName": "Ramon De Oliveira",
+    "Nacional": {
+      "2013": 31.0
+    }
+  },
+  "omlvegnlloacleida": {
+    "FullName": "Emerson Dallagnol",
+    "Nacional": {
+      "2013": 27.0,
+      "2014": 20.0
+    }
+  },
+  "ylmtaoglrmcgitoainodo": {
+    "FullName": "Tárliton Godoy",
+    "Nacional": {
+      "2013": 31.0
+    }
+  },
+  "cinemtbhramloiamoia": {
+    "FullName": "Miriane Batista",
+    "Nacional": {
+      "2014": 47.0
+    }
+  },
+  "coaivmmomauaoslitozg": {
+    "FullName": "Otávio Montemezzo De Souza",
+    "Nacional": {
+      "2014": 45.0
+    }
+  },
+  "ernoilpdfiaifsiaufgbt": {
+    "FullName": "Filipe Silva",
+    "Nacional": {
+      "2014": 57.0
+    },
+    "1aFase": {
+      "2016": 246.0
+    }
+  },
+  "ipltvlabmooaheoieifrctom": {
+    "FullName": "Felipe Godoy",
+    "Nacional": {
+      "2014": 47.0,
+      "2015": 58.0
+    },
+    "1aFase": {
+      "2016": 454.0
+    }
+  },
+  "itmhaohmjzoucalog": {
+    "FullName": "Juliana Aparecida Zago",
+    "Nacional": {
+      "2014": 27.0
+    }
+  },
+  "lapastmoctumegymnakiso": {
+    "FullName": "Mayke Santos",
+    "Nacional": {
+      "2014": 47.0,
+      "2015": 58.0
+    }
+  },
+  "olecbfmensidnaraomg": {
+    "FullName": "Fernando Ferreira De Oliveira",
+    "Nacional": {
+      "2014": 44.0
+    }
+  },
+  "olrfdmrfecoegpiam": {
+    "FullName": "Pedro Fernandes Filho",
+    "Nacional": {
+      "2014": 27.0
+    }
+  },
+  "pgnaalomcpfeomieijlo": {
+    "FullName": "João Pimentel",
+    "Nacional": {
+      "2014": 57.0
+    }
+  },
+  "snlrbtaeorcclaidauouafmepo": {
+    "FullName": "Paulo Henrique Medeiros",
+    "Nacional": {
+      "2014": 45.0
+    }
+  },
+  "tlloouasborisamtmehtquacoc": {
+    "FullName": "Lucas Basquerotto Da Silva",
+    "Nacional": {
+      "2014": 27.0
+    }
+  },
+  "toioihlouaceminclcigmc": {
+    "FullName": "Luigi Ciccone Pereira",
+    "Nacional": {
+      "2014": 44.0,
+      "2015": 44.0
+    }
+  },
+  "xceexmhgoelacaidmimael": {
+    "FullName": "Ricardo Mujin Kim",
+    "Nacional": {
+      "2014": 44.0
+    },
+    "1aFase": {
+      "2016": 708.0,
+      "2017": 350.0
+    }
+  },
+  "ygoormfgcdarlolimeri": {
+    "FullName": "Rodrigo Luiz Frey",
+    "Nacional": {
+      "2014": 45.0
+    }
+  },
+  "zaceaiiolugsmmtasm": {
+    "FullName": "Mateus Azis",
+    "Nacional": {
+      "2014": 57.0
+    }
+  },
+  "glcemoieeirmamhmailugld": {
+    "FullName": "Guilherme Bernardes",
+    "Nacional": {
+      "2014": 29.0
+    }
+  },
+  "loomreeacgieoatirgmsiapgm": {
+    "FullName": "Tiago Pereira",
+    "Nacional": {
+      "2014": 29.0
+    }
+  },
+  "mkeaolhssoctdidasamrh": {
+    "FullName": "Gustavo Jaruga Cruz",
+    "Nacional": {
+      "2014": 29.0
+    }
+  },
+  "ioooicsmisnebnglackamrold": {
+    "FullName": "Leandro Sobocinski Castro",
+    "Nacional": {
+      "2014": 14.0
+    }
+  },
+  "ommomartcllo12ipighu": {
+    "FullName": "Murilo Gonçalves Pereira",
+    "Nacional": {
+      "2014": 26.0,
+      "2016": 9.0
+    },
+    "1aFase": {
+      "2016": 35.0
+    }
+  },
+  "2to0roaiirlbomcelaolgndm": {
+    "FullName": "Leandro Bortoli",
+    "Nacional": {
+      "2014": 24.0
+    }
+  },
+  "ncghioaimlieaadnlml": {
+    "FullName": "Daniel Novaes Ilha",
+    "Nacional": {
+      "2014": 24.0
+    }
+  },
+  "rgaclrdsoomomadii": {
+    "FullName": "Rodrigo Albuquerque De Oliveira Siqueira",
+    "Nacional": {
+      "2014": 24.0,
+      "2016": 35.0
+    },
+    "1aFase": {
+      "2016": 93.0
+    }
+  },
+  "camlgllicnaarottmoim": {
+    "FullName": "Allan Carlos Pereira",
+    "Nacional": {
+      "2014": 38.0,
+      "2015": 61.0
+    }
+  },
+  "gmcewg3manra3o0li2": {
+    "FullName": "Wagner Rodrigo Silva Teixeira",
+    "Nacional": {
+      "2014": 38.0,
+      "2015": 61.0
+    }
+  },
+  "punricmocailipdgomraoao": {
+    "FullName": "Adrian Procopiou",
+    "Nacional": {
+      "2014": 38.0
+    }
+  },
+  "azszogdglumcaaiumldorc": {
+    "FullName": "Douglas Cerqueira",
+    "Nacional": {
+      "2014": 35.0,
+      "2015": 51.0
+    }
+  },
+  "elbmlmlrhcoeghiam": {
+    "FullName": "Helber Henrique Lopes Marinho",
+    "Nacional": {
+      "2014": 52.0
+    }
+  },
+  "garremmoaisidlsboscoaa": {
+    "FullName": "Isadora Barros Soares",
+    "Nacional": {
+      "2014": 52.0
+    }
+  },
+  "htuoealksoocemlrbcorua": {
+    "FullName": "Charles Abreu Santana",
+    "Nacional": {
+      "2014": 52.0
+    }
+  },
+  "khcaojatrlnmigeomld": {
+    "FullName": "Lucas Carneiro",
+    "Nacional": {
+      "2014": 35.0,
+      "2015": 51.0
+    }
+  },
+  "mmakipgloaumcoscel": {
+    "FullName": "Lucas Assis",
+    "Nacional": {
+      "2014": 35.0,
+      "2015": 51.0
+    }
+  },
+  "rcomdlucnobgedrbaafaa": {
+    "FullName": "Leonardo Gama",
+    "Nacional": {
+      "2014": 22.0
+    }
+  },
+  "rivdbgehlclmmeeuo": {
+    "FullName": "Guilherme Bernal",
+    "Nacional": {
+      "2014": 22.0,
+      "2015": 4.0,
+      "2016": 3.0
+    },
+    "1aFase": {
+      "2016": 2.0
+    }
+  },
+  "tjconcnpamcjgahioallqicm": {
+    "FullName": "Jonathan Queiroz",
+    "Nacional": {
+      "2014": 22.0,
+      "2015": 4.0,
+      "2016": 3.0
+    },
+    "1aFase": {
+      "2016": 2.0
+    }
+  },
+  "esocouscammeaoglahrrlgi": {
+    "FullName": "Hugo Sales Corrêa",
+    "Nacional": {
+      "2014": 42.0
+    }
+  },
+  "hgafleomomctlmbi": {
+    "FullName": "Mariana Fontenele Lopes",
+    "Nacional": {
+      "2014": 42.0
+    }
+  },
+  "nsasglic1nodimmao0": {
+    "FullName": "Daniel Augusto Ramos Macedo Antunes De Souza",
+    "Nacional": {
+      "2014": 42.0
+    }
+  },
+  "cidsmllomgmao8at": {
+    "FullName": "Lucas De Matos Figueredo",
+    "Nacional": {
+      "2014": 2.0,
+      "2016": 6.0
+    },
+    "1aFase": {
+      "2016": 4.0
+    }
+  },
+  "tsiasmaaicymanvcloganlcor": {
+    "FullName": "Árysson Figueiredo",
+    "Nacional": {
+      "2014": 59.0,
+      "2015": 2.0,
+      "2017": 5.0
+    },
+    "1aFase": {
+      "2016": 51.0,
+      "2017": 14.0
+    }
+  },
+  "4npabrcifefus": {
+    "FullName": "Felipe Andrade",
+    "Nacional": {
+      "2014": 13.0
+    }
+  },
+  "cociamvaoriimlctglromi": {
+    "FullName": "Victor Marcilio De Araujo Souza Peixoto",
+    "Nacional": {
+      "2014": 32.0,
+      "2015": 35.0
+    }
+  },
+  "idsurpfc2ncbme": {
+    "FullName": "Duhan Caraciolo",
+    "Nacional": {
+      "2014": 13.0,
+      "2015": 1.0,
+      "2016": 1.0
+    },
+    "1aFase": {
+      "2016": 1.0
+    }
+  },
+  "lbecapilurpfn": {
+    "FullName": "Lucas Lima",
+    "Nacional": {
+      "2014": 9.0,
+      "2016": 1.0
+    },
+    "1aFase": {
+      "2016": 1.0
+    }
+  },
+  "loampcoelciolemglmo": {
+    "FullName": "Leonardo Prado",
+    "Nacional": {
+      "2014": 32.0,
+      "2015": 35.0
+    },
+    "1aFase": {
+      "2016": 136.0,
+      "2017": 193.0
+    }
+  },
+  "otrilumin0i5mhoamoa2hc2eeqr": {
+    "FullName": "Mário Henrique",
+    "Nacional": {
+      "2014": 9.0,
+      "2015": 1.0,
+      "2016": 1.0
+    },
+    "1aFase": {
+      "2016": 1.0
+    }
+  },
+  "rbbfmfpcnimeur": {
+    "FullName": "Mateus Borges",
+    "Nacional": {
+      "2014": 13.0
+    }
+  },
+  "giarmdmgneilrooradolc": {
+    "FullName": "Rodrigo Randel",
+    "Nacional": {
+      "2014": 40.0
+    }
+  },
+  "hmnim1ceodtoaobnral": {
+    "FullName": "Daniel Pinheiro",
+    "Nacional": {
+      "2014": 40.0
+    }
+  },
+  "igm9meclaarhcsol": {
+    "FullName": "Charles Brito",
+    "Nacional": {
+      "2014": 15.0
+    }
+  },
+  "lhcaeoiiolllchmvdmtdaewsaosuaans": {
+    "FullName": "Lucas Pinheiro",
+    "Nacional": {
+      "2014": 15.0
+    }
+  },
+  "ommglogahrieiccroapati": {
+    "FullName": "Thiago Pereira",
+    "Nacional": {
+      "2014": 40.0
+    }
+  },
+  "cnomrlsoaasiietgebtxoamllg": {
+    "FullName": "Gilberto Alexandre Dos Santos",
+    "Nacional": {
+      "2014": 25.0,
+      "2015": 29.0
+    }
+  },
+  "gldocomlmalmrisoea": {
+    "FullName": "Aldo Raposo De Lemos",
+    "Nacional": {
+      "2014": 25.0
+    }
+  },
+  "eldraecaommpoiagsan": {
+    "FullName": "Pedro Augusto Araújo Sena",
+    "Nacional": {
+      "2014": 39.0
+    }
+  },
+  "foceioismacfmfprlagnca": {
+    "FullName": "Francisco Elio Parente Arcos Filho",
+    "Nacional": {
+      "2014": 39.0,
+      "2015": 49.0,
+      "2017": 33.0
+    },
+    "1aFase": {
+      "2016": 118.0,
+      "2017": 42.0
+    }
+  },
+  "icfmtgoalihmiogaoc": {
+    "FullName": "Thiago Filipe De Medeiros",
+    "Nacional": {
+      "2014": 39.0
+    },
+    "1aFase": {
+      "2016": 70.0
+    }
+  },
+  "aam9oiroomclvlmmahsi3t": {
+    "FullName": "Ramom Silva",
+    "Nacional": {
+      "2014": 58.0
+    }
+  },
+  "imae0cntac3gloomsiesj": {
+    "FullName": "Jessica Magalhães",
+    "Nacional": {
+      "2014": 58.0
+    }
+  },
+  "oadamjlcginelammim": {
+    "FullName": "Jose Ney Almeida",
+    "Nacional": {
+      "2014": 58.0
+    }
+  },
+  "alrnmgermiiguinvtwonccea": {
+    "FullName": "Wagner Venturini",
+    "Nacional": {
+      "2014": 31.0
+    }
+  },
+  "eogpnrtbaiomlulmacah": {
+    "FullName": "Paulo Vasconcelos",
+    "Nacional": {
+      "2014": 31.0,
+      "2016": 38.0
+    },
+    "1aFase": {
+      "2016": 114.0
+    }
+  },
+  "nrtyerravseiaosa": {
+    "FullName": "Ayer Souza",
+    "Nacional": {
+      "2014": 31.0,
+      "2016": 38.0
+    },
+    "1aFase": {
+      "2016": 114.0
+    }
+  },
+  "acllwgmucrosaimsc": {
+    "FullName": "Lucas Ribeiro",
+    "Nacional": {
+      "2014": 49.0,
+      "2015": 50.0
+    },
+    "1aFase": {
+      "2016": 88.0
+    }
+  },
+  "aicmgsclmvoppail": {
+    "FullName": "Lucas Silva",
+    "Nacional": {
+      "2014": 28.0
+    }
+  },
+  "alioulcvlaoontikocuoom": {
+    "FullName": "Luciano Oliva",
+    "Nacional": {
+      "2014": 49.0
+    },
+    "1aFase": {
+      "2016": 161.0
+    }
+  },
+  "amdooipecrlcmlaaogld": {
+    "FullName": "Pedro Callado Versiani De Souza Ferreira",
+    "Nacional": {
+      "2014": 41.0
+    },
+    "1aFase": {
+      "2016": 63.0
+    }
+  },
+  "anaoluevignmioomscciiiccic": {
+    "FullName": "Vinicius Silva Conceição",
+    "Nacional": {
+      "2014": 49.0
+    }
+  },
+  "auamoegmhlihms5otc0st": {
+    "FullName": "Matheus Scandiffio",
+    "Nacional": {
+      "2014": 7.0,
+      "2015": 27.0
+    }
+  },
+  "dcmmcrbgsocggumef": {
+    "FullName": "Guilherme Gomes",
+    "Nacional": {
+      "2014": 5.0
+    }
+  },
+  "hltagmciiecromedaumsks": {
+    "FullName": "Derick Matheus De Oliveira",
+    "Nacional": {
+      "2014": 41.0
+    }
+  },
+  "ilihocooenacmemdlg": {
+    "FullName": "Endi Silva",
+    "Nacional": {
+      "2014": 49.0
+    },
+    "1aFase": {
+      "2016": 161.0
+    }
+  },
+  "irraikolmtcceiomur": {
+    "FullName": "Iuri Rezende",
+    "Nacional": {
+      "2014": 28.0
+    },
+    "1aFase": {
+      "2016": 57.0
+    }
+  },
+  "naadrjicmoromnoceuigadcl": {
+    "FullName": "José Wagner De Andrade Júnior",
+    "Nacional": {
+      "2014": 19.0,
+      "2015": 11.0,
+      "2016": 5.0,
+      "2018": 12.0
+    },
+    "1aFase": {
+      "2016": 9.0,
+      "2018": 17.0
+    }
+  },
+  "ojntacalmahmgigssocabca": {
+    "FullName": "Jonatas Chagas",
+    "Nacional": {
+      "2014": 49.0
+    }
+  },
+  "raeimcmcgoorbomnlsan": {
+    "FullName": "Marcos Almeida",
+    "Nacional": {
+      "2014": 41.0
+    },
+    "1aFase": {
+      "2016": 63.0
+    }
+  },
+  "umokooloiulwrleceftoh": {
+    "FullName": "Weuler Borges Santos Filho",
+    "Nacional": {
+      "2014": 28.0
+    },
+    "1aFase": {
+      "2016": 57.0,
+      "2017": 21.0,
+      "2018": 61.0
+    }
+  },
+  "alsamftlmtigeraetroecbea": {
+    "FullName": "Rafael Rodrigues Rocha De Melo",
+    "Nacional": {
+      "2014": 59.0
+    }
+  },
+  "drilfprprrooibjogumai": {
+    "FullName": "Rodrigo Paim",
+    "Nacional": {
+      "2014": 16.0
+    }
+  },
+  "gceuaommllihasemtla": {
+    "FullName": "Matheus Leal Assunção",
+    "Nacional": {
+      "2014": 10.0
+    }
+  },
+  "obomussbeirllmprunpcu": {
+    "FullName": "Bruno Costa",
+    "Nacional": {
+      "2014": 59.0
+    }
+  },
+  "olicmamigawsaccual": {
+    "FullName": "Lucas Cawai Julião Pereira",
+    "Nacional": {
+      "2014": 59.0
+    }
+  },
+  "aalmomlgmisitmranorvcias": {
+    "FullName": "Ramon Silva De Lima",
+    "Nacional": {
+      "2014": 6.0,
+      "2015": 15.0,
+      "2016": 11.0
+    },
+    "1aFase": {
+      "2016": 7.0
+    }
+  },
+  "amgcolaansliucmrecala": {
+    "FullName": "Lucas Alencar Barbosa",
+    "Nacional": {
+      "2014": 36.0
+    },
+    "1aFase": {
+      "2016": 221.0
+    }
+  },
+  "c4ausailorehcbmngmson9": {
+    "FullName": "Bruno Sanches",
+    "Nacional": {
+      "2014": 11.0,
+      "2015": 3.0
+    },
+    "1aFase": {
+      "2016": 25.0
+    }
+  },
+  "cooqiacihotcrlmam": {
+    "FullName": "Caio Quirino",
+    "Nacional": {
+      "2014": 37.0
+    }
+  },
+  "disiaorlovclancgammesns": {
+    "FullName": "Anderson Silva",
+    "Nacional": {
+      "2014": 11.0
+    }
+  },
+  "eaivalsaogsrlftaslmmci": {
+    "FullName": "Rafael Silva Santos",
+    "Nacional": {
+      "2014": 53.0
+    }
+  },
+  "egsimrcdoolare2hmpi2": {
+    "FullName": "Pedro Reis",
+    "Nacional": {
+      "2014": 53.0
+    }
+  },
+  "giisolabgrbreebgarle": {
+    "FullName": "Gabriel Borges",
+    "Nacional": {
+      "2014": 30.0
+    }
+  },
+  "iaetgilmfrmtcaonz": {
+    "FullName": "Rafael Zanetti",
+    "Nacional": {
+      "2014": 45.0
+    }
+  },
+  "iaohaasmebrmicllotm": {
+    "FullName": "Ismael Santos Silva",
+    "Nacional": {
+      "2014": 34.0
+    }
+  },
+  "igciardomorrmogoilm": {
+    "FullName": "Rodrigo Roim Ferreira",
+    "Nacional": {
+      "2014": 23.0
+    }
+  },
+  "iociirhlotengucgammlame": {
+    "FullName": "Guilherme Conti",
+    "Nacional": {
+      "2014": 47.0
+    }
+  },
+  "kgpeiacolaoeuurmblmp": {
+    "FullName": "Paulo Eduardo Pinto Burke",
+    "Nacional": {
+      "2014": 36.0
+    }
+  },
+  "llcgmmeaoacrlrociama": {
+    "FullName": "Marcello Acar",
+    "Nacional": {
+      "2014": 45.0
+    }
+  },
+  "m4rdarcgrmoormiaobsire9lig": {
+    "FullName": "Rodrigo De Farias Ramires",
+    "Nacional": {
+      "2014": 36.0
+    },
+    "1aFase": {
+      "2016": 221.0
+    }
+  },
+  "mcoilaonaiimlvsg": {
+    "FullName": "Ivan Henrique Petrin",
+    "Nacional": {
+      "2014": 30.0,
+      "2015": 7.0
+    }
+  },
+  "mcpaiieclmarlotoegaf": {
+    "FullName": "Felipe Vincent Yannik Romero Pereira",
+    "Nacional": {
+      "2014": 23.0
+    }
+  },
+  "mmurtmlcgiocitoasalo": {
+    "FullName": "Lucas Soares",
+    "Nacional": {
+      "2014": 45.0
+    }
+  },
+  "nlomaiagpglcmlum": {
+    "FullName": "Luan Melo",
+    "Nacional": {
+      "2014": 37.0
+    }
+  },
+  "ohohlvaecmlmlrritatmhoi": {
+    "FullName": "Miller Horvath",
+    "Nacional": {
+      "2014": 34.0,
+      "2016": 28.0
+    },
+    "1aFase": {
+      "2016": 53.0
+    }
+  },
+  "oouhaemtacimcollnasrl": {
+    "FullName": "Lucas Guida",
+    "Nacional": {
+      "2014": 37.0
+    }
+  },
+  "ouwctmkoljolrinoso": {
+    "FullName": "Wilson Estécio Marcílio Júnior",
+    "Nacional": {
+      "2014": 53.0
+    },
+    "1aFase": {
+      "2016": 333.0
+    }
+  },
+  "rs00icmmv1la9og": {
+    "FullName": "Rodrigo Vieira",
+    "Nacional": {
+      "2014": 47.0
+    }
+  },
+  "saaimouc8olfmgrilac1l": {
+    "FullName": "Lucas França De Oliveira",
+    "Nacional": {
+      "2014": 23.0,
+      "2016": 12.0,
+      "2017": 10.0,
+      "2018": 6.0
+    },
+    "1aFase": {
+      "2016": 6.0,
+      "2017": 5.0,
+      "2018": 4.0
+    }
+  },
+  "scagoimvllarnum": {
+    "FullName": "Ruan Ramos Monteiro Silva",
+    "Nacional": {
+      "2014": 4.0
+    }
+  },
+  "uasls2mlsacooncimdraalge": {
+    "FullName": "Lucas Soares",
+    "Nacional": {
+      "2014": 47.0
+    }
+  },
+  "zmicaaaltamchhmoeo": {
+    "FullName": "Matheus Henrique Zamberlan",
+    "Nacional": {
+      "2014": 34.0,
+      "2016": 28.0
+    },
+    "1aFase": {
+      "2016": 53.0
+    }
+  },
+  "cogalssiedicnmsloootsmna": {
+    "FullName": "Cleison Arenhart Dos Santos",
+    "Nacional": {
+      "2014": 43.0,
+      "2015": 18.0,
+      "2016": 20.0,
+      "2017": 11.0
+    },
+    "1aFase": {
+      "2016": 31.0,
+      "2017": 6.0
+    }
+  },
+  "gilolugimscaymni": {
+    "FullName": "Luis Fernando Veronese Trivelatto",
+    "Nacional": {
+      "2014": 43.0,
+      "2015": 18.0,
+      "2016": 20.0,
+      "2017": 11.0,
+      "2019": 14.0
+    },
+    "1aFase": {
+      "2016": 31.0,
+      "2017": 6.0,
+      "2019": 17.0
+    }
+  },
+  "haioreaccrbiderm": {
+    "FullName": "Michael Baer",
+    "Nacional": {
+      "2014": 12.0
+    }
+  },
+  "nrfufpi13drdrb": {
+    "FullName": "Daniel Dutra Rufasto",
+    "Nacional": {
+      "2014": 12.0
+    }
+  },
+  "omapouscammemrclslebsgi": {
+    "FullName": "Lucas Vinicius Semprebom Gonçalves",
+    "Nacional": {
+      "2014": 12.0
+    }
+  },
+  "vlchoraoaiomoictitcms": {
+    "FullName": "Victor Cassiano Naumann",
+    "Nacional": {
+      "2014": 43.0
+    }
+  },
+  "arheoolurgmhcesitmaosicl": {
+    "FullName": "Guilherme Soares",
+    "Nacional": {
+      "2014": 17.0
+    }
+  },
+  "cmstoesoromesabfrc": {
+    "FullName": "Marcos Sulzbach Morgenstern",
+    "Nacional": {
+      "2014": 54.0,
+      "2016": 47.0
+    },
+    "1aFase": {
+      "2016": 212.0
+    }
+  },
+  "crbreoseofogrtmes": {
+    "FullName": "Roger Casagrande De Medeiros",
+    "Nacional": {
+      "2014": 54.0,
+      "2016": 47.0
+    },
+    "1aFase": {
+      "2016": 212.0
+    }
+  },
+  "ilmrminabvidcgo": {
+    "FullName": "Vinícius Breda",
+    "Nacional": {
+      "2014": 17.0
+    }
+  },
+  "istitalemacogaerfhmmug": {
+    "FullName": "Matheus Freitag",
+    "Nacional": {
+      "2014": 56.0
+    }
+  },
+  "jdlusepevvbfuniifldsra": {
+    "FullName": "José Vitor Da Silva",
+    "Nacional": {
+      "2014": 56.0,
+      "2017": 44.0
+    },
+    "1aFase": {
+      "2017": 107.0
+    }
+  },
+  "krnfpeuepidmefslebue": {
+    "FullName": "Mauricio Peske",
+    "Nacional": {
+      "2014": 56.0,
+      "2016": 40.0,
+      "2017": 44.0
+    },
+    "1aFase": {
+      "2016": 102.0,
+      "2017": 107.0
+    }
+  },
+  "tsiofsomcerolbre": {
+    "FullName": "Lori Ronaldo Flores Machado Filho",
+    "Nacional": {
+      "2014": 54.0,
+      "2016": 47.0
+    },
+    "1aFase": {
+      "2016": 212.0
+    }
+  },
+  "ciyamomlretaogroig": {
+    "FullName": "Tiago Royer",
+    "Nacional": {
+      "2014": 18.0
+    }
+  },
+  "dojerbaimhtnrlpmoawic": {
+    "FullName": "João Bernardi",
+    "Nacional": {
+      "2014": 49.0
+    },
+    "1aFase": {
+      "2016": 79.0
+    }
+  },
+  "gamohatmo9scrmaudsllla4ie": {
+    "FullName": "Matheus Dallrosa",
+    "Nacional": {
+      "2014": 20.0,
+      "2015": 33.0,
+      "2016": 42.0
+    },
+    "1aFase": {
+      "2016": 27.0
+    }
+  },
+  "mg7ilmigl9ac6oalg": {
+    "FullName": "Gabriel Galli",
+    "Nacional": {
+      "2014": 49.0
+    },
+    "1aFase": {
+      "2016": 79.0
+    }
+  },
+  "ohmcrojamlaviistl": {
+    "FullName": "Sival Júnior",
+    "Nacional": {
+      "2014": 49.0
+    },
+    "1aFase": {
+      "2016": 79.0
+    }
+  },
+  "2cieokhtammtzoibtl": {
+    "FullName": "Ahmad Khatib",
+    "Nacional": {
+      "2015": 60.0
+    }
+  },
+  "aalmviilircacdilusmeoga": {
+    "FullName": "Cláudia Dos Reis Silva",
+    "Nacional": {
+      "2015": 57.0
+    }
+  },
+  "airmcvoirederoafunmnjsgln": {
+    "FullName": "Rivelino Lazaro Fernandes Farias Junior",
+    "Nacional": {
+      "2015": 62.0
+    },
+    "1aFase": {
+      "2016": 350.0
+    }
+  },
+  "asabgmdcf8oomlii": {
+    "FullName": "Fabio Junior Martins Da Silva",
+    "Nacional": {
+      "2015": 44.0
+    }
+  },
+  "ciasglwomgmsuaao": {
+    "FullName": "Wagner Sousa Santos",
+    "Nacional": {
+      "2015": 55.0
+    }
+  },
+  "eccbttaoocnjfsrorenmro": {
+    "FullName": "Jeferson Costa",
+    "Nacional": {
+      "2015": 41.0
+    }
+  },
+  "ejaosiaoaitrahoomdscml": {
+    "FullName": "Josias Marques Da Silva",
+    "Nacional": {
+      "2015": 57.0
+    },
+    "1aFase": {
+      "2016": 379.0,
+      "2017": 203.0
+    }
+  },
+  "enevsognsmclinalm": {
+    "FullName": "Nilson Neves Nascimento",
+    "Nacional": {
+      "2015": 44.0
+    }
+  },
+  "galmoabhlinepocpemoixo": {
+    "FullName": "Pamela Peixinho",
+    "Nacional": {
+      "2015": 60.0
+    }
+  },
+  "gmmlaldoscioticaus": {
+    "FullName": "Daniel Costa",
+    "Nacional": {
+      "2015": 60.0,
+      "2016": 28.0,
+      "2017": 39.0
+    },
+    "1aFase": {
+      "2016": 53.0,
+      "2017": 98.0
+    }
+  },
+  "iotniglumy7mamc": {
+    "FullName": "Antonio Carlos Zechinato",
+    "Nacional": {
+      "2015": 41.0
+    }
+  },
+  "jmovchroyaioaortcbo": {
+    "FullName": "João Otávio Ribeiro Costa",
+    "Nacional": {
+      "2015": 55.0
+    }
+  },
+  "mhiaiweclmoilkhontek": {
+    "FullName": "Kelwin Ferreira",
+    "Nacional": {
+      "2015": 54.0,
+      "2017": 64.0
+    },
+    "1aFase": {
+      "2016": 337.0,
+      "2017": 106.0,
+      "2018": 282.0
+    }
+  },
+  "mlolhicjcoahtam": {
+    "FullName": "Luis Amaral",
+    "Nacional": {
+      "2015": 54.0,
+      "2017": 64.0
+    },
+    "1aFase": {
+      "2016": 337.0,
+      "2017": 106.0,
+      "2018": 282.0
+    }
+  },
+  "nhjmocehomiaieicllirmthaho": {
+    "FullName": "Helio Junior",
+    "Nacional": {
+      "2015": 54.0,
+      "2017": 64.0
+    },
+    "1aFase": {
+      "2016": 337.0,
+      "2017": 106.0,
+      "2018": 282.0
+    }
+  },
+  "noafmriaegajcvmlsoia": {
+    "FullName": "Jeovan Farias",
+    "Nacional": {
+      "2015": 62.0
+    },
+    "1aFase": {
+      "2016": 350.0
+    }
+  },
+  "olm2218gieaomobrsgdraic": {
+    "FullName": "Diego Barros De Oliveira",
+    "Nacional": {
+      "2015": 62.0
+    },
+    "1aFase": {
+      "2016": 350.0
+    }
+  },
+  "rioocnosetkjomrlugore": {
+    "FullName": "Ricardo Negreiros",
+    "Nacional": {
+      "2015": 57.0
+    }
+  },
+  "rrcuaiholrtaamtdom": {
+    "FullName": "Artur De Almeira Ribeiro",
+    "Nacional": {
+      "2015": 55.0
+    }
+  },
+  "ruoere1laav0eialfcbm": {
+    "FullName": "Rafael De Abreu Leitão",
+    "Nacional": {
+      "2015": 41.0
+    }
+  },
+  "useorjilco7gmiaderogm0": {
+    "FullName": "João Paulo Rodrigues Soares",
+    "Nacional": {
+      "2015": 58.0
+    },
+    "1aFase": {
+      "2016": 454.0
+    }
+  },
+  "msasutomccclahpgmei": {
+    "FullName": "Matheus Pimenta",
+    "Nacional": {
+      "2015": 45.0
+    }
+  },
+  "obcivsesagaalrgmmni": {
+    "FullName": "Gabriel Naves",
+    "Nacional": {
+      "2015": 45.0
+    }
+  },
+  "oiaelaseremgmocolmtsijc": {
+    "FullName": "Jose Leite",
+    "Nacional": {
+      "2015": 45.0,
+      "2016": 16.0,
+      "2017": 16.0,
+      "2018": 4.0,
+      "2019": 4.0
+    },
+    "1aFase": {
+      "2016": 34.0,
+      "2017": 27.0,
+      "2018": 10.0,
+      "2019": 7.0
+    }
+  },
+  "ieoimcclevniohsogmla": {
+    "FullName": "Vinícius De Sousa Coelho",
+    "Nacional": {
+      "2015": 20.0
+    }
+  },
+  "iortacvcsimelamnogoa": {
+    "FullName": "Sávio Vinícius Albieri Barone Cantero",
+    "Nacional": {
+      "2015": 38.0
+    }
+  },
+  "mltaolniaoctwiaimsmlh": {
+    "FullName": "Willians Primo",
+    "Nacional": {
+      "2015": 38.0
+    },
+    "1aFase": {
+      "2016": 150.0
+    }
+  },
+  "oagcoiarimlisllofntdam": {
+    "FullName": "Danilo Fistarol",
+    "Nacional": {
+      "2015": 38.0
+    }
+  },
+  "aiscoumhhayhtmgovtloiaas": {
+    "FullName": "Gustavo Hayashi Do Nascimento",
+    "Nacional": {
+      "2015": 61.0
+    }
+  },
+  "htriiocrlaooompmramo": {
+    "FullName": "Romário Oliveira",
+    "Nacional": {
+      "2015": 56.0,
+      "2017": 45.0
+    },
+    "1aFase": {
+      "2016": 159.0,
+      "2017": 93.0,
+      "2018": 91.0
+    }
+  },
+  "mnmeaoajrodgloioahtclesnn": {
+    "FullName": "Janderson Angelo De Lima",
+    "Nacional": {
+      "2015": 56.0
+    }
+  },
+  "omra5lfloi9mmcdegaail": {
+    "FullName": "Alfredo Lima",
+    "Nacional": {
+      "2015": 56.0
+    },
+    "1aFase": {
+      "2016": 159.0,
+      "2017": 187.0,
+      "2018": 239.0
+    }
+  },
+  "msteeocibgeomlmia": {
+    "FullName": "Roberto Caldeira",
+    "Nacional": {
+      "2015": 4.0,
+      "2016": 3.0
+    },
+    "1aFase": {
+      "2016": 2.0
+    }
+  },
+  "aalorhldgmamyaomcio": {
+    "FullName": "Haroldo Maya",
+    "Nacional": {
+      "2015": 36.0
+    }
+  },
+  "dacmagreergnlmanio": {
+    "FullName": "Antônio Nilo De Araújo Neto",
+    "Nacional": {
+      "2015": 36.0
+    }
+  },
+  "m8acojm0dmg2o0ilv": {
+    "FullName": "João Vitor Martins De Oliveira",
+    "Nacional": {
+      "2015": 23.0,
+      "2016": 25.0,
+      "2017": 20.0
+    },
+    "1aFase": {
+      "2016": 48.0,
+      "2017": 30.0
+    }
+  },
+  "oasgrmosla1im9cg3nl9si": {
+    "FullName": "Alisson Rodrigo Gomes Soares",
+    "Nacional": {
+      "2015": 23.0,
+      "2016": 25.0
+    },
+    "1aFase": {
+      "2016": 48.0
+    }
+  },
+  "tmgmetolhlaeaasgirci": {
+    "FullName": "Thiago Estrela Montenegro",
+    "Nacional": {
+      "2015": 36.0
+    },
+    "1aFase": {
+      "2017": 25.0
+    }
+  },
+  "6or8chmdman1oltiaoco1": {
+    "FullName": "Conrado Grassi Da Costa Junior",
+    "Nacional": {
+      "2015": 32.0
+    }
+  },
+  "aycrhyddsobaonaormc": {
+    "FullName": "Dayran Costa Santos",
+    "Nacional": {
+      "2015": 32.0
+    }
+  },
+  "jlgcdiommjsjaaoomn": {
+    "FullName": "Jadson José Monteiro Oliveira",
+    "Nacional": {
+      "2015": 32.0
+    }
+  },
+  "cbrcnicemtomernofgaunduricae": {
+    "FullName": "Marianne Linhares Monteiro",
+    "Nacional": {
+      "2015": 25.0
+    },
+    "1aFase": {
+      "2016": 47.0,
+      "2017": 46.0
+    }
+  },
+  "cpoidmremalooclmralg": {
+    "FullName": "Marcello Oliveira",
+    "Nacional": {
+      "2015": 40.0,
+      "2017": 53.0
+    },
+    "1aFase": {
+      "2016": 77.0,
+      "2017": 58.0
+    }
+  },
+  "cvngrmns199aoaiilael5modossje": {
+    "FullName": "José Anderson Silva Dos Santos",
+    "Nacional": {
+      "2015": 37.0
+    },
+    "1aFase": {
+      "2016": 171.0,
+      "2017": 105.0
+    }
+  },
+  "gsnoeeelelrwaiscstyoe": {
+    "FullName": "Weslley Santos",
+    "Nacional": {
+      "2015": 37.0,
+      "2017": 55.0,
+      "2018": 29.0
+    },
+    "1aFase": {
+      "2017": 62.0,
+      "2018": 45.0
+    }
+  },
+  "pcsleaimautlolmmpg": {
+    "FullName": "Mateus Lustosa",
+    "Nacional": {
+      "2015": 40.0,
+      "2017": 53.0
+    },
+    "1aFase": {
+      "2016": 77.0,
+      "2017": 58.0
+    }
+  },
+  "polspiluaaitlfeiogmeocafme": {
+    "FullName": "Paulo Silva",
+    "Nacional": {
+      "2015": 37.0
+    }
+  },
+  "roiedciumcdgcraacclfvbuet": {
+    "FullName": "Victor Andrade De Almeida",
+    "Nacional": {
+      "2015": 25.0,
+      "2016": 6.0
+    },
+    "1aFase": {
+      "2016": 4.0,
+      "2017": 20.0,
+      "2018": 33.0
+    }
+  },
+  "tnsjammoeaoinrgmtilc": {
+    "FullName": "João Martins De Oliveira Neto",
+    "Nacional": {
+      "2015": 40.0
+    }
+  },
+  "arimupcfbsnre": {
+    "FullName": "Marlon Santos",
+    "Nacional": {
+      "2015": 6.0
+    }
+  },
+  "frutcibnevpcb": {
+    "FullName": "Vítor Castelo Branco",
+    "Nacional": {
+      "2015": 6.0,
+      "2016": 4.0,
+      "2017": 15.0
+    },
+    "1aFase": {
+      "2016": 3.0,
+      "2017": 7.0
+    }
+  },
+  "ijsblnpfrurec": {
+    "FullName": "José Rene Santos Leite",
+    "Nacional": {
+      "2015": 6.0
+    }
+  },
+  "ismahomobelmgaorcoatr": {
+    "FullName": "Amaro Junior",
+    "Nacional": {
+      "2015": 35.0
+    }
+  },
+  "0c0ogji0clgmm9ca": {
+    "FullName": "João Guilherme Costa",
+    "Nacional": {
+      "2015": 19.0
+    }
+  },
+  "idnocismzmasrogl": {
+    "FullName": "Roniel Sousa",
+    "Nacional": {
+      "2015": 19.0
+    }
+  },
+  "arangafagcmilmasoza": {
+    "FullName": "Hugo Cabral",
+    "Nacional": {
+      "2015": 10.0,
+      "2016": 17.0
+    },
+    "1aFase": {
+      "2016": 15.0,
+      "2017": 36.0
+    }
+  },
+  "ipedmfthloaaagemseamaaclucgii": {
+    "FullName": "Felipe Tadeu Maia Chagas",
+    "Nacional": {
+      "2015": 42.0
+    }
+  },
+  "lcoojmahuhasmimaerttmroia": {
+    "FullName": "Thamires Lucena",
+    "Nacional": {
+      "2015": 42.0
+    }
+  },
+  "lovagilnaccgaommai": {
+    "FullName": "Giovana Lorena Costa De Andrade",
+    "Nacional": {
+      "2015": 42.0
+    },
+    "1aFase": {
+      "2016": 518.0
+    }
+  },
+  "omlolrifiehmohedgtbaluaic": {
+    "FullName": "Hélio Filho",
+    "Nacional": {
+      "2015": 10.0,
+      "2016": 7.0,
+      "2017": 6.0
+    },
+    "1aFase": {
+      "2016": 8.0,
+      "2017": 10.0
+    }
+  },
+  "ihvlrmaataffumousirglco": {
+    "FullName": "Flávio Arthur Oliveira Santos",
+    "Nacional": {
+      "2015": 29.0,
+      "2016": 53.0
+    },
+    "1aFase": {
+      "2016": 127.0
+    }
+  },
+  "omiigsmglblcmlaaa": {
+    "FullName": "Galileu Santos De Jesus",
+    "Nacional": {
+      "2015": 29.0
+    }
+  },
+  "aoimcoarrsorelodmogmcatsig": {
+    "FullName": "Rodrigo Moraes",
+    "Nacional": {
+      "2015": 49.0
+    }
+  },
+  "eadomcfnpbmimuudr": {
+    "FullName": "Nadny Maciel Dantas",
+    "Nacional": {
+      "2015": 53.0
+    }
+  },
+  "iubcmpuofmaevardvc": {
+    "FullName": "Ana Vitoria Vitoriano Cordeiro",
+    "Nacional": {
+      "2015": 53.0
+    }
+  },
+  "micitakleornmreioagmcons": {
+    "FullName": "Erick Monteiro",
+    "Nacional": {
+      "2015": 49.0,
+      "2017": 33.0,
+      "2018": 18.0
+    },
+    "1aFase": {
+      "2016": 118.0,
+      "2017": 42.0,
+      "2018": 18.0
+    }
+  },
+  "oreimmpdfcvuspabau": {
+    "FullName": "Victoria Patricia Silva Aires",
+    "Nacional": {
+      "2015": 53.0
+    }
+  },
+  "ocggamaneii4ovlml9f": {
+    "FullName": "Flavio Mendes",
+    "Nacional": {
+      "2015": 59.0
+    },
+    "1aFase": {
+      "2016": 177.0
+    }
+  },
+  "rrcarecaositmlalgoromj": {
+    "FullName": "Carlos Serrato",
+    "Nacional": {
+      "2015": 59.0,
+      "2017": 46.0
+    },
+    "1aFase": {
+      "2016": 177.0,
+      "2017": 115.0
+    }
+  },
+  "zcrcamulesriercoailmoquaog": {
+    "FullName": "Lucas Correa",
+    "Nacional": {
+      "2015": 59.0,
+      "2017": 46.0
+    },
+    "1aFase": {
+      "2017": 115.0
+    }
+  },
+  "urtfsepzfeaahrouaedmreiutdbrre": {
+    "FullName": "Matheus Pedroza Ferreira",
+    "Nacional": {
+      "2015": 47.0,
+      "2016": 31.0
+    },
+    "1aFase": {
+      "2016": 73.0
+    }
+  },
+  "viaisnimice7giumcsraol": {
+    "FullName": "Vinícius Aires Barros",
+    "Nacional": {
+      "2015": 47.0
+    }
+  },
+  "ymhnlotoegmdluaasoichet": {
+    "FullName": "Thaylon Guedes Santos",
+    "Nacional": {
+      "2015": 47.0
+    }
+  },
+  "imnufsgdeoaiecslm": {
+    "FullName": "Denis Bittencourt",
+    "Nacional": {
+      "2015": 52.0
+    }
+  },
+  "izeilmoaiolsamcaglassmsuv": {
+    "FullName": "Melissa Souza",
+    "Nacional": {
+      "2015": 52.0
+    }
+  },
+  "mooenermsiatnomncnr": {
+    "FullName": "Renan Monteiro",
+    "Nacional": {
+      "2015": 52.0
+    }
+  },
+  "eevlinltcaoybrsmagaena": {
+    "FullName": "Maycon Alves",
+    "Nacional": {
+      "2015": 39.0,
+      "2016": 21.0,
+      "2017": 22.0,
+      "2018": 15.0,
+      "2019": 19.0
+    },
+    "1aFase": {
+      "2016": 17.0,
+      "2017": 23.0,
+      "2018": 14.0,
+      "2019": 51.0
+    }
+  },
+  "ernoogrrcilebiaeibniutlta": {
+    "FullName": "Luciano Do Vale Ribeiro",
+    "Nacional": {
+      "2015": 39.0,
+      "2016": 21.0
+    },
+    "1aFase": {
+      "2016": 17.0
+    }
+  },
+  "i7huohoalmctp2maeshmt": {
+    "FullName": "Matheus Phillipe Velozo Amaral",
+    "Nacional": {
+      "2015": 17.0,
+      "2016": 13.0
+    },
+    "1aFase": {
+      "2016": 50.0
+    }
+  },
+  "imeoutsmgtvriloaalhoci": {
+    "FullName": "Gustavo Silveira",
+    "Nacional": {
+      "2015": 27.0
+    },
+    "1aFase": {
+      "2016": 57.0,
+      "2018": 61.0
+    }
+  },
+  "ipoidglmeetlbmcanmo": {
+    "FullName": "Marcelo Pinheiro Leite Benedito",
+    "Nacional": {
+      "2015": 17.0
+    }
+  },
+  "laredranictbequeemnghii": {
+    "FullName": "Dâmi Henrique Pelegrino",
+    "Nacional": {
+      "2015": 39.0
+    }
+  },
+  "nsldmrecaayawogmios": {
+    "FullName": "Wadson Pereira",
+    "Nacional": {
+      "2015": 50.0,
+      "2017": 71.0
+    },
+    "1aFase": {
+      "2016": 88.0,
+      "2017": 132.0,
+      "2018": 214.0
+    }
+  },
+  "oiilomomagnhulatdohc": {
+    "FullName": "Hugo Alkimim",
+    "Nacional": {
+      "2015": 50.0,
+      "2017": 71.0
+    },
+    "1aFase": {
+      "2016": 88.0,
+      "2017": 132.0,
+      "2018": 214.0
+    }
+  },
+  "rmooalcumoaesgclvrsicm": {
+    "FullName": "Marcos Valério De Carvalho Loures",
+    "Nacional": {
+      "2015": 17.0,
+      "2016": 13.0,
+      "2017": 30.0
+    },
+    "1aFase": {
+      "2016": 50.0,
+      "2017": 73.0
+    }
+  },
+  "fugdgroeiielfecraamrm": {
+    "FullName": "Eduardo Ferreira",
+    "Nacional": {
+      "2015": 12.0
+    }
+  },
+  "imncaahmmcoolit": {
+    "FullName": "Ian Miranda",
+    "Nacional": {
+      "2015": 12.0,
+      "2016": 8.0,
+      "2017": 8.0
+    },
+    "1aFase": {
+      "2016": 28.0,
+      "2017": 15.0
+    }
+  },
+  "momjldeauralmrnzcicgi": {
+    "FullName": "André Luiz De Mesquita Melo",
+    "Nacional": {
+      "2015": 22.0
+    }
+  },
+  "tromamoybgoocnaahroci": {
+    "FullName": "Tiago Montalvão",
+    "Nacional": {
+      "2015": 12.0,
+      "2016": 8.0,
+      "2017": 8.0,
+      "2018": 17.0
+    },
+    "1aFase": {
+      "2016": 28.0,
+      "2017": 15.0,
+      "2018": 27.0
+    }
+  },
+  "uczemliamagoendroma": {
+    "FullName": "Naum Azeredo Fernandes Barreira",
+    "Nacional": {
+      "2015": 22.0,
+      "2016": 10.0,
+      "2017": 9.0
+    },
+    "1aFase": {
+      "2016": 5.0,
+      "2017": 8.0
+    }
+  },
+  "uoookohslotamtcocout": {
+    "FullName": "Athos Couto",
+    "Nacional": {
+      "2015": 22.0,
+      "2017": 9.0
+    },
+    "1aFase": {
+      "2017": 8.0
+    }
+  },
+  "2boal9aminadvgaaclntimee": {
+    "FullName": "Daniel Vatanabe Pazinato",
+    "Nacional": {
+      "2015": 30.0
+    }
+  },
+  "7mlvde1aacrmniog2": {
+    "FullName": "Andre Vaillant",
+    "Nacional": {
+      "2015": 16.0,
+      "2016": 30.0,
+      "2017": 52.0
+    },
+    "1aFase": {
+      "2016": 38.0,
+      "2017": 142.0,
+      "2018": 329.0
+    }
+  },
+  "aomugciayomntclo": {
+    "FullName": "Yan Couto",
+    "Nacional": {
+      "2015": 5.0,
+      "2017": 1.0
+    },
+    "1aFase": {
+      "2017": 1.0
+    }
+  },
+  "c1cvatmausinmlabgtmome": {
+    "FullName": "Marcos Vinicius Costa Bustamante",
+    "Nacional": {
+      "2015": 46.0
+    },
+    "1aFase": {
+      "2016": 124.0
+    }
+  },
+  "citamomlmesipsuadg": {
+    "FullName": "Mateus Oliveira",
+    "Nacional": {
+      "2015": 9.0
+    }
+  },
+  "ckdvzusoomylouooaat": {
+    "FullName": "Davy Souza",
+    "Nacional": {
+      "2015": 21.0,
+      "2016": 23.0
+    },
+    "1aFase": {
+      "2016": 30.0
+    }
+  },
+  "ctaccaajlmstcosmomisoorh": {
+    "FullName": "Marcos Costa Pinto",
+    "Nacional": {
+      "2015": 46.0
+    }
+  },
+  "dlmnggmnavofoeioilcaai": {
+    "FullName": "Giovana Delfino",
+    "Nacional": {
+      "2015": 5.0
+    }
+  },
+  "eiirl0rho5mhaooecmacrta": {
+    "FullName": "Caio Herrera",
+    "Nacional": {
+      "2015": 31.0,
+      "2016": 27.0,
+      "2017": 37.0,
+      "2018": 35.0
+    },
+    "1aFase": {
+      "2016": 56.0,
+      "2017": 41.0,
+      "2018": 40.0
+    }
+  },
+  "eoespcbnutdhladsrii": {
+    "FullName": "Danilo Tedeschi",
+    "Nacional": {
+      "2015": 3.0
+    }
+  },
+  "gatcoumrnsaaogomissaolgtmun": {
+    "FullName": "Augusto Dos Santos Morgan",
+    "Nacional": {
+      "2015": 7.0
+    }
+  },
+  "gbmagoelfacomil": {
+    "FullName": "Gabriel Fernandes",
+    "Nacional": {
+      "2015": 5.0,
+      "2017": 4.0,
+      "2018": 8.0
+    },
+    "1aFase": {
+      "2017": 17.0,
+      "2018": 7.0,
+      "2020": 15.0
+    }
+  },
+  "itciarsumoscmohailo": {
+    "FullName": "Caio César Russi",
+    "Nacional": {
+      "2015": 34.0
+    }
+  },
+  "iugifohlosreercgammcidr": {
+    "FullName": "Erich Rodrigues Ferrares",
+    "Nacional": {
+      "2015": 46.0
+    }
+  },
+  "lmmeocmigasiotskahmealup": {
+    "FullName": "Matheus Mostiack Pomaleski",
+    "Nacional": {
+      "2015": 30.0
+    },
+    "1aFase": {
+      "2016": 29.0
+    }
+  },
+  "mareoamhmicraosptgallf": {
+    "FullName": "Tomás Raphael Rizzo Fonseca",
+    "Nacional": {
+      "2015": 3.0
+    },
+    "1aFase": {
+      "2016": 25.0
+    }
+  },
+  "mcaliomasopstfngli": {
+    "FullName": "Felipe Garcia Dos Santos",
+    "Nacional": {
+      "2015": 34.0
+    },
+    "1aFase": {
+      "2016": 176.0
+    }
+  },
+  "mearaiiboriahogmcglllc": {
+    "FullName": "Gabriel Magalhaes",
+    "Nacional": {
+      "2015": 14.0
+    },
+    "1aFase": {
+      "2016": 42.0
+    }
+  },
+  "miocroobitmcgcmovallo": {
+    "FullName": "Victor Colombo",
+    "Nacional": {
+      "2015": 15.0,
+      "2016": 11.0,
+      "2018": 7.0
+    },
+    "1aFase": {
+      "2016": 7.0,
+      "2018": 3.0
+    }
+  },
+  "mjlocmeriigalsnsfoqe": {
+    "FullName": "Jeferson Lesbão De Siqueira",
+    "Nacional": {
+      "2015": 16.0,
+      "2016": 30.0
+    },
+    "1aFase": {
+      "2016": 38.0
+    }
+  },
+  "mmaauslctioasrvaohkk": {
+    "FullName": "Lucas Rocha",
+    "Nacional": {
+      "2015": 21.0,
+      "2016": 23.0
+    },
+    "1aFase": {
+      "2016": 30.0
+    }
+  },
+  "mmiaoodaalmclsriganhac": {
+    "FullName": "Caio Kinelski",
+    "Nacional": {
+      "2015": 14.0
+    },
+    "1aFase": {
+      "2016": 42.0
+    }
+  },
+  "oamlgplziidmouacglo": {
+    "FullName": "Douglas Santos",
+    "Nacional": {
+      "2015": 21.0,
+      "2016": 23.0
+    },
+    "1aFase": {
+      "2016": 30.0
+    }
+  },
+  "ohistaonclolaeommci": {
+    "FullName": "Nicolas Masanori Shimizu Oe",
+    "Nacional": {
+      "2015": 31.0
+    },
+    "1aFase": {
+      "2016": 25.0
+    }
+  },
+  "oialmcprmaotfialgec": {
+    "FullName": "Antonio Carlos Falcao Petri",
+    "Nacional": {
+      "2015": 31.0,
+      "2016": 27.0,
+      "2017": 37.0,
+      "2018": 35.0
+    },
+    "1aFase": {
+      "2016": 56.0,
+      "2017": 41.0,
+      "2018": 40.0
+    }
+  },
+  "riiogam1muacm3augildn": {
+    "FullName": "Guilherme Henrique Santos Miranda",
+    "Nacional": {
+      "2015": 34.0
+    },
+    "1aFase": {
+      "2016": 176.0
+    }
+  },
+  "tglcae1moamhioa1suelm": {
+    "FullName": "Matheus Leão",
+    "Nacional": {
+      "2015": 14.0,
+      "2017": 10.0,
+      "2018": 6.0
+    },
+    "1aFase": {
+      "2016": 42.0,
+      "2017": 5.0,
+      "2018": 4.0
+    }
+  },
+  "u9aitmct5eaameoaihldsgm": {
+    "FullName": "Matheus De Souza Ataide",
+    "Nacional": {
+      "2015": 30.0,
+      "2016": 2.0,
+      "2017": 21.0
+    },
+    "1aFase": {
+      "2016": 16.0,
+      "2017": 22.0,
+      "2018": 21.0
+    }
+  },
+  "9lthaiurl9mlcoi7mo6mo": {
+    "FullName": "Murillo Douglas Oliveira Machado",
+    "Nacional": {
+      "2015": 18.0,
+      "2016": 20.0,
+      "2017": 11.0
+    },
+    "1aFase": {
+      "2016": 31.0,
+      "2017": 6.0
+    }
+  },
+  "btccaoprmoavmohiilt": {
+    "FullName": "Victor Barros",
+    "Nacional": {
+      "2015": 26.0
+    }
+  },
+  "giacmllaosognvcodmadmihgcaooe": {
+    "FullName": "Diogo Gonçalves",
+    "Nacional": {
+      "2015": 26.0
+    }
+  },
+  "ihacairtmiosconolabihnlmht": {
+    "FullName": "Cristhian Bonilha",
+    "Nacional": {
+      "2015": 26.0,
+      "2016": 26.0,
+      "2017": 31.0
+    },
+    "1aFase": {
+      "2016": 37.0,
+      "2017": 61.0
+    }
+  },
+  "acotesttmualoamrszomn": {
+    "FullName": "Mateus Lazarotto",
+    "Nacional": {
+      "2015": 24.0,
+      "2016": 18.0
+    },
+    "1aFase": {
+      "2016": 13.0
+    }
+  },
+  "lccghaagxllmiieomse": {
+    "FullName": "Alex Zoch Gliesch",
+    "Nacional": {
+      "2015": 43.0
+    }
+  },
+  "lg4ca3srcauomm2mi": {
+    "FullName": "Marcus Vinícius Da Silva",
+    "Nacional": {
+      "2015": 43.0
+    }
+  },
+  "maniormaiicesettmgtala": {
+    "FullName": "Tatiana Costa Meister",
+    "Nacional": {
+      "2015": 43.0
+    }
+  },
+  "ratcoolknmlifoahdoalem": {
+    "FullName": "Leonardo Falk",
+    "Nacional": {
+      "2015": 24.0
+    },
+    "1aFase": {
+      "2016": 621.0
+    }
+  },
+  "rbcaaiholntglmleom": {
+    "FullName": "Leonardo Blanger",
+    "Nacional": {
+      "2015": 24.0,
+      "2016": 18.0,
+      "2017": 23.0
+    },
+    "1aFase": {
+      "2016": 13.0,
+      "2017": 16.0
+    }
+  },
+  "aoolusmctuoopkcl": {
+    "FullName": "Lucas Preischadt Pinheiro",
+    "Nacional": {
+      "2015": 28.0
+    }
+  },
+  "cbomaglisknlsssaredaeeomi": {
+    "FullName": "Alessandro Biessek",
+    "Nacional": {
+      "2015": 48.0
+    }
+  },
+  "cnataegitogrolmam": {
+    "FullName": "Gean Rotta",
+    "Nacional": {
+      "2015": 48.0
+    },
+    "1aFase": {
+      "2016": 205.0,
+      "2017": 235.0
+    }
+  },
+  "crzaiimzgeolmsooaml": {
+    "FullName": "Alesom Zorzi",
+    "Nacional": {
+      "2015": 33.0,
+      "2016": 42.0
+    },
+    "1aFase": {
+      "2016": 27.0,
+      "2017": 48.0
+    }
+  },
+  "emihmioalecfltpieoz": {
+    "FullName": "Felipe André Zeiser",
+    "Nacional": {
+      "2015": 48.0
+    },
+    "1aFase": {
+      "2016": 205.0,
+      "2017": 235.0,
+      "2018": 150.0
+    }
+  },
+  "gbnicimielnraaamglado": {
+    "FullName": "Gabriela Medeiros Mendes Nandi",
+    "Nacional": {
+      "2015": 28.0
+    }
+  },
+  "hdglklcammyamtoiaoec": {
+    "FullName": "Kétly Machado",
+    "Nacional": {
+      "2015": 33.0,
+      "2016": 42.0
+    },
+    "1aFase": {
+      "2016": 27.0
+    }
+  },
+  "llfmricogacczhuaremsomio": {
+    "FullName": "Marcos Creuz Filho",
+    "Nacional": {
+      "2015": 28.0
+    }
+  },
   "0m0glmo7iuiocbfac": {
     "FullName": "João Victor Santos Botelho",
     "1aFase": {
@@ -228,21 +6343,6 @@ CONTESTANTS = {
       "2017": 16.0
     }
   },
-  "oiaelaseremgmocolmtsijc": {
-    "FullName": "José Leite",
-    "1aFase": {
-      "2016": 34.0,
-      "2017": 27.0,
-      "2018": 10.0,
-      "2019": 7.0
-    },
-    "Nacional": {
-      "2016": 16.0,
-      "2017": 16.0,
-      "2018": 4.0,
-      "2019": 4.0
-    }
-  },
   "ommimisamicslgaiios": {
     "FullName": "Simião Carvalho",
     "1aFase": {
@@ -439,19 +6539,6 @@ CONTESTANTS = {
       "2016": 455.0
     }
   },
-  "eeoaflalivimsrscas": {
-    "FullName": "Rafael De Assis Cruz",
-    "1aFase": {
-      "2016": 35.0,
-      "2017": 32.0,
-      "2018": 6.0
-    },
-    "Nacional": {
-      "2016": 9.0,
-      "2017": 12.0,
-      "2018": 11.0
-    }
-  },
   "ghloiohholairmmtcg": {
     "FullName": "Higor Herinque Lopes Guimarães",
     "1aFase": {
@@ -629,15 +6716,6 @@ CONTESTANTS = {
     "1aFase": {
       "2016": 52.0,
       "2017": 80.0
-    }
-  },
-  "ommomartcllo12ipighu": {
-    "FullName": "Murilo Gonçalves Pereira",
-    "1aFase": {
-      "2016": 35.0
-    },
-    "Nacional": {
-      "2016": 9.0
     }
   },
   "omott4c3ii3ghmaoal": {
@@ -890,18 +6968,6 @@ CONTESTANTS = {
       "2017": 411.0
     }
   },
-  "mjrocmepiegalrotatsn": {
-    "FullName": "Jean Torres",
-    "1aFase": {
-      "2016": 133.0
-    }
-  },
-  "mltaolniaoctwiaimsmlh": {
-    "FullName": "Willians Primo",
-    "1aFase": {
-      "2016": 150.0
-    }
-  },
   "mmsagmohlciihgar": {
     "FullName": "Ting Ju Shih",
     "1aFase": {
@@ -955,15 +7021,6 @@ CONTESTANTS = {
     "FullName": "Everson Antonio Da Silva",
     "1aFase": {
       "2016": 151.0
-    }
-  },
-  "rgaclrdsoomomadii": {
-    "FullName": "Rodrigo Albuquerque De Oliveira Siqueira",
-    "1aFase": {
-      "2016": 93.0
-    },
-    "Nacional": {
-      "2016": 35.0
     }
   },
   "taoslm0ciudcof1haml": {
@@ -1277,12 +7334,6 @@ CONTESTANTS = {
       "2017": 372.0
     }
   },
-  "ciplmcfhmooljoaegil": {
-    "FullName": "Joel Pinto De Carvalho Filho",
-    "1aFase": {
-      "2016": 61.0
-    }
-  },
   "dgloc0acm6mai5": {
     "FullName": "Daniel Coelho De Andrade",
     "1aFase": {
@@ -1337,13 +7388,6 @@ CONTESTANTS = {
       "2016": 585.0
     }
   },
-  "loampcoelciolemglmo": {
-    "FullName": "Leonardo Prado",
-    "1aFase": {
-      "2016": 136.0,
-      "2017": 193.0
-    }
-  },
   "mrotmiodcaiolhenaroadcll": {
     "FullName": "Ronildo Barbosa",
     "1aFase": {
@@ -1360,12 +7404,6 @@ CONTESTANTS = {
     "FullName": "Allisson Gomes",
     "1aFase": {
       "2016": 466.0
-    }
-  },
-  "zathoqcmoceimulraiaec": {
-    "FullName": "Caíque Mariano",
-    "1aFase": {
-      "2016": 136.0
     }
   },
   "13gcmgoau2eclmactims": {
@@ -1578,15 +7616,6 @@ CONTESTANTS = {
       "2017": 348.0
     }
   },
-  "msteeocibgeomlmia": {
-    "FullName": "Roberto Caldeira",
-    "1aFase": {
-      "2016": 2.0
-    },
-    "Nacional": {
-      "2016": 3.0
-    }
-  },
   "nmdoengtemcoioaml": {
     "FullName": "Domingos Ferreira Viana Neto",
     "1aFase": {
@@ -1620,15 +7649,6 @@ CONTESTANTS = {
     },
     "Nacional": {
       "2017": 29.0
-    }
-  },
-  "rivdbgehlclmmeeuo": {
-    "FullName": "Guilherme Bernal",
-    "1aFase": {
-      "2016": 2.0
-    },
-    "Nacional": {
-      "2016": 3.0
     }
   },
   "rojpmmahmaosiaglaaic": {
@@ -1683,15 +7703,6 @@ CONTESTANTS = {
     "1aFase": {
       "2016": 618.0,
       "2017": 703.0
-    }
-  },
-  "tjconcnpamcjgahioallqicm": {
-    "FullName": "Jonathan Queiroz",
-    "1aFase": {
-      "2016": 2.0
-    },
-    "Nacional": {
-      "2016": 3.0
     }
   },
   "tlmecptnogimaocno": {
@@ -2406,17 +8417,6 @@ CONTESTANTS = {
       "2016": 504.0
     }
   },
-  "m8acojm0dmg2o0ilv": {
-    "FullName": "João Vitor Martins De Oliveira",
-    "1aFase": {
-      "2016": 48.0,
-      "2017": 30.0
-    },
-    "Nacional": {
-      "2016": 25.0,
-      "2017": 20.0
-    }
-  },
   "mailgromm37ccgio5ali": {
     "FullName": "Gilmaicor Leandro Oliveira",
     "1aFase": {
@@ -2459,15 +8459,6 @@ CONTESTANTS = {
     "1aFase": {
       "2016": 107.0,
       "2017": 109.0
-    }
-  },
-  "oasgrmosla1im9cg3nl9si": {
-    "FullName": "Alisson Rodrigo Gomes Soares",
-    "1aFase": {
-      "2016": 48.0
-    },
-    "Nacional": {
-      "2016": 25.0
     }
   },
   "ocgiiealaeoccmnccmuls": {
@@ -2908,13 +8899,6 @@ CONTESTANTS = {
       "2016": 656.0
     }
   },
-  "cbrcnicemtomernofgaunduricae": {
-    "FullName": "Marianne Linhares Monteiro",
-    "1aFase": {
-      "2016": 47.0,
-      "2017": 46.0
-    }
-  },
   "ccrvaoeaagsuildrcmelmao": {
     "FullName": "Lucas Arcoverde Do Nascimento",
     "1aFase": {
@@ -2926,21 +8910,6 @@ CONTESTANTS = {
     "FullName": "Josimar Alves De Almeida Junior",
     "1aFase": {
       "2016": 347.0
-    }
-  },
-  "cg3odmaliotugm": {
-    "FullName": "Rodrigo Pinto",
-    "1aFase": {
-      "2016": 47.0
-    }
-  },
-  "cidsmllomgmao8at": {
-    "FullName": "Lucas De Matos Figueredo",
-    "1aFase": {
-      "2016": 4.0
-    },
-    "Nacional": {
-      "2016": 6.0
     }
   },
   "clfiucrnceabp": {
@@ -2982,16 +8951,6 @@ CONTESTANTS = {
       "2016": 22.0
     }
   },
-  "cpoidmremalooclmralg": {
-    "FullName": "Marcello Oliveira",
-    "1aFase": {
-      "2016": 77.0,
-      "2017": 58.0
-    },
-    "Nacional": {
-      "2017": 53.0
-    }
-  },
   "crhmbiiovaoemiafeercalt": {
     "FullName": "Rebeca Vieira De Figueiredo",
     "1aFase": {
@@ -3004,13 +8963,6 @@ CONTESTANTS = {
       "2016": 183.0
     }
   },
-  "cvngrmns199aoaiilael5modossje": {
-    "FullName": "José Anderson Silva Dos Santos",
-    "1aFase": {
-      "2016": 171.0,
-      "2017": 105.0
-    }
-  },
   "dorserbjcecebupif": {
     "FullName": "José Eric Francisco Da Costa",
     "1aFase": {
@@ -3021,12 +8973,6 @@ CONTESTANTS = {
     "FullName": "Deyvison Oliveira",
     "1aFase": {
       "2016": 347.0
-    }
-  },
-  "dyfmenmorcsm": {
-    "FullName": "Rémy De Fru",
-    "1aFase": {
-      "2016": 47.0
     }
   },
   "eciunvprafbo": {
@@ -3049,17 +8995,6 @@ CONTESTANTS = {
     "FullName": "Fernando Silva",
     "1aFase": {
       "2016": 347.0
-    }
-  },
-  "frutcibnevpcb": {
-    "FullName": "Vítor Castelo Branco",
-    "1aFase": {
-      "2016": 3.0,
-      "2017": 7.0
-    },
-    "Nacional": {
-      "2016": 4.0,
-      "2017": 15.0
     }
   },
   "fsadfbafueiereeiprc": {
@@ -3137,15 +9072,6 @@ CONTESTANTS = {
       "2017": 15.0
     }
   },
-  "idsurpfc2ncbme": {
-    "FullName": "Duhan Caraciolo",
-    "1aFase": {
-      "2016": 1.0
-    },
-    "Nacional": {
-      "2016": 1.0
-    }
-  },
   "ijio5lgoesmunmucml5ara": {
     "FullName": "Samuel Júnior",
     "1aFase": {
@@ -3197,15 +9123,6 @@ CONTESTANTS = {
     "Nacional": {
       "2017": 55.0,
       "2018": 29.0
-    }
-  },
-  "lbecapilurpfn": {
-    "FullName": "Lucas Almeida Pereira De Lima",
-    "1aFase": {
-      "2016": 1.0
-    },
-    "Nacional": {
-      "2016": 1.0
     }
   },
   "lcbuilnferppg": {
@@ -3350,25 +9267,6 @@ CONTESTANTS = {
       "2017": 296.0
     }
   },
-  "otrilumin0i5mhoamoa2hc2eeqr": {
-    "FullName": "Mário Henrique Da Silva",
-    "1aFase": {
-      "2016": 1.0
-    },
-    "Nacional": {
-      "2016": 1.0
-    }
-  },
-  "pcsleaimautlolmmpg": {
-    "FullName": "Mateus Lustosa",
-    "1aFase": {
-      "2016": 77.0,
-      "2017": 58.0
-    },
-    "Nacional": {
-      "2017": 53.0
-    }
-  },
   "puprenlnrbifc": {
     "FullName": "Nicola Pedulla",
     "1aFase": {
@@ -3419,17 +9317,6 @@ CONTESTANTS = {
       "2016": 195.0
     }
   },
-  "roiedciumcdgcraacclfvbuet": {
-    "FullName": "Victor Andrade De Almeida",
-    "1aFase": {
-      "2016": 4.0,
-      "2017": 20.0,
-      "2018": 33.0
-    },
-    "Nacional": {
-      "2016": 6.0
-    }
-  },
   "rreiemvooaoibrtmhilc": {
     "FullName": "Victor Ribeiro",
     "1aFase": {
@@ -3468,16 +9355,6 @@ CONTESTANTS = {
     },
     "Nacional": {
       "2016": 36.0
-    }
-  },
-  "tsiasmaaicymanvcloganlcor": {
-    "FullName": "Árysson Figueiredo",
-    "1aFase": {
-      "2016": 51.0,
-      "2017": 14.0
-    },
-    "Nacional": {
-      "2017": 5.0
     }
   },
   "ubspcfnzehnejynrbomdee": {
@@ -3539,15 +9416,6 @@ CONTESTANTS = {
     "FullName": "Kairo Costa",
     "1aFase": {
       "2016": 481.0
-    }
-  },
-  "9snoranedtcasoohmlml3i": {
-    "FullName": "Anderson Lima",
-    "1aFase": {
-      "2016": 103.0
-    },
-    "Nacional": {
-      "2016": 32.0
     }
   },
   "ac9rmidohom7tiohrlgomjj": {
@@ -3815,16 +9683,6 @@ CONTESTANTS = {
       "2016": 225.0
     }
   },
-  "arangafagcmilmasoza": {
-    "FullName": "Hugo Cabral",
-    "1aFase": {
-      "2016": 15.0,
-      "2017": 36.0
-    },
-    "Nacional": {
-      "2016": 17.0
-    }
-  },
   "boehuhmqrpedaonrrceogoiy": {
     "FullName": "Pedro Almeida",
     "1aFase": {
@@ -3904,12 +9762,6 @@ CONTESTANTS = {
     "FullName": "Ana Oliveira",
     "1aFase": {
       "2016": 332.0
-    }
-  },
-  "lovagilnaccgaommai": {
-    "FullName": "Giovana Lorena Costa De Andrade",
-    "1aFase": {
-      "2016": 518.0
     }
   },
   "ltarnlmlaitimaoecohhsto": {
@@ -4007,17 +9859,6 @@ CONTESTANTS = {
       "2016": 663.0
     }
   },
-  "omlolrifiehmohedgtbaluaic": {
-    "FullName": "Hélio Duarte",
-    "1aFase": {
-      "2016": 8.0,
-      "2017": 10.0
-    },
-    "Nacional": {
-      "2016": 7.0,
-      "2017": 6.0
-    }
-  },
   "orarriaerlmarogemfnaiiecund": {
     "FullName": "Adriano Ferreira Santos",
     "1aFase": {
@@ -4103,17 +9944,6 @@ CONTESTANTS = {
       "2016": 162.0
     }
   },
-  "htriiocrlaooompmramo": {
-    "FullName": "Romário Oliveira",
-    "1aFase": {
-      "2016": 159.0,
-      "2017": 93.0,
-      "2018": 91.0
-    },
-    "Nacional": {
-      "2017": 45.0
-    }
-  },
   "icacmrlagojsmhlo": {
     "FullName": "Julios Rocha",
     "1aFase": {
@@ -4124,15 +9954,6 @@ CONTESTANTS = {
     "FullName": "Adalberto Júnior",
     "1aFase": {
       "2016": 619.0
-    }
-  },
-  "ihvlrmaataffumousirglco": {
-    "FullName": "Flávio Arthur Oliveira Santos",
-    "1aFase": {
-      "2016": 127.0
-    },
-    "Nacional": {
-      "2016": 53.0
     }
   },
   "iimbaerfceluurqn": {
@@ -4295,14 +10116,6 @@ CONTESTANTS = {
     "FullName": "Francisco Chaves",
     "1aFase": {
       "2016": 670.0
-    }
-  },
-  "omra5lfloi9mmcdegaail": {
-    "FullName": "Alfredo Lima",
-    "1aFase": {
-      "2016": 159.0,
-      "2017": 187.0,
-      "2018": 239.0
     }
   },
   "oonamlmivjtcotrgroaacnuiidl": {
@@ -4705,16 +10518,6 @@ CONTESTANTS = {
       "2016": 280.0
     }
   },
-  "foceioismacfmfprlagnca": {
-    "FullName": "Francisco Elio Parente Arcos Filho",
-    "1aFase": {
-      "2016": 118.0,
-      "2017": 42.0
-    },
-    "Nacional": {
-      "2017": 33.0
-    }
-  },
   "ftmeole5euigcllipogia1m": {
     "FullName": "Felipe Nascimento",
     "1aFase": {
@@ -4861,24 +10664,6 @@ CONTESTANTS = {
       "2016": 129.0,
       "2018": 170.0,
       "2020": 126.0
-    }
-  },
-  "merfmuumadcsipofpb": {
-    "FullName": "Marcos Paulo Farias",
-    "1aFase": {
-      "2016": 106.0
-    }
-  },
-  "micitakleornmreioagmcons": {
-    "FullName": "Erick Monteiro",
-    "1aFase": {
-      "2016": 118.0,
-      "2017": 42.0,
-      "2018": 18.0
-    },
-    "Nacional": {
-      "2017": 33.0,
-      "2018": 18.0
     }
   },
   "mrptuumdceikbaofk": {
@@ -5146,12 +10931,6 @@ CONTESTANTS = {
       "2016": 470.0
     }
   },
-  "ocggamaneii4ovlml9f": {
-    "FullName": "Flavio Mendes",
-    "1aFase": {
-      "2016": 177.0
-    }
-  },
   "ol9iieamncbul619gm": {
     "FullName": "João Ferreira Filho",
     "1aFase": {
@@ -5181,16 +10960,6 @@ CONTESTANTS = {
     "FullName": "Mateus Rodrigues",
     "1aFase": {
       "2016": 241.0
-    }
-  },
-  "rrcarecaositmlalgoromj": {
-    "FullName": "Carlos Serrato",
-    "1aFase": {
-      "2016": 177.0,
-      "2017": 115.0
-    },
-    "Nacional": {
-      "2017": 46.0
     }
   },
   "tkloocoerodjusoomooeapmra": {
@@ -5236,12 +11005,6 @@ CONTESTANTS = {
     "FullName": "Valdeir Santos",
     "1aFase": {
       "2016": 353.0
-    }
-  },
-  "airmcvoirederoafunmnjsgln": {
-    "FullName": "Rivelino Lazaro Fernandes Farias Junior",
-    "1aFase": {
-      "2016": 350.0
     }
   },
   "fvlce1jrnimuootsfoigaamoeeh": {
@@ -5310,22 +11073,10 @@ CONTESTANTS = {
       "2016": 435.0
     }
   },
-  "noafmriaegajcvmlsoia": {
-    "FullName": "Jeovan Farias",
-    "1aFase": {
-      "2016": 350.0
-    }
-  },
   "oalicwtktlnrmolokossocou": {
     "FullName": "Wallison Coelho",
     "1aFase": {
       "2016": 599.0
-    }
-  },
-  "olm2218gieaomobrsgdraic": {
-    "FullName": "Diego Barros De Oliveira",
-    "1aFase": {
-      "2016": 350.0
     }
   },
   "oloagdrarmmeocgjtumaie": {
@@ -5483,15 +11234,6 @@ CONTESTANTS = {
       "2016": 488.0
     }
   },
-  "urtfsepzfeaahrouaedmreiutdbrre": {
-    "FullName": "Matheus Pedroza Ferreira",
-    "1aFase": {
-      "2016": 73.0
-    },
-    "Nacional": {
-      "2016": 31.0
-    }
-  },
   "2clom9smcgm0a5ig": {
     "FullName": "Gabriel Coelho",
     "1aFase": {
@@ -5549,15 +11291,6 @@ CONTESTANTS = {
     "FullName": "Diego Guimaraes",
     "1aFase": {
       "2016": 732.0
-    }
-  },
-  "eogpnrtbaiomlulmacah": {
-    "FullName": "Paulo Vasconcelos",
-    "1aFase": {
-      "2016": 114.0
-    },
-    "Nacional": {
-      "2016": 38.0
     }
   },
   "gcotstoooamuolsikuan": {
@@ -5670,15 +11403,6 @@ CONTESTANTS = {
     "1aFase": {
       "2016": 297.0,
       "2017": 156.0
-    }
-  },
-  "nrtyerravseiaosa": {
-    "FullName": "Ayer Souza",
-    "1aFase": {
-      "2016": 114.0
-    },
-    "Nacional": {
-      "2016": 38.0
     }
   },
   "oenlgmaecmlmoxnigardosi": {
@@ -5837,12 +11561,6 @@ CONTESTANTS = {
     },
     "Nacional": {
       "2018": 43.0
-    }
-  },
-  "amdooipecrlcmlaaogld": {
-    "FullName": "Pedro Callado Versiani De Souza Ferreira",
-    "1aFase": {
-      "2016": 63.0
     }
   },
   "aoljamlgscrimmuoo": {
@@ -6043,12 +11761,6 @@ CONTESTANTS = {
       "2016": 39.0
     }
   },
-  "mgaihliozmscsltu": {
-    "FullName": "Luiz Santos",
-    "1aFase": {
-      "2016": 40.0
-    }
-  },
   "mgianrigsnocclaabaetgerumlia": {
     "FullName": "Gabriel Garcia",
     "1aFase": {
@@ -6142,12 +11854,6 @@ CONTESTANTS = {
     "FullName": "Juliane Guedes Pascoal",
     "1aFase": {
       "2016": 290.0
-    }
-  },
-  "raeimcmcgoorbomnlsan": {
-    "FullName": "Marcos Alves De Almeida",
-    "1aFase": {
-      "2016": 63.0
     }
   },
   "rcdoipcnaugfbgam": {
@@ -6507,15 +12213,6 @@ CONTESTANTS = {
       "2016": 234.0
     }
   },
-  "i7huohoalmctp2maeshmt": {
-    "FullName": "Matheus Phillipe Velozo Amaral",
-    "1aFase": {
-      "2016": 50.0
-    },
-    "Nacional": {
-      "2016": 13.0
-    }
-  },
   "immaecfdemygonls": {
     "FullName": "Yan Ferreira",
     "1aFase": {
@@ -6610,17 +12307,6 @@ CONTESTANTS = {
       "2016": 419.0
     }
   },
-  "rmooalcumoaesgclvrsicm": {
-    "FullName": "Marcos Valério De Carvalho Loures",
-    "1aFase": {
-      "2016": 50.0,
-      "2017": 73.0
-    },
-    "Nacional": {
-      "2016": 13.0,
-      "2017": 30.0
-    }
-  },
   "suomchmieeqlgtcaasmrmuoa": {
     "FullName": "Matheus Marques",
     "1aFase": {
@@ -6662,18 +12348,6 @@ CONTESTANTS = {
     "FullName": "Alex Bruno Rodrigues Costa",
     "1aFase": {
       "2016": 444.0
-    }
-  },
-  "acllwgmucrosaimsc": {
-    "FullName": "Lucas Ribeiro",
-    "1aFase": {
-      "2016": 88.0
-    }
-  },
-  "alioulcvlaoontikocuoom": {
-    "FullName": "Luciano Henrique Silva Oliva",
-    "1aFase": {
-      "2016": 161.0
     }
   },
   "aomziioemhihtnelinpcmour": {
@@ -6739,12 +12413,6 @@ CONTESTANTS = {
       "2017": 71.0
     }
   },
-  "ilihocooenacmemdlg": {
-    "FullName": "Endi Silva",
-    "1aFase": {
-      "2016": 161.0
-    }
-  },
   "imcra01ticfog6oeep8vlmil": {
     "FullName": "Victor Felipe Dos Reis Oliveira",
     "1aFase": {
@@ -6806,32 +12474,10 @@ CONTESTANTS = {
       "2017": 201.0
     }
   },
-  "nsldmrecaayawogmios": {
-    "FullName": "Wadson Pereira",
-    "1aFase": {
-      "2016": 88.0,
-      "2017": 132.0,
-      "2018": 214.0
-    },
-    "Nacional": {
-      "2017": 71.0
-    }
-  },
   "ogniermwcaloeamshm": {
     "FullName": "Emerson Pereira Oliveira",
     "1aFase": {
       "2016": 523.0
-    }
-  },
-  "oiilomomagnhulatdohc": {
-    "FullName": "Hugo Alkimim",
-    "1aFase": {
-      "2016": 88.0,
-      "2017": 132.0,
-      "2018": 214.0
-    },
-    "Nacional": {
-      "2017": 71.0
     }
   },
   "oldseeimnraodvmcraefnan": {
@@ -7080,33 +12726,11 @@ CONTESTANTS = {
       "2016": 441.0
     }
   },
-  "mhiaiweclmoilkhontek": {
-    "FullName": "Kelwin Ferreira",
-    "1aFase": {
-      "2016": 337.0,
-      "2017": 106.0,
-      "2018": 282.0
-    },
-    "Nacional": {
-      "2017": 64.0
-    }
-  },
   "mlmaooeobcrinisabvhatals": {
     "FullName": "Abner Vilas Boas Santos",
     "1aFase": {
       "2016": 732.0,
       "2017": 708.0
-    }
-  },
-  "mlolhicjcoahtam": {
-    "FullName": "Luis Amaral",
-    "1aFase": {
-      "2016": 337.0,
-      "2017": 106.0,
-      "2018": 282.0
-    },
-    "Nacional": {
-      "2017": 64.0
     }
   },
   "mmatikkemurgiucmlaaao": {
@@ -7126,17 +12750,6 @@ CONTESTANTS = {
     "1aFase": {
       "2016": 620.0,
       "2017": 708.0
-    }
-  },
-  "nhjmocehomiaieicllirmthaho": {
-    "FullName": "Helio Junior",
-    "1aFase": {
-      "2016": 337.0,
-      "2017": 106.0,
-      "2018": 282.0
-    },
-    "Nacional": {
-      "2017": 64.0
     }
   },
   "oamaabcgghnrryiooorba": {
@@ -7708,13 +13321,6 @@ CONTESTANTS = {
       "2016": 164.0
     }
   },
-  "imeoutsmgtvriloaalhoci": {
-    "FullName": "Gustavo Silveira",
-    "1aFase": {
-      "2016": 57.0,
-      "2018": 61.0
-    }
-  },
   "imleao9a9hd1mrl7lncvoooats": {
     "FullName": "Ronaldo Alves Pereira Filho",
     "1aFase": {
@@ -7741,12 +13347,6 @@ CONTESTANTS = {
       "2018": 300.0
     }
   },
-  "ipltvlabmooaheoieifrctom": {
-    "FullName": "Felipe Godoy",
-    "1aFase": {
-      "2016": 454.0
-    }
-  },
   "iraolaeoaitddhsamafcml": {
     "FullName": "Rafael Guilherme Fernandes De Lima Silva",
     "1aFase": {
@@ -7758,12 +13358,6 @@ CONTESTANTS = {
     "1aFase": {
       "2016": 71.0,
       "2019": 440.0
-    }
-  },
-  "irraikolmtcceiomur": {
-    "FullName": "Iuri Rezende Souza",
-    "1aFase": {
-      "2016": 57.0
     }
   },
   "iudsrrasyoofricbuu": {
@@ -8260,14 +13854,6 @@ CONTESTANTS = {
       "2017": 594.0
     }
   },
-  "umokooloiulwrleceftoh": {
-    "FullName": "Weuler Borges Santos Filho",
-    "1aFase": {
-      "2016": 57.0,
-      "2017": 21.0,
-      "2018": 61.0
-    }
-  },
   "umr0llqiuee0hogmin7anc1a": {
     "FullName": "Luan Henrique",
     "1aFase": {
@@ -8278,12 +13864,6 @@ CONTESTANTS = {
     "FullName": "Pedro Luiz Melo Silva",
     "1aFase": {
       "2016": 361.0
-    }
-  },
-  "useorjilco7gmiaderogm0": {
-    "FullName": "João Paulo Rodrigues Soares",
-    "1aFase": {
-      "2016": 454.0
     }
   },
   "uusmrfgldsoeneoanictaeqmai": {
@@ -8506,21 +14086,6 @@ CONTESTANTS = {
       "2016": 498.0
     }
   },
-  "eevlinltcaoybrsmagaena": {
-    "FullName": "Maycon Alves",
-    "1aFase": {
-      "2016": 17.0,
-      "2017": 23.0,
-      "2018": 14.0,
-      "2019": 51.0
-    },
-    "Nacional": {
-      "2016": 21.0,
-      "2017": 22.0,
-      "2018": 15.0,
-      "2019": 19.0
-    }
-  },
   "egacadetmiorporqvniehulmho": {
     "FullName": "Pedro Henrique Arantes",
     "1aFase": {
@@ -8531,13 +14096,6 @@ CONTESTANTS = {
     "FullName": "Gabriel Huhn",
     "1aFase": {
       "2016": 220.0
-    }
-  },
-  "ejaosiaoaitrahoomdscml": {
-    "FullName": "Josias Marques Da Silva",
-    "1aFase": {
-      "2016": 379.0,
-      "2017": 203.0
     }
   },
   "elioebcbmcglrsfnoso": {
@@ -8565,15 +14123,6 @@ CONTESTANTS = {
       "2016": 24.0,
       "2017": 53.0,
       "2018": 39.0
-    }
-  },
-  "ernoogrrcilebiaeibniutlta": {
-    "FullName": "Luciano Do Vale Ribeiro",
-    "1aFase": {
-      "2016": 17.0
-    },
-    "Nacional": {
-      "2016": 21.0
     }
   },
   "errggmoiadhialcodrmotdo": {
@@ -8828,17 +14377,6 @@ CONTESTANTS = {
       "2016": 313.0
     }
   },
-  "naadrjicmoromnoceuigadcl": {
-    "FullName": "José Wagner De Andrade Júnior",
-    "1aFase": {
-      "2016": 9.0,
-      "2018": 17.0
-    },
-    "Nacional": {
-      "2016": 5.0,
-      "2018": 12.0
-    }
-  },
   "niilmojao0mliaao1gcw": {
     "FullName": "João Wilian Dos Reis",
     "1aFase": {
@@ -8933,30 +14471,12 @@ CONTESTANTS = {
       "2016": 250.0
     }
   },
-  "rbohiiamloaavcfalgmou": {
-    "FullName": "Fúlvio Abrahão Paula",
-    "1aFase": {
-      "2016": 9.0
-    },
-    "Nacional": {
-      "2016": 5.0
-    }
-  },
   "reinzolmbcatrkeuoreogoilg": {
     "FullName": "Gabriel Erzinger Douseeau",
     "1aFase": {
       "2016": 24.0,
       "2017": 64.0,
       "2018": 39.0
-    }
-  },
-  "rgciagcomoatmpvhila": {
-    "FullName": "Thiago Carvalho Pinto",
-    "1aFase": {
-      "2016": 9.0
-    },
-    "Nacional": {
-      "2016": 5.0
     }
   },
   "riiaacplsreruaeiocsqmomgfnmwog": {
@@ -9178,12 +14698,6 @@ CONTESTANTS = {
       "2016": 99.0
     }
   },
-  "ernoilpdfiaifsiaufgbt": {
-    "FullName": "Filipe Silva",
-    "1aFase": {
-      "2016": 246.0
-    }
-  },
   "erulamqarbrmemloritgaco": {
     "FullName": "Raquel Barreto",
     "1aFase": {
@@ -9300,17 +14814,6 @@ CONTESTANTS = {
     },
     "Nacional": {
       "2016": 43.0
-    }
-  },
-  "imncaahmmcoolit": {
-    "FullName": "Ian Miranda",
-    "1aFase": {
-      "2016": 28.0,
-      "2017": 15.0
-    },
-    "Nacional": {
-      "2016": 8.0,
-      "2017": 8.0
     }
   },
   "ioommelalhdmiotmlc": {
@@ -9528,14 +15031,6 @@ CONTESTANTS = {
       "2016": 111.0
     }
   },
-  "mnmleigvuaouqlliaeqibracusa": {
-    "FullName": "Ian Albuquerque Raymundo Da Silva",
-    "1aFase": {
-      "2016": 732.0,
-      "2017": 59.0,
-      "2018": 46.0
-    }
-  },
   "mrisbiiigrrciameacervgoooduliort": {
     "FullName": "Victoria Rodrigues",
     "1aFase": {
@@ -9728,30 +15223,6 @@ CONTESTANTS = {
     },
     "Nacional": {
       "2016": 54.0
-    }
-  },
-  "tromamoybgoocnaahroci": {
-    "FullName": "Tiago Montalvão",
-    "1aFase": {
-      "2016": 28.0,
-      "2017": 15.0,
-      "2018": 27.0
-    },
-    "Nacional": {
-      "2016": 8.0,
-      "2017": 8.0,
-      "2018": 17.0
-    }
-  },
-  "uczemliamagoendroma": {
-    "FullName": "Naum Azeredo Fernandes Barreira",
-    "1aFase": {
-      "2016": 5.0,
-      "2017": 8.0
-    },
-    "Nacional": {
-      "2016": 10.0,
-      "2017": 9.0
     }
   },
   "ugrfrrfnrgididbuoeoj": {
@@ -9983,12 +15454,6 @@ CONTESTANTS = {
       "2016": 439.0
     }
   },
-  "mcaliomasopstfngli": {
-    "FullName": "Felipe Garcia Dos Santos",
-    "1aFase": {
-      "2016": 176.0
-    }
-  },
   "mgiacellmmpeethrnduooooario": {
     "FullName": "Pedro Melo Nogueira",
     "1aFase": {
@@ -10054,12 +15519,6 @@ CONTESTANTS = {
     "FullName": "João Vitor Machado Bonachini Da Silva",
     "1aFase": {
       "2016": 206.0
-    }
-  },
-  "riiogam1muacm3augildn": {
-    "FullName": "Guilherme Henrique Santos Miranda",
-    "1aFase": {
-      "2016": 176.0
     }
   },
   "rlommanioecltgmica": {
@@ -10274,12 +15733,6 @@ CONTESTANTS = {
       "2016": 432.0
     }
   },
-  "lmmeocmigasiotskahmealup": {
-    "FullName": "Matheus Mostiack Pomaleski",
-    "1aFase": {
-      "2016": 29.0
-    }
-  },
   "m6el9cotaopilmng": {
     "FullName": "Laert Espagnoli Neto",
     "1aFase": {
@@ -10380,18 +15833,6 @@ CONTESTANTS = {
     "FullName": "José Carlos Neto",
     "1aFase": {
       "2016": 513.0
-    }
-  },
-  "u9aitmct5eaameoaihldsgm": {
-    "FullName": "Matheus De Souza Ataide",
-    "1aFase": {
-      "2016": 16.0,
-      "2017": 22.0,
-      "2018": 21.0
-    },
-    "Nacional": {
-      "2016": 2.0,
-      "2017": 21.0
     }
   },
   "ueeeptlrhliotrcvmroiegam": {
@@ -10705,12 +16146,6 @@ CONTESTANTS = {
       "2016": 311.0
     }
   },
-  "ouwctmkoljolrinoso": {
-    "FullName": "Wilson Estécio Marcílio Júnior",
-    "1aFase": {
-      "2016": 333.0
-    }
-  },
   "owkaamgoaaorimtmhilc": {
     "FullName": "Gabriel Morikawa",
     "1aFase": {
@@ -10897,12 +16332,6 @@ CONTESTANTS = {
       "2016": 446.0
     }
   },
-  "c4ausailorehcbmngmson9": {
-    "FullName": "Bruno Sanches",
-    "1aFase": {
-      "2016": 25.0
-    }
-  },
   "cllgumvcagisamaoc": {
     "FullName": "Lucas Cavenaghi",
     "1aFase": {
@@ -10974,19 +16403,6 @@ CONTESTANTS = {
     "FullName": "Felippe Henrique Longo Da Silva",
     "1aFase": {
       "2016": 666.0
-    }
-  },
-  "eiirl0rho5mhaooecmacrta": {
-    "FullName": "Caio Herrera",
-    "1aFase": {
-      "2016": 56.0,
-      "2017": 41.0,
-      "2018": 40.0
-    },
-    "Nacional": {
-      "2016": 27.0,
-      "2017": 37.0,
-      "2018": 35.0
     }
   },
   "epueaevnbartssmsrta": {
@@ -11121,12 +16537,6 @@ CONTESTANTS = {
       "2018": 14.0
     }
   },
-  "mareoamhmicraosptgallf": {
-    "FullName": "Tomás Raphael Rizzo Fonseca",
-    "1aFase": {
-      "2016": 25.0
-    }
-  },
   "mcbeaigiaodiaazlurtncorigmmhmln": {
     "FullName": "Gabriel Montrazi Manduchi",
     "1aFase": {
@@ -11212,25 +16622,6 @@ CONTESTANTS = {
     "FullName": "Fernando Fernandes",
     "1aFase": {
       "2016": 650.0
-    }
-  },
-  "ohistaonclolaeommci": {
-    "FullName": "Nicolas Masanori Shimizu Oe",
-    "1aFase": {
-      "2016": 25.0
-    }
-  },
-  "oialmcprmaotfialgec": {
-    "FullName": "Antonio Carlos Falcao Petri",
-    "1aFase": {
-      "2016": 56.0,
-      "2017": 41.0,
-      "2018": 40.0
-    },
-    "Nacional": {
-      "2016": 27.0,
-      "2017": 37.0,
-      "2018": 35.0
     }
   },
   "oivcaamrnaligmborblieiar": {
@@ -11511,17 +16902,6 @@ CONTESTANTS = {
       "2016": 495.0
     }
   },
-  "gmmlaldoscioticaus": {
-    "FullName": "Daniel Costa",
-    "1aFase": {
-      "2016": 53.0,
-      "2017": 98.0
-    },
-    "Nacional": {
-      "2016": 28.0,
-      "2017": 39.0
-    }
-  },
   "hmacltimohralgooecrobi": {
     "FullName": "Hiero Carvalho",
     "1aFase": {
@@ -11639,15 +17019,6 @@ CONTESTANTS = {
       "2017": 130.0
     }
   },
-  "ohohlvaecmlmlrritatmhoi": {
-    "FullName": "Miller Horvath",
-    "1aFase": {
-      "2016": 53.0
-    },
-    "Nacional": {
-      "2016": 28.0
-    }
-  },
   "omconlo1taj4uookijur7oo": {
     "FullName": "João Francisco",
     "1aFase": {
@@ -11687,15 +17058,6 @@ CONTESTANTS = {
     "FullName": "Alexandre Tanaka",
     "1aFase": {
       "2016": 110.0
-    }
-  },
-  "zmicaaaltamchhmoeo": {
-    "FullName": "Matheus Henrique Zamberlan",
-    "1aFase": {
-      "2016": 53.0
-    },
-    "Nacional": {
-      "2016": 28.0
     }
   },
   "0ooemlftmotoeifih0n1ea2cnlpril": {
@@ -11744,15 +17106,6 @@ CONTESTANTS = {
     "FullName": "Maurilio Nava Junior",
     "1aFase": {
       "2016": 450.0
-    }
-  },
-  "ckdvzusoomylouooaat": {
-    "FullName": "Davy Souza",
-    "1aFase": {
-      "2016": 30.0
-    },
-    "Nacional": {
-      "2016": 23.0
     }
   },
   "cmbonafpelaotiitrceemormlciha": {
@@ -11991,15 +17344,6 @@ CONTESTANTS = {
       "2016": 501.0
     }
   },
-  "mmaauslctioasrvaohkk": {
-    "FullName": "Lucas Rocha",
-    "1aFase": {
-      "2016": 30.0
-    },
-    "Nacional": {
-      "2016": 23.0
-    }
-  },
   "mmhi5ci74cnslova2tioiu": {
     "FullName": "Vinicius Santos De Andrade",
     "1aFase": {
@@ -12022,15 +17366,6 @@ CONTESTANTS = {
     "FullName": "Yan Bonini Falcao",
     "1aFase": {
       "2016": 525.0
-    }
-  },
-  "oamlgplziidmouacglo": {
-    "FullName": "Douglas Santos",
-    "1aFase": {
-      "2016": 30.0
-    },
-    "Nacional": {
-      "2016": 23.0
     }
   },
   "oaoagcllcdemyoanmmim": {
@@ -12189,15 +17524,6 @@ CONTESTANTS = {
       "2016": 693.0
     }
   },
-  "aalmomlgmisitmranorvcias": {
-    "FullName": "Ramon Silva De Lima",
-    "1aFase": {
-      "2016": 7.0
-    },
-    "Nacional": {
-      "2016": 11.0
-    }
-  },
   "aamga1dlmai2inogacml": {
     "FullName": "Amanda Gil Adão",
     "1aFase": {
@@ -12308,15 +17634,6 @@ CONTESTANTS = {
     "FullName": "Tarcisio F Jaguanharo Carvalho",
     "1aFase": {
       "2016": 702.0
-    }
-  },
-  "arqnfmagmlmeodci": {
-    "FullName": "André Amaral De Sousa",
-    "1aFase": {
-      "2016": 7.0
-    },
-    "Nacional": {
-      "2016": 11.0
     }
   },
   "aslilbeulrprrnadmucos": {
@@ -12742,17 +18059,6 @@ CONTESTANTS = {
       "2016": 376.0
     }
   },
-  "miocroobitmcgcmovallo": {
-    "FullName": "Victor Colombo",
-    "1aFase": {
-      "2016": 7.0,
-      "2018": 3.0
-    },
-    "Nacional": {
-      "2016": 11.0,
-      "2018": 7.0
-    }
-  },
   "mlhlmcgoua1nizimesaaa": {
     "FullName": "Luiza Sarmento Galante Manhães",
     "1aFase": {
@@ -13163,13 +18469,6 @@ CONTESTANTS = {
       "2016": 686.0
     }
   },
-  "xceexmhgoelacaidmimael": {
-    "FullName": "Ricardo Mujin Kim",
-    "1aFase": {
-      "2016": 708.0,
-      "2017": 350.0
-    }
-  },
   "ytcaancamaimmleogegomn": {
     "FullName": "Cayo Silva",
     "1aFase": {
@@ -13186,18 +18485,6 @@ CONTESTANTS = {
     "FullName": "Victor Hugo Silva",
     "1aFase": {
       "2016": 43.0
-    }
-  },
-  "7mlvde1aacrmniog2": {
-    "FullName": "Andre Vaillant",
-    "1aFase": {
-      "2016": 38.0,
-      "2017": 142.0,
-      "2018": 329.0
-    },
-    "Nacional": {
-      "2016": 30.0,
-      "2017": 52.0
     }
   },
   "9iacutglhmemomtuusagoas56": {
@@ -13224,12 +18511,6 @@ CONTESTANTS = {
       "2016": 732.0
     }
   },
-  "amgcolaansliucmrecala": {
-    "FullName": "Lucas Alencar Barbosa",
-    "1aFase": {
-      "2016": 221.0
-    }
-  },
   "amiloemwegoddnlcn": {
     "FullName": "Wendel Donizetti De Siqueira",
     "1aFase": {
@@ -13240,12 +18521,6 @@ CONTESTANTS = {
     "FullName": "Viktor Muller",
     "1aFase": {
       "2016": 424.0
-    }
-  },
-  "c1cvatmausinmlabgtmome": {
-    "FullName": "Marcos Vinicius Costa Bustamante",
-    "1aFase": {
-      "2016": 124.0
     }
   },
   "cguigmlemareohlurimg": {
@@ -13319,12 +18594,6 @@ CONTESTANTS = {
     },
     "Nacional": {
       "2017": 52.0
-    }
-  },
-  "icfmtgoalihmiogaoc": {
-    "FullName": "Thiago Filipe De Medeiros",
-    "1aFase": {
-      "2016": 70.0
     }
   },
   "icomaimmulnakeacolgrihgd": {
@@ -13413,31 +18682,10 @@ CONTESTANTS = {
       "2018": 6.0
     }
   },
-  "m4rdarcgrmoormiaobsire9lig": {
-    "FullName": "Rodrigo De Farias Ramires",
-    "1aFase": {
-      "2016": 221.0
-    }
-  },
   "maciranliorpcnenoagmaite": {
     "FullName": "Ernane Cipriano",
     "1aFase": {
       "2016": 378.0
-    }
-  },
-  "mcemvniksrioolarihto": {
-    "FullName": "Vinicius Zibetti Resko",
-    "1aFase": {
-      "2016": 38.0
-    },
-    "Nacional": {
-      "2016": 30.0
-    }
-  },
-  "mearaiiboriahogmcglllc": {
-    "FullName": "Gabriel Magalhaes",
-    "1aFase": {
-      "2016": 42.0
     }
   },
   "meolqehcar2ooumiprdmsa1t": {
@@ -13453,25 +18701,10 @@ CONTESTANTS = {
       "2016": 461.0
     }
   },
-  "mjlocmeriigalsnsfoqe": {
-    "FullName": "Jeferson Lesbão De Siqueira",
-    "1aFase": {
-      "2016": 38.0
-    },
-    "Nacional": {
-      "2016": 30.0
-    }
-  },
   "mlcoeeirlannhiomaiotd": {
     "FullName": "André Vitor Leinio Graça",
     "1aFase": {
       "2016": 221.0
-    }
-  },
-  "mmiaoodaalmclsriganhac": {
-    "FullName": "Caio Kinelski",
-    "1aFase": {
-      "2016": 42.0
     }
   },
   "mnoactiactloaaaurseooumnzh": {
@@ -13573,19 +18806,6 @@ CONTESTANTS = {
       "2018": 52.0
     }
   },
-  "saaimouc8olfmgrilac1l": {
-    "FullName": "Lucas França De Oliveira",
-    "1aFase": {
-      "2016": 6.0,
-      "2017": 5.0,
-      "2018": 4.0
-    },
-    "Nacional": {
-      "2016": 12.0,
-      "2017": 10.0,
-      "2018": 6.0
-    }
-  },
   "scaiolraleagnsm46sevvim": {
     "FullName": "Vanessa Morais Silver",
     "1aFase": {
@@ -13597,18 +18817,6 @@ CONTESTANTS = {
     "FullName": "Humberto Gimenes Macedo",
     "1aFase": {
       "2016": 222.0
-    }
-  },
-  "tglcae1moamhioa1suelm": {
-    "FullName": "Matheus Leão",
-    "1aFase": {
-      "2016": 42.0,
-      "2017": 5.0,
-      "2018": 4.0
-    },
-    "Nacional": {
-      "2017": 10.0,
-      "2018": 6.0
     }
   },
   "uddcualeaslcgimaom": {
@@ -13753,17 +18961,6 @@ CONTESTANTS = {
     "FullName": "Wyverson Bonasoli De Oliveira",
     "1aFase": {
       "2016": 170.0
-    }
-  },
-  "ihacairtmiosconolabihnlmht": {
-    "FullName": "Cristhian Bonilha",
-    "1aFase": {
-      "2016": 37.0,
-      "2017": 61.0
-    },
-    "Nacional": {
-      "2016": 26.0,
-      "2017": 31.0
     }
   },
   "kohgtmcacokzliorogmtii": {
@@ -13959,17 +19156,6 @@ CONTESTANTS = {
       "2016": 532.0
     }
   },
-  "9lthaiurl9mlcoi7mo6mo": {
-    "FullName": "Murillo Douglas Oliveira Machado",
-    "1aFase": {
-      "2016": 31.0,
-      "2017": 6.0
-    },
-    "Nacional": {
-      "2016": 20.0,
-      "2017": 11.0
-    }
-  },
   "aamlcaihmhiaanmnrgoni": {
     "FullName": "Hannah Mariani",
     "1aFase": {
@@ -14050,17 +19236,6 @@ CONTESTANTS = {
       "2018": 513.0
     }
   },
-  "cogalssiedicnmsloootsmna": {
-    "FullName": "Cleison Arenhart Dos Santos",
-    "1aFase": {
-      "2016": 31.0,
-      "2017": 6.0
-    },
-    "Nacional": {
-      "2016": 20.0,
-      "2017": 11.0
-    }
-  },
   "cslgmgbemailoiemrae": {
     "FullName": "Ismael Geber",
     "1aFase": {
@@ -14091,19 +19266,6 @@ CONTESTANTS = {
     "FullName": "Ellen Fernandes",
     "1aFase": {
       "2016": 732.0
-    }
-  },
-  "gilolugimscaymni": {
-    "FullName": "Luis Fernando Veronese Trivelatto",
-    "1aFase": {
-      "2016": 31.0,
-      "2017": 6.0,
-      "2019": 17.0
-    },
-    "Nacional": {
-      "2016": 20.0,
-      "2017": 11.0,
-      "2019": 14.0
     }
   },
   "glmeacdaolngtroimieauibrh": {
@@ -14489,15 +19651,6 @@ CONTESTANTS = {
       "2016": 362.0
     }
   },
-  "acotesttmualoamrszomn": {
-    "FullName": "Mateus Lazarotto",
-    "1aFase": {
-      "2016": 13.0
-    },
-    "Nacional": {
-      "2016": 18.0
-    }
-  },
   "adlcioamcouzacmmmrkgsa": {
     "FullName": "Marcos Theophilo Gobbi Adamczuk",
     "1aFase": {
@@ -14565,13 +19718,6 @@ CONTESTANTS = {
       "2017": 429.0
     }
   },
-  "cnataegitogrolmam": {
-    "FullName": "Gean Rotta",
-    "1aFase": {
-      "2016": 205.0,
-      "2017": 235.0
-    }
-  },
   "coxmlcrsmimalamivgoa": {
     "FullName": "Marcos Vinicius De Moura Lima",
     "1aFase": {
@@ -14583,16 +19729,6 @@ CONTESTANTS = {
     "FullName": "Dhouglas Ricardo Pedruzzi",
     "1aFase": {
       "2016": 715.0
-    }
-  },
-  "crzaiimzgeolmsooaml": {
-    "FullName": "Alesom Zorzi",
-    "1aFase": {
-      "2016": 27.0,
-      "2017": 48.0
-    },
-    "Nacional": {
-      "2016": 42.0
     }
   },
   "csrmmhembiaoaslomesto": {
@@ -14607,12 +19743,6 @@ CONTESTANTS = {
       "2016": 554.0,
       "2017": 413.0,
       "2018": 152.0
-    }
-  },
-  "dojerbaimhtnrlpmoawic": {
-    "FullName": "João Bernardi",
-    "1aFase": {
-      "2016": 79.0
     }
   },
   "e1tllemc4eaifpiimohraiovlo": {
@@ -14634,14 +19764,6 @@ CONTESTANTS = {
       "2016": 356.0
     }
   },
-  "emihmioalecfltpieoz": {
-    "FullName": "Felipe André Zeiser",
-    "1aFase": {
-      "2016": 205.0,
-      "2017": 235.0,
-      "2018": 150.0
-    }
-  },
   "eopremaegofsrclims": {
     "FullName": "Fernando Posser",
     "1aFase": {
@@ -14653,15 +19775,6 @@ CONTESTANTS = {
     "1aFase": {
       "2016": 556.0,
       "2017": 338.0
-    }
-  },
-  "gamohatmo9scrmaudsllla4ie": {
-    "FullName": "Matheus Dallrosa",
-    "1aFase": {
-      "2016": 27.0
-    },
-    "Nacional": {
-      "2016": 42.0
     }
   },
   "ggi94orcmaolim": {
@@ -14677,15 +19790,6 @@ CONTESTANTS = {
       "2016": 147.0,
       "2017": 489.0,
       "2018": 426.0
-    }
-  },
-  "hdglklcammyamtoiaoec": {
-    "FullName": "Kétly Machado",
-    "1aFase": {
-      "2016": 27.0
-    },
-    "Nacional": {
-      "2016": 42.0
     }
   },
   "heoapsaecyotrldruoucierenwsb": {
@@ -14785,12 +19889,6 @@ CONTESTANTS = {
       "2016": 414.0
     }
   },
-  "mg7ilmigl9ac6oalg": {
-    "FullName": "Gabriel Galli",
-    "1aFase": {
-      "2016": 79.0
-    }
-  },
   "mimogureairesahgcmtegl": {
     "FullName": "Matheus Grieger Da Silva",
     "1aFase": {
@@ -14866,12 +19964,6 @@ CONTESTANTS = {
       "2016": 715.0
     }
   },
-  "ohmcrojamlaviistl": {
-    "FullName": "Sival Júnior",
-    "1aFase": {
-      "2016": 79.0
-    }
-  },
   "oiuh0c0ethn2hlomam9sc": {
     "FullName": "Matheus Arendt Hunsche",
     "1aFase": {
@@ -14914,23 +20006,6 @@ CONTESTANTS = {
     "FullName": "Maicon Prause",
     "1aFase": {
       "2016": 732.0
-    }
-  },
-  "ratcoolknmlifoahdoalem": {
-    "FullName": "Leonardo Falk",
-    "1aFase": {
-      "2016": 621.0
-    }
-  },
-  "rbcaaiholntglmleom": {
-    "FullName": "Leonardo Blanger",
-    "1aFase": {
-      "2016": 13.0,
-      "2017": 16.0
-    },
-    "Nacional": {
-      "2016": 18.0,
-      "2017": 23.0
     }
   },
   "reasaotcivneovralldom": {
@@ -15041,24 +20116,6 @@ CONTESTANTS = {
     "FullName": "Iuri Santos",
     "1aFase": {
       "2016": 732.0
-    }
-  },
-  "cmstoesoromesabfrc": {
-    "FullName": "Marcos Sulzbach Morgenstern",
-    "1aFase": {
-      "2016": 212.0
-    },
-    "Nacional": {
-      "2016": 47.0
-    }
-  },
-  "crbreoseofogrtmes": {
-    "FullName": "Roger Casagrande De Medeiros",
-    "1aFase": {
-      "2016": 212.0
-    },
-    "Nacional": {
-      "2016": 47.0
     }
   },
   "crhaoiudtreamigolml": {
@@ -15199,15 +20256,6 @@ CONTESTANTS = {
     "1aFase": {
       "2016": 558.0,
       "2017": 511.0
-    }
-  },
-  "tsiofsomcerolbre": {
-    "FullName": "Lori Ronaldo Flores Machado Filho",
-    "1aFase": {
-      "2016": 212.0
-    },
-    "Nacional": {
-      "2016": 47.0
     }
   },
   "umhlonekeooetigiclrlumoo": {
@@ -15695,17 +20743,6 @@ CONTESTANTS = {
     "FullName": "Nelson Junior",
     "1aFase": {
       "2016": 384.0
-    }
-  },
-  "krnfpeuepidmefslebue": {
-    "FullName": "Mauricio Peske",
-    "1aFase": {
-      "2016": 102.0,
-      "2017": 107.0
-    },
-    "Nacional": {
-      "2016": 40.0,
-      "2017": 44.0
     }
   },
   "lobobamcegaadnrriamilunme": {
@@ -18793,12 +23830,6 @@ CONTESTANTS = {
       "2017": 50.0
     }
   },
-  "1itsgladmcu0omemac": {
-    "FullName": "Mateus Carvalho Dantas",
-    "1aFase": {
-      "2017": 20.0
-    }
-  },
   "agaoimabcubmlliareml": {
     "FullName": "Abimael Rocha De Albuquerque",
     "1aFase": {
@@ -18893,12 +23924,6 @@ CONTESTANTS = {
     "FullName": "José Carlos Silva Junior",
     "1aFase": {
       "2017": 544.0
-    }
-  },
-  "ctlhlamafiraplcemoo": {
-    "FullName": "Rafael Catalão Lopes Perrella",
-    "1aFase": {
-      "2017": 20.0
     }
   },
   "ddivimnraagiilcrbemognb": {
@@ -19005,17 +24030,6 @@ CONTESTANTS = {
       "2017": 320.0,
       "2018": 484.0,
       "2019": 417.0
-    }
-  },
-  "gsnoeeelelrwaiscstyoe": {
-    "FullName": "Weslley Santos",
-    "1aFase": {
-      "2017": 62.0,
-      "2018": 45.0
-    },
-    "Nacional": {
-      "2017": 55.0,
-      "2018": 29.0
     }
   },
   "hiohamsreileimxgtoatocu": {
@@ -20631,15 +25645,6 @@ CONTESTANTS = {
     "FullName": "Edith Vulcão",
     "1aFase": {
       "2017": 708.0
-    }
-  },
-  "zcrcamulesriercoailmoquaog": {
-    "FullName": "Lucas Correa",
-    "1aFase": {
-      "2017": 115.0
-    },
-    "Nacional": {
-      "2017": 46.0
     }
   },
   "8iaiailroxlaejnmmcua5gv": {
@@ -24334,15 +29339,6 @@ CONTESTANTS = {
       "2017": 279.0
     }
   },
-  "uoookohslotamtcocout": {
-    "FullName": "Athos Couto",
-    "1aFase": {
-      "2017": 8.0
-    },
-    "Nacional": {
-      "2017": 9.0
-    }
-  },
   "utbrsdslfihaedfah": {
     "FullName": "Thalessa Hungerbühler Daroz",
     "1aFase": {
@@ -25636,15 +30632,6 @@ CONTESTANTS = {
       "2017": 572.0
     }
   },
-  "aomugciayomntclo": {
-    "FullName": "Yan Couto",
-    "1aFase": {
-      "2017": 1.0
-    },
-    "Nacional": {
-      "2017": 1.0
-    }
-  },
   "ayiomaclthlmkaokinz": {
     "FullName": "Ikky Lanza",
     "1aFase": {
@@ -25741,18 +30728,6 @@ CONTESTANTS = {
     "FullName": "Humberto Barone",
     "1aFase": {
       "2017": 708.0
-    }
-  },
-  "gbmagoelfacomil": {
-    "FullName": "Gabriel Oliveira",
-    "1aFase": {
-      "2017": 17.0,
-      "2018": 7.0,
-      "2020": 15.0
-    },
-    "Nacional": {
-      "2017": 4.0,
-      "2018": 8.0
     }
   },
   "giljsaaksliridammaocna": {
@@ -26158,12 +31133,6 @@ CONTESTANTS = {
     "FullName": "Leonardo Rezende",
     "1aFase": {
       "2017": 43.0
-    }
-  },
-  "tmgmetolhlaeaasgirci": {
-    "FullName": "Thiago Estrela Montenegro",
-    "1aFase": {
-      "2017": 25.0
     }
   },
   "tmimlgzhucoaoc": {
@@ -27442,15 +32411,6 @@ CONTESTANTS = {
       "2017": 708.0
     }
   },
-  "jdlusepevvbfuniifldsra": {
-    "FullName": "José Vitor Da Silva",
-    "1aFase": {
-      "2017": 107.0
-    },
-    "Nacional": {
-      "2017": 44.0
-    }
-  },
   "m0osle8laciglaomrcsm": {
     "FullName": "Marcelo Barroso",
     "1aFase": {
@@ -27593,15 +32553,6 @@ CONTESTANTS = {
     "FullName": "Thales Melo Da Silva",
     "1aFase": {
       "2017": 589.0
-    }
-  },
-  "lesalcbnogmdomleisia": {
-    "FullName": "Daniel Bossle",
-    "1aFase": {
-      "2017": 18.0
-    },
-    "Nacional": {
-      "2017": 24.0
     }
   },
   "lrahnfbgzsbusufribc": {
