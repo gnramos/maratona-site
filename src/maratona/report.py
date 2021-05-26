@@ -227,8 +227,8 @@ def _preprocess(df, guess_uf=False, verbose=True):
     df['Rank'] = df['Rank'].fillna(0)
     df['SiteRank'] = df['Rank']
 
-    ranks = df[df['Rank'] > 0].sort_values(by=['Region', 'UF', 'Site', 'Rank'])
-    for _, group_df in ranks.groupby(by=['Region', 'UF', 'Site']):
+    ranks = df[df['Rank'] > 0].sort_values(by=['Region', 'Site', 'Rank'])
+    for _, group_df in ranks.groupby(by=['Region', 'Site']):
         for site_rank, (x, team_rank) in enumerate(group_df.groupby('Rank')):
             df.at[team_rank.index, 'SiteRank'] = site_rank + 1
 
