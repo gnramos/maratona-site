@@ -4,111 +4,12 @@ if (CONTESTS[2014] === undefined)
   CONTESTS[2014] = {};
 
 CONTESTS[2014]["Nacional"] = {
-  "Brasil": {
-    "BR": {
-      "Centro Universitário Católico Salesiano Auxilum": {
-        "Extreme team": {
-          "Rank": 27,
-          "SiteRank": 1,
-          "Site": "Brazilian Finals",
-          "Short name": "Unisalesiano",
-          "Contestants": [
-            "Pedro Fernandes Filho",
-            "Juliana Aparecida Zago",
-            "Lucas Basquerotto Da Silva"
-          ],
-          "Sex": [
-            "Male",
-            "Female",
-            "Male"
-          ],
-          "Coach": "Alexandre Marcelino Silva"
-        }
-      },
-      "Faculdades Integradas de Taquara": {
-        "bytemen": {
-          "Rank": 45,
-          "SiteRank": 3,
-          "Site": "Brazilian Finals",
-          "Short name": "FACCAT",
-          "Contestants": [
-            "Rodrigo Luiz Frey",
-            "Otávio Montemezzo De Souza",
-            "Paulo Henrique Medeiros"
-          ],
-          "Sex": [
-            "Male",
-            "Male",
-            "Male"
-          ],
-          "Coach": "Francisco Assis Nascimento"
-        }
-      },
-      "Instituto Federal de Educação, Ciência e Tecnologia do Triângulo Mineiro - Campus Paracatu": {
-        "Zeppelin": {
-          "Rank": 47,
-          "SiteRank": 4,
-          "Site": "Brazilian Finals",
-          "Short name": "IFTM - Campus Paraca",
-          "Contestants": [
-            "Mayke Santos",
-            "Miriane Batista",
-            "Felipe Godoy"
-          ],
-          "Sex": [
-            "Male",
-            "Female",
-            "Male"
-          ],
-          "Coach": "Edwar Saliba Júnior"
-        }
-      },
-      "Universidade Federal Fluminense": {
-        "Ex nihilo": {
-          "Rank": 57,
-          "SiteRank": 6,
-          "Site": "Brazilian Finals",
-          "Short name": "UFF",
-          "Contestants": [
-            "Filipe Silva",
-            "Mateus Azis",
-            "João Pimentel"
-          ],
-          "Sex": [
-            "Male",
-            "Male",
-            "Male"
-          ],
-          "Coach": "Leandro Fernandes"
-        }
-      },
-      "Universidade São Judas Tadeu": {
-        "São Judas 7": {
-          "Rank": 44,
-          "SiteRank": 2,
-          "Site": "Brazilian Finals",
-          "Short name": "Universidade São Judas Tadeu",
-          "Contestants": [
-            "Ricardo Mujin Kim",
-            "Fernando Ferreira De Oliveira",
-            "Luigi Ciccone Pereira"
-          ],
-          "Sex": [
-            "Male",
-            "Male",
-            "Male"
-          ],
-          "Coach": "Carlos Menezes"
-        }
-      }
-    }
-  },
   "Centro-Oeste": {
     "DF": {
       "Universidade de Brasília": {
         "Lone Wolves": {
           "Rank": 29,
-          "SiteRank": 1,
+          "SiteRank": 4,
           "Site": "Brazilian Finals",
           "Short name": "UnB",
           "Contestants": [
@@ -129,7 +30,7 @@ CONTESTS[2014]["Nacional"] = {
       "Instituto de Informática - UFG": {
         "Monkeys": {
           "Rank": 26,
-          "SiteRank": 2,
+          "SiteRank": 3,
           "Site": "Brazilian Finals",
           "Short name": "UFG",
           "Contestants": [
@@ -167,7 +68,7 @@ CONTESTS[2014]["Nacional"] = {
       "Universidade Federal do Mato Grosso do Sul": {
         "Tuiuiu": {
           "Rank": 24,
-          "SiteRank": 1,
+          "SiteRank": 2,
           "Site": "Brazilian Finals",
           "Short name": "UFMS",
           "Contestants": [
@@ -188,7 +89,7 @@ CONTESTS[2014]["Nacional"] = {
       "Universidade Federal de Mato Grosso - Campus Cuiabá": {
         "Bits Pantaneiro": {
           "Rank": 38,
-          "SiteRank": 1,
+          "SiteRank": 5,
           "Site": "Brazilian Finals",
           "Short name": "UFMT - Cuiabá",
           "Contestants": [
@@ -211,7 +112,7 @@ CONTESTS[2014]["Nacional"] = {
       "Universidade Estadual de Feira de Santana": {
         "Don't care": {
           "Rank": 35,
-          "SiteRank": 2,
+          "SiteRank": 9,
           "Site": "Brazilian Finals",
           "Short name": "UEFS",
           "Contestants": [
@@ -230,7 +131,7 @@ CONTESTS[2014]["Nacional"] = {
       "Universidade Estadual do Sudoeste da Bahia": {
         "Chicó": {
           "Rank": 52,
-          "SiteRank": 3,
+          "SiteRank": 12,
           "Site": "Brazilian Finals",
           "Short name": "UESB",
           "Contestants": [
@@ -249,7 +150,7 @@ CONTESTS[2014]["Nacional"] = {
       "Universidade Federal da Bahia": {
         "Bread For (re)Search": {
           "Rank": 22,
-          "SiteRank": 1,
+          "SiteRank": 5,
           "Site": "Brazilian Finals",
           "Short name": "Ufba",
           "Contestants": [
@@ -270,7 +171,7 @@ CONTESTS[2014]["Nacional"] = {
       "Universidade Federal do Ceará": {
         "High Density Matter": {
           "Rank": 42,
-          "SiteRank": 1,
+          "SiteRank": 11,
           "Site": "Brazilian Finals",
           "Short name": "UFC",
           "Contestants": [
@@ -308,7 +209,7 @@ CONTESTS[2014]["Nacional"] = {
         },
         "UFCG 2": {
           "Rank": 59,
-          "SiteRank": 2,
+          "SiteRank": 13,
           "Site": "Brazilian Finals",
           "Short name": "UFCG",
           "Contestants": [
@@ -329,7 +230,7 @@ CONTESTS[2014]["Nacional"] = {
       "Universidade Federal de Pernambuco": {
         "Code Fu Pandas": {
           "Rank": 9,
-          "SiteRank": 1,
+          "SiteRank": 2,
           "Site": "Brazilian Finals",
           "Short name": "UF Pernambuco",
           "Contestants": [
@@ -346,7 +247,7 @@ CONTESTS[2014]["Nacional"] = {
         },
         "Scooby, Dooby e Doo": {
           "Rank": 13,
-          "SiteRank": 2,
+          "SiteRank": 3,
           "Site": "Brazilian Finals",
           "Short name": "UF Pernambuco",
           "Contestants": [
@@ -365,7 +266,7 @@ CONTESTS[2014]["Nacional"] = {
       "Universidade Federal do Vale do São Francisco": {
         "#include <gambiarra.h>": {
           "Rank": 32,
-          "SiteRank": 3,
+          "SiteRank": 7,
           "Site": "Brazilian Finals",
           "Short name": "UNIVASF",
           "Contestants": [
@@ -386,7 +287,7 @@ CONTESTS[2014]["Nacional"] = {
       "Universidade Federal do Piauí": {
         "Don't Care": {
           "Rank": 33,
-          "SiteRank": 1,
+          "SiteRank": 8,
           "Site": "Brazilian Finals",
           "Short name": "UFPI",
           "Contestants": [
@@ -407,7 +308,7 @@ CONTESTS[2014]["Nacional"] = {
       "Universidade Federal do Rio Grande do Norte": {
         "AbsurdoLimitExceeded": {
           "Rank": 15,
-          "SiteRank": 1,
+          "SiteRank": 4,
           "Site": "Brazilian Finals",
           "Short name": "UFRN",
           "Contestants": [
@@ -424,7 +325,7 @@ CONTESTS[2014]["Nacional"] = {
         },
         "POLO": {
           "Rank": 40,
-          "SiteRank": 2,
+          "SiteRank": 10,
           "Site": "Brazilian Finals",
           "Short name": "UFRN",
           "Contestants": [
@@ -445,7 +346,7 @@ CONTESTS[2014]["Nacional"] = {
       "Universidade Federal de Sergipe": {
         "Bateu Aí?": {
           "Rank": 25,
-          "SiteRank": 1,
+          "SiteRank": 6,
           "Site": "Brazilian Finals",
           "Short name": "U Federal de Sergipe",
           "Contestants": [
@@ -489,7 +390,7 @@ CONTESTS[2014]["Nacional"] = {
       "Centro Universitario do Para - CESUPA": {
         "MARRAPA": {
           "Rank": 58,
-          "SiteRank": 1,
+          "SiteRank": 2,
           "Site": "Brazilian Finals",
           "Short name": "Centro Universitario do Para - CESUPA",
           "Contestants": [
@@ -512,7 +413,7 @@ CONTESTS[2014]["Nacional"] = {
       "Universidade Federal do Espirito Santo": {
         "TLE": {
           "Rank": 31,
-          "SiteRank": 1,
+          "SiteRank": 17,
           "Site": "Brazilian Finals",
           "Short name": "UFES",
           "Contestants": [
@@ -533,7 +434,7 @@ CONTESTS[2014]["Nacional"] = {
       "Federal University of Minas Gerais": {
         "Literally Tourists": {
           "Rank": 5,
-          "SiteRank": 1,
+          "SiteRank": 4,
           "Site": "Brazilian Finals",
           "Short name": "UFMG",
           "Contestants": [
@@ -552,7 +453,7 @@ CONTESTS[2014]["Nacional"] = {
       "Instituto Federal Do Norte de Minas Gerais - Campus Montes Claros": {
         "Segmentation_Fault": {
           "Rank": 49,
-          "SiteRank": 6,
+          "SiteRank": 25,
           "Site": "Brazilian Finals",
           "Short name": "IFNMG - Campus Monte",
           "Contestants": [
@@ -568,10 +469,29 @@ CONTESTS[2014]["Nacional"] = {
           "Coach": "Renato Cota Silva"
         }
       },
+      "Instituto Federal de Educação, Ciência e Tecnologia do Triângulo Mineiro - Campus Paracatu": {
+        "Zeppelin": {
+          "Rank": 47,
+          "SiteRank": 24,
+          "Site": "Brazilian Finals",
+          "Short name": "IFTM - Campus Paraca",
+          "Contestants": [
+            "Mayke Santos",
+            "Miriane Batista",
+            "Felipe Godoy"
+          ],
+          "Sex": [
+            "Male",
+            "Female",
+            "Male"
+          ],
+          "Coach": "Edwar Saliba Júnior"
+        }
+      },
       "Universidade Federal de Itajubá - Campus Itajubá": {
         "Epic Sax Guys": {
           "Rank": 19,
-          "SiteRank": 3,
+          "SiteRank": 11,
           "Site": "Brazilian Finals",
           "Short name": "UNIFEI",
           "Contestants": [
@@ -590,7 +510,7 @@ CONTESTS[2014]["Nacional"] = {
       "Universidade Federal de Minas Gerais": {
         "Tá Errado": {
           "Rank": 41,
-          "SiteRank": 5,
+          "SiteRank": 21,
           "Site": "Brazilian Finals",
           "Short name": "UFMG",
           "Contestants": [
@@ -609,7 +529,7 @@ CONTESTS[2014]["Nacional"] = {
       "Universidade Federal de Uberlândia": {
         "Paitheus quer ir embora": {
           "Rank": 7,
-          "SiteRank": 2,
+          "SiteRank": 6,
           "Site": "Brazilian Finals",
           "Short name": "UFU",
           "Contestants": [
@@ -626,7 +546,7 @@ CONTESTS[2014]["Nacional"] = {
         },
         "UFU Fighters": {
           "Rank": 28,
-          "SiteRank": 4,
+          "SiteRank": 15,
           "Site": "Brazilian Finals",
           "Short name": "UFU",
           "Contestants": [
@@ -645,7 +565,7 @@ CONTESTS[2014]["Nacional"] = {
       "Universidade Federal de Viçosa": {
         "To Bit or Not To Bit": {
           "Rank": 49,
-          "SiteRank": 6,
+          "SiteRank": 25,
           "Site": "Brazilian Finals",
           "Short name": "DPI-UFV",
           "Contestants": [
@@ -666,7 +586,7 @@ CONTESTS[2014]["Nacional"] = {
       "Instituto Militar de Engenharia": {
         "Açaí com Rapadura": {
           "Rank": 59,
-          "SiteRank": 4,
+          "SiteRank": 28,
           "Site": "Brazilian Finals",
           "Short name": "IME",
           "Contestants": [
@@ -683,7 +603,7 @@ CONTESTS[2014]["Nacional"] = {
         },
         "zuera++": {
           "Rank": 10,
-          "SiteRank": 2,
+          "SiteRank": 8,
           "Site": "Brazilian Finals",
           "Short name": "IME",
           "Contestants": [
@@ -699,10 +619,29 @@ CONTESTS[2014]["Nacional"] = {
           "Coach": "Claudia Justel"
         }
       },
+      "Universidade Federal Fluminense": {
+        "Ex nihilo": {
+          "Rank": 57,
+          "SiteRank": 27,
+          "Site": "Brazilian Finals",
+          "Short name": "UFF",
+          "Contestants": [
+            "Filipe Silva",
+            "Mateus Azis",
+            "João Pimentel"
+          ],
+          "Sex": [
+            "Male",
+            "Male",
+            "Male"
+          ],
+          "Coach": "Leandro Fernandes"
+        }
+      },
       "Universidade Federal do Rio de Janeiro": {
         "Cachorrada do Fundão": {
           "Rank": 16,
-          "SiteRank": 3,
+          "SiteRank": 10,
           "Site": "Brazilian Finals",
           "Short name": "UF Rio de Janeiro",
           "Contestants": [
@@ -719,7 +658,7 @@ CONTESTS[2014]["Nacional"] = {
         },
         "Guns N' Codes": {
           "Rank": 3,
-          "SiteRank": 1,
+          "SiteRank": 2,
           "Site": "Brazilian Finals",
           "Short name": "UF Rio de Janeiro",
           "Contestants": [
@@ -737,10 +676,29 @@ CONTESTS[2014]["Nacional"] = {
       }
     },
     "SP": {
+      "Centro Universitário Católico Salesiano Auxilum": {
+        "Extreme team": {
+          "Rank": 27,
+          "SiteRank": 14,
+          "Site": "Brazilian Finals",
+          "Short name": "Unisalesiano",
+          "Contestants": [
+            "Pedro Fernandes Filho",
+            "Juliana Aparecida Zago",
+            "Lucas Basquerotto Da Silva"
+          ],
+          "Sex": [
+            "Male",
+            "Female",
+            "Male"
+          ],
+          "Coach": "Alexandre Marcelino Silva"
+        }
+      },
       "Centro Universitário da FEI": {
         "Ésse": {
           "Rank": 34,
-          "SiteRank": 9,
+          "SiteRank": 18,
           "Site": "Brazilian Finals",
           "Short name": "FEI",
           "Contestants": [
@@ -759,7 +717,7 @@ CONTESTS[2014]["Nacional"] = {
       "FACENS - Faculdade de Engenharia de Sorocaba": {
         "NULL_": {
           "Rank": 47,
-          "SiteRank": 13,
+          "SiteRank": 24,
           "Site": "Brazilian Finals",
           "Short name": "FACENS",
           "Contestants": [
@@ -778,7 +736,7 @@ CONTESTS[2014]["Nacional"] = {
       "Instituto Tecnológico de Aeronautica": {
         "Assembly! Rroooaarr": {
           "Rank": 23,
-          "SiteRank": 7,
+          "SiteRank": 13,
           "Site": "Brazilian Finals",
           "Short name": "ITA",
           "Contestants": [
@@ -795,7 +753,7 @@ CONTESTS[2014]["Nacional"] = {
         },
         "CPF na nota?": {
           "Rank": 8,
-          "SiteRank": 4,
+          "SiteRank": 7,
           "Site": "Brazilian Finals",
           "Short name": "ITA",
           "Contestants": [
@@ -814,7 +772,7 @@ CONTESTS[2014]["Nacional"] = {
       "UNESP - Universidade Estadual Paulista (Faculdade de Ciências e Tecnologia - Presidente Prudente)": {
         "O(log n)": {
           "Rank": 53,
-          "SiteRank": 14,
+          "SiteRank": 26,
           "Site": "Brazilian Finals",
           "Short name": "FCT-UNESP",
           "Contestants": [
@@ -833,7 +791,7 @@ CONTESTS[2014]["Nacional"] = {
       "Universidade Estadual de Campinas": {
         "Rua do sabão": {
           "Rank": 4,
-          "SiteRank": 2,
+          "SiteRank": 3,
           "Site": "Brazilian Finals",
           "Short name": "UNICAMP",
           "Contestants": [
@@ -850,7 +808,7 @@ CONTESTS[2014]["Nacional"] = {
         },
         "The balloon is a lie": {
           "Rank": 30,
-          "SiteRank": 8,
+          "SiteRank": 16,
           "Site": "Brazilian Finals",
           "Short name": "UNICAMP",
           "Contestants": [
@@ -869,7 +827,7 @@ CONTESTS[2014]["Nacional"] = {
       "Universidade Federal de São Carlos": {
         "Deggub": {
           "Rank": 21,
-          "SiteRank": 6,
+          "SiteRank": 12,
           "Site": "Brazilian Finals",
           "Short name": "UFSCar",
           "Contestants": [
@@ -888,7 +846,7 @@ CONTESTS[2014]["Nacional"] = {
       "Universidade Federal de São Carlos - Campus Sorocaba": {
         "um balão tá bão": {
           "Rank": 45,
-          "SiteRank": 12,
+          "SiteRank": 23,
           "Site": "Brazilian Finals",
           "Short name": "UFSCar-Sorocaba",
           "Contestants": [
@@ -907,7 +865,7 @@ CONTESTS[2014]["Nacional"] = {
       "Universidade Federal de São Paulo": {
         "Trio de 11": {
           "Rank": 36,
-          "SiteRank": 10,
+          "SiteRank": 19,
           "Site": "Brazilian Finals",
           "Short name": "UNIFESP",
           "Contestants": [
@@ -926,7 +884,7 @@ CONTESTS[2014]["Nacional"] = {
       "Universidade Salesianas de São Paulo": {
         "#include <beer.h>": {
           "Rank": 37,
-          "SiteRank": 11,
+          "SiteRank": 20,
           "Site": "Brazilian Finals",
           "Short name": "UNISAL",
           "Contestants": [
@@ -942,10 +900,29 @@ CONTESTS[2014]["Nacional"] = {
           "Coach": "Anibal Fernandes"
         }
       },
+      "Universidade São Judas Tadeu": {
+        "São Judas 7": {
+          "Rank": 44,
+          "SiteRank": 22,
+          "Site": "Brazilian Finals",
+          "Short name": "USJT",
+          "Contestants": [
+            "Ricardo Mujin Kim",
+            "Fernando Ferreira De Oliveira",
+            "Luigi Ciccone Pereira"
+          ],
+          "Sex": [
+            "Male",
+            "Male",
+            "Male"
+          ],
+          "Coach": "Carlos Menezes"
+        }
+      },
       "Universidade de São Paulo": {
         "Arquiduque Andorinha": {
           "Rank": 6,
-          "SiteRank": 3,
+          "SiteRank": 5,
           "Site": "Brazilian Finals",
           "Short name": "USP",
           "Contestants": [
@@ -981,7 +958,7 @@ CONTESTS[2014]["Nacional"] = {
       "Universidade de São Paulo - Campus de São Carlos": {
         "Why Mr. Anderson, why?": {
           "Rank": 11,
-          "SiteRank": 5,
+          "SiteRank": 9,
           "Site": "Brazilian Finals",
           "Short name": "USP - ICMC",
           "Contestants": [
@@ -1004,7 +981,7 @@ CONTESTS[2014]["Nacional"] = {
       "UNIOESTE - Campus Cascavel": {
         "Ops! Solução Trivial": {
           "Rank": 43,
-          "SiteRank": 2,
+          "SiteRank": 5,
           "Site": "Brazilian Finals",
           "Short name": "UNIOESTE",
           "Contestants": [
@@ -1041,10 +1018,29 @@ CONTESTS[2014]["Nacional"] = {
       }
     },
     "RS": {
+      "Faculdades Integradas de Taquara": {
+        "bytemen": {
+          "Rank": 45,
+          "SiteRank": 6,
+          "Site": "Brazilian Finals",
+          "Short name": "FACCAT",
+          "Contestants": [
+            "Rodrigo Luiz Frey",
+            "Otávio Montemezzo De Souza",
+            "Paulo Henrique Medeiros"
+          ],
+          "Sex": [
+            "Male",
+            "Male",
+            "Male"
+          ],
+          "Coach": "Francisco Assis Nascimento"
+        }
+      },
       "Universidade Federal de Pelotas": {
         "Haus of Code": {
           "Rank": 56,
-          "SiteRank": 3,
+          "SiteRank": 9,
           "Site": "Brazilian Finals",
           "Short name": "UFPel",
           "Contestants": [
@@ -1063,7 +1059,7 @@ CONTESTS[2014]["Nacional"] = {
       "Universidade Federal do Rio Grande do Sul": {
         "Compilation Error": {
           "Rank": 17,
-          "SiteRank": 1,
+          "SiteRank": 2,
           "Site": "Brazilian Finals",
           "Short name": "UFRGS",
           "Contestants": [
@@ -1082,7 +1078,7 @@ CONTESTS[2014]["Nacional"] = {
       "Universidade Regional do Noroeste do Estado do Rio Grande do Sul": {
         "SP - Spyware": {
           "Rank": 54,
-          "SiteRank": 2,
+          "SiteRank": 8,
           "Site": "Brazilian Finals",
           "Short name": "UNIJUI",
           "Contestants": [
@@ -1103,7 +1099,7 @@ CONTESTS[2014]["Nacional"] = {
       "Universidade Federal da Fronteira Sul": {
         "Euterpe": {
           "Rank": 49,
-          "SiteRank": 3,
+          "SiteRank": 7,
           "Site": "Brazilian Finals",
           "Short name": "UFFS",
           "Contestants": [
@@ -1120,7 +1116,7 @@ CONTESTS[2014]["Nacional"] = {
         },
         "The Morgans": {
           "Rank": 20,
-          "SiteRank": 2,
+          "SiteRank": 4,
           "Site": "Brazilian Finals",
           "Short name": "UFFS",
           "Contestants": [
@@ -1139,7 +1135,7 @@ CONTESTS[2014]["Nacional"] = {
       "Universidade Federal de Santa Catarina": {
         "Gargamel's Team": {
           "Rank": 18,
-          "SiteRank": 1,
+          "SiteRank": 3,
           "Site": "Brazilian Finals",
           "Short name": "UF Santa Catarina",
           "Contestants": [
@@ -1171,26 +1167,11 @@ if (AGGREGATED["Mean"]["Rank"][2014] === undefined)
 
 AGGREGATED["Mean"]["Rank"][2014]["Nacional"] = {
   "Brasil": {
-    "Value": 46.833333333333336,
+    "Value": 55.0,
     "BR": {
-      "Value": 46.833333333333336,
-      "Centro Universitário Católico Salesiano Auxilum": {
-        "Value": 27.0
-      },
+      "Value": 55.0,
       "Faculdade Maurício de Nassau Parnaíba": {
         "Value": 55.0
-      },
-      "Faculdades Integradas de Taquara": {
-        "Value": 45.0
-      },
-      "Instituto Federal de Educação, Ciência e Tecnologia do Triângulo Mineiro - Campus Paracatu": {
-        "Value": 47.0
-      },
-      "Universidade Federal Fluminense": {
-        "Value": 57.0
-      },
-      "Universidade São Judas Tadeu": {
-        "Value": 44.0
       }
     }
   },
@@ -1291,7 +1272,7 @@ AGGREGATED["Mean"]["Rank"][2014]["Nacional"] = {
     }
   },
   "Sudeste": {
-    "Value": 26.024390243902438,
+    "Value": 28.713286713286713,
     "ES": {
       "Value": 31.0,
       "Universidade Federal do Espirito Santo": {
@@ -1299,12 +1280,15 @@ AGGREGATED["Mean"]["Rank"][2014]["Nacional"] = {
       }
     },
     "MG": {
-      "Value": 28.5625,
+      "Value": 31.054054054054053,
       "Federal University of Minas Gerais": {
         "Value": 5.0
       },
       "Instituto Federal Do Norte de Minas Gerais - Campus Montes Claros": {
         "Value": 49.0
+      },
+      "Instituto Federal de Educação, Ciência e Tecnologia do Triângulo Mineiro - Campus Paracatu": {
+        "Value": 47.0
       },
       "Universidade Federal de Itajubá - Campus Itajubá": {
         "Value": 19.0
@@ -1320,16 +1304,22 @@ AGGREGATED["Mean"]["Rank"][2014]["Nacional"] = {
       }
     },
     "RJ": {
-      "Value": 22.68421052631579,
+      "Value": 30.92,
       "Instituto Militar de Engenharia": {
         "Value": 32.27272727272727
+      },
+      "Universidade Federal Fluminense": {
+        "Value": 57.0
       },
       "Universidade Federal do Rio de Janeiro": {
         "Value": 9.5
       }
     },
     "SP": {
-      "Value": 25.470588235294116,
+      "Value": 26.753246753246753,
+      "Centro Universitário Católico Salesiano Auxilum": {
+        "Value": 27.0
+      },
       "Centro Universitário da FEI": {
         "Value": 34.0
       },
@@ -1357,6 +1347,9 @@ AGGREGATED["Mean"]["Rank"][2014]["Nacional"] = {
       "Universidade Salesianas de São Paulo": {
         "Value": 37.0
       },
+      "Universidade São Judas Tadeu": {
+        "Value": 44.0
+      },
       "Universidade de São Paulo": {
         "Value": 3.5
       },
@@ -1366,7 +1359,7 @@ AGGREGATED["Mean"]["Rank"][2014]["Nacional"] = {
     }
   },
   "Sul": {
-    "Value": 33.77777777777778,
+    "Value": 35.146341463414636,
     "PR": {
       "Value": 27.5,
       "UNIOESTE - Campus Cascavel": {
@@ -1377,7 +1370,10 @@ AGGREGATED["Mean"]["Rank"][2014]["Nacional"] = {
       }
     },
     "RS": {
-      "Value": 41.5,
+      "Value": 42.421052631578945,
+      "Faculdades Integradas de Taquara": {
+        "Value": 45.0
+      },
       "Universidade Federal de Pelotas": {
         "Value": 56.0
       },
@@ -1411,18 +1407,6 @@ if (AGGREGATED["Count"]["Girls"][2014] === undefined)
   AGGREGATED["Count"]["Girls"][2014] = {};
 
 AGGREGATED["Count"]["Girls"][2014]["Nacional"] = {
-  "Brasil": {
-    "Value": 2,
-    "BR": {
-      "Value": 2,
-      "Centro Universitário Católico Salesiano Auxilum": {
-        "Value": 1
-      },
-      "Instituto Federal de Educação, Ciência e Tecnologia do Triângulo Mineiro - Campus Paracatu": {
-        "Value": 1
-      }
-    }
-  },
   "Nordeste": {
     "Value": 2,
     "BA": {
@@ -1448,9 +1432,18 @@ AGGREGATED["Count"]["Girls"][2014]["Nacional"] = {
     }
   },
   "Sudeste": {
-    "Value": 2,
+    "Value": 4,
+    "MG": {
+      "Value": 1,
+      "Instituto Federal de Educação, Ciência e Tecnologia do Triângulo Mineiro - Campus Paracatu": {
+        "Value": 1
+      }
+    },
     "SP": {
-      "Value": 2,
+      "Value": 3,
+      "Centro Universitário Católico Salesiano Auxilum": {
+        "Value": 1
+      },
       "Universidade Estadual de Campinas": {
         "Value": 1
       },
@@ -1474,25 +1467,10 @@ if (AGGREGATED["Count"]["Teams"][2014] === undefined)
 
 AGGREGATED["Count"]["Teams"][2014]["Nacional"] = {
   "Brasil": {
-    "Value": 6,
+    "Value": 1,
     "BR": {
-      "Value": 6,
-      "Centro Universitário Católico Salesiano Auxilum": {
-        "Value": 1
-      },
+      "Value": 1,
       "Faculdade Maurício de Nassau Parnaíba": {
-        "Value": 1
-      },
-      "Faculdades Integradas de Taquara": {
-        "Value": 1
-      },
-      "Instituto Federal de Educação, Ciência e Tecnologia do Triângulo Mineiro - Campus Paracatu": {
-        "Value": 1
-      },
-      "Universidade Federal Fluminense": {
-        "Value": 1
-      },
-      "Universidade São Judas Tadeu": {
         "Value": 1
       }
     }
@@ -1594,7 +1572,7 @@ AGGREGATED["Count"]["Teams"][2014]["Nacional"] = {
     }
   },
   "Sudeste": {
-    "Value": 26,
+    "Value": 30,
     "ES": {
       "Value": 1,
       "Universidade Federal do Espirito Santo": {
@@ -1602,11 +1580,14 @@ AGGREGATED["Count"]["Teams"][2014]["Nacional"] = {
       }
     },
     "MG": {
-      "Value": 7,
+      "Value": 8,
       "Federal University of Minas Gerais": {
         "Value": 1
       },
       "Instituto Federal Do Norte de Minas Gerais - Campus Montes Claros": {
+        "Value": 1
+      },
+      "Instituto Federal de Educação, Ciência e Tecnologia do Triângulo Mineiro - Campus Paracatu": {
         "Value": 1
       },
       "Universidade Federal de Itajubá - Campus Itajubá": {
@@ -1623,16 +1604,22 @@ AGGREGATED["Count"]["Teams"][2014]["Nacional"] = {
       }
     },
     "RJ": {
-      "Value": 4,
+      "Value": 5,
       "Instituto Militar de Engenharia": {
         "Value": 2
+      },
+      "Universidade Federal Fluminense": {
+        "Value": 1
       },
       "Universidade Federal do Rio de Janeiro": {
         "Value": 2
       }
     },
     "SP": {
-      "Value": 14,
+      "Value": 16,
+      "Centro Universitário Católico Salesiano Auxilum": {
+        "Value": 1
+      },
       "Centro Universitário da FEI": {
         "Value": 1
       },
@@ -1660,6 +1647,9 @@ AGGREGATED["Count"]["Teams"][2014]["Nacional"] = {
       "Universidade Salesianas de São Paulo": {
         "Value": 1
       },
+      "Universidade São Judas Tadeu": {
+        "Value": 1
+      },
       "Universidade de São Paulo": {
         "Value": 2
       },
@@ -1669,7 +1659,7 @@ AGGREGATED["Count"]["Teams"][2014]["Nacional"] = {
     }
   },
   "Sul": {
-    "Value": 8,
+    "Value": 9,
     "PR": {
       "Value": 2,
       "UNIOESTE - Campus Cascavel": {
@@ -1680,7 +1670,10 @@ AGGREGATED["Count"]["Teams"][2014]["Nacional"] = {
       }
     },
     "RS": {
-      "Value": 3,
+      "Value": 4,
+      "Faculdades Integradas de Taquara": {
+        "Value": 1
+      },
       "Universidade Federal de Pelotas": {
         "Value": 1
       },

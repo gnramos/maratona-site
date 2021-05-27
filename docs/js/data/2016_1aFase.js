@@ -8821,7 +8821,7 @@ CONTESTS[2016]["1aFase"] = {
           "Rank": 232,
           "SiteRank": 7,
           "Site": "Campinas",
-          "Short name": "Faculdade de Jaguariúna - FAJ",
+          "Short name": "FAJ",
           "Contestants": [
             "Alexandre Pinto Da Silva Júnior",
             "James Anderson Dos Santos Sousa",
@@ -8838,7 +8838,7 @@ CONTESTS[2016]["1aFase"] = {
           "Rank": 432,
           "SiteRank": 10,
           "Site": "Campinas",
-          "Short name": "Faculdade de Jaguariúna - FAJ",
+          "Short name": "FAJ",
           "Contestants": [
             "Jeferson Rafael Da Costa",
             "Bruno Caleffi",
@@ -8855,7 +8855,7 @@ CONTESTS[2016]["1aFase"] = {
           "Rank": 559,
           "SiteRank": 13,
           "Site": "Campinas",
-          "Short name": "Faculdade de Jaguariúna - FAJ",
+          "Short name": "FAJ",
           "Contestants": [
             "Bianca Roberta Da Silva",
             "Matheus Alexander Elias Dos Santos",
@@ -8872,7 +8872,7 @@ CONTESTS[2016]["1aFase"] = {
           "Rank": 714,
           "SiteRank": 14,
           "Site": "Campinas",
-          "Short name": "Faculdade de Jaguariúna - FAJ",
+          "Short name": "FAJ",
           "Contestants": [
             "Paulo Henrique Marchi",
             "Victor Leandro",
@@ -10744,7 +10744,7 @@ CONTESTS[2016]["1aFase"] = {
           "Rank": 704,
           "SiteRank": 42,
           "Site": "São Paulo",
-          "Short name": "Universidade São Judas Tadeu",
+          "Short name": "USJT",
           "Contestants": [
             "Diogo Almeida Brito",
             "Klauss Diniz",
@@ -10761,7 +10761,7 @@ CONTESTS[2016]["1aFase"] = {
           "Rank": 543,
           "SiteRank": 31,
           "Site": "São Paulo",
-          "Short name": "Universidade São Judas Tadeu",
+          "Short name": "USJT",
           "Contestants": [
             "Evandro V Frias",
             "Emerson S Pereira",
@@ -10778,7 +10778,7 @@ CONTESTS[2016]["1aFase"] = {
           "Rank": 479,
           "SiteRank": 24,
           "Site": "São Paulo",
-          "Short name": "Universidade São Judas Tadeu",
+          "Short name": "USJT",
           "Contestants": [
             "Francisco Jose Junior",
             "Paulo Rafael Silva",
@@ -10795,7 +10795,7 @@ CONTESTS[2016]["1aFase"] = {
           "Rank": 412,
           "SiteRank": 20,
           "Site": "São Paulo",
-          "Short name": "Universidade São Judas Tadeu",
+          "Short name": "USJT",
           "Contestants": [
             "Jean Thomas Vitor Negreiros Da Silva",
             "Marcio Ulian Raimo",
@@ -10812,7 +10812,7 @@ CONTESTS[2016]["1aFase"] = {
           "Rank": 732,
           "SiteRank": 46,
           "Site": "São Paulo",
-          "Short name": "Universidade São Judas Tadeu",
+          "Short name": "USJT",
           "Contestants": [
             "Maxwell Gama Cesar",
             "Robson Pereira Da Silva",
@@ -10829,7 +10829,7 @@ CONTESTS[2016]["1aFase"] = {
           "Rank": 690,
           "SiteRank": 39,
           "Site": "São Paulo",
-          "Short name": "Universidade São Judas Tadeu",
+          "Short name": "USJT",
           "Contestants": [
             "Bruno Nascimento Bernardo",
             "Letícia Fernandes De Almeida",
@@ -10846,7 +10846,7 @@ CONTESTS[2016]["1aFase"] = {
           "Rank": 731,
           "SiteRank": 45,
           "Site": "São Paulo",
-          "Short name": "Universidade São Judas Tadeu",
+          "Short name": "USJT",
           "Contestants": [
             "William Vianna De Oliveira",
             "Amanda Gil Adão",
@@ -10863,7 +10863,7 @@ CONTESTS[2016]["1aFase"] = {
           "Rank": 732,
           "SiteRank": 46,
           "Site": "São Paulo",
-          "Short name": "Universidade São Judas Tadeu",
+          "Short name": "USJT",
           "Contestants": [
             "Andressa Vaz Pinto",
             "Jéssica Gomes Da Silva",
@@ -10880,7 +10880,7 @@ CONTESTS[2016]["1aFase"] = {
           "Rank": 404,
           "SiteRank": 18,
           "Site": "São Paulo",
-          "Short name": "Universidade São Judas Tadeu",
+          "Short name": "USJT",
           "Contestants": [
             "Vinicius Biondi França",
             "Wendel Hime Lino Castro",
@@ -10897,7 +10897,7 @@ CONTESTS[2016]["1aFase"] = {
           "Rank": 359,
           "SiteRank": 16,
           "Site": "São Paulo",
-          "Short name": "Universidade São Judas Tadeu",
+          "Short name": "USJT",
           "Contestants": [
             "Pedro Henrique Marinho Durek",
             "Giovanni Bruno Molitor Schiffini",
@@ -10914,7 +10914,7 @@ CONTESTS[2016]["1aFase"] = {
           "Rank": 702,
           "SiteRank": 41,
           "Site": "São Paulo",
-          "Short name": "Universidade São Judas Tadeu",
+          "Short name": "USJT",
           "Contestants": [
             "Max W M Araújo",
             "Ruana B Martins",
@@ -10931,7 +10931,7 @@ CONTESTS[2016]["1aFase"] = {
           "Rank": 658,
           "SiteRank": 37,
           "Site": "São Paulo",
-          "Short name": "Universidade São Judas Tadeu",
+          "Short name": "USJT",
           "Contestants": [
             "Victor M Andreassa",
             "Kauê Bueno",
@@ -10948,7 +10948,7 @@ CONTESTS[2016]["1aFase"] = {
           "Rank": 490,
           "SiteRank": 26,
           "Site": "São Paulo",
-          "Short name": "Universidade São Judas Tadeu",
+          "Short name": "USJT",
           "Contestants": [
             "Guilherme Galvão Nizoli",
             "Ítalo A S Cordeiro",
@@ -10965,7 +10965,7 @@ CONTESTS[2016]["1aFase"] = {
           "Rank": 708,
           "SiteRank": 43,
           "Site": "São Paulo",
-          "Short name": "Universidade São Judas Tadeu",
+          "Short name": "USJT",
           "Contestants": [
             "Ricardo Mujin Kim",
             "Wellington Levi",
@@ -10982,7 +10982,7 @@ CONTESTS[2016]["1aFase"] = {
           "Rank": 139,
           "SiteRank": 5,
           "Site": "São Paulo",
-          "Short name": "Universidade São Judas Tadeu",
+          "Short name": "USJT",
           "Contestants": [
             "Caique Dos Santos Coelho",
             "Thiago Batista Soares",
@@ -10999,7 +10999,7 @@ CONTESTS[2016]["1aFase"] = {
           "Rank": 417,
           "SiteRank": 21,
           "Site": "São Paulo",
-          "Short name": "Universidade São Judas Tadeu",
+          "Short name": "USJT",
           "Contestants": [
             "Thiago Almeida",
             "Augusto Simoes",

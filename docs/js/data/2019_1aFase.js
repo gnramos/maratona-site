@@ -8948,7 +8948,7 @@ CONTESTS[2019]["1aFase"] = {
           "Rank": 645,
           "SiteRank": 31,
           "Site": "Sorocaba",
-          "Short name": "Faculdade de Jaguariúna - FAJ",
+          "Short name": "FAJ",
           "Contestants": [
             "Tales Henrique Bueno Rodrigues",
             "Diego La Torre",

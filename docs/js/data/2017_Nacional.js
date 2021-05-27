@@ -9,7 +9,7 @@ CONTESTS[2017]["Nacional"] = {
       "Universidade de Brasília": {
         "Turkeys": {
           "Rank": 16,
-          "SiteRank": 2,
+          "SiteRank": 3,
           "Site": "Brazilian Finals",
           "Short name": "UnB",
           "Contestants": [
@@ -28,7 +28,7 @@ CONTESTS[2017]["Nacional"] = {
       "Universidade de Brasília - Faculdade UnB Gama": {
         "Teorema de Offson": {
           "Rank": 13,
-          "SiteRank": 1,
+          "SiteRank": 2,
           "Site": "Brazilian Finals",
           "Short name": "UnB/FGA",
           "Contestants": [
@@ -68,7 +68,7 @@ CONTESTS[2017]["Nacional"] = {
       "Universidade Católica de Goiás": {
         "One balloon at a time, please!": {
           "Rank": 48,
-          "SiteRank": 2,
+          "SiteRank": 5,
           "Site": "Brazilian Finals",
           "Short name": "UCG",
           "Contestants": [
@@ -89,7 +89,7 @@ CONTESTS[2017]["Nacional"] = {
       "Faculdade de Computação - UFMS": {
         "Só queria fazer joguinho": {
           "Rank": 40,
-          "SiteRank": 1,
+          "SiteRank": 4,
           "Site": "Brazilian Finals",
           "Short name": "FACOM - UFMS",
           "Contestants": [
@@ -110,7 +110,7 @@ CONTESTS[2017]["Nacional"] = {
       "Universidade Federal de Mato Grosso - Campus Cuiabá": {
         "NUll TItle": {
           "Rank": 66,
-          "SiteRank": 1,
+          "SiteRank": 6,
           "Site": "Brazilian Finals",
           "Short name": "UFMT - Cuiabá",
           "Contestants": [
@@ -133,7 +133,7 @@ CONTESTS[2017]["Nacional"] = {
       "Universidade Federal de Alagoas": {
         "Gemidão da Maratona": {
           "Rank": 45,
-          "SiteRank": 1,
+          "SiteRank": 9,
           "Site": "Brazilian Finals",
           "Short name": "UFAL",
           "Contestants": [
@@ -154,7 +154,7 @@ CONTESTS[2017]["Nacional"] = {
       "Universidade Estadual de Feira de Santana": {
         "bit please;": {
           "Rank": 51,
-          "SiteRank": 2,
+          "SiteRank": 12,
           "Site": "Brazilian Finals",
           "Short name": "UEFS",
           "Contestants": [
@@ -173,7 +173,7 @@ CONTESTS[2017]["Nacional"] = {
       "Universidade Federal da Bahia": {
         "Bira e seus craques": {
           "Rank": 29,
-          "SiteRank": 1,
+          "SiteRank": 7,
           "Site": "Brazilian Finals",
           "Short name": "UFBA",
           "Contestants": [
@@ -194,7 +194,7 @@ CONTESTS[2017]["Nacional"] = {
       "Instituto Federal de Educação, Ciência e Tecnologia do Ceará - Campus Crato": {
         "Access Violation": {
           "Rank": 47,
-          "SiteRank": 3,
+          "SiteRank": 10,
           "Site": "Brazilian Finals",
           "Short name": "IFCE - Campus Crato",
           "Contestants": [
@@ -213,7 +213,7 @@ CONTESTS[2017]["Nacional"] = {
       "Instituto Federal de Ensino, Ciência e Tecnologia do Ceará": {
         "O importante é não zerar!": {
           "Rank": 36,
-          "SiteRank": 2,
+          "SiteRank": 8,
           "Site": "Brazilian Finals",
           "Short name": "IFCE",
           "Contestants": [
@@ -232,7 +232,7 @@ CONTESTS[2017]["Nacional"] = {
       "Universidade Estadual do Ceará": {
         "VDC": {
           "Rank": 20,
-          "SiteRank": 1,
+          "SiteRank": 6,
           "Site": "Brazilian Finals",
           "Short name": "UECE",
           "Contestants": [
@@ -253,7 +253,7 @@ CONTESTS[2017]["Nacional"] = {
       "Universidade Federal do Maranhão": {
         "Simone e Simara UFMA": {
           "Rank": 50,
-          "SiteRank": 1,
+          "SiteRank": 11,
           "Site": "Brazilian Finals",
           "Short name": "UFMA",
           "Contestants": [
@@ -274,7 +274,7 @@ CONTESTS[2017]["Nacional"] = {
       "Instituto Federal de Educação, Ciência e Tecnologia da Paraíba - Campus João Pessoa": {
         "Nome Provisório": {
           "Rank": 55,
-          "SiteRank": 4,
+          "SiteRank": 14,
           "Site": "Brazilian Finals",
           "Short name": "IFPB - João Pessoa",
           "Contestants": [
@@ -293,7 +293,7 @@ CONTESTS[2017]["Nacional"] = {
       "Universidade Federal da Paraíba": {
         "fuze": {
           "Rank": 53,
-          "SiteRank": 3,
+          "SiteRank": 13,
           "Site": "Brazilian Finals",
           "Short name": "UFPB",
           "Contestants": [
@@ -312,7 +312,7 @@ CONTESTS[2017]["Nacional"] = {
       "Universidade Federal de Campina Grande": {
         "Choose difficulty: TITAN": {
           "Rank": 5,
-          "SiteRank": 1,
+          "SiteRank": 2,
           "Site": "Brazilian Finals",
           "Short name": "UFCG",
           "Contestants": [
@@ -329,7 +329,7 @@ CONTESTS[2017]["Nacional"] = {
         },
         "Se juntas causa imagina juntas": {
           "Rank": 7,
-          "SiteRank": 2,
+          "SiteRank": 4,
           "Site": "Brazilian Finals",
           "Short name": "UFCG",
           "Contestants": [
@@ -367,7 +367,7 @@ CONTESTS[2017]["Nacional"] = {
         },
         "Veteranos Bolados": {
           "Rank": 15,
-          "SiteRank": 2,
+          "SiteRank": 5,
           "Site": "Brazilian Finals",
           "Short name": "UFPE",
           "Contestants": [
@@ -388,7 +388,7 @@ CONTESTS[2017]["Nacional"] = {
       "Universidade Estadual do Piauí": {
         "Dragon Ball C": {
           "Rank": 68,
-          "SiteRank": 2,
+          "SiteRank": 17,
           "Site": "Brazilian Finals",
           "Short name": "UESPI",
           "Contestants": [
@@ -407,7 +407,7 @@ CONTESTS[2017]["Nacional"] = {
       "Universidade Federal do Piauí": {
         "Cafeína Overflow": {
           "Rank": 63,
-          "SiteRank": 1,
+          "SiteRank": 15,
           "Site": "Brazilian Finals",
           "Short name": "UFPI",
           "Contestants": [
@@ -428,7 +428,7 @@ CONTESTS[2017]["Nacional"] = {
       "Universidade Federal do Rio Grande do Norte": {
         "Ginga com Tapioca": {
           "Rank": 6,
-          "SiteRank": 1,
+          "SiteRank": 3,
           "Site": "Brazilian Finals",
           "Short name": "UFRN",
           "Contestants": [
@@ -449,7 +449,7 @@ CONTESTS[2017]["Nacional"] = {
       "Universidade Federal de Sergipe": {
         "80km é 80km @do": {
           "Rank": 67,
-          "SiteRank": 1,
+          "SiteRank": 16,
           "Site": "Brazilian Finals",
           "Short name": "U Federal de Sergipe",
           "Contestants": [
@@ -472,7 +472,7 @@ CONTESTS[2017]["Nacional"] = {
       "Universidade Federal do Acre": {
         "IRMÃO OLHO": {
           "Rank": 72,
-          "SiteRank": 1,
+          "SiteRank": 6,
           "Site": "Brazilian Finals",
           "Short name": "UFAC",
           "Contestants": [
@@ -514,7 +514,7 @@ CONTESTS[2017]["Nacional"] = {
       "Instituto Federal de Educação, Ciência e Tecnologia do Triângulo Mineiro campus Uberaba Parque Tecnológico": {
         "D_bug": {
           "Rank": 64,
-          "SiteRank": 2,
+          "SiteRank": 4,
           "Site": "Brazilian Finals",
           "Short name": "IFTM campus UPT",
           "Contestants": [
@@ -533,7 +533,7 @@ CONTESTS[2017]["Nacional"] = {
       "Universidade Federal do Pará": {
         "Cvaicomnois kazuya": {
           "Rank": 46,
-          "SiteRank": 1,
+          "SiteRank": 2,
           "Site": "Brazilian Finals",
           "Short name": "",
           "Contestants": [
@@ -554,7 +554,7 @@ CONTESTS[2017]["Nacional"] = {
       "Universidade Federal de Roraima": {
         "Invictus": {
           "Rank": 60,
-          "SiteRank": 1,
+          "SiteRank": 3,
           "Site": "Brazilian Finals",
           "Short name": "UFRR",
           "Contestants": [
@@ -575,7 +575,7 @@ CONTESTS[2017]["Nacional"] = {
       "Universidade Federal do Tocantins": {
         "C de Carrasco": {
           "Rank": 70,
-          "SiteRank": 1,
+          "SiteRank": 5,
           "Site": "Brazilian Finals",
           "Short name": "UFT",
           "Contestants": [
@@ -598,7 +598,7 @@ CONTESTS[2017]["Nacional"] = {
       "Universidade Federal do Espirito Santo": {
         "Over9k": {
           "Rank": 42,
-          "SiteRank": 1,
+          "SiteRank": 23,
           "Site": "Brazilian Finals",
           "Short name": "UFES",
           "Contestants": [
@@ -619,7 +619,7 @@ CONTESTS[2017]["Nacional"] = {
       "Centro Federal de Educação Tecnológica de Minas Gerais": {
         "CEFETIM": {
           "Rank": 38,
-          "SiteRank": 7,
+          "SiteRank": 20,
           "Site": "Brazilian Finals",
           "Short name": "CEFET-MG",
           "Contestants": [
@@ -638,7 +638,7 @@ CONTESTS[2017]["Nacional"] = {
       "Centro Federal de Educação Tecnológica de Minas Gerais - Campus 2": {
         "Ceferberus": {
           "Rank": 57,
-          "SiteRank": 8,
+          "SiteRank": 27,
           "Site": "Brazilian Finals",
           "Short name": "CEFET-MG-C2",
           "Contestants": [
@@ -657,7 +657,7 @@ CONTESTS[2017]["Nacional"] = {
       "INATEL - Instituto Nacional de Telecomunicações": {
         "stormtroop3rs [C]": {
           "Rank": 22,
-          "SiteRank": 4,
+          "SiteRank": 12,
           "Site": "Brazilian Finals",
           "Short name": "INATEL",
           "Contestants": [
@@ -676,7 +676,7 @@ CONTESTS[2017]["Nacional"] = {
       "Instituto Federal Do Norte de Minas Gerais - Campus Montes Claros": {
         "Na zdrowie!": {
           "Rank": 71,
-          "SiteRank": 10,
+          "SiteRank": 31,
           "Site": "Brazilian Finals",
           "Short name": "IFNMG - Campus Monte",
           "Contestants": [
@@ -695,7 +695,7 @@ CONTESTS[2017]["Nacional"] = {
       "Universidade Federal de Itajubá - Campus Itajubá": {
         "Nuclear Coders": {
           "Rank": 19,
-          "SiteRank": 3,
+          "SiteRank": 10,
           "Site": "Brazilian Finals",
           "Short name": "UNIFEI",
           "Contestants": [
@@ -714,7 +714,7 @@ CONTESTS[2017]["Nacional"] = {
       "Universidade Federal de Minas Gerais": {
         "Trupe da Biologia": {
           "Rank": 17,
-          "SiteRank": 2,
+          "SiteRank": 8,
           "Site": "Brazilian Finals",
           "Short name": "UFMG",
           "Contestants": [
@@ -733,7 +733,7 @@ CONTESTS[2017]["Nacional"] = {
       "Universidade Federal de Uberlândia": {
         "Ahozinho com Feijão": {
           "Rank": 14,
-          "SiteRank": 1,
+          "SiteRank": 7,
           "Site": "Brazilian Finals",
           "Short name": "UFU",
           "Contestants": [
@@ -752,7 +752,7 @@ CONTESTS[2017]["Nacional"] = {
       "Universidade Federal de Uberlândia - Campus Monte Carmelo - Sistemas de Informação": {
         "Bit Please": {
           "Rank": 27,
-          "SiteRank": 5,
+          "SiteRank": 15,
           "Site": "Brazilian Finals",
           "Short name": "UFU-Monte Carmelo/SI",
           "Contestants": [
@@ -771,7 +771,7 @@ CONTESTS[2017]["Nacional"] = {
       "Universidade Federal de Viçosa": {
         "Teoria dos Papibaquígrafos": {
           "Rank": 30,
-          "SiteRank": 6,
+          "SiteRank": 17,
           "Site": "Brazilian Finals",
           "Short name": "DPI-UFV",
           "Contestants": [
@@ -790,7 +790,7 @@ CONTESTS[2017]["Nacional"] = {
       "Universidade Federal de Viçosa - Campus Rio Paranaiba - Sistemas de Informação": {
         "while(1)": {
           "Rank": 62,
-          "SiteRank": 9,
+          "SiteRank": 29,
           "Site": "Brazilian Finals",
           "Short name": "UFV-Rio Paranaiba/SI",
           "Contestants": [
@@ -811,7 +811,7 @@ CONTESTS[2017]["Nacional"] = {
       "Centro Universitário Serra dos Órgãos - UNIFESO": {
         "100^o": {
           "Rank": 25,
-          "SiteRank": 3,
+          "SiteRank": 13,
           "Site": "Brazilian Finals",
           "Short name": "UNIFESO",
           "Contestants": [
@@ -830,7 +830,7 @@ CONTESTS[2017]["Nacional"] = {
       "Instituto Militar de Engenharia": {
         "Lorem Ipsum": {
           "Rank": 9,
-          "SiteRank": 2,
+          "SiteRank": 5,
           "Site": "Brazilian Finals",
           "Short name": "IME",
           "Contestants": [
@@ -849,7 +849,7 @@ CONTESTS[2017]["Nacional"] = {
       "Pontificia Universidade Catolica do Rio de Janeiro": {
         "NP-Drada": {
           "Rank": 26,
-          "SiteRank": 4,
+          "SiteRank": 14,
           "Site": "Brazilian Finals",
           "Short name": "PUC Rio de Janeiro",
           "Contestants": [
@@ -868,7 +868,7 @@ CONTESTS[2017]["Nacional"] = {
       "Universidade Federal do Rio de Janeiro": {
         "Esse é meu time": {
           "Rank": 8,
-          "SiteRank": 1,
+          "SiteRank": 4,
           "Site": "Brazilian Finals",
           "Short name": "UF Rio de Janeiro",
           "Contestants": [
@@ -887,7 +887,7 @@ CONTESTS[2017]["Nacional"] = {
       "Universidade do Estado do Rio de Janeiro": {
         "Algum Ritmo": {
           "Rank": 28,
-          "SiteRank": 5,
+          "SiteRank": 16,
           "Site": "Brazilian Finals",
           "Short name": "UERJ",
           "Contestants": [
@@ -908,7 +908,7 @@ CONTESTS[2017]["Nacional"] = {
       "Centro Universitário da FEI": {
         "Desistiu???": {
           "Rank": 39,
-          "SiteRank": 9,
+          "SiteRank": 21,
           "Site": "Brazilian Finals",
           "Short name": "FEI",
           "Contestants": [
@@ -927,7 +927,7 @@ CONTESTS[2017]["Nacional"] = {
       "Escola Superior de Propaganda e Marketing de São Paulo": {
         "Array of Thrones": {
           "Rank": 41,
-          "SiteRank": 10,
+          "SiteRank": 22,
           "Site": "Brazilian Finals",
           "Short name": "ESPM",
           "Contestants": [
@@ -946,7 +946,7 @@ CONTESTS[2017]["Nacional"] = {
       "Faculdade de Tecnologia de São Paulo": {
         "TLEfobia": {
           "Rank": 59,
-          "SiteRank": 14,
+          "SiteRank": 28,
           "Site": "Brazilian Finals",
           "Short name": "FATEC São Paulo",
           "Contestants": [
@@ -965,7 +965,7 @@ CONTESTS[2017]["Nacional"] = {
       "Instituto Tecnológico de Aeronautica": {
         "CalopsITA": {
           "Rank": 10,
-          "SiteRank": 4,
+          "SiteRank": 6,
           "Site": "Brazilian Finals",
           "Short name": "ITA",
           "Contestants": [
@@ -984,7 +984,7 @@ CONTESTS[2017]["Nacional"] = {
       "UNESP - Universidade Estadual Paulista - (Faculdade de Ciências - Bauru)": {
         "UNESP Bauru": {
           "Rank": 65,
-          "SiteRank": 15,
+          "SiteRank": 30,
           "Site": "Brazilian Finals",
           "Short name": "UNESP-Bauru",
           "Contestants": [
@@ -1003,7 +1003,7 @@ CONTESTS[2017]["Nacional"] = {
       "UNOESTE - Universidade do Oeste Paulista": {
         "C-3PO": {
           "Rank": 54,
-          "SiteRank": 12,
+          "SiteRank": 25,
           "Site": "Brazilian Finals",
           "Short name": "UNOESTE",
           "Contestants": [
@@ -1022,7 +1022,7 @@ CONTESTS[2017]["Nacional"] = {
       "Universidade Estadual de Campinas": {
         "Six Balls": {
           "Rank": 21,
-          "SiteRank": 6,
+          "SiteRank": 11,
           "Site": "Brazilian Finals",
           "Short name": "UNICAMP",
           "Contestants": [
@@ -1041,7 +1041,7 @@ CONTESTS[2017]["Nacional"] = {
       "Universidade Federal de São Carlos": {
         "vai_na.sort()": {
           "Rank": 37,
-          "SiteRank": 8,
+          "SiteRank": 19,
           "Site": "Brazilian Finals",
           "Short name": "UFSCar",
           "Contestants": [
@@ -1060,7 +1060,7 @@ CONTESTS[2017]["Nacional"] = {
       "Universidade Federal de São Carlos - Campus Sorocaba": {
         "C ilá": {
           "Rank": 34,
-          "SiteRank": 7,
+          "SiteRank": 18,
           "Site": "Brazilian Finals",
           "Short name": "UFSCar-Sorocaba",
           "Contestants": [
@@ -1079,7 +1079,7 @@ CONTESTS[2017]["Nacional"] = {
       "Universidade Presbiteriana Mackenzie": {
         "RALÔTIM": {
           "Rank": 56,
-          "SiteRank": 13,
+          "SiteRank": 26,
           "Site": "Brazilian Finals",
           "Short name": "",
           "Contestants": [
@@ -1151,7 +1151,7 @@ CONTESTS[2017]["Nacional"] = {
         },
         "Tô Nem Vendo": {
           "Rank": 18,
-          "SiteRank": 5,
+          "SiteRank": 9,
           "Site": "Brazilian Finals",
           "Short name": "USP - São Carlos",
           "Contestants": [
@@ -1170,7 +1170,7 @@ CONTESTS[2017]["Nacional"] = {
       "Universidade de Taubaté": {
         "O Legado de Maldito": {
           "Rank": 52,
-          "SiteRank": 11,
+          "SiteRank": 24,
           "Site": "Brazilian Finals",
           "Short name": "UNITAU",
           "Contestants": [
@@ -1193,7 +1193,7 @@ CONTESTS[2017]["Nacional"] = {
       "Centro Universitário Luterano de Ji-Paraná da ULBRA": {
         "Javainois": {
           "Rank": 69,
-          "SiteRank": 5,
+          "SiteRank": 12,
           "Site": "Brazilian Finals",
           "Short name": "CEULJI-ULBRA",
           "Contestants": [
@@ -1231,7 +1231,7 @@ CONTESTS[2017]["Nacional"] = {
       "UNIOESTE - Campus de Foz do Iguaçu": {
         "That Was Easy": {
           "Rank": 43,
-          "SiteRank": 4,
+          "SiteRank": 7,
           "Site": "Brazilian Finals",
           "Short name": "UNIOESTE",
           "Contestants": [
@@ -1250,7 +1250,7 @@ CONTESTS[2017]["Nacional"] = {
       "Universidade Federal do Paraná": {
         "YouShallNot.cpp": {
           "Rank": 32,
-          "SiteRank": 3,
+          "SiteRank": 5,
           "Site": "Brazilian Finals",
           "Short name": "UF Paraná",
           "Contestants": [
@@ -1269,7 +1269,7 @@ CONTESTS[2017]["Nacional"] = {
       "Universidade Tecnológica Federal do Paraná - campus Ponta Grossa": {
         "BugBusters": {
           "Rank": 31,
-          "SiteRank": 2,
+          "SiteRank": 4,
           "Site": "Brazilian Finals",
           "Short name": "UTFPR- Ponta Grossa",
           "Contestants": [
@@ -1290,7 +1290,7 @@ CONTESTS[2017]["Nacional"] = {
       "Pontifícia Universidade Católica do Rio Grande do Sul": {
         "NULL 1": {
           "Rank": 61,
-          "SiteRank": 5,
+          "SiteRank": 11,
           "Site": "Brazilian Finals",
           "Short name": "PUCRS",
           "Contestants": [
@@ -1309,7 +1309,7 @@ CONTESTS[2017]["Nacional"] = {
       "Universidade Federal de Pelotas": {
         "Time da Jaula": {
           "Rank": 44,
-          "SiteRank": 3,
+          "SiteRank": 8,
           "Site": "Brazilian Finals",
           "Short name": "UFPel",
           "Contestants": [
@@ -1328,7 +1328,7 @@ CONTESTS[2017]["Nacional"] = {
       "Universidade Federal do Rio Grande do Sul": {
         "#include __FILE__": {
           "Rank": 24,
-          "SiteRank": 2,
+          "SiteRank": 3,
           "Site": "Brazilian Finals",
           "Short name": "UFRGS",
           "Contestants": [
@@ -1347,7 +1347,7 @@ CONTESTS[2017]["Nacional"] = {
       "Universidade Regional Integrada - Campus de Erechim": {
         "URI Luminatti": {
           "Rank": 23,
-          "SiteRank": 1,
+          "SiteRank": 2,
           "Site": "Brazilian Finals",
           "Short name": "URI - Erechim",
           "Contestants": [
@@ -1366,7 +1366,7 @@ CONTESTS[2017]["Nacional"] = {
       "Universidade de Passo Fundo": {
         "Skynet dos Pampas": {
           "Rank": 49,
-          "SiteRank": 4,
+          "SiteRank": 9,
           "Site": "Brazilian Finals",
           "Short name": "UPF",
           "Contestants": [
@@ -1387,7 +1387,7 @@ CONTESTS[2017]["Nacional"] = {
       "Universidade Federal da Fronteira Sul": {
         "aBNT Tigers": {
           "Rank": 58,
-          "SiteRank": 2,
+          "SiteRank": 10,
           "Site": "Brazilian Finals",
           "Short name": "UFFS",
           "Contestants": [
@@ -1406,7 +1406,7 @@ CONTESTS[2017]["Nacional"] = {
       "Universidade do Estado de Santa Catarina": {
         "Traveling Balloonsmen": {
           "Rank": 35,
-          "SiteRank": 1,
+          "SiteRank": 6,
           "Site": "Brazilian Finals",
           "Short name": "UDESC",
           "Contestants": [

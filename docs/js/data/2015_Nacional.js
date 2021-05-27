@@ -4,168 +4,12 @@ if (CONTESTS[2015] === undefined)
   CONTESTS[2015] = {};
 
 CONTESTS[2015]["Nacional"] = {
-  "Brasil": {
-    "BR": {
-      "Faculdade de Jaguariúna - FAJ": {
-        "#gcc2015": {
-          "Rank": 41,
-          "SiteRank": 1,
-          "Site": "Brazilian Finals",
-          "Short name": "Faculdade de Jaguariúna - FAJ",
-          "Contestants": [
-            "Antonio Carlos Zechinato",
-            "Jeferson Costa",
-            "Rafael De Abreu Leitão"
-          ],
-          "Sex": [
-            "Male",
-            "Male",
-            "Male"
-          ],
-          "Coach": "Marllon Alves"
-        }
-      },
-      "Faculdade de Porto Velho": {
-        "GARROSH": {
-          "Rank": 62,
-          "SiteRank": 8,
-          "Site": "Brazilian Finals",
-          "Short name": "FIP",
-          "Contestants": [
-            "Jeovan Farias",
-            "Diego Barros De Oliveira",
-            "Rivelino Lazaro Fernandes Farias Junior"
-          ],
-          "Sex": [
-            "Male",
-            "Male",
-            "Male"
-          ],
-          "Coach": "Andrew Ramires May"
-        }
-      },
-      "Instituto Brasileiro de Tecnologia Avançada": {
-        "MATHEMA": {
-          "Rank": 55,
-          "SiteRank": 4,
-          "Site": "Brazilian Finals",
-          "Short name": "IBTA",
-          "Contestants": [
-            "Artur De Almeira Ribeiro",
-            "João Otávio Ribeiro Costa",
-            "Wagner Sousa Santos"
-          ],
-          "Sex": [
-            "Male",
-            "Male",
-            "Male"
-          ],
-          "Coach": "Lucy Mari Tabuti"
-        }
-      },
-      "Instituto Federal de Educação, Ciência e Tecnologia do Sul de Minas": {
-        "C + ou -": {
-          "Rank": 57,
-          "SiteRank": 5,
-          "Site": "Brazilian Finals",
-          "Short name": "IFMS",
-          "Contestants": [
-            "Josias Marques Da Silva",
-            "Cláudia Dos Reis Silva",
-            "Ricardo Negreiros"
-          ],
-          "Sex": [
-            "Male",
-            "Female",
-            "Male"
-          ],
-          "Coach": "Ricardo José Martins"
-        }
-      },
-      "Instituto Federal de Educação, Ciência e Tecnologia do Triângulo Mineiro - Campus Paracatu": {
-        "Zeppelin": {
-          "Rank": 58,
-          "SiteRank": 6,
-          "Site": "Brazilian Finals",
-          "Short name": "IFTM - Campus Paraca",
-          "Contestants": [
-            "João Paulo Rodrigues Soares",
-            "Felipe Godoy",
-            "Mayke Santos"
-          ],
-          "Sex": [
-            "Male",
-            "Male",
-            "Male"
-          ],
-          "Coach": "Edwar Saliba Júnior"
-        }
-      },
-      "Instituto Federal de Educação, Ciência e Tecnologia do Triângulo Mineiro - Campus Uberaba": {
-        "D_bug": {
-          "Rank": 54,
-          "SiteRank": 3,
-          "Site": "Brazilian Finals",
-          "Short name": "IFTM Campus Uberaba",
-          "Contestants": [
-            "Luis Amaral",
-            "Helio Junior",
-            "Kelwin Ferreira"
-          ],
-          "Sex": [
-            "Male",
-            "Male",
-            "Male"
-          ],
-          "Coach": "Daniela Orbolato"
-        }
-      },
-      "Technical University of FEI": {
-        "Ramadores": {
-          "Rank": 60,
-          "SiteRank": 7,
-          "Site": "Brazilian Finals",
-          "Short name": "Technical University of FEI",
-          "Contestants": [
-            "Daniel Costa",
-            "Pamela Peixinho",
-            "Ahmad Khatib"
-          ],
-          "Sex": [
-            "Male",
-            "Female",
-            "Male"
-          ],
-          "Coach": "Paulo Sergio Rodrigues"
-        }
-      },
-      "Universidade São Judas Tadeu": {
-        "Death Code": {
-          "Rank": 44,
-          "SiteRank": 2,
-          "Site": "Brazilian Finals",
-          "Short name": "Universidade São Judas Tadeu",
-          "Contestants": [
-            "Fabio Junior Martins Da Silva",
-            "Nilson Neves Nascimento",
-            "Luigi Ciccone Pereira"
-          ],
-          "Sex": [
-            "Male",
-            "Male",
-            "Male"
-          ],
-          "Coach": "Carlos Menezes"
-        }
-      }
-    }
-  },
   "Centro-Oeste": {
     "DF": {
       "Universidade de Brasília": {
         "Turkeys": {
           "Rank": 45,
-          "SiteRank": 1,
+          "SiteRank": 3,
           "Site": "Brazilian Finals",
           "Short name": "UnB",
           "Contestants": [
@@ -207,7 +51,7 @@ CONTESTS[2015]["Nacional"] = {
       "Campus de Ponta Porã - Universidade Federal de Mato Grosso do Sul": {
         "PizzaHunters": {
           "Rank": 38,
-          "SiteRank": 1,
+          "SiteRank": 2,
           "Site": "Brazilian Finals",
           "Short name": "CPPP - UFMS",
           "Contestants": [
@@ -228,7 +72,7 @@ CONTESTS[2015]["Nacional"] = {
       "Universidade Federal de Mato Grosso - Campus Cuiabá": {
         "Guaraná Ralado": {
           "Rank": 61,
-          "SiteRank": 1,
+          "SiteRank": 4,
           "Site": "Brazilian Finals",
           "Short name": "UFMT - Cuiabá",
           "Contestants": [
@@ -251,7 +95,7 @@ CONTESTS[2015]["Nacional"] = {
       "Universidade Federal de Alagoas": {
         "Moriartys": {
           "Rank": 56,
-          "SiteRank": 1,
+          "SiteRank": 17,
           "Site": "Brazilian Finals",
           "Short name": "UFAL",
           "Contestants": [
@@ -272,7 +116,7 @@ CONTESTS[2015]["Nacional"] = {
       "Universidade Estadual de Feira de Santana": {
         "go horse": {
           "Rank": 51,
-          "SiteRank": 2,
+          "SiteRank": 16,
           "Site": "Brazilian Finals",
           "Short name": "UEFS",
           "Contestants": [
@@ -291,7 +135,7 @@ CONTESTS[2015]["Nacional"] = {
       "Universidade Federal da Bahia": {
         "ROBÉRIO E SEUS TECLADOS": {
           "Rank": 4,
-          "SiteRank": 1,
+          "SiteRank": 3,
           "Site": "Brazilian Finals",
           "Short name": "Ufba",
           "Contestants": [
@@ -312,7 +156,7 @@ CONTESTS[2015]["Nacional"] = {
       "Universidade Estadual do Ceará": {
         "Tha Ali Jom": {
           "Rank": 23,
-          "SiteRank": 1,
+          "SiteRank": 7,
           "Site": "Brazilian Finals",
           "Short name": "UECE",
           "Contestants": [
@@ -331,7 +175,7 @@ CONTESTS[2015]["Nacional"] = {
       "Universidade Federal do Ceará": {
         "Java de C# é R": {
           "Rank": 36,
-          "SiteRank": 2,
+          "SiteRank": 12,
           "Site": "Brazilian Finals",
           "Short name": "UFC",
           "Contestants": [
@@ -352,7 +196,7 @@ CONTESTS[2015]["Nacional"] = {
       "Faculdade de Balsas": {
         "We are Exceptions": {
           "Rank": 32,
-          "SiteRank": 1,
+          "SiteRank": 10,
           "Site": "Brazilian Finals",
           "Short name": "UNIBALSAS",
           "Contestants": [
@@ -373,7 +217,7 @@ CONTESTS[2015]["Nacional"] = {
       "Instituto Federal de Educação, Ciência e Tecnologia da Paraíba - Campus João Pessoa": {
         "CID-10": {
           "Rank": 37,
-          "SiteRank": 3,
+          "SiteRank": 13,
           "Site": "Brazilian Finals",
           "Short name": "IFPB - João Pessoa",
           "Contestants": [
@@ -392,7 +236,7 @@ CONTESTS[2015]["Nacional"] = {
       "Universidade Federal da Paraíba": {
         "Cyberia": {
           "Rank": 40,
-          "SiteRank": 4,
+          "SiteRank": 14,
           "Site": "Brazilian Finals",
           "Short name": "UFPB",
           "Contestants": [
@@ -411,7 +255,7 @@ CONTESTS[2015]["Nacional"] = {
       "Universidade Federal de Campina Grande": {
         "Abella e as feras": {
           "Rank": 2,
-          "SiteRank": 1,
+          "SiteRank": 2,
           "Site": "Brazilian Finals",
           "Short name": "UFCG",
           "Contestants": [
@@ -428,7 +272,7 @@ CONTESTS[2015]["Nacional"] = {
         },
         "Pera, já tá valendo?": {
           "Rank": 25,
-          "SiteRank": 2,
+          "SiteRank": 8,
           "Site": "Brazilian Finals",
           "Short name": "UFCG",
           "Contestants": [
@@ -449,7 +293,7 @@ CONTESTS[2015]["Nacional"] = {
       "Universidade Federal de Pernambuco": {
         "Ballions": {
           "Rank": 6,
-          "SiteRank": 2,
+          "SiteRank": 4,
           "Site": "Brazilian Finals",
           "Short name": "UF Pernambuco",
           "Contestants": [
@@ -485,7 +329,7 @@ CONTESTS[2015]["Nacional"] = {
       "Universidade Federal do Vale do São Francisco": {
         "BruteForceOrientedProgramming": {
           "Rank": 35,
-          "SiteRank": 3,
+          "SiteRank": 11,
           "Site": "Brazilian Finals",
           "Short name": "UNIVASF",
           "Contestants": [
@@ -506,7 +350,7 @@ CONTESTS[2015]["Nacional"] = {
       "Universidade Federal do Piauí": {
         "Rat Doto": {
           "Rank": 19,
-          "SiteRank": 1,
+          "SiteRank": 6,
           "Site": "Brazilian Finals",
           "Short name": "UFPI",
           "Contestants": [
@@ -527,7 +371,7 @@ CONTESTS[2015]["Nacional"] = {
       "Universidade Federal do Rio Grande do Norte": {
         "Absurdo Clássico: Missão Final": {
           "Rank": 10,
-          "SiteRank": 1,
+          "SiteRank": 5,
           "Site": "Brazilian Finals",
           "Short name": "UFRN",
           "Contestants": [
@@ -546,7 +390,7 @@ CONTESTS[2015]["Nacional"] = {
       "Universidade do Estado do Rio Grande do Norte": {
         "double damage": {
           "Rank": 42,
-          "SiteRank": 2,
+          "SiteRank": 15,
           "Site": "Brazilian Finals",
           "Short name": "UERN",
           "Contestants": [
@@ -567,7 +411,7 @@ CONTESTS[2015]["Nacional"] = {
       "Universidade Federal de Sergipe": {
         "Bateu aí?": {
           "Rank": 29,
-          "SiteRank": 1,
+          "SiteRank": 9,
           "Site": "Brazilian Finals",
           "Short name": "U Federal de Sergipe",
           "Contestants": [
@@ -590,7 +434,7 @@ CONTESTS[2015]["Nacional"] = {
       "Universidade Federal do Amazonas": {
         "UFAM-ICOMP-PowerPink": {
           "Rank": 53,
-          "SiteRank": 2,
+          "SiteRank": 3,
           "Site": "Brazilian Finals",
           "Short name": "UFAM",
           "Contestants": [
@@ -609,7 +453,7 @@ CONTESTS[2015]["Nacional"] = {
       "Universidade do Estado do Amazonas": {
         "UEA_Coders": {
           "Rank": 49,
-          "SiteRank": 1,
+          "SiteRank": 2,
           "Site": "Brazilian Finals",
           "Short name": "UEA",
           "Contestants": [
@@ -630,7 +474,7 @@ CONTESTS[2015]["Nacional"] = {
       "Universidade Federal do Pará": {
         "Cvaicomnois": {
           "Rank": 59,
-          "SiteRank": 1,
+          "SiteRank": 4,
           "Site": "Brazilian Finals",
           "Short name": "",
           "Contestants": [
@@ -644,6 +488,27 @@ CONTESTS[2015]["Nacional"] = {
             "Male"
           ],
           "Coach": "Euripedes Santos"
+        }
+      }
+    },
+    "RO": {
+      "Faculdade de Porto Velho": {
+        "GARROSH": {
+          "Rank": 62,
+          "SiteRank": 5,
+          "Site": "Brazilian Finals",
+          "Short name": "FIP",
+          "Contestants": [
+            "Jeovan Farias",
+            "Diego Barros De Oliveira",
+            "Rivelino Lazaro Fernandes Farias Junior"
+          ],
+          "Sex": [
+            "Male",
+            "Male",
+            "Male"
+          ],
+          "Coach": "Andrew Ramires May"
         }
       }
     },
@@ -674,7 +539,7 @@ CONTESTS[2015]["Nacional"] = {
       "Centro de Ciências Agrárias - Universidade Federal do Espírito Santo": {
         "Taiti": {
           "Rank": 52,
-          "SiteRank": 1,
+          "SiteRank": 23,
           "Site": "Brazilian Finals",
           "Short name": "CCA UFES",
           "Contestants": [
@@ -695,7 +560,7 @@ CONTESTS[2015]["Nacional"] = {
       "INATEL - Instituto Nacional de Telecomunicações": {
         "stormtroop3rs": {
           "Rank": 39,
-          "SiteRank": 5,
+          "SiteRank": 18,
           "Site": "Brazilian Finals",
           "Short name": "INATEL",
           "Contestants": [
@@ -714,7 +579,7 @@ CONTESTS[2015]["Nacional"] = {
       "Instituto Federal Do Norte de Minas Gerais - Campus Montes Claros": {
         "IFNMG House of Codes": {
           "Rank": 50,
-          "SiteRank": 6,
+          "SiteRank": 22,
           "Site": "Brazilian Finals",
           "Short name": "IFNMG - Campus Monte",
           "Contestants": [
@@ -730,10 +595,67 @@ CONTESTS[2015]["Nacional"] = {
           "Coach": "Alberto Alexandre Assis Miranda"
         }
       },
+      "Instituto Federal de Educação, Ciência e Tecnologia do Sul de Minas": {
+        "C + ou -": {
+          "Rank": 57,
+          "SiteRank": 26,
+          "Site": "Brazilian Finals",
+          "Short name": "IFMS",
+          "Contestants": [
+            "Josias Marques Da Silva",
+            "Cláudia Dos Reis Silva",
+            "Ricardo Negreiros"
+          ],
+          "Sex": [
+            "Male",
+            "Female",
+            "Male"
+          ],
+          "Coach": "Ricardo José Martins"
+        }
+      },
+      "Instituto Federal de Educação, Ciência e Tecnologia do Triângulo Mineiro - Campus Paracatu": {
+        "Zeppelin": {
+          "Rank": 58,
+          "SiteRank": 27,
+          "Site": "Brazilian Finals",
+          "Short name": "IFTM - Campus Paraca",
+          "Contestants": [
+            "João Paulo Rodrigues Soares",
+            "Felipe Godoy",
+            "Mayke Santos"
+          ],
+          "Sex": [
+            "Male",
+            "Male",
+            "Male"
+          ],
+          "Coach": "Edwar Saliba Júnior"
+        }
+      },
+      "Instituto Federal de Educação, Ciência e Tecnologia do Triângulo Mineiro - Campus Uberaba": {
+        "D_bug": {
+          "Rank": 54,
+          "SiteRank": 24,
+          "Site": "Brazilian Finals",
+          "Short name": "IFTM Campus Uberaba",
+          "Contestants": [
+            "Luis Amaral",
+            "Helio Junior",
+            "Kelwin Ferreira"
+          ],
+          "Sex": [
+            "Male",
+            "Male",
+            "Male"
+          ],
+          "Coach": "Daniela Orbolato"
+        }
+      },
       "Universidade Federal de Itajubá - Campus Itajubá": {
         "Epic Sax Guys": {
           "Rank": 11,
-          "SiteRank": 2,
+          "SiteRank": 6,
           "Site": "Brazilian Finals",
           "Short name": "UNIFEI",
           "Contestants": [
@@ -752,7 +674,7 @@ CONTESTS[2015]["Nacional"] = {
       "Universidade Federal de Minas Gerais": {
         "Starters Edition": {
           "Rank": 8,
-          "SiteRank": 1,
+          "SiteRank": 4,
           "Site": "Brazilian Finals",
           "Short name": "UFMG",
           "Contestants": [
@@ -771,7 +693,7 @@ CONTESTS[2015]["Nacional"] = {
       "Universidade Federal de Uberlândia": {
         "Saideira": {
           "Rank": 27,
-          "SiteRank": 4,
+          "SiteRank": 14,
           "Site": "Brazilian Finals",
           "Short name": "UFU",
           "Contestants": [
@@ -790,7 +712,7 @@ CONTESTS[2015]["Nacional"] = {
       "Universidade Federal de Viçosa": {
         "empedernidos": {
           "Rank": 17,
-          "SiteRank": 3,
+          "SiteRank": 11,
           "Site": "Brazilian Finals",
           "Short name": "DPI-UFV",
           "Contestants": [
@@ -811,7 +733,7 @@ CONTESTS[2015]["Nacional"] = {
       "Instituto Militar de Engenharia": {
         "Sudo Reboot": {
           "Rank": 22,
-          "SiteRank": 2,
+          "SiteRank": 13,
           "Site": "Brazilian Finals",
           "Short name": "IME",
           "Contestants": [
@@ -830,7 +752,7 @@ CONTESTS[2015]["Nacional"] = {
       "Universidade Federal do Rio de Janeiro": {
         "/\\\\ nerds - \\\\/ noobs": {
           "Rank": 12,
-          "SiteRank": 1,
+          "SiteRank": 7,
           "Site": "Brazilian Finals",
           "Short name": "UF Rio de Janeiro",
           "Contestants": [
@@ -848,10 +770,48 @@ CONTESTS[2015]["Nacional"] = {
       }
     },
     "SP": {
+      "Centro Universitário da FEI": {
+        "Ramadores": {
+          "Rank": 60,
+          "SiteRank": 28,
+          "Site": "Brazilian Finals",
+          "Short name": "FEI",
+          "Contestants": [
+            "Daniel Costa",
+            "Pamela Peixinho",
+            "Ahmad Khatib"
+          ],
+          "Sex": [
+            "Male",
+            "Female",
+            "Male"
+          ],
+          "Coach": "Paulo Sergio Rodrigues"
+        }
+      },
+      "Faculdade de Jaguariúna - FAJ": {
+        "#gcc2015": {
+          "Rank": 41,
+          "SiteRank": 19,
+          "Site": "Brazilian Finals",
+          "Short name": "FAJ",
+          "Contestants": [
+            "Antonio Carlos Zechinato",
+            "Jeferson Costa",
+            "Rafael De Abreu Leitão"
+          ],
+          "Sex": [
+            "Male",
+            "Male",
+            "Male"
+          ],
+          "Coach": "Marllon Alves"
+        }
+      },
       "Faculdade de Tecnologia de São José dos Campos": {
         "PAITOM": {
           "Rank": 46,
-          "SiteRank": 12,
+          "SiteRank": 21,
           "Site": "Brazilian Finals",
           "Short name": "FATEC-SJC",
           "Contestants": [
@@ -867,10 +827,29 @@ CONTESTS[2015]["Nacional"] = {
           "Coach": "Reinaldo Gen Ichiro Arakaki"
         }
       },
+      "Instituto Brasileiro de Tecnologia Avançada": {
+        "MATHEMA": {
+          "Rank": 55,
+          "SiteRank": 25,
+          "Site": "Brazilian Finals",
+          "Short name": "IBTA",
+          "Contestants": [
+            "Artur De Almeira Ribeiro",
+            "João Otávio Ribeiro Costa",
+            "Wagner Sousa Santos"
+          ],
+          "Sex": [
+            "Male",
+            "Male",
+            "Male"
+          ],
+          "Coach": "Lucy Mari Tabuti"
+        }
+      },
       "Instituto Tecnológico de Aeronautica": {
         "Pgrnsue": {
           "Rank": 9,
-          "SiteRank": 4,
+          "SiteRank": 5,
           "Site": "Brazilian Finals",
           "Short name": "ITA",
           "Contestants": [
@@ -887,7 +866,7 @@ CONTESTS[2015]["Nacional"] = {
         },
         "batata": {
           "Rank": 14,
-          "SiteRank": 5,
+          "SiteRank": 8,
           "Site": "Brazilian Finals",
           "Short name": "ITA",
           "Contestants": [
@@ -906,7 +885,7 @@ CONTESTS[2015]["Nacional"] = {
       "UNOESTE - Universidade do Oeste Paulista": {
         "BatUnoeste": {
           "Rank": 34,
-          "SiteRank": 11,
+          "SiteRank": 17,
           "Site": "Brazilian Finals",
           "Short name": "UNOESTE",
           "Contestants": [
@@ -942,7 +921,7 @@ CONTESTS[2015]["Nacional"] = {
         },
         "Gotta Catch 'em All!": {
           "Rank": 30,
-          "SiteRank": 9,
+          "SiteRank": 15,
           "Site": "Brazilian Finals",
           "Short name": "UNICAMP",
           "Contestants": [
@@ -961,7 +940,7 @@ CONTESTS[2015]["Nacional"] = {
       "Universidade Federal de São Carlos": {
         "AtéAmanhã": {
           "Rank": 31,
-          "SiteRank": 10,
+          "SiteRank": 16,
           "Site": "Brazilian Finals",
           "Short name": "UFSCar",
           "Contestants": [
@@ -980,7 +959,7 @@ CONTESTS[2015]["Nacional"] = {
       "Universidade Federal de São Carlos - Campus Sorocaba": {
         "Dinossauro do Chrome": {
           "Rank": 21,
-          "SiteRank": 8,
+          "SiteRank": 12,
           "Site": "Brazilian Finals",
           "Short name": "UFSCar-Sorocaba",
           "Contestants": [
@@ -996,10 +975,29 @@ CONTESTS[2015]["Nacional"] = {
           "Coach": "Cândida Nunes Da Silva"
         }
       },
+      "Universidade São Judas Tadeu": {
+        "Death Code": {
+          "Rank": 44,
+          "SiteRank": 20,
+          "Site": "Brazilian Finals",
+          "Short name": "USJT",
+          "Contestants": [
+            "Fabio Junior Martins Da Silva",
+            "Nilson Neves Nascimento",
+            "Luigi Ciccone Pereira"
+          ],
+          "Sex": [
+            "Male",
+            "Male",
+            "Male"
+          ],
+          "Coach": "Carlos Menezes"
+        }
+      },
       "Universidade de São Paulo": {
         "Canário Cardeal": {
           "Rank": 15,
-          "SiteRank": 6,
+          "SiteRank": 9,
           "Site": "Brazilian Finals",
           "Short name": "USP",
           "Contestants": [
@@ -1054,7 +1052,7 @@ CONTESTS[2015]["Nacional"] = {
       "Universidade de Taubaté": {
         "Maldito Vô Pepe": {
           "Rank": 16,
-          "SiteRank": 7,
+          "SiteRank": 10,
           "Site": "Brazilian Finals",
           "Short name": "UNITAU",
           "Contestants": [
@@ -1077,7 +1075,7 @@ CONTESTS[2015]["Nacional"] = {
       "UNIOESTE - Campus Cascavel": {
         "Ops! Solução Trivial": {
           "Rank": 18,
-          "SiteRank": 1,
+          "SiteRank": 2,
           "Site": "Brazilian Finals",
           "Short name": "UNIOESTE",
           "Contestants": [
@@ -1096,7 +1094,7 @@ CONTESTS[2015]["Nacional"] = {
       "Universidade Tecnológica Federal do Paraná": {
         "BugBusters": {
           "Rank": 26,
-          "SiteRank": 2,
+          "SiteRank": 4,
           "Site": "Brazilian Finals",
           "Short name": "Universidade Tecnológica Federal do Paraná",
           "Contestants": [
@@ -1136,7 +1134,7 @@ CONTESTS[2015]["Nacional"] = {
       "Universidade Federal do Rio Grande do Sul": {
         "UFRGS AMT": {
           "Rank": 43,
-          "SiteRank": 3,
+          "SiteRank": 7,
           "Site": "Brazilian Finals",
           "Short name": "UFRGS",
           "Contestants": [
@@ -1155,7 +1153,7 @@ CONTESTS[2015]["Nacional"] = {
       "Universidade Regional Integrada - Campus de Erechim": {
         "URI Luminatti": {
           "Rank": 24,
-          "SiteRank": 2,
+          "SiteRank": 3,
           "Site": "Brazilian Finals",
           "Short name": "URI - Erechim",
           "Contestants": [
@@ -1176,7 +1174,7 @@ CONTESTS[2015]["Nacional"] = {
       "UNOESC - Universidade do Oeste de Santa Catarina - Chapecó": {
         "A_Se_Fosse_Delphi": {
           "Rank": 48,
-          "SiteRank": 3,
+          "SiteRank": 8,
           "Site": "Brazilian Finals",
           "Short name": "UNOESC - Chapecó",
           "Contestants": [
@@ -1195,7 +1193,7 @@ CONTESTS[2015]["Nacional"] = {
       "Universidade Federal da Fronteira Sul": {
         "AKM": {
           "Rank": 33,
-          "SiteRank": 2,
+          "SiteRank": 6,
           "Site": "Brazilian Finals",
           "Short name": "UFFS",
           "Contestants": [
@@ -1214,7 +1212,7 @@ CONTESTS[2015]["Nacional"] = {
       "Universidade do Estado de Santa Catarina": {
         "Not Balde Samurai": {
           "Rank": 28,
-          "SiteRank": 1,
+          "SiteRank": 5,
           "Site": "Brazilian Finals",
           "Short name": "UDESC",
           "Contestants": [
@@ -1245,36 +1243,6 @@ if (AGGREGATED["Mean"]["Rank"][2015] === undefined)
   AGGREGATED["Mean"]["Rank"][2015] = {};
 
 AGGREGATED["Mean"]["Rank"][2015]["Nacional"] = {
-  "Brasil": {
-    "Value": 54.108108108108105,
-    "BR": {
-      "Value": 54.108108108108105,
-      "Faculdade de Jaguariúna - FAJ": {
-        "Value": 41.0
-      },
-      "Faculdade de Porto Velho": {
-        "Value": 62.0
-      },
-      "Instituto Brasileiro de Tecnologia Avançada": {
-        "Value": 55.0
-      },
-      "Instituto Federal de Educação, Ciência e Tecnologia do Sul de Minas": {
-        "Value": 57.0
-      },
-      "Instituto Federal de Educação, Ciência e Tecnologia do Triângulo Mineiro - Campus Paracatu": {
-        "Value": 58.0
-      },
-      "Instituto Federal de Educação, Ciência e Tecnologia do Triângulo Mineiro - Campus Uberaba": {
-        "Value": 54.0
-      },
-      "Technical University of FEI": {
-        "Value": 60.0
-      },
-      "Universidade São Judas Tadeu": {
-        "Value": 44.0
-      }
-    }
-  },
   "Centro-Oeste": {
     "Value": 41.0,
     "DF": {
@@ -1378,7 +1346,7 @@ AGGREGATED["Mean"]["Rank"][2015]["Nacional"] = {
     }
   },
   "Norte": {
-    "Value": 51.94736842105263,
+    "Value": 54.041666666666664,
     "AM": {
       "Value": 50.77777777777778,
       "Universidade Federal do Amazonas": {
@@ -1394,6 +1362,12 @@ AGGREGATED["Mean"]["Rank"][2015]["Nacional"] = {
         "Value": 59.0
       }
     },
+    "RO": {
+      "Value": 62.0,
+      "Faculdade de Porto Velho": {
+        "Value": 62.0
+      }
+    },
     "TO": {
       "Value": 47.0,
       "Universidade Federal do Tocantins": {
@@ -1402,7 +1376,7 @@ AGGREGATED["Mean"]["Rank"][2015]["Nacional"] = {
     }
   },
   "Sudeste": {
-    "Value": 22.15841584158416,
+    "Value": 29.548872180451127,
     "ES": {
       "Value": 52.0,
       "Centro de Ciências Agrárias - Universidade Federal do Espírito Santo": {
@@ -1410,12 +1384,21 @@ AGGREGATED["Mean"]["Rank"][2015]["Nacional"] = {
       }
     },
     "MG": {
-      "Value": 25.785714285714285,
+      "Value": 36.023809523809526,
       "INATEL - Instituto Nacional de Telecomunicações": {
         "Value": 39.0
       },
       "Instituto Federal Do Norte de Minas Gerais - Campus Montes Claros": {
         "Value": 50.0
+      },
+      "Instituto Federal de Educação, Ciência e Tecnologia do Sul de Minas": {
+        "Value": 57.0
+      },
+      "Instituto Federal de Educação, Ciência e Tecnologia do Triângulo Mineiro - Campus Paracatu": {
+        "Value": 58.0
+      },
+      "Instituto Federal de Educação, Ciência e Tecnologia do Triângulo Mineiro - Campus Uberaba": {
+        "Value": 54.0
       },
       "Universidade Federal de Itajubá - Campus Itajubá": {
         "Value": 11.0
@@ -1440,9 +1423,18 @@ AGGREGATED["Mean"]["Rank"][2015]["Nacional"] = {
       }
     },
     "SP": {
-      "Value": 18.551724137931036,
+      "Value": 26.013157894736842,
+      "Centro Universitário da FEI": {
+        "Value": 60.0
+      },
+      "Faculdade de Jaguariúna - FAJ": {
+        "Value": 41.0
+      },
       "Faculdade de Tecnologia de São José dos Campos": {
         "Value": 46.0
+      },
+      "Instituto Brasileiro de Tecnologia Avançada": {
+        "Value": 55.0
       },
       "Instituto Tecnológico de Aeronautica": {
         "Value": 11.5
@@ -1458,6 +1450,9 @@ AGGREGATED["Mean"]["Rank"][2015]["Nacional"] = {
       },
       "Universidade Federal de São Carlos - Campus Sorocaba": {
         "Value": 21.0
+      },
+      "Universidade São Judas Tadeu": {
+        "Value": 44.0
       },
       "Universidade de São Paulo": {
         "Value": 10.0
@@ -1519,18 +1514,6 @@ if (AGGREGATED["Count"]["Girls"][2015] === undefined)
   AGGREGATED["Count"]["Girls"][2015] = {};
 
 AGGREGATED["Count"]["Girls"][2015]["Nacional"] = {
-  "Brasil": {
-    "Value": 2,
-    "BR": {
-      "Value": 2,
-      "Instituto Federal de Educação, Ciência e Tecnologia do Sul de Minas": {
-        "Value": 1
-      },
-      "Technical University of FEI": {
-        "Value": 1
-      }
-    }
-  },
   "Nordeste": {
     "Value": 4,
     "PB": {
@@ -1562,15 +1545,24 @@ AGGREGATED["Count"]["Girls"][2015]["Nacional"] = {
     }
   },
   "Sudeste": {
-    "Value": 2,
+    "Value": 4,
     "ES": {
       "Value": 1,
       "Centro de Ciências Agrárias - Universidade Federal do Espírito Santo": {
         "Value": 1
       }
     },
-    "SP": {
+    "MG": {
       "Value": 1,
+      "Instituto Federal de Educação, Ciência e Tecnologia do Sul de Minas": {
+        "Value": 1
+      }
+    },
+    "SP": {
+      "Value": 2,
+      "Centro Universitário da FEI": {
+        "Value": 1
+      },
       "Universidade de São Paulo": {
         "Value": 1
       }
@@ -1608,36 +1600,6 @@ if (AGGREGATED["Count"]["Teams"][2015] === undefined)
   AGGREGATED["Count"]["Teams"][2015] = {};
 
 AGGREGATED["Count"]["Teams"][2015]["Nacional"] = {
-  "Brasil": {
-    "Value": 8,
-    "BR": {
-      "Value": 8,
-      "Faculdade de Jaguariúna - FAJ": {
-        "Value": 1
-      },
-      "Faculdade de Porto Velho": {
-        "Value": 1
-      },
-      "Instituto Brasileiro de Tecnologia Avançada": {
-        "Value": 1
-      },
-      "Instituto Federal de Educação, Ciência e Tecnologia do Sul de Minas": {
-        "Value": 1
-      },
-      "Instituto Federal de Educação, Ciência e Tecnologia do Triângulo Mineiro - Campus Paracatu": {
-        "Value": 1
-      },
-      "Instituto Federal de Educação, Ciência e Tecnologia do Triângulo Mineiro - Campus Uberaba": {
-        "Value": 1
-      },
-      "Technical University of FEI": {
-        "Value": 1
-      },
-      "Universidade São Judas Tadeu": {
-        "Value": 1
-      }
-    }
-  },
   "Centro-Oeste": {
     "Value": 4,
     "DF": {
@@ -1741,7 +1703,7 @@ AGGREGATED["Count"]["Teams"][2015]["Nacional"] = {
     }
   },
   "Norte": {
-    "Value": 4,
+    "Value": 5,
     "AM": {
       "Value": 2,
       "Universidade Federal do Amazonas": {
@@ -1757,6 +1719,12 @@ AGGREGATED["Count"]["Teams"][2015]["Nacional"] = {
         "Value": 1
       }
     },
+    "RO": {
+      "Value": 1,
+      "Faculdade de Porto Velho": {
+        "Value": 1
+      }
+    },
     "TO": {
       "Value": 1,
       "Universidade Federal do Tocantins": {
@@ -1765,7 +1733,7 @@ AGGREGATED["Count"]["Teams"][2015]["Nacional"] = {
     }
   },
   "Sudeste": {
-    "Value": 21,
+    "Value": 28,
     "ES": {
       "Value": 1,
       "Centro de Ciências Agrárias - Universidade Federal do Espírito Santo": {
@@ -1773,11 +1741,20 @@ AGGREGATED["Count"]["Teams"][2015]["Nacional"] = {
       }
     },
     "MG": {
-      "Value": 6,
+      "Value": 9,
       "INATEL - Instituto Nacional de Telecomunicações": {
         "Value": 1
       },
       "Instituto Federal Do Norte de Minas Gerais - Campus Montes Claros": {
+        "Value": 1
+      },
+      "Instituto Federal de Educação, Ciência e Tecnologia do Sul de Minas": {
+        "Value": 1
+      },
+      "Instituto Federal de Educação, Ciência e Tecnologia do Triângulo Mineiro - Campus Paracatu": {
+        "Value": 1
+      },
+      "Instituto Federal de Educação, Ciência e Tecnologia do Triângulo Mineiro - Campus Uberaba": {
         "Value": 1
       },
       "Universidade Federal de Itajubá - Campus Itajubá": {
@@ -1803,8 +1780,17 @@ AGGREGATED["Count"]["Teams"][2015]["Nacional"] = {
       }
     },
     "SP": {
-      "Value": 12,
+      "Value": 16,
+      "Centro Universitário da FEI": {
+        "Value": 1
+      },
+      "Faculdade de Jaguariúna - FAJ": {
+        "Value": 1
+      },
       "Faculdade de Tecnologia de São José dos Campos": {
+        "Value": 1
+      },
+      "Instituto Brasileiro de Tecnologia Avançada": {
         "Value": 1
       },
       "Instituto Tecnológico de Aeronautica": {
@@ -1820,6 +1806,9 @@ AGGREGATED["Count"]["Teams"][2015]["Nacional"] = {
         "Value": 1
       },
       "Universidade Federal de São Carlos - Campus Sorocaba": {
+        "Value": 1
+      },
+      "Universidade São Judas Tadeu": {
         "Value": 1
       },
       "Universidade de São Paulo": {

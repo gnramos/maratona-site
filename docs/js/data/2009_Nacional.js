@@ -4,128 +4,12 @@ if (CONTESTS[2009] === undefined)
   CONTESTS[2009] = {};
 
 CONTESTS[2009]["Nacional"] = {
-  "Brasil": {
-    "BR": {
-      "FAAr - Faculdades Associadas de Ariquemes": {
-        "FAAr": {
-          "Rank": 49,
-          "SiteRank": 6,
-          "Site": "Brazilian Finals",
-          "Short name": "FAAr",
-          "Contestants": [
-            "Natanael Augusto Viana Simões",
-            "Ralf Bongiolo",
-            "Luan Santos Da Silva"
-          ],
-          "Sex": [
-            "Male",
-            "Male",
-            "Male"
-          ],
-          "Coach": "Anderson Lopes Oliveira"
-        }
-      },
-      "Institute of Computing - University of Campinas": {
-        "Unicamp - IC /*No Comments*/": {
-          "Rank": 6,
-          "SiteRank": 1,
-          "Site": "Brazilian Finals",
-          "Short name": "UNICAMP",
-          "Contestants": [
-            "Marcelo Galvão Póvoa",
-            "Guilherme Kunigami",
-            "Davi Albernaz Lameiro Da Costa"
-          ],
-          "Sex": [
-            "Male",
-            "Male",
-            "Male"
-          ],
-          "Coach": "Alberto Alexandre Assis Miranda"
-        },
-        "Unicamp - IC KMP": {
-          "Rank": 9,
-          "SiteRank": 2,
-          "Site": "Brazilian Finals",
-          "Short name": "UNICAMP",
-          "Contestants": [
-            "Alexandre Nobuo Kunieda",
-            "Lucas Tiago De Castro Jesus",
-            "Mauro Cardoso Lopes"
-          ],
-          "Sex": [
-            "Male",
-            "Male",
-            "Male"
-          ],
-          "Coach": "Alberto Alexandre Assis Miranda"
-        }
-      },
-      "Instituto de Informática-PUC Minas": {
-        "No eRRoR": {
-          "Rank": 46,
-          "SiteRank": 5,
-          "Site": "Brazilian Finals",
-          "Short name": "II-PUC Minas",
-          "Contestants": [
-            "Matheus Pereira Amaral Moreira",
-            "Rafael Brasil",
-            "Matheus Issa"
-          ],
-          "Sex": [
-            "Male",
-            "Male",
-            "Male"
-          ],
-          "Coach": "João Paulo Silva"
-        }
-      },
-      "Universidade Regional de Blumenau": {
-        "Fureuler": {
-          "Rank": 26,
-          "SiteRank": 3,
-          "Site": "Brazilian Finals",
-          "Short name": "FURB",
-          "Contestants": [
-            "Victor Arndt Mueller",
-            "Maicon Rafael Zatelli",
-            "André Luís Beling Da Rosa"
-          ],
-          "Sex": [
-            "Male",
-            "Male",
-            "Male"
-          ],
-          "Coach": "Adilson Vahldick"
-        }
-      },
-      "Universidade Vale do Rio Doce- Univale": {
-        "ONCLICK": {
-          "Rank": 38,
-          "SiteRank": 4,
-          "Site": "Brazilian Finals",
-          "Short name": "Universidade Vale do Rio Doce- Univale",
-          "Contestants": [
-            "João Ribeiro Neto",
-            "Lucas Lorentz Lara",
-            "César Augusto Chaves Pereira"
-          ],
-          "Sex": [
-            "Male",
-            "Male",
-            "Male"
-          ],
-          "Coach": "Adriana Cláudia Ribeiro Da Costa"
-        }
-      }
-    }
-  },
   "Centro-Oeste": {
     "DF": {
       "Universidade de Brasília": {
         "With Bit Action": {
           "Rank": 31,
-          "SiteRank": 1,
+          "SiteRank": 3,
           "Site": "Brazilian Finals",
           "Short name": "UnB",
           "Contestants": [
@@ -167,7 +51,7 @@ CONTESTS[2009]["Nacional"] = {
       "Federal University of Mato Grosso do Sul - Campo Grande": {
         "Parangaricutirrimirruaru": {
           "Rank": 29,
-          "SiteRank": 1,
+          "SiteRank": 2,
           "Site": "Brazilian Finals",
           "Short name": "Federal University of Mato Grosso do Sul - Campo Grande",
           "Contestants": [
@@ -190,7 +74,7 @@ CONTESTS[2009]["Nacional"] = {
       "Universidade Estadual do Sudoeste da Bahia": {
         "0123456789": {
           "Rank": 42,
-          "SiteRank": 2,
+          "SiteRank": 9,
           "Site": "Brazilian Finals",
           "Short name": "UESB",
           "Contestants": [
@@ -209,7 +93,7 @@ CONTESTS[2009]["Nacional"] = {
       "Universidade Federal da Bahia": {
         "The Gods of Balloon´s War": {
           "Rank": 37,
-          "SiteRank": 1,
+          "SiteRank": 7,
           "Site": "Brazilian Finals",
           "Short name": "Ufba",
           "Contestants": [
@@ -230,7 +114,7 @@ CONTESTS[2009]["Nacional"] = {
       "Universidade Estadual do Ceará": {
         "ORGANIZAÇÃO": {
           "Rank": 35,
-          "SiteRank": 1,
+          "SiteRank": 6,
           "Site": "Brazilian Finals",
           "Short name": "UECE",
           "Contestants": [
@@ -247,7 +131,7 @@ CONTESTS[2009]["Nacional"] = {
         },
         "Sem Chance": {
           "Rank": 48,
-          "SiteRank": 2,
+          "SiteRank": 10,
           "Site": "Brazilian Finals",
           "Short name": "UECE",
           "Contestants": [
@@ -268,7 +152,7 @@ CONTESTS[2009]["Nacional"] = {
       "Universidade Federal do Maranhão": {
         "LPA": {
           "Rank": 39,
-          "SiteRank": 1,
+          "SiteRank": 8,
           "Site": "Brazilian Finals",
           "Short name": "UFMA",
           "Contestants": [
@@ -289,7 +173,7 @@ CONTESTS[2009]["Nacional"] = {
       "Universidade Federal de Campina Grande": {
         "Rumatokio": {
           "Rank": 17,
-          "SiteRank": 1,
+          "SiteRank": 4,
           "Site": "Brazilian Finals",
           "Short name": "UFCG",
           "Contestants": [
@@ -310,7 +194,7 @@ CONTESTS[2009]["Nacional"] = {
       "Universidade Federal de Pernambuco": {
         "Carcará": {
           "Rank": 13,
-          "SiteRank": 2,
+          "SiteRank": 3,
           "Site": "Brazilian Finals",
           "Short name": "UF Pernambuco",
           "Contestants": [
@@ -348,7 +232,7 @@ CONTESTS[2009]["Nacional"] = {
       "Universidade Federal do Piauí": {
         "REVOLUTION": {
           "Rank": 33,
-          "SiteRank": 1,
+          "SiteRank": 5,
           "Site": "Brazilian Finals",
           "Short name": "UFPI",
           "Contestants": [
@@ -369,7 +253,7 @@ CONTESTS[2009]["Nacional"] = {
       "Universidade Federal de Sergipe": {
         "Anuncie Aqui": {
           "Rank": 2,
-          "SiteRank": 1,
+          "SiteRank": 2,
           "Site": "Brazilian Finals",
           "Short name": "U Federal de Sergipe",
           "Contestants": [
@@ -392,7 +276,7 @@ CONTESTS[2009]["Nacional"] = {
       "Universidade Federal do Amazonas": {
         "Foco no Balão": {
           "Rank": 40,
-          "SiteRank": 1,
+          "SiteRank": 2,
           "Site": "Brazilian Finals",
           "Short name": "UFAM",
           "Contestants": [
@@ -450,6 +334,27 @@ CONTESTS[2009]["Nacional"] = {
           "Coach": "Liliane Silva Coelho Jacon"
         }
       }
+    },
+    "RR": {
+      "FAAr - Faculdades Associadas de Ariquemes": {
+        "FAAr": {
+          "Rank": 49,
+          "SiteRank": 3,
+          "Site": "Brazilian Finals",
+          "Short name": "FAAr",
+          "Contestants": [
+            "Natanael Augusto Viana Simões",
+            "Ralf Bongiolo",
+            "Luan Santos Da Silva"
+          ],
+          "Sex": [
+            "Male",
+            "Male",
+            "Male"
+          ],
+          "Coach": "Anderson Lopes Oliveira"
+        }
+      }
     }
   },
   "Sudeste": {
@@ -457,7 +362,7 @@ CONTESTS[2009]["Nacional"] = {
       "Universidade Federal do Espirito Santo": {
         "DRML": {
           "Rank": 43,
-          "SiteRank": 2,
+          "SiteRank": 22,
           "Site": "Brazilian Finals",
           "Short name": "UFES",
           "Contestants": [
@@ -474,7 +379,7 @@ CONTESTS[2009]["Nacional"] = {
         },
         "Null is Dead": {
           "Rank": 32,
-          "SiteRank": 1,
+          "SiteRank": 18,
           "Site": "Brazilian Finals",
           "Short name": "UFES",
           "Contestants": [
@@ -495,7 +400,7 @@ CONTESTS[2009]["Nacional"] = {
       "Federal University of Minas Gerais": {
         "UFMG roflcopters": {
           "Rank": 21,
-          "SiteRank": 2,
+          "SiteRank": 14,
           "Site": "Brazilian Finals",
           "Short name": "UFMG",
           "Contestants": [
@@ -511,10 +416,29 @@ CONTESTS[2009]["Nacional"] = {
           "Coach": "Fernando Duarte"
         }
       },
+      "Instituto de Informática-PUC Minas": {
+        "No eRRoR": {
+          "Rank": 46,
+          "SiteRank": 24,
+          "Site": "Brazilian Finals",
+          "Short name": "II-PUC Minas",
+          "Contestants": [
+            "Matheus Pereira Amaral Moreira",
+            "Rafael Brasil",
+            "Matheus Issa"
+          ],
+          "Sex": [
+            "Male",
+            "Male",
+            "Male"
+          ],
+          "Coach": "João Paulo Silva"
+        }
+      },
       "Pontifícia Universidade Católica de Minas Gerais": {
         "Thats not my Name": {
           "Rank": 50,
-          "SiteRank": 5,
+          "SiteRank": 25,
           "Site": "Brazilian Finals",
           "Short name": "PUC-MG",
           "Contestants": [
@@ -533,7 +457,7 @@ CONTESTS[2009]["Nacional"] = {
       "Universidade Federal de Minas Gerais": {
         "UFMG aniMOUSEs": {
           "Rank": 20,
-          "SiteRank": 1,
+          "SiteRank": 13,
           "Site": "Brazilian Finals",
           "Short name": "UFMG",
           "Contestants": [
@@ -552,7 +476,7 @@ CONTESTS[2009]["Nacional"] = {
       "Universidade Federal de Uberlândia": {
         "Rispoli One": {
           "Rank": 41,
-          "SiteRank": 4,
+          "SiteRank": 21,
           "Site": "Brazilian Finals",
           "Short name": "UFU",
           "Contestants": [
@@ -571,7 +495,7 @@ CONTESTS[2009]["Nacional"] = {
       "Universidade Federal de Viçosa": {
         "They tell and we write": {
           "Rank": 25,
-          "SiteRank": 3,
+          "SiteRank": 15,
           "Site": "Brazilian Finals",
           "Short name": "DPI-UFV",
           "Contestants": [
@@ -586,13 +510,32 @@ CONTESTS[2009]["Nacional"] = {
           ],
           "Coach": "André Gustavo Dos Santos"
         }
+      },
+      "Universidade Vale do Rio Doce- Univale": {
+        "ONCLICK": {
+          "Rank": 38,
+          "SiteRank": 20,
+          "Site": "Brazilian Finals",
+          "Short name": "UNIVALE",
+          "Contestants": [
+            "João Ribeiro Neto",
+            "Lucas Lorentz Lara",
+            "César Augusto Chaves Pereira"
+          ],
+          "Sex": [
+            "Male",
+            "Male",
+            "Male"
+          ],
+          "Coach": "Adriana Cláudia Ribeiro Da Costa"
+        }
       }
     },
     "RJ": {
       "Pontificia Universidade Catolica do Rio de Janeiro": {
         "Dynasty of Samba": {
           "Rank": 5,
-          "SiteRank": 1,
+          "SiteRank": 3,
           "Site": "Brazilian Finals",
           "Short name": "PUC Rio de Janeiro",
           "Contestants": [
@@ -609,7 +552,7 @@ CONTESTS[2009]["Nacional"] = {
         },
         "Falha de SegmentaSamba": {
           "Rank": 8,
-          "SiteRank": 2,
+          "SiteRank": 5,
           "Site": "Brazilian Finals",
           "Short name": "PUC Rio de Janeiro",
           "Contestants": [
@@ -628,7 +571,7 @@ CONTESTS[2009]["Nacional"] = {
       "Universidade Federal do Rio de Janeiro": {
         "Deixa eu sonhar": {
           "Rank": 11,
-          "SiteRank": 3,
+          "SiteRank": 8,
           "Site": "Brazilian Finals",
           "Short name": "UF Rio de Janeiro",
           "Contestants": [
@@ -645,7 +588,7 @@ CONTESTS[2009]["Nacional"] = {
         },
         "\\o/ \\o/ \\o/": {
           "Rank": 19,
-          "SiteRank": 5,
+          "SiteRank": 12,
           "Site": "Brazilian Finals",
           "Short name": "UF Rio de Janeiro",
           "Contestants": [
@@ -664,7 +607,7 @@ CONTESTS[2009]["Nacional"] = {
       "Universidade do Estado do Rio de Janeiro": {
         "Boa Noite, e Bom Sort()": {
           "Rank": 14,
-          "SiteRank": 4,
+          "SiteRank": 9,
           "Site": "Brazilian Finals",
           "Short name": "UERJ",
           "Contestants": [
@@ -685,7 +628,7 @@ CONTESTS[2009]["Nacional"] = {
       "Centro Universitário da FEI": {
         "Munchinkeiros": {
           "Rank": 36,
-          "SiteRank": 8,
+          "SiteRank": 19,
           "Site": "Brazilian Finals",
           "Short name": "FEI",
           "Contestants": [
@@ -721,7 +664,7 @@ CONTESTS[2009]["Nacional"] = {
         },
         "kryptonITA": {
           "Rank": 10,
-          "SiteRank": 3,
+          "SiteRank": 7,
           "Site": "Brazilian Finals",
           "Short name": "ITA",
           "Contestants": [
@@ -740,7 +683,7 @@ CONTESTS[2009]["Nacional"] = {
       "UNOESTE - Universidade do Oeste Paulista": {
         "Em-Ordem": {
           "Rank": 44,
-          "SiteRank": 9,
+          "SiteRank": 23,
           "Site": "Brazilian Finals",
           "Short name": "UNOESTE",
           "Contestants": [
@@ -756,10 +699,46 @@ CONTESTS[2009]["Nacional"] = {
           "Coach": "Marcelo Rosa"
         }
       },
+      "Universidade Estadual de Campinas": {
+        "Unicamp - IC /*No Comments*/": {
+          "Rank": 6,
+          "SiteRank": 4,
+          "Site": "Brazilian Finals",
+          "Short name": "UNICAMP",
+          "Contestants": [
+            "Marcelo Galvão Póvoa",
+            "Guilherme Kunigami",
+            "Davi Albernaz Lameiro Da Costa"
+          ],
+          "Sex": [
+            "Male",
+            "Male",
+            "Male"
+          ],
+          "Coach": "Alberto Alexandre Assis Miranda"
+        },
+        "Unicamp - IC KMP": {
+          "Rank": 9,
+          "SiteRank": 6,
+          "Site": "Brazilian Finals",
+          "Short name": "UNICAMP",
+          "Contestants": [
+            "Alexandre Nobuo Kunieda",
+            "Lucas Tiago De Castro Jesus",
+            "Mauro Cardoso Lopes"
+          ],
+          "Sex": [
+            "Male",
+            "Male",
+            "Male"
+          ],
+          "Coach": "Alberto Alexandre Assis Miranda"
+        }
+      },
       "Universidade Federal de São Paulo": {
         "Java Lee": {
           "Rank": 30,
-          "SiteRank": 7,
+          "SiteRank": 17,
           "Site": "Brazilian Finals",
           "Short name": "UNIFESP",
           "Contestants": [
@@ -778,7 +757,7 @@ CONTESTS[2009]["Nacional"] = {
       "Universidade de São Paulo - Campus de São Carlos": {
         "ICMC - Quake, cade meu queijo?": {
           "Rank": 27,
-          "SiteRank": 6,
+          "SiteRank": 16,
           "Site": "Brazilian Finals",
           "Short name": "USP - ICMC",
           "Contestants": [
@@ -795,7 +774,7 @@ CONTESTS[2009]["Nacional"] = {
         },
         "ICMC - Tchau, Pardal": {
           "Rank": 51,
-          "SiteRank": 10,
+          "SiteRank": 26,
           "Site": "Brazilian Finals",
           "Short name": "USP - ICMC",
           "Contestants": [
@@ -814,7 +793,7 @@ CONTESTS[2009]["Nacional"] = {
       "Universidade de São Paulo - Escola Politécnica": {
         "v.push_back(balloon)": {
           "Rank": 18,
-          "SiteRank": 5,
+          "SiteRank": 11,
           "Site": "Brazilian Finals",
           "Short name": "POLI-USP",
           "Contestants": [
@@ -833,7 +812,7 @@ CONTESTS[2009]["Nacional"] = {
       "University of São Paulo - Institute of Mathematics and Statistics": {
         "Só se der zebra!": {
           "Rank": 15,
-          "SiteRank": 4,
+          "SiteRank": 10,
           "Site": "Brazilian Finals",
           "Short name": "IME-USP",
           "Contestants": [
@@ -873,7 +852,7 @@ CONTESTS[2009]["Nacional"] = {
       "Universidade Federal do Paraná": {
         "Untitled": {
           "Rank": 24,
-          "SiteRank": 2,
+          "SiteRank": 5,
           "Site": "Brazilian Finals",
           "Short name": "UF Paraná",
           "Contestants": [
@@ -892,7 +871,7 @@ CONTESTS[2009]["Nacional"] = {
       "Universidade Tecnológica Federal do Paraná": {
         "sudo make a sandwich": {
           "Rank": 12,
-          "SiteRank": 1,
+          "SiteRank": 2,
           "Site": "Brazilian Finals",
           "Short name": "Universidade Tecnológica Federal do Paraná",
           "Contestants": [
@@ -913,7 +892,7 @@ CONTESTS[2009]["Nacional"] = {
       "Fundação Universidade Federal do Rio Grande": {
         "PNCC": {
           "Rank": 34,
-          "SiteRank": 3,
+          "SiteRank": 7,
           "Site": "Brazilian Finals",
           "Short name": "FURG",
           "Contestants": [
@@ -932,7 +911,7 @@ CONTESTS[2009]["Nacional"] = {
       "Universidade Federal do Rio Grande do Sul": {
         "UFRGS - C-BEMOL": {
           "Rank": 16,
-          "SiteRank": 1,
+          "SiteRank": 3,
           "Site": "Brazilian Finals",
           "Short name": "UFRGS",
           "Contestants": [
@@ -949,7 +928,7 @@ CONTESTS[2009]["Nacional"] = {
         },
         "UFRGS Ad-Hoc 2009": {
           "Rank": 23,
-          "SiteRank": 2,
+          "SiteRank": 4,
           "Site": "Brazilian Finals",
           "Short name": "UFRGS",
           "Contestants": [
@@ -968,7 +947,7 @@ CONTESTS[2009]["Nacional"] = {
       "Universidade Regional Integrada - Campus de Erechim": {
         "Pampa Coders": {
           "Rank": 47,
-          "SiteRank": 5,
+          "SiteRank": 9,
           "Site": "Brazilian Finals",
           "Short name": "URI - Erechim",
           "Contestants": [
@@ -987,7 +966,7 @@ CONTESTS[2009]["Nacional"] = {
       "Universidade de Passo Fundo": {
         "FUAQ": {
           "Rank": 45,
-          "SiteRank": 4,
+          "SiteRank": 8,
           "Site": "Brazilian Finals",
           "Short name": "UPF",
           "Contestants": [
@@ -1023,6 +1002,25 @@ CONTESTS[2009]["Nacional"] = {
           ],
           "Coach": "Daniel Santana De Freitas"
         }
+      },
+      "Universidade Regional de Blumenau": {
+        "Fureuler": {
+          "Rank": 26,
+          "SiteRank": 6,
+          "Site": "Brazilian Finals",
+          "Short name": "FURB",
+          "Contestants": [
+            "Victor Arndt Mueller",
+            "Maicon Rafael Zatelli",
+            "André Luís Beling Da Rosa"
+          ],
+          "Sex": [
+            "Male",
+            "Male",
+            "Male"
+          ],
+          "Coach": "Adilson Vahldick"
+        }
       }
     }
   }
@@ -1039,27 +1037,6 @@ if (AGGREGATED["Mean"]["Rank"][2009] === undefined)
   AGGREGATED["Mean"]["Rank"][2009] = {};
 
 AGGREGATED["Mean"]["Rank"][2009]["Nacional"] = {
-  "Brasil": {
-    "Value": 29.0,
-    "BR": {
-      "Value": 29.0,
-      "FAAr - Faculdades Associadas de Ariquemes": {
-        "Value": 49.0
-      },
-      "Institute of Computing - University of Campinas": {
-        "Value": 7.5
-      },
-      "Instituto de Informática-PUC Minas": {
-        "Value": 46.0
-      },
-      "Universidade Regional de Blumenau": {
-        "Value": 26.0
-      },
-      "Universidade Vale do Rio Doce- Univale": {
-        "Value": 38.0
-      }
-    }
-  },
   "Centro-Oeste": {
     "Value": 27.333333333333332,
     "DF": {
@@ -1130,7 +1107,7 @@ AGGREGATED["Mean"]["Rank"][2009]["Nacional"] = {
     }
   },
   "Norte": {
-    "Value": 33.333333333333336,
+    "Value": 38.92857142857143,
     "AM": {
       "Value": 40.0,
       "Universidade Federal do Amazonas": {
@@ -1142,10 +1119,16 @@ AGGREGATED["Mean"]["Rank"][2009]["Nacional"] = {
       "Universidade Federal do Pará": {
         "Value": 28.0
       }
+    },
+    "RR": {
+      "Value": 49.0,
+      "FAAr - Faculdades Associadas de Ariquemes": {
+        "Value": 49.0
+      }
     }
   },
   "Sudeste": {
-    "Value": 24.03030303030303,
+    "Value": 24.15126050420168,
     "ES": {
       "Value": 37.5,
       "Universidade Federal do Espirito Santo": {
@@ -1153,9 +1136,12 @@ AGGREGATED["Mean"]["Rank"][2009]["Nacional"] = {
       }
     },
     "MG": {
-      "Value": 31.0,
+      "Value": 34.23529411764706,
       "Federal University of Minas Gerais": {
         "Value": 21.0
+      },
+      "Instituto de Informática-PUC Minas": {
+        "Value": 46.0
       },
       "Pontifícia Universidade Católica de Minas Gerais": {
         "Value": 50.0
@@ -1168,6 +1154,9 @@ AGGREGATED["Mean"]["Rank"][2009]["Nacional"] = {
       },
       "Universidade Federal de Viçosa": {
         "Value": 25.0
+      },
+      "Universidade Vale do Rio Doce- Univale": {
+        "Value": 38.0
       }
     },
     "RJ": {
@@ -1183,7 +1172,7 @@ AGGREGATED["Mean"]["Rank"][2009]["Nacional"] = {
       }
     },
     "SP": {
-      "Value": 23.302325581395348,
+      "Value": 20.32075471698113,
       "Centro Universitário da FEI": {
         "Value": 36.0
       },
@@ -1192,6 +1181,9 @@ AGGREGATED["Mean"]["Rank"][2009]["Nacional"] = {
       },
       "UNOESTE - Universidade do Oeste Paulista": {
         "Value": 44.0
+      },
+      "Universidade Estadual de Campinas": {
+        "Value": 7.5
       },
       "Universidade Federal de São Paulo": {
         "Value": 30.0
@@ -1208,7 +1200,7 @@ AGGREGATED["Mean"]["Rank"][2009]["Nacional"] = {
     }
   },
   "Sul": {
-    "Value": 24.972972972972972,
+    "Value": 25.095238095238095,
     "PR": {
       "Value": 17.333333333333332,
       "Universidade Federal do Paraná": {
@@ -1234,9 +1226,12 @@ AGGREGATED["Mean"]["Rank"][2009]["Nacional"] = {
       }
     },
     "SC": {
-      "Value": 7.0,
+      "Value": 16.5,
       "Universidade Federal de Santa Catarina": {
         "Value": 7.0
+      },
+      "Universidade Regional de Blumenau": {
+        "Value": 26.0
       }
     }
   }
@@ -1309,27 +1304,6 @@ if (AGGREGATED["Count"]["Teams"][2009] === undefined)
   AGGREGATED["Count"]["Teams"][2009] = {};
 
 AGGREGATED["Count"]["Teams"][2009]["Nacional"] = {
-  "Brasil": {
-    "Value": 6,
-    "BR": {
-      "Value": 6,
-      "FAAr - Faculdades Associadas de Ariquemes": {
-        "Value": 1
-      },
-      "Institute of Computing - University of Campinas": {
-        "Value": 2
-      },
-      "Instituto de Informática-PUC Minas": {
-        "Value": 1
-      },
-      "Universidade Regional de Blumenau": {
-        "Value": 1
-      },
-      "Universidade Vale do Rio Doce- Univale": {
-        "Value": 1
-      }
-    }
-  },
   "Centro-Oeste": {
     "Value": 3,
     "DF": {
@@ -1400,7 +1374,7 @@ AGGREGATED["Count"]["Teams"][2009]["Nacional"] = {
     }
   },
   "Norte": {
-    "Value": 3,
+    "Value": 4,
     "AM": {
       "Value": 1,
       "Universidade Federal do Amazonas": {
@@ -1418,10 +1392,16 @@ AGGREGATED["Count"]["Teams"][2009]["Nacional"] = {
       "UNIR - Universidade Federal de Rondonia": {
         "Value": 1
       }
+    },
+    "RR": {
+      "Value": 1,
+      "FAAr - Faculdades Associadas de Ariquemes": {
+        "Value": 1
+      }
     }
   },
   "Sudeste": {
-    "Value": 22,
+    "Value": 26,
     "ES": {
       "Value": 2,
       "Universidade Federal do Espirito Santo": {
@@ -1429,8 +1409,11 @@ AGGREGATED["Count"]["Teams"][2009]["Nacional"] = {
       }
     },
     "MG": {
-      "Value": 5,
+      "Value": 7,
       "Federal University of Minas Gerais": {
+        "Value": 1
+      },
+      "Instituto de Informática-PUC Minas": {
         "Value": 1
       },
       "Pontifícia Universidade Católica de Minas Gerais": {
@@ -1443,6 +1426,9 @@ AGGREGATED["Count"]["Teams"][2009]["Nacional"] = {
         "Value": 1
       },
       "Universidade Federal de Viçosa": {
+        "Value": 1
+      },
+      "Universidade Vale do Rio Doce- Univale": {
         "Value": 1
       }
     },
@@ -1459,7 +1445,7 @@ AGGREGATED["Count"]["Teams"][2009]["Nacional"] = {
       }
     },
     "SP": {
-      "Value": 10,
+      "Value": 12,
       "Centro Universitário da FEI": {
         "Value": 1
       },
@@ -1468,6 +1454,9 @@ AGGREGATED["Count"]["Teams"][2009]["Nacional"] = {
       },
       "UNOESTE - Universidade do Oeste Paulista": {
         "Value": 1
+      },
+      "Universidade Estadual de Campinas": {
+        "Value": 2
       },
       "Universidade Federal de São Paulo": {
         "Value": 1
@@ -1484,7 +1473,7 @@ AGGREGATED["Count"]["Teams"][2009]["Nacional"] = {
     }
   },
   "Sul": {
-    "Value": 8,
+    "Value": 9,
     "PR": {
       "Value": 2,
       "Universidade Federal do Paraná": {
@@ -1510,8 +1499,11 @@ AGGREGATED["Count"]["Teams"][2009]["Nacional"] = {
       }
     },
     "SC": {
-      "Value": 1,
+      "Value": 2,
       "Universidade Federal de Santa Catarina": {
+        "Value": 1
+      },
+      "Universidade Regional de Blumenau": {
         "Value": 1
       }
     }

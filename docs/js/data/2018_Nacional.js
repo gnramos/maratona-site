@@ -28,7 +28,7 @@ CONTESTS[2018]["Nacional"] = {
       "Universidade de Brasília - Faculdade UnB Gama": {
         "RONALDINHO LOVE": {
           "Rank": 16,
-          "SiteRank": 2,
+          "SiteRank": 3,
           "Site": "Brazilian Finals",
           "Short name": "UnB/FGA",
           "Contestants": [
@@ -49,7 +49,7 @@ CONTESTS[2018]["Nacional"] = {
       "Instituto de Informática - UFG": {
         "Monkeys": {
           "Rank": 11,
-          "SiteRank": 1,
+          "SiteRank": 2,
           "Site": "Brazilian Finals",
           "Short name": "UFG",
           "Contestants": [
@@ -68,7 +68,7 @@ CONTESTS[2018]["Nacional"] = {
       "Pontifícia Universidade Católica de Goiás": {
         "BalloonField": {
           "Rank": 20,
-          "SiteRank": 2,
+          "SiteRank": 4,
           "Site": "Brazilian Finals",
           "Short name": "PUC-Goiás",
           "Contestants": [
@@ -89,7 +89,7 @@ CONTESTS[2018]["Nacional"] = {
       "Faculdade de Computação - UFMS": {
         "Cadê meu cachorro?": {
           "Rank": 53,
-          "SiteRank": 1,
+          "SiteRank": 5,
           "Site": "Brazilian Finals",
           "Short name": "FACOM - UFMS",
           "Contestants": [
@@ -108,7 +108,7 @@ CONTESTS[2018]["Nacional"] = {
       "Universidade Federal da Grande Dourados": {
         "Kernel Panic": {
           "Rank": 68,
-          "SiteRank": 2,
+          "SiteRank": 6,
           "Site": "Brazilian Finals",
           "Short name": "UFGD",
           "Contestants": [
@@ -131,7 +131,7 @@ CONTESTS[2018]["Nacional"] = {
       "Universidade Federal de Alagoas - Campus Arapiraca": {
         "Os k-ésimos": {
           "Rank": 32,
-          "SiteRank": 1,
+          "SiteRank": 11,
           "Site": "Brazilian Finals",
           "Short name": "UFAL Arapiraca",
           "Contestants": [
@@ -152,7 +152,7 @@ CONTESTS[2018]["Nacional"] = {
       "Universidade Catolica do Salvador": {
         "Bluebook": {
           "Rank": 66,
-          "SiteRank": 3,
+          "SiteRank": 17,
           "Site": "Brazilian Finals",
           "Short name": "UCSAL",
           "Contestants": [
@@ -171,7 +171,7 @@ CONTESTS[2018]["Nacional"] = {
       "Universidade Estadual do Sudoeste da Bahia": {
         "Ursos Sem Curso": {
           "Rank": 27,
-          "SiteRank": 2,
+          "SiteRank": 9,
           "Site": "Brazilian Finals",
           "Short name": "UESB",
           "Contestants": [
@@ -190,7 +190,7 @@ CONTESTS[2018]["Nacional"] = {
       "Universidade Federal da Bahia": {
         "Ê, que piá": {
           "Rank": 19,
-          "SiteRank": 1,
+          "SiteRank": 4,
           "Site": "Brazilian Finals",
           "Short name": "UFBA",
           "Contestants": [
@@ -211,7 +211,7 @@ CONTESTS[2018]["Nacional"] = {
       "Instituto Federal de Educação, Ciência e Tecnologia do Ceará - Campus Crato": {
         "Access Violation": {
           "Rank": 50,
-          "SiteRank": 3,
+          "SiteRank": 13,
           "Site": "Brazilian Finals",
           "Short name": "IFCE - Campus Crato",
           "Contestants": [
@@ -230,7 +230,7 @@ CONTESTS[2018]["Nacional"] = {
       "Universidade Estadual do Ceará": {
         "WAVELET Trio": {
           "Rank": 22,
-          "SiteRank": 1,
+          "SiteRank": 5,
           "Site": "Brazilian Finals",
           "Short name": "UECE",
           "Contestants": [
@@ -249,7 +249,7 @@ CONTESTS[2018]["Nacional"] = {
       "Universidade Federal do Ceará - Campus Quixadá": {
         "Computeiros do Zodíaco": {
           "Rank": 24,
-          "SiteRank": 2,
+          "SiteRank": 7,
           "Site": "Brazilian Finals",
           "Short name": "",
           "Contestants": [
@@ -270,7 +270,7 @@ CONTESTS[2018]["Nacional"] = {
       "Universidade Federal do Maranhão": {
         "UFMA_Xesquedale": {
           "Rank": 62,
-          "SiteRank": 1,
+          "SiteRank": 15,
           "Site": "Brazilian Finals",
           "Short name": "UFMA",
           "Contestants": [
@@ -291,7 +291,7 @@ CONTESTS[2018]["Nacional"] = {
       "Instituto Federal de Educação, Ciência e Tecnologia da Paraíba - Campus João Pessoa": {
         "Nome Provisório": {
           "Rank": 29,
-          "SiteRank": 2,
+          "SiteRank": 10,
           "Site": "Brazilian Finals",
           "Short name": "IFPB - João Pessoa",
           "Contestants": [
@@ -310,7 +310,7 @@ CONTESTS[2018]["Nacional"] = {
       "Universidade Federal de Campina Grande": {
         "Megazord da CAPES": {
           "Rank": 3,
-          "SiteRank": 1,
+          "SiteRank": 2,
           "Site": "Brazilian Finals",
           "Short name": "UFCG",
           "Contestants": [
@@ -331,7 +331,7 @@ CONTESTS[2018]["Nacional"] = {
       "Universidade Federal de Pernambuco": {
         "The AC is a lie": {
           "Rank": 9,
-          "SiteRank": 2,
+          "SiteRank": 3,
           "Site": "Brazilian Finals",
           "Short name": "UFPE",
           "Contestants": [
@@ -369,7 +369,7 @@ CONTESTS[2018]["Nacional"] = {
       "Universidade Estadual do Piauí - Campus de Parnaíba": {
         "DRAGON BALL C": {
           "Rank": 65,
-          "SiteRank": 2,
+          "SiteRank": 16,
           "Site": "Brazilian Finals",
           "Short name": "UESPI Parnaíba",
           "Contestants": [
@@ -388,7 +388,7 @@ CONTESTS[2018]["Nacional"] = {
       "Universidade Federal do Piauí": {
         "Três caras numa moto": {
           "Rank": 34,
-          "SiteRank": 1,
+          "SiteRank": 12,
           "Site": "Brazilian Finals",
           "Short name": "UFPI",
           "Contestants": [
@@ -409,7 +409,7 @@ CONTESTS[2018]["Nacional"] = {
       "Universidade Federal do Rio Grande do Norte": {
         "tsn": {
           "Rank": 26,
-          "SiteRank": 1,
+          "SiteRank": 8,
           "Site": "Brazilian Finals",
           "Short name": "UFRN",
           "Contestants": [
@@ -430,7 +430,7 @@ CONTESTS[2018]["Nacional"] = {
       "Faculdade de Tecnologia SENAI CIMATEC": {
         "Em busca da camisa perfeita": {
           "Rank": 55,
-          "SiteRank": 2,
+          "SiteRank": 14,
           "Site": "Brazilian Finals",
           "Short name": "Senai Cimatic",
           "Contestants": [
@@ -449,7 +449,7 @@ CONTESTS[2018]["Nacional"] = {
       "Universidade Federal de Sergipe": {
         "Tarjan Preta": {
           "Rank": 23,
-          "SiteRank": 1,
+          "SiteRank": 6,
           "Site": "Brazilian Finals",
           "Short name": "U Federal de Sergipe",
           "Contestants": [
@@ -472,7 +472,7 @@ CONTESTS[2018]["Nacional"] = {
       "Universidade Federal do Acre": {
         "Wrong Answer 1000%": {
           "Rank": 61,
-          "SiteRank": 1,
+          "SiteRank": 5,
           "Site": "Brazilian Finals",
           "Short name": "UFAC",
           "Contestants": [
@@ -533,7 +533,7 @@ CONTESTS[2018]["Nacional"] = {
       "Instituto Federal de Educação, Ciência e Tecnologia do Triângulo Mineiro campus Uberaba Parque Tecnológico": {
         "Wave Boyz": {
           "Rank": 70,
-          "SiteRank": 3,
+          "SiteRank": 8,
           "Site": "Brazilian Finals",
           "Short name": "IFTM campus UPT",
           "Contestants": [
@@ -552,7 +552,7 @@ CONTESTS[2018]["Nacional"] = {
       "Instituto Federal do Triangulo Mineiro - Análise e Desenvolvimento Sistemas - Patrocínio": {
         "Boa Sort": {
           "Rank": 63,
-          "SiteRank": 2,
+          "SiteRank": 6,
           "Site": "Brazilian Finals",
           "Short name": "IFTM-Patrocinio/ADS",
           "Contestants": [
@@ -571,7 +571,7 @@ CONTESTS[2018]["Nacional"] = {
       "Universidade Federal do Pará": {
         "O(pow(r*r,a))": {
           "Rank": 38,
-          "SiteRank": 1,
+          "SiteRank": 3,
           "Site": "Brazilian Finals",
           "Short name": "",
           "Contestants": [
@@ -592,7 +592,7 @@ CONTESTS[2018]["Nacional"] = {
       "Fundação Universidade Federal de Rondônia": {
         "POOZZLE": {
           "Rank": 71,
-          "SiteRank": 1,
+          "SiteRank": 9,
           "Site": "Brazilian Finals",
           "Short name": "UNIR",
           "Contestants": [
@@ -613,7 +613,7 @@ CONTESTS[2018]["Nacional"] = {
       "Universidade Federal de Roraima": {
         "$team_name": {
           "Rank": 47,
-          "SiteRank": 1,
+          "SiteRank": 4,
           "Site": "Brazilian Finals",
           "Short name": "UFRR",
           "Contestants": [
@@ -634,7 +634,7 @@ CONTESTS[2018]["Nacional"] = {
       "Universidade Federal do Tocantins": {
         "Tocanteens": {
           "Rank": 69,
-          "SiteRank": 1,
+          "SiteRank": 7,
           "Site": "Brazilian Finals",
           "Short name": "UFT",
           "Contestants": [
@@ -657,7 +657,7 @@ CONTESTS[2018]["Nacional"] = {
       "Universidade Federal do Espirito Santo": {
         "man java": {
           "Rank": 42,
-          "SiteRank": 1,
+          "SiteRank": 19,
           "Site": "Brazilian Finals",
           "Short name": "UFES",
           "Contestants": [
@@ -678,7 +678,7 @@ CONTESTS[2018]["Nacional"] = {
       "Centro Federal de Educação Tecnológica de Minas Gerais Campus Timóteo": {
         "CEFETIM": {
           "Rank": 33,
-          "SiteRank": 5,
+          "SiteRank": 16,
           "Site": "Brazilian Finals",
           "Short name": "CEFET-MG - Timóteo",
           "Contestants": [
@@ -697,7 +697,7 @@ CONTESTS[2018]["Nacional"] = {
       "INATEL - Instituto Nacional de Telecomunicações": {
         "Stormtroop3rs": {
           "Rank": 15,
-          "SiteRank": 4,
+          "SiteRank": 10,
           "Site": "Brazilian Finals",
           "Short name": "INATEL",
           "Contestants": [
@@ -716,7 +716,7 @@ CONTESTS[2018]["Nacional"] = {
       "Instituto Federal de Educação, Ciência e Tecnologia do Sul de Minas Gerais - Campus Muzambinho": {
         "Ainda Não Decidimos O Nome": {
           "Rank": 39,
-          "SiteRank": 6,
+          "SiteRank": 18,
           "Site": "Brazilian Finals",
           "Short name": "IFSULMGMuz",
           "Contestants": [
@@ -735,7 +735,7 @@ CONTESTS[2018]["Nacional"] = {
       "Instituto Federal de Educação, Ciência e Tecnologia do Sul de Minas Gerais - Campus Poços de Caldas": {
         "SK Teletom": {
           "Rank": 56,
-          "SiteRank": 10,
+          "SiteRank": 27,
           "Site": "Brazilian Finals",
           "Short name": "IFSULMGPoços",
           "Contestants": [
@@ -754,7 +754,7 @@ CONTESTS[2018]["Nacional"] = {
       "Instituto Federal de Educação, Ciência e Tecnologia do Triângulo Mineiro - Campus Ituiutaba": {
         "hey leão": {
           "Rank": 64,
-          "SiteRank": 11,
+          "SiteRank": 31,
           "Site": "Brazilian Finals",
           "Short name": "IFTM",
           "Contestants": [
@@ -773,7 +773,7 @@ CONTESTS[2018]["Nacional"] = {
       "Universidade Federal de Itajubá - Campus Itabira": {
         "Programming Socks": {
           "Rank": 43,
-          "SiteRank": 7,
+          "SiteRank": 20,
           "Site": "Brazilian Finals",
           "Short name": "Unifei Itabira",
           "Contestants": [
@@ -792,7 +792,7 @@ CONTESTS[2018]["Nacional"] = {
       "Universidade Federal de Itajubá - Campus Itajubá": {
         "Epic Nuclear Guys": {
           "Rank": 12,
-          "SiteRank": 2,
+          "SiteRank": 7,
           "Site": "Brazilian Finals",
           "Short name": "UNIFEI",
           "Contestants": [
@@ -811,7 +811,7 @@ CONTESTS[2018]["Nacional"] = {
       "Universidade Federal de Minas Gerais": {
         "LiXote dos Milagres": {
           "Rank": 10,
-          "SiteRank": 1,
+          "SiteRank": 6,
           "Site": "Brazilian Finals",
           "Short name": "UFMG",
           "Contestants": [
@@ -830,7 +830,7 @@ CONTESTS[2018]["Nacional"] = {
       "Universidade Federal de Uberlândia": {
         "Clube das Winx": {
           "Rank": 13,
-          "SiteRank": 3,
+          "SiteRank": 8,
           "Site": "Brazilian Finals",
           "Short name": "UFU",
           "Contestants": [
@@ -849,7 +849,7 @@ CONTESTS[2018]["Nacional"] = {
       "Universidade Federal de Uberlândia - Campus Monte Carmelo - Sistemas de Informação": {
         "Bit Please": {
           "Rank": 49,
-          "SiteRank": 9,
+          "SiteRank": 23,
           "Site": "Brazilian Finals",
           "Short name": "UFU-Monte Carmelo/SI",
           "Contestants": [
@@ -868,7 +868,7 @@ CONTESTS[2018]["Nacional"] = {
       "Universidade Federal de Viçosa": {
         "Três tigres tristes": {
           "Rank": 44,
-          "SiteRank": 8,
+          "SiteRank": 21,
           "Site": "Brazilian Finals",
           "Short name": "DPI-UFV",
           "Contestants": [
@@ -889,7 +889,7 @@ CONTESTS[2018]["Nacional"] = {
       "Instituto Militar de Engenharia": {
         "Fast WA Transform": {
           "Rank": 5,
-          "SiteRank": 1,
+          "SiteRank": 2,
           "Site": "Brazilian Finals",
           "Short name": "IME",
           "Contestants": [
@@ -908,7 +908,7 @@ CONTESTS[2018]["Nacional"] = {
       "Universidade Federal do Rio de Janeiro": {
         "Vitamina C++": {
           "Rank": 17,
-          "SiteRank": 2,
+          "SiteRank": 11,
           "Site": "Brazilian Finals",
           "Short name": "UFRJ",
           "Contestants": [
@@ -929,7 +929,7 @@ CONTESTS[2018]["Nacional"] = {
       "Centro Universitário da FEI": {
         "Monografo": {
           "Rank": 60,
-          "SiteRank": 17,
+          "SiteRank": 30,
           "Site": "Brazilian Finals",
           "Short name": "FEI",
           "Contestants": [
@@ -948,7 +948,7 @@ CONTESTS[2018]["Nacional"] = {
       "FACENS - Faculdade de Engenharia de Sorocaba": {
         "The Ducks": {
           "Rank": 31,
-          "SiteRank": 9,
+          "SiteRank": 15,
           "Site": "Brazilian Finals",
           "Short name": "FACENS",
           "Contestants": [
@@ -967,7 +967,7 @@ CONTESTS[2018]["Nacional"] = {
       "Faculdade de Tecnologia de Cruzeiro": {
         "scienceTech": {
           "Rank": 51,
-          "SiteRank": 12,
+          "SiteRank": 24,
           "Site": "Brazilian Finals",
           "Short name": "FATEC Cruzeiro",
           "Contestants": [
@@ -986,7 +986,7 @@ CONTESTS[2018]["Nacional"] = {
       "Faculdade de Tecnologia de São José dos Campos": {
         "Paitom 3": {
           "Rank": 52,
-          "SiteRank": 13,
+          "SiteRank": 25,
           "Site": "Brazilian Finals",
           "Short name": "FATEC-SJC",
           "Contestants": [
@@ -1005,7 +1005,7 @@ CONTESTS[2018]["Nacional"] = {
       "Faculdade de Tecnologia de São Paulo": {
         "2 Leandros e 1 Não": {
           "Rank": 58,
-          "SiteRank": 16,
+          "SiteRank": 29,
           "Site": "Brazilian Finals",
           "Short name": "FATEC São Paulo",
           "Contestants": [
@@ -1024,7 +1024,7 @@ CONTESTS[2018]["Nacional"] = {
       "Instituto Federal de São Paulo - Campus Piracicaba": {
         "C ta loco?": {
           "Rank": 67,
-          "SiteRank": 18,
+          "SiteRank": 32,
           "Site": "Brazilian Finals",
           "Short name": "IFSP - Piracicaba",
           "Contestants": [
@@ -1043,7 +1043,7 @@ CONTESTS[2018]["Nacional"] = {
       "Instituto Tecnológico de Aeronautica": {
         "CalopsITA": {
           "Rank": 6,
-          "SiteRank": 2,
+          "SiteRank": 3,
           "Site": "Brazilian Finals",
           "Short name": "ITA",
           "Contestants": [
@@ -1062,7 +1062,7 @@ CONTESTS[2018]["Nacional"] = {
       "UNESP - Universidade Estadual Paulista - (Faculdade de Ciências - Bauru)": {
         "Colecionadores de Balões": {
           "Rank": 48,
-          "SiteRank": 11,
+          "SiteRank": 22,
           "Site": "Brazilian Finals",
           "Short name": "UNESP-Bauru",
           "Contestants": [
@@ -1081,7 +1081,7 @@ CONTESTS[2018]["Nacional"] = {
       "UNOESTE - Universidade do Oeste Paulista": {
         "R2-D2": {
           "Rank": 54,
-          "SiteRank": 14,
+          "SiteRank": 26,
           "Site": "Brazilian Finals",
           "Short name": "UNOESTE",
           "Contestants": [
@@ -1100,7 +1100,7 @@ CONTESTS[2018]["Nacional"] = {
       "Universidade Estadual de Campinas": {
         "Time com o melhor nome": {
           "Rank": 18,
-          "SiteRank": 6,
+          "SiteRank": 12,
           "Site": "Brazilian Finals",
           "Short name": "UNICAMP",
           "Contestants": [
@@ -1119,7 +1119,7 @@ CONTESTS[2018]["Nacional"] = {
       "Universidade Federal de São Carlos": {
         "estoura_na.sort();": {
           "Rank": 35,
-          "SiteRank": 10,
+          "SiteRank": 17,
           "Site": "Brazilian Finals",
           "Short name": "UFSCar",
           "Contestants": [
@@ -1138,7 +1138,7 @@ CONTESTS[2018]["Nacional"] = {
       "Universidade Federal de São Carlos - Campus Sorocaba": {
         "C ilá": {
           "Rank": 21,
-          "SiteRank": 7,
+          "SiteRank": 13,
           "Site": "Brazilian Finals",
           "Short name": "UFSCar-Sorocaba",
           "Contestants": [
@@ -1157,7 +1157,7 @@ CONTESTS[2018]["Nacional"] = {
       "Universidade Federal do ABC": {
         "lupa linda": {
           "Rank": 28,
-          "SiteRank": 8,
+          "SiteRank": 14,
           "Site": "Brazilian Finals",
           "Short name": "UFABC",
           "Contestants": [
@@ -1176,7 +1176,7 @@ CONTESTS[2018]["Nacional"] = {
       "Universidade Presbiteriana Mackenzie": {
         "Ralôtim": {
           "Rank": 57,
-          "SiteRank": 15,
+          "SiteRank": 28,
           "Site": "Brazilian Finals",
           "Short name": "",
           "Contestants": [
@@ -1195,7 +1195,7 @@ CONTESTS[2018]["Nacional"] = {
       "Universidade de São Paulo": {
         "Meu patrão": {
           "Rank": 7,
-          "SiteRank": 3,
+          "SiteRank": 4,
           "Site": "Brazilian Finals",
           "Short name": "USP",
           "Contestants": [
@@ -1212,7 +1212,7 @@ CONTESTS[2018]["Nacional"] = {
         },
         "dog hits dog": {
           "Rank": 8,
-          "SiteRank": 4,
+          "SiteRank": 5,
           "Site": "Brazilian Finals",
           "Short name": "USP",
           "Contestants": [
@@ -1231,7 +1231,7 @@ CONTESTS[2018]["Nacional"] = {
       "Universidade de São Paulo - Campus de São Carlos": {
         "Ferabytes": {
           "Rank": 14,
-          "SiteRank": 5,
+          "SiteRank": 9,
           "Site": "Brazilian Finals",
           "Short name": "USP - São Carlos",
           "Contestants": [
@@ -1271,7 +1271,7 @@ CONTESTS[2018]["Nacional"] = {
       "UNIOESTE - Campus Cascavel": {
         "42KM": {
           "Rank": 40,
-          "SiteRank": 1,
+          "SiteRank": 3,
           "Site": "Brazilian Finals",
           "Short name": "UNIOESTE",
           "Contestants": [
@@ -1290,7 +1290,7 @@ CONTESTS[2018]["Nacional"] = {
       "Universidade Tecnológica Federal do Paraná - campus Ponta Grossa": {
         "Bugbusters": {
           "Rank": 41,
-          "SiteRank": 2,
+          "SiteRank": 4,
           "Site": "Brazilian Finals",
           "Short name": "UTFPR- Ponta Grossa",
           "Contestants": [
@@ -1311,7 +1311,7 @@ CONTESTS[2018]["Nacional"] = {
       "Universidade Federal do Rio Grande do Sul": {
         "Equipe Racket": {
           "Rank": 45,
-          "SiteRank": 1,
+          "SiteRank": 5,
           "Site": "Brazilian Finals",
           "Short name": "UFRGS",
           "Contestants": [
@@ -1330,7 +1330,7 @@ CONTESTS[2018]["Nacional"] = {
       "Universidade de Passo Fundo": {
         "Skynet dos Pampas: Ômega": {
           "Rank": 46,
-          "SiteRank": 2,
+          "SiteRank": 6,
           "Site": "Brazilian Finals",
           "Short name": "UPF",
           "Contestants": [
@@ -1370,7 +1370,7 @@ CONTESTS[2018]["Nacional"] = {
       "Universidade Federal de Santa Catarina (Campus Araranguá)": {
         "Nem Dijkstra?": {
           "Rank": 59,
-          "SiteRank": 3,
+          "SiteRank": 7,
           "Site": "Brazilian Finals",
           "Short name": "UFSC-ARA",
           "Contestants": [

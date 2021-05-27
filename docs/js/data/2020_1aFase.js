@@ -1538,7 +1538,7 @@ CONTESTS[2020]["1aFase"] = {
         },
         "DoForWhile": {
           "Rank": 672,
-          "SiteRank": 21,
+          "SiteRank": 26,
           "Site": "Bahia",
           "Short name": "UCSAL",
           "Contestants": [
@@ -1555,7 +1555,7 @@ CONTESTS[2020]["1aFase"] = {
         },
         "Ester e seus ALs": {
           "Rank": 515,
-          "SiteRank": 17,
+          "SiteRank": 21,
           "Site": "Bahia",
           "Short name": "UCSAL",
           "Contestants": [
@@ -1589,7 +1589,7 @@ CONTESTS[2020]["1aFase"] = {
         },
         "IllegalSkillsException": {
           "Rank": 663,
-          "SiteRank": 19,
+          "SiteRank": 24,
           "Site": "Bahia",
           "Short name": "UCSAL",
           "Contestants": [
@@ -1606,7 +1606,7 @@ CONTESTS[2020]["1aFase"] = {
         },
         "Killer Queen": {
           "Rank": 598,
-          "SiteRank": 18,
+          "SiteRank": 23,
           "Site": "Bahia",
           "Short name": "UCSAL",
           "Contestants": [
@@ -1657,7 +1657,7 @@ CONTESTS[2020]["1aFase"] = {
         },
         "TeamName = null": {
           "Rank": 304,
-          "SiteRank": 11,
+          "SiteRank": 13,
           "Site": "Bahia",
           "Short name": "UCSAL",
           "Contestants": [
@@ -1674,7 +1674,7 @@ CONTESTS[2020]["1aFase"] = {
         },
         "Ternarius": {
           "Rank": 456,
-          "SiteRank": 14,
+          "SiteRank": 18,
           "Site": "Bahia",
           "Short name": "UCSAL",
           "Contestants": [
@@ -1725,7 +1725,7 @@ CONTESTS[2020]["1aFase"] = {
         },
         "vaiNa.sort()": {
           "Rank": 513,
-          "SiteRank": 16,
+          "SiteRank": 20,
           "Site": "Bahia",
           "Short name": "UCSAL",
           "Contestants": [
@@ -1744,7 +1744,7 @@ CONTESTS[2020]["1aFase"] = {
       "Universidade Estadual de Feira de Santana": {
         "JAVAi Codando JAVAi travando": {
           "Rank": 398,
-          "SiteRank": 12,
+          "SiteRank": 16,
           "Site": "Bahia",
           "Short name": "UEFS",
           "Contestants": [
@@ -1761,7 +1761,7 @@ CONTESTS[2020]["1aFase"] = {
         },
         "Python Rangers": {
           "Rank": 295,
-          "SiteRank": 10,
+          "SiteRank": 12,
           "Site": "Bahia",
           "Short name": "UEFS",
           "Contestants": [
@@ -1778,7 +1778,7 @@ CONTESTS[2020]["1aFase"] = {
         },
         "System error": {
           "Rank": 497,
-          "SiteRank": 15,
+          "SiteRank": 19,
           "Site": "Bahia",
           "Short name": "UEFS",
           "Contestants": [
@@ -1814,7 +1814,7 @@ CONTESTS[2020]["1aFase"] = {
       "Universidade Estadual de Santa Cruz": {
         "001": {
           "Rank": 141,
-          "SiteRank": 6,
+          "SiteRank": 7,
           "Site": "Bahia",
           "Short name": "UESC",
           "Contestants": [
@@ -1831,7 +1831,7 @@ CONTESTS[2020]["1aFase"] = {
         },
         "Qualquer Coisa": {
           "Rank": 229,
-          "SiteRank": 7,
+          "SiteRank": 9,
           "Site": "Bahia",
           "Short name": "UESC",
           "Contestants": [
@@ -1869,7 +1869,7 @@ CONTESTS[2020]["1aFase"] = {
       "Universidade Estadual do Sudoeste da Bahia - Campus Jequié": {
         "87 eh do Sport": {
           "Rank": 402,
-          "SiteRank": 13,
+          "SiteRank": 17,
           "Site": "Bahia",
           "Short name": "",
           "Contestants": [
@@ -1886,7 +1886,7 @@ CONTESTS[2020]["1aFase"] = {
         },
         "Elementar": {
           "Rank": 276,
-          "SiteRank": 9,
+          "SiteRank": 11,
           "Site": "Bahia",
           "Short name": "",
           "Contestants": [
@@ -1903,7 +1903,7 @@ CONTESTS[2020]["1aFase"] = {
         },
         "Young Programmers": {
           "Rank": 670,
-          "SiteRank": 20,
+          "SiteRank": 25,
           "Site": "Bahia",
           "Short name": "",
           "Contestants": [
@@ -1939,7 +1939,7 @@ CONTESTS[2020]["1aFase"] = {
         },
         "POA": {
           "Rank": 253,
-          "SiteRank": 8,
+          "SiteRank": 10,
           "Site": "Bahia",
           "Short name": "UFBA",
           "Contestants": [
@@ -3771,7 +3771,7 @@ CONTESTS[2020]["1aFase"] = {
       "Universidade Federal do Vale do São Francisco": {
         "C but but": {
           "Rank": 327,
-          "SiteRank": 2,
+          "SiteRank": 14,
           "Site": "Bahia",
           "Short name": "UNIVASF",
           "Contestants": [
@@ -3788,7 +3788,7 @@ CONTESTS[2020]["1aFase"] = {
         },
         "Ghostbuggers": {
           "Rank": 169,
-          "SiteRank": 1,
+          "SiteRank": 8,
           "Site": "Bahia",
           "Short name": "UNIVASF",
           "Contestants": [
@@ -3805,7 +3805,7 @@ CONTESTS[2020]["1aFase"] = {
         },
         "Ponto e Vírgula": {
           "Rank": 381,
-          "SiteRank": 3,
+          "SiteRank": 15,
           "Site": "Bahia",
           "Short name": "UNIVASF",
           "Contestants": [
@@ -3822,7 +3822,7 @@ CONTESTS[2020]["1aFase"] = {
         },
         "undefined": {
           "Rank": 568,
-          "SiteRank": 4,
+          "SiteRank": 22,
           "Site": "Bahia",
           "Short name": "UNIVASF",
           "Contestants": [
@@ -4424,7 +4424,7 @@ CONTESTS[2020]["1aFase"] = {
       "Faculdade de Tecnologia SENAI CIMATEC": {
         "A volta dos trouxas": {
           "Rank": 128,
-          "SiteRank": 1,
+          "SiteRank": 6,
           "Site": "Bahia",
           "Short name": "Senai Cimatic",
           "Contestants": [

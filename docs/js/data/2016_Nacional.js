@@ -4,92 +4,12 @@ if (CONTESTS[2016] === undefined)
   CONTESTS[2016] = {};
 
 CONTESTS[2016]["Nacional"] = {
-  "Brasil": {
-    "BR": {
-      "Faculdade Pitágoras Divinópolis": {
-        "Pitágoras 3": {
-          "Rank": 48,
-          "SiteRank": 2,
-          "Site": "Brazilian Finals",
-          "Short name": "Pitágoras",
-          "Contestants": [
-            "Pedro Oliveira",
-            "Raphael Souza",
-            "Gustavo Benedito"
-          ],
-          "Sex": [
-            "Male",
-            "Male",
-            "Male"
-          ],
-          "Coach": "Eduardo Oliveira"
-        }
-      },
-      "Instituto Federal do Triângulo Mineiro Campus Patrocínio": {
-        "Carvalhos": {
-          "Rank": 56,
-          "SiteRank": 4,
-          "Site": "Brazilian Finals",
-          "Short name": "IFTM Campus Patrocín",
-          "Contestants": [
-            "Ana Cláudia De Freitas Carvalho",
-            "Douglas Carvalho",
-            "Rafael De Oliveira Carvalho Soares"
-          ],
-          "Sex": [
-            "Female",
-            "Male",
-            "Male"
-          ],
-          "Coach": "Cintia Oliveira"
-        }
-      },
-      "UNIJUI - Santa Rosa": {
-        "Spyware": {
-          "Rank": 47,
-          "SiteRank": 1,
-          "Site": "Brazilian Finals",
-          "Short name": "UNIJUI - Santa Rosa",
-          "Contestants": [
-            "Roger Casagrande De Medeiros",
-            "Lori Ronaldo Flores Machado Filho",
-            "Marcos Sulzbach Morgenstern"
-          ],
-          "Sex": [
-            "Male",
-            "Male",
-            "Male"
-          ],
-          "Coach": "Gerson Battisti"
-        }
-      },
-      "Universidade São Judas Tadeu": {
-        "Scrumlambation": {
-          "Rank": 52,
-          "SiteRank": 3,
-          "Site": "Brazilian Finals",
-          "Short name": "Universidade São Judas Tadeu",
-          "Contestants": [
-            "Caique Dos Santos Coelho",
-            "Thiago Batista Soares",
-            "Rodrigo Blanco"
-          ],
-          "Sex": [
-            "Male",
-            "Male",
-            "Male"
-          ],
-          "Coach": "Carlos Menezes"
-        }
-      }
-    }
-  },
   "Centro-Oeste": {
     "DF": {
       "Universidade de Brasília": {
         "Turkeys": {
           "Rank": 16,
-          "SiteRank": 2,
+          "SiteRank": 3,
           "Site": "Brazilian Finals",
           "Short name": "UnB",
           "Contestants": [
@@ -108,7 +28,7 @@ CONTESTS[2016]["Nacional"] = {
       "Universidade de Brasília - Faculdade UnB Gama": {
         "Teorema de Offson": {
           "Rank": 14,
-          "SiteRank": 1,
+          "SiteRank": 2,
           "Site": "Brazilian Finals",
           "Short name": "UnB/FGA",
           "Contestants": [
@@ -150,7 +70,7 @@ CONTESTS[2016]["Nacional"] = {
       "Faculdade de Computação - UFMS": {
         "Maze Coders": {
           "Rank": 35,
-          "SiteRank": 1,
+          "SiteRank": 4,
           "Site": "Brazilian Finals",
           "Short name": "FACOM - UFMS",
           "Contestants": [
@@ -173,7 +93,7 @@ CONTESTS[2016]["Nacional"] = {
       "UNIME - União Metropolitana de Educação e Cultura": {
         "Sem net não da": {
           "Rank": 58,
-          "SiteRank": 3,
+          "SiteRank": 14,
           "Site": "Brazilian Finals",
           "Short name": "UNIME",
           "Contestants": [
@@ -211,7 +131,7 @@ CONTESTS[2016]["Nacional"] = {
       "Universidade Estadual do Sudoeste da Bahia": {
         "Ursos sem Curso": {
           "Rank": 41,
-          "SiteRank": 2,
+          "SiteRank": 11,
           "Site": "Brazilian Finals",
           "Short name": "UESB",
           "Contestants": [
@@ -230,7 +150,7 @@ CONTESTS[2016]["Nacional"] = {
       "Universidade Federal da Bahia": {
         "Robério e Seu Teclado": {
           "Rank": 3,
-          "SiteRank": 1,
+          "SiteRank": 2,
           "Site": "Brazilian Finals",
           "Short name": "Ufba",
           "Contestants": [
@@ -251,7 +171,7 @@ CONTESTS[2016]["Nacional"] = {
       "Instituto Federal de Ensino, Ciência e Tecnologia do Ceará": {
         "O importante é não zerar!": {
           "Rank": 37,
-          "SiteRank": 2,
+          "SiteRank": 10,
           "Site": "Brazilian Finals",
           "Short name": "IFCE",
           "Contestants": [
@@ -270,7 +190,7 @@ CONTESTS[2016]["Nacional"] = {
       "Universidade Estadual do Ceará": {
         "Pokecode Go": {
           "Rank": 25,
-          "SiteRank": 1,
+          "SiteRank": 7,
           "Site": "Brazilian Finals",
           "Short name": "UECE",
           "Contestants": [
@@ -291,7 +211,7 @@ CONTESTS[2016]["Nacional"] = {
       "Universidade Federal do Maranhão": {
         "UFMA GIF de Gatinhos": {
           "Rank": 55,
-          "SiteRank": 1,
+          "SiteRank": 13,
           "Site": "Brazilian Finals",
           "Short name": "UFMA",
           "Contestants": [
@@ -312,7 +232,7 @@ CONTESTS[2016]["Nacional"] = {
       "Instituto Federal de Educação, Ciência e Tecnologia da Paraíba - Campus João Pessoa": {
         "e-Coders": {
           "Rank": 36,
-          "SiteRank": 2,
+          "SiteRank": 9,
           "Site": "Brazilian Finals",
           "Short name": "IFPB - João Pessoa",
           "Contestants": [
@@ -350,7 +270,7 @@ CONTESTS[2016]["Nacional"] = {
       "Universidade Federal de Campina Grande": {
         "!xor&!": {
           "Rank": 6,
-          "SiteRank": 1,
+          "SiteRank": 4,
           "Site": "Brazilian Finals",
           "Short name": "UFCG",
           "Contestants": [
@@ -388,7 +308,7 @@ CONTESTS[2016]["Nacional"] = {
         },
         "Wickaninnish": {
           "Rank": 4,
-          "SiteRank": 2,
+          "SiteRank": 3,
           "Site": "Brazilian Finals",
           "Short name": "UF Pernambuco",
           "Contestants": [
@@ -409,7 +329,7 @@ CONTESTS[2016]["Nacional"] = {
       "Universidade Federal do Piauí": {
         "CAFEÍNA OVERFLOW": {
           "Rank": 32,
-          "SiteRank": 1,
+          "SiteRank": 8,
           "Site": "Brazilian Finals",
           "Short name": "UFPI",
           "Contestants": [
@@ -430,7 +350,7 @@ CONTESTS[2016]["Nacional"] = {
       "Universidade Federal do Rio Grande do Norte": {
         "Bota mais um ai": {
           "Rank": 17,
-          "SiteRank": 2,
+          "SiteRank": 6,
           "Site": "Brazilian Finals",
           "Short name": "UFRN",
           "Contestants": [
@@ -447,7 +367,7 @@ CONTESTS[2016]["Nacional"] = {
         },
         "Ginga com Tapioca": {
           "Rank": 7,
-          "SiteRank": 1,
+          "SiteRank": 5,
           "Site": "Brazilian Finals",
           "Short name": "UFRN",
           "Contestants": [
@@ -468,7 +388,7 @@ CONTESTS[2016]["Nacional"] = {
       "Universidade Federal de Sergipe": {
         "Pra q nome?": {
           "Rank": 53,
-          "SiteRank": 1,
+          "SiteRank": 12,
           "Site": "Brazilian Finals",
           "Short name": "U Federal de Sergipe",
           "Contestants": [
@@ -491,7 +411,7 @@ CONTESTS[2016]["Nacional"] = {
       "Universidade Federal do Amazonas": {
         "ICompUFAM-POG": {
           "Rank": 50,
-          "SiteRank": 1,
+          "SiteRank": 2,
           "Site": "Brazilian Finals",
           "Short name": "UFAM",
           "Contestants": [
@@ -535,7 +455,7 @@ CONTESTS[2016]["Nacional"] = {
       "Centro Universitário Norte do Espírito Santo - Universidade Federal do Espírito Santo": {
         "TLE": {
           "Rank": 38,
-          "SiteRank": 1,
+          "SiteRank": 18,
           "Site": "Brazilian Finals",
           "Short name": "Ceunes UFES",
           "Contestants": [
@@ -556,7 +476,7 @@ CONTESTS[2016]["Nacional"] = {
       "Centro Federal de Educação Tecnológica de Minas Gerais - Campus 2": {
         "Ceferberus": {
           "Rank": 39,
-          "SiteRank": 6,
+          "SiteRank": 19,
           "Site": "Brazilian Finals",
           "Short name": "CEFET-MG-C2",
           "Contestants": [
@@ -575,7 +495,7 @@ CONTESTS[2016]["Nacional"] = {
       "FAI - Centro de Ensino Superior em Gestão, Tecnologia e Educação": {
         "UAIFAI": {
           "Rank": 51,
-          "SiteRank": 9,
+          "SiteRank": 25,
           "Site": "Brazilian Finals",
           "Short name": "FAI",
           "Contestants": [
@@ -591,10 +511,29 @@ CONTESTS[2016]["Nacional"] = {
           "Coach": "Roberto Porto"
         }
       },
+      "Faculdade Pitágoras Divinópolis": {
+        "Pitágoras 3": {
+          "Rank": 48,
+          "SiteRank": 24,
+          "Site": "Brazilian Finals",
+          "Short name": "Pitágoras",
+          "Contestants": [
+            "Pedro Oliveira",
+            "Raphael Souza",
+            "Gustavo Benedito"
+          ],
+          "Sex": [
+            "Male",
+            "Male",
+            "Male"
+          ],
+          "Coach": "Eduardo Oliveira"
+        }
+      },
       "INATEL - Instituto Nacional de Telecomunicações": {
         "stormtroop3rs": {
           "Rank": 21,
-          "SiteRank": 4,
+          "SiteRank": 10,
           "Site": "Brazilian Finals",
           "Short name": "INATEL",
           "Contestants": [
@@ -613,7 +552,7 @@ CONTESTS[2016]["Nacional"] = {
       "Instituto Federal de Educação, Ciência e Tecnologia do Sul de Minas Gerais - Campus Muzambinho": {
         "Flecha no Joelho": {
           "Rank": 44,
-          "SiteRank": 7,
+          "SiteRank": 21,
           "Site": "Brazilian Finals",
           "Short name": "IFSULMGMuz",
           "Contestants": [
@@ -629,10 +568,29 @@ CONTESTS[2016]["Nacional"] = {
           "Coach": "Ricardo José Martins"
         }
       },
+      "Instituto Federal do Triângulo Mineiro Campus Patrocínio": {
+        "Carvalhos": {
+          "Rank": 56,
+          "SiteRank": 28,
+          "Site": "Brazilian Finals",
+          "Short name": "IFTM Campus Patrocín",
+          "Contestants": [
+            "Ana Cláudia De Freitas Carvalho",
+            "Douglas Carvalho",
+            "Rafael De Oliveira Carvalho Soares"
+          ],
+          "Sex": [
+            "Female",
+            "Male",
+            "Male"
+          ],
+          "Coach": "Cintia Oliveira"
+        }
+      },
       "Universidade Federal de Itajubá - Campus Itajubá": {
         "Epic Sax Guys": {
           "Rank": 5,
-          "SiteRank": 1,
+          "SiteRank": 2,
           "Site": "Brazilian Finals",
           "Short name": "UNIFEI",
           "Contestants": [
@@ -651,7 +609,7 @@ CONTESTS[2016]["Nacional"] = {
       "Universidade Federal de Minas Gerais": {
         "Stenio Garcia": {
           "Rank": 15,
-          "SiteRank": 3,
+          "SiteRank": 8,
           "Site": "Brazilian Finals",
           "Short name": "UFMG",
           "Contestants": [
@@ -670,7 +628,7 @@ CONTESTS[2016]["Nacional"] = {
       "Universidade Federal de Uberlândia": {
         "Medalha++": {
           "Rank": 24,
-          "SiteRank": 5,
+          "SiteRank": 13,
           "Site": "Brazilian Finals",
           "Short name": "UFU",
           "Contestants": [
@@ -689,7 +647,7 @@ CONTESTS[2016]["Nacional"] = {
       "Universidade Federal de Uberlândia - Campus Monte Carmelo - Sistemas de Informação": {
         "Bit Please": {
           "Rank": 46,
-          "SiteRank": 8,
+          "SiteRank": 23,
           "Site": "Brazilian Finals",
           "Short name": "UFU-Monte Carmelo/SI",
           "Contestants": [
@@ -708,7 +666,7 @@ CONTESTS[2016]["Nacional"] = {
       "Universidade Federal de Viçosa": {
         "Grafo de Botas": {
           "Rank": 13,
-          "SiteRank": 2,
+          "SiteRank": 7,
           "Site": "Brazilian Finals",
           "Short name": "DPI-UFV",
           "Contestants": [
@@ -729,7 +687,7 @@ CONTESTS[2016]["Nacional"] = {
       "Instituto Militar de Engenharia": {
         "Lorem Ipsum": {
           "Rank": 10,
-          "SiteRank": 2,
+          "SiteRank": 4,
           "Site": "Brazilian Finals",
           "Short name": "IME",
           "Contestants": [
@@ -748,7 +706,7 @@ CONTESTS[2016]["Nacional"] = {
       "Pontificia Universidade Catolica do Rio de Janeiro": {
         "char mander;": {
           "Rank": 54,
-          "SiteRank": 4,
+          "SiteRank": 27,
           "Site": "Brazilian Finals",
           "Short name": "PUC Rio de Janeiro",
           "Contestants": [
@@ -767,7 +725,7 @@ CONTESTS[2016]["Nacional"] = {
       "Universidade Federal do Rio de Janeiro": {
         "Esse é meu time": {
           "Rank": 8,
-          "SiteRank": 1,
+          "SiteRank": 3,
           "Site": "Brazilian Finals",
           "Short name": "UF Rio de Janeiro",
           "Contestants": [
@@ -786,7 +744,7 @@ CONTESTS[2016]["Nacional"] = {
       "Universidade do Estado do Rio de Janeiro": {
         "XOR": {
           "Rank": 43,
-          "SiteRank": 3,
+          "SiteRank": 20,
           "Site": "Brazilian Finals",
           "Short name": "UERJ",
           "Contestants": [
@@ -807,7 +765,7 @@ CONTESTS[2016]["Nacional"] = {
       "Centro Universitário da FEI": {
         "Instinct": {
           "Rank": 28,
-          "SiteRank": 8,
+          "SiteRank": 15,
           "Site": "Brazilian Finals",
           "Short name": "FEI",
           "Contestants": [
@@ -826,7 +784,7 @@ CONTESTS[2016]["Nacional"] = {
       "Faculdade de Tecnologia de São Paulo": {
         "Xtreme Go Horse Oriented": {
           "Rank": 33,
-          "SiteRank": 10,
+          "SiteRank": 17,
           "Site": "Brazilian Finals",
           "Short name": "FATEC São Paulo",
           "Contestants": [
@@ -845,7 +803,7 @@ CONTESTS[2016]["Nacional"] = {
       "Instituto Tecnológico de Aeronautica": {
         "Fast BIRL Transform": {
           "Rank": 12,
-          "SiteRank": 3,
+          "SiteRank": 6,
           "Site": "Brazilian Finals",
           "Short name": "ITA",
           "Contestants": [
@@ -864,7 +822,7 @@ CONTESTS[2016]["Nacional"] = {
       "UNESP - Universidade Estadual Paulista - (Faculdade de Ciências - Bauru)": {
         "UNESP Bauru": {
           "Rank": 57,
-          "SiteRank": 12,
+          "SiteRank": 29,
           "Site": "Brazilian Finals",
           "Short name": "UNESP-Bauru",
           "Contestants": [
@@ -883,7 +841,7 @@ CONTESTS[2016]["Nacional"] = {
       "UNOESTE - Universidade do Oeste Paulista": {
         "Supermain Returns": {
           "Rank": 45,
-          "SiteRank": 11,
+          "SiteRank": 22,
           "Site": "Brazilian Finals",
           "Short name": "UNOESTE",
           "Contestants": [
@@ -921,7 +879,7 @@ CONTESTS[2016]["Nacional"] = {
       "Universidade Federal de São Carlos": {
         "vai_na.sort();": {
           "Rank": 27,
-          "SiteRank": 7,
+          "SiteRank": 14,
           "Site": "Brazilian Finals",
           "Short name": "UFSCar",
           "Contestants": [
@@ -940,7 +898,7 @@ CONTESTS[2016]["Nacional"] = {
       "Universidade Federal de São Carlos - Campus Sorocaba": {
         "Knights of Nlogonia": {
           "Rank": 23,
-          "SiteRank": 6,
+          "SiteRank": 12,
           "Site": "Brazilian Finals",
           "Short name": "UFSCar-Sorocaba",
           "Contestants": [
@@ -956,10 +914,29 @@ CONTESTS[2016]["Nacional"] = {
           "Coach": "Cândida Nunes Da Silva"
         }
       },
+      "Universidade São Judas Tadeu": {
+        "Scrumlambation": {
+          "Rank": 52,
+          "SiteRank": 26,
+          "Site": "Brazilian Finals",
+          "Short name": "USJT",
+          "Contestants": [
+            "Caique Dos Santos Coelho",
+            "Thiago Batista Soares",
+            "Rodrigo Blanco"
+          ],
+          "Sex": [
+            "Male",
+            "Male",
+            "Male"
+          ],
+          "Coach": "Carlos Menezes"
+        }
+      },
       "Universidade de São Paulo": {
         "Cadê o Baiano?": {
           "Rank": 11,
-          "SiteRank": 2,
+          "SiteRank": 5,
           "Site": "Brazilian Finals",
           "Short name": "USP",
           "Contestants": [
@@ -978,7 +955,7 @@ CONTESTS[2016]["Nacional"] = {
       "Universidade de São Paulo - Campus de São Carlos": {
         "A Viagem de Shi Hero": {
           "Rank": 19,
-          "SiteRank": 4,
+          "SiteRank": 9,
           "Site": "Brazilian Finals",
           "Short name": "USP - São Carlos",
           "Contestants": [
@@ -995,7 +972,7 @@ CONTESTS[2016]["Nacional"] = {
         },
         "Q": {
           "Rank": 22,
-          "SiteRank": 5,
+          "SiteRank": 11,
           "Site": "Brazilian Finals",
           "Short name": "USP - São Carlos",
           "Contestants": [
@@ -1014,7 +991,7 @@ CONTESTS[2016]["Nacional"] = {
       "Universidade de Taubaté": {
         "Maledictus Avus Pepe": {
           "Rank": 30,
-          "SiteRank": 9,
+          "SiteRank": 16,
           "Site": "Brazilian Finals",
           "Short name": "UNITAU",
           "Contestants": [
@@ -1037,7 +1014,7 @@ CONTESTS[2016]["Nacional"] = {
       "UNIOESTE - Campus Cascavel": {
         "Ops! Solução Trivial": {
           "Rank": 20,
-          "SiteRank": 1,
+          "SiteRank": 2,
           "Site": "Brazilian Finals",
           "Short name": "UNIOESTE",
           "Contestants": [
@@ -1056,7 +1033,7 @@ CONTESTS[2016]["Nacional"] = {
       "Universidade Federal do Paraná": {
         "NomeProvisorioTrypanossoMestre": {
           "Rank": 29,
-          "SiteRank": 3,
+          "SiteRank": 4,
           "Site": "Brazilian Finals",
           "Short name": "UF Paraná",
           "Contestants": [
@@ -1075,7 +1052,7 @@ CONTESTS[2016]["Nacional"] = {
       "Universidade Tecnológica Federal do Paraná - campus Ponta Grossa": {
         "Bug Busters": {
           "Rank": 26,
-          "SiteRank": 2,
+          "SiteRank": 3,
           "Site": "Brazilian Finals",
           "Short name": "UTFPR- Ponta Grossa",
           "Contestants": [
@@ -1093,10 +1070,29 @@ CONTESTS[2016]["Nacional"] = {
       }
     },
     "RS": {
+      "UNIJUI - Santa Rosa": {
+        "Spyware": {
+          "Rank": 47,
+          "SiteRank": 8,
+          "Site": "Brazilian Finals",
+          "Short name": "UNIJUI - Santa Rosa",
+          "Contestants": [
+            "Roger Casagrande De Medeiros",
+            "Lori Ronaldo Flores Machado Filho",
+            "Marcos Sulzbach Morgenstern"
+          ],
+          "Sex": [
+            "Male",
+            "Male",
+            "Male"
+          ],
+          "Coach": "Gerson Battisti"
+        }
+      },
       "Universidade Federal de Pelotas": {
         "Ta Serto": {
           "Rank": 40,
-          "SiteRank": 2,
+          "SiteRank": 6,
           "Site": "Brazilian Finals",
           "Short name": "UFPel",
           "Contestants": [
@@ -1115,7 +1111,7 @@ CONTESTS[2016]["Nacional"] = {
       "Universidade Federal do Rio Grande do Sul": {
         "Code Runners": {
           "Rank": 49,
-          "SiteRank": 3,
+          "SiteRank": 9,
           "Site": "Brazilian Finals",
           "Short name": "UFRGS",
           "Contestants": [
@@ -1155,7 +1151,7 @@ CONTESTS[2016]["Nacional"] = {
       "Universidade Federal da Fronteira Sul": {
         "AKM": {
           "Rank": 42,
-          "SiteRank": 2,
+          "SiteRank": 7,
           "Site": "Brazilian Finals",
           "Short name": "UFFS",
           "Contestants": [
@@ -1174,7 +1170,7 @@ CONTESTS[2016]["Nacional"] = {
       "Universidade do Estado de Santa Catarina": {
         "Pollos Hermanos": {
           "Rank": 34,
-          "SiteRank": 1,
+          "SiteRank": 5,
           "Site": "Brazilian Finals",
           "Short name": "UDESC",
           "Contestants": [
@@ -1205,24 +1201,6 @@ if (AGGREGATED["Mean"]["Rank"][2016] === undefined)
   AGGREGATED["Mean"]["Rank"][2016] = {};
 
 AGGREGATED["Mean"]["Rank"][2016]["Nacional"] = {
-  "Brasil": {
-    "Value": 51.05882352941177,
-    "BR": {
-      "Value": 51.05882352941177,
-      "Faculdade Pitágoras Divinópolis": {
-        "Value": 48.0
-      },
-      "Instituto Federal do Triângulo Mineiro Campus Patrocínio": {
-        "Value": 56.0
-      },
-      "UNIJUI - Santa Rosa": {
-        "Value": 47.0
-      },
-      "Universidade São Judas Tadeu": {
-        "Value": 52.0
-      }
-    }
-  },
   "Centro-Oeste": {
     "Value": 18.235294117647058,
     "DF": {
@@ -1326,7 +1304,7 @@ AGGREGATED["Mean"]["Rank"][2016]["Nacional"] = {
     }
   },
   "Sudeste": {
-    "Value": 26.821138211382113,
+    "Value": 29.25735294117647,
     "ES": {
       "Value": 38.0,
       "Centro Universitário Norte do Espírito Santo - Universidade Federal do Espírito Santo": {
@@ -1334,18 +1312,24 @@ AGGREGATED["Mean"]["Rank"][2016]["Nacional"] = {
       }
     },
     "MG": {
-      "Value": 28.545454545454547,
+      "Value": 32.60377358490566,
       "Centro Federal de Educação Tecnológica de Minas Gerais - Campus 2": {
         "Value": 39.0
       },
       "FAI - Centro de Ensino Superior em Gestão, Tecnologia e Educação": {
         "Value": 51.0
       },
+      "Faculdade Pitágoras Divinópolis": {
+        "Value": 48.0
+      },
       "INATEL - Instituto Nacional de Telecomunicações": {
         "Value": 21.0
       },
       "Instituto Federal de Educação, Ciência e Tecnologia do Sul de Minas Gerais - Campus Muzambinho": {
         "Value": 44.0
+      },
+      "Instituto Federal do Triângulo Mineiro Campus Patrocínio": {
+        "Value": 56.0
       },
       "Universidade Federal de Itajubá - Campus Itajubá": {
         "Value": 5.0
@@ -1379,7 +1363,7 @@ AGGREGATED["Mean"]["Rank"][2016]["Nacional"] = {
       }
     },
     "SP": {
-      "Value": 24.17543859649123,
+      "Value": 26.0,
       "Centro Universitário da FEI": {
         "Value": 28.0
       },
@@ -1404,6 +1388,9 @@ AGGREGATED["Mean"]["Rank"][2016]["Nacional"] = {
       "Universidade Federal de São Carlos - Campus Sorocaba": {
         "Value": 23.0
       },
+      "Universidade São Judas Tadeu": {
+        "Value": 52.0
+      },
       "Universidade de São Paulo": {
         "Value": 11.0
       },
@@ -1416,7 +1403,7 @@ AGGREGATED["Mean"]["Rank"][2016]["Nacional"] = {
     }
   },
   "Sul": {
-    "Value": 32.078947368421055,
+    "Value": 33.5,
     "PR": {
       "Value": 25.142857142857142,
       "UNIOESTE - Campus Cascavel": {
@@ -1430,7 +1417,10 @@ AGGREGATED["Mean"]["Rank"][2016]["Nacional"] = {
       }
     },
     "RS": {
-      "Value": 35.357142857142854,
+      "Value": 37.94444444444444,
+      "UNIJUI - Santa Rosa": {
+        "Value": 47.0
+      },
       "Universidade Federal de Pelotas": {
         "Value": 40.0
       },
@@ -1464,15 +1454,6 @@ if (AGGREGATED["Count"]["Girls"][2016] === undefined)
   AGGREGATED["Count"]["Girls"][2016] = {};
 
 AGGREGATED["Count"]["Girls"][2016]["Nacional"] = {
-  "Brasil": {
-    "Value": 1,
-    "BR": {
-      "Value": 1,
-      "Instituto Federal do Triângulo Mineiro Campus Patrocínio": {
-        "Value": 1
-      }
-    }
-  },
   "Centro-Oeste": {
     "Value": 1,
     "MS": {
@@ -1504,10 +1485,13 @@ AGGREGATED["Count"]["Girls"][2016]["Nacional"] = {
     }
   },
   "Sudeste": {
-    "Value": 6,
+    "Value": 7,
     "MG": {
-      "Value": 2,
+      "Value": 3,
       "Instituto Federal de Educação, Ciência e Tecnologia do Sul de Minas Gerais - Campus Muzambinho": {
+        "Value": 1
+      },
+      "Instituto Federal do Triângulo Mineiro Campus Patrocínio": {
         "Value": 1
       },
       "Universidade Federal de Uberlândia - Campus Monte Carmelo - Sistemas de Informação": {
@@ -1550,24 +1534,6 @@ if (AGGREGATED["Count"]["Teams"][2016] === undefined)
   AGGREGATED["Count"]["Teams"][2016] = {};
 
 AGGREGATED["Count"]["Teams"][2016]["Nacional"] = {
-  "Brasil": {
-    "Value": 4,
-    "BR": {
-      "Value": 4,
-      "Faculdade Pitágoras Divinópolis": {
-        "Value": 1
-      },
-      "Instituto Federal do Triângulo Mineiro Campus Patrocínio": {
-        "Value": 1
-      },
-      "UNIJUI - Santa Rosa": {
-        "Value": 1
-      },
-      "Universidade São Judas Tadeu": {
-        "Value": 1
-      }
-    }
-  },
   "Centro-Oeste": {
     "Value": 4,
     "DF": {
@@ -1677,7 +1643,7 @@ AGGREGATED["Count"]["Teams"][2016]["Nacional"] = {
     }
   },
   "Sudeste": {
-    "Value": 26,
+    "Value": 29,
     "ES": {
       "Value": 1,
       "Centro Universitário Norte do Espírito Santo - Universidade Federal do Espírito Santo": {
@@ -1685,17 +1651,23 @@ AGGREGATED["Count"]["Teams"][2016]["Nacional"] = {
       }
     },
     "MG": {
-      "Value": 9,
+      "Value": 11,
       "Centro Federal de Educação Tecnológica de Minas Gerais - Campus 2": {
         "Value": 1
       },
       "FAI - Centro de Ensino Superior em Gestão, Tecnologia e Educação": {
         "Value": 1
       },
+      "Faculdade Pitágoras Divinópolis": {
+        "Value": 1
+      },
       "INATEL - Instituto Nacional de Telecomunicações": {
         "Value": 1
       },
       "Instituto Federal de Educação, Ciência e Tecnologia do Sul de Minas Gerais - Campus Muzambinho": {
+        "Value": 1
+      },
+      "Instituto Federal do Triângulo Mineiro Campus Patrocínio": {
         "Value": 1
       },
       "Universidade Federal de Itajubá - Campus Itajubá": {
@@ -1730,7 +1702,7 @@ AGGREGATED["Count"]["Teams"][2016]["Nacional"] = {
       }
     },
     "SP": {
-      "Value": 12,
+      "Value": 13,
       "Centro Universitário da FEI": {
         "Value": 1
       },
@@ -1755,6 +1727,9 @@ AGGREGATED["Count"]["Teams"][2016]["Nacional"] = {
       "Universidade Federal de São Carlos - Campus Sorocaba": {
         "Value": 1
       },
+      "Universidade São Judas Tadeu": {
+        "Value": 1
+      },
       "Universidade de São Paulo": {
         "Value": 1
       },
@@ -1767,7 +1742,7 @@ AGGREGATED["Count"]["Teams"][2016]["Nacional"] = {
     }
   },
   "Sul": {
-    "Value": 8,
+    "Value": 9,
     "PR": {
       "Value": 3,
       "UNIOESTE - Campus Cascavel": {
@@ -1781,7 +1756,10 @@ AGGREGATED["Count"]["Teams"][2016]["Nacional"] = {
       }
     },
     "RS": {
-      "Value": 3,
+      "Value": 4,
+      "UNIJUI - Santa Rosa": {
+        "Value": 1
+      },
       "Universidade Federal de Pelotas": {
         "Value": 1
       },

@@ -4,84 +4,6 @@ if (CONTESTS[2010] === undefined)
   CONTESTS[2010] = {};
 
 CONTESTS[2010]["Nacional"] = {
-  "Brasil": {
-    "BR": {
-      "Centro Universitário de Lins": {
-        "CLovers": {
-          "Rank": 49,
-          "SiteRank": 4,
-          "Site": "Brazilian Finals",
-          "Short name": "UNILINS",
-          "Contestants": [
-            "Amauri Gabriel De Jesus Júnior",
-            "Everton José De Souza",
-            "Fernando Henrique Hideo Kanada"
-          ],
-          "Sex": [
-            "Male",
-            "Male",
-            "Male"
-          ],
-          "Coach": "Antonio Carlos Lima De Santana"
-        },
-        "SamuraiC": {
-          "Rank": 40,
-          "SiteRank": 3,
-          "Site": "Brazilian Finals",
-          "Short name": "UNILINS",
-          "Contestants": [
-            "Emerson Katsumi Matsumoto",
-            "Maurício Massaaki Yochizumi",
-            "Francismar Mariano De Oliveira"
-          ],
-          "Sex": [
-            "Male",
-            "Male",
-            "Male"
-          ],
-          "Coach": "Antonio Carlos Lima De Santana"
-        }
-      },
-      "Universidade Regional de Blumenau": {
-        "Fureuler": {
-          "Rank": 20,
-          "SiteRank": 1,
-          "Site": "Brazilian Finals",
-          "Short name": "FURB",
-          "Contestants": [
-            "André Luís Beling Da Rosa",
-            "Maicon Rafael Zatelli",
-            "Victor Arndt Mueller"
-          ],
-          "Sex": [
-            "Male",
-            "Male",
-            "Male"
-          ],
-          "Coach": "Aurélio Hoppe"
-        }
-      },
-      "University Center of Patos de Minas": {
-        "Code Storm": {
-          "Rank": 28,
-          "SiteRank": 2,
-          "Site": "Brazilian Finals",
-          "Short name": "UNIPAM",
-          "Contestants": [
-            "Jean Lucas Sousa",
-            "André Pinheiro Melo",
-            "Luciano Martins Matos"
-          ],
-          "Sex": [
-            "Male",
-            "Male",
-            "Male"
-          ],
-          "Coach": "Sandro Matias"
-        }
-      }
-    }
-  },
   "Centro-Oeste": {
     "GO": {
       "Instituto de Informática - UFG": {
@@ -108,7 +30,7 @@ CONTESTS[2010]["Nacional"] = {
       "Faculdade de Computação - UFMS": {
         "Piratas da Somália": {
           "Rank": 26,
-          "SiteRank": 1,
+          "SiteRank": 2,
           "Site": "Brazilian Finals",
           "Short name": "FACOM - UFMS",
           "Contestants": [
@@ -131,7 +53,7 @@ CONTESTS[2010]["Nacional"] = {
       "Universidade Estadual do Sudoeste da Bahia": {
         "0123456789": {
           "Rank": 45,
-          "SiteRank": 2,
+          "SiteRank": 11,
           "Site": "Brazilian Finals",
           "Short name": "UESB",
           "Contestants": [
@@ -150,7 +72,7 @@ CONTESTS[2010]["Nacional"] = {
       "Universidade Federal da Bahia": {
         "The Gods of Balloon's War": {
           "Rank": 18,
-          "SiteRank": 1,
+          "SiteRank": 4,
           "Site": "Brazilian Finals",
           "Short name": "Ufba",
           "Contestants": [
@@ -171,7 +93,7 @@ CONTESTS[2010]["Nacional"] = {
       "Universidade Federal do Ceará": {
         "Mazelas.cpp": {
           "Rank": 38,
-          "SiteRank": 1,
+          "SiteRank": 8,
           "Site": "Brazilian Finals",
           "Short name": "UFC",
           "Contestants": [
@@ -192,7 +114,7 @@ CONTESTS[2010]["Nacional"] = {
       "Faculdade de Balsas": {
         "ERMATI": {
           "Rank": 50,
-          "SiteRank": 2,
+          "SiteRank": 12,
           "Site": "Brazilian Finals",
           "Short name": "UNIBALSAS",
           "Contestants": [
@@ -211,7 +133,7 @@ CONTESTS[2010]["Nacional"] = {
       "Universidade Federal do Maranhão": {
         "It´s We, MaRios!": {
           "Rank": 30,
-          "SiteRank": 1,
+          "SiteRank": 6,
           "Site": "Brazilian Finals",
           "Short name": "UFMA",
           "Contestants": [
@@ -232,7 +154,7 @@ CONTESTS[2010]["Nacional"] = {
       "Universidade Federal de Campina Grande": {
         "Kalashnikov": {
           "Rank": 23,
-          "SiteRank": 1,
+          "SiteRank": 5,
           "Site": "Brazilian Finals",
           "Short name": "UFCG",
           "Contestants": [
@@ -289,7 +211,7 @@ CONTESTS[2010]["Nacional"] = {
       "Universidade Federal do Vale do São Francisco": {
         "Faca na Caveira": {
           "Rank": 43,
-          "SiteRank": 3,
+          "SiteRank": 9,
           "Site": "Brazilian Finals",
           "Short name": "UNIVASF",
           "Contestants": [
@@ -310,7 +232,7 @@ CONTESTS[2010]["Nacional"] = {
       "Universidade Federal do Piauí": {
         "Runtime Error": {
           "Rank": 44,
-          "SiteRank": 1,
+          "SiteRank": 10,
           "Site": "Brazilian Finals",
           "Short name": "UFPI",
           "Contestants": [
@@ -331,7 +253,7 @@ CONTESTS[2010]["Nacional"] = {
       "Universidade Federal do Rio Grande do Norte": {
         "Pigmeu Xereta": {
           "Rank": 13,
-          "SiteRank": 1,
+          "SiteRank": 3,
           "Site": "Brazilian Finals",
           "Short name": "UFRN",
           "Contestants": [
@@ -352,7 +274,7 @@ CONTESTS[2010]["Nacional"] = {
       "Universidade Federal de Sergipe": {
         "Lena´s Buddies": {
           "Rank": 33,
-          "SiteRank": 1,
+          "SiteRank": 7,
           "Site": "Brazilian Finals",
           "Short name": "U Federal de Sergipe",
           "Contestants": [
@@ -396,7 +318,7 @@ CONTESTS[2010]["Nacional"] = {
       "UNIR - Universidade Federal de Rondonia": {
         "Patch Cord": {
           "Rank": 35,
-          "SiteRank": 1,
+          "SiteRank": 2,
           "Site": "Brazilian Finals",
           "Short name": "UNIR - Universidade Federal de Rondonia",
           "Contestants": [
@@ -417,7 +339,7 @@ CONTESTS[2010]["Nacional"] = {
       "Universidade Federal do Tocantins": {
         "Hot Code": {
           "Rank": 46,
-          "SiteRank": 1,
+          "SiteRank": 3,
           "Site": "Brazilian Finals",
           "Short name": "UFT",
           "Contestants": [
@@ -440,7 +362,7 @@ CONTESTS[2010]["Nacional"] = {
       "Universidade Federal do Espirito Santo": {
         "Exceptions": {
           "Rank": 14,
-          "SiteRank": 1,
+          "SiteRank": 10,
           "Site": "Brazilian Finals",
           "Short name": "UFES",
           "Contestants": [
@@ -461,7 +383,7 @@ CONTESTS[2010]["Nacional"] = {
       "Centro Federal de Educação Tecnológica de Minas Gerais": {
         "Pen is Drive": {
           "Rank": 37,
-          "SiteRank": 6,
+          "SiteRank": 20,
           "Site": "Brazilian Finals",
           "Short name": "CEFET-MG",
           "Contestants": [
@@ -480,7 +402,7 @@ CONTESTS[2010]["Nacional"] = {
       "Universidade Federal de Itajubá - Campus Itajubá": {
         "Balões ++": {
           "Rank": 29,
-          "SiteRank": 4,
+          "SiteRank": 17,
           "Site": "Brazilian Finals",
           "Short name": "UNIFEI",
           "Contestants": [
@@ -499,7 +421,7 @@ CONTESTS[2010]["Nacional"] = {
       "Universidade Federal de Minas Gerais": {
         "SUDO": {
           "Rank": 4,
-          "SiteRank": 1,
+          "SiteRank": 3,
           "Site": "Brazilian Finals",
           "Short name": "UFMG",
           "Contestants": [
@@ -516,7 +438,7 @@ CONTESTS[2010]["Nacional"] = {
         },
         "\\x -> xx": {
           "Rank": 25,
-          "SiteRank": 3,
+          "SiteRank": 14,
           "Site": "Brazilian Finals",
           "Short name": "UFMG",
           "Contestants": [
@@ -535,7 +457,7 @@ CONTESTS[2010]["Nacional"] = {
       "Universidade Federal de Viçosa": {
         "They tell and They tell": {
           "Rank": 24,
-          "SiteRank": 2,
+          "SiteRank": 13,
           "Site": "Brazilian Finals",
           "Short name": "DPI-UFV",
           "Contestants": [
@@ -552,7 +474,7 @@ CONTESTS[2010]["Nacional"] = {
         },
         "Time do Seu Rodrigo": {
           "Rank": 36,
-          "SiteRank": 5,
+          "SiteRank": 19,
           "Site": "Brazilian Finals",
           "Short name": "DPI-UFV",
           "Contestants": [
@@ -567,13 +489,32 @@ CONTESTS[2010]["Nacional"] = {
           ],
           "Coach": "Marcos Ribeiro"
         }
+      },
+      "University Center of Patos de Minas": {
+        "Code Storm": {
+          "Rank": 28,
+          "SiteRank": 16,
+          "Site": "Brazilian Finals",
+          "Short name": "UNIPAM",
+          "Contestants": [
+            "Jean Lucas Sousa",
+            "André Pinheiro Melo",
+            "Luciano Martins Matos"
+          ],
+          "Sex": [
+            "Male",
+            "Male",
+            "Male"
+          ],
+          "Coach": "Sandro Matias"
+        }
       }
     },
     "RJ": {
       "Pontificia Universidade Catolica do Rio de Janeiro": {
         "MemoizaSamba": {
           "Rank": 22,
-          "SiteRank": 3,
+          "SiteRank": 12,
           "Site": "Brazilian Finals",
           "Short name": "PUC Rio de Janeiro",
           "Contestants": [
@@ -592,7 +533,7 @@ CONTESTS[2010]["Nacional"] = {
       "Universidade Federal do Rio de Janeiro": {
         "DCC UFRJ AUHAUHUAHUHAUAH": {
           "Rank": 9,
-          "SiteRank": 1,
+          "SiteRank": 7,
           "Site": "Brazilian Finals",
           "Short name": "UF Rio de Janeiro",
           "Contestants": [
@@ -609,7 +550,7 @@ CONTESTS[2010]["Nacional"] = {
         },
         "DCC UFRJ IRIARIARI BALOES MANO": {
           "Rank": 10,
-          "SiteRank": 2,
+          "SiteRank": 8,
           "Site": "Brazilian Finals",
           "Short name": "UF Rio de Janeiro",
           "Contestants": [
@@ -627,10 +568,46 @@ CONTESTS[2010]["Nacional"] = {
       }
     },
     "SP": {
+      "Centro Universitário de Lins": {
+        "CLovers": {
+          "Rank": 49,
+          "SiteRank": 25,
+          "Site": "Brazilian Finals",
+          "Short name": "UNILINS",
+          "Contestants": [
+            "Amauri Gabriel De Jesus Júnior",
+            "Everton José De Souza",
+            "Fernando Henrique Hideo Kanada"
+          ],
+          "Sex": [
+            "Male",
+            "Male",
+            "Male"
+          ],
+          "Coach": "Antonio Carlos Lima De Santana"
+        },
+        "SamuraiC": {
+          "Rank": 40,
+          "SiteRank": 22,
+          "Site": "Brazilian Finals",
+          "Short name": "UNILINS",
+          "Contestants": [
+            "Emerson Katsumi Matsumoto",
+            "Maurício Massaaki Yochizumi",
+            "Francismar Mariano De Oliveira"
+          ],
+          "Sex": [
+            "Male",
+            "Male",
+            "Male"
+          ],
+          "Coach": "Antonio Carlos Lima De Santana"
+        }
+      },
       "Faculdade de Tecnologia de Sorocaba": {
         "We Believe": {
           "Rank": 39,
-          "SiteRank": 10,
+          "SiteRank": 21,
           "Site": "Brazilian Finals",
           "Short name": "",
           "Contestants": [
@@ -685,7 +662,7 @@ CONTESTS[2010]["Nacional"] = {
       "Universidade Estadual de Campinas": {
         "Unicamp Alfa": {
           "Rank": 8,
-          "SiteRank": 5,
+          "SiteRank": 6,
           "Site": "Brazilian Finals",
           "Short name": "UNICAMP",
           "Contestants": [
@@ -702,7 +679,7 @@ CONTESTS[2010]["Nacional"] = {
         },
         "Unicamp Delta": {
           "Rank": 42,
-          "SiteRank": 11,
+          "SiteRank": 23,
           "Site": "Brazilian Finals",
           "Short name": "UNICAMP",
           "Contestants": [
@@ -721,7 +698,7 @@ CONTESTS[2010]["Nacional"] = {
       "Universidade Federal de São Carlos": {
         "Ponteiros reversos": {
           "Rank": 27,
-          "SiteRank": 8,
+          "SiteRank": 15,
           "Site": "Brazilian Finals",
           "Short name": "UFSCar",
           "Contestants": [
@@ -740,7 +717,7 @@ CONTESTS[2010]["Nacional"] = {
       "Universidade Federal de São Paulo": {
         "Java Lee": {
           "Rank": 48,
-          "SiteRank": 12,
+          "SiteRank": 24,
           "Site": "Brazilian Finals",
           "Short name": "UNIFESP",
           "Contestants": [
@@ -759,7 +736,7 @@ CONTESTS[2010]["Nacional"] = {
       "Universidade de São Paulo - Campus de São Carlos": {
         "Capitão Ad Hoc": {
           "Rank": 32,
-          "SiteRank": 9,
+          "SiteRank": 18,
           "Site": "Brazilian Finals",
           "Short name": "USP - ICMC",
           "Contestants": [
@@ -776,7 +753,7 @@ CONTESTS[2010]["Nacional"] = {
         },
         "Dona Margarida": {
           "Rank": 15,
-          "SiteRank": 7,
+          "SiteRank": 11,
           "Site": "Brazilian Finals",
           "Short name": "USP - ICMC",
           "Contestants": [
@@ -795,7 +772,7 @@ CONTESTS[2010]["Nacional"] = {
       "Universidade de São Paulo - Escola Politécnica": {
         "RGA": {
           "Rank": 5,
-          "SiteRank": 3,
+          "SiteRank": 4,
           "Site": "Brazilian Finals",
           "Short name": "POLI-USP",
           "Contestants": [
@@ -814,7 +791,7 @@ CONTESTS[2010]["Nacional"] = {
       "University of São Paulo - Institute of Mathematics and Statistics": {
         "Isso é tudo pessoal": {
           "Rank": 6,
-          "SiteRank": 4,
+          "SiteRank": 5,
           "Site": "Brazilian Finals",
           "Short name": "IME-USP",
           "Contestants": [
@@ -831,7 +808,7 @@ CONTESTS[2010]["Nacional"] = {
         },
         "Odium a Odiene": {
           "Rank": 11,
-          "SiteRank": 6,
+          "SiteRank": 9,
           "Site": "Brazilian Finals",
           "Short name": "IME-USP",
           "Contestants": [
@@ -854,7 +831,7 @@ CONTESTS[2010]["Nacional"] = {
       "UNIOESTE - Campus Cascavel": {
         "Not Found": {
           "Rank": 41,
-          "SiteRank": 3,
+          "SiteRank": 7,
           "Site": "Brazilian Finals",
           "Short name": "UNIOESTE",
           "Contestants": [
@@ -892,7 +869,7 @@ CONTESTS[2010]["Nacional"] = {
       "Universidade Tecnológica Federal do Paraná": {
         "sudo make a sandwich": {
           "Rank": 17,
-          "SiteRank": 2,
+          "SiteRank": 3,
           "Site": "Brazilian Finals",
           "Short name": "Universidade Tecnológica Federal do Paraná",
           "Contestants": [
@@ -913,7 +890,7 @@ CONTESTS[2010]["Nacional"] = {
       "Universidade Federal de Santa Maria": {
         "The Children of Turing": {
           "Rank": 34,
-          "SiteRank": 2,
+          "SiteRank": 6,
           "Site": "Brazilian Finals",
           "Short name": "UFSM",
           "Contestants": [
@@ -932,7 +909,7 @@ CONTESTS[2010]["Nacional"] = {
       "Universidade Federal do Rio Grande do Sul": {
         "UFRGS WU Team": {
           "Rank": 16,
-          "SiteRank": 1,
+          "SiteRank": 2,
           "Site": "Brazilian Finals",
           "Short name": "UFRGS",
           "Contestants": [
@@ -951,7 +928,7 @@ CONTESTS[2010]["Nacional"] = {
       "Universidade Regional Integrada - Campus de Erechim": {
         "Fuzzy": {
           "Rank": 47,
-          "SiteRank": 3,
+          "SiteRank": 8,
           "Site": "Brazilian Finals",
           "Short name": "URI - Erechim",
           "Contestants": [
@@ -969,10 +946,29 @@ CONTESTS[2010]["Nacional"] = {
       }
     },
     "SC": {
+      "Universidade Regional de Blumenau": {
+        "Fureuler": {
+          "Rank": 20,
+          "SiteRank": 4,
+          "Site": "Brazilian Finals",
+          "Short name": "FURB",
+          "Contestants": [
+            "André Luís Beling Da Rosa",
+            "Maicon Rafael Zatelli",
+            "Victor Arndt Mueller"
+          ],
+          "Sex": [
+            "Male",
+            "Male",
+            "Male"
+          ],
+          "Coach": "Aurélio Hoppe"
+        }
+      },
       "Universidade do Estado de Santa Catarina": {
         "The Runners": {
           "Rank": 21,
-          "SiteRank": 1,
+          "SiteRank": 5,
           "Site": "Brazilian Finals",
           "Short name": "UDESC",
           "Contestants": [
@@ -1003,21 +999,6 @@ if (AGGREGATED["Mean"]["Rank"][2010] === undefined)
   AGGREGATED["Mean"]["Rank"][2010] = {};
 
 AGGREGATED["Mean"]["Rank"][2010]["Nacional"] = {
-  "Brasil": {
-    "Value": 35.388888888888886,
-    "BR": {
-      "Value": 35.388888888888886,
-      "Centro Universitário de Lins": {
-        "Value": 44.5
-      },
-      "Universidade Regional de Blumenau": {
-        "Value": 20.0
-      },
-      "University Center of Patos de Minas": {
-        "Value": 28.0
-      }
-    }
-  },
   "Centro-Oeste": {
     "Value": 22.5,
     "GO": {
@@ -1115,7 +1096,7 @@ AGGREGATED["Mean"]["Rank"][2010]["Nacional"] = {
     }
   },
   "Sudeste": {
-    "Value": 20.53,
+    "Value": 22.894736842105264,
     "ES": {
       "Value": 14.0,
       "Universidade Federal do Espirito Santo": {
@@ -1123,7 +1104,7 @@ AGGREGATED["Mean"]["Rank"][2010]["Nacional"] = {
       }
     },
     "MG": {
-      "Value": 25.724137931034484,
+      "Value": 26.0,
       "Centro Federal de Educação Tecnológica de Minas Gerais": {
         "Value": 37.0
       },
@@ -1135,6 +1116,9 @@ AGGREGATED["Mean"]["Rank"][2010]["Nacional"] = {
       },
       "Universidade Federal de Viçosa": {
         "Value": 30.0
+      },
+      "University Center of Patos de Minas": {
+        "Value": 28.0
       }
     },
     "RJ": {
@@ -1147,7 +1131,10 @@ AGGREGATED["Mean"]["Rank"][2010]["Nacional"] = {
       }
     },
     "SP": {
-      "Value": 19.87037037037037,
+      "Value": 23.71875,
+      "Centro Universitário de Lins": {
+        "Value": 44.5
+      },
       "Faculdade de Tecnologia de Sorocaba": {
         "Value": 39.0
       },
@@ -1175,7 +1162,7 @@ AGGREGATED["Mean"]["Rank"][2010]["Nacional"] = {
     }
   },
   "Sul": {
-    "Value": 25.1875,
+    "Value": 24.61111111111111,
     "PR": {
       "Value": 20.285714285714285,
       "UNIOESTE - Campus Cascavel": {
@@ -1201,7 +1188,10 @@ AGGREGATED["Mean"]["Rank"][2010]["Nacional"] = {
       }
     },
     "SC": {
-      "Value": 21.0,
+      "Value": 20.5,
+      "Universidade Regional de Blumenau": {
+        "Value": 20.0
+      },
       "Universidade do Estado de Santa Catarina": {
         "Value": 21.0
       }
@@ -1267,21 +1257,6 @@ if (AGGREGATED["Count"]["Teams"][2010] === undefined)
   AGGREGATED["Count"]["Teams"][2010] = {};
 
 AGGREGATED["Count"]["Teams"][2010]["Nacional"] = {
-  "Brasil": {
-    "Value": 4,
-    "BR": {
-      "Value": 4,
-      "Centro Universitário de Lins": {
-        "Value": 2
-      },
-      "Universidade Regional de Blumenau": {
-        "Value": 1
-      },
-      "University Center of Patos de Minas": {
-        "Value": 1
-      }
-    }
-  },
   "Centro-Oeste": {
     "Value": 2,
     "GO": {
@@ -1379,7 +1354,7 @@ AGGREGATED["Count"]["Teams"][2010]["Nacional"] = {
     }
   },
   "Sudeste": {
-    "Value": 22,
+    "Value": 25,
     "ES": {
       "Value": 1,
       "Universidade Federal do Espirito Santo": {
@@ -1387,7 +1362,7 @@ AGGREGATED["Count"]["Teams"][2010]["Nacional"] = {
       }
     },
     "MG": {
-      "Value": 6,
+      "Value": 7,
       "Centro Federal de Educação Tecnológica de Minas Gerais": {
         "Value": 1
       },
@@ -1399,6 +1374,9 @@ AGGREGATED["Count"]["Teams"][2010]["Nacional"] = {
       },
       "Universidade Federal de Viçosa": {
         "Value": 2
+      },
+      "University Center of Patos de Minas": {
+        "Value": 1
       }
     },
     "RJ": {
@@ -1411,7 +1389,10 @@ AGGREGATED["Count"]["Teams"][2010]["Nacional"] = {
       }
     },
     "SP": {
-      "Value": 12,
+      "Value": 14,
+      "Centro Universitário de Lins": {
+        "Value": 2
+      },
       "Faculdade de Tecnologia de Sorocaba": {
         "Value": 1
       },
@@ -1439,7 +1420,7 @@ AGGREGATED["Count"]["Teams"][2010]["Nacional"] = {
     }
   },
   "Sul": {
-    "Value": 7,
+    "Value": 8,
     "PR": {
       "Value": 3,
       "UNIOESTE - Campus Cascavel": {
@@ -1465,7 +1446,10 @@ AGGREGATED["Count"]["Teams"][2010]["Nacional"] = {
       }
     },
     "SC": {
-      "Value": 1,
+      "Value": 2,
+      "Universidade Regional de Blumenau": {
+        "Value": 1
+      },
       "Universidade do Estado de Santa Catarina": {
         "Value": 1
       }

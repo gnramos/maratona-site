@@ -9161,7 +9161,7 @@ CONTESTS[2018]["1aFase"] = {
           "Rank": 674,
           "SiteRank": 34,
           "Site": "Piracicaba",
-          "Short name": "Faculdade de Jaguariúna - FAJ",
+          "Short name": "FAJ",
           "Contestants": [
             "Isabela Santos",
             "Aline Rodrigues",
@@ -9178,7 +9178,7 @@ CONTESTS[2018]["1aFase"] = {
           "Rank": 646,
           "SiteRank": 32,
           "Site": "Piracicaba",
-          "Short name": "Faculdade de Jaguariúna - FAJ",
+          "Short name": "FAJ",
           "Contestants": [
             "Tales Rodrigues",
             "Ana Manzolli",
@@ -9637,42 +9637,6 @@ CONTESTS[2018]["1aFase"] = {
             "Male"
           ],
           "Coach": "Patricia Ribeiro"
-        }
-      },
-      "Institute of Computing - University of Campinas": {
-        "S2 tia do bandeco": {
-          "Rank": 271,
-          "SiteRank": 22,
-          "Site": "Piracicaba",
-          "Short name": "UNICAMP",
-          "Contestants": [
-            "Natan Oliveira",
-            "Francisco Vicente",
-            "Hitalo Alves"
-          ],
-          "Sex": [
-            "Male",
-            "Male",
-            "Male"
-          ],
-          "Coach": "Fábio Luiz Usberti"
-        },
-        "flying-thunder": {
-          "Rank": 372,
-          "SiteRank": 24,
-          "Site": "Piracicaba",
-          "Short name": "UNICAMP",
-          "Contestants": [
-            "Nicolas França",
-            "André Papoti De Oliveira",
-            "Bruno Arnoni Falkenburg"
-          ],
-          "Sex": [
-            "Male",
-            "Male",
-            "Male"
-          ],
-          "Coach": "Fábio Luiz Usberti"
         }
       },
       "Instituto Federal de Educação, Ciência e Tecnologia de São Paulo": {
@@ -10225,6 +10189,23 @@ CONTESTS[2018]["1aFase"] = {
         }
       },
       "Universidade Estadual de Campinas": {
+        "S2 tia do bandeco": {
+          "Rank": 271,
+          "SiteRank": 22,
+          "Site": "Piracicaba",
+          "Short name": "UNICAMP",
+          "Contestants": [
+            "Natan Oliveira",
+            "Francisco Vicente",
+            "Hitalo Alves"
+          ],
+          "Sex": [
+            "Male",
+            "Male",
+            "Male"
+          ],
+          "Coach": "Fábio Luiz Usberti"
+        },
         "Só mais três silvas": {
           "Rank": 268,
           "SiteRank": 21,
@@ -10285,6 +10266,23 @@ CONTESTS[2018]["1aFase"] = {
             "Raphael Santana",
             "Allan Fukasawa",
             "Matheus De Souza Ataide"
+          ],
+          "Sex": [
+            "Male",
+            "Male",
+            "Male"
+          ],
+          "Coach": "Fábio Luiz Usberti"
+        },
+        "flying-thunder": {
+          "Rank": 372,
+          "SiteRank": 24,
+          "Site": "Piracicaba",
+          "Short name": "UNICAMP",
+          "Contestants": [
+            "Nicolas França",
+            "André Papoti De Oliveira",
+            "Bruno Arnoni Falkenburg"
           ],
           "Sex": [
             "Male",
@@ -10810,7 +10808,7 @@ CONTESTS[2018]["1aFase"] = {
           "Rank": 280,
           "SiteRank": 13,
           "Site": "São Paulo",
-          "Short name": "Universidade São Judas Tadeu",
+          "Short name": "USJT",
           "Contestants": [
             "Hugo Masayoshi Yoshimura",
             "Wendel Hime Lino Castro",
@@ -10827,7 +10825,7 @@ CONTESTS[2018]["1aFase"] = {
           "Rank": 691,
           "SiteRank": 35,
           "Site": "São Paulo",
-          "Short name": "Universidade São Judas Tadeu",
+          "Short name": "USJT",
           "Contestants": [
             "Renan Viana",
             "Rafaela Coelho",
@@ -10844,7 +10842,7 @@ CONTESTS[2018]["1aFase"] = {
           "Rank": 691,
           "SiteRank": 35,
           "Site": "São Paulo",
-          "Short name": "Universidade São Judas Tadeu",
+          "Short name": "USJT",
           "Contestants": [
             "Ricardo Felix Monteiro Neto",
             "João Sousa",
@@ -10861,7 +10859,7 @@ CONTESTS[2018]["1aFase"] = {
           "Rank": 675,
           "SiteRank": 34,
           "Site": "São Paulo",
-          "Short name": "Universidade São Judas Tadeu",
+          "Short name": "USJT",
           "Contestants": [
             "Regina Giovannini",
             "Geovana Galvão",
@@ -10878,7 +10876,7 @@ CONTESTS[2018]["1aFase"] = {
           "Rank": 288,
           "SiteRank": 14,
           "Site": "São Paulo",
-          "Short name": "Universidade São Judas Tadeu",
+          "Short name": "USJT",
           "Contestants": [
             "Lucas Domingues",
             "Rafael Barreto",
@@ -13756,9 +13754,6 @@ AGGREGATED["Mean"]["Rank"][2018]["1aFase"] = {
       "Fatec Bauru": {
         "Value": 596.0
       },
-      "Institute of Computing - University of Campinas": {
-        "Value": 321.5
-      },
       "Instituto Federal de Educação, Ciência e Tecnologia de São Paulo": {
         "Value": 659.0
       },
@@ -13793,7 +13788,7 @@ AGGREGATED["Mean"]["Rank"][2018]["1aFase"] = {
         "Value": 371.3333333333333
       },
       "Universidade Estadual de Campinas": {
-        "Value": 91.0
+        "Value": 167.83333333333334
       },
       "Universidade Estadual do Norte do Paraná": {
         "Value": 401.0
@@ -14938,9 +14933,6 @@ AGGREGATED["Count"]["Teams"][2018]["1aFase"] = {
       "Fatec Bauru": {
         "Value": 4
       },
-      "Institute of Computing - University of Campinas": {
-        "Value": 2
-      },
       "Instituto Federal de Educação, Ciência e Tecnologia de São Paulo": {
         "Value": 1
       },
@@ -14975,7 +14967,7 @@ AGGREGATED["Count"]["Teams"][2018]["1aFase"] = {
         "Value": 3
       },
       "Universidade Estadual de Campinas": {
-        "Value": 4
+        "Value": 6
       },
       "Universidade Estadual do Norte do Paraná": {
         "Value": 3

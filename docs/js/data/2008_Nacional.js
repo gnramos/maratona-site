@@ -4,109 +4,12 @@ if (CONTESTS[2008] === undefined)
   CONTESTS[2008] = {};
 
 CONTESTS[2008]["Nacional"] = {
-  "Brasil": {
-    "BR": {
-      "Faculdade Exponencial - FIE": {
-        "ZyonBoys 2008 Nacional": {
-          "Rank": 0,
-          "SiteRank": 0,
-          "Site": "Brazilian Finals",
-          "Short name": "Faculdade Exponencial - FIE",
-          "Contestants": [
-            "Pedro Henrique Corá Vidal",
-            "Danimar Ribeiro",
-            "Alcenir Moretto"
-          ],
-          "Sex": [
-            "Male",
-            "Male",
-            "Male"
-          ],
-          "Coach": "Tiago Zonta"
-        }
-      },
-      "Technical University of FEI": {
-        "FEI-IF": {
-          "Rank": 0,
-          "SiteRank": 0,
-          "Site": "Brazilian Finals",
-          "Short name": "Technical University of FEI",
-          "Contestants": [
-            "Moises Trovo",
-            "Arthur Neves",
-            "Diego Alves"
-          ],
-          "Sex": [
-            "Male",
-            NaN,
-            "Male"
-          ],
-          "Coach": "Paulo Sergio Rodrigues"
-        }
-      },
-      "Universidade Estadual de Ponta Grossa": {
-        "++UEPG": {
-          "Rank": 0,
-          "SiteRank": 0,
-          "Site": "Brazilian Finals",
-          "Short name": "UEPG",
-          "Contestants": [
-            "Alexandre Prusch Züge",
-            "Ricardo Bernert Machado",
-            "Evandro Sviercowski"
-          ],
-          "Sex": [
-            "Male",
-            "Male",
-            "Male"
-          ],
-          "Coach": "Jaime Cohen"
-        }
-      },
-      "Universidade Vale do Rio Doce- Univale": {
-        "Univale 01 - POG": {
-          "Rank": 0,
-          "SiteRank": 0,
-          "Site": "Brazilian Finals",
-          "Short name": "Universidade Vale do Rio Doce- Univale",
-          "Contestants": [
-            "Otácio Carlos Pereira Junior",
-            "Sammuel Do Rosário Salomão",
-            "Diener Maick Piske"
-          ],
-          "Sex": [
-            NaN,
-            NaN,
-            NaN
-          ],
-          "Coach": "Adriana Costa"
-        },
-        "Univale 03 - Sr. Linux": {
-          "Rank": 0,
-          "SiteRank": 0,
-          "Site": "Brazilian Finals",
-          "Short name": "Universidade Vale do Rio Doce- Univale",
-          "Contestants": [
-            "Gabriel Fernandes Bonfim",
-            "Lucas Lorentz Lara",
-            "Laerccius Moraes Santana"
-          ],
-          "Sex": [
-            NaN,
-            "Male",
-            NaN
-          ],
-          "Coach": "Adriana Costa"
-        }
-      }
-    }
-  },
   "Centro-Oeste": {
     "DF": {
       "Universidade de Brasília": {
         "[UnB] WithBitAction": {
-          "Rank": 0,
-          "SiteRank": 0,
+          "Rank": 22,
+          "SiteRank": 1,
           "Site": "Brazilian Finals",
           "Short name": "UnB",
           "Contestants": [
@@ -126,8 +29,8 @@ CONTESTS[2008]["Nacional"] = {
     "GO": {
       "Instituto de Informática - UFG": {
         "UFG Monkeys": {
-          "Rank": 0,
-          "SiteRank": 0,
+          "Rank": 28,
+          "SiteRank": 2,
           "Site": "Brazilian Finals",
           "Short name": "UFG",
           "Contestants": [
@@ -190,7 +93,7 @@ CONTESTS[2008]["Nacional"] = {
       "Universidade Estadual do Ceará": {
         "Posso ajudar?": {
           "Rank": 5,
-          "SiteRank": 1,
+          "SiteRank": 3,
           "Site": "Brazilian Finals",
           "Short name": "UECE",
           "Contestants": [
@@ -208,8 +111,8 @@ CONTESTS[2008]["Nacional"] = {
       },
       "Universidade Federal do Ceará": {
         "AVL Team": {
-          "Rank": 0,
-          "SiteRank": 0,
+          "Rank": 34,
+          "SiteRank": 7,
           "Site": "Brazilian Finals",
           "Short name": "UFC",
           "Contestants": [
@@ -229,8 +132,8 @@ CONTESTS[2008]["Nacional"] = {
     "PB": {
       "Universidade Federal de Campina Grande": {
         "Through the code and flames": {
-          "Rank": 0,
-          "SiteRank": 0,
+          "Rank": 32,
+          "SiteRank": 5,
           "Site": "Brazilian Finals",
           "Short name": "UFCG",
           "Contestants": [
@@ -288,8 +191,8 @@ CONTESTS[2008]["Nacional"] = {
     "PI": {
       "Centro Federal de Educação Tecnológica do Piauí": {
         "Java Boys": {
-          "Rank": 0,
-          "SiteRank": 0,
+          "Rank": 33,
+          "SiteRank": 6,
           "Site": "Brazilian Finals",
           "Short name": "Centro Federal de Educação Tecnológica do Piauí",
           "Contestants": [
@@ -309,8 +212,8 @@ CONTESTS[2008]["Nacional"] = {
     "SE": {
       "Universidade Federal de Sergipe": {
         "Fatal Fury Team": {
-          "Rank": 0,
-          "SiteRank": 0,
+          "Rank": 46,
+          "SiteRank": 8,
           "Site": "Brazilian Finals",
           "Short name": "U Federal de Sergipe",
           "Contestants": [
@@ -326,8 +229,8 @@ CONTESTS[2008]["Nacional"] = {
           "Coach": "Christiano Santos"
         },
         "King of Fighters Team": {
-          "Rank": 0,
-          "SiteRank": 0,
+          "Rank": 30,
+          "SiteRank": 4,
           "Site": "Brazilian Finals",
           "Short name": "U Federal de Sergipe",
           "Contestants": [
@@ -349,8 +252,8 @@ CONTESTS[2008]["Nacional"] = {
     "AM": {
       "Universidade Federal do Amazonas": {
         "Amazonas Info": {
-          "Rank": 0,
-          "SiteRank": 0,
+          "Rank": 35,
+          "SiteRank": 1,
           "Site": "Brazilian Finals",
           "Short name": "UFAM",
           "Contestants": [
@@ -370,8 +273,8 @@ CONTESTS[2008]["Nacional"] = {
     "PA": {
       "Universidade Federal do Pará": {
         "GoGo40": {
-          "Rank": 0,
-          "SiteRank": 0,
+          "Rank": 44,
+          "SiteRank": 2,
           "Site": "Brazilian Finals",
           "Short name": "",
           "Contestants": [
@@ -414,8 +317,8 @@ CONTESTS[2008]["Nacional"] = {
     "MG": {
       "INATEL - Instituto Nacional de Telecomunicações": {
         "BRUTE FORCE": {
-          "Rank": 0,
-          "SiteRank": 0,
+          "Rank": 47,
+          "SiteRank": 26,
           "Site": "Brazilian Finals",
           "Short name": "INATEL",
           "Contestants": [
@@ -433,8 +336,8 @@ CONTESTS[2008]["Nacional"] = {
       },
       "Pontifícia Universidade Católica de Minas Gerais": {
         "THE SOUND OF SILENCE": {
-          "Rank": 0,
-          "SiteRank": 0,
+          "Rank": 42,
+          "SiteRank": 23,
           "Site": "Brazilian Finals",
           "Short name": "PUC-MG",
           "Contestants": [
@@ -452,8 +355,8 @@ CONTESTS[2008]["Nacional"] = {
       },
       "Universidade Federal de Itajubá - Campus Itajubá": {
         "Balões++": {
-          "Rank": 0,
-          "SiteRank": 0,
+          "Rank": 37,
+          "SiteRank": 20,
           "Site": "Brazilian Finals",
           "Short name": "UNIFEI",
           "Contestants": [
@@ -471,8 +374,8 @@ CONTESTS[2008]["Nacional"] = {
       },
       "Universidade Federal de Minas Gerais": {
         "UFMG aniMOUSEs": {
-          "Rank": 0,
-          "SiteRank": 0,
+          "Rank": 19,
+          "SiteRank": 13,
           "Site": "Brazilian Finals",
           "Short name": "UFMG",
           "Contestants": [
@@ -488,8 +391,8 @@ CONTESTS[2008]["Nacional"] = {
           "Coach": "Eduardo Colaço"
         },
         "UFMG roflcopters": {
-          "Rank": 0,
-          "SiteRank": 0,
+          "Rank": 26,
+          "SiteRank": 17,
           "Site": "Brazilian Finals",
           "Short name": "UFMG",
           "Contestants": [
@@ -507,8 +410,8 @@ CONTESTS[2008]["Nacional"] = {
       },
       "Universidade Federal de Uberlândia": {
         "Rispoli1": {
-          "Rank": 0,
-          "SiteRank": 0,
+          "Rank": 27,
+          "SiteRank": 18,
           "Site": "Brazilian Finals",
           "Short name": "UFU",
           "Contestants": [
@@ -523,13 +426,49 @@ CONTESTS[2008]["Nacional"] = {
           ],
           "Coach": "Marcelo Rodrigues"
         }
+      },
+      "Universidade Vale do Rio Doce- Univale": {
+        "Univale 01 - POG": {
+          "Rank": 43,
+          "SiteRank": 24,
+          "Site": "Brazilian Finals",
+          "Short name": "UNIVALE",
+          "Contestants": [
+            "Otácio Carlos Pereira Junior",
+            "Sammuel Do Rosário Salomão",
+            "Diener Maick Piske"
+          ],
+          "Sex": [
+            NaN,
+            NaN,
+            NaN
+          ],
+          "Coach": "Adriana Costa"
+        },
+        "Univale 03 - Sr. Linux": {
+          "Rank": 38,
+          "SiteRank": 21,
+          "Site": "Brazilian Finals",
+          "Short name": "UNIVALE",
+          "Contestants": [
+            "Gabriel Fernandes Bonfim",
+            "Lucas Lorentz Lara",
+            "Laerccius Moraes Santana"
+          ],
+          "Sex": [
+            NaN,
+            "Male",
+            NaN
+          ],
+          "Coach": "Adriana Costa"
+        }
       }
     },
     "RJ": {
       "Instituto Militar de Engenharia": {
         "CompMel": {
-          "Rank": 0,
-          "SiteRank": 0,
+          "Rank": 17,
+          "SiteRank": 11,
           "Site": "Brazilian Finals",
           "Short name": "IME",
           "Contestants": [
@@ -547,8 +486,8 @@ CONTESTS[2008]["Nacional"] = {
       },
       "Pontificia Universidade Catolica do Rio de Janeiro": {
         "All Your Balloons Are Belong To Us": {
-          "Rank": 0,
-          "SiteRank": 0,
+          "Rank": 14,
+          "SiteRank": 8,
           "Site": "Brazilian Finals",
           "Short name": "PUC Rio de Janeiro",
           "Contestants": [
@@ -566,8 +505,8 @@ CONTESTS[2008]["Nacional"] = {
       },
       "Universidade Federal do Rio de Janeiro": {
         "DCC-UFRJ Deixa eu Sonhar": {
-          "Rank": 0,
-          "SiteRank": 0,
+          "Rank": 11,
+          "SiteRank": 6,
           "Site": "Brazilian Finals",
           "Short name": "UF Rio de Janeiro",
           "Contestants": [
@@ -583,8 +522,8 @@ CONTESTS[2008]["Nacional"] = {
           "Coach": "Vinicius Santos"
         },
         "DCC-UFRJ Not a Name": {
-          "Rank": 0,
-          "SiteRank": 0,
+          "Rank": 21,
+          "SiteRank": 14,
           "Site": "Brazilian Finals",
           "Short name": "UF Rio de Janeiro",
           "Contestants": [
@@ -602,8 +541,8 @@ CONTESTS[2008]["Nacional"] = {
       },
       "Universidade do Estado do Rio de Janeiro": {
         "Boa noite, e bom sort();": {
-          "Rank": 0,
-          "SiteRank": 0,
+          "Rank": 23,
+          "SiteRank": 15,
           "Site": "Brazilian Finals",
           "Short name": "UERJ",
           "Contestants": [
@@ -621,6 +560,25 @@ CONTESTS[2008]["Nacional"] = {
       }
     },
     "SP": {
+      "Centro Universitário da FEI": {
+        "FEI-IF": {
+          "Rank": 29,
+          "SiteRank": 19,
+          "Site": "Brazilian Finals",
+          "Short name": "FEI",
+          "Contestants": [
+            "Moises Trovo",
+            "Arthur Neves",
+            "Diego Alves"
+          ],
+          "Sex": [
+            "Male",
+            NaN,
+            "Male"
+          ],
+          "Coach": "Paulo Sergio Rodrigues"
+        }
+      },
       "Instituto Tecnológico de Aeronautica": {
         "ITA - Carteado": {
           "Rank": 0,
@@ -640,8 +598,8 @@ CONTESTS[2008]["Nacional"] = {
           "Coach": "Armando Gouveia"
         },
         "ITA - Zoo": {
-          "Rank": 0,
-          "SiteRank": 0,
+          "Rank": 16,
+          "SiteRank": 10,
           "Site": "Brazilian Finals",
           "Short name": "ITA",
           "Contestants": [
@@ -659,8 +617,8 @@ CONTESTS[2008]["Nacional"] = {
       },
       "Pró-Reitoria de Graduação da Universidade de São Paulo": {
         "Saulo Piroquinha": {
-          "Rank": 0,
-          "SiteRank": 0,
+          "Rank": 18,
+          "SiteRank": 12,
           "Site": "Brazilian Finals",
           "Short name": "Pró-Reitoria de Graduação da Universidade de São Paulo",
           "Contestants": [
@@ -678,8 +636,8 @@ CONTESTS[2008]["Nacional"] = {
       },
       "UNESP - Universidade Estadual Paulista (IBILCE)": {
         "Abaçaiados": {
-          "Rank": 0,
-          "SiteRank": 0,
+          "Rank": 25,
+          "SiteRank": 16,
           "Site": "Brazilian Finals",
           "Short name": "IBILCE-UNESP",
           "Contestants": [
@@ -698,7 +656,7 @@ CONTESTS[2008]["Nacional"] = {
       "Universidade Estadual de Campinas": {
         "Unicamp Merputação": {
           "Rank": 10,
-          "SiteRank": 4,
+          "SiteRank": 5,
           "Site": "Brazilian Finals",
           "Short name": "UNICAMP",
           "Contestants": [
@@ -715,7 +673,7 @@ CONTESTS[2008]["Nacional"] = {
         },
         "Unicamp Tampureção": {
           "Rank": 8,
-          "SiteRank": 2,
+          "SiteRank": 3,
           "Site": "Brazilian Finals",
           "Short name": "UNICAMP",
           "Contestants": [
@@ -733,8 +691,8 @@ CONTESTS[2008]["Nacional"] = {
       },
       "Universidade Salesianas de São Paulo": {
         "Bug's Life": {
-          "Rank": 0,
-          "SiteRank": 0,
+          "Rank": 45,
+          "SiteRank": 25,
           "Site": "Brazilian Finals",
           "Short name": "UNISAL",
           "Contestants": [
@@ -752,8 +710,8 @@ CONTESTS[2008]["Nacional"] = {
       },
       "Universidade de São Paulo - Campus de São Carlos": {
         "ICMC - SegFaults'R'us": {
-          "Rank": 0,
-          "SiteRank": 0,
+          "Rank": 15,
+          "SiteRank": 9,
           "Site": "Brazilian Finals",
           "Short name": "USP - ICMC",
           "Contestants": [
@@ -772,7 +730,7 @@ CONTESTS[2008]["Nacional"] = {
       "Universidade de São Paulo - Escola Politécnica": {
         "Guerreiros da Poli": {
           "Rank": 7,
-          "SiteRank": 1,
+          "SiteRank": 2,
           "Site": "Brazilian Finals",
           "Short name": "POLI-USP",
           "Contestants": [
@@ -791,7 +749,7 @@ CONTESTS[2008]["Nacional"] = {
       "University of São Paulo - Institute of Mathematics and Statistics": {
         "[IME-USP] EOL - End of List": {
           "Rank": 9,
-          "SiteRank": 3,
+          "SiteRank": 4,
           "Site": "Brazilian Finals",
           "Short name": "IME-USP",
           "Contestants": [
@@ -807,8 +765,8 @@ CONTESTS[2008]["Nacional"] = {
           "Coach": "Wanderley Guimarães Da Silva"
         },
         "[IME-USP] TopCoders": {
-          "Rank": 0,
-          "SiteRank": 0,
+          "Rank": 13,
+          "SiteRank": 7,
           "Site": "Brazilian Finals",
           "Short name": "IME-USP",
           "Contestants": [
@@ -830,8 +788,8 @@ CONTESTS[2008]["Nacional"] = {
     "PR": {
       "UNIOESTE - Campus Cascavel": {
         "Not Found": {
-          "Rank": 0,
-          "SiteRank": 0,
+          "Rank": 31,
+          "SiteRank": 6,
           "Site": "Brazilian Finals",
           "Short name": "UNIOESTE",
           "Contestants": [
@@ -845,6 +803,25 @@ CONTESTS[2008]["Nacional"] = {
             "Male"
           ],
           "Coach": "Guilherme Galante"
+        }
+      },
+      "Universidade Estadual de Ponta Grossa": {
+        "++UEPG": {
+          "Rank": 20,
+          "SiteRank": 4,
+          "Site": "Brazilian Finals",
+          "Short name": "UEPG",
+          "Contestants": [
+            "Alexandre Prusch Züge",
+            "Ricardo Bernert Machado",
+            "Evandro Sviercowski"
+          ],
+          "Sex": [
+            "Male",
+            "Male",
+            "Male"
+          ],
+          "Coach": "Jaime Cohen"
         }
       },
       "Universidade Federal do Paraná": {
@@ -870,8 +847,8 @@ CONTESTS[2008]["Nacional"] = {
     "RS": {
       "Fundação Universidade Federal do Rio Grande": {
         "Omega": {
-          "Rank": 0,
-          "SiteRank": 0,
+          "Rank": 24,
+          "SiteRank": 5,
           "Site": "Brazilian Finals",
           "Short name": "FURG",
           "Contestants": [
@@ -889,8 +866,8 @@ CONTESTS[2008]["Nacional"] = {
       },
       "Universidade Federal do Rio Grande do Sul": {
         "UFRGS Veni Vidi Duci": {
-          "Rank": 0,
-          "SiteRank": 0,
+          "Rank": 12,
+          "SiteRank": 3,
           "Site": "Brazilian Finals",
           "Short name": "UFRGS",
           "Contestants": [
@@ -908,10 +885,29 @@ CONTESTS[2008]["Nacional"] = {
       }
     },
     "SC": {
+      "Faculdade Exponencial - FIE": {
+        "ZyonBoys 2008 Nacional": {
+          "Rank": 40,
+          "SiteRank": 9,
+          "Site": "Brazilian Finals",
+          "Short name": "FIE",
+          "Contestants": [
+            "Pedro Henrique Corá Vidal",
+            "Danimar Ribeiro",
+            "Alcenir Moretto"
+          ],
+          "Sex": [
+            "Male",
+            "Male",
+            "Male"
+          ],
+          "Coach": "Tiago Zonta"
+        }
+      },
       "Universidade Federal de Santa Catarina": {
         "Time Limit Exceeded": {
           "Rank": 6,
-          "SiteRank": 1,
+          "SiteRank": 2,
           "Site": "Brazilian Finals",
           "Short name": "UF Santa Catarina",
           "Contestants": [
@@ -929,8 +925,8 @@ CONTESTS[2008]["Nacional"] = {
       },
       "Universidade do Estado de Santa Catarina": {
         "ReLaX": {
-          "Rank": 0,
-          "SiteRank": 0,
+          "Rank": 36,
+          "SiteRank": 7,
           "Site": "Brazilian Finals",
           "Short name": "UDESC",
           "Contestants": [
@@ -946,8 +942,8 @@ CONTESTS[2008]["Nacional"] = {
           "Coach": "Claudio Cesar De Sá"
         },
         "TAE": {
-          "Rank": 0,
-          "SiteRank": 0,
+          "Rank": 39,
+          "SiteRank": 8,
           "Site": "Brazilian Finals",
           "Short name": "UDESC",
           "Contestants": [
@@ -978,12 +974,36 @@ if (AGGREGATED["Mean"]["Rank"][2008] === undefined)
   AGGREGATED["Mean"]["Rank"][2008] = {};
 
 AGGREGATED["Mean"]["Rank"][2008]["Nacional"] = {
+  "Centro-Oeste": {
+    "Value": 24.666666666666668,
+    "DF": {
+      "Value": 22.0,
+      "Universidade de Brasília": {
+        "Value": 22.0
+      }
+    },
+    "GO": {
+      "Value": 28.0,
+      "Instituto de Informática - UFG": {
+        "Value": 28.0
+      }
+    }
+  },
   "Nordeste": {
-    "Value": 2.857142857142857,
+    "Value": 22.75,
     "CE": {
-      "Value": 5.0,
+      "Value": 19.5,
       "Universidade Estadual do Ceará": {
         "Value": 5.0
+      },
+      "Universidade Federal do Ceará": {
+        "Value": 34.0
+      }
+    },
+    "PB": {
+      "Value": 32.0,
+      "Universidade Federal de Campina Grande": {
+        "Value": 32.0
       }
     },
     "PE": {
@@ -991,41 +1011,146 @@ AGGREGATED["Mean"]["Rank"][2008]["Nacional"] = {
       "Universidade Federal de Pernambuco": {
         "Value": 2.0
       }
+    },
+    "PI": {
+      "Value": 33.0,
+      "Centro Federal de Educação Tecnológica do Piauí": {
+        "Value": 33.0
+      }
+    },
+    "SE": {
+      "Value": 38.888888888888886,
+      "Universidade Federal de Sergipe": {
+        "Value": 38.888888888888886
+      }
+    }
+  },
+  "Norte": {
+    "Value": 40.0,
+    "AM": {
+      "Value": 35.0,
+      "Universidade Federal do Amazonas": {
+        "Value": 35.0
+      }
+    },
+    "PA": {
+      "Value": 44.0,
+      "Universidade Federal do Pará": {
+        "Value": 44.0
+      }
     }
   },
   "Sudeste": {
-    "Value": 7.7272727272727275,
+    "Value": 23.785123966942148,
     "ES": {
       "Value": 4.0,
       "Universidade Federal do Espirito Santo": {
         "Value": 4.0
       }
     },
+    "MG": {
+      "Value": 35.13157894736842,
+      "INATEL - Instituto Nacional de Telecomunicações": {
+        "Value": 47.0
+      },
+      "Pontifícia Universidade Católica de Minas Gerais": {
+        "Value": 42.0
+      },
+      "Universidade Federal de Itajubá - Campus Itajubá": {
+        "Value": 37.0
+      },
+      "Universidade Federal de Minas Gerais": {
+        "Value": 22.5
+      },
+      "Universidade Federal de Uberlândia": {
+        "Value": 27.0
+      },
+      "Universidade Vale do Rio Doce- Univale": {
+        "Value": 40.22222222222222
+      }
+    },
+    "RJ": {
+      "Value": 21.413793103448278,
+      "Centro Universitário Serra dos Órgãos - UNIFESO": {
+        "Value": 41.0
+      },
+      "Instituto Militar de Engenharia": {
+        "Value": 17.0
+      },
+      "Pontificia Universidade Catolica do Rio de Janeiro": {
+        "Value": 14.0
+      },
+      "Universidade Federal do Rio de Janeiro": {
+        "Value": 16.0
+      },
+      "Universidade do Estado do Rio de Janeiro": {
+        "Value": 23.0
+      }
+    },
     "SP": {
-      "Value": 8.555555555555555,
+      "Value": 18.12,
+      "Centro Universitário da FEI": {
+        "Value": 29.0
+      },
+      "Instituto Tecnológico de Aeronautica": {
+        "Value": 16.0
+      },
+      "Pró-Reitoria de Graduação da Universidade de São Paulo": {
+        "Value": 18.0
+      },
+      "UNESP - Universidade Estadual Paulista (IBILCE)": {
+        "Value": 25.0
+      },
       "Universidade Estadual de Campinas": {
         "Value": 9.0
+      },
+      "Universidade Salesianas de São Paulo": {
+        "Value": 45.0
+      },
+      "Universidade de São Paulo - Campus de São Carlos": {
+        "Value": 15.0
       },
       "Universidade de São Paulo - Escola Politécnica": {
         "Value": 7.0
       },
       "University of São Paulo - Institute of Mathematics and Statistics": {
-        "Value": 9.0
+        "Value": 11.0
       }
     }
   },
   "Sul": {
-    "Value": 4.222222222222222,
+    "Value": 24.0,
     "PR": {
-      "Value": 2.0,
+      "Value": 17.846153846153847,
+      "UNIOESTE - Campus Cascavel": {
+        "Value": 31.0
+      },
+      "Universidade Estadual de Ponta Grossa": {
+        "Value": 20.0
+      },
       "Universidade Federal do Paraná": {
         "Value": 2.0
       }
     },
+    "RS": {
+      "Value": 18.0,
+      "Fundação Universidade Federal do Rio Grande": {
+        "Value": 24.0
+      },
+      "Universidade Federal do Rio Grande do Sul": {
+        "Value": 12.0
+      }
+    },
     "SC": {
-      "Value": 6.0,
+      "Value": 30.666666666666668,
+      "Faculdade Exponencial - FIE": {
+        "Value": 40.0
+      },
       "Universidade Federal de Santa Catarina": {
         "Value": 6.0
+      },
+      "Universidade do Estado de Santa Catarina": {
+        "Value": 37.63636363636363
       }
     }
   }
@@ -1092,24 +1217,6 @@ if (AGGREGATED["Count"]["Teams"][2008] === undefined)
   AGGREGATED["Count"]["Teams"][2008] = {};
 
 AGGREGATED["Count"]["Teams"][2008]["Nacional"] = {
-  "Brasil": {
-    "Value": 5,
-    "BR": {
-      "Value": 5,
-      "Faculdade Exponencial - FIE": {
-        "Value": 1
-      },
-      "Technical University of FEI": {
-        "Value": 1
-      },
-      "Universidade Estadual de Ponta Grossa": {
-        "Value": 1
-      },
-      "Universidade Vale do Rio Doce- Univale": {
-        "Value": 2
-      }
-    }
-  },
   "Centro-Oeste": {
     "Value": 4,
     "DF": {
@@ -1192,7 +1299,7 @@ AGGREGATED["Count"]["Teams"][2008]["Nacional"] = {
     }
   },
   "Sudeste": {
-    "Value": 23,
+    "Value": 26,
     "ES": {
       "Value": 0,
       "Universidade Federal do Espirito Santo": {
@@ -1200,7 +1307,7 @@ AGGREGATED["Count"]["Teams"][2008]["Nacional"] = {
       }
     },
     "MG": {
-      "Value": 6,
+      "Value": 8,
       "INATEL - Instituto Nacional de Telecomunicações": {
         "Value": 1
       },
@@ -1215,6 +1322,9 @@ AGGREGATED["Count"]["Teams"][2008]["Nacional"] = {
       },
       "Universidade Federal de Uberlândia": {
         "Value": 1
+      },
+      "Universidade Vale do Rio Doce- Univale": {
+        "Value": 2
       }
     },
     "RJ": {
@@ -1236,7 +1346,10 @@ AGGREGATED["Count"]["Teams"][2008]["Nacional"] = {
       }
     },
     "SP": {
-      "Value": 11,
+      "Value": 12,
+      "Centro Universitário da FEI": {
+        "Value": 1
+      },
       "Instituto Tecnológico de Aeronautica": {
         "Value": 2
       },
@@ -1264,10 +1377,13 @@ AGGREGATED["Count"]["Teams"][2008]["Nacional"] = {
     }
   },
   "Sul": {
-    "Value": 7,
+    "Value": 9,
     "PR": {
-      "Value": 2,
+      "Value": 3,
       "UNIOESTE - Campus Cascavel": {
+        "Value": 1
+      },
+      "Universidade Estadual de Ponta Grossa": {
         "Value": 1
       },
       "Universidade Federal do Paraná": {
@@ -1284,7 +1400,10 @@ AGGREGATED["Count"]["Teams"][2008]["Nacional"] = {
       }
     },
     "SC": {
-      "Value": 3,
+      "Value": 4,
+      "Faculdade Exponencial - FIE": {
+        "Value": 1
+      },
       "Universidade Federal de Santa Catarina": {
         "Value": 1
       },
