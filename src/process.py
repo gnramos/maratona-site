@@ -1,4 +1,5 @@
 import argparse
+import re
 from maratona import event, report, participation
 
 
@@ -18,8 +19,11 @@ parser.add_argument('-o', '--overwrite', action='store_true',
 args = parser.parse_args()
 
 
+pattern = re.compile(r'.*\d{4}_(1aFase|Nacional)\.csv')
+files = [f for f in args.files if pattern.match(f)]
+
 df_part = None
-for file in sorted(args.files, reverse=True):
+for file in sorted(files, reverse=True):
     # Ordem inversa pois assume-se que dados mais recentes sejam mais
     # completos/acurados.
     year, phase, df = report.process(file, args.guess_uf, not args.quiet)
