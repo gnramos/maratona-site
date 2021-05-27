@@ -7805,25 +7805,6 @@ CONTESTS[2016]["1aFase"] = {
           "Coach": "Rafael Gomes Monteiro"
         }
       },
-      "Federal Fluminense University": {
-        "0xDEADPICANHA": {
-          "Rank": 229,
-          "SiteRank": 16,
-          "Site": "Rio de Janeiro",
-          "Short name": "Federal Fluminense U",
-          "Contestants": [
-            "Rodrigo Junger",
-            "Daniel Ye",
-            "Lucas Santos"
-          ],
-          "Sex": [
-            "Male",
-            "Male",
-            "Male"
-          ],
-          "Coach": "Marcos Lage"
-        }
-      },
       "Instituto Militar de Engenharia": {
         "99% Wrong Answer": {
           "Rank": 65,
@@ -8035,6 +8016,23 @@ CONTESTS[2016]["1aFase"] = {
         }
       },
       "Universidade Federal Fluminense": {
+        "0xDEADPICANHA": {
+          "Rank": 229,
+          "SiteRank": 16,
+          "Site": "Rio de Janeiro",
+          "Short name": "Federal Fluminense U",
+          "Contestants": [
+            "Rodrigo Junger",
+            "Daniel Ye",
+            "Lucas Santos"
+          ],
+          "Sex": [
+            "Male",
+            "Male",
+            "Male"
+          ],
+          "Coach": "Marcos Lage"
+        },
         "11 men and 1 code": {
           "Rank": 246,
           "SiteRank": 18,
@@ -14205,9 +14203,6 @@ AGGREGATED["Mean"]["Rank"][2016]["1aFase"] = {
       "Centro Universitário Serra dos Órgãos - UNIFESO": {
         "Value": 287.0
       },
-      "Federal Fluminense University": {
-        "Value": 229.0
-      },
       "Instituto Militar de Engenharia": {
         "Value": 50.5
       },
@@ -14218,7 +14213,7 @@ AGGREGATED["Mean"]["Rank"][2016]["1aFase"] = {
         "Value": 152.0
       },
       "Universidade Federal Fluminense": {
-        "Value": 267.77777777777777
+        "Value": 255.84615384615384
       },
       "Universidade Federal Fluminense - Polo Universitário de Rio das Ostras": {
         "Value": 481.0
@@ -15420,9 +15415,6 @@ AGGREGATED["Count"]["Teams"][2016]["1aFase"] = {
       "Centro Universitário Serra dos Órgãos - UNIFESO": {
         "Value": 3
       },
-      "Federal Fluminense University": {
-        "Value": 1
-      },
       "Instituto Militar de Engenharia": {
         "Value": 4
       },
@@ -15433,7 +15425,7 @@ AGGREGATED["Count"]["Teams"][2016]["1aFase"] = {
         "Value": 1
       },
       "Universidade Federal Fluminense": {
-        "Value": 2
+        "Value": 3
       },
       "Universidade Federal Fluminense - Polo Universitário de Rio das Ostras": {
         "Value": 4

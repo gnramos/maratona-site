@@ -9043,25 +9043,6 @@ CONTESTS[2017]["1aFase"] = {
           "Coach": "Rafael Gomes Monteiro"
         }
       },
-      "Federal Fluminense University": {
-        "0xDEADPICANHA": {
-          "Rank": 238,
-          "SiteRank": 24,
-          "Site": "Rio de Janeiro",
-          "Short name": "Federal Fluminense U",
-          "Contestants": [
-            "Lucas Santos",
-            "Rodrigo Junger",
-            "Daniel Ye"
-          ],
-          "Sex": [
-            "Male",
-            "Male",
-            "Male"
-          ],
-          "Coach": "Marcos Lage"
-        }
-      },
       "Fundação Getúlio Vargas": {
         "FGV_Solvers": {
           "Rank": 233,
@@ -9308,6 +9289,23 @@ CONTESTS[2017]["1aFase"] = {
             "Male"
           ],
           "Coach": "Isabel Rosseti"
+        },
+        "0xDEADPICANHA": {
+          "Rank": 238,
+          "SiteRank": 24,
+          "Site": "Rio de Janeiro",
+          "Short name": "Federal Fluminense U",
+          "Contestants": [
+            "Lucas Santos",
+            "Rodrigo Junger",
+            "Daniel Ye"
+          ],
+          "Sex": [
+            "Male",
+            "Male",
+            "Male"
+          ],
+          "Coach": "Marcos Lage"
         },
         "Balão Vermelho": {
           "Rank": 167,
@@ -14865,9 +14863,6 @@ AGGREGATED["Mean"]["Rank"][2017]["1aFase"] = {
       "Centro Universitário Serra dos Órgãos - UNIFESO": {
         "Value": 348.5
       },
-      "Federal Fluminense University": {
-        "Value": 238.0
-      },
       "Fundação Getúlio Vargas": {
         "Value": 233.0
       },
@@ -14881,7 +14876,7 @@ AGGREGATED["Mean"]["Rank"][2017]["1aFase"] = {
         "Value": 276.6666666666667
       },
       "Universidade Federal Fluminense": {
-        "Value": 128.0
+        "Value": 164.66666666666666
       },
       "Universidade Federal Fluminense - Polo Universitário de Rio das Ostras": {
         "Value": 216.0
@@ -16143,9 +16138,6 @@ AGGREGATED["Count"]["Teams"][2017]["1aFase"] = {
       "Centro Universitário Serra dos Órgãos - UNIFESO": {
         "Value": 4
       },
-      "Federal Fluminense University": {
-        "Value": 1
-      },
       "Fundação Getúlio Vargas": {
         "Value": 1
       },
@@ -16159,7 +16151,7 @@ AGGREGATED["Count"]["Teams"][2017]["1aFase"] = {
         "Value": 3
       },
       "Universidade Federal Fluminense": {
-        "Value": 2
+        "Value": 3
       },
       "Universidade Federal Fluminense - Polo Universitário de Rio das Ostras": {
         "Value": 3

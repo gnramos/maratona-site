@@ -8249,25 +8249,6 @@ CONTESTS[2018]["1aFase"] = {
           "Coach": "Rafael Gomes Monteiro"
         }
       },
-      "Federal Fluminense University": {
-        "Time #3": {
-          "Rank": 90,
-          "SiteRank": 10,
-          "Site": "Rio de Janeiro",
-          "Short name": "Federal Fluminense U",
-          "Contestants": [
-            "Matheus Belo",
-            "Pedro Moreira",
-            "Vitor Pinheiro"
-          ],
-          "Sex": [
-            "Male",
-            "Male",
-            "Male"
-          ],
-          "Coach": "Marcos Lage"
-        }
-      },
       "Instituto Militar de Engenharia": {
         "1819": {
           "Rank": 55,
@@ -8425,6 +8406,23 @@ CONTESTS[2018]["1aFase"] = {
             "Male"
           ],
           "Coach": "Isabel Rosseti"
+        },
+        "Time #3": {
+          "Rank": 90,
+          "SiteRank": 10,
+          "Site": "Rio de Janeiro",
+          "Short name": "Federal Fluminense U",
+          "Contestants": [
+            "Matheus Belo",
+            "Pedro Moreira",
+            "Vitor Pinheiro"
+          ],
+          "Sex": [
+            "Male",
+            "Male",
+            "Male"
+          ],
+          "Coach": "Marcos Lage"
         },
         "return to_sleep;": {
           "Rank": 184,
@@ -13658,9 +13656,6 @@ AGGREGATED["Mean"]["Rank"][2018]["1aFase"] = {
       "Centro Universitário Serra dos Órgãos - UNIFESO": {
         "Value": 343.5
       },
-      "Federal Fluminense University": {
-        "Value": 90.0
-      },
       "Instituto Militar de Engenharia": {
         "Value": 43.25
       },
@@ -13668,7 +13663,7 @@ AGGREGATED["Mean"]["Rank"][2018]["1aFase"] = {
         "Value": 261.5
       },
       "Universidade Federal Fluminense": {
-        "Value": 121.22222222222223
+        "Value": 111.61538461538461
       },
       "Universidade Federal Fluminense - Polo Universitário de Rio das Ostras": {
         "Value": 251.0
@@ -14837,9 +14832,6 @@ AGGREGATED["Count"]["Teams"][2018]["1aFase"] = {
       "Centro Universitário Serra dos Órgãos - UNIFESO": {
         "Value": 4
       },
-      "Federal Fluminense University": {
-        "Value": 1
-      },
       "Instituto Militar de Engenharia": {
         "Value": 4
       },
@@ -14847,7 +14839,7 @@ AGGREGATED["Count"]["Teams"][2018]["1aFase"] = {
         "Value": 4
       },
       "Universidade Federal Fluminense": {
-        "Value": 2
+        "Value": 3
       },
       "Universidade Federal Fluminense - Polo Universitário de Rio das Ostras": {
         "Value": 2

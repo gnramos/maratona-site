@@ -4031,15 +4031,15 @@ INSTITUTIONS = {
       },
       "1aFase": {
         "2016": {
-          "Team": 2,
-          "BestRank": 246
+          "Team": 3,
+          "BestRank": 229
         },
         "2017": {
-          "Team": 2,
+          "Team": 3,
           "BestRank": 89
         },
         "2018": {
-          "Team": 2,
+          "Team": 3,
           "BestRank": 71
         },
         "2019": {
@@ -4123,22 +4123,6 @@ INSTITUTIONS = {
         "2017": {
           "Team": 1,
           "BestRank": 25
-        }
-      }
-    },
-    "Federal Fluminense University": {
-      "1aFase": {
-        "2016": {
-          "Team": 1,
-          "BestRank": 229
-        },
-        "2017": {
-          "Team": 1,
-          "BestRank": 238
-        },
-        "2018": {
-          "Team": 1,
-          "BestRank": 90
         }
       }
     },
