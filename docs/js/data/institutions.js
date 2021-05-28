@@ -36,6 +36,14 @@ INSTITUTIONS = {
         }
       },
       "1aFase": {
+        "2014": {
+          "Team": 6,
+          "BestRank": 75
+        },
+        "2015": {
+          "Team": 4,
+          "BestRank": 76
+        },
         "2016": {
           "Team": 5,
           "BestRank": 34
@@ -58,32 +66,12 @@ INSTITUTIONS = {
         }
       }
     },
-    "Centro Universitário IESB": {
-      "1aFase": {
-        "2016": {
-          "Team": 4,
-          "BestRank": 260
-        },
-        "2017": {
-          "Team": 4,
-          "BestRank": 118
-        },
-        "2018": {
-          "Team": 5,
-          "BestRank": 129
-        },
-        "2019": {
-          "Team": 3,
-          "BestRank": 371
-        },
-        "2020": {
-          "Team": 2,
-          "BestRank": 231
-        }
-      }
-    },
     "Universidade de Brasília - Faculdade UnB Gama": {
       "1aFase": {
+        "2015": {
+          "Team": 7,
+          "BestRank": 169
+        },
         "2016": {
           "Team": 5,
           "BestRank": 32
@@ -121,6 +109,30 @@ INSTITUTIONS = {
         "2019": {
           "Team": 1,
           "BestRank": 23
+        }
+      }
+    },
+    "Centro Universitário IESB": {
+      "1aFase": {
+        "2016": {
+          "Team": 4,
+          "BestRank": 260
+        },
+        "2017": {
+          "Team": 4,
+          "BestRank": 118
+        },
+        "2018": {
+          "Team": 5,
+          "BestRank": 129
+        },
+        "2019": {
+          "Team": 3,
+          "BestRank": 371
+        },
+        "2020": {
+          "Team": 2,
+          "BestRank": 231
         }
       }
     },
@@ -214,6 +226,14 @@ INSTITUTIONS = {
         }
       },
       "1aFase": {
+        "2014": {
+          "Team": 6,
+          "BestRank": 12
+        },
+        "2015": {
+          "Team": 5,
+          "BestRank": 36
+        },
         "2016": {
           "Team": 5,
           "BestRank": 35
@@ -236,8 +256,72 @@ INSTITUTIONS = {
         }
       }
     },
+    "Instituto Federal Goiano – Campus Morrinhos": {
+      "1aFase": {
+        "2014": {
+          "Team": 1,
+          "BestRank": 282
+        }
+      }
+    },
+    "Universidade Estadual de Goiás": {
+      "1aFase": {
+        "2014": {
+          "Team": 3,
+          "BestRank": 459
+        },
+        "2015": {
+          "Team": 5,
+          "BestRank": 387
+        }
+      }
+    },
+    "Universidade Federal de Goiás - Câmpus Jataí": {
+      "1aFase": {
+        "2014": {
+          "Team": 1,
+          "BestRank": 204
+        },
+        "2015": {
+          "Team": 1,
+          "BestRank": 284
+        },
+        "2016": {
+          "Team": 2,
+          "BestRank": 459
+        },
+        "2020": {
+          "Team": 1,
+          "BestRank": 599
+        }
+      }
+    },
+    "Universidade de Rio Verde": {
+      "1aFase": {
+        "2014": {
+          "Team": 2,
+          "BestRank": 530
+        },
+        "2015": {
+          "Team": 2,
+          "BestRank": 370
+        },
+        "2016": {
+          "Team": 2,
+          "BestRank": 684
+        },
+        "2020": {
+          "Team": 1,
+          "BestRank": 459
+        }
+      }
+    },
     "Faculdade de Tecnologia Senac Goiás": {
       "1aFase": {
+        "2015": {
+          "Team": 1,
+          "BestRank": 355
+        },
         "2016": {
           "Team": 1,
           "BestRank": 437
@@ -249,6 +333,48 @@ INSTITUTIONS = {
         "2018": {
           "Team": 1,
           "BestRank": 675
+        }
+      }
+    },
+    "Instituto Federal de Educação, Ciência e Tecnologia Goiano - Câmpus Iporá": {
+      "1aFase": {
+        "2015": {
+          "Team": 2,
+          "BestRank": 577
+        },
+        "2016": {
+          "Team": 2,
+          "BestRank": 638
+        }
+      }
+    },
+    "UniEvangélica Centro Universitário": {
+      "1aFase": {
+        "2015": {
+          "Team": 1,
+          "BestRank": 536
+        }
+      }
+    },
+    "Universidade Católica de Goiás": {
+      "1aFase": {
+        "2015": {
+          "Team": 1,
+          "BestRank": 232
+        },
+        "2016": {
+          "Team": 2,
+          "BestRank": 166
+        },
+        "2017": {
+          "Team": 3,
+          "BestRank": 75
+        }
+      },
+      "Nacional": {
+        "2017": {
+          "Team": 1,
+          "BestRank": 48
         }
       }
     },
@@ -276,14 +402,6 @@ INSTITUTIONS = {
         }
       }
     },
-    "Instituto Federal de Educação, Ciência e Tecnologia Goiano - Câmpus Iporá": {
-      "1aFase": {
-        "2016": {
-          "Team": 2,
-          "BestRank": 638
-        }
-      }
-    },
     "Unidade Universitária de Ciências Exatas e Tecnológicas - UEG": {
       "1aFase": {
         "2016": {
@@ -305,48 +423,6 @@ INSTITUTIONS = {
         "2020": {
           "Team": 1,
           "BestRank": 645
-        }
-      }
-    },
-    "Universidade Católica de Goiás": {
-      "1aFase": {
-        "2016": {
-          "Team": 2,
-          "BestRank": 166
-        },
-        "2017": {
-          "Team": 3,
-          "BestRank": 75
-        }
-      },
-      "Nacional": {
-        "2017": {
-          "Team": 1,
-          "BestRank": 48
-        }
-      }
-    },
-    "Universidade Federal de Goiás - Câmpus Jataí": {
-      "1aFase": {
-        "2016": {
-          "Team": 2,
-          "BestRank": 459
-        },
-        "2020": {
-          "Team": 1,
-          "BestRank": 599
-        }
-      }
-    },
-    "Universidade de Rio Verde": {
-      "1aFase": {
-        "2016": {
-          "Team": 2,
-          "BestRank": 684
-        },
-        "2020": {
-          "Team": 1,
-          "BestRank": 459
         }
       }
     },
@@ -462,6 +538,14 @@ INSTITUTIONS = {
         }
       },
       "1aFase": {
+        "2014": {
+          "Team": 4,
+          "BestRank": 120
+        },
+        "2015": {
+          "Team": 5,
+          "BestRank": 19
+        },
         "2016": {
           "Team": 4,
           "BestRank": 48
@@ -504,6 +588,14 @@ INSTITUTIONS = {
         }
       },
       "1aFase": {
+        "2014": {
+          "Team": 2,
+          "BestRank": 37
+        },
+        "2015": {
+          "Team": 6,
+          "BestRank": 41
+        },
         "2016": {
           "Team": 3,
           "BestRank": 85
@@ -542,6 +634,10 @@ INSTITUTIONS = {
         }
       },
       "1aFase": {
+        "2015": {
+          "Team": 4,
+          "BestRank": 145
+        },
         "2016": {
           "Team": 4,
           "BestRank": 76
@@ -572,6 +668,10 @@ INSTITUTIONS = {
         }
       },
       "1aFase": {
+        "2015": {
+          "Team": 3,
+          "BestRank": 160
+        },
         "2016": {
           "Team": 4,
           "BestRank": 192
@@ -587,6 +687,150 @@ INSTITUTIONS = {
         "2020": {
           "Team": 2,
           "BestRank": 281
+        }
+      }
+    },
+    "Faculdade Leão Sampaio": {
+      "1aFase": {
+        "2014": {
+          "Team": 1,
+          "BestRank": 505
+        }
+      }
+    },
+    "Instituto Federal de Educação, Ciência e Tecnologia do Ceará - Campus Crato": {
+      "1aFase": {
+        "2014": {
+          "Team": 3,
+          "BestRank": 152
+        },
+        "2016": {
+          "Team": 4,
+          "BestRank": 173
+        },
+        "2017": {
+          "Team": 4,
+          "BestRank": 129
+        },
+        "2018": {
+          "Team": 4,
+          "BestRank": 126
+        },
+        "2019": {
+          "Team": 4,
+          "BestRank": 180
+        },
+        "2020": {
+          "Team": 2,
+          "BestRank": 330
+        }
+      },
+      "Nacional": {
+        "2017": {
+          "Team": 1,
+          "BestRank": 47
+        },
+        "2018": {
+          "Team": 1,
+          "BestRank": 50
+        }
+      }
+    },
+    "Universidade Federal do Ceará - Campus Quixadá": {
+      "1aFase": {
+        "2014": {
+          "Team": 4,
+          "BestRank": 104
+        },
+        "2015": {
+          "Team": 3,
+          "BestRank": 122
+        },
+        "2016": {
+          "Team": 3,
+          "BestRank": 153
+        },
+        "2017": {
+          "Team": 3,
+          "BestRank": 99
+        },
+        "2018": {
+          "Team": 5,
+          "BestRank": 41
+        },
+        "2019": {
+          "Team": 6,
+          "BestRank": 31
+        },
+        "2020": {
+          "Team": 12,
+          "BestRank": 16
+        }
+      },
+      "Nacional": {
+        "2018": {
+          "Team": 1,
+          "BestRank": 24
+        },
+        "2019": {
+          "Team": 1,
+          "BestRank": 7
+        }
+      }
+    },
+    "Universidade Federal do Ceará - Campus de Sobral": {
+      "1aFase": {
+        "2014": {
+          "Team": 1,
+          "BestRank": 594
+        }
+      }
+    },
+    "Universidade de Fortaleza": {
+      "1aFase": {
+        "2014": {
+          "Team": 2,
+          "BestRank": 495
+        },
+        "2015": {
+          "Team": 2,
+          "BestRank": 181
+        },
+        "2016": {
+          "Team": 1,
+          "BestRank": 238
+        },
+        "2017": {
+          "Team": 1,
+          "BestRank": 148
+        },
+        "2019": {
+          "Team": 1,
+          "BestRank": 586
+        }
+      }
+    },
+    "Instituto Federal de Educação, Ciência e Tecnologia do Ceará - Campus Aracati": {
+      "1aFase": {
+        "2015": {
+          "Team": 1,
+          "BestRank": 420
+        },
+        "2019": {
+          "Team": 2,
+          "BestRank": 107
+        },
+        "2020": {
+          "Team": 1,
+          "BestRank": 199
+        }
+      }
+    },
+    "Instituto Federal de Educação, Ciência e Tecnologia do Ceará - Campus Fortaleza": {
+      "1aFase": {
+        "2015": {
+          "Team": 1,
+          "BestRank": 108
         }
       }
     },
@@ -623,90 +867,6 @@ INSTITUTIONS = {
         "2018": {
           "Team": 1,
           "BestRank": 675
-        }
-      }
-    },
-    "Instituto Federal de Educação, Ciência e Tecnologia do Ceará - Campus Crato": {
-      "1aFase": {
-        "2016": {
-          "Team": 4,
-          "BestRank": 173
-        },
-        "2017": {
-          "Team": 4,
-          "BestRank": 129
-        },
-        "2018": {
-          "Team": 4,
-          "BestRank": 126
-        },
-        "2019": {
-          "Team": 4,
-          "BestRank": 180
-        },
-        "2020": {
-          "Team": 2,
-          "BestRank": 330
-        }
-      },
-      "Nacional": {
-        "2017": {
-          "Team": 1,
-          "BestRank": 47
-        },
-        "2018": {
-          "Team": 1,
-          "BestRank": 50
-        }
-      }
-    },
-    "Universidade Federal do Ceará - Campus Quixadá": {
-      "1aFase": {
-        "2016": {
-          "Team": 3,
-          "BestRank": 153
-        },
-        "2017": {
-          "Team": 3,
-          "BestRank": 99
-        },
-        "2018": {
-          "Team": 5,
-          "BestRank": 41
-        },
-        "2019": {
-          "Team": 6,
-          "BestRank": 31
-        },
-        "2020": {
-          "Team": 12,
-          "BestRank": 16
-        }
-      },
-      "Nacional": {
-        "2018": {
-          "Team": 1,
-          "BestRank": 24
-        },
-        "2019": {
-          "Team": 1,
-          "BestRank": 7
-        }
-      }
-    },
-    "Universidade de Fortaleza": {
-      "1aFase": {
-        "2016": {
-          "Team": 1,
-          "BestRank": 238
-        },
-        "2017": {
-          "Team": 1,
-          "BestRank": 148
-        },
-        "2019": {
-          "Team": 1,
-          "BestRank": 586
         }
       }
     },
@@ -792,18 +952,6 @@ INSTITUTIONS = {
         }
       }
     },
-    "Instituto Federal de Educação, Ciência e Tecnologia do Ceará - Campus Aracati": {
-      "1aFase": {
-        "2019": {
-          "Team": 2,
-          "BestRank": 107
-        },
-        "2020": {
-          "Team": 1,
-          "BestRank": 199
-        }
-      }
-    },
     "Centro Universitário Christus": {
       "1aFase": {
         "2020": {
@@ -874,6 +1022,14 @@ INSTITUTIONS = {
         }
       },
       "1aFase": {
+        "2014": {
+          "Team": 3,
+          "BestRank": 17
+        },
+        "2015": {
+          "Team": 4,
+          "BestRank": 1
+        },
         "2018": {
           "Team": 5,
           "BestRank": 5
@@ -888,7 +1044,123 @@ INSTITUTIONS = {
         }
       }
     },
+    "Instituto Federal de Educação, Ciência e Tecnologia da Paraíba": {
+      "1aFase": {
+        "2014": {
+          "Team": 10,
+          "BestRank": 136
+        },
+        "2019": {
+          "Team": 1,
+          "BestRank": 291
+        }
+      }
+    },
+    "Universidade Federal da Paraíba": {
+      "1aFase": {
+        "2014": {
+          "Team": 1,
+          "BestRank": 157
+        },
+        "2015": {
+          "Team": 1,
+          "BestRank": 120
+        },
+        "2019": {
+          "Team": 3,
+          "BestRank": 302
+        },
+        "2020": {
+          "Team": 2,
+          "BestRank": 180
+        }
+      },
+      "Nacional": {
+        "2015": {
+          "Team": 1,
+          "BestRank": 40
+        },
+        "2017": {
+          "Team": 1,
+          "BestRank": 53
+        }
+      }
+    },
+    "Universidade Federal da Paraíba - Campus IV": {
+      "1aFase": {
+        "2014": {
+          "Team": 3,
+          "BestRank": 241
+        },
+        "2015": {
+          "Team": 2,
+          "BestRank": 269
+        },
+        "2018": {
+          "Team": 2,
+          "BestRank": 467
+        }
+      }
+    },
+    "Universidade do Vale do Paraíba": {
+      "1aFase": {
+        "2014": {
+          "Team": 3,
+          "BestRank": 430
+        },
+        "2015": {
+          "Team": 3,
+          "BestRank": 251
+        },
+        "2020": {
+          "Team": 3,
+          "BestRank": 352
+        }
+      }
+    },
+    "Centro Universitário de João Pessoa": {
+      "1aFase": {
+        "2015": {
+          "Team": 1,
+          "BestRank": 397
+        },
+        "2018": {
+          "Team": 1,
+          "BestRank": 293
+        },
+        "2020": {
+          "Team": 1,
+          "BestRank": 257
+        }
+      }
+    },
+    "Instituto Federal de Educação, Ciência e Tecnologia da Paraíba - Campus Cajazeiras": {
+      "1aFase": {
+        "2015": {
+          "Team": 1,
+          "BestRank": 403
+        }
+      }
+    },
     "Instituto Federal de Educação, Ciência e Tecnologia da Paraíba - Campus João Pessoa": {
+      "1aFase": {
+        "2015": {
+          "Team": 7,
+          "BestRank": 79
+        },
+        "2018": {
+          "Team": 4,
+          "BestRank": 45
+        },
+        "2019": {
+          "Team": 3,
+          "BestRank": 84
+        },
+        "2020": {
+          "Team": 6,
+          "BestRank": 43
+        }
+      },
       "Nacional": {
         "2015": {
           "Team": 1,
@@ -909,54 +1181,6 @@ INSTITUTIONS = {
         "2019": {
           "Team": 1,
           "BestRank": 41
-        }
-      },
-      "1aFase": {
-        "2018": {
-          "Team": 4,
-          "BestRank": 45
-        },
-        "2019": {
-          "Team": 3,
-          "BestRank": 84
-        },
-        "2020": {
-          "Team": 6,
-          "BestRank": 43
-        }
-      }
-    },
-    "Universidade Federal da Paraíba": {
-      "Nacional": {
-        "2015": {
-          "Team": 1,
-          "BestRank": 40
-        },
-        "2017": {
-          "Team": 1,
-          "BestRank": 53
-        }
-      },
-      "1aFase": {
-        "2019": {
-          "Team": 3,
-          "BestRank": 302
-        },
-        "2020": {
-          "Team": 2,
-          "BestRank": 180
-        }
-      }
-    },
-    "Centro Universitário de João Pessoa": {
-      "1aFase": {
-        "2018": {
-          "Team": 1,
-          "BestRank": 293
-        },
-        "2020": {
-          "Team": 1,
-          "BestRank": 257
         }
       }
     },
@@ -992,14 +1216,6 @@ INSTITUTIONS = {
         }
       }
     },
-    "Universidade Federal da Paraíba - Campus IV": {
-      "1aFase": {
-        "2018": {
-          "Team": 2,
-          "BestRank": 467
-        }
-      }
-    },
     "Centro Universitário Unifacisa": {
       "1aFase": {
         "2019": {
@@ -1018,27 +1234,11 @@ INSTITUTIONS = {
         }
       }
     },
-    "Instituto Federal de Educação, Ciência e Tecnologia da Paraíba": {
-      "1aFase": {
-        "2019": {
-          "Team": 1,
-          "BestRank": 291
-        }
-      }
-    },
     "Instituto Federal de Educação, Ciência e Tecnologia da Paraíba - Campus Campina Grande": {
       "1aFase": {
         "2020": {
           "Team": 2,
           "BestRank": 153
-        }
-      }
-    },
-    "Universidade do Vale do Paraíba": {
-      "1aFase": {
-        "2020": {
-          "Team": 3,
-          "BestRank": 352
         }
       }
     }
@@ -1096,6 +1296,14 @@ INSTITUTIONS = {
         }
       },
       "1aFase": {
+        "2014": {
+          "Team": 6,
+          "BestRank": 2
+        },
+        "2015": {
+          "Team": 6,
+          "BestRank": 3
+        },
         "2016": {
           "Team": 8,
           "BestRank": 1
@@ -1146,9 +1354,61 @@ INSTITUTIONS = {
         }
       },
       "1aFase": {
+        "2014": {
+          "Team": 3,
+          "BestRank": 57
+        },
+        "2015": {
+          "Team": 3,
+          "BestRank": 53
+        },
         "2020": {
           "Team": 4,
           "BestRank": 169
+        }
+      }
+    },
+    "Faculdades Integradas Barros Melo": {
+      "1aFase": {
+        "2014": {
+          "Team": 3,
+          "BestRank": 307
+        },
+        "2015": {
+          "Team": 2,
+          "BestRank": 449
+        },
+        "2016": {
+          "Team": 2,
+          "BestRank": 433
+        },
+        "2017": {
+          "Team": 2,
+          "BestRank": 452
+        },
+        "2018": {
+          "Team": 2,
+          "BestRank": 588
+        },
+        "2019": {
+          "Team": 1,
+          "BestRank": 590
+        }
+      }
+    },
+    "Instituto Federal de Educação, Ciência e Tecnologia de Pernambuco": {
+      "1aFase": {
+        "2014": {
+          "Team": 1,
+          "BestRank": 103
+        },
+        "2015": {
+          "Team": 1,
+          "BestRank": 414
+        },
+        "2016": {
+          "Team": 1,
+          "BestRank": 452
         }
       }
     },
@@ -1176,26 +1436,6 @@ INSTITUTIONS = {
         }
       }
     },
-    "Faculdades Integradas Barros Melo": {
-      "1aFase": {
-        "2016": {
-          "Team": 2,
-          "BestRank": 433
-        },
-        "2017": {
-          "Team": 2,
-          "BestRank": 452
-        },
-        "2018": {
-          "Team": 2,
-          "BestRank": 588
-        },
-        "2019": {
-          "Team": 1,
-          "BestRank": 590
-        }
-      }
-    },
     "Instituto Federal de Educação, Ciência e Tecnologia da Paraíba - Campus João Pessoa": {
       "1aFase": {
         "2016": {
@@ -1205,14 +1445,6 @@ INSTITUTIONS = {
         "2017": {
           "Team": 4,
           "BestRank": 62
-        }
-      }
-    },
-    "Instituto Federal de Educação, Ciência e Tecnologia de Pernambuco": {
-      "1aFase": {
-        "2016": {
-          "Team": 1,
-          "BestRank": 452
         }
       }
     },
@@ -1360,6 +1592,14 @@ INSTITUTIONS = {
         }
       },
       "1aFase": {
+        "2014": {
+          "Team": 3,
+          "BestRank": 88
+        },
+        "2015": {
+          "Team": 3,
+          "BestRank": 44
+        },
         "2016": {
           "Team": 3,
           "BestRank": 103
@@ -1394,6 +1634,14 @@ INSTITUTIONS = {
         }
       },
       "1aFase": {
+        "2014": {
+          "Team": 4,
+          "BestRank": 177
+        },
+        "2015": {
+          "Team": 3,
+          "BestRank": 225
+        },
         "2017": {
           "Team": 4,
           "BestRank": 382
@@ -1412,20 +1660,16 @@ INSTITUTIONS = {
         }
       }
     },
-    "Faculdade Maurício de Nassau Parnaíba": {
-      "1aFase": {
-        "2016": {
-          "Team": 2,
-          "BestRank": 533
-        },
-        "2017": {
-          "Team": 2,
-          "BestRank": 483
-        }
-      }
-    },
     "Instituto Federal de Educação, Ciência e Tecnologia do Piauí": {
       "1aFase": {
+        "2014": {
+          "Team": 2,
+          "BestRank": 418
+        },
+        "2015": {
+          "Team": 1,
+          "BestRank": 532
+        },
         "2016": {
           "Team": 3,
           "BestRank": 481
@@ -1448,24 +1692,16 @@ INSTITUTIONS = {
         }
       }
     },
-    "Instituto Federal de Educação, Ciência e Tecnologia do Piauí - Campus Picos": {
-      "1aFase": {
-        "2016": {
-          "Team": 1,
-          "BestRank": 689
-        },
-        "2017": {
-          "Team": 3,
-          "BestRank": 363
-        },
-        "2018": {
-          "Team": 2,
-          "BestRank": 557
-        }
-      }
-    },
     "Universidade Estadual do Piauí": {
       "1aFase": {
+        "2014": {
+          "Team": 3,
+          "BestRank": 205
+        },
+        "2015": {
+          "Team": 3,
+          "BestRank": 299
+        },
         "2016": {
           "Team": 3,
           "BestRank": 551
@@ -1491,6 +1727,38 @@ INSTITUTIONS = {
         "2017": {
           "Team": 1,
           "BestRank": 68
+        }
+      }
+    },
+    "Faculdade Maurício de Nassau Parnaíba": {
+      "1aFase": {
+        "2015": {
+          "Team": 2,
+          "BestRank": 461
+        },
+        "2016": {
+          "Team": 2,
+          "BestRank": 533
+        },
+        "2017": {
+          "Team": 2,
+          "BestRank": 483
+        }
+      }
+    },
+    "Instituto Federal de Educação, Ciência e Tecnologia do Piauí - Campus Picos": {
+      "1aFase": {
+        "2016": {
+          "Team": 1,
+          "BestRank": 689
+        },
+        "2017": {
+          "Team": 3,
+          "BestRank": 363
+        },
+        "2018": {
+          "Team": 2,
+          "BestRank": 557
         }
       }
     },
@@ -1600,6 +1868,14 @@ INSTITUTIONS = {
         }
       },
       "1aFase": {
+        "2014": {
+          "Team": 6,
+          "BestRank": 65
+        },
+        "2015": {
+          "Team": 3,
+          "BestRank": 178
+        },
         "2016": {
           "Team": 2,
           "BestRank": 127
@@ -1624,9 +1900,29 @@ INSTITUTIONS = {
     },
     "Instituto Federal de Sergipe - Campus Lagarto": {
       "1aFase": {
+        "2014": {
+          "Team": 1,
+          "BestRank": 348
+        },
         "2016": {
           "Team": 3,
           "BestRank": 569
+        }
+      }
+    },
+    "Universidade Tiradentes": {
+      "1aFase": {
+        "2014": {
+          "Team": 1,
+          "BestRank": 544
+        },
+        "2016": {
+          "Team": 1,
+          "BestRank": 352
+        },
+        "2017": {
+          "Team": 3,
+          "BestRank": 190
         }
       }
     },
@@ -1647,18 +1943,6 @@ INSTITUTIONS = {
         "2019": {
           "Team": 8,
           "BestRank": 20
-        }
-      }
-    },
-    "Universidade Tiradentes": {
-      "1aFase": {
-        "2016": {
-          "Team": 1,
-          "BestRank": 352
-        },
-        "2017": {
-          "Team": 3,
-          "BestRank": 190
         }
       }
     },
@@ -1718,6 +2002,14 @@ INSTITUTIONS = {
         }
       },
       "1aFase": {
+        "2014": {
+          "Team": 8,
+          "BestRank": 61
+        },
+        "2015": {
+          "Team": 7,
+          "BestRank": 155
+        },
         "2016": {
           "Team": 6,
           "BestRank": 91
@@ -1738,28 +2030,64 @@ INSTITUTIONS = {
           "Team": 1,
           "BestRank": 28
         }
+      },
+      "1aFase": {
+        "2014": {
+          "Team": 3,
+          "BestRank": 434
+        },
+        "2015": {
+          "Team": 3,
+          "BestRank": 318
+        }
+      }
+    },
+    "Instituto Federal de Educação, Ciência e Tecnologia do Pará": {
+      "1aFase": {
+        "2014": {
+          "Team": 1,
+          "BestRank": 560
+        }
+      }
+    },
+    "Instituto de Ensino Superior Fucapi": {
+      "1aFase": {
+        "2014": {
+          "Team": 4,
+          "BestRank": 184
+        },
+        "2015": {
+          "Team": 4,
+          "BestRank": 146
+        },
+        "2016": {
+          "Team": 3,
+          "BestRank": 327
+        },
+        "2017": {
+          "Team": 4,
+          "BestRank": 300
+        },
+        "2018": {
+          "Team": 3,
+          "BestRank": 395
+        },
+        "2019": {
+          "Team": 2,
+          "BestRank": 483
+        }
       }
     },
     "Universidade do Estado do Amazonas": {
-      "Nacional": {
+      "1aFase": {
         "2014": {
           "Team": 1,
-          "BestRank": 39
+          "BestRank": 52
         },
         "2015": {
-          "Team": 1,
-          "BestRank": 49
+          "Team": 6,
+          "BestRank": 73
         },
-        "2017": {
-          "Team": 1,
-          "BestRank": 33
-        },
-        "2018": {
-          "Team": 1,
-          "BestRank": 30
-        }
-      },
-      "1aFase": {
         "2016": {
           "Team": 9,
           "BestRank": 118
@@ -1780,38 +2108,40 @@ INSTITUTIONS = {
           "Team": 5,
           "BestRank": 47
         }
-      }
-    },
-    "Centro Universitário Estácio da Amazônia": {
-      "1aFase": {
-        "2016": {
-          "Team": 2,
-          "BestRank": 601
+      },
+      "Nacional": {
+        "2014": {
+          "Team": 1,
+          "BestRank": 39
+        },
+        "2015": {
+          "Team": 1,
+          "BestRank": 49
+        },
+        "2017": {
+          "Team": 1,
+          "BestRank": 33
+        },
+        "2018": {
+          "Team": 1,
+          "BestRank": 30
         }
       }
     },
-    "Instituto de Ensino Superior Fucapi": {
+    "Universidade Estadual do Amazonas - Campus Itacoatiara": {
       "1aFase": {
-        "2016": {
-          "Team": 3,
-          "BestRank": 327
-        },
-        "2017": {
-          "Team": 4,
-          "BestRank": 300
-        },
-        "2018": {
-          "Team": 3,
-          "BestRank": 395
-        },
-        "2019": {
-          "Team": 2,
-          "BestRank": 483
+        "2015": {
+          "Team": 1,
+          "BestRank": 579
         }
       }
     },
     "Universidade Federal do Amazonas - Campus Itacoatiara": {
       "1aFase": {
+        "2015": {
+          "Team": 3,
+          "BestRank": 287
+        },
         "2016": {
           "Team": 5,
           "BestRank": 317
@@ -1819,6 +2149,14 @@ INSTITUTIONS = {
         "2020": {
           "Team": 1,
           "BestRank": 595
+        }
+      }
+    },
+    "Centro Universitário Estácio da Amazônia": {
+      "1aFase": {
+        "2016": {
+          "Team": 2,
+          "BestRank": 601
         }
       }
     },
@@ -1910,6 +2248,10 @@ INSTITUTIONS = {
         }
       },
       "1aFase": {
+        "2015": {
+          "Team": 1,
+          "BestRank": 250
+        },
         "2016": {
           "Team": 8,
           "BestRank": 177
@@ -1933,6 +2275,12 @@ INSTITUTIONS = {
       }
     },
     "Centro Universitario do Para - CESUPA": {
+      "1aFase": {
+        "2014": {
+          "Team": 1,
+          "BestRank": 234
+        }
+      },
       "Nacional": {
         "2014": {
           "Team": 1,
@@ -1940,8 +2288,78 @@ INSTITUTIONS = {
         }
       }
     },
+    "Instituto Federal do Triangulo Mineiro - Análise e Desenvolvimento Sistemas - Patrocínio": {
+      "1aFase": {
+        "2014": {
+          "Team": 3,
+          "BestRank": 374
+        },
+        "2020": {
+          "Team": 1,
+          "BestRank": 400
+        }
+      },
+      "Nacional": {
+        "2018": {
+          "Team": 1,
+          "BestRank": 63
+        }
+      }
+    },
+    "Universidade Federal Rural da Amazônia": {
+      "1aFase": {
+        "2014": {
+          "Team": 4,
+          "BestRank": 512
+        }
+      }
+    },
+    "Universidade da Amazônia": {
+      "1aFase": {
+        "2014": {
+          "Team": 2,
+          "BestRank": 532
+        },
+        "2015": {
+          "Team": 2,
+          "BestRank": 360
+        },
+        "2017": {
+          "Team": 3,
+          "BestRank": 578
+        },
+        "2018": {
+          "Team": 3,
+          "BestRank": 621
+        },
+        "2019": {
+          "Team": 1,
+          "BestRank": 170
+        }
+      }
+    },
+    "Faculdade Paraense de Ensino": {
+      "1aFase": {
+        "2015": {
+          "Team": 2,
+          "BestRank": 576
+        }
+      }
+    },
+    "Instituto Federal de Educação, Ciência e Tecnologia de Uberlandia - Tecnologia em Sistemas para Internet": {
+      "1aFase": {
+        "2015": {
+          "Team": 4,
+          "BestRank": 500
+        }
+      }
+    },
     "Instituto Federal de Educação, Ciência e Tecnologia do Pará": {
       "1aFase": {
+        "2015": {
+          "Team": 1,
+          "BestRank": 495
+        },
         "2017": {
           "Team": 4,
           "BestRank": 513
@@ -1971,22 +2389,6 @@ INSTITUTIONS = {
         "2019": {
           "Team": 1,
           "BestRank": 56
-        }
-      }
-    },
-    "Universidade da Amazônia": {
-      "1aFase": {
-        "2017": {
-          "Team": 3,
-          "BestRank": 578
-        },
-        "2018": {
-          "Team": 3,
-          "BestRank": 621
-        },
-        "2019": {
-          "Team": 1,
-          "BestRank": 170
         }
       }
     },
@@ -2021,20 +2423,6 @@ INSTITUTIONS = {
         "2020": {
           "Team": 1,
           "BestRank": 461
-        }
-      }
-    },
-    "Instituto Federal do Triangulo Mineiro - Análise e Desenvolvimento Sistemas - Patrocínio": {
-      "Nacional": {
-        "2018": {
-          "Team": 1,
-          "BestRank": 63
-        }
-      },
-      "1aFase": {
-        "2020": {
-          "Team": 1,
-          "BestRank": 400
         }
       }
     },
@@ -2100,6 +2488,14 @@ INSTITUTIONS = {
         }
       },
       "1aFase": {
+        "2014": {
+          "Team": 6,
+          "BestRank": 63
+        },
+        "2015": {
+          "Team": 3,
+          "BestRank": 101
+        },
         "2016": {
           "Team": 3,
           "BestRank": 175
@@ -2122,26 +2518,44 @@ INSTITUTIONS = {
         }
       }
     },
-    "Centro de Ciências Agrárias - Universidade Federal do Espírito Santo": {
-      "Nacional": {
-        "2015": {
-          "Team": 1,
-          "BestRank": 52
-        }
-      },
+    "Instituto Federal de Educação, Ciência e Tecnologia do Espírito Santo": {
       "1aFase": {
-        "2016": {
+        "2014": {
           "Team": 1,
-          "BestRank": 732
+          "BestRank": 226
+        },
+        "2015": {
+          "Team": 3,
+          "BestRank": 314
+        },
+        "2016": {
+          "Team": 6,
+          "BestRank": 191
         },
         "2017": {
           "Team": 1,
-          "BestRank": 708
+          "BestRank": 321
+        },
+        "2018": {
+          "Team": 4,
+          "BestRank": 295
+        },
+        "2019": {
+          "Team": 2,
+          "BestRank": 146
+        },
+        "2020": {
+          "Team": 1,
+          "BestRank": 287
         }
       }
     },
     "Centro Universitário Norte do Espírito Santo - Universidade Federal do Espírito Santo": {
       "1aFase": {
+        "2015": {
+          "Team": 3,
+          "BestRank": 143
+        },
         "2016": {
           "Team": 3,
           "BestRank": 114
@@ -2166,6 +2580,28 @@ INSTITUTIONS = {
         }
       }
     },
+    "Centro de Ciências Agrárias - Universidade Federal do Espírito Santo": {
+      "1aFase": {
+        "2015": {
+          "Team": 3,
+          "BestRank": 93
+        },
+        "2016": {
+          "Team": 1,
+          "BestRank": 732
+        },
+        "2017": {
+          "Team": 1,
+          "BestRank": 708
+        }
+      },
+      "Nacional": {
+        "2015": {
+          "Team": 1,
+          "BestRank": 52
+        }
+      }
+    },
     "Centro Universitário Vila Velha": {
       "1aFase": {
         "2016": {
@@ -2179,30 +2615,6 @@ INSTITUTIONS = {
         "2020": {
           "Team": 1,
           "BestRank": 537
-        }
-      }
-    },
-    "Instituto Federal de Educação, Ciência e Tecnologia do Espírito Santo": {
-      "1aFase": {
-        "2016": {
-          "Team": 6,
-          "BestRank": 191
-        },
-        "2017": {
-          "Team": 1,
-          "BestRank": 321
-        },
-        "2018": {
-          "Team": 4,
-          "BestRank": 295
-        },
-        "2019": {
-          "Team": 2,
-          "BestRank": 146
-        },
-        "2020": {
-          "Team": 1,
-          "BestRank": 287
         }
       }
     },
@@ -2260,6 +2672,14 @@ INSTITUTIONS = {
         }
       },
       "1aFase": {
+        "2014": {
+          "Team": 3,
+          "BestRank": 87
+        },
+        "2015": {
+          "Team": 5,
+          "BestRank": 17
+        },
         "2016": {
           "Team": 4,
           "BestRank": 17
@@ -2294,6 +2714,10 @@ INSTITUTIONS = {
         }
       },
       "1aFase": {
+        "2015": {
+          "Team": 1,
+          "BestRank": 321
+        },
         "2016": {
           "Team": 1,
           "BestRank": 242
@@ -2364,6 +2788,14 @@ INSTITUTIONS = {
         }
       },
       "1aFase": {
+        "2014": {
+          "Team": 8,
+          "BestRank": 20
+        },
+        "2015": {
+          "Team": 6,
+          "BestRank": 4
+        },
         "2016": {
           "Team": 6,
           "BestRank": 9
@@ -2438,6 +2870,14 @@ INSTITUTIONS = {
         }
       },
       "1aFase": {
+        "2014": {
+          "Team": 3,
+          "BestRank": 84
+        },
+        "2015": {
+          "Team": 4,
+          "BestRank": 11
+        },
         "2016": {
           "Team": 6,
           "BestRank": 19
@@ -2508,6 +2948,14 @@ INSTITUTIONS = {
         }
       },
       "1aFase": {
+        "2014": {
+          "Team": 18,
+          "BestRank": 19
+        },
+        "2015": {
+          "Team": 15,
+          "BestRank": 22
+        },
         "2016": {
           "Team": 23,
           "BestRank": 54
@@ -2548,6 +2996,12 @@ INSTITUTIONS = {
           "Team": 1,
           "BestRank": 21
         },
+        "2014": {
+          "Team": 1,
+          "BestRank": 5
+        }
+      },
+      "1aFase": {
         "2014": {
           "Team": 1,
           "BestRank": 5
@@ -2610,6 +3064,14 @@ INSTITUTIONS = {
         }
       },
       "1aFase": {
+        "2014": {
+          "Team": 2,
+          "BestRank": 53
+        },
+        "2015": {
+          "Team": 2,
+          "BestRank": 24
+        },
         "2016": {
           "Team": 1,
           "BestRank": 50
@@ -2644,6 +3106,14 @@ INSTITUTIONS = {
         }
       },
       "1aFase": {
+        "2014": {
+          "Team": 9,
+          "BestRank": 161
+        },
+        "2015": {
+          "Team": 2,
+          "BestRank": 411
+        },
         "2017": {
           "Team": 5,
           "BestRank": 95
@@ -2655,6 +3125,12 @@ INSTITUTIONS = {
         "2010": {
           "Team": 1,
           "BestRank": 28
+        }
+      },
+      "1aFase": {
+        "2014": {
+          "Team": 3,
+          "BestRank": 260
         }
       }
     },
@@ -2670,6 +3146,14 @@ INSTITUTIONS = {
         }
       },
       "1aFase": {
+        "2014": {
+          "Team": 2,
+          "BestRank": 83
+        },
+        "2015": {
+          "Team": 1,
+          "BestRank": 144
+        },
         "2016": {
           "Team": 3,
           "BestRank": 298
@@ -2700,6 +3184,14 @@ INSTITUTIONS = {
         }
       },
       "1aFase": {
+        "2014": {
+          "Team": 3,
+          "BestRank": 356
+        },
+        "2015": {
+          "Team": 3,
+          "BestRank": 217
+        },
         "2016": {
           "Team": 3,
           "BestRank": 120
@@ -2744,6 +3236,14 @@ INSTITUTIONS = {
         }
       },
       "1aFase": {
+        "2014": {
+          "Team": 3,
+          "BestRank": 292
+        },
+        "2015": {
+          "Team": 3,
+          "BestRank": 464
+        },
         "2016": {
           "Team": 3,
           "BestRank": 203
@@ -2778,6 +3278,14 @@ INSTITUTIONS = {
         }
       },
       "1aFase": {
+        "2014": {
+          "Team": 1,
+          "BestRank": 329
+        },
+        "2015": {
+          "Team": 3,
+          "BestRank": 154
+        },
         "2016": {
           "Team": 1,
           "BestRank": 341
@@ -2800,92 +3308,16 @@ INSTITUTIONS = {
         }
       }
     },
-    "Instituto Federal Do Norte de Minas Gerais - Campus Montes Claros": {
-      "Nacional": {
-        "2014": {
-          "Team": 1,
-          "BestRank": 49
-        },
-        "2015": {
-          "Team": 1,
-          "BestRank": 50
-        },
-        "2017": {
-          "Team": 1,
-          "BestRank": 71
-        },
-        "2019": {
-          "Team": 1,
-          "BestRank": 42
-        }
-      },
-      "1aFase": {
-        "2016": {
-          "Team": 3,
-          "BestRank": 88
-        },
-        "2017": {
-          "Team": 4,
-          "BestRank": 132
-        },
-        "2018": {
-          "Team": 3,
-          "BestRank": 214
-        },
-        "2019": {
-          "Team": 1,
-          "BestRank": 67
-        },
-        "2020": {
-          "Team": 2,
-          "BestRank": 120
-        }
-      }
-    },
-    "Instituto Federal de Educação, Ciência e Tecnologia do Triângulo Mineiro - Campus Paracatu": {
-      "Nacional": {
-        "2014": {
-          "Team": 1,
-          "BestRank": 47
-        },
-        "2015": {
-          "Team": 1,
-          "BestRank": 58
-        }
-      },
-      "1aFase": {
-        "2016": {
-          "Team": 2,
-          "BestRank": 454
-        },
-        "2017": {
-          "Team": 2,
-          "BestRank": 548
-        },
-        "2019": {
-          "Team": 2,
-          "BestRank": 571
-        }
-      }
-    },
-    "Instituto Federal de Educação, Ciência e Tecnologia do Sul de Minas": {
-      "Nacional": {
-        "2015": {
-          "Team": 1,
-          "BestRank": 57
-        }
-      }
-    },
-    "Instituto Federal de Educação, Ciência e Tecnologia do Triângulo Mineiro - Campus Uberaba": {
-      "Nacional": {
-        "2015": {
-          "Team": 1,
-          "BestRank": 54
-        }
-      }
-    },
     "Centro Federal de Educação Tecnológica de Minas Gerais - Campus 2": {
       "1aFase": {
+        "2014": {
+          "Team": 4,
+          "BestRank": 213
+        },
+        "2015": {
+          "Team": 5,
+          "BestRank": 94
+        },
         "2016": {
           "Team": 8,
           "BestRank": 67
@@ -2922,40 +3354,64 @@ INSTITUTIONS = {
         }
       }
     },
-    "Centro Federal de Educação Tecnológica de Minas Gerais - Campus Divinópolis": {
+    "Centro Universitário do Planalto de Araxá": {
       "1aFase": {
-        "2016": {
+        "2014": {
           "Team": 1,
-          "BestRank": 510
-        }
-      }
-    },
-    "Centro Universitário de Formiga": {
-      "1aFase": {
-        "2016": {
+          "BestRank": 144
+        },
+        "2015": {
           "Team": 1,
-          "BestRank": 557
+          "BestRank": 260
+        },
+        "2020": {
+          "Team": 1,
+          "BestRank": 320
         }
       }
     },
     "Centro Universitário do Triângulo": {
       "1aFase": {
+        "2014": {
+          "Team": 3,
+          "BestRank": 259
+        },
+        "2015": {
+          "Team": 2,
+          "BestRank": 219
+        },
         "2016": {
           "Team": 3,
           "BestRank": 164
         }
       }
     },
-    "FAGAMMON - Faculdade Presbiteriana Gammon": {
+    "Centro de Ensino Superior de Juiz de Fora": {
       "1aFase": {
-        "2016": {
+        "2014": {
           "Team": 2,
-          "BestRank": 732
+          "BestRank": 540
+        },
+        "2017": {
+          "Team": 2,
+          "BestRank": 697
+        },
+        "2019": {
+          "Team": 3,
+          "BestRank": 500
         }
       }
     },
     "FAI - Centro de Ensino Superior em Gestão, Tecnologia e Educação": {
       "1aFase": {
+        "2014": {
+          "Team": 1,
+          "BestRank": 295
+        },
+        "2015": {
+          "Team": 1,
+          "BestRank": 197
+        },
         "2016": {
           "Team": 1,
           "BestRank": 199
@@ -2986,6 +3442,14 @@ INSTITUTIONS = {
     },
     "Faculdade Governador Ozanam Coelho": {
       "1aFase": {
+        "2014": {
+          "Team": 3,
+          "BestRank": 228
+        },
+        "2015": {
+          "Team": 3,
+          "BestRank": 238
+        },
         "2016": {
           "Team": 3,
           "BestRank": 125
@@ -3010,9 +3474,537 @@ INSTITUTIONS = {
     },
     "Faculdade Pitágoras - Sistemas de Informação": {
       "1aFase": {
+        "2014": {
+          "Team": 5,
+          "BestRank": 383
+        },
         "2016": {
           "Team": 3,
           "BestRank": 560
+        }
+      }
+    },
+    "Faculdades Associadas de Uberaba - Sistemas de Informação": {
+      "1aFase": {
+        "2014": {
+          "Team": 3,
+          "BestRank": 300
+        },
+        "2015": {
+          "Team": 3,
+          "BestRank": 476
+        },
+        "2016": {
+          "Team": 5,
+          "BestRank": 578
+        },
+        "2017": {
+          "Team": 1,
+          "BestRank": 708
+        },
+        "2018": {
+          "Team": 1,
+          "BestRank": 657
+        }
+      }
+    },
+    "Faculdades Santo Agostinho": {
+      "1aFase": {
+        "2014": {
+          "Team": 1,
+          "BestRank": 482
+        },
+        "2015": {
+          "Team": 3,
+          "BestRank": 520
+        },
+        "2017": {
+          "Team": 1,
+          "BestRank": 545
+        },
+        "2018": {
+          "Team": 1,
+          "BestRank": 634
+        },
+        "2019": {
+          "Team": 3,
+          "BestRank": 427
+        }
+      }
+    },
+    "Fundação Educacional de Ituiutaba": {
+      "1aFase": {
+        "2014": {
+          "Team": 2,
+          "BestRank": 298
+        }
+      }
+    },
+    "Fundação de Ensino de Superior de Passos": {
+      "1aFase": {
+        "2014": {
+          "Team": 1,
+          "BestRank": 440
+        }
+      }
+    },
+    "Instituto Ensinar Brasil": {
+      "1aFase": {
+        "2014": {
+          "Team": 2,
+          "BestRank": 564
+        },
+        "2018": {
+          "Team": 1,
+          "BestRank": 499
+        }
+      }
+    },
+    "Instituto Federal Do Norte de Minas Gerais - Campus Montes Claros": {
+      "1aFase": {
+        "2014": {
+          "Team": 4,
+          "BestRank": 209
+        },
+        "2015": {
+          "Team": 3,
+          "BestRank": 98
+        },
+        "2016": {
+          "Team": 3,
+          "BestRank": 88
+        },
+        "2017": {
+          "Team": 4,
+          "BestRank": 132
+        },
+        "2018": {
+          "Team": 3,
+          "BestRank": 214
+        },
+        "2019": {
+          "Team": 1,
+          "BestRank": 67
+        },
+        "2020": {
+          "Team": 2,
+          "BestRank": 120
+        }
+      },
+      "Nacional": {
+        "2014": {
+          "Team": 1,
+          "BestRank": 49
+        },
+        "2015": {
+          "Team": 1,
+          "BestRank": 50
+        },
+        "2017": {
+          "Team": 1,
+          "BestRank": 71
+        },
+        "2019": {
+          "Team": 1,
+          "BestRank": 42
+        }
+      }
+    },
+    "Instituto Federal de Educação, Ciência e Tecnologia do Sul de Minas": {
+      "1aFase": {
+        "2014": {
+          "Team": 3,
+          "BestRank": 79
+        },
+        "2015": {
+          "Team": 6,
+          "BestRank": 90
+        }
+      },
+      "Nacional": {
+        "2015": {
+          "Team": 1,
+          "BestRank": 57
+        }
+      }
+    },
+    "Instituto Federal de Educação, Ciência e Tecnologia do Triângulo Mineiro - Campus Ituiutaba": {
+      "1aFase": {
+        "2014": {
+          "Team": 4,
+          "BestRank": 446
+        },
+        "2016": {
+          "Team": 4,
+          "BestRank": 227
+        },
+        "2017": {
+          "Team": 9,
+          "BestRank": 409
+        },
+        "2018": {
+          "Team": 9,
+          "BestRank": 87
+        },
+        "2019": {
+          "Team": 3,
+          "BestRank": 252
+        }
+      },
+      "Nacional": {
+        "2018": {
+          "Team": 1,
+          "BestRank": 64
+        }
+      }
+    },
+    "Instituto Federal de Educação, Ciência e Tecnologia do Triângulo Mineiro - Campus Paracatu": {
+      "1aFase": {
+        "2014": {
+          "Team": 3,
+          "BestRank": 123
+        },
+        "2015": {
+          "Team": 3,
+          "BestRank": 100
+        },
+        "2016": {
+          "Team": 2,
+          "BestRank": 454
+        },
+        "2017": {
+          "Team": 2,
+          "BestRank": 548
+        },
+        "2019": {
+          "Team": 2,
+          "BestRank": 571
+        }
+      },
+      "Nacional": {
+        "2014": {
+          "Team": 1,
+          "BestRank": 47
+        },
+        "2015": {
+          "Team": 1,
+          "BestRank": 58
+        }
+      }
+    },
+    "Instituto Federal de Educação, Ciência e Tecnologia do Triângulo Mineiro - Campus Uberaba": {
+      "1aFase": {
+        "2014": {
+          "Team": 4,
+          "BestRank": 287
+        },
+        "2015": {
+          "Team": 7,
+          "BestRank": 131
+        }
+      },
+      "Nacional": {
+        "2015": {
+          "Team": 1,
+          "BestRank": 54
+        }
+      }
+    },
+    "Instituto Federal do Norte de Minas Gerais - Campus Januaria": {
+      "1aFase": {
+        "2014": {
+          "Team": 1,
+          "BestRank": 507
+        },
+        "2015": {
+          "Team": 1,
+          "BestRank": 497
+        },
+        "2016": {
+          "Team": 2,
+          "BestRank": 444
+        }
+      }
+    },
+    "Universidade Federal de Itajubá - Campus Itabira": {
+      "1aFase": {
+        "2014": {
+          "Team": 2,
+          "BestRank": 105
+        },
+        "2015": {
+          "Team": 4,
+          "BestRank": 202
+        },
+        "2016": {
+          "Team": 4,
+          "BestRank": 115
+        },
+        "2017": {
+          "Team": 3,
+          "BestRank": 147
+        },
+        "2018": {
+          "Team": 2,
+          "BestRank": 83
+        },
+        "2019": {
+          "Team": 3,
+          "BestRank": 339
+        },
+        "2020": {
+          "Team": 7,
+          "BestRank": 321
+        }
+      },
+      "Nacional": {
+        "2018": {
+          "Team": 1,
+          "BestRank": 43
+        }
+      }
+    },
+    "Universidade Federal de São João Del Rei - CAP": {
+      "1aFase": {
+        "2014": {
+          "Team": 3,
+          "BestRank": 289
+        },
+        "2020": {
+          "Team": 2,
+          "BestRank": 583
+        }
+      }
+    },
+    "Universidade Federal de São João Del Rei - SEDE": {
+      "1aFase": {
+        "2014": {
+          "Team": 3,
+          "BestRank": 132
+        },
+        "2016": {
+          "Team": 2,
+          "BestRank": 487
+        }
+      }
+    },
+    "Universidade Federal de Uberlândia - Campus Monte Carmelo - Sistemas de Informação": {
+      "1aFase": {
+        "2014": {
+          "Team": 3,
+          "BestRank": 196
+        },
+        "2015": {
+          "Team": 7,
+          "BestRank": 128
+        },
+        "2016": {
+          "Team": 7,
+          "BestRank": 86
+        },
+        "2017": {
+          "Team": 7,
+          "BestRank": 90
+        },
+        "2018": {
+          "Team": 3,
+          "BestRank": 114
+        },
+        "2019": {
+          "Team": 3,
+          "BestRank": 219
+        },
+        "2020": {
+          "Team": 3,
+          "BestRank": 236
+        }
+      },
+      "Nacional": {
+        "2016": {
+          "Team": 1,
+          "BestRank": 46
+        },
+        "2017": {
+          "Team": 1,
+          "BestRank": 27
+        },
+        "2018": {
+          "Team": 1,
+          "BestRank": 49
+        },
+        "2019": {
+          "Team": 1,
+          "BestRank": 52
+        }
+      }
+    },
+    "Universidade Federal de Uberlândia - Campus Patos de Minas": {
+      "1aFase": {
+        "2014": {
+          "Team": 1,
+          "BestRank": 664
+        }
+      }
+    },
+    "Universidade Salgado de Oliveira - UNIVERSO": {
+      "1aFase": {
+        "2014": {
+          "Team": 1,
+          "BestRank": 508
+        },
+        "2016": {
+          "Team": 1,
+          "BestRank": 542
+        },
+        "2017": {
+          "Team": 1,
+          "BestRank": 690
+        }
+      }
+    },
+    "Universidade de Uberaba - Campus Uberaba - Engenharia de Computação": {
+      "1aFase": {
+        "2014": {
+          "Team": 1,
+          "BestRank": 543
+        },
+        "2016": {
+          "Team": 1,
+          "BestRank": 691
+        }
+      }
+    },
+    "Universidade do Vale do Sapucaí - UNIVAS": {
+      "1aFase": {
+        "2014": {
+          "Team": 2,
+          "BestRank": 78
+        },
+        "2015": {
+          "Team": 3,
+          "BestRank": 137
+        },
+        "2016": {
+          "Team": 3,
+          "BestRank": 313
+        },
+        "2017": {
+          "Team": 2,
+          "BestRank": 620
+        },
+        "2018": {
+          "Team": 1,
+          "BestRank": 542
+        },
+        "2019": {
+          "Team": 2,
+          "BestRank": 278
+        },
+        "2020": {
+          "Team": 1,
+          "BestRank": 280
+        }
+      }
+    },
+    "Faculdade de Talentos Humanos - Sistemas de Informação": {
+      "1aFase": {
+        "2015": {
+          "Team": 1,
+          "BestRank": 335
+        }
+      }
+    },
+    "Instituto Federal do Triângulo Mineiro Campus Patrocínio": {
+      "1aFase": {
+        "2015": {
+          "Team": 6,
+          "BestRank": 348
+        },
+        "2016": {
+          "Team": 5,
+          "BestRank": 253
+        },
+        "2017": {
+          "Team": 7,
+          "BestRank": 479
+        }
+      },
+      "Nacional": {
+        "2016": {
+          "Team": 1,
+          "BestRank": 56
+        }
+      }
+    },
+    "Universidade Federal de Juiz de Fora": {
+      "1aFase": {
+        "2015": {
+          "Team": 1,
+          "BestRank": 259
+        },
+        "2016": {
+          "Team": 5,
+          "BestRank": 157
+        },
+        "2017": {
+          "Team": 1,
+          "BestRank": 124
+        }
+      }
+    },
+    "Universidade de Franca": {
+      "1aFase": {
+        "2015": {
+          "Team": 1,
+          "BestRank": 424
+        }
+      }
+    },
+    "Universidade de Uberaba - Campus Uberaba - Sistemas de Informação": {
+      "1aFase": {
+        "2015": {
+          "Team": 3,
+          "BestRank": 346
+        },
+        "2016": {
+          "Team": 2,
+          "BestRank": 269
+        },
+        "2017": {
+          "Team": 3,
+          "BestRank": 431
+        }
+      }
+    },
+    "Universidade do Estado de Minas Gerais - Ituiutaba": {
+      "1aFase": {
+        "2015": {
+          "Team": 1,
+          "BestRank": 377
+        }
+      }
+    },
+    "Centro Federal de Educação Tecnológica de Minas Gerais - Campus Divinópolis": {
+      "1aFase": {
+        "2016": {
+          "Team": 1,
+          "BestRank": 510
+        }
+      }
+    },
+    "Centro Universitário de Formiga": {
+      "1aFase": {
+        "2016": {
+          "Team": 1,
+          "BestRank": 557
+        }
+      }
+    },
+    "FAGAMMON - Faculdade Presbiteriana Gammon": {
+      "1aFase": {
+        "2016": {
+          "Team": 2,
+          "BestRank": 732
         }
       }
     },
@@ -3027,22 +4019,6 @@ INSTITUTIONS = {
         "2016": {
           "Team": 1,
           "BestRank": 48
-        }
-      }
-    },
-    "Faculdades Associadas de Uberaba - Sistemas de Informação": {
-      "1aFase": {
-        "2016": {
-          "Team": 5,
-          "BestRank": 578
-        },
-        "2017": {
-          "Team": 1,
-          "BestRank": 708
-        },
-        "2018": {
-          "Team": 1,
-          "BestRank": 657
         }
       }
     },
@@ -3146,32 +4122,6 @@ INSTITUTIONS = {
         }
       }
     },
-    "Instituto Federal de Educação, Ciência e Tecnologia do Triângulo Mineiro - Campus Ituiutaba": {
-      "1aFase": {
-        "2016": {
-          "Team": 4,
-          "BestRank": 227
-        },
-        "2017": {
-          "Team": 9,
-          "BestRank": 409
-        },
-        "2018": {
-          "Team": 9,
-          "BestRank": 87
-        },
-        "2019": {
-          "Team": 3,
-          "BestRank": 252
-        }
-      },
-      "Nacional": {
-        "2018": {
-          "Team": 1,
-          "BestRank": 64
-        }
-      }
-    },
     "Instituto Federal de Educação, Ciência e Tecnologia do Triângulo Mineiro campus Uberaba Parque Tecnológico": {
       "1aFase": {
         "2016": {
@@ -3189,32 +4139,6 @@ INSTITUTIONS = {
         "2019": {
           "Team": 2,
           "BestRank": 250
-        }
-      }
-    },
-    "Instituto Federal do Norte de Minas Gerais - Campus Januaria": {
-      "1aFase": {
-        "2016": {
-          "Team": 2,
-          "BestRank": 444
-        }
-      }
-    },
-    "Instituto Federal do Triângulo Mineiro Campus Patrocínio": {
-      "1aFase": {
-        "2016": {
-          "Team": 5,
-          "BestRank": 253
-        },
-        "2017": {
-          "Team": 7,
-          "BestRank": 479
-        }
-      },
-      "Nacional": {
-        "2016": {
-          "Team": 1,
-          "BestRank": 56
         }
       }
     },
@@ -3239,98 +4163,6 @@ INSTITUTIONS = {
         "2016": {
           "Team": 1,
           "BestRank": 539
-        }
-      }
-    },
-    "Universidade Federal de Itajubá - Campus Itabira": {
-      "1aFase": {
-        "2016": {
-          "Team": 4,
-          "BestRank": 115
-        },
-        "2017": {
-          "Team": 3,
-          "BestRank": 147
-        },
-        "2018": {
-          "Team": 2,
-          "BestRank": 83
-        },
-        "2019": {
-          "Team": 3,
-          "BestRank": 339
-        },
-        "2020": {
-          "Team": 7,
-          "BestRank": 321
-        }
-      },
-      "Nacional": {
-        "2018": {
-          "Team": 1,
-          "BestRank": 43
-        }
-      }
-    },
-    "Universidade Federal de Juiz de Fora": {
-      "1aFase": {
-        "2016": {
-          "Team": 5,
-          "BestRank": 157
-        },
-        "2017": {
-          "Team": 1,
-          "BestRank": 124
-        }
-      }
-    },
-    "Universidade Federal de São João Del Rei - SEDE": {
-      "1aFase": {
-        "2016": {
-          "Team": 2,
-          "BestRank": 487
-        }
-      }
-    },
-    "Universidade Federal de Uberlândia - Campus Monte Carmelo - Sistemas de Informação": {
-      "1aFase": {
-        "2016": {
-          "Team": 7,
-          "BestRank": 86
-        },
-        "2017": {
-          "Team": 7,
-          "BestRank": 90
-        },
-        "2018": {
-          "Team": 3,
-          "BestRank": 114
-        },
-        "2019": {
-          "Team": 3,
-          "BestRank": 219
-        },
-        "2020": {
-          "Team": 3,
-          "BestRank": 236
-        }
-      },
-      "Nacional": {
-        "2016": {
-          "Team": 1,
-          "BestRank": 46
-        },
-        "2017": {
-          "Team": 1,
-          "BestRank": 27
-        },
-        "2018": {
-          "Team": 1,
-          "BestRank": 49
-        },
-        "2019": {
-          "Team": 1,
-          "BestRank": 52
         }
       }
     },
@@ -3364,38 +4196,6 @@ INSTITUTIONS = {
         }
       }
     },
-    "Universidade Salgado de Oliveira - UNIVERSO": {
-      "1aFase": {
-        "2016": {
-          "Team": 1,
-          "BestRank": 542
-        },
-        "2017": {
-          "Team": 1,
-          "BestRank": 690
-        }
-      }
-    },
-    "Universidade de Uberaba - Campus Uberaba - Engenharia de Computação": {
-      "1aFase": {
-        "2016": {
-          "Team": 1,
-          "BestRank": 691
-        }
-      }
-    },
-    "Universidade de Uberaba - Campus Uberaba - Sistemas de Informação": {
-      "1aFase": {
-        "2016": {
-          "Team": 2,
-          "BestRank": 269
-        },
-        "2017": {
-          "Team": 3,
-          "BestRank": 431
-        }
-      }
-    },
     "Universidade de Uberaba - Campus Uberlândia": {
       "1aFase": {
         "2016": {
@@ -3413,42 +4213,6 @@ INSTITUTIONS = {
         "2019": {
           "Team": 4,
           "BestRank": 423
-        }
-      }
-    },
-    "Universidade do Vale do Sapucaí - UNIVAS": {
-      "1aFase": {
-        "2016": {
-          "Team": 3,
-          "BestRank": 313
-        },
-        "2017": {
-          "Team": 2,
-          "BestRank": 620
-        },
-        "2018": {
-          "Team": 1,
-          "BestRank": 542
-        },
-        "2019": {
-          "Team": 2,
-          "BestRank": 278
-        },
-        "2020": {
-          "Team": 1,
-          "BestRank": 280
-        }
-      }
-    },
-    "Centro de Ensino Superior de Juiz de Fora": {
-      "1aFase": {
-        "2017": {
-          "Team": 2,
-          "BestRank": 697
-        },
-        "2019": {
-          "Team": 3,
-          "BestRank": 500
         }
       }
     },
@@ -3489,22 +4253,6 @@ INSTITUTIONS = {
         "2018": {
           "Team": 2,
           "BestRank": 362
-        }
-      }
-    },
-    "Faculdades Santo Agostinho": {
-      "1aFase": {
-        "2017": {
-          "Team": 1,
-          "BestRank": 545
-        },
-        "2018": {
-          "Team": 1,
-          "BestRank": 634
-        },
-        "2019": {
-          "Team": 3,
-          "BestRank": 427
         }
       }
     },
@@ -3605,14 +4353,6 @@ INSTITUTIONS = {
         "2019": {
           "Team": 3,
           "BestRank": 94
-        }
-      }
-    },
-    "Instituto Ensinar Brasil": {
-      "1aFase": {
-        "2018": {
-          "Team": 1,
-          "BestRank": 499
         }
       }
     },
@@ -3744,14 +4484,6 @@ INSTITUTIONS = {
         }
       }
     },
-    "Centro Universitário do Planalto de Araxá": {
-      "1aFase": {
-        "2020": {
-          "Team": 1,
-          "BestRank": 320
-        }
-      }
-    },
     "Instituto Federal de Educação, Ciência e Tecnologia do Sul de Minas Gerais - Campus Machado": {
       "1aFase": {
         "2020": {
@@ -3765,14 +4497,6 @@ INSTITUTIONS = {
         "2020": {
           "Team": 1,
           "BestRank": 269
-        }
-      }
-    },
-    "Universidade Federal de São João Del Rei - CAP": {
-      "1aFase": {
-        "2020": {
-          "Team": 2,
-          "BestRank": 583
         }
       }
     }
@@ -3818,6 +4542,14 @@ INSTITUTIONS = {
         }
       },
       "1aFase": {
+        "2014": {
+          "Team": 5,
+          "BestRank": 8
+        },
+        "2015": {
+          "Team": 3,
+          "BestRank": 40
+        },
         "2016": {
           "Team": 4,
           "BestRank": 5
@@ -3880,6 +4612,14 @@ INSTITUTIONS = {
         }
       },
       "1aFase": {
+        "2014": {
+          "Team": 4,
+          "BestRank": 121
+        },
+        "2015": {
+          "Team": 7,
+          "BestRank": 55
+        },
         "2016": {
           "Team": 7,
           "BestRank": 68
@@ -3950,6 +4690,14 @@ INSTITUTIONS = {
         }
       },
       "1aFase": {
+        "2014": {
+          "Team": 5,
+          "BestRank": 11
+        },
+        "2015": {
+          "Team": 4,
+          "BestRank": 34
+        },
         "2016": {
           "Team": 4,
           "BestRank": 28
@@ -4000,6 +4748,14 @@ INSTITUTIONS = {
         }
       },
       "1aFase": {
+        "2014": {
+          "Team": 5,
+          "BestRank": 143
+        },
+        "2015": {
+          "Team": 5,
+          "BestRank": 107
+        },
         "2016": {
           "Team": 2,
           "BestRank": 97
@@ -4022,34 +4778,16 @@ INSTITUTIONS = {
         }
       }
     },
-    "Universidade Federal Fluminense": {
-      "Nacional": {
-        "2014": {
-          "Team": 1,
-          "BestRank": 57
-        }
-      },
-      "1aFase": {
-        "2016": {
-          "Team": 3,
-          "BestRank": 229
-        },
-        "2017": {
-          "Team": 3,
-          "BestRank": 89
-        },
-        "2018": {
-          "Team": 3,
-          "BestRank": 71
-        },
-        "2019": {
-          "Team": 2,
-          "BestRank": 88
-        }
-      }
-    },
     "Centro Federal de Educação Tecnológica Celso Suckow da Fonseca": {
       "1aFase": {
+        "2014": {
+          "Team": 1,
+          "BestRank": 546
+        },
+        "2015": {
+          "Team": 3,
+          "BestRank": 375
+        },
         "2016": {
           "Team": 3,
           "BestRank": 374
@@ -4072,32 +4810,16 @@ INSTITUTIONS = {
         }
       }
     },
-    "Centro Federal de Educação Tecnológica Celso Suckow da Fonseca - Campus Petrópolis": {
-      "1aFase": {
-        "2016": {
-          "Team": 2,
-          "BestRank": 451
-        },
-        "2017": {
-          "Team": 3,
-          "BestRank": 298
-        },
-        "2018": {
-          "Team": 5,
-          "BestRank": 165
-        },
-        "2019": {
-          "Team": 5,
-          "BestRank": 70
-        },
-        "2020": {
-          "Team": 5,
-          "BestRank": 61
-        }
-      }
-    },
     "Centro Universitário Serra dos Órgãos - UNIFESO": {
       "1aFase": {
+        "2014": {
+          "Team": 1,
+          "BestRank": 347
+        },
+        "2015": {
+          "Team": 2,
+          "BestRank": 133
+        },
         "2016": {
           "Team": 3,
           "BestRank": 95
@@ -4128,6 +4850,14 @@ INSTITUTIONS = {
     },
     "UERJ – Instituto Politécnico": {
       "1aFase": {
+        "2014": {
+          "Team": 2,
+          "BestRank": 117
+        },
+        "2015": {
+          "Team": 3,
+          "BestRank": 71
+        },
         "2016": {
           "Team": 1,
           "BestRank": 152
@@ -4138,8 +4868,66 @@ INSTITUTIONS = {
         }
       }
     },
+    "Universidade Federal Fluminense": {
+      "1aFase": {
+        "2014": {
+          "Team": 2,
+          "BestRank": 67
+        },
+        "2015": {
+          "Team": 2,
+          "BestRank": 77
+        },
+        "2016": {
+          "Team": 3,
+          "BestRank": 229
+        },
+        "2017": {
+          "Team": 3,
+          "BestRank": 89
+        },
+        "2018": {
+          "Team": 3,
+          "BestRank": 71
+        },
+        "2019": {
+          "Team": 2,
+          "BestRank": 88
+        }
+      },
+      "Nacional": {
+        "2014": {
+          "Team": 1,
+          "BestRank": 57
+        }
+      }
+    },
+    "Universidade Federal Rural do Rio de Janeiro": {
+      "1aFase": {
+        "2014": {
+          "Team": 2,
+          "BestRank": 175
+        },
+        "2015": {
+          "Team": 2,
+          "BestRank": 223
+        },
+        "2019": {
+          "Team": 1,
+          "BestRank": 385
+        },
+        "2020": {
+          "Team": 2,
+          "BestRank": 103
+        }
+      }
+    },
     "Universidade Federal Fluminense - Polo Universitário de Rio das Ostras": {
       "1aFase": {
+        "2015": {
+          "Team": 4,
+          "BestRank": 218
+        },
         "2016": {
           "Team": 4,
           "BestRank": 235
@@ -4159,6 +4947,30 @@ INSTITUTIONS = {
         "2020": {
           "Team": 7,
           "BestRank": 121
+        }
+      }
+    },
+    "Centro Federal de Educação Tecnológica Celso Suckow da Fonseca - Campus Petrópolis": {
+      "1aFase": {
+        "2016": {
+          "Team": 2,
+          "BestRank": 451
+        },
+        "2017": {
+          "Team": 3,
+          "BestRank": 298
+        },
+        "2018": {
+          "Team": 5,
+          "BestRank": 165
+        },
+        "2019": {
+          "Team": 5,
+          "BestRank": 70
+        },
+        "2020": {
+          "Team": 5,
+          "BestRank": 61
         }
       }
     },
@@ -4183,18 +4995,6 @@ INSTITUTIONS = {
         "2017": {
           "Team": 1,
           "BestRank": 233
-        }
-      }
-    },
-    "Universidade Federal Rural do Rio de Janeiro": {
-      "1aFase": {
-        "2019": {
-          "Team": 1,
-          "BestRank": 385
-        },
-        "2020": {
-          "Team": 2,
-          "BestRank": 103
         }
       }
     }
@@ -4236,6 +5036,14 @@ INSTITUTIONS = {
         }
       },
       "1aFase": {
+        "2014": {
+          "Team": 3,
+          "BestRank": 71
+        },
+        "2015": {
+          "Team": 5,
+          "BestRank": 81
+        },
         "2016": {
           "Team": 4,
           "BestRank": 53
@@ -4310,6 +5118,14 @@ INSTITUTIONS = {
         }
       },
       "1aFase": {
+        "2014": {
+          "Team": 5,
+          "BestRank": 4
+        },
+        "2015": {
+          "Team": 4,
+          "BestRank": 7
+        },
         "2016": {
           "Team": 4,
           "BestRank": 6
@@ -4410,6 +5226,14 @@ INSTITUTIONS = {
         }
       },
       "1aFase": {
+        "2014": {
+          "Team": 5,
+          "BestRank": 7
+        },
+        "2015": {
+          "Team": 3,
+          "BestRank": 6
+        },
         "2016": {
           "Team": 5,
           "BestRank": 16
@@ -4444,6 +5268,14 @@ INSTITUTIONS = {
         }
       },
       "1aFase": {
+        "2014": {
+          "Team": 4,
+          "BestRank": 45
+        },
+        "2015": {
+          "Team": 4,
+          "BestRank": 136
+        },
         "2016": {
           "Team": 4,
           "BestRank": 369
@@ -4506,6 +5338,14 @@ INSTITUTIONS = {
         }
       },
       "1aFase": {
+        "2014": {
+          "Team": 6,
+          "BestRank": 13
+        },
+        "2015": {
+          "Team": 6,
+          "BestRank": 10
+        },
         "2016": {
           "Team": 9,
           "BestRank": 10
@@ -4610,6 +5450,14 @@ INSTITUTIONS = {
         }
       },
       "1aFase": {
+        "2014": {
+          "Team": 4,
+          "BestRank": 238
+        },
+        "2015": {
+          "Team": 4,
+          "BestRank": 74
+        },
         "2016": {
           "Team": 4,
           "BestRank": 143
@@ -4652,6 +5500,14 @@ INSTITUTIONS = {
         }
       },
       "1aFase": {
+        "2014": {
+          "Team": 3,
+          "BestRank": 86
+        },
+        "2015": {
+          "Team": 1,
+          "BestRank": 147
+        },
         "2016": {
           "Team": 2,
           "BestRank": 221
@@ -4684,6 +5540,12 @@ INSTITUTIONS = {
           "Team": 1,
           "BestRank": 39
         }
+      },
+      "1aFase": {
+        "2014": {
+          "Team": 3,
+          "BestRank": 242
+        }
       }
     },
     "Faculdade de Tecnologia de Sorocaba": {
@@ -4702,6 +5564,14 @@ INSTITUTIONS = {
         }
       },
       "1aFase": {
+        "2014": {
+          "Team": 4,
+          "BestRank": 160
+        },
+        "2015": {
+          "Team": 3,
+          "BestRank": 189
+        },
         "2016": {
           "Team": 3,
           "BestRank": 200
@@ -4768,6 +5638,14 @@ INSTITUTIONS = {
         }
       },
       "1aFase": {
+        "2014": {
+          "Team": 4,
+          "BestRank": 27
+        },
+        "2015": {
+          "Team": 3,
+          "BestRank": 58
+        },
         "2016": {
           "Team": 5,
           "BestRank": 56
@@ -4868,6 +5746,14 @@ INSTITUTIONS = {
         }
       },
       "1aFase": {
+        "2014": {
+          "Team": 3,
+          "BestRank": 102
+        },
+        "2015": {
+          "Team": 3,
+          "BestRank": 62
+        },
         "2016": {
           "Team": 4,
           "BestRank": 30
@@ -4902,6 +5788,14 @@ INSTITUTIONS = {
         }
       },
       "1aFase": {
+        "2014": {
+          "Team": 3,
+          "BestRank": 223
+        },
+        "2015": {
+          "Team": 3,
+          "BestRank": 231
+        },
         "2016": {
           "Team": 4,
           "BestRank": 443
@@ -4960,6 +5854,12 @@ INSTITUTIONS = {
           "Team": 1,
           "BestRank": 38
         }
+      },
+      "1aFase": {
+        "2014": {
+          "Team": 5,
+          "BestRank": 191
+        }
       }
     },
     "Faculdade de Tecnologia de São José dos Campos": {
@@ -4978,6 +5878,14 @@ INSTITUTIONS = {
         }
       },
       "1aFase": {
+        "2014": {
+          "Team": 4,
+          "BestRank": 151
+        },
+        "2015": {
+          "Team": 2,
+          "BestRank": 75
+        },
         "2016": {
           "Team": 3,
           "BestRank": 124
@@ -5016,6 +5924,14 @@ INSTITUTIONS = {
         }
       },
       "1aFase": {
+        "2014": {
+          "Team": 2,
+          "BestRank": 301
+        },
+        "2015": {
+          "Team": 1,
+          "BestRank": 325
+        },
         "2016": {
           "Team": 1,
           "BestRank": 516
@@ -5054,6 +5970,14 @@ INSTITUTIONS = {
         }
       },
       "1aFase": {
+        "2014": {
+          "Team": 9,
+          "BestRank": 1
+        },
+        "2015": {
+          "Team": 6,
+          "BestRank": 2
+        },
         "2016": {
           "Team": 8,
           "BestRank": 7
@@ -5096,6 +6020,14 @@ INSTITUTIONS = {
         }
       },
       "1aFase": {
+        "2014": {
+          "Team": 3,
+          "BestRank": 224
+        },
+        "2015": {
+          "Team": 1,
+          "BestRank": 32
+        },
         "2016": {
           "Team": 3,
           "BestRank": 38
@@ -5115,13 +6047,15 @@ INSTITUTIONS = {
       }
     },
     "Centro Universitário Católico Salesiano Auxilum": {
-      "Nacional": {
-        "2014": {
-          "Team": 1,
-          "BestRank": 27
-        }
-      },
       "1aFase": {
+        "2014": {
+          "Team": 3,
+          "BestRank": 74
+        },
+        "2015": {
+          "Team": 4,
+          "BestRank": 511
+        },
         "2016": {
           "Team": 3,
           "BestRank": 388
@@ -5138,24 +6072,36 @@ INSTITUTIONS = {
           "Team": 2,
           "BestRank": 366
         }
-      }
-    },
-    "FACENS - Faculdade de Engenharia de Sorocaba": {
+      },
       "Nacional": {
         "2014": {
           "Team": 1,
-          "BestRank": 47
-        },
-        "2018": {
-          "Team": 1,
-          "BestRank": 31
-        },
-        "2019": {
-          "Team": 1,
-          "BestRank": 46
+          "BestRank": 27
         }
-      },
+      }
+    },
+    "Centro Universitário das Faculdades Associadas de Ensino": {
       "1aFase": {
+        "2014": {
+          "Team": 3,
+          "BestRank": 248
+        },
+        "2015": {
+          "Team": 3,
+          "BestRank": 333
+        }
+      }
+    },
+    "FACENS - Faculdade de Engenharia de Sorocaba": {
+      "1aFase": {
+        "2014": {
+          "Team": 3,
+          "BestRank": 91
+        },
+        "2015": {
+          "Team": 4,
+          "BestRank": 68
+        },
         "2016": {
           "Team": 4,
           "BestRank": 98
@@ -5172,68 +6118,72 @@ INSTITUTIONS = {
           "Team": 4,
           "BestRank": 137
         }
-      }
-    },
-    "UNESP - Universidade Estadual Paulista (Faculdade de Ciências e Tecnologia - Presidente Prudente)": {
+      },
       "Nacional": {
         "2014": {
           "Team": 1,
-          "BestRank": 53
-        }
-      },
-      "1aFase": {
-        "2016": {
-          "Team": 3,
-          "BestRank": 333
+          "BestRank": 47
         },
         "2018": {
           "Team": 1,
-          "BestRank": 433
+          "BestRank": 31
         },
-        "2020": {
-          "Team": 2,
-          "BestRank": 425
+        "2019": {
+          "Team": 1,
+          "BestRank": 46
         }
       }
     },
-    "Universidade São Judas Tadeu": {
-      "Nacional": {
+    "FATEC Itapetininga": {
+      "1aFase": {
         "2014": {
           "Team": 1,
-          "BestRank": 44
+          "BestRank": 275
+        },
+        "2015": {
+          "Team": 3,
+          "BestRank": 358
+        },
+        "2016": {
+          "Team": 2,
+          "BestRank": 579
+        },
+        "2017": {
+          "Team": 3,
+          "BestRank": 277
+        },
+        "2018": {
+          "Team": 1,
+          "BestRank": 550
+        },
+        "2019": {
+          "Team": 1,
+          "BestRank": 422
+        }
+      }
+    },
+    "Faculdade Anhanguera Taubaté - Unidade II": {
+      "1aFase": {
+        "2014": {
+          "Team": 1,
+          "BestRank": 400
         },
         "2015": {
           "Team": 1,
-          "BestRank": 44
-        },
-        "2016": {
-          "Team": 1,
-          "BestRank": 52
-        }
-      },
-      "1aFase": {
-        "2016": {
-          "Team": 16,
-          "BestRank": 139
-        },
-        "2017": {
-          "Team": 8,
-          "BestRank": 241
-        },
-        "2018": {
-          "Team": 5,
-          "BestRank": 280
+          "BestRank": 426
         }
       }
     },
     "Faculdade de Jaguariúna - FAJ": {
-      "Nacional": {
-        "2015": {
-          "Team": 1,
-          "BestRank": 41
-        }
-      },
       "1aFase": {
+        "2014": {
+          "Team": 3,
+          "BestRank": 171
+        },
+        "2015": {
+          "Team": 3,
+          "BestRank": 91
+        },
         "2016": {
           "Team": 4,
           "BestRank": 232
@@ -5250,13 +6200,639 @@ INSTITUTIONS = {
           "Team": 1,
           "BestRank": 645
         }
+      },
+      "Nacional": {
+        "2015": {
+          "Team": 1,
+          "BestRank": 41
+        }
+      }
+    },
+    "Faculdade de Tecnologia da Baixada Santista Rubens Lara": {
+      "1aFase": {
+        "2014": {
+          "Team": 3,
+          "BestRank": 432
+        }
+      }
+    },
+    "Faculdade de Tecnologia de Cruzeiro": {
+      "1aFase": {
+        "2014": {
+          "Team": 1,
+          "BestRank": 528
+        },
+        "2015": {
+          "Team": 3,
+          "BestRank": 343
+        },
+        "2016": {
+          "Team": 1,
+          "BestRank": 424
+        },
+        "2017": {
+          "Team": 1,
+          "BestRank": 693
+        },
+        "2018": {
+          "Team": 1,
+          "BestRank": 234
+        },
+        "2019": {
+          "Team": 1,
+          "BestRank": 570
+        },
+        "2020": {
+          "Team": 1,
+          "BestRank": 522
+        }
+      },
+      "Nacional": {
+        "2018": {
+          "Team": 1,
+          "BestRank": 51
+        }
+      }
+    },
+    "Faculdade de Tecnologia de Garça": {
+      "1aFase": {
+        "2014": {
+          "Team": 3,
+          "BestRank": 309
+        },
+        "2016": {
+          "Team": 3,
+          "BestRank": 311
+        },
+        "2017": {
+          "Team": 2,
+          "BestRank": 221
+        },
+        "2018": {
+          "Team": 2,
+          "BestRank": 691
+        },
+        "2019": {
+          "Team": 1,
+          "BestRank": 177
+        },
+        "2020": {
+          "Team": 1,
+          "BestRank": 634
+        }
+      }
+    },
+    "Faculdade de Tecnologia de Itu": {
+      "1aFase": {
+        "2014": {
+          "Team": 1,
+          "BestRank": 527
+        },
+        "2015": {
+          "Team": 1,
+          "BestRank": 487
+        },
+        "2016": {
+          "Team": 2,
+          "BestRank": 248
+        },
+        "2017": {
+          "Team": 1,
+          "BestRank": 708
+        },
+        "2018": {
+          "Team": 1,
+          "BestRank": 434
+        },
+        "2019": {
+          "Team": 1,
+          "BestRank": 497
+        }
+      }
+    },
+    "Faculdade de Tecnologia de Mococa": {
+      "1aFase": {
+        "2014": {
+          "Team": 1,
+          "BestRank": 316
+        },
+        "2020": {
+          "Team": 1,
+          "BestRank": 336
+        }
+      }
+    },
+    "Faculdade de Tecnologia de São Paulo": {
+      "1aFase": {
+        "2014": {
+          "Team": 3,
+          "BestRank": 227
+        },
+        "2015": {
+          "Team": 3,
+          "BestRank": 247
+        },
+        "2016": {
+          "Team": 3,
+          "BestRank": 184
+        },
+        "2017": {
+          "Team": 5,
+          "BestRank": 100
+        },
+        "2018": {
+          "Team": 4,
+          "BestRank": 115
+        },
+        "2019": {
+          "Team": 1,
+          "BestRank": 416
+        },
+        "2020": {
+          "Team": 3,
+          "BestRank": 209
+        }
+      },
+      "Nacional": {
+        "2016": {
+          "Team": 1,
+          "BestRank": 33
+        },
+        "2017": {
+          "Team": 1,
+          "BestRank": 59
+        },
+        "2018": {
+          "Team": 1,
+          "BestRank": 58
+        }
+      }
+    },
+    "Faculdade de Tecnologia de São Roque": {
+      "1aFase": {
+        "2014": {
+          "Team": 1,
+          "BestRank": 648
+        }
+      }
+    },
+    "Faculdades Metropolitanas Unidas": {
+      "1aFase": {
+        "2014": {
+          "Team": 3,
+          "BestRank": 537
+        }
+      }
+    },
+    "Fatec Ipiranga": {
+      "1aFase": {
+        "2014": {
+          "Team": 2,
+          "BestRank": 214
+        }
       }
     },
     "Instituto Brasileiro de Tecnologia Avançada": {
+      "1aFase": {
+        "2014": {
+          "Team": 6,
+          "BestRank": 231
+        },
+        "2015": {
+          "Team": 2,
+          "BestRank": 385
+        }
+      },
       "Nacional": {
         "2015": {
           "Team": 1,
           "BestRank": 55
+        }
+      }
+    },
+    "Instituto Federal de Educação, Ciência e Tecnologia de São Paulo - Campus Birigui": {
+      "1aFase": {
+        "2014": {
+          "Team": 4,
+          "BestRank": 257
+        },
+        "2015": {
+          "Team": 4,
+          "BestRank": 337
+        },
+        "2016": {
+          "Team": 4,
+          "BestRank": 346
+        },
+        "2017": {
+          "Team": 3,
+          "BestRank": 253
+        },
+        "2018": {
+          "Team": 3,
+          "BestRank": 343
+        },
+        "2019": {
+          "Team": 3,
+          "BestRank": 200
+        },
+        "2020": {
+          "Team": 3,
+          "BestRank": 195
+        }
+      }
+    },
+    "Instituto Federal de Educação, Ciência e Tecnologia de São Paulo - Campus Catanduva": {
+      "1aFase": {
+        "2014": {
+          "Team": 8,
+          "BestRank": 198
+        }
+      }
+    },
+    "Instituto Federal de São Paulo - Campus Piracicaba": {
+      "1aFase": {
+        "2014": {
+          "Team": 1,
+          "BestRank": 469
+        },
+        "2016": {
+          "Team": 1,
+          "BestRank": 657
+        },
+        "2017": {
+          "Team": 1,
+          "BestRank": 209
+        },
+        "2018": {
+          "Team": 3,
+          "BestRank": 105
+        },
+        "2019": {
+          "Team": 4,
+          "BestRank": 119
+        },
+        "2020": {
+          "Team": 3,
+          "BestRank": 274
+        }
+      },
+      "Nacional": {
+        "2018": {
+          "Team": 1,
+          "BestRank": 67
+        }
+      }
+    },
+    "Pontifícia Universidade Católica de Campinas": {
+      "1aFase": {
+        "2014": {
+          "Team": 5,
+          "BestRank": 60
+        },
+        "2015": {
+          "Team": 8,
+          "BestRank": 123
+        },
+        "2016": {
+          "Team": 5,
+          "BestRank": 223
+        },
+        "2017": {
+          "Team": 6,
+          "BestRank": 123
+        },
+        "2019": {
+          "Team": 3,
+          "BestRank": 364
+        },
+        "2020": {
+          "Team": 2,
+          "BestRank": 308
+        }
+      }
+    },
+    "UNESP - Universidade Estadual Paulista (Faculdade de Ciências e Tecnologia - Presidente Prudente)": {
+      "1aFase": {
+        "2014": {
+          "Team": 2,
+          "BestRank": 89
+        },
+        "2015": {
+          "Team": 3,
+          "BestRank": 113
+        },
+        "2016": {
+          "Team": 3,
+          "BestRank": 333
+        },
+        "2018": {
+          "Team": 1,
+          "BestRank": 433
+        },
+        "2020": {
+          "Team": 2,
+          "BestRank": 425
+        }
+      },
+      "Nacional": {
+        "2014": {
+          "Team": 1,
+          "BestRank": 53
+        }
+      }
+    },
+    "UNIP - Campus Sorocaba": {
+      "1aFase": {
+        "2014": {
+          "Team": 2,
+          "BestRank": 162
+        },
+        "2015": {
+          "Team": 2,
+          "BestRank": 510
+        },
+        "2016": {
+          "Team": 3,
+          "BestRank": 492
+        },
+        "2017": {
+          "Team": 2,
+          "BestRank": 658
+        },
+        "2018": {
+          "Team": 4,
+          "BestRank": 459
+        },
+        "2019": {
+          "Team": 4,
+          "BestRank": 451
+        }
+      }
+    },
+    "UNIVEM - Centro Universitário Eurípides de Marília": {
+      "1aFase": {
+        "2014": {
+          "Team": 3,
+          "BestRank": 156
+        },
+        "2015": {
+          "Team": 4,
+          "BestRank": 103
+        },
+        "2016": {
+          "Team": 4,
+          "BestRank": 239
+        },
+        "2017": {
+          "Team": 3,
+          "BestRank": 297
+        },
+        "2018": {
+          "Team": 3,
+          "BestRank": 183
+        },
+        "2019": {
+          "Team": 2,
+          "BestRank": 282
+        },
+        "2020": {
+          "Team": 4,
+          "BestRank": 181
+        }
+      }
+    },
+    "Universidade Católica de Santos": {
+      "1aFase": {
+        "2014": {
+          "Team": 4,
+          "BestRank": 249
+        },
+        "2015": {
+          "Team": 4,
+          "BestRank": 359
+        },
+        "2016": {
+          "Team": 4,
+          "BestRank": 272
+        },
+        "2017": {
+          "Team": 3,
+          "BestRank": 130
+        },
+        "2018": {
+          "Team": 3,
+          "BestRank": 248
+        },
+        "2019": {
+          "Team": 3,
+          "BestRank": 134
+        },
+        "2020": {
+          "Team": 9,
+          "BestRank": 388
+        }
+      }
+    },
+    "Universidade Federal do ABC": {
+      "1aFase": {
+        "2014": {
+          "Team": 1,
+          "BestRank": 464
+        },
+        "2015": {
+          "Team": 5,
+          "BestRank": 193
+        },
+        "2016": {
+          "Team": 5,
+          "BestRank": 110
+        },
+        "2017": {
+          "Team": 3,
+          "BestRank": 160
+        },
+        "2018": {
+          "Team": 4,
+          "BestRank": 106
+        },
+        "2019": {
+          "Team": 6,
+          "BestRank": 36
+        },
+        "2020": {
+          "Team": 3,
+          "BestRank": 59
+        }
+      },
+      "Nacional": {
+        "2018": {
+          "Team": 1,
+          "BestRank": 28
+        },
+        "2019": {
+          "Team": 1,
+          "BestRank": 31
+        }
+      }
+    },
+    "Universidade São Judas Tadeu": {
+      "1aFase": {
+        "2014": {
+          "Team": 10,
+          "BestRank": 140
+        },
+        "2015": {
+          "Team": 10,
+          "BestRank": 139
+        },
+        "2016": {
+          "Team": 16,
+          "BestRank": 139
+        },
+        "2017": {
+          "Team": 8,
+          "BestRank": 241
+        },
+        "2018": {
+          "Team": 5,
+          "BestRank": 280
+        }
+      },
+      "Nacional": {
+        "2014": {
+          "Team": 1,
+          "BestRank": 44
+        },
+        "2015": {
+          "Team": 1,
+          "BestRank": 44
+        },
+        "2016": {
+          "Team": 1,
+          "BestRank": 52
+        }
+      }
+    },
+    "Universidade de Sorocaba": {
+      "1aFase": {
+        "2014": {
+          "Team": 5,
+          "BestRank": 206
+        },
+        "2015": {
+          "Team": 3,
+          "BestRank": 324
+        },
+        "2016": {
+          "Team": 2,
+          "BestRank": 653
+        },
+        "2018": {
+          "Team": 1,
+          "BestRank": 396
+        }
+      }
+    },
+    "Centro Universitário Barão de Mauá": {
+      "1aFase": {
+        "2015": {
+          "Team": 1,
+          "BestRank": 483
+        }
+      }
+    },
+    "Escola de Engenharia de Piracicaba": {
+      "1aFase": {
+        "2015": {
+          "Team": 1,
+          "BestRank": 427
+        },
+        "2016": {
+          "Team": 6,
+          "BestRank": 300
+        },
+        "2017": {
+          "Team": 7,
+          "BestRank": 184
+        },
+        "2018": {
+          "Team": 3,
+          "BestRank": 205
+        },
+        "2019": {
+          "Team": 3,
+          "BestRank": 213
+        },
+        "2020": {
+          "Team": 4,
+          "BestRank": 383
+        }
+      }
+    },
+    "FATEC Carapicuíba": {
+      "1aFase": {
+        "2015": {
+          "Team": 2,
+          "BestRank": 228
+        }
+      }
+    },
+    "Instituto Federal de Educação, Ciencia e Tecnologia de São Paulo": {
+      "1aFase": {
+        "2015": {
+          "Team": 2,
+          "BestRank": 435
+        }
+      }
+    },
+    "Universidade Paulista": {
+      "1aFase": {
+        "2015": {
+          "Team": 2,
+          "BestRank": 528
+        },
+        "2016": {
+          "Team": 3,
+          "BestRank": 206
+        }
+      }
+    },
+    "Universidade Presbiteriana Mackenzie": {
+      "1aFase": {
+        "2015": {
+          "Team": 6,
+          "BestRank": 303
+        },
+        "2016": {
+          "Team": 7,
+          "BestRank": 306
+        },
+        "2017": {
+          "Team": 11,
+          "BestRank": 308
+        },
+        "2018": {
+          "Team": 8,
+          "BestRank": 384
+        },
+        "2019": {
+          "Team": 1,
+          "BestRank": 652
+        },
+        "2020": {
+          "Team": 3,
+          "BestRank": 423
+        }
+      },
+      "Nacional": {
+        "2017": {
+          "Team": 1,
+          "BestRank": 56
+        },
+        "2018": {
+          "Team": 1,
+          "BestRank": 57
         }
       }
     },
@@ -5303,50 +6879,6 @@ INSTITUTIONS = {
         "2017": {
           "Team": 1,
           "BestRank": 41
-        }
-      }
-    },
-    "Escola de Engenharia de Piracicaba": {
-      "1aFase": {
-        "2016": {
-          "Team": 6,
-          "BestRank": 300
-        },
-        "2017": {
-          "Team": 7,
-          "BestRank": 184
-        },
-        "2018": {
-          "Team": 3,
-          "BestRank": 205
-        },
-        "2019": {
-          "Team": 3,
-          "BestRank": 213
-        },
-        "2020": {
-          "Team": 4,
-          "BestRank": 383
-        }
-      }
-    },
-    "FATEC Itapetininga": {
-      "1aFase": {
-        "2016": {
-          "Team": 2,
-          "BestRank": 579
-        },
-        "2017": {
-          "Team": 3,
-          "BestRank": 277
-        },
-        "2018": {
-          "Team": 1,
-          "BestRank": 550
-        },
-        "2019": {
-          "Team": 1,
-          "BestRank": 422
         }
       }
     },
@@ -5406,118 +6938,6 @@ INSTITUTIONS = {
         }
       }
     },
-    "Faculdade de Tecnologia de Cruzeiro": {
-      "1aFase": {
-        "2016": {
-          "Team": 1,
-          "BestRank": 424
-        },
-        "2017": {
-          "Team": 1,
-          "BestRank": 693
-        },
-        "2018": {
-          "Team": 1,
-          "BestRank": 234
-        },
-        "2019": {
-          "Team": 1,
-          "BestRank": 570
-        },
-        "2020": {
-          "Team": 1,
-          "BestRank": 522
-        }
-      },
-      "Nacional": {
-        "2018": {
-          "Team": 1,
-          "BestRank": 51
-        }
-      }
-    },
-    "Faculdade de Tecnologia de Garça": {
-      "1aFase": {
-        "2016": {
-          "Team": 3,
-          "BestRank": 311
-        },
-        "2017": {
-          "Team": 2,
-          "BestRank": 221
-        },
-        "2018": {
-          "Team": 2,
-          "BestRank": 691
-        },
-        "2019": {
-          "Team": 1,
-          "BestRank": 177
-        },
-        "2020": {
-          "Team": 1,
-          "BestRank": 634
-        }
-      }
-    },
-    "Faculdade de Tecnologia de Itu": {
-      "1aFase": {
-        "2016": {
-          "Team": 2,
-          "BestRank": 248
-        },
-        "2017": {
-          "Team": 1,
-          "BestRank": 708
-        },
-        "2018": {
-          "Team": 1,
-          "BestRank": 434
-        },
-        "2019": {
-          "Team": 1,
-          "BestRank": 497
-        }
-      }
-    },
-    "Faculdade de Tecnologia de São Paulo": {
-      "1aFase": {
-        "2016": {
-          "Team": 3,
-          "BestRank": 184
-        },
-        "2017": {
-          "Team": 5,
-          "BestRank": 100
-        },
-        "2018": {
-          "Team": 4,
-          "BestRank": 115
-        },
-        "2019": {
-          "Team": 1,
-          "BestRank": 416
-        },
-        "2020": {
-          "Team": 3,
-          "BestRank": 209
-        }
-      },
-      "Nacional": {
-        "2016": {
-          "Team": 1,
-          "BestRank": 33
-        },
-        "2017": {
-          "Team": 1,
-          "BestRank": 59
-        },
-        "2018": {
-          "Team": 1,
-          "BestRank": 58
-        }
-      }
-    },
     "Instituto Federal de Educação, Ciência e Tecnologia de São Paulo": {
       "1aFase": {
         "2016": {
@@ -5534,30 +6954,6 @@ INSTITUTIONS = {
         }
       }
     },
-    "Instituto Federal de Educação, Ciência e Tecnologia de São Paulo - Campus Birigui": {
-      "1aFase": {
-        "2016": {
-          "Team": 4,
-          "BestRank": 346
-        },
-        "2017": {
-          "Team": 3,
-          "BestRank": 253
-        },
-        "2018": {
-          "Team": 3,
-          "BestRank": 343
-        },
-        "2019": {
-          "Team": 3,
-          "BestRank": 200
-        },
-        "2020": {
-          "Team": 3,
-          "BestRank": 195
-        }
-      }
-    },
     "Instituto Federal de Educação, Ciência e Tecnologia de São Paulo - Campus Salto": {
       "1aFase": {
         "2016": {
@@ -5566,129 +6962,11 @@ INSTITUTIONS = {
         }
       }
     },
-    "Instituto Federal de São Paulo - Campus Piracicaba": {
-      "1aFase": {
-        "2016": {
-          "Team": 1,
-          "BestRank": 657
-        },
-        "2017": {
-          "Team": 1,
-          "BestRank": 209
-        },
-        "2018": {
-          "Team": 3,
-          "BestRank": 105
-        },
-        "2019": {
-          "Team": 4,
-          "BestRank": 119
-        },
-        "2020": {
-          "Team": 3,
-          "BestRank": 274
-        }
-      },
-      "Nacional": {
-        "2018": {
-          "Team": 1,
-          "BestRank": 67
-        }
-      }
-    },
     "Instituto Mauá de Tecnologia- Campus de São Caetano do Sul": {
       "1aFase": {
         "2016": {
           "Team": 3,
           "BestRank": 376
-        }
-      }
-    },
-    "Pontifícia Universidade Católica de Campinas": {
-      "1aFase": {
-        "2016": {
-          "Team": 5,
-          "BestRank": 223
-        },
-        "2017": {
-          "Team": 6,
-          "BestRank": 123
-        },
-        "2019": {
-          "Team": 3,
-          "BestRank": 364
-        },
-        "2020": {
-          "Team": 2,
-          "BestRank": 308
-        }
-      }
-    },
-    "UNIP - Campus Sorocaba": {
-      "1aFase": {
-        "2016": {
-          "Team": 3,
-          "BestRank": 492
-        },
-        "2017": {
-          "Team": 2,
-          "BestRank": 658
-        },
-        "2018": {
-          "Team": 4,
-          "BestRank": 459
-        },
-        "2019": {
-          "Team": 4,
-          "BestRank": 451
-        }
-      }
-    },
-    "UNIVEM - Centro Universitário Eurípides de Marília": {
-      "1aFase": {
-        "2016": {
-          "Team": 4,
-          "BestRank": 239
-        },
-        "2017": {
-          "Team": 3,
-          "BestRank": 297
-        },
-        "2018": {
-          "Team": 3,
-          "BestRank": 183
-        },
-        "2019": {
-          "Team": 2,
-          "BestRank": 282
-        },
-        "2020": {
-          "Team": 4,
-          "BestRank": 181
-        }
-      }
-    },
-    "Universidade Católica de Santos": {
-      "1aFase": {
-        "2016": {
-          "Team": 4,
-          "BestRank": 272
-        },
-        "2017": {
-          "Team": 3,
-          "BestRank": 130
-        },
-        "2018": {
-          "Team": 3,
-          "BestRank": 248
-        },
-        "2019": {
-          "Team": 3,
-          "BestRank": 134
-        },
-        "2020": {
-          "Team": 9,
-          "BestRank": 388
         }
       }
     },
@@ -5705,40 +6983,6 @@ INSTITUTIONS = {
         "2018": {
           "Team": 3,
           "BestRank": 208
-        }
-      }
-    },
-    "Universidade Federal do ABC": {
-      "1aFase": {
-        "2016": {
-          "Team": 5,
-          "BestRank": 110
-        },
-        "2017": {
-          "Team": 3,
-          "BestRank": 160
-        },
-        "2018": {
-          "Team": 4,
-          "BestRank": 106
-        },
-        "2019": {
-          "Team": 6,
-          "BestRank": 36
-        },
-        "2020": {
-          "Team": 3,
-          "BestRank": 59
-        }
-      },
-      "Nacional": {
-        "2018": {
-          "Team": 1,
-          "BestRank": 28
-        },
-        "2019": {
-          "Team": 1,
-          "BestRank": 31
         }
       }
     },
@@ -5771,60 +7015,6 @@ INSTITUTIONS = {
         "2020": {
           "Team": 6,
           "BestRank": 498
-        }
-      }
-    },
-    "Universidade Paulista": {
-      "1aFase": {
-        "2016": {
-          "Team": 3,
-          "BestRank": 206
-        }
-      }
-    },
-    "Universidade Presbiteriana Mackenzie": {
-      "1aFase": {
-        "2016": {
-          "Team": 7,
-          "BestRank": 306
-        },
-        "2017": {
-          "Team": 11,
-          "BestRank": 308
-        },
-        "2018": {
-          "Team": 8,
-          "BestRank": 384
-        },
-        "2019": {
-          "Team": 1,
-          "BestRank": 652
-        },
-        "2020": {
-          "Team": 3,
-          "BestRank": 423
-        }
-      },
-      "Nacional": {
-        "2017": {
-          "Team": 1,
-          "BestRank": 56
-        },
-        "2018": {
-          "Team": 1,
-          "BestRank": 57
-        }
-      }
-    },
-    "Universidade de Sorocaba": {
-      "1aFase": {
-        "2016": {
-          "Team": 2,
-          "BestRank": 653
-        },
-        "2018": {
-          "Team": 1,
-          "BestRank": 396
         }
       }
     },
@@ -6104,14 +7294,6 @@ INSTITUTIONS = {
         }
       }
     },
-    "Faculdade de Tecnologia de Mococa": {
-      "1aFase": {
-        "2020": {
-          "Team": 1,
-          "BestRank": 336
-        }
-      }
-    },
     "Universidade Estadual Paulista Rio Claro": {
       "1aFase": {
         "2020": {
@@ -6182,6 +7364,14 @@ INSTITUTIONS = {
         }
       },
       "1aFase": {
+        "2014": {
+          "Team": 2,
+          "BestRank": 113
+        },
+        "2015": {
+          "Team": 2,
+          "BestRank": 43
+        },
         "2016": {
           "Team": 2,
           "BestRank": 31
@@ -6212,6 +7402,14 @@ INSTITUTIONS = {
         }
       },
       "1aFase": {
+        "2014": {
+          "Team": 2,
+          "BestRank": 428
+        },
+        "2015": {
+          "Team": 3,
+          "BestRank": 316
+        },
         "2016": {
           "Team": 2,
           "BestRank": 211
@@ -6266,6 +7464,14 @@ INSTITUTIONS = {
         }
       },
       "1aFase": {
+        "2014": {
+          "Team": 4,
+          "BestRank": 30
+        },
+        "2015": {
+          "Team": 3,
+          "BestRank": 52
+        },
         "2016": {
           "Team": 4,
           "BestRank": 36
@@ -6304,6 +7510,14 @@ INSTITUTIONS = {
         }
       },
       "1aFase": {
+        "2014": {
+          "Team": 3,
+          "BestRank": 195
+        },
+        "2015": {
+          "Team": 3,
+          "BestRank": 27
+        },
         "2016": {
           "Team": 4,
           "BestRank": 113
@@ -6320,10 +7534,32 @@ INSTITUTIONS = {
           "Team": 1,
           "BestRank": 54
         }
+      },
+      "1aFase": {
+        "2014": {
+          "Team": 4,
+          "BestRank": 133
+        }
+      }
+    },
+    "Centro Universitário Tupy": {
+      "1aFase": {
+        "2014": {
+          "Team": 2,
+          "BestRank": 272
+        }
       }
     },
     "Pontificia Universidade Católica do Paraná": {
       "1aFase": {
+        "2014": {
+          "Team": 1,
+          "BestRank": 302
+        },
+        "2015": {
+          "Team": 1,
+          "BestRank": 102
+        },
         "2016": {
           "Team": 1,
           "BestRank": 274
@@ -6340,6 +7576,14 @@ INSTITUTIONS = {
     },
     "UNIOESTE - Campus de Foz do Iguaçu": {
       "1aFase": {
+        "2014": {
+          "Team": 5,
+          "BestRank": 207
+        },
+        "2015": {
+          "Team": 5,
+          "BestRank": 51
+        },
         "2016": {
           "Team": 10,
           "BestRank": 119
@@ -6368,8 +7612,32 @@ INSTITUTIONS = {
         }
       }
     },
+    "Universidade Estadual de Londrina": {
+      "1aFase": {
+        "2014": {
+          "Team": 1,
+          "BestRank": 270
+        },
+        "2019": {
+          "Team": 5,
+          "BestRank": 254
+        },
+        "2020": {
+          "Team": 3,
+          "BestRank": 242
+        }
+      }
+    },
     "Universidade Estadual de Maringá": {
       "1aFase": {
+        "2014": {
+          "Team": 2,
+          "BestRank": 149
+        },
+        "2015": {
+          "Team": 3,
+          "BestRank": 97
+        },
         "2016": {
           "Team": 4,
           "BestRank": 167
@@ -6400,6 +7668,14 @@ INSTITUTIONS = {
     },
     "Universidade Estadual do Centro-Oeste": {
       "1aFase": {
+        "2014": {
+          "Team": 3,
+          "BestRank": 291
+        },
+        "2015": {
+          "Team": 3,
+          "BestRank": 118
+        },
         "2016": {
           "Team": 3,
           "BestRank": 397
@@ -6422,6 +7698,86 @@ INSTITUTIONS = {
         }
       }
     },
+    "Universidade Estadual do Norte do Paraná": {
+      "1aFase": {
+        "2014": {
+          "Team": 4,
+          "BestRank": 279
+        }
+      }
+    },
+    "Universidade Federal de Santa Catarina": {
+      "1aFase": {
+        "2014": {
+          "Team": 1,
+          "BestRank": 25
+        }
+      }
+    },
+    "Universidade Tecnológica Federal do Paraná - Campus Medianeira": {
+      "1aFase": {
+        "2014": {
+          "Team": 7,
+          "BestRank": 308
+        },
+        "2015": {
+          "Team": 4,
+          "BestRank": 141
+        },
+        "2016": {
+          "Team": 3,
+          "BestRank": 529
+        },
+        "2018": {
+          "Team": 3,
+          "BestRank": 223
+        }
+      }
+    },
+    "Universidade Tecnológica Federal do Paraná - Campus Pato Branco": {
+      "1aFase": {
+        "2014": {
+          "Team": 1,
+          "BestRank": 203
+        },
+        "2017": {
+          "Team": 1,
+          "BestRank": 368
+        }
+      }
+    },
+    "União de Ensino do Sudoeste do Paraná": {
+      "1aFase": {
+        "2014": {
+          "Team": 3,
+          "BestRank": 215
+        },
+        "2015": {
+          "Team": 1,
+          "BestRank": 499
+        },
+        "2016": {
+          "Team": 1,
+          "BestRank": 338
+        }
+      }
+    },
+    "Faculdade Guairaca": {
+      "1aFase": {
+        "2015": {
+          "Team": 1,
+          "BestRank": 496
+        }
+      }
+    },
+    "UNICESUMAR - University Center of Maringa": {
+      "1aFase": {
+        "2015": {
+          "Team": 2,
+          "BestRank": 446
+        }
+      }
+    },
     "Universidade Positivo": {
       "1aFase": {
         "2016": {
@@ -6435,18 +7791,6 @@ INSTITUTIONS = {
         "2018": {
           "Team": 2,
           "BestRank": 259
-        }
-      }
-    },
-    "Universidade Tecnológica Federal do Paraná - Campus Medianeira": {
-      "1aFase": {
-        "2016": {
-          "Team": 3,
-          "BestRank": 529
-        },
-        "2018": {
-          "Team": 3,
-          "BestRank": 223
         }
       }
     },
@@ -6488,14 +7832,6 @@ INSTITUTIONS = {
         }
       }
     },
-    "União de Ensino do Sudoeste do Paraná": {
-      "1aFase": {
-        "2016": {
-          "Team": 1,
-          "BestRank": 338
-        }
-      }
-    },
     "Universidade Federal do Paraná - Jandaia do Sul": {
       "1aFase": {
         "2017": {
@@ -6505,14 +7841,6 @@ INSTITUTIONS = {
         "2019": {
           "Team": 1,
           "BestRank": 591
-        }
-      }
-    },
-    "Universidade Tecnológica Federal do Paraná - Campus Pato Branco": {
-      "1aFase": {
-        "2017": {
-          "Team": 1,
-          "BestRank": 368
         }
       }
     },
@@ -6545,18 +7873,6 @@ INSTITUTIONS = {
         "2019": {
           "Team": 3,
           "BestRank": 394
-        }
-      }
-    },
-    "Universidade Estadual de Londrina": {
-      "1aFase": {
-        "2019": {
-          "Team": 5,
-          "BestRank": 254
-        },
-        "2020": {
-          "Team": 3,
-          "BestRank": 242
         }
       }
     },
@@ -6602,6 +7918,14 @@ INSTITUTIONS = {
         }
       },
       "1aFase": {
+        "2014": {
+          "Team": 6,
+          "BestRank": 96
+        },
+        "2015": {
+          "Team": 4,
+          "BestRank": 84
+        },
         "2016": {
           "Team": 3,
           "BestRank": 165
@@ -6676,6 +8000,14 @@ INSTITUTIONS = {
         }
       },
       "1aFase": {
+        "2014": {
+          "Team": 1,
+          "BestRank": 6
+        },
+        "2015": {
+          "Team": 1,
+          "BestRank": 45
+        },
         "2016": {
           "Team": 8,
           "BestRank": 64
@@ -6730,6 +8062,14 @@ INSTITUTIONS = {
         }
       },
       "1aFase": {
+        "2014": {
+          "Team": 3,
+          "BestRank": 118
+        },
+        "2015": {
+          "Team": 3,
+          "BestRank": 18
+        },
         "2016": {
           "Team": 4,
           "BestRank": 13
@@ -6776,6 +8116,14 @@ INSTITUTIONS = {
         }
       },
       "1aFase": {
+        "2014": {
+          "Team": 2,
+          "BestRank": 363
+        },
+        "2015": {
+          "Team": 3,
+          "BestRank": 195
+        },
         "2016": {
           "Team": 3,
           "BestRank": 256
@@ -6814,6 +8162,14 @@ INSTITUTIONS = {
         }
       },
       "1aFase": {
+        "2014": {
+          "Team": 2,
+          "BestRank": 243
+        },
+        "2015": {
+          "Team": 2,
+          "BestRank": 177
+        },
         "2016": {
           "Team": 2,
           "BestRank": 287
@@ -6848,6 +8204,14 @@ INSTITUTIONS = {
         }
       },
       "1aFase": {
+        "2014": {
+          "Team": 6,
+          "BestRank": 51
+        },
+        "2015": {
+          "Team": 9,
+          "BestRank": 37
+        },
         "2016": {
           "Team": 6,
           "BestRank": 102
@@ -6858,7 +8222,25 @@ INSTITUTIONS = {
         }
       }
     },
+    "Faculdade Senac de Ciências Exatas e Tecnologia": {
+      "1aFase": {
+        "2014": {
+          "Team": 6,
+          "BestRank": 305
+        },
+        "2015": {
+          "Team": 1,
+          "BestRank": 349
+        }
+      }
+    },
     "Faculdades Integradas de Taquara": {
+      "1aFase": {
+        "2014": {
+          "Team": 2,
+          "BestRank": 239
+        }
+      },
       "Nacional": {
         "2014": {
           "Team": 1,
@@ -6866,14 +8248,72 @@ INSTITUTIONS = {
         }
       }
     },
-    "Universidade Regional do Noroeste do Estado do Rio Grande do Sul": {
-      "Nacional": {
+    "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul - Câmpus Canoas": {
+      "1aFase": {
         "2014": {
           "Team": 1,
-          "BestRank": 54
+          "BestRank": 545
         }
-      },
+      }
+    },
+    "Sociedade Educacional Três de Maio": {
       "1aFase": {
+        "2014": {
+          "Team": 3,
+          "BestRank": 274
+        },
+        "2015": {
+          "Team": 3,
+          "BestRank": 407
+        },
+        "2016": {
+          "Team": 2,
+          "BestRank": 310
+        }
+      }
+    },
+    "Universidade Federal do Pampa - Campus Alegrete": {
+      "1aFase": {
+        "2014": {
+          "Team": 3,
+          "BestRank": 368
+        },
+        "2015": {
+          "Team": 1,
+          "BestRank": 135
+        },
+        "2017": {
+          "Team": 5,
+          "BestRank": 244
+        },
+        "2018": {
+          "Team": 6,
+          "BestRank": 241
+        }
+      }
+    },
+    "Universidade Regional Integrada - Campus de Santo Ângelo": {
+      "1aFase": {
+        "2014": {
+          "Team": 2,
+          "BestRank": 496
+        },
+        "2016": {
+          "Team": 1,
+          "BestRank": 679
+        }
+      }
+    },
+    "Universidade Regional do Noroeste do Estado do Rio Grande do Sul": {
+      "1aFase": {
+        "2014": {
+          "Team": 5,
+          "BestRank": 210
+        },
+        "2015": {
+          "Team": 2,
+          "BestRank": 214
+        },
         "2016": {
           "Team": 5,
           "BestRank": 368
@@ -6890,6 +8330,126 @@ INSTITUTIONS = {
           "Team": 2,
           "BestRank": 397
         }
+      },
+      "Nacional": {
+        "2014": {
+          "Team": 1,
+          "BestRank": 54
+        }
+      }
+    },
+    "Universidade de Santa Cruz do Sul": {
+      "1aFase": {
+        "2014": {
+          "Team": 3,
+          "BestRank": 255
+        }
+      }
+    },
+    "Faculdade de Tecnologia Senac Pelotas": {
+      "1aFase": {
+        "2015": {
+          "Team": 2,
+          "BestRank": 382
+        },
+        "2016": {
+          "Team": 3,
+          "BestRank": 367
+        },
+        "2017": {
+          "Team": 4,
+          "BestRank": 181
+        },
+        "2018": {
+          "Team": 4,
+          "BestRank": 341
+        }
+      }
+    },
+    "Instituto Federal Sul-Riograndense": {
+      "1aFase": {
+        "2015": {
+          "Team": 1,
+          "BestRank": 322
+        }
+      }
+    },
+    "Pontifícia Universidade Católica do Rio Grande do Sul": {
+      "1aFase": {
+        "2015": {
+          "Team": 2,
+          "BestRank": 421
+        },
+        "2016": {
+          "Team": 2,
+          "BestRank": 196
+        },
+        "2017": {
+          "Team": 2,
+          "BestRank": 151
+        },
+        "2018": {
+          "Team": 3,
+          "BestRank": 141
+        },
+        "2019": {
+          "Team": 2,
+          "BestRank": 395
+        }
+      },
+      "Nacional": {
+        "2017": {
+          "Team": 1,
+          "BestRank": 61
+        }
+      }
+    },
+    "Universidade Católica de Pelotas": {
+      "1aFase": {
+        "2015": {
+          "Team": 2,
+          "BestRank": 553
+        },
+        "2016": {
+          "Team": 2,
+          "BestRank": 696
+        },
+        "2017": {
+          "Team": 3,
+          "BestRank": 666
+        },
+        "2018": {
+          "Team": 2,
+          "BestRank": 461
+        },
+        "2020": {
+          "Team": 1,
+          "BestRank": 601
+        }
+      }
+    },
+    "Universidade Federal de Santa Catarina": {
+      "1aFase": {
+        "2015": {
+          "Team": 2,
+          "BestRank": 208
+        },
+        "2016": {
+          "Team": 2,
+          "BestRank": 224
+        }
+      }
+    },
+    "Universidade do Vale do Rio dos Sinos": {
+      "1aFase": {
+        "2015": {
+          "Team": 3,
+          "BestRank": 56
+        },
+        "2019": {
+          "Team": 1,
+          "BestRank": 384
+        }
       }
     },
     "Centro Universitário Franciscano": {
@@ -6905,22 +8465,6 @@ INSTITUTIONS = {
         "2016": {
           "Team": 1,
           "BestRank": 627
-        }
-      }
-    },
-    "Faculdade de Tecnologia Senac Pelotas": {
-      "1aFase": {
-        "2016": {
-          "Team": 3,
-          "BestRank": 367
-        },
-        "2017": {
-          "Team": 4,
-          "BestRank": 181
-        },
-        "2018": {
-          "Team": 4,
-          "BestRank": 341
         }
       }
     },
@@ -6980,40 +8524,6 @@ INSTITUTIONS = {
         }
       }
     },
-    "Pontifícia Universidade Católica do Rio Grande do Sul": {
-      "1aFase": {
-        "2016": {
-          "Team": 2,
-          "BestRank": 196
-        },
-        "2017": {
-          "Team": 2,
-          "BestRank": 151
-        },
-        "2018": {
-          "Team": 3,
-          "BestRank": 141
-        },
-        "2019": {
-          "Team": 2,
-          "BestRank": 395
-        }
-      },
-      "Nacional": {
-        "2017": {
-          "Team": 1,
-          "BestRank": 61
-        }
-      }
-    },
-    "Sociedade Educacional Três de Maio": {
-      "1aFase": {
-        "2016": {
-          "Team": 2,
-          "BestRank": 310
-        }
-      }
-    },
     "UNIJUI - Santa Rosa": {
       "1aFase": {
         "2016": {
@@ -7049,26 +8559,6 @@ INSTITUTIONS = {
         "2019": {
           "Team": 4,
           "BestRank": 130
-        }
-      }
-    },
-    "Universidade Católica de Pelotas": {
-      "1aFase": {
-        "2016": {
-          "Team": 2,
-          "BestRank": 696
-        },
-        "2017": {
-          "Team": 3,
-          "BestRank": 666
-        },
-        "2018": {
-          "Team": 2,
-          "BestRank": 461
-        },
-        "2020": {
-          "Team": 1,
-          "BestRank": 601
         }
       }
     },
@@ -7112,22 +8602,6 @@ INSTITUTIONS = {
         }
       }
     },
-    "Universidade Federal de Santa Catarina": {
-      "1aFase": {
-        "2016": {
-          "Team": 2,
-          "BestRank": 224
-        }
-      }
-    },
-    "Universidade Regional Integrada - Campus de Santo Ângelo": {
-      "1aFase": {
-        "2016": {
-          "Team": 1,
-          "BestRank": 679
-        }
-      }
-    },
     "Faculdades Santa Rita": {
       "1aFase": {
         "2017": {
@@ -7141,18 +8615,6 @@ INSTITUTIONS = {
         "2017": {
           "Team": 1,
           "BestRank": 589
-        }
-      }
-    },
-    "Universidade Federal do Pampa - Campus Alegrete": {
-      "1aFase": {
-        "2017": {
-          "Team": 5,
-          "BestRank": 244
-        },
-        "2018": {
-          "Team": 6,
-          "BestRank": 241
         }
       }
     },
@@ -7203,14 +8665,6 @@ INSTITUTIONS = {
           "BestRank": 164
         }
       }
-    },
-    "Universidade do Vale do Rio dos Sinos": {
-      "1aFase": {
-        "2019": {
-          "Team": 1,
-          "BestRank": 384
-        }
-      }
     }
   },
   "SC": {
@@ -7247,6 +8701,12 @@ INSTITUTIONS = {
         "2014": {
           "Team": 1,
           "BestRank": 18
+        }
+      },
+      "1aFase": {
+        "2015": {
+          "Team": 1,
+          "BestRank": 31
         }
       }
     },
@@ -7294,6 +8754,14 @@ INSTITUTIONS = {
         }
       },
       "1aFase": {
+        "2014": {
+          "Team": 11,
+          "BestRank": 31
+        },
+        "2015": {
+          "Team": 9,
+          "BestRank": 26
+        },
         "2016": {
           "Team": 11,
           "BestRank": 59
@@ -7328,6 +8796,14 @@ INSTITUTIONS = {
         }
       },
       "1aFase": {
+        "2014": {
+          "Team": 3,
+          "BestRank": 77
+        },
+        "2015": {
+          "Team": 4,
+          "BestRank": 112
+        },
         "2016": {
           "Team": 4,
           "BestRank": 308
@@ -7343,6 +8819,12 @@ INSTITUTIONS = {
         "2011": {
           "Team": 1,
           "BestRank": 22
+        }
+      },
+      "1aFase": {
+        "2015": {
+          "Team": 2,
+          "BestRank": 235
         }
       }
     },
@@ -7392,23 +8874,143 @@ INSTITUTIONS = {
         }
       },
       "1aFase": {
+        "2014": {
+          "Team": 3,
+          "BestRank": 64
+        },
+        "2015": {
+          "Team": 3,
+          "BestRank": 33
+        },
         "2020": {
           "Team": 5,
           "BestRank": 204
         }
       }
     },
+    "IDEAU - Instituto de Desenvolvimento Educacional do Alto Uruguai": {
+      "1aFase": {
+        "2014": {
+          "Team": 2,
+          "BestRank": 472
+        },
+        "2015": {
+          "Team": 2,
+          "BestRank": 281
+        }
+      }
+    },
     "UNOESC - Universidade do Oeste de Santa Catarina - Chapecó": {
+      "1aFase": {
+        "2014": {
+          "Team": 3,
+          "BestRank": 147
+        },
+        "2015": {
+          "Team": 4,
+          "BestRank": 124
+        },
+        "2020": {
+          "Team": 5,
+          "BestRank": 183
+        }
+      },
       "Nacional": {
         "2015": {
           "Team": 1,
           "BestRank": 48
         }
-      },
+      }
+    },
+    "UNOESC - Universidade do Oeste de Santa Catarina - Xanxerê": {
       "1aFase": {
-        "2020": {
+        "2014": {
           "Team": 5,
-          "BestRank": 183
+          "BestRank": 355
+        }
+      }
+    },
+    "Universidade Comunitária Regional de Chapecó": {
+      "1aFase": {
+        "2014": {
+          "Team": 1,
+          "BestRank": 357
+        },
+        "2015": {
+          "Team": 2,
+          "BestRank": 442
+        },
+        "2020": {
+          "Team": 7,
+          "BestRank": 284
+        }
+      }
+    },
+    "Universidade Comunitária da Região de Chapecó - Campus São Lourenço do Oeste": {
+      "1aFase": {
+        "2014": {
+          "Team": 1,
+          "BestRank": 419
+        }
+      }
+    },
+    "Universidade Regional Integrada - Campus de Frederico Westphalen": {
+      "1aFase": {
+        "2014": {
+          "Team": 3,
+          "BestRank": 553
+        }
+      }
+    },
+    "Universidade do Oeste de Santa Catarina - Joaçaba": {
+      "1aFase": {
+        "2014": {
+          "Team": 2,
+          "BestRank": 331
+        },
+        "2020": {
+          "Team": 1,
+          "BestRank": 638
+        }
+      }
+    },
+    "Centro de Educação do Planalto Norte": {
+      "1aFase": {
+        "2015": {
+          "Team": 1,
+          "BestRank": 539
+        },
+        "2016": {
+          "Team": 1,
+          "BestRank": 413
+        },
+        "2018": {
+          "Team": 1,
+          "BestRank": 617
+        }
+      }
+    },
+    "UNOESC - Universidade do Oeste de Santa Catarina": {
+      "1aFase": {
+        "2015": {
+          "Team": 2,
+          "BestRank": 241
+        }
+      }
+    },
+    "Universidade do Estado de Santa Catarina - CEAVI": {
+      "1aFase": {
+        "2015": {
+          "Team": 1,
+          "BestRank": 405
+        },
+        "2016": {
+          "Team": 1,
+          "BestRank": 471
+        },
+        "2018": {
+          "Team": 1,
+          "BestRank": 455
         }
       }
     },
@@ -7421,18 +9023,6 @@ INSTITUTIONS = {
         "2017": {
           "Team": 3,
           "BestRank": 292
-        }
-      }
-    },
-    "Centro de Educação do Planalto Norte": {
-      "1aFase": {
-        "2016": {
-          "Team": 1,
-          "BestRank": 413
-        },
-        "2018": {
-          "Team": 1,
-          "BestRank": 617
         }
       }
     },
@@ -7453,18 +9043,6 @@ INSTITUTIONS = {
         "2020": {
           "Team": 2,
           "BestRank": 576
-        }
-      }
-    },
-    "Universidade do Estado de Santa Catarina - CEAVI": {
-      "1aFase": {
-        "2016": {
-          "Team": 1,
-          "BestRank": 471
-        },
-        "2018": {
-          "Team": 1,
-          "BestRank": 455
         }
       }
     },
@@ -7569,22 +9147,6 @@ INSTITUTIONS = {
           "BestRank": 380
         }
       }
-    },
-    "Universidade Comunitária Regional de Chapecó": {
-      "1aFase": {
-        "2020": {
-          "Team": 7,
-          "BestRank": 284
-        }
-      }
-    },
-    "Universidade do Oeste de Santa Catarina - Joaçaba": {
-      "1aFase": {
-        "2020": {
-          "Team": 1,
-          "BestRank": 638
-        }
-      }
     }
   },
   "MS": {
@@ -7632,6 +9194,10 @@ INSTITUTIONS = {
         }
       },
       "1aFase": {
+        "2015": {
+          "Team": 2,
+          "BestRank": 329
+        },
         "2016": {
           "Team": 3,
           "BestRank": 93
@@ -7654,22 +9220,16 @@ INSTITUTIONS = {
         }
       }
     },
-    "Universidade Federal do Mato Grosso do Sul": {
-      "Nacional": {
-        "2014": {
-          "Team": 1,
-          "BestRank": 24
-        }
-      }
-    },
     "Campus de Ponta Porã - Universidade Federal de Mato Grosso do Sul": {
-      "Nacional": {
-        "2015": {
-          "Team": 1,
-          "BestRank": 38
-        }
-      },
       "1aFase": {
+        "2014": {
+          "Team": 3,
+          "BestRank": 94
+        },
+        "2015": {
+          "Team": 3,
+          "BestRank": 59
+        },
         "2016": {
           "Team": 3,
           "BestRank": 150
@@ -7682,18 +9242,66 @@ INSTITUTIONS = {
           "Team": 2,
           "BestRank": 232
         }
+      },
+      "Nacional": {
+        "2015": {
+          "Team": 1,
+          "BestRank": 38
+        }
       }
     },
     "Departamento de Ciências Exatas - CPCX/UFMS": {
       "1aFase": {
+        "2014": {
+          "Team": 2,
+          "BestRank": 276
+        },
+        "2015": {
+          "Team": 2,
+          "BestRank": 472
+        },
         "2016": {
           "Team": 1,
           "BestRank": 151
         }
       }
     },
+    "Universidade Federal de Mato Grosso do Sul - Campus do Pantanal": {
+      "1aFase": {
+        "2014": {
+          "Team": 2,
+          "BestRank": 273
+        },
+        "2016": {
+          "Team": 2,
+          "BestRank": 366
+        },
+        "2017": {
+          "Team": 1,
+          "BestRank": 283
+        }
+      }
+    },
+    "Universidade Federal do Mato Grosso do Sul": {
+      "1aFase": {
+        "2014": {
+          "Team": 2,
+          "BestRank": 56
+        }
+      },
+      "Nacional": {
+        "2014": {
+          "Team": 1,
+          "BestRank": 24
+        }
+      }
+    },
     "Universidade Católica Dom Bosco": {
       "1aFase": {
+        "2015": {
+          "Team": 2,
+          "BestRank": 429
+        },
         "2016": {
           "Team": 2,
           "BestRank": 214
@@ -7709,18 +9317,6 @@ INSTITUTIONS = {
         "2019": {
           "Team": 2,
           "BestRank": 117
-        }
-      }
-    },
-    "Universidade Federal de Mato Grosso do Sul - Campus do Pantanal": {
-      "1aFase": {
-        "2016": {
-          "Team": 2,
-          "BestRank": 366
-        },
-        "2017": {
-          "Team": 1,
-          "BestRank": 283
         }
       }
     },
@@ -7844,6 +9440,14 @@ INSTITUTIONS = {
         }
       },
       "1aFase": {
+        "2014": {
+          "Team": 2,
+          "BestRank": 119
+        },
+        "2015": {
+          "Team": 5,
+          "BestRank": 300
+        },
         "2016": {
           "Team": 3,
           "BestRank": 96
@@ -7902,6 +9506,14 @@ INSTITUTIONS = {
         }
       },
       "1aFase": {
+        "2014": {
+          "Team": 4,
+          "BestRank": 29
+        },
+        "2015": {
+          "Team": 5,
+          "BestRank": 16
+        },
         "2016": {
           "Team": 8,
           "BestRank": 2
@@ -7952,6 +9564,14 @@ INSTITUTIONS = {
         }
       },
       "1aFase": {
+        "2014": {
+          "Team": 2,
+          "BestRank": 81
+        },
+        "2015": {
+          "Team": 6,
+          "BestRank": 119
+        },
         "2016": {
           "Team": 2,
           "BestRank": 61
@@ -7975,6 +9595,12 @@ INSTITUTIONS = {
         "2011": {
           "Team": 1,
           "BestRank": 26
+        }
+      },
+      "1aFase": {
+        "2014": {
+          "Team": 1,
+          "BestRank": 488
         }
       }
     },
@@ -8010,9 +9636,131 @@ INSTITUTIONS = {
     },
     "Faculdade Independente do Nordeste - Fainor": {
       "1aFase": {
+        "2014": {
+          "Team": 2,
+          "BestRank": 425
+        },
         "2016": {
           "Team": 1,
           "BestRank": 723
+        }
+      }
+    },
+    "Instituto Federal de Educação, Ciência e Tecnologia da Bahia - Campus Vitória da Conquista": {
+      "1aFase": {
+        "2014": {
+          "Team": 3,
+          "BestRank": 330
+        },
+        "2016": {
+          "Team": 1,
+          "BestRank": 271
+        }
+      }
+    },
+    "UNIME - União Metropolitana de Educação e Cultura": {
+      "1aFase": {
+        "2014": {
+          "Team": 1,
+          "BestRank": 268
+        },
+        "2015": {
+          "Team": 1,
+          "BestRank": 187
+        },
+        "2016": {
+          "Team": 2,
+          "BestRank": 305
+        },
+        "2017": {
+          "Team": 2,
+          "BestRank": 284
+        },
+        "2019": {
+          "Team": 3,
+          "BestRank": 253
+        }
+      },
+      "Nacional": {
+        "2016": {
+          "Team": 1,
+          "BestRank": 58
+        }
+      }
+    },
+    "Área1 – Faculdade de Ciência e Tecnologia": {
+      "1aFase": {
+        "2014": {
+          "Team": 1,
+          "BestRank": 445
+        },
+        "2015": {
+          "Team": 1,
+          "BestRank": 543
+        },
+        "2016": {
+          "Team": 1,
+          "BestRank": 468
+        },
+        "2017": {
+          "Team": 2,
+          "BestRank": 348
+        }
+      }
+    },
+    "Faculdade Ruy Barbosa": {
+      "1aFase": {
+        "2015": {
+          "Team": 1,
+          "BestRank": 450
+        }
+      }
+    },
+    "Faculdade de Tecnologia e Ciências": {
+      "1aFase": {
+        "2015": {
+          "Team": 1,
+          "BestRank": 583
+        },
+        "2016": {
+          "Team": 2,
+          "BestRank": 614
+        }
+      }
+    },
+    "Instituto Federal de Educação, Ciência e Tecnologia do Sertão Pernambucano": {
+      "1aFase": {
+        "2015": {
+          "Team": 1,
+          "BestRank": 573
+        }
+      }
+    },
+    "Universidade Federal do Recôncavo da Bahia": {
+      "1aFase": {
+        "2015": {
+          "Team": 1,
+          "BestRank": 529
+        }
+      }
+    },
+    "Universidade do Estado da Bahia": {
+      "1aFase": {
+        "2015": {
+          "Team": 1,
+          "BestRank": 328
+        },
+        "2016": {
+          "Team": 2,
+          "BestRank": 307
+        },
+        "2017": {
+          "Team": 1,
+          "BestRank": 355
+        },
+        "2018": {
+          "Team": 3,
+          "BestRank": 159
         }
       }
     },
@@ -8033,44 +9781,6 @@ INSTITUTIONS = {
         "2019": {
           "Team": 5,
           "BestRank": 124
-        }
-      }
-    },
-    "Faculdade de Tecnologia e Ciências": {
-      "1aFase": {
-        "2016": {
-          "Team": 2,
-          "BestRank": 614
-        }
-      }
-    },
-    "Instituto Federal de Educação, Ciência e Tecnologia da Bahia - Campus Vitória da Conquista": {
-      "1aFase": {
-        "2016": {
-          "Team": 1,
-          "BestRank": 271
-        }
-      }
-    },
-    "UNIME - União Metropolitana de Educação e Cultura": {
-      "1aFase": {
-        "2016": {
-          "Team": 2,
-          "BestRank": 305
-        },
-        "2017": {
-          "Team": 2,
-          "BestRank": 284
-        },
-        "2019": {
-          "Team": 3,
-          "BestRank": 253
-        }
-      },
-      "Nacional": {
-        "2016": {
-          "Team": 1,
-          "BestRank": 58
         }
       }
     },
@@ -8111,34 +9821,6 @@ INSTITUTIONS = {
         "2019": {
           "Team": 3,
           "BestRank": 156
-        }
-      }
-    },
-    "Universidade do Estado da Bahia": {
-      "1aFase": {
-        "2016": {
-          "Team": 2,
-          "BestRank": 307
-        },
-        "2017": {
-          "Team": 1,
-          "BestRank": 355
-        },
-        "2018": {
-          "Team": 3,
-          "BestRank": 159
-        }
-      }
-    },
-    "Área1 – Faculdade de Ciência e Tecnologia": {
-      "1aFase": {
-        "2016": {
-          "Team": 1,
-          "BestRank": 468
-        },
-        "2017": {
-          "Team": 2,
-          "BestRank": 348
         }
       }
     },
@@ -8222,6 +9904,10 @@ INSTITUTIONS = {
         }
       },
       "1aFase": {
+        "2014": {
+          "Team": 3,
+          "BestRank": 125
+        },
         "2016": {
           "Team": 4,
           "BestRank": 92
@@ -8256,6 +9942,14 @@ INSTITUTIONS = {
         }
       },
       "1aFase": {
+        "2014": {
+          "Team": 5,
+          "BestRank": 167
+        },
+        "2015": {
+          "Team": 5,
+          "BestRank": 87
+        },
         "2016": {
           "Team": 3,
           "BestRank": 515
@@ -8308,24 +10002,12 @@ INSTITUTIONS = {
         }
       }
     },
-    "Centro Universitário Estácio da Amazônia": {
-      "1aFase": {
-        "2017": {
-          "Team": 6,
-          "BestRank": 254
-        },
-        "2018": {
-          "Team": 2,
-          "BestRank": 278
-        },
-        "2019": {
-          "Team": 2,
-          "BestRank": 157
-        }
-      }
-    },
     "Universidade Federal de Roraima": {
       "1aFase": {
+        "2014": {
+          "Team": 5,
+          "BestRank": 421
+        },
         "2017": {
           "Team": 1,
           "BestRank": 174
@@ -8351,6 +10033,22 @@ INSTITUTIONS = {
         "2018": {
           "Team": 1,
           "BestRank": 47
+        }
+      }
+    },
+    "Centro Universitário Estácio da Amazônia": {
+      "1aFase": {
+        "2017": {
+          "Team": 6,
+          "BestRank": 254
+        },
+        "2018": {
+          "Team": 2,
+          "BestRank": 278
+        },
+        "2019": {
+          "Team": 2,
+          "BestRank": 157
         }
       }
     }
@@ -8396,6 +10094,14 @@ INSTITUTIONS = {
         }
       },
       "1aFase": {
+        "2014": {
+          "Team": 11,
+          "BestRank": 9
+        },
+        "2015": {
+          "Team": 6,
+          "BestRank": 8
+        },
         "2016": {
           "Team": 7,
           "BestRank": 8
@@ -8418,14 +10124,28 @@ INSTITUTIONS = {
         }
       }
     },
-    "Universidade do Estado do Rio Grande do Norte": {
-      "Nacional": {
+    "Escola Agrícola de Jundiaí - UFRN": {
+      "1aFase": {
+        "2014": {
+          "Team": 4,
+          "BestRank": 467
+        },
         "2015": {
           "Team": 1,
-          "BestRank": 42
+          "BestRank": 489
         }
-      },
+      }
+    },
+    "Universidade do Estado do Rio Grande do Norte": {
       "1aFase": {
+        "2014": {
+          "Team": 3,
+          "BestRank": 364
+        },
+        "2015": {
+          "Team": 2,
+          "BestRank": 213
+        },
         "2016": {
           "Team": 3,
           "BestRank": 258
@@ -8446,10 +10166,20 @@ INSTITUTIONS = {
           "Team": 1,
           "BestRank": 582
         }
+      },
+      "Nacional": {
+        "2015": {
+          "Team": 1,
+          "BestRank": 42
+        }
       }
     },
     "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte - Campus Natal-Central": {
       "1aFase": {
+        "2015": {
+          "Team": 4,
+          "BestRank": 307
+        },
         "2016": {
           "Team": 3,
           "BestRank": 218
@@ -8512,6 +10242,12 @@ INSTITUTIONS = {
           "Team": 1,
           "BestRank": 54
         }
+      },
+      "1aFase": {
+        "2015": {
+          "Team": 1,
+          "BestRank": 505
+        }
       }
     },
     "Fundação Universidade Federal de Rondônia": {
@@ -8526,6 +10262,10 @@ INSTITUTIONS = {
         }
       },
       "1aFase": {
+        "2014": {
+          "Team": 4,
+          "BestRank": 303
+        },
         "2018": {
           "Team": 4,
           "BestRank": 413
@@ -8536,17 +10276,33 @@ INSTITUTIONS = {
         }
       }
     },
+    "FATEC Porto Velho": {
+      "1aFase": {
+        "2014": {
+          "Team": 1,
+          "BestRank": 637
+        }
+      }
+    },
     "Faculdade de Porto Velho": {
+      "1aFase": {
+        "2014": {
+          "Team": 2,
+          "BestRank": 252
+        },
+        "2015": {
+          "Team": 3,
+          "BestRank": 236
+        },
+        "2016": {
+          "Team": 1,
+          "BestRank": 350
+        }
+      },
       "Nacional": {
         "2015": {
           "Team": 1,
           "BestRank": 62
-        }
-      },
-      "1aFase": {
-        "2016": {
-          "Team": 1,
-          "BestRank": 350
         }
       }
     },
@@ -8596,6 +10352,10 @@ INSTITUTIONS = {
         }
       },
       "1aFase": {
+        "2015": {
+          "Team": 4,
+          "BestRank": 249
+        },
         "2016": {
           "Team": 4,
           "BestRank": 73
@@ -8610,8 +10370,20 @@ INSTITUTIONS = {
         }
       }
     },
+    "Centro Universitário Luterano de Palmas": {
+      "1aFase": {
+        "2015": {
+          "Team": 1,
+          "BestRank": 460
+        }
+      }
+    },
     "Centro Universitário UNIRG": {
       "1aFase": {
+        "2015": {
+          "Team": 1,
+          "BestRank": 533
+        },
         "2016": {
           "Team": 2,
           "BestRank": 438
@@ -8738,9 +10510,37 @@ INSTITUTIONS = {
           "Team": 1,
           "BestRank": 49
         }
+      },
+      "1aFase": {
+        "2014": {
+          "Team": 2,
+          "BestRank": 240
+        }
       }
     },
     "Universidade Federal de Mato Grosso - Campus Cuiabá": {
+      "1aFase": {
+        "2014": {
+          "Team": 6,
+          "BestRank": 72
+        },
+        "2015": {
+          "Team": 6,
+          "BestRank": 175
+        },
+        "2016": {
+          "Team": 14,
+          "BestRank": 276
+        },
+        "2017": {
+          "Team": 19,
+          "BestRank": 259
+        },
+        "2020": {
+          "Team": 7,
+          "BestRank": 241
+        }
+      },
       "Nacional": {
         "2014": {
           "Team": 1,
@@ -8754,19 +10554,17 @@ INSTITUTIONS = {
           "Team": 1,
           "BestRank": 66
         }
-      },
+      }
+    },
+    "Universidade Federal de Mato Grosso - Campus Rondonópolis": {
       "1aFase": {
-        "2016": {
-          "Team": 14,
-          "BestRank": 276
+        "2014": {
+          "Team": 3,
+          "BestRank": 322
         },
         "2017": {
-          "Team": 19,
-          "BestRank": 259
-        },
-        "2020": {
-          "Team": 7,
-          "BestRank": 241
+          "Team": 4,
+          "BestRank": 574
         }
       }
     },
@@ -8782,14 +10580,6 @@ INSTITUTIONS = {
         }
       }
     },
-    "Universidade Federal de Mato Grosso - Campus Rondonópolis": {
-      "1aFase": {
-        "2017": {
-          "Team": 4,
-          "BestRank": 574
-        }
-      }
-    },
     "Universidade do Estado de Mato Grosso": {
       "1aFase": {
         "2020": {
@@ -8801,6 +10591,20 @@ INSTITUTIONS = {
   },
   "AL": {
     "Universidade Federal de Alagoas": {
+      "1aFase": {
+        "2014": {
+          "Team": 2,
+          "BestRank": 182
+        },
+        "2015": {
+          "Team": 1,
+          "BestRank": 89
+        },
+        "2020": {
+          "Team": 8,
+          "BestRank": 35
+        }
+      },
       "Nacional": {
         "2015": {
           "Team": 1,
@@ -8814,32 +10618,42 @@ INSTITUTIONS = {
           "Team": 1,
           "BestRank": 26
         }
-      },
-      "1aFase": {
-        "2020": {
-          "Team": 8,
-          "BestRank": 35
-        }
       }
     },
     "Universidade Federal de Alagoas - Campus Arapiraca": {
+      "1aFase": {
+        "2014": {
+          "Team": 3,
+          "BestRank": 650
+        },
+        "2020": {
+          "Team": 1,
+          "BestRank": 71
+        }
+      },
       "Nacional": {
         "2018": {
           "Team": 1,
           "BestRank": 32
         }
-      },
-      "1aFase": {
-        "2020": {
-          "Team": 1,
-          "BestRank": 71
-        }
       }
     }
   },
   "AP": {
+    "Estácio SEAMA": {
+      "1aFase": {
+        "2014": {
+          "Team": 3,
+          "BestRank": 236
+        }
+      }
+    },
     "Universidade Federal do Amapá": {
       "1aFase": {
+        "2014": {
+          "Team": 3,
+          "BestRank": 501
+        },
         "2016": {
           "Team": 1,
           "BestRank": 728
