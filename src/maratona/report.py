@@ -157,7 +157,7 @@ def _guess_institution_region(institution):
     return UF_REGION[uf]
 
 
-def _guess_institution_UF(institution):
+def _guess_institution_UF(institution, site):
     uf = _get_institution_UF(institution)
     if uf != NATIONAL_UF:
         return uf
@@ -168,7 +168,8 @@ def _guess_institution_UF(institution):
                       _normalize(institution, False), re.IGNORECASE) or
             re.search(f'\\b{uf}\\b', institution, re.IGNORECASE) or
             re.search(f'\\buf{uf[0]}[{uf[1]}]{{0,1}}\\b',
-                      institution, re.IGNORECASE)):
+                      institution, re.IGNORECASE) or
+            re.search(f'\\b{uf}\\b', site, re.IGNORECASE)):
 
             return uf
 
@@ -219,7 +220,7 @@ def _preprocess(df, guess_uf=False, verbose=True):
     df['UF'] = df['UF'].apply(_get_UF)
     if guess_uf:
         for i, row in df[df['UF'] == NATIONAL_UF].iterrows():
-            df.at[i, 'UF'] = _guess_institution_UF(row['Institution'])
+            df.at[i, 'UF'] = _guess_institution_UF(row['Institution'], row['Site'])
 
     df['Region'] = [UF_REGION.get(uf, NATIONAL_REGION) for uf in df['UF']]
     df['Site'] = df['Site'].apply(_get_site)
