@@ -13,14 +13,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Distrito Federal",
           "Short name": "CU - IESB",
           "Contestants": [
-            "Ygor Arêda",
+            "Lucas Ferreira",
             "Diego Santos",
-            "Lucas Ferreira"
+            "Ygor Arêda"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Rodrigo Guimarães"
         },
@@ -30,14 +30,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Distrito Federal",
           "Short name": "CU - IESB",
           "Contestants": [
-            "João Souza",
+            "Isabela Dos Santos Pinheiro",
             "Isabella Ricci",
-            "Isabela Dos Santos Pinheiro"
+            "João Souza"
           ],
           "Sex": [
-            "Male",
-            "Female",
-            "Female"
+            "FEMALE",
+            "FEMALE",
+            "MALE"
           ],
           "Coach": "Rodrigo Guimarães"
         }
@@ -49,14 +49,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Distrito Federal",
           "Short name": "UniCEUB",
           "Contestants": [
-            "Fabio Tepedino Martins",
-            "Ryron Marins",
-            "Rafael Albuquerque"
+            "Fabio Tepedino",
+            "Rafael Albuquerque",
+            "Ryron Marins"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Aderbal Neto"
         },
@@ -67,13 +67,13 @@ CONTESTS[2020]["1aFase"] = {
           "Short name": "UniCEUB",
           "Contestants": [
             "Leonardo Farias",
-            "Felipe Novais",
-            "Francisco Pena"
+            "Francisco Pena",
+            "Felipe Novais"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Aderbal Neto"
         },
@@ -83,14 +83,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Distrito Federal",
           "Short name": "UniCEUB",
           "Contestants": [
-            "Pedro Ferreira",
             "Octávio Fernandes Pereira",
-            "Lucas Guerra"
+            "Lucas Guerra",
+            "Pedro Ferreira"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Aderbal Neto"
         },
@@ -100,14 +100,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Distrito Federal",
           "Short name": "UniCEUB",
           "Contestants": [
-            "Henrique Leite",
             "George Araújo",
-            "Victor Masashi Ofuji"
+            "Victor Masashi Ofuji",
+            "Henrique Leite"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Aderbal Neto"
         },
@@ -117,14 +117,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Distrito Federal",
           "Short name": "UniCEUB",
           "Contestants": [
-            "Geovanne Lima",
+            "Victor Garcia",
             "Marco Couto",
-            "Victor Garcia"
+            "Geovanne Lima"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Aderbal Neto"
         }
@@ -136,14 +136,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Distrito Federal",
           "Short name": "IFB",
           "Contestants": [
-            "Guilherme Paiva",
+            "Gustavo Costa",
             "Maxwell Oliveira",
-            "Gustavo Costa"
+            "Guilherme Paiva"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Daniel Nunes"
         },
@@ -153,14 +153,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Distrito Federal",
           "Short name": "IFB",
           "Contestants": [
-            "Gabriela Sales",
+            "Leandro Rodrigues",
             "Alexandre Silva",
-            "Leandro Rodrigues"
+            "Gabriela Sales"
           ],
           "Sex": [
-            "Female",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "FEMALE"
           ],
           "Coach": "Daniel Nunes"
         }
@@ -172,14 +172,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Distrito Federal",
           "Short name": "UnB",
           "Contestants": [
-            "Andressa Sena",
             "Letícia Xavier De Oliveira",
-            "Tong Zhou"
+            "Tong Zhou",
+            "Andressa Sena"
           ],
           "Sex": [
-            "Female",
-            "Female",
-            "Female"
+            "FEMALE",
+            "FEMALE",
+            "FEMALE"
           ],
           "Coach": "Guilherme Ramos"
         },
@@ -189,14 +189,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Distrito Federal",
           "Short name": "UnB",
           "Contestants": [
-            "Karen Macêdo",
+            "Victoria Farias",
             "Eduarda Holanda",
-            "Victoria Farias"
+            "Karen Macêdo"
           ],
           "Sex": [
-            "Female",
-            "Female",
-            "Female"
+            "FEMALE",
+            "FEMALE",
+            "FEMALE"
           ],
           "Coach": "Guilherme Ramos"
         },
@@ -206,14 +206,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Distrito Federal",
           "Short name": "UnB",
           "Contestants": [
-            "Leo Silva",
+            "Gabriel Levi Gomes Da Silva",
             "Gabriel Fonseca",
-            "Gabriel Levi Gomes Da Silva"
+            "Leo Silva"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Guilherme Ramos"
         },
@@ -223,14 +223,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Distrito Federal",
           "Short name": "UnB",
           "Contestants": [
+            "Maria Claudia Campos Martins",
             "Gabriel Delolmo Erhardt",
-            "Eduarda Lacerda",
-            "Maria Claudia Campos Martins"
+            "Eduarda Lacerda"
           ],
           "Sex": [
-            "Male",
-            "Female",
-            "Female"
+            "FEMALE",
+            "MALE",
+            "FEMALE"
           ],
           "Coach": "Guilherme Ramos"
         },
@@ -240,14 +240,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Distrito Federal",
           "Short name": "UnB",
           "Contestants": [
-            "Gabriel Nogueira",
+            "Davi Salomao Soares Correa",
             "Teshi Kaue Tsurumi Bafica",
-            "Davi Salomao Soares Correa"
+            "Gabriel Nogueira"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Guilherme Ramos"
         },
@@ -257,14 +257,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Distrito Federal",
           "Short name": "UnB",
           "Contestants": [
-            "Lucca Moreira Moiolli Rordrigues",
+            "Maria Eduarda Carvalho Santos",
             "Edgar Sampaio De Barros",
-            "Maria Eduarda Carvalho Santos"
+            "Lucca Moreira Moiolli Rordrigues"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Female"
+            "FEMALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Guilherme Ramos"
         },
@@ -274,14 +274,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Distrito Federal",
           "Short name": "UnB",
           "Contestants": [
-            "Luiz Martins",
+            "Alexandre Silva",
             "Vinicius Silva",
-            "Alexandre Silva"
+            "Luiz Martins"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Guilherme Ramos"
         },
@@ -291,14 +291,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Distrito Federal",
           "Short name": "UnB",
           "Contestants": [
-            "Alberto Neto",
+            "Tiago Fernandes",
             "Anderson Vieira Do Nascimento",
-            "Tiago Fernandes"
+            "Alberto Neto"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Guilherme Ramos"
         },
@@ -308,14 +308,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Distrito Federal",
           "Short name": "UnB",
           "Contestants": [
-            "Raylan Sales",
+            "João Gabriel Ferreira Saraiva",
             "Carlos Eduardo De Oliveira Ribeiro",
-            "João Gabriel Ferreira Saraiva"
+            "Raylan Sales"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Guilherme Ramos"
         },
@@ -325,14 +325,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Distrito Federal",
           "Short name": "UnB",
           "Contestants": [
-            "João Pinheiro",
+            "Stefano Spósito",
             "Vitor Oliveira",
-            "Stefano Spósito"
+            "João Pinheiro"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Guilherme Ramos"
         },
@@ -342,14 +342,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Distrito Federal",
           "Short name": "UnB",
           "Contestants": [
-            "João Targino",
+            "Gabriel Martins",
             "Giovana Garcia",
-            "Gabriel Martins"
+            "João Targino"
           ],
           "Sex": [
-            "Male",
-            "Female",
-            "Male"
+            "MALE",
+            "FEMALE",
+            "MALE"
           ],
           "Coach": "Guilherme Ramos"
         },
@@ -359,14 +359,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Distrito Federal",
           "Short name": "UnB",
           "Contestants": [
-            "Andre Cassio",
             "Vitor Fernandes Dullens",
+            "Andre Cassio",
             "Carolina Machado"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Female"
+            "MALE",
+            "MALE",
+            "FEMALE"
           ],
           "Coach": "Guilherme Ramos"
         },
@@ -377,13 +377,13 @@ CONTESTS[2020]["1aFase"] = {
           "Short name": "UnB",
           "Contestants": [
             "Matheus Freires",
-            "Raphael Paula Leite Müller",
-            "Bruno Esteves"
+            "Bruno Esteves",
+            "Raphael Paula Leite Müller"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Guilherme Ramos"
         },
@@ -393,14 +393,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Distrito Federal",
           "Short name": "UnB",
           "Contestants": [
-            "Bruno Marino",
+            "Pablo Araujo",
             "Caio Mendes",
-            "Pablo Araujo"
+            "Bruno Marino"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Guilherme Ramos"
         },
@@ -410,14 +410,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Distrito Federal",
           "Short name": "UnB",
           "Contestants": [
-            "Marcelo Junqueira Ferreira",
             "Victor Manuel Brito Santos",
-            "Vinícius Lima Passos"
+            "Vinícius Lima Passos",
+            "Marcelo Junqueira Ferreira"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Guilherme Ramos"
         },
@@ -427,14 +427,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Distrito Federal",
           "Short name": "UnB",
           "Contestants": [
-            "Thiago Veras Machado",
+            "Mikael Mello",
             "Leonardo Riether",
-            "Mikael Mello"
+            "Thiago Veras Machado"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Guilherme Ramos"
         },
@@ -444,14 +444,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Distrito Federal",
           "Short name": "UnB",
           "Contestants": [
-            "Luca Barbabella",
+            "Enzo Niho",
             "Gabriel Rocha",
-            "Enzo Niho"
+            "Luca Barbabella"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Guilherme Ramos"
         },
@@ -461,14 +461,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Distrito Federal",
           "Short name": "UnB",
           "Contestants": [
-            "Wallace Wu",
+            "Raul Myron Amorim",
             "Lucas Ramson",
-            "Raul Myron Amorim"
+            "Wallace Wu"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Guilherme Ramos"
         },
@@ -478,14 +478,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Distrito Federal",
           "Short name": "UnB",
           "Contestants": [
-            "Caio Brandão",
+            "Felipe Xavier Barbosa Da Silva",
             "Oscar Silva",
-            "Felipe Xavier Barbosa Da Silva"
+            "Caio Brandão"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Guilherme Ramos"
         }
@@ -497,14 +497,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Distrito Federal",
           "Short name": "UnB/FGA",
           "Contestants": [
-            "Eugenio Siqueira",
+            "Gustavo Rodrigues",
             "Bruno Duarte",
-            "Gustavo Rodrigues"
+            "Eugenio Siqueira"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Edson Junior"
         },
@@ -514,14 +514,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Distrito Federal",
           "Short name": "UnB/FGA",
           "Contestants": [
-            "Paulovitor Rocha",
+            "Ivan Dobbin",
             "Vítor Xoteslem",
-            "Ivan Dobbin"
+            "Paulovitor Rocha"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Edson Junior"
         },
@@ -531,14 +531,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Distrito Federal",
           "Short name": "UnB/FGA",
           "Contestants": [
-            "Rogério Júnior",
+            "Lucas Fellipe Carvalho Moreira",
             "Iuri De Souza Severo Alves",
-            "Lucas Fellipe Carvalho Moreira"
+            "Rogério Júnior"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Edson Junior"
         },
@@ -548,14 +548,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Distrito Federal",
           "Short name": "UnB/FGA",
           "Contestants": [
-            "Lucas Rosa",
+            "Bruno Gomes",
             "Leonardo Medeiros",
-            "Bruno Gomes"
+            "Lucas Rosa"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Edson Junior"
         },
@@ -565,14 +565,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Distrito Federal",
           "Short name": "UnB/FGA",
           "Contestants": [
-            "Thiago Ferreira",
+            "Gustavo Marques",
             "Joao Carvalho",
-            "Gustavo Marques"
+            "Thiago Ferreira"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Edson Junior"
         },
@@ -582,14 +582,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Distrito Federal",
           "Short name": "UnB/FGA",
           "Contestants": [
-            "Pedro Bayma",
+            "Matheus Gabriel",
             "Pedro Lima",
-            "Matheus Gabriel"
+            "Pedro Bayma"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Edson Junior"
         },
@@ -599,14 +599,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Distrito Federal",
           "Short name": "UnB/FGA",
           "Contestants": [
-            "Patrick Melo",
+            "Renato Britto",
             "Victor Silva",
-            "Renato Britto"
+            "Patrick Melo"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Edson Junior"
         }
@@ -620,14 +620,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Goiás",
           "Short name": "IFGoiano - Campus Ri",
           "Contestants": [
-            "Matheus Martins",
+            "Iohan Torres Cabral",
             "Vinícius Magalhães De Queiroz",
-            "Iohan Torres Cabral"
+            "Matheus Martins"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Andre Ribeiro"
         },
@@ -637,14 +637,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Goiás",
           "Short name": "IFGoiano - Campus Ri",
           "Contestants": [
-            "Tainara Patricia",
+            "Conrado Costa Nunes",
             "Thúlio Xavier Milhomens",
-            "Conrado Costa Nunes"
+            "Tainara Patricia"
           ],
           "Sex": [
-            "Female",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "FEMALE"
           ],
           "Coach": "Andre Ribeiro"
         },
@@ -654,14 +654,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Goiás",
           "Short name": "IFGoiano - Campus Ri",
           "Contestants": [
-            "Wennys Camilo",
+            "Matheus Oliveira",
             "Paulo Henrick Freitas Cabral",
-            "Matheus Oliveira"
+            "Wennys Camilo"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Andre Ribeiro"
         },
@@ -671,14 +671,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Goiás",
           "Short name": "IFGoiano - Campus Ri",
           "Contestants": [
-            "Lucas Oliveira Pereira Da Silva",
+            "Bruno Moraes Braganholo",
             "Thaynan Frades De Lima",
-            "Bruno Moraes Braganholo"
+            "Lucas Oliveira Pereira Da Silva"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Andre Ribeiro"
         },
@@ -688,14 +688,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Goiás",
           "Short name": "IFGoiano - Campus Ri",
           "Contestants": [
-            "Gabriel Medeiros Alves",
+            "Athos José De Araújo",
             "Mateus Farias Feliciano",
-            "Athos José De Araújo"
+            "Gabriel Medeiros Alves"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Andre Ribeiro"
         },
@@ -705,14 +705,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Goiás",
           "Short name": "IFGoiano - Campus Ri",
           "Contestants": [
-            "Ayslan Leal",
+            "Matheus Lourenço Pereira Magalhães",
             "Mateus Miranda Da Cunha",
-            "Matheus Lourenço Pereira Magalhães"
+            "Ayslan Leal"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Andre Ribeiro"
         },
@@ -722,14 +722,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Goiás",
           "Short name": "IFGoiano - Campus Ri",
           "Contestants": [
-            "Emanuel Silva Araujo",
+            "Abdiel Barbosa Ribeiro",
             "Thiago Rafael Mariotti Claudio",
-            "Abdiel Barbosa Ribeiro"
+            "Emanuel Silva Araujo"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Andre Ribeiro"
         },
@@ -739,14 +739,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Goiás",
           "Short name": "IFGoiano - Campus Ri",
           "Contestants": [
-            "Rafael Guimarães Moraes",
+            "Alécio Ferreira Vieira Júnior",
             "Richard Jesus Batista",
-            "Alécio Ferreira Vieira Júnior"
+            "Rafael Guimarães Moraes"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Andre Ribeiro"
         }
@@ -758,14 +758,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Goiás",
           "Short name": "UFG",
           "Contestants": [
-            "Pedro Henrique Sanches Pelegrino Zambrano",
+            "Alexander Henrique Watanabe De Souza",
             "Lucas Nunes Rios",
-            "Alexander Henrique Watanabe De Souza"
+            "Pedro Henrique Sanches Pelegrino Zambrano"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Humberto Longo"
         },
@@ -775,14 +775,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Goiás",
           "Short name": "UFG",
           "Contestants": [
-            "Dayllon Vinícius Xavier Lemos",
+            "Arthur Gomes De Siqueira",
             "Halleffy Henryk Reis Santos",
-            "Arthur Gomes De Siqueira"
+            "Dayllon Vinícius Xavier Lemos"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Paulo Augusto Gomes Kataki"
         },
@@ -792,14 +792,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Goiás",
           "Short name": "UFG",
           "Contestants": [
-            "Lucas Brandão Rodrigues",
+            "Gabriel Da Mata Marques",
             "Gustavo Ribeiro Moura",
-            "Gabriel Da Mata Marques"
+            "Lucas Brandão Rodrigues"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Humberto Longo"
         },
@@ -809,14 +809,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Goiás",
           "Short name": "UFG",
           "Contestants": [
-            "Rafael De Castro Silva",
+            "Gustavo Leal",
             "Leandro Alves Vianna",
-            "Gustavo Leal"
+            "Rafael De Castro Silva"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Paulo Augusto Gomes Kataki"
         },
@@ -826,14 +826,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Goiás",
           "Short name": "UFG",
           "Contestants": [
-            "Filipe Silveira Chaves",
+            "Gustavo B Silva",
             "Yure Gabriel Silva Freitas",
-            "Gustavo B Silva"
+            "Filipe Silveira Chaves"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Humberto Longo"
         },
@@ -843,14 +843,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Goiás",
           "Short name": "UFG",
           "Contestants": [
-            "Hugo Alves Silva",
             "Eduardo Barros Pimenta",
-            "Luciano Costa Vianna Neto"
+            "Luciano Costa Vianna Neto",
+            "Hugo Alves Silva"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Humberto Longo"
         }
@@ -862,14 +862,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Goiás",
           "Short name": "PUC-Goiás",
           "Contestants": [
-            "Valdomiro Roberto Neto",
+            "Gabriel Huglio Pineli Simoes",
             "Wilguiner Alessandro",
-            "Gabriel Huglio Pineli Simoes"
+            "Valdomiro Roberto Neto"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Alexandre Ribeiro"
         },
@@ -879,14 +879,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Goiás",
           "Short name": "PUC-Goiás",
           "Contestants": [
-            "Adolfo Aires Schneider",
+            "Ítalo Gonçalves",
             "Bruno Oliveira",
-            "Ítalo Gonçalves"
+            "Adolfo Aires Schneider"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Alexandre Ribeiro"
         },
@@ -896,14 +896,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Goiás",
           "Short name": "PUC-Goiás",
           "Contestants": [
-            "Rodrigo Quirino",
             "Lucas Souza",
-            "Lucas Arriel"
+            "Lucas Arriel",
+            "Rodrigo Quirino"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Alexandre Ribeiro"
         },
@@ -913,14 +913,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Goiás",
           "Short name": "PUC-Goiás",
           "Contestants": [
-            "Ioná Santana",
+            "Dyogo Okada",
             "Omar Oweis",
-            "Dyogo Okada"
+            "Ioná Santana"
           ],
           "Sex": [
-            "Female",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "FEMALE"
           ],
           "Coach": "Alexandre Ribeiro"
         },
@@ -930,14 +930,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Goiás",
           "Short name": "PUC-Goiás",
           "Contestants": [
-            "Vitor Silva",
+            "Vanessa Alves",
             "Eliel Lucas",
-            "Vanessa Alves"
+            "Vitor Silva"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Female"
+            "FEMALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Alexandre Ribeiro"
         },
@@ -947,14 +947,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Goiás",
           "Short name": "PUC-Goiás",
           "Contestants": [
-            "José Enrique",
+            "Gabriel Fogaça",
             "Marcus Meneses",
-            "Gabriel Fogaça"
+            "José Enrique"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Alexandre Ribeiro"
         },
@@ -964,14 +964,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Goiás",
           "Short name": "PUC-Goiás",
           "Contestants": [
-            "Lara Ferigatto",
+            "Alexssander Morais",
             "João Augusto Ferreira De Moura",
-            "Alexssander Morais"
+            "Lara Ferigatto"
           ],
           "Sex": [
-            "Female",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "FEMALE"
           ],
           "Coach": "Alexandre Ribeiro"
         }
@@ -983,14 +983,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Goiás",
           "Short name": "UEG",
           "Contestants": [
-            "Jéssica Maria Vieira Evangelista",
+            "Warley Moreira",
             "Kaleb Vieira Evangelista",
-            "Warley Moreira"
+            "Jéssica Maria Vieira Evangelista"
           ],
           "Sex": [
-            "Female",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "FEMALE"
           ],
           "Coach": "Joilson Brito"
         }
@@ -1002,14 +1002,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Goiás",
           "Short name": "CAJ/UFG",
           "Contestants": [
-            "Felipe Nedopetalski",
+            "Wagner Xavier",
             "Gabriel Alves",
-            "Wagner Xavier"
+            "Felipe Nedopetalski"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Thiago Borges De Oliveira"
         }
@@ -1021,14 +1021,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Goiás",
           "Short name": "UniRV",
           "Contestants": [
-            "Carlos Eduardo De Paula Arantes",
             "Alison Alain De Oliveira",
-            "Acassio Mendonça Vilas Boas"
+            "Acassio Mendonça Vilas Boas",
+            "Carlos Eduardo De Paula Arantes"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "João Paraiba"
         }
@@ -1042,14 +1042,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Mato Grosso do Sul",
           "Short name": "CPPP - UFMS",
           "Contestants": [
-            "Beatriz Câmara",
+            "Nadia Boeira",
             "Ana Rodrigues",
-            "Nadia Boeira"
+            "Beatriz Câmara"
           ],
           "Sex": [
-            "Female",
-            "Female",
-            "Female"
+            "FEMALE",
+            "FEMALE",
+            "FEMALE"
           ],
           "Coach": "Eduardo Theodoro Bogue"
         },
@@ -1059,14 +1059,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Mato Grosso do Sul",
           "Short name": "CPPP - UFMS",
           "Contestants": [
-            "Marcos Brendon",
+            "Eric Rodrigues",
             "Henri Nunes",
-            "Eric Rodrigues"
+            "Marcos Brendon"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Eduardo Theodoro Bogue"
         }
@@ -1078,14 +1078,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Mato Grosso do Sul",
           "Short name": "FACOM - UFMS",
           "Contestants": [
-            "Pedro Lopez",
+            "Matheus Vyctor Aranda Espíndola",
             "Enzo Falchi Gaban",
-            "Matheus Vyctor Aranda Espíndola"
+            "Pedro Lopez"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Anderson Araujo"
         },
@@ -1095,14 +1095,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Mato Grosso do Sul",
           "Short name": "FACOM - UFMS",
           "Contestants": [
-            "Gabriel Barberiz",
+            "Lucas Villar",
             "Marcos Medeiros",
-            "Lucas Villar"
+            "Gabriel Barberiz"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Anderson Araujo"
         },
@@ -1112,14 +1112,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Mato Grosso do Sul",
           "Short name": "FACOM - UFMS",
           "Contestants": [
-            "Gabriel Sanches",
+            "Luiz Henrique Santos",
             "Felipe Silva",
-            "Luiz Henrique Santos"
+            "Gabriel Sanches"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Anderson Araujo"
         }
@@ -1131,14 +1131,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Mato Grosso do Sul",
           "Short name": "UFGD",
           "Contestants": [
-            "Felipe Nascimento Santos",
+            "Barbara Lopes Moro",
             "José Renato Ferreira Ronca",
-            "Barbara Lopes Moro"
+            "Felipe Nascimento Santos"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Female"
+            "FEMALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Rodrigo Sacchi"
         },
@@ -1148,14 +1148,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Mato Grosso do Sul",
           "Short name": "UFGD",
           "Contestants": [
-            "Felipe Natan Dos Santos",
+            "Caio Fernandes Lima",
             "Matheus Viera Zarate",
-            "Caio Fernandes Lima"
+            "Felipe Natan Dos Santos"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Rodrigo Sacchi"
         }
@@ -1169,14 +1169,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Mato Grosso",
           "Short name": "UFMT - Cuiabá",
           "Contestants": [
-            "Aroldo Goulart Barros",
+            "Pedro Ivo",
             "Vitor Manoel De Almeida Silva",
-            "Pedro Ivo"
+            "Aroldo Goulart Barros"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Thiago Ventura"
         },
@@ -1186,14 +1186,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Mato Grosso",
           "Short name": "UFMT - Cuiabá",
           "Contestants": [
-            "Wilson Andrade Pereira De Souza",
             "Marcus Oliveira",
-            "Gustavo Kida"
+            "Gustavo Kida",
+            "Wilson Andrade Pereira De Souza"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Nielsen Cassiano Simões"
         },
@@ -1203,14 +1203,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Mato Grosso",
           "Short name": "UFMT - Cuiabá",
           "Contestants": [
+            "Matheus Cunha Neves",
             "Henrique Camacho Farias",
-            "Luiz Fernando",
-            "Matheus Cunha Neves"
+            "Luiz Fernando"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Thiago Ventura"
         },
@@ -1220,14 +1220,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Mato Grosso",
           "Short name": "UFMT - Cuiabá",
           "Contestants": [
-            "Adriano Corbelino",
+            "Francisco José Das Neves Neto",
             "Maurício Souza",
-            "Francisco José Das Neves Neto"
+            "Adriano Corbelino"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Thiago Ventura"
         },
@@ -1237,14 +1237,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Mato Grosso",
           "Short name": "UFMT - Cuiabá",
           "Contestants": [
-            "Felipe Borges De Lima Naufal",
+            "Matheus Sapede",
             "Felipe Nunes Costa",
-            "Matheus Sapede"
+            "Felipe Borges De Lima Naufal"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Thiago Ventura"
         },
@@ -1254,14 +1254,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Mato Grosso",
           "Short name": "UFMT - Cuiabá",
           "Contestants": [
-            "Marco Antônio Parente Nunes",
+            "Hiago De Sousa Patrício",
             "Paula Caroline Nunes Da Silva",
-            "Hiago De Sousa Patrício"
+            "Marco Antônio Parente Nunes"
           ],
           "Sex": [
-            "Male",
-            "Female",
-            "Male"
+            "MALE",
+            "FEMALE",
+            "MALE"
           ],
           "Coach": "Thiago Ventura"
         },
@@ -1271,14 +1271,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Mato Grosso",
           "Short name": "UFMT - Cuiabá",
           "Contestants": [
-            "Jean Fortes",
+            "Henrique Soares",
             "Gabriel De Sousa Gomes Pedroso",
-            "Henrique Soares"
+            "Jean Fortes"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Thiago Ventura"
         }
@@ -1290,14 +1290,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Mato Grosso",
           "Short name": "UNEMAT",
           "Contestants": [
-            "Uanderson Rodrigues",
+            "Bruno Silva",
             "Gabriel Oliveira",
-            "Bruno Silva"
+            "Uanderson Rodrigues"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Lucas Ramalho"
         }
@@ -1313,14 +1313,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Alagoas",
           "Short name": "UFAL",
           "Contestants": [
-            "João Alcântara",
             "Tiago Marinho",
+            "João Alcântara",
             "Nelson Gomes Neto"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Rodrigo Paes"
         },
@@ -1330,14 +1330,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Alagoas",
           "Short name": "UFAL",
           "Contestants": [
-            "Fábio Sarmento",
+            "Rafael Santos",
             "Gabriel Barbosa",
-            "Rafael Santos"
+            "Fábio Sarmento"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Rodrigo Paes"
         },
@@ -1347,14 +1347,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Alagoas",
           "Short name": "UFAL",
           "Contestants": [
-            "Eirene Fireman",
+            "Samuel Barbosa",
             "Bruna Torres",
-            "Samuel Barbosa"
+            "Eirene Fireman"
           ],
           "Sex": [
-            "Female",
-            "Female",
-            "Male"
+            "MALE",
+            "FEMALE",
+            "FEMALE"
           ],
           "Coach": "Rodrigo Paes"
         },
@@ -1364,14 +1364,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Alagoas",
           "Short name": "UFAL",
           "Contestants": [
-            "Robson Pinheiro",
+            "Denilson Bulhões",
             "Ramon Barros",
-            "Denilson Bulhões"
+            "Robson Pinheiro"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Rodrigo Paes"
         },
@@ -1381,14 +1381,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Alagoas",
           "Short name": "UFAL",
           "Contestants": [
-            "Paulo Severiano",
+            "Lívia Soares",
             "Alexia Cardoso",
-            "Lívia Soares"
+            "Paulo Severiano"
           ],
           "Sex": [
-            "Male",
-            "Female",
-            "Female"
+            "FEMALE",
+            "FEMALE",
+            "MALE"
           ],
           "Coach": "Rodrigo Paes"
         },
@@ -1398,14 +1398,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Alagoas",
           "Short name": "UFAL",
           "Contestants": [
-            "Vinicius Costa",
+            "João Lima",
             "Matheusgiordani Oliveira",
-            "João Lima"
+            "Vinicius Costa"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Rodrigo Paes"
         },
@@ -1415,14 +1415,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Alagoas",
           "Short name": "UFAL",
           "Contestants": [
-            "Ascânio Neves",
+            "João Oliveira",
             "Jackson Da Silva",
-            "João Oliveira"
+            "Ascânio Neves"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Rodrigo Paes"
         },
@@ -1432,14 +1432,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Alagoas",
           "Short name": "UFAL",
           "Contestants": [
-            "Yago Andrade",
+            "Murilo Urquiza",
             "Lia Barbosa",
-            "Murilo Urquiza"
+            "Yago Andrade"
           ],
           "Sex": [
-            "Male",
-            "Female",
-            "Male"
+            "MALE",
+            "FEMALE",
+            "MALE"
           ],
           "Coach": "Rodrigo Paes"
         }
@@ -1451,14 +1451,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Alagoas",
           "Short name": "UFAL Arapiraca",
           "Contestants": [
-            "Francisco Neto",
+            "Eduardo Correia",
             "Jadson Santos",
-            "Eduardo Correia"
+            "Francisco Neto"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Elthon Oliveira"
         }
@@ -1466,41 +1466,7 @@ CONTESTS[2020]["1aFase"] = {
     },
     "BA": {
       "UNIME - União Metropolitana de Educação e Cultura": {
-        "CodeBreaker": {
-          "Rank": 0,
-          "SiteRank": 0,
-          "Site": "Bahia",
-          "Short name": "UNIME",
-          "Contestants": [
-            "Natã Romão",
-            "Pericles Souza",
-            "Gabriel Moreira"
-          ],
-          "Sex": [
-            "Male",
-            "Male",
-            "Male"
-          ],
-          "Coach": "Alex Alves Da Paixão"
-        },
-        "JEDIs": {
-          "Rank": 0,
-          "SiteRank": 0,
-          "Site": "Bahia",
-          "Short name": "UNIME",
-          "Contestants": [
-            "Ivan Santos",
-            "Sergio Fraga",
-            "Thiago Dourado"
-          ],
-          "Sex": [
-            "Male",
-            "Male",
-            "Male"
-          ],
-          "Coach": "Alex Alves Da Paixão"
-        },
-        "Not expected": {
+        " Not expected": {
           "Rank": 0,
           "SiteRank": 0,
           "Site": "Bahia",
@@ -1511,9 +1477,43 @@ CONTESTS[2020]["1aFase"] = {
             "Wesly Silva"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
+          ],
+          "Coach": "Alex Alves Da Paixão"
+        },
+        "CodeBreaker": {
+          "Rank": 0,
+          "SiteRank": 0,
+          "Site": "Bahia",
+          "Short name": "UNIME",
+          "Contestants": [
+            "Pericles Souza",
+            "Gabriel Moreira",
+            "Natã Romão"
+          ],
+          "Sex": [
+            "MALE",
+            "MALE",
+            "MALE"
+          ],
+          "Coach": "Alex Alves Da Paixão"
+        },
+        "JEDIs": {
+          "Rank": 0,
+          "SiteRank": 0,
+          "Site": "Bahia",
+          "Short name": "UNIME",
+          "Contestants": [
+            "Sergio Fraga",
+            "Thiago Dourado",
+            "Ivan Santos"
+          ],
+          "Sex": [
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Alex Alves Da Paixão"
         }
@@ -1525,14 +1525,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Bahia",
           "Short name": "UCSAL",
           "Contestants": [
-            "Lucas Novais De Almeida",
+            "Renata Emily De Souza Santos",
             "Ana Caroline Ana Caroline",
-            "Renata Emily De Souza Santos"
+            "Lucas Novais De Almeida"
           ],
           "Sex": [
-            "Male",
-            "Female",
-            "Female"
+            "FEMALE",
+            "FEMALE",
+            "MALE"
           ],
           "Coach": "Mario Jorge Pereira"
         },
@@ -1542,14 +1542,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Bahia",
           "Short name": "UCSAL",
           "Contestants": [
-            "Brendo Souza Pinheiro",
+            "Bruno De Freitas Santos",
             "Manoela Silva Dos Santos",
-            "Bruno De Freitas Santos"
+            "Brendo Souza Pinheiro"
           ],
           "Sex": [
-            "Male",
-            "Female",
-            "Male"
+            "MALE",
+            "FEMALE",
+            "MALE"
           ],
           "Coach": "Mario Jorge Pereira"
         },
@@ -1559,14 +1559,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Bahia",
           "Short name": "UCSAL",
           "Contestants": [
-            "Alexandre Alves",
+            "Ester Mabel Silva Santos",
             "Alécio José Santos Barreto",
-            "Ester Mabel Silva Santos"
+            "Alexandre Alves"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Female"
+            "FEMALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Mario Jorge Pereira"
         },
@@ -1576,14 +1576,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Bahia",
           "Short name": "UCSAL",
           "Contestants": [
-            "Geovani Xavier Dos Santos",
+            "Danilo Caramelo Ortins Rivera",
             "Marcelo De Souza Batista",
-            "Danilo Caramelo Ortins Rivera"
+            "Geovani Xavier Dos Santos"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Mario Jorge Pereira"
         },
@@ -1593,14 +1593,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Bahia",
           "Short name": "UCSAL",
           "Contestants": [
-            "Matheus De Freitas Santos Pantoja",
+            "Daniel Borges Diniz",
             "Filipe De Carvalho Caldas",
-            "Daniel Borges Diniz"
+            "Matheus De Freitas Santos Pantoja"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Mario Jorge Pereira"
         },
@@ -1610,14 +1610,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Bahia",
           "Short name": "UCSAL",
           "Contestants": [
-            "Yllo Luiz Saraiva Gadea De Jesus",
+            "Candido Ribeiro Peralva Neto",
             "Luciano Pereira De Souza",
-            "Candido Ribeiro Peralva Neto"
+            "Yllo Luiz Saraiva Gadea De Jesus"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Mario Jorge Pereira"
         },
@@ -1627,14 +1627,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Bahia",
           "Short name": "UCSAL",
           "Contestants": [
-            "Paulo Gabriel Lima Cruz",
+            "Matheus Carvalho",
             "Wiliam Dos Santos Reis",
-            "Matheus Carvalho"
+            "Paulo Gabriel Lima Cruz"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Mario Jorge Pereira"
         },
@@ -1644,14 +1644,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Bahia",
           "Short name": "UCSAL",
           "Contestants": [
-            "Lucilandia Oliveira Babani",
+            "Lucas Freire Mota",
             "Samila Duarte Silva",
-            "Lucas Freire Mota"
+            "Lucilandia Oliveira Babani"
           ],
           "Sex": [
-            "Female",
-            "Female",
-            "Male"
+            "MALE",
+            "FEMALE",
+            "FEMALE"
           ],
           "Coach": "Mario Jorge Pereira"
         },
@@ -1661,14 +1661,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Bahia",
           "Short name": "UCSAL",
           "Contestants": [
-            "Wilton Silva Oliveira Júnior",
+            "Luis Felipe Santos",
             "Guilherme Borges Gurgel",
-            "Luis Felipe Santos"
+            "Wilton Silva Oliveira Júnior"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Mario Jorge Pereira"
         },
@@ -1678,14 +1678,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Bahia",
           "Short name": "UCSAL",
           "Contestants": [
-            "Felipe Kaian Mutti Almeida",
+            "Alisson Mascarenhas Ornelas Oliveira",
             "Lucas Santos Caminha",
-            "Alisson Mascarenhas Ornelas Oliveira"
+            "Felipe Kaian Mutti Almeida"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Mario Jorge Pereira"
         },
@@ -1695,14 +1695,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Bahia",
           "Short name": "UCSAL",
           "Contestants": [
-            "Davi Ramos Lima",
+            "Raul Rosa De Oliveira Pacheco",
             "Bruno Antas Vieira",
-            "Raul Rosa De Oliveira Pacheco"
+            "Davi Ramos Lima"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Mario Jorge Pereira"
         },
@@ -1712,14 +1712,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Bahia",
           "Short name": "UCSAL",
           "Contestants": [
-            "Luiz Felipe Viana Menezes Nascimento",
+            "Antônio Carlos Cordeiro Lopes Filho",
             "Berman Benjamin Friedrich Dos Santos Schultz",
-            "Antônio Carlos Cordeiro Lopes Filho"
+            "Luiz Felipe Viana Menezes Nascimento"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Mario Jorge Pereira"
         },
@@ -1729,14 +1729,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Bahia",
           "Short name": "UCSAL",
           "Contestants": [
-            "Joaldo Tavares Da Silva Junior",
+            "Yla Maria Buri Santana Dos Santos",
             "Renato Russo Gomes De Oliveira",
-            "Yla Maria Buri Santana Dos Santos"
+            "Joaldo Tavares Da Silva Junior"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Female"
+            "FEMALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Mario Jorge Pereira"
         }
@@ -1748,14 +1748,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Bahia",
           "Short name": "UEFS",
           "Contestants": [
-            "Carlos Valadão",
             "Jacob Almeida",
-            "Diego Rocha Cerqueira"
+            "Diego Rocha Cerqueira",
+            "Carlos Valadão"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Pamela Michele Cândida Cortez"
         },
@@ -1765,14 +1765,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Bahia",
           "Short name": "UEFS",
           "Contestants": [
-            "Filipe Silva",
+            "Sergivaldo Junior",
             "Gabriel Santana",
-            "Sergivaldo Junior"
+            "Filipe Silva"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Pamela Michele Cândida Cortez"
         },
@@ -1782,14 +1782,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Bahia",
           "Short name": "UEFS",
           "Contestants": [
-            "Samuel Nunes",
+            "Israel Braitt",
             "Adriel Oliveira",
-            "Israel Braitt"
+            "Samuel Nunes"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Pamela Michele Cândida Cortez"
         },
@@ -1799,14 +1799,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Bahia",
           "Short name": "UEFS",
           "Contestants": [
-            "Mariana Santos",
+            "Esther Araújo",
             "Alex Anderson Ferreira Boa Morte",
-            "Esther Araújo"
+            "Mariana Santos"
           ],
           "Sex": [
-            "Female",
-            "Male",
-            "Female"
+            "FEMALE",
+            "MALE",
+            "FEMALE"
           ],
           "Coach": "Pamela Michele Cândida Cortez"
         }
@@ -1818,14 +1818,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Bahia",
           "Short name": "UESC",
           "Contestants": [
-            "Gabrielle Rosa",
+            "Daniel Costa",
             "Jenilson Santos",
-            "Daniel Costa"
+            "Gabrielle Rosa"
           ],
           "Sex": [
-            "Female",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "FEMALE"
           ],
           "Coach": "Marta Dornelles"
         },
@@ -1835,14 +1835,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Bahia",
           "Short name": "UESC",
           "Contestants": [
-            "Ariel Narciso",
+            "Juliana Midlej",
             "Breno Gonçalves",
-            "Juliana Midlej"
+            "Ariel Narciso"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Female"
+            "FEMALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Marta Dornelles"
         }
@@ -1854,14 +1854,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Bahia",
           "Short name": "UESB",
           "Contestants": [
-            "Gabriel Neri",
+            "Igor Silva",
             "Matheus Cardoso",
-            "Igor Silva"
+            "Gabriel Neri"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Cátia Khouri"
         }
@@ -1873,14 +1873,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Bahia",
           "Short name": "",
           "Contestants": [
-            "Marcus Cardoso",
+            "Saullo Benevides",
             "Raul Santos Gonçalves",
-            "Saullo Benevides"
+            "Marcus Cardoso"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Naiara Santos"
         },
@@ -1890,14 +1890,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Bahia",
           "Short name": "",
           "Contestants": [
-            "Wellington Ribeiro",
+            "Josimar Cruz Souza",
             "William Sena",
-            "Josimar Cruz Souza"
+            "Wellington Ribeiro"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Naiara Santos"
         },
@@ -1907,14 +1907,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Bahia",
           "Short name": "",
           "Contestants": [
-            "João Benevides Da Silva Neto",
+            "Lara Fábian Almeida Santos",
             "Sara Coelho Costa",
-            "Lara Fábian Almeida Santos"
+            "João Benevides Da Silva Neto"
           ],
           "Sex": [
-            "Male",
-            "Female",
-            "Female"
+            "FEMALE",
+            "FEMALE",
+            "MALE"
           ],
           "Coach": "Naiara Santos"
         }
@@ -1926,14 +1926,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Bahia",
           "Short name": "UFBA",
           "Contestants": [
-            "Bruno Severino Mascarenhas",
+            "Denilson Das Mercês Amorim",
             "Carlos Frederico D'almeida E Mendes",
-            "Denilson Das Mercês Amorim"
+            "Bruno Severino Mascarenhas"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Rubisley Lemes"
         },
@@ -1943,14 +1943,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Bahia",
           "Short name": "UFBA",
           "Contestants": [
-            "Artur Junior",
+            "Rafael Santos",
             "Hérson Rezende",
-            "Rafael Santos"
+            "Artur Junior"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Rubisley Lemes"
         },
@@ -1960,14 +1960,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Bahia",
           "Short name": "UFBA",
           "Contestants": [
-            "Thalles Medrado",
+            "Bernardo Salmeron",
             "Vinicius Teixeira Hirschle",
-            "Bernardo Salmeron"
+            "Thalles Medrado"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Rubisley Lemes"
         },
@@ -1977,14 +1977,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Bahia",
           "Short name": "UFBA",
           "Contestants": [
-            "Breno Henrique Rosas Do Nascimento",
+            "Thales Castro De Oliveira",
             "Levi Weber Costa",
-            "Thales Castro De Oliveira"
+            "Breno Henrique Rosas Do Nascimento"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Rubisley Lemes"
         }
@@ -1998,14 +1998,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Ceará",
           "Short name": "Unichristus",
           "Contestants": [
-            "Thiago Costa Machado",
+            "Caio Joca De Mendonça",
             "Francisco Cleilton Carvalho Da Silva",
-            "Caio Joca De Mendonça"
+            "Thiago Costa Machado"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Francisco Edvan Chaves"
         },
@@ -2015,14 +2015,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Ceará",
           "Short name": "Unichristus",
           "Contestants": [
-            "Jones Soares Da Silva",
+            "Kaliary Cisne De Sousa Silva",
             "Willian Matheus Meneses Batista",
-            "Kaliary Cisne De Sousa Silva"
+            "Jones Soares Da Silva"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Francisco Edvan Chaves"
         }
@@ -2034,14 +2034,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Ceará",
           "Short name": "FLF",
           "Contestants": [
-            "Lucas Alves De Lima",
+            "Marcus Venicius Filho",
             "Arnaldo Victor Azevedo",
-            "Marcus Venicius Filho"
+            "Lucas Alves De Lima"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Darielson Souza"
         }
@@ -2053,14 +2053,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Ceará",
           "Short name": "FAP",
           "Contestants": [
-            "Pablo Oliveira",
+            "Jonas Brito",
             "Damião Souza",
-            "Jonas Brito"
+            "Pablo Oliveira"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Fabricio Carneiro"
         },
@@ -2070,14 +2070,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Ceará",
           "Short name": "FAP",
           "Contestants": [
-            "Bruno Macêdo",
+            "Wesley Batista",
             "Igor Oliveira",
-            "Wesley Batista"
+            "Bruno Macêdo"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Fabricio Carneiro"
         },
@@ -2087,14 +2087,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Ceará",
           "Short name": "FAP",
           "Contestants": [
-            "Jorddyan Cabral",
+            "Madalena Campos",
             "Eduardo Charapa",
-            "Madalena Campos"
+            "Jorddyan Cabral"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Female"
+            "FEMALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Fabricio Carneiro"
         },
@@ -2104,14 +2104,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Ceará",
           "Short name": "FAP",
           "Contestants": [
-            "Enzo Wanderley",
+            "Alessandro Malheiro",
             "Maria Campos",
-            "Alessandro Malheiro"
+            "Enzo Wanderley"
           ],
           "Sex": [
-            "Male",
-            "Female",
-            "Male"
+            "MALE",
+            "FEMALE",
+            "MALE"
           ],
           "Coach": "Fabricio Carneiro"
         },
@@ -2121,14 +2121,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Ceará",
           "Short name": "FAP",
           "Contestants": [
-            "Matheus Maximiano",
+            "Gabriel Barros",
             "Natali Brito",
-            "Gabriel Barros"
+            "Matheus Maximiano"
           ],
           "Sex": [
-            "Male",
-            "Female",
-            "Male"
+            "MALE",
+            "FEMALE",
+            "MALE"
           ],
           "Coach": "Fabricio Carneiro"
         }
@@ -2140,14 +2140,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Ceará",
           "Short name": "IFCE - Aracati",
           "Contestants": [
-            "Matheus Oliveira",
+            "Samuel Lucas Da Silva Sena",
             "Jeferson Gonçalves De Freitas",
-            "Samuel Lucas Da Silva Sena"
+            "Matheus Oliveira"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Thiago Bandeira"
         }
@@ -2159,14 +2159,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Ceará",
           "Short name": "IFCE - Campus Crato",
           "Contestants": [
-            "Paula Micheli Costa Gomes",
+            "Pedro Feitosa",
             "Cícero Felipe Andrade",
-            "Pedro Feitosa"
+            "Paula Micheli Costa Gomes"
           ],
           "Sex": [
-            "Female",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "FEMALE"
           ],
           "Coach": "Robson Feitosa"
         },
@@ -2176,14 +2176,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Ceará",
           "Short name": "IFCE - Campus Crato",
           "Contestants": [
-            "André Luis Pinheiro",
+            "Pedro Henrile Salvador",
             "Gustavo Machado",
-            "Pedro Henrile Salvador"
+            "André Luis Pinheiro"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Robson Feitosa"
         }
@@ -2195,14 +2195,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Ceará",
           "Short name": "IFCE-Tianguá",
           "Contestants": [
-            "Anna Alves",
+            "Geovane Araujo",
             "Leonardo F Lopes",
-            "Geovane Araujo"
+            "Anna Alves"
           ],
           "Sex": [
-            "Female",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "FEMALE"
           ],
           "Coach": "Anderson Aragão"
         },
@@ -2213,13 +2213,13 @@ CONTESTS[2020]["1aFase"] = {
           "Short name": "IFCE-Tianguá",
           "Contestants": [
             "Diones Alves",
-            "Gessé Martins",
-            "Horácio Silva"
+            "Horácio Silva",
+            "Gessé Martins"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "David Rodrigues"
         },
@@ -2229,14 +2229,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Ceará",
           "Short name": "IFCE-Tianguá",
           "Contestants": [
-            "Esrael Saraiva De Sousa",
+            "Francisco Artannyel Pinto Ferreira",
             "Arilson Ferreira",
-            "Francisco Artannyel Pinto Ferreira"
+            "Esrael Saraiva De Sousa"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Anderson Aragão"
         }
@@ -2248,14 +2248,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Ceará",
           "Short name": "IFCE",
           "Contestants": [
-            "Paulo Victor Magalhães",
+            "Maria Rejane Maria Rejane",
             "Samuel Alves Gadelha",
-            "Maria Rejane Maria Rejane"
+            "Paulo Victor Magalhães"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Female"
+            "FEMALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Ernani Leite"
         },
@@ -2265,14 +2265,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Ceará",
           "Short name": "IFCE",
           "Contestants": [
-            "João Venancio",
+            "Alyson Noronha",
             "Luis Sales",
-            "Alyson Noronha"
+            "João Venancio"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Ernani Leite"
         },
@@ -2282,14 +2282,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Ceará",
           "Short name": "IFCE",
           "Contestants": [
-            "Kaline Mesquita",
+            "Rodrigo Araújo",
             "Marlyson Mendes",
-            "Rodrigo Araújo"
+            "Kaline Mesquita"
           ],
           "Sex": [
-            "Female",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "FEMALE"
           ],
           "Coach": "Ernani Leite"
         },
@@ -2299,14 +2299,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Ceará",
           "Short name": "IFCE",
           "Contestants": [
-            "Raynan Serafim De Souza",
+            "Pablo Lopes",
             "Beloin Rodrigues",
-            "Pablo Lopes"
+            "Raynan Serafim De Souza"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Ernani Leite"
         }
@@ -2318,14 +2318,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Ceará",
           "Short name": "",
           "Contestants": [
-            "Aristiklever Sousa",
             "Lincoln Freire Aguiar",
+            "Aristiklever Sousa",
             "Wellington Luis Da Costa Marciel"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Claudio Carvalho"
         },
@@ -2335,14 +2335,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Ceará",
           "Short name": "",
           "Contestants": [
-            "Marcielle Jorge",
+            "Ana Fontenele",
             "Pedro Silva",
-            "Ana Fontenele"
+            "Marcielle Jorge"
           ],
           "Sex": [
-            "Female",
-            "Male",
-            "Female"
+            "FEMALE",
+            "MALE",
+            "FEMALE"
           ],
           "Coach": "Claudio Carvalho"
         },
@@ -2352,14 +2352,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Ceará",
           "Short name": "",
           "Contestants": [
-            "Natanael Freire",
+            "Fagner Marques",
             "Aristides Aureliano",
-            "Fagner Marques"
+            "Natanael Freire"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Claudio Carvalho"
         }
@@ -2371,14 +2371,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Ceará",
           "Short name": "UECE",
           "Contestants": [
-            "Ivo Aguiar Pimenta",
+            "José Gabriel Uchoa Holanda",
             "Michael Silva",
-            "José Gabriel Uchoa Holanda"
+            "Ivo Aguiar Pimenta"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Rafael Gomes"
         },
@@ -2393,9 +2393,9 @@ CONTESTS[2020]["1aFase"] = {
             "Clara Mesquita"
           ],
           "Sex": [
-            "Female",
-            "Female",
-            "Female"
+            "FEMALE",
+            "FEMALE",
+            "FEMALE"
           ],
           "Coach": "Rafael Gomes"
         }
@@ -2407,14 +2407,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Ceará",
           "Short name": "UFCA",
           "Contestants": [
-            "Francisco Junior Peixoto Dantas",
+            "Tatiana Freitas",
             "Allan Fenelon",
-            "Tatiana Freitas"
+            "Francisco Junior Peixoto Dantas"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Female"
+            "FEMALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Thiago Marcilon"
         },
@@ -2424,14 +2424,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Ceará",
           "Short name": "UFCA",
           "Contestants": [
-            "Demetrius Vasconcelos",
+            "Luan Arraes",
             "Marx Machado",
-            "Luan Arraes"
+            "Demetrius Vasconcelos"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Thiago Marcilon"
         },
@@ -2441,14 +2441,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Ceará",
           "Short name": "UFCA",
           "Contestants": [
-            "João André Gomes",
+            "Alberto Ribeiro",
             "Kelthon Alves",
-            "Alberto Ribeiro"
+            "João André Gomes"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Thiago Marcilon"
         },
@@ -2458,14 +2458,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Ceará",
           "Short name": "UFCA",
           "Contestants": [
-            "Alexandre Nogueira",
+            "Davi Rodrigues",
             "Pedro Galvão",
-            "Davi Rodrigues"
+            "Alexandre Nogueira"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Thiago Marcilon"
         },
@@ -2475,14 +2475,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Ceará",
           "Short name": "UFCA",
           "Contestants": [
-            "Francisca Gardênia Estevam",
+            "Cícero Samuel Morais",
             "Cícero José De Sousa",
-            "Cícero Samuel Morais"
+            "Francisca Gardênia Estevam"
           ],
           "Sex": [
-            "Female",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "FEMALE"
           ],
           "Coach": "Thiago Marcilon"
         },
@@ -2492,14 +2492,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Ceará",
           "Short name": "UFCA",
           "Contestants": [
-            "Jonas Sousa",
+            "Albert Nogueira",
             "Leandro Sousa",
-            "Albert Nogueira"
+            "Jonas Sousa"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Thiago Marcilon"
         }
@@ -2511,14 +2511,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Ceará",
           "Short name": "UFC",
           "Contestants": [
-            "Wanderley Chagas",
+            "Gabriel Candeia",
             "Paulo Roberto Pinto Costa",
-            "Gabriel Candeia"
+            "Wanderley Chagas"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Pablo Mayckon Silva Farias"
         },
@@ -2528,14 +2528,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Ceará",
           "Short name": "UFC",
           "Contestants": [
-            "Gabriel Campos De Oliveira",
+            "Dariel Bezerra De Sousa",
             "Gabriel Freitas De Oliveira",
-            "Dariel Bezerra De Sousa"
+            "Gabriel Campos De Oliveira"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Pablo Mayckon Silva Farias"
         },
@@ -2545,14 +2545,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Ceará",
           "Short name": "UFC",
           "Contestants": [
-            "Mario Cesar Freire Dias Filho",
+            "Cezario Luiz Mesquita",
             "Paulo Douglas Melo Da Silva",
-            "Cezario Luiz Mesquita"
+            "Mario Cesar Freire Dias Filho"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Pablo Mayckon Silva Farias"
         },
@@ -2562,14 +2562,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Ceará",
           "Short name": "UFC",
           "Contestants": [
-            "Caio De Freitas Oliveira",
+            "Isabel Cristina",
             "Guilherme Fernandes",
-            "Isabel Cristina"
+            "Caio De Freitas Oliveira"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Female"
+            "FEMALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Pablo Mayckon Silva Farias"
         },
@@ -2579,14 +2579,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Ceará",
           "Short name": "UFC",
           "Contestants": [
-            "Lucas Noronha De Oliveira Alves",
+            "Matheus Rocha Monteiro",
             "Marcos Augusto Pereira Albuquerque Lima",
-            "Matheus Rocha Monteiro"
+            "Lucas Noronha De Oliveira Alves"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Pablo Mayckon Silva Farias"
         },
@@ -2596,14 +2596,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Ceará",
           "Short name": "UFC",
           "Contestants": [
-            "Davi Queiroz Albuquerque",
+            "Catherine Bezerra Markert",
             "Yago Costa De Oliveira",
-            "Catherine Bezerra Markert"
+            "Davi Queiroz Albuquerque"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Female"
+            "FEMALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Pablo Mayckon Silva Farias"
         }
@@ -2615,14 +2615,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Ceará",
           "Short name": "UFC - Crateús",
           "Contestants": [
+            "Matheus Alves Varela",
             "Adalberto Felipe Pinheiro Chaves",
-            "Andressa Carvalho De Medeiro",
-            "Matheus Alves Varela"
+            "Andressa Carvalho De Medeiro"
           ],
           "Sex": [
-            "Male",
-            "Female",
-            "Male"
+            "MALE",
+            "MALE",
+            "FEMALE"
           ],
           "Coach": "Wladimir Araújo Tavares"
         },
@@ -2632,14 +2632,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Ceará",
           "Short name": "UFC - Crateús",
           "Contestants": [
-            "Antônio Romário Carlos De Melo",
+            "Karine Gonzaga Vidal",
             "Raniely Freitas Araújo",
-            "Karine Gonzaga Vidal"
+            "Antônio Romário Carlos De Melo"
           ],
           "Sex": [
-            "Male",
-            "Female",
-            "Female"
+            "FEMALE",
+            "FEMALE",
+            "MALE"
           ],
           "Coach": "Wladimir Araújo Tavares"
         }
@@ -2651,14 +2651,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Ceará",
           "Short name": "",
           "Contestants": [
-            "Otávio De Albuquerque De Costa",
+            "Larissa Da Silva Matos",
             "Jardeanne Ferreira",
-            "Larissa Da Silva Matos"
+            "Otávio De Albuquerque De Costa"
           ],
           "Sex": [
-            "Male",
-            "Female",
-            "Female"
+            "FEMALE",
+            "FEMALE",
+            "MALE"
           ],
           "Coach": "Wladimir Araújo Tavares"
         },
@@ -2668,31 +2668,31 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Ceará",
           "Short name": "",
           "Contestants": [
-            "Michael Douglas Gonçalves Nóbrega",
+            "Claro Henrique Silva Sales",
             "Paulo Miranda E Silva Sousa",
-            "Claro Henrique Silva Sales"
+            "Michael Douglas Gonçalves Nóbrega"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Wladimir Araújo Tavares"
         },
-        "AP'utaria302": {
+        "AP'utaria302 ": {
           "Rank": 507,
           "SiteRank": 26,
           "Site": "Ceará",
           "Short name": "",
           "Contestants": [
-            "Samuel Henrique Guimarães Alencar",
+            "Aluizio Lucas Gomes De Lima",
             "Daniel Araújo Sousa",
-            "Aluizio Lucas Gomes De Lima"
+            "Samuel Henrique Guimarães Alencar"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Wladimir Araújo Tavares"
         },
@@ -2702,14 +2702,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Ceará",
           "Short name": "",
           "Contestants": [
-            "Pedro Henrique Magalhães Botelho",
+            "José David Melo Santos",
             "Wallinson Ribeiro",
-            "José David Melo Santos"
+            "Pedro Henrique Magalhães Botelho"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Wladimir Araújo Tavares"
         },
@@ -2719,14 +2719,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Ceará",
           "Short name": "",
           "Contestants": [
-            "Uanderson Nunes De Lima",
+            "Paula Luana Oliveira Da Silva",
             "Kassiane Lopes Façanha",
-            "Paula Luana Oliveira Da Silva"
+            "Uanderson Nunes De Lima"
           ],
           "Sex": [
-            "Male",
-            "Female",
-            "Female"
+            "FEMALE",
+            "FEMALE",
+            "MALE"
           ],
           "Coach": "Wladimir Araújo Tavares"
         },
@@ -2736,14 +2736,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Ceará",
           "Short name": "",
           "Contestants": [
-            "Antonio César De Andrade Júnior",
+            "Anderson Moura Costa Do Nascimento",
             "David Machado Couto Bezerra",
-            "Anderson Moura Costa Do Nascimento"
+            "Antonio César De Andrade Júnior"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Wladimir Araújo Tavares"
         },
@@ -2753,14 +2753,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Ceará",
           "Short name": "",
           "Contestants": [
-            "Francisco Ítalo De Andrade Morais",
+            "Daniel Vitor Pereira Rodrigues",
             "Alex Sousa Cruz",
-            "Daniel Vitor Pereira Rodrigues"
+            "Francisco Ítalo De Andrade Morais"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Wladimir Araújo Tavares"
         },
@@ -2770,14 +2770,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Ceará",
           "Short name": "",
           "Contestants": [
-            "Petrucio Neves",
+            "Juan Pimentel",
             "Pedro Henrique",
-            "Juan Pimentel"
+            "Petrucio Neves"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Wladimir Araújo Tavares"
         },
@@ -2787,14 +2787,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Ceará",
           "Short name": "",
           "Contestants": [
-            "Francisco Anderson Silva Vieira",
+            "Eliabe Santos",
             "Igor Alan Alburquerque De Sousa",
-            "Eliabe Santos"
+            "Francisco Anderson Silva Vieira"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Wladimir Araújo Tavares"
         },
@@ -2804,14 +2804,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Ceará",
           "Short name": "",
           "Contestants": [
-            "Douglas Araujo Pereira",
+            "Mogleson De Lima Maciel",
             "Henrique Vieira Cavalcante",
-            "Mogleson De Lima Maciel"
+            "Douglas Araujo Pereira"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Wladimir Araújo Tavares"
         },
@@ -2821,14 +2821,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Ceará",
           "Short name": "",
           "Contestants": [
-            "Guthyerri Alexandrino Barbosa",
+            "Matias Vieira De Moraes",
             "Maria Eduarda Silva Vieira",
-            "Matias Vieira De Moraes"
+            "Guthyerri Alexandrino Barbosa"
           ],
           "Sex": [
-            "Male",
-            "Female",
-            "Male"
+            "MALE",
+            "FEMALE",
+            "MALE"
           ],
           "Coach": "Wladimir Araújo Tavares"
         },
@@ -2838,14 +2838,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Ceará",
           "Short name": "",
           "Contestants": [
-            "Marcos Wesly Alves Dos Santos",
+            "Maykon Glêdson Da Silva Nunes",
             "Sávio Da Silva Rodrigues",
-            "Maykon Glêdson Da Silva Nunes"
+            "Marcos Wesly Alves Dos Santos"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Wladimir Araújo Tavares"
         },
@@ -2855,14 +2855,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Ceará",
           "Short name": "",
           "Contestants": [
-            "Francisco Costa Cassemiro Júnior",
+            "Francisco Evenilson Liandro Pinheiro",
             "Francisco Camilo De Lima Filho",
-            "Francisco Evenilson Liandro Pinheiro"
+            "Francisco Costa Cassemiro Júnior"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Wladimir Araújo Tavares"
         },
@@ -2872,14 +2872,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Ceará",
           "Short name": "",
           "Contestants": [
-            "Ian Mateus Torres Pompeu",
+            "Samuel Evangelista De Aquino Júnior",
             "Guilherme Willian Saraiva Da Hora",
-            "Samuel Evangelista De Aquino Júnior"
+            "Ian Mateus Torres Pompeu"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Wladimir Araújo Tavares"
         },
@@ -2889,14 +2889,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Ceará",
           "Short name": "",
           "Contestants": [
-            "Lucas Gabriel Brito Silveira",
+            "Robert Vinicius Oliveira Gonçalves",
             "Natalia Da Silva Guimarães",
-            "Robert Vinicius Oliveira Gonçalves"
+            "Lucas Gabriel Brito Silveira"
           ],
           "Sex": [
-            "Male",
-            "Female",
-            "Male"
+            "MALE",
+            "FEMALE",
+            "MALE"
           ],
           "Coach": "Wladimir Araújo Tavares"
         },
@@ -2906,14 +2906,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Ceará",
           "Short name": "",
           "Contestants": [
-            "Paula Araújo Feitosa",
+            "Davi Teixeira",
             "Aline Araújo Souza",
-            "Davi Teixeira"
+            "Paula Araújo Feitosa"
           ],
           "Sex": [
-            "Female",
-            "Female",
-            "Male"
+            "MALE",
+            "FEMALE",
+            "FEMALE"
           ],
           "Coach": "Wladimir Araújo Tavares"
         },
@@ -2923,14 +2923,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Ceará",
           "Short name": "",
           "Contestants": [
-            "Davi Dos Santos Freitas",
+            "Francisco Edvaldo De Oliveira Junior",
             "Isânio Victor Felix Araújo",
-            "Francisco Edvaldo De Oliveira Junior"
+            "Davi Dos Santos Freitas"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Wladimir Araújo Tavares"
         }
@@ -2944,14 +2944,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Maranhão",
           "Short name": "UNIBALSAS",
           "Contestants": [
-            "Alberto Vinicius Martins Rocha",
+            "Armando Pinheiro Dos Santos Júnior",
             "José Antonio Nunes Da Rocha Silva",
-            "Armando Pinheiro Dos Santos Júnior"
+            "Alberto Vinicius Martins Rocha"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Bruno Ramon De Almeida E Silva"
         },
@@ -2961,14 +2961,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Maranhão",
           "Short name": "UNIBALSAS",
           "Contestants": [
-            "Felix Maciel Rodrigues Dos Santos",
+            "Marcos Vinicius Watanabe De Araújo Carneiro",
             "Lara Amorim De Sousa",
-            "Marcos Vinicius Watanabe De Araújo Carneiro"
+            "Felix Maciel Rodrigues Dos Santos"
           ],
           "Sex": [
-            "Male",
-            "Female",
-            "Male"
+            "MALE",
+            "FEMALE",
+            "MALE"
           ],
           "Coach": "Bruno Ramon De Almeida E Silva"
         }
@@ -2980,14 +2980,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Maranhão",
           "Short name": "UNDB",
           "Contestants": [
-            "Carlos Henrique Menezes Coelho Lopes",
+            "Lucas Felipe Sousa Vieira De Carvalho",
             "Jose Delfim Veloso Santos Filho",
-            "Lucas Felipe Sousa Vieira De Carvalho"
+            "Carlos Henrique Menezes Coelho Lopes"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Allan Cruz"
         },
@@ -2997,14 +2997,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Maranhão",
           "Short name": "UNDB",
           "Contestants": [
-            "Antonio Carlos Sousa Roque",
+            "Raphael Portela De Araujo Jansen Ferreira",
             "Arthur De Araújo Sousa",
-            "Raphael Portela De Araujo Jansen Ferreira"
+            "Antonio Carlos Sousa Roque"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Allan Cruz"
         }
@@ -3016,14 +3016,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Maranhão",
           "Short name": "UFMA",
           "Contestants": [
-            "Daniel Pinto",
+            "Daniel Sousa",
             "Arthur Passos",
-            "Daniel Sousa"
+            "Daniel Pinto"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Carlos Soares Neto"
         },
@@ -3033,14 +3033,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Maranhão",
           "Short name": "UFMA",
           "Contestants": [
-            "Emanuelle Da Luz Lemos",
+            "Pedro Vinnícius Bernhard",
             "Dayvson Almeida",
-            "Pedro Vinnícius Bernhard"
+            "Emanuelle Da Luz Lemos"
           ],
           "Sex": [
-            "Female",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "FEMALE"
           ],
           "Coach": "Carlos Soares Neto"
         }
@@ -3059,9 +3059,9 @@ CONTESTS[2020]["1aFase"] = {
             "James Marcos Veloso Neto"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Eduardo Falcão"
         },
@@ -3071,14 +3071,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Paraíba",
           "Short name": "Unifacisa",
           "Contestants": [
-            "Matheus Jordan",
             "Luccas Maciel",
-            "Samuel Luna"
+            "Samuel Luna",
+            "Matheus Jordan"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Eduardo Falcão"
         }
@@ -3090,14 +3090,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Paraíba",
           "Short name": "UNIPÊ",
           "Contestants": [
-            "Rafael Da Silva Petrucci Falcão",
+            "Arthur Silveira Vasconcellos",
             "Naydlene Brito",
-            "Arthur Silveira Vasconcellos"
+            "Rafael Da Silva Petrucci Falcão"
           ],
           "Sex": [
-            "Male",
-            "Female",
-            "Male"
+            "MALE",
+            "FEMALE",
+            "MALE"
           ],
           "Coach": "Thyago Maia Tavares De Farias"
         }
@@ -3109,14 +3109,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Paraíba",
           "Short name": "IFPB - Campina Grand",
           "Contestants": [
-            "João Pedro Alves De Lima",
+            "Luan Ferreira",
             "Micael Marques Rodrigues Silva",
-            "Luan Ferreira"
+            "João Pedro Alves De Lima"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Ruan Gomes"
         },
@@ -3126,14 +3126,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Paraíba",
           "Short name": "IFPB - Campina Grand",
           "Contestants": [
-            "Ayrton Dantas De Medeiros",
+            "Rafael Guimarães",
             "Lucas Tavares",
-            "Rafael Guimarães"
+            "Ayrton Dantas De Medeiros"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Ruan Gomes"
         }
@@ -3145,14 +3145,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Paraíba",
           "Short name": "IFPB - João Pessoa",
           "Contestants": [
-            "Calebe Oliveira De Figueirêdo",
+            "Kerven Albuquerque",
             "Victor Herbert Ferreira De Sousa",
-            "Kerven Albuquerque"
+            "Calebe Oliveira De Figueirêdo"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Thiago Gouveia Da Silva"
         },
@@ -3162,14 +3162,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Paraíba",
           "Short name": "IFPB - João Pessoa",
           "Contestants": [
-            "Pedro Lucas De Lima Silva",
+            "Pedro Stevenson Martins Nunes",
             "Pedro Henrique Firmino Ceruti",
-            "Pedro Stevenson Martins Nunes"
+            "Pedro Lucas De Lima Silva"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Thiago Gouveia Da Silva"
         },
@@ -3179,14 +3179,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Paraíba",
           "Short name": "IFPB - João Pessoa",
           "Contestants": [
-            "Suetone Carneiro De Andrade Neto",
+            "Yasmin Alves Da Silva",
             "José Eduardo De Freitas Batista",
-            "Yasmin Alves Da Silva"
+            "Suetone Carneiro De Andrade Neto"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Female"
+            "FEMALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Thiago Gouveia Da Silva"
         },
@@ -3196,14 +3196,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Paraíba",
           "Short name": "IFPB - João Pessoa",
           "Contestants": [
-            "Ayrton Macaulay",
+            "Lucas Veloso",
             "Bianca Oliveira",
-            "Lucas Veloso"
+            "Ayrton Macaulay"
           ],
           "Sex": [
-            "Male",
-            "Female",
-            "Male"
+            "MALE",
+            "FEMALE",
+            "MALE"
           ],
           "Coach": "Thiago Gouveia Da Silva"
         },
@@ -3213,14 +3213,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Paraíba",
           "Short name": "IFPB - João Pessoa",
           "Contestants": [
-            "Igor Stefan",
+            "Julia Oliveira",
             "Rafael Chaves",
-            "Julia Oliveira"
+            "Igor Stefan"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Female"
+            "FEMALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Thiago Gouveia Da Silva"
         },
@@ -3230,14 +3230,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Paraíba",
           "Short name": "IFPB - João Pessoa",
           "Contestants": [
-            "Ricardo França Soares",
+            "Maria Nicolle Ferreira Da Silva",
             "Victor De Oliveira Madeiro Santos",
-            "Maria Nicolle Ferreira Da Silva"
+            "Ricardo França Soares"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Female"
+            "FEMALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Thiago Gouveia Da Silva"
         },
@@ -3247,14 +3247,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Paraíba",
           "Short name": "IFPB - João Pessoa",
           "Contestants": [
-            "Rayan Santos Cavalcante E Silva",
+            "Andressa Da Silva Theotônio Alves",
             "Leandro Silva",
-            "Andressa Da Silva Theotônio Alves"
+            "Rayan Santos Cavalcante E Silva"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Female"
+            "FEMALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Thiago Gouveia Da Silva"
         }
@@ -3266,14 +3266,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Paraíba",
           "Short name": "UEPB",
           "Contestants": [
-            "Thairam Michel Santos Ataíde",
+            "Ramon Rodrigues De Sales",
             "Adson De Macedo Nascimento",
-            "Ramon Rodrigues De Sales"
+            "Thairam Michel Santos Ataíde"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Sabrina De Figueiredo Souto"
         }
@@ -3285,14 +3285,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Paraíba",
           "Short name": "UFPB",
           "Contestants": [
-            "João Pedro Vasconcelos Teixeira",
+            "Itamar Filho",
             "João Lucena",
-            "Itamar Filho"
+            "João Pedro Vasconcelos Teixeira"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Lincoln David Nery E Silva"
         },
@@ -3302,14 +3302,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Paraíba",
           "Short name": "UFPB",
           "Contestants": [
-            "Pablo Mousinho",
+            "Victor Koehler",
             "Larissa Marinho",
-            "Victor Koehler"
+            "Pablo Mousinho"
           ],
           "Sex": [
-            "Male",
-            "Female",
-            "Male"
+            "MALE",
+            "FEMALE",
+            "MALE"
           ],
           "Coach": "Lincoln David Nery E Silva"
         }
@@ -3321,14 +3321,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Paraíba",
           "Short name": "UFCG",
           "Contestants": [
-            "Lucas Brenner Herculano E Albuquerque",
+            "Raphael De Paula Fonseca",
             "Rennan Rocha De Freitas",
-            "Raphael De Paula Fonseca"
+            "Lucas Brenner Herculano E Albuquerque"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Rohit Gheyi"
         },
@@ -3338,14 +3338,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Paraíba",
           "Short name": "UFCG",
           "Contestants": [
-            "Flávio Roberto Pires Quirino Farias",
+            "Alexandre Ribeiro Ferreira",
             "Eduardo Macedo Cavalcanti Freitas",
-            "Alexandre Ribeiro Ferreira"
+            "Flávio Roberto Pires Quirino Farias"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Rohit Gheyi"
         },
@@ -3355,14 +3355,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Paraíba",
           "Short name": "UFCG",
           "Contestants": [
-            "Vinicius Rodrigues Pacheco De Lima",
+            "Raphael Henrique De Lucena Agra",
             "Vinícius Abner Pereira De Souza",
-            "Raphael Henrique De Lucena Agra"
+            "Vinicius Rodrigues Pacheco De Lima"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Rohit Gheyi"
         },
@@ -3372,14 +3372,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Paraíba",
           "Short name": "UFCG",
           "Contestants": [
-            "Gaspar Soares De Alencar",
+            "Henrique Castro Arriel",
             "Wesley Monte",
-            "Henrique Castro Arriel"
+            "Gaspar Soares De Alencar"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Rohit Gheyi"
         },
@@ -3389,14 +3389,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Paraíba",
           "Short name": "UFCG",
           "Contestants": [
-            "Leonardo Su",
+            "Pedro Henrique De Moraes Nóbrega",
             "João Gabriel Abrantes De Oliveira Uchôa",
-            "Pedro Henrique De Moraes Nóbrega"
+            "Leonardo Su"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Rohit Gheyi"
         },
@@ -3406,14 +3406,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Paraíba",
           "Short name": "UFCG",
           "Contestants": [
-            "Gabriel Tavares",
+            "Matheus Oliveira",
             "José Amândio Ferreira Dos Santos",
-            "Matheus Oliveira"
+            "Gabriel Tavares"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Rohit Gheyi"
         },
@@ -3423,14 +3423,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Paraíba",
           "Short name": "UFCG",
           "Contestants": [
-            "Maria Luiza De Souza Marinho",
+            "Maria Das Graças Soares Da Costa",
             "Bianca Cavalcante Pachêco",
-            "Maria Das Graças Soares Da Costa"
+            "Maria Luiza De Souza Marinho"
           ],
           "Sex": [
-            "Female",
-            "Female",
-            "Female"
+            "FEMALE",
+            "FEMALE",
+            "FEMALE"
           ],
           "Coach": "Rohit Gheyi"
         },
@@ -3440,14 +3440,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Paraíba",
           "Short name": "UFCG",
           "Contestants": [
-            "Ezequias De Oliveira Rocha",
+            "João Vitor De Melo Cavalcante E Souza",
             "Felipe Jerônimo Bernardo Da Silva",
-            "João Vitor De Melo Cavalcante E Souza"
+            "Ezequias De Oliveira Rocha"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Rohit Gheyi"
         },
@@ -3457,14 +3457,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Paraíba",
           "Short name": "UFCG",
           "Contestants": [
-            "Emerson Leonardo Lucena",
+            "Daniel Figueredo",
             "João Marcos Lima Medeiros",
-            "Daniel Figueredo"
+            "Emerson Leonardo Lucena"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Rohit Gheyi"
         },
@@ -3474,14 +3474,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Paraíba",
           "Short name": "UFCG",
           "Contestants": [
-            "Augusto Nunes Zacarias",
+            "Davi Gomes Passos Sousa",
             "Kleber Reudo Filgueiras Maia Sobrinho",
-            "Davi Gomes Passos Sousa"
+            "Augusto Nunes Zacarias"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Rohit Gheyi"
         },
@@ -3491,14 +3491,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Paraíba",
           "Short name": "UFCG",
           "Contestants": [
-            "Abraão Caiana De Freitas",
+            "Rembrandt Asafe Vasconcelos Costa",
             "Daví Henrique Silva Guimarães",
-            "Rembrandt Asafe Vasconcelos Costa"
+            "Abraão Caiana De Freitas"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Rohit Gheyi"
         },
@@ -3508,14 +3508,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Paraíba",
           "Short name": "UFCG",
           "Contestants": [
-            "João Vitor Silva Luciano",
+            "Carolina Martins Freitas",
             "Alexandre Barros Corlet Dos Santos",
-            "Carolina Martins Freitas"
+            "João Vitor Silva Luciano"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Female"
+            "FEMALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Rohit Gheyi"
         },
@@ -3525,14 +3525,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Paraíba",
           "Short name": "UFCG",
           "Contestants": [
-            "Felipe Mota Dos Santos",
+            "Ícaro Lima",
             "Matheus Coutinho",
-            "Ícaro Lima"
+            "Felipe Mota Dos Santos"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Isabel Fontgalland"
         }
@@ -3544,14 +3544,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "São Paulo",
           "Short name": "UNIVAP",
           "Contestants": [
-            "Gabriel Muniz De Almeida",
+            "Mariana Mendonça",
             "Mateus Arcanjo",
-            "Mariana Mendonça"
+            "Gabriel Muniz De Almeida"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Female"
+            "FEMALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Valdir Pillat"
         },
@@ -3561,14 +3561,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "São Paulo",
           "Short name": "UNIVAP",
           "Contestants": [
-            "Luan Chagas",
+            "Eliaquim Lima",
             "Giovanni Gonçalves",
-            "Eliaquim Lima"
+            "Luan Chagas"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Valdir Pillat"
         },
@@ -3578,14 +3578,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "São Paulo",
           "Short name": "UNIVAP",
           "Contestants": [
-            "Leandro Kamiguchi",
+            "William Fernandes Rebeque",
             "Huilgner Otaviano",
-            "William Fernandes Rebeque"
+            "Leandro Kamiguchi"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Wagner Clementino De Jesus"
         }
@@ -3599,14 +3599,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Pernambuco",
           "Short name": "CESAR School",
           "Contestants": [
-            "João Ventura",
+            "Gabriel Portela",
             "Gabriela Marinho",
-            "Gabriel Portela"
+            "João Ventura"
           ],
           "Sex": [
-            "Male",
-            "Female",
-            "Male"
+            "MALE",
+            "FEMALE",
+            "MALE"
           ],
           "Coach": "Joyce Teixeira"
         },
@@ -3616,14 +3616,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Pernambuco",
           "Short name": "CESAR School",
           "Contestants": [
-            "Yuri Matos",
+            "Paulo Matos",
             "Cristiano Rego",
-            "Paulo Matos"
+            "Yuri Matos"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Joyce Teixeira"
         },
@@ -3633,14 +3633,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Pernambuco",
           "Short name": "CESAR School",
           "Contestants": [
-            "Caio Calado",
+            "Leticia Chiu",
             "Lucas Mendes",
-            "Leticia Chiu"
+            "Caio Calado"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Female"
+            "FEMALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Joyce Teixeira"
         }
@@ -3652,14 +3652,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Pernambuco",
           "Short name": "UFRPE",
           "Contestants": [
-            "Maria Luisa Silva",
+            "Nathan Freitas",
             "Gabriel Reis De Oliveira Nogueira",
-            "Nathan Freitas"
+            "Maria Luisa Silva"
           ],
           "Sex": [
-            "Female",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "FEMALE"
           ],
           "Coach": "Rodrigo Soares"
         }
@@ -3671,14 +3671,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Pernambuco",
           "Short name": "UFPE",
           "Contestants": [
-            "Vinícius Januário",
+            "Gabriel Schneider",
             "Ana Albuquerque",
-            "Gabriel Schneider"
+            "Vinícius Januário"
           ],
           "Sex": [
-            "Male",
-            "Female",
-            "Male"
+            "MALE",
+            "FEMALE",
+            "MALE"
           ],
           "Coach": "Nivan Ferreira"
         },
@@ -3688,14 +3688,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Pernambuco",
           "Short name": "UFPE",
           "Contestants": [
-            "Gabriel Mendes",
+            "Vinícius Serra",
             "Ícaro Guerra",
-            "Vinícius Serra"
+            "Gabriel Mendes"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Nivan Ferreira"
         },
@@ -3705,14 +3705,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Pernambuco",
           "Short name": "UFPE",
           "Contestants": [
-            "Pedro Coutinho",
+            "Gabriela Heimer",
             "Víctor Silva",
-            "Gabriela Heimer"
+            "Pedro Coutinho"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Female"
+            "FEMALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Nivan Ferreira"
         },
@@ -3722,14 +3722,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Pernambuco",
           "Short name": "UFPE",
           "Contestants": [
-            "Matheus Nascimento",
+            "Mateus Loureiro",
             "Gustavo Farias",
-            "Mateus Loureiro"
+            "Matheus Nascimento"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Nivan Ferreira"
         },
@@ -3739,14 +3739,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Pernambuco",
           "Short name": "UFPE",
           "Contestants": [
-            "Ricardo Fagundes",
+            "Gabriel Ferraz",
             "José Cruz",
-            "Gabriel Ferraz"
+            "Ricardo Fagundes"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Nivan Ferreira"
         },
@@ -3756,14 +3756,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Pernambuco",
           "Short name": "UFPE",
           "Contestants": [
-            "Gabriel Meireles",
+            "Gustavo Moraes",
             "André Vasconcelos",
-            "Gustavo Moraes"
+            "Gabriel Meireles"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Nivan Ferreira"
         }
@@ -3775,14 +3775,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Bahia",
           "Short name": "UNIVASF",
           "Contestants": [
-            "Ezequias Antunes",
             "Anderson Barros",
+            "Ezequias Antunes",
             "Matheus Figueredo"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Marcelo Linder"
         },
@@ -3792,14 +3792,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Bahia",
           "Short name": "UNIVASF",
           "Contestants": [
-            "Gerson Macedo",
             "Gabriel Silva",
+            "Gerson Macedo",
             "Alan Pinho"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Marcelo Linder"
         },
@@ -3809,14 +3809,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Bahia",
           "Short name": "UNIVASF",
           "Contestants": [
-            "Edjair Aguiar",
             "Victor Gabriel Ferreira Barbosa",
+            "Edjair Aguiar",
             "Djeysi Kathleen Alves Da Silva"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Female"
+            "MALE",
+            "MALE",
+            "FEMALE"
           ],
           "Coach": "Marcelo Linder"
         },
@@ -3826,14 +3826,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Bahia",
           "Short name": "UNIVASF",
           "Contestants": [
-            "Daniel Carvalho",
+            "Rodrigo Barboza",
             "Talisson Damião",
-            "Rodrigo Barboza"
+            "Daniel Carvalho"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Marcelo Linder"
         }
@@ -3847,14 +3847,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Piauí",
           "Short name": "IFPI",
           "Contestants": [
-            "Lucas Gomes",
+            "Wanderson Sousa",
             "Guilherme Daniel",
-            "Wanderson Sousa"
+            "Lucas Gomes"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Rogério Silva"
         },
@@ -3864,14 +3864,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Piauí",
           "Short name": "IFPI",
           "Contestants": [
-            "Marcos Vinícius",
+            "Luis Henrique Bueno",
             "Tiago Benvindo",
-            "Luis Henrique Bueno"
+            "Marcos Vinícius"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Rogério Silva"
         },
@@ -3881,14 +3881,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Piauí",
           "Short name": "IFPI",
           "Contestants": [
-            "Rafael Araújo",
+            "André Souza",
             "Mikael Santilio",
-            "André Souza"
+            "Rafael Araújo"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Rogério Silva"
         }
@@ -3900,14 +3900,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Piauí",
           "Short name": "UESPI",
           "Contestants": [
-            "Tiago Abilio",
+            "Diogo Alves",
             "Gustavo Wanderley",
-            "Diogo Alves"
+            "Tiago Abilio"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Alcemir Santos"
         },
@@ -3917,14 +3917,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Piauí",
           "Short name": "UESPI",
           "Contestants": [
-            "Marcel Mei",
+            "Luan Rodrigues",
             "Adickson Santos Junior",
-            "Luan Rodrigues"
+            "Marcel Mei"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Thiago C. De Sousa"
         },
@@ -3934,14 +3934,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Piauí",
           "Short name": "UESPI",
           "Contestants": [
-            "Felipe Soares Neto",
+            "José Ximenes Da Silva",
             "Jelson Da Silva Araújo",
-            "José Ximenes Da Silva"
+            "Felipe Soares Neto"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Thiago C. De Sousa"
         },
@@ -3951,14 +3951,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Piauí",
           "Short name": "UESPI",
           "Contestants": [
-            "Brenne Santos",
+            "Carlos Alexandre",
             "Francisco Carvalho",
-            "Carlos Alexandre"
+            "Brenne Santos"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Alcemir Santos"
         },
@@ -3968,14 +3968,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Piauí",
           "Short name": "UESPI",
           "Contestants": [
-            "Anderson Rafael De Araújo Oliveira",
+            "Antonio Veloso",
             "Willy Oliveira",
-            "Antonio Veloso"
+            "Anderson Rafael De Araújo Oliveira"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Thiago C. De Sousa"
         },
@@ -3985,14 +3985,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Piauí",
           "Short name": "UESPI",
           "Contestants": [
-            "Lucas Alves",
+            "Philipe Vieira Oliveira",
             "Marcelo Feitosa",
-            "Philipe Vieira Oliveira"
+            "Lucas Alves"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Thiago C. De Sousa"
         }
@@ -4004,33 +4004,52 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Piauí",
           "Short name": "UESPI Parnaíba",
           "Contestants": [
-            "John Cardozo",
+            "Vitor Silva",
             "Lucas Araujo",
-            "Vitor Silva"
+            "John Cardozo"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Francisco Rocha"
         }
       },
       "Universidade Federal do Piauí": {
+        "Tesla": {
+          "Rank": 615,
+          "SiteRank": 17,
+          "Site": "Piauí",
+          "Short name": "UFPI",
+          "Contestants": [
+            "Sâmara Freitas",
+            "Sóstenes Silva",
+            "Händel Sarmento"
+          ],
+          "Sex": [
+            "FEMALE",
+            "MALE",
+            "MALE"
+          ],
+          "Coach": "Rosianni Cruz"
+        }
+      },
+      "Universidade Federal do Piauí ": {
         "Lost": {
           "Rank": 420,
           "SiteRank": 9,
           "Site": "Piauí",
           "Short name": "UFPI",
           "Contestants": [
-            "Francisco Jair Francisco",
+            "Luis Carlos Da Silva Filho",
             "Daniel Cunha",
-            "Luis Carlos Da Silva Filho"
+            "Francisco Jair Francisco"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Rosianni Cruz"
         },
@@ -4040,31 +4059,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Piauí",
           "Short name": "UFPI",
           "Contestants": [
-            "Lucas Cruz",
+            "Davi José Santos",
             "Vitor Campelo",
-            "Davi José Santos"
+            "Lucas Cruz"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
-          ],
-          "Coach": "Rosianni Cruz"
-        },
-        "Tesla": {
-          "Rank": 615,
-          "SiteRank": 17,
-          "Site": "Piauí",
-          "Short name": "UFPI",
-          "Contestants": [
-            "Händel Sarmento",
-            "Sóstenes Silva",
-            "Sâmara Freitas"
-          ],
-          "Sex": [
-            "Male",
-            "Male",
-            "Female"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Rosianni Cruz"
         },
@@ -4074,14 +4076,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Piauí",
           "Short name": "UFPI",
           "Contestants": [
-            "Carlos Eduardo De Santana Bastos",
+            "Felipe Barros Caminha",
             "Gabriel Araújo",
-            "Felipe Barros Caminha"
+            "Carlos Eduardo De Santana Bastos"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Rosianni Cruz"
         },
@@ -4091,14 +4093,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Piauí",
           "Short name": "UFPI",
           "Contestants": [
-            "Járdesson Ribeiro",
+            "Lucas Amaral",
             "Raphael Andrade",
-            "Lucas Amaral"
+            "Járdesson Ribeiro"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Rosianni Cruz"
         },
@@ -4108,14 +4110,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Piauí",
           "Short name": "UFPI",
           "Contestants": [
-            "Victor Silva",
+            "Jhoisnáyra Almeida",
             "Jasson Silva",
-            "Jhoisnáyra Almeida"
+            "Victor Silva"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Female"
+            "FEMALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Rosianni Cruz"
         }
@@ -4127,14 +4129,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Piauí",
           "Short name": "UFPI - Picos",
           "Contestants": [
-            "Bruno Lopes",
+            "Pablo Silva",
             "Renan Gabriel Gonçalves Silva",
-            "Pablo Silva"
+            "Bruno Lopes"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Glauber Gonçalves"
         },
@@ -4144,14 +4146,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Piauí",
           "Short name": "UFPI - Picos",
           "Contestants": [
-            "Samuel De Oliveira Ribeiro",
+            "Samuel Pedro Beserra Dantas Lélis",
             "Jederilson Sousa Luz",
-            "Samuel Pedro Beserra Dantas Lélis"
+            "Samuel De Oliveira Ribeiro"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Glauber Gonçalves"
         }
@@ -4165,14 +4167,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Rio Grande do Norte",
           "Short name": "IFRN - CNAT",
           "Contestants": [
-            "Carolina Praxedes",
+            "Mayra Perpétua Melo Silva",
             "Felipe Rocha",
-            "Mayra Perpétua Melo Silva"
+            "Carolina Praxedes"
           ],
           "Sex": [
-            "Female",
-            "Male",
-            "Female"
+            "FEMALE",
+            "MALE",
+            "FEMALE"
           ],
           "Coach": "Jorgiano Vidal"
         },
@@ -4182,14 +4184,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Rio Grande do Norte",
           "Short name": "IFRN - CNAT",
           "Contestants": [
-            "Fernando Dantas",
+            "Luciano Sizilio",
             "Daniel Victor",
-            "Luciano Sizilio"
+            "Fernando Dantas"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Jorgiano Vidal"
         },
@@ -4199,14 +4201,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Rio Grande do Norte",
           "Short name": "IFRN - CNAT",
           "Contestants": [
-            "Lucas Oliveira",
+            "João Dionisio",
             "Luiz Oliveira",
-            "João Dionisio"
+            "Lucas Oliveira"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Jorgiano Vidal"
         },
@@ -4216,50 +4218,50 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Rio Grande do Norte",
           "Short name": "IFRN - CNAT",
           "Contestants": [
-            "Matheus Silva",
+            "Jherod Anjos",
             "Fabio Cavalcante",
-            "Jherod Anjos"
+            "Matheus Silva"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Jorgiano Vidal"
         }
       },
       "Universidade Federal do Rio Grande do Norte": {
+        " C tá de Grea": {
+          "Rank": 192,
+          "SiteRank": 3,
+          "Site": "Rio Grande do Norte",
+          "Short name": "UFRN",
+          "Contestants": [
+            "João Mendes Lopes Neto",
+            "Danilo Galvão",
+            "Gilney Junior"
+          ],
+          "Sex": [
+            "MALE",
+            "MALE",
+            "MALE"
+          ],
+          "Coach": "Sérgio Medeiros"
+        },
         "! Procrastinação": {
           "Rank": 301,
           "SiteRank": 4,
           "Site": "Rio Grande do Norte",
           "Short name": "UFRN",
           "Contestants": [
-            "Wallysson Silva",
+            "Tanhleno Sousa",
             "Layza Amorim",
-            "Tanhleno Sousa"
+            "Wallysson Silva"
           ],
           "Sex": [
-            "Male",
-            "Female",
-            "Male"
-          ],
-          "Coach": "Sérgio Medeiros"
-        },
-        "C tá de Grea": {
-          "Rank": 192,
-          "SiteRank": 3,
-          "Site": "Rio Grande do Norte",
-          "Short name": "UFRN",
-          "Contestants": [
-            "Danilo Galvão",
-            "João Mendes Lopes Neto",
-            "Gilney Junior"
-          ],
-          "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "FEMALE",
+            "MALE"
           ],
           "Coach": "Sérgio Medeiros"
         },
@@ -4269,14 +4271,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Rio Grande do Norte",
           "Short name": "UFRN",
           "Contestants": [
-            "Daniel Lucena",
+            "Gabriel Medeiros",
             "Vitória Alves",
-            "Gabriel Medeiros"
+            "Daniel Lucena"
           ],
           "Sex": [
-            "Male",
-            "Female",
-            "Male"
+            "MALE",
+            "FEMALE",
+            "MALE"
           ],
           "Coach": "Sérgio Medeiros"
         },
@@ -4286,14 +4288,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Rio Grande do Norte",
           "Short name": "UFRN",
           "Contestants": [
-            "João Pedro Paulo",
+            "Emelyn Freire",
             "Rennê Silva",
-            "Emelyn Freire"
+            "João Pedro Paulo"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Female"
+            "FEMALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Sérgio Medeiros"
         },
@@ -4303,14 +4305,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Rio Grande do Norte",
           "Short name": "UFRN",
           "Contestants": [
-            "João Pedro Lima",
+            "Matheus Andrade",
             "Pedro Henrique Cardoso",
-            "Matheus Andrade"
+            "João Pedro Lima"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Carlos Augusto Prolo"
         },
@@ -4320,14 +4322,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Rio Grande do Norte",
           "Short name": "UFRN",
           "Contestants": [
-            "João Victor Aquino",
+            "Paulo Augusto De Lima Medeiros",
             "João Bezerra",
-            "Paulo Augusto De Lima Medeiros"
+            "João Victor Aquino"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Sérgio Medeiros"
         },
@@ -4337,14 +4339,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Rio Grande do Norte",
           "Short name": "UFRN",
           "Contestants": [
-            "Enzo D'anjour",
+            "José Ronaldo Silva",
             "Felipe Costa",
-            "José Ronaldo Silva"
+            "Enzo D'anjour"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Carlos Augusto Prolo"
         },
@@ -4354,14 +4356,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Rio Grande do Norte",
           "Short name": "UFRN",
           "Contestants": [
-            "Lucas Moura Nascimento",
+            "Isaac Reinaldo Lima",
             "Luiz Gonzaga Gomes",
-            "Isaac Reinaldo Lima"
+            "Lucas Moura Nascimento"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Carlos Augusto Prolo"
         },
@@ -4371,14 +4373,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Rio Grande do Norte",
           "Short name": "UFRN",
           "Contestants": [
-            "Rodolfo Bezerra",
+            "Epitacio Silva",
             "Samuel Lucas Ferino",
-            "Epitacio Silva"
+            "Rodolfo Bezerra"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Sérgio Medeiros"
         },
@@ -4388,14 +4390,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Rio Grande do Norte",
           "Short name": "UFRN",
           "Contestants": [
-            "Ana Beatriz Marinho Neves",
+            "Beatriz Souza",
             "Arthur Oliveira",
-            "Beatriz Souza"
+            "Ana Beatriz Marinho Neves"
           ],
           "Sex": [
-            "Female",
-            "Male",
-            "Female"
+            "FEMALE",
+            "MALE",
+            "FEMALE"
           ],
           "Coach": "Sérgio Medeiros"
         }
@@ -4407,14 +4409,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Rio Grande do Norte",
           "Short name": "UERN",
           "Contestants": [
-            "Oziris Queiros Do Nascimento",
+            "Christian Lima Freitag",
             "Giulia De Oliveira Moscoso",
-            "Christian Lima Freitag"
+            "Oziris Queiros Do Nascimento"
           ],
           "Sex": [
-            "Male",
-            "Female",
-            "Male"
+            "MALE",
+            "FEMALE",
+            "MALE"
           ],
           "Coach": "Bruno Cruz De Oliveira"
         }
@@ -4428,14 +4430,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Bahia",
           "Short name": "Senai Cimatic",
           "Contestants": [
-            "Rafael Bessa Loureiro",
+            "Ricardo Ribeiro",
             "Riccardo Cafagna",
-            "Ricardo Ribeiro"
+            "Rafael Bessa Loureiro"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Marcos Santos"
         },
@@ -4445,14 +4447,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Bahia",
           "Short name": "Senai Cimatic",
           "Contestants": [
-            "Ruama Martins",
+            "Antonio César Nunes De Azevedo Filho",
             "Fernanda Hirata",
-            "Antonio César Nunes De Azevedo Filho"
+            "Ruama Martins"
           ],
           "Sex": [
-            "Female",
-            "Female",
-            "Male"
+            "MALE",
+            "FEMALE",
+            "FEMALE"
           ],
           "Coach": "Marcos Santos"
         }
@@ -4464,14 +4466,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Sergipe",
           "Short name": "U Federal de Sergipe",
           "Contestants": [
-            "Raul Nascimento",
+            "Fabricio Linhares",
             "Pedro Lucas",
-            "Fabricio Linhares"
+            "Raul Nascimento"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Andre Britto"
         },
@@ -4481,14 +4483,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Sergipe",
           "Short name": "U Federal de Sergipe",
           "Contestants": [
-            "José Freire",
+            "João Vitor Viana",
             "Lucas Souza",
-            "João Vitor Viana"
+            "José Freire"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Andre Britto"
         },
@@ -4498,14 +4500,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Sergipe",
           "Short name": "U Federal de Sergipe",
           "Contestants": [
-            "Andrey Rezende",
+            "Obertran Júnior",
             "Ivan Ferreira Junior",
-            "Obertran Júnior"
+            "Andrey Rezende"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Andre Britto"
         },
@@ -4515,14 +4517,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Sergipe",
           "Short name": "U Federal de Sergipe",
           "Contestants": [
-            "Endy Melo",
+            "Antônio Neto",
             "Rafael Sousa",
-            "Antônio Neto"
+            "Endy Melo"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Andre Britto"
         },
@@ -4532,14 +4534,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Sergipe",
           "Short name": "U Federal de Sergipe",
           "Contestants": [
-            "Lucas Expedito Dos Santos Oliveira",
+            "Francisco Rodrigues",
             "Guilherme Ventura",
-            "Francisco Rodrigues"
+            "Lucas Expedito Dos Santos Oliveira"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Andre Britto"
         }
@@ -4555,14 +4557,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Acre",
           "Short name": "U:VERSE",
           "Contestants": [
-            "Alzimiro Junior",
+            "André Peixoto",
             "Anderson Silva",
-            "André Peixoto"
+            "Alzimiro Junior"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Deuzivan Soares"
         }
@@ -4575,13 +4577,13 @@ CONTESTS[2020]["1aFase"] = {
           "Short name": "FAMETA",
           "Contestants": [
             "Marcos Santos",
-            "Washington Junior",
-            "Leonardo Souza Nascimento"
+            "Leonardo Souza Nascimento",
+            "Washington Junior"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Manoel Lima"
         },
@@ -4591,14 +4593,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Acre",
           "Short name": "FAMETA",
           "Contestants": [
-            "Wendell Ramos",
+            "João Netto",
             "Álif Oliveira",
-            "João Netto"
+            "Wendell Ramos"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Manoel Lima"
         }
@@ -4610,14 +4612,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Acre",
           "Short name": "IFAC",
           "Contestants": [
-            "Anderson Ferreira",
+            "Jonathas Silva",
             "Luis Santiago",
-            "Jonathas Silva"
+            "Anderson Ferreira"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Victor Vieira"
         },
@@ -4627,14 +4629,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Acre",
           "Short name": "IFAC",
           "Contestants": [
-            "Wydenmairion Rocha",
+            "Aléxis Braga",
             "Luiz Rocha",
-            "Aléxis Braga"
+            "Wydenmairion Rocha"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Marlon Teixeira"
         }
@@ -4646,14 +4648,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Acre",
           "Short name": "UFAC",
           "Contestants": [
-            "Lucas Guimarães",
             "Gabriel Santos",
+            "Lucas Guimarães",
             "Felipe Bezerra Lima"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Manoel Limeira"
         },
@@ -4663,14 +4665,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Acre",
           "Short name": "UFAC",
           "Contestants": [
-            "Victória Victória",
+            "José Leandro",
             "André Cacau",
-            "José Leandro"
+            "Victória Victória"
           ],
           "Sex": [
-            "Female",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "FEMALE"
           ],
           "Coach": "Manoel Limeira"
         },
@@ -4680,14 +4682,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Acre",
           "Short name": "UFAC",
           "Contestants": [
-            "Andrielle Bezerra",
+            "Mickael Labres",
             "Sávyo Souza",
-            "Mickael Labres"
+            "Andrielle Bezerra"
           ],
           "Sex": [
-            "Female",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "FEMALE"
           ],
           "Coach": "Manoel Limeira"
         },
@@ -4697,14 +4699,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Acre",
           "Short name": "UFAC",
           "Contestants": [
-            "Italo Oliveira",
+            "André Oliveira",
             "Bruno Ricardo Silva Trindade",
-            "André Oliveira"
+            "Italo Oliveira"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Manoel Limeira"
         }
@@ -4718,14 +4720,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Amazonas",
           "Short name": "IComp/UFAM",
           "Contestants": [
-            "Thiago Augusto Lima Hartman",
             "Joseph Ferreira Paz",
-            "Leonardo Viana Da Silva"
+            "Leonardo Viana Da Silva",
+            "Thiago Augusto Lima Hartman"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Rosiane De Freitasr"
         },
@@ -4735,14 +4737,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Amazonas",
           "Short name": "IComp/UFAM",
           "Contestants": [
-            "João Alfredo Holanda Bessa Neto",
             "Jackson Fernandes",
-            "Thailsson Andrade"
+            "Thailsson Andrade",
+            "João Alfredo Holanda Bessa Neto"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Rosiane De Freitasr"
         },
@@ -4752,14 +4754,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Amazonas",
           "Short name": "IComp/UFAM",
           "Contestants": [
-            "Matheus Serrão Uchoa",
+            "José Ricardo Sampaio Ii",
             "Rodrigo André Rangifo Vela",
-            "José Ricardo Sampaio Ii"
+            "Matheus Serrão Uchoa"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Rosiane De Freitasr"
         },
@@ -4769,14 +4771,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Amazonas",
           "Short name": "IComp/UFAM",
           "Contestants": [
-            "Thayna Silvestre",
+            "Raquel Folz Cavalcante",
             "Juliana Pereira De Magalhães",
-            "Raquel Folz Cavalcante"
+            "Thayna Silvestre"
           ],
           "Sex": [
-            "Female",
-            "Female",
-            "Female"
+            "FEMALE",
+            "FEMALE",
+            "FEMALE"
           ],
           "Coach": "Rosiane De Freitasr"
         },
@@ -4786,14 +4788,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Amazonas",
           "Short name": "IComp/UFAM",
           "Contestants": [
-            "Andevaldo Encarnação Vitório",
+            "Alexandre Da Silva Tupinambá",
             "Jose Tiago Santos Lima",
-            "Alexandre Da Silva Tupinambá"
+            "Andevaldo Encarnação Vitório"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Rosiane De Freitasr"
         },
@@ -4803,14 +4805,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Amazonas",
           "Short name": "IComp/UFAM",
           "Contestants": [
+            "Eriky Rodrigues De Souza",
             "Adrielly Moraes Lustoza",
-            "Ana Carolina Freitas Das Chagas",
-            "Eriky Rodrigues De Souza"
+            "Ana Carolina Freitas Das Chagas"
           ],
           "Sex": [
-            "Female",
-            "Female",
-            "Male"
+            "MALE",
+            "FEMALE",
+            "FEMALE"
           ],
           "Coach": "Rosiane De Freitasr"
         },
@@ -4820,14 +4822,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Amazonas",
           "Short name": "IComp/UFAM",
           "Contestants": [
-            "Elizamara Karina Nascimento",
             "Luís Guilherme Ferreira De Sena",
+            "Elizamara Karina Nascimento",
             "Helio Rodrigues"
           ],
           "Sex": [
-            "Female",
-            "Male",
-            "Male"
+            "MALE",
+            "FEMALE",
+            "MALE"
           ],
           "Coach": "Rosiane De Freitasr"
         },
@@ -4837,14 +4839,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Amazonas",
           "Short name": "IComp/UFAM",
           "Contestants": [
-            "Lucas Rocha Dos Santos",
+            "Lucas Castro De Souza",
             "Felipe Pereira Franco",
-            "Lucas Castro De Souza"
+            "Lucas Rocha Dos Santos"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Rosiane De Freitasr"
         },
@@ -4854,14 +4856,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Amazonas",
           "Short name": "IComp/UFAM",
           "Contestants": [
+            "Raimundo Pereira De Souza Neto",
             "Fylype Wase Cabral Lira",
-            "Gabriel Saraiva",
-            "Raimundo Pereira De Souza Neto"
+            "Gabriel Saraiva"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Rosiane De Freitasr"
         }
@@ -4873,14 +4875,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Amazonas",
           "Short name": "IFAM",
           "Contestants": [
-            "Wander Buraslan",
+            "Kalil Carneiro",
             "Brenda Moura",
-            "Kalil Carneiro"
+            "Wander Buraslan"
           ],
           "Sex": [
-            "Male",
-            "Female",
-            "Male"
+            "MALE",
+            "FEMALE",
+            "MALE"
           ],
           "Coach": "Amadeu Anderlin"
         },
@@ -4890,14 +4892,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Amazonas",
           "Short name": "IFAM",
           "Contestants": [
-            "Sarah Leite",
+            "Ana Paula Magalhãesde Brito",
             "Luana Lins",
-            "Ana Paula Magalhãesde Brito"
+            "Sarah Leite"
           ],
           "Sex": [
-            "Female",
-            "Female",
-            "Female"
+            "FEMALE",
+            "FEMALE",
+            "FEMALE"
           ],
           "Coach": "Amadeu Anderlin"
         },
@@ -4907,14 +4909,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Amazonas",
           "Short name": "IFAM",
           "Contestants": [
-            "Rebeca Pinto",
+            "João Camilo",
             "Keven De Paula",
-            "João Camilo"
+            "Rebeca Pinto"
           ],
           "Sex": [
-            "Female",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "FEMALE"
           ],
           "Coach": "Amadeu Anderlin"
         },
@@ -4924,14 +4926,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Amazonas",
           "Short name": "IFAM",
           "Contestants": [
-            "Guilherme Peixoto",
+            "Marcos Vinicius Silva Costa",
             "Victoria Senedesse",
-            "Marcos Vinicius Silva Costa"
+            "Guilherme Peixoto"
           ],
           "Sex": [
-            "Male",
-            "Female",
-            "Male"
+            "MALE",
+            "FEMALE",
+            "MALE"
           ],
           "Coach": "Amadeu Anderlin"
         },
@@ -4941,14 +4943,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Amazonas",
           "Short name": "IFAM",
           "Contestants": [
-            "Mario Carvalho",
+            "William Teixeira",
             "Raphaela Goes",
-            "William Teixeira"
+            "Mario Carvalho"
           ],
           "Sex": [
-            "Male",
-            "Female",
-            "Male"
+            "MALE",
+            "FEMALE",
+            "MALE"
           ],
           "Coach": "Amadeu Anderlin"
         },
@@ -4958,14 +4960,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Amazonas",
           "Short name": "IFAM",
           "Contestants": [
-            "João Cunha",
             "Rodrigo Marques",
+            "João Cunha",
             "Angel Sales"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Amadeu Anderlin"
         },
@@ -4975,14 +4977,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Amazonas",
           "Short name": "IFAM",
           "Contestants": [
-            "Yasmin Andrade",
+            "Rodrigo Alves",
             "Rodrigo Carvalho",
-            "Rodrigo Alves"
+            "Yasmin Andrade"
           ],
           "Sex": [
-            "Female",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "FEMALE"
           ],
           "Coach": "Amadeu Anderlin"
         }
@@ -4994,14 +4996,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Amazonas",
           "Short name": "UNINORTE",
           "Contestants": [
-            "Eduardo Soares",
+            "Wylkson Barbosa",
             "Felipe Alencar",
-            "Wylkson Barbosa"
+            "Eduardo Soares"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Jéssica Soares"
         },
@@ -5011,14 +5013,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Amazonas",
           "Short name": "UNINORTE",
           "Contestants": [
-            "Daniely Nakazaki",
+            "Hadassa Vasconcelos",
             "Rebecca Christina",
-            "Hadassa Vasconcelos"
+            "Daniely Nakazaki"
           ],
           "Sex": [
-            "Female",
-            "Female",
-            "Female"
+            "FEMALE",
+            "FEMALE",
+            "FEMALE"
           ],
           "Coach": "Jéssica Soares"
         },
@@ -5028,14 +5030,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Amazonas",
           "Short name": "UNINORTE",
           "Contestants": [
-            "Abimael Ferreira",
+            "Ericton Felicidade",
             "Felipe Lima",
-            "Ericton Felicidade"
+            "Abimael Ferreira"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Jéssica Soares"
         }
@@ -5052,9 +5054,9 @@ CONTESTS[2020]["1aFase"] = {
             "Marianne Giovana Guimarães Sales Haddad"
           ],
           "Sex": [
-            "Female",
-            "Female",
-            "Female"
+            "FEMALE",
+            "FEMALE",
+            "FEMALE"
           ],
           "Coach": "Rosiane De Freitasr"
         },
@@ -5069,9 +5071,9 @@ CONTESTS[2020]["1aFase"] = {
             "Jônatas Magalhães De Azevedo"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Rosiane De Freitasr"
         },
@@ -5081,14 +5083,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Amazonas",
           "Short name": "UFAM",
           "Contestants": [
+            "Luane Dos Santos Lopes",
             "Saimon Leandro De Sousa Tavares",
-            "Gustavo Gabriel Silva Dos Anjos",
-            "Luane Dos Santos Lopes"
+            "Gustavo Gabriel Silva Dos Anjos"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Female"
+            "FEMALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Rosiane De Freitasr"
         },
@@ -5098,14 +5100,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Amazonas",
           "Short name": "UFAM",
           "Contestants": [
-            "Vinícius Oliveira Ribeiro",
+            "Maria Giovana Cavalcante Do Nascimento",
             "Thiago Silva Vieira",
-            "Maria Giovana Cavalcante Do Nascimento"
+            "Vinícius Oliveira Ribeiro"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Female"
+            "FEMALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Rosiane De Freitasr"
         }
@@ -5117,14 +5119,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Amazonas",
           "Short name": "UFAM - Itacoatiara",
           "Contestants": [
-            "Juan Oliveira",
+            "Cláudio Santana",
             "Afrânio Viana",
-            "Cláudio Santana"
+            "Juan Oliveira"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Rainer Amorim"
         }
@@ -5136,14 +5138,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Amazonas",
           "Short name": "UEA",
           "Contestants": [
-            "Murillo Acácio",
+            "Gabriel Dos Santos Batista",
             "Iranildo Santos Batalha",
-            "Gabriel Dos Santos Batista"
+            "Murillo Acácio"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Wesley Rocha"
         },
@@ -5153,14 +5155,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Amazonas",
           "Short name": "UEA",
           "Contestants": [
-            "Cleidiana Alves",
+            "Marcelo Brilhante",
             "Maria Mendonça",
-            "Marcelo Brilhante"
+            "Cleidiana Alves"
           ],
           "Sex": [
-            "Female",
-            "Female",
-            "Male"
+            "MALE",
+            "FEMALE",
+            "FEMALE"
           ],
           "Coach": "Wesley Rocha"
         },
@@ -5170,14 +5172,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Amazonas",
           "Short name": "UEA",
           "Contestants": [
-            "Nádila Azevedo",
+            "Victória Karoliny",
             "Vanessa Câmara",
-            "Victória Karoliny"
+            "Nádila Azevedo"
           ],
           "Sex": [
-            "Female",
-            "Female",
-            "Female"
+            "FEMALE",
+            "FEMALE",
+            "FEMALE"
           ],
           "Coach": "Wesley Rocha"
         },
@@ -5187,14 +5189,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Amazonas",
           "Short name": "UEA",
           "Contestants": [
-            "Luan Carlos",
+            "Douglas Melo",
             "Fabrizio Honda",
-            "Douglas Melo"
+            "Luan Carlos"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Wesley Rocha"
         },
@@ -5204,14 +5206,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Amazonas",
           "Short name": "UEA",
           "Contestants": [
-            "Leandro Santiago",
             "Natanael Lucena De Medeiros",
-            "Markus Gabryel Mello Da Silva"
+            "Markus Gabryel Mello Da Silva",
+            "Leandro Santiago"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Wesley Rocha"
         },
@@ -5221,14 +5223,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Amazonas",
           "Short name": "UEA",
           "Contestants": [
-            "William Silva",
+            "Eduardo Lima",
             "Levi Lima",
-            "Eduardo Lima"
+            "William Silva"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Wesley Rocha"
         }
@@ -5240,14 +5242,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Amazonas",
           "Short name": "UEA-CEST",
           "Contestants": [
-            "Linda Hillary Brandão Souza",
+            "Elian Oliveira Batista",
             "Mateus Santos",
-            "Elian Oliveira Batista"
+            "Linda Hillary Brandão Souza"
           ],
           "Sex": [
-            "Female",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "FEMALE"
           ],
           "Coach": "Jhonathan Oliveira"
         }
@@ -5261,14 +5263,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Amapá",
           "Short name": "UNIFAP",
           "Contestants": [
-            "Maiara Priscila Lima Dos Santos",
+            "Bianca Maria Sousa Aguiar",
             "Jamilly Bárbara Nunes",
-            "Bianca Maria Sousa Aguiar"
+            "Maiara Priscila Lima Dos Santos"
           ],
           "Sex": [
-            "Female",
-            "Female",
-            "Female"
+            "FEMALE",
+            "FEMALE",
+            "FEMALE"
           ],
           "Coach": "Patrícia Araújo-de-oliveira"
         },
@@ -5278,14 +5280,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Amapá",
           "Short name": "UNIFAP",
           "Contestants": [
-            "Guilherme Carvalho",
+            "Felipe Rodrigues",
             "Jesse Almeida",
-            "Felipe Rodrigues"
+            "Guilherme Carvalho"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Claudio Silva"
         },
@@ -5295,14 +5297,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Amapá",
           "Short name": "UNIFAP",
           "Contestants": [
+            "Camila Teixeira",
             "Nathália Nascimento",
-            "Ana De Souza",
-            "Camila Teixeira"
+            "Ana De Souza"
           ],
           "Sex": [
-            "Female",
-            "Female",
-            "Female"
+            "FEMALE",
+            "FEMALE",
+            "FEMALE"
           ],
           "Coach": "Thiago Pinheiro"
         }
@@ -5310,20 +5312,20 @@ CONTESTS[2020]["1aFase"] = {
     },
     "PA": {
       "Instituto Federal de Educação, Ciência e Tecnologia do Pará - IFPA Campus Itaituba": {
-        "Dream Team": {
+        "Dream Team ": {
           "Rank": 461,
           "SiteRank": 3,
           "Site": "Pará",
           "Short name": "IFPA - Campus Itaitu",
           "Contestants": [
             "Enerson Macedo Da Silva",
-            "Cristiane Da Conceição Dias",
-            "Denilson Pereira Alves"
+            "Denilson Pereira Alves",
+            "Cristiane Da Conceição Dias"
           ],
           "Sex": [
-            "Male",
-            "Female",
-            "Male"
+            "MALE",
+            "MALE",
+            "FEMALE"
           ],
           "Coach": "Michel Yvano"
         },
@@ -5333,14 +5335,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Pará",
           "Short name": "IFPA - Campus Itaitu",
           "Contestants": [
-            "Matheus Motta",
+            "Adriele Camila Da Costa Ramos",
             "Daniela Matias Furtado",
-            "Adriele Camila Da Costa Ramos"
+            "Matheus Motta"
           ],
           "Sex": [
-            "Male",
-            "Female",
-            "Female"
+            "FEMALE",
+            "FEMALE",
+            "MALE"
           ],
           "Coach": "Michel Yvano"
         }
@@ -5352,14 +5354,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Minas Gerais",
           "Short name": "IFTM campus UPT",
           "Contestants": [
+            "Nathan Rodrigues",
             "Luciano Santos",
-            "Thiago Lopes",
-            "Nathan Rodrigues"
+            "Thiago Lopes"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Jefferson Beethoven Martins"
         },
@@ -5369,14 +5371,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Minas Gerais",
           "Short name": "IFTM campus UPT",
           "Contestants": [
-            "Guilherme Melo",
+            "Gustavo Kazioka",
             "Júlia Silva",
-            "Gustavo Kazioka"
+            "Guilherme Melo"
           ],
           "Sex": [
-            "Male",
-            "Female",
-            "Male"
+            "MALE",
+            "FEMALE",
+            "MALE"
           ],
           "Coach": "Jefferson Beethoven Martins"
         }
@@ -5388,14 +5390,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Minas Gerais",
           "Short name": "IFTM-Patrocinio/ADS",
           "Contestants": [
-            "Lucas Silva",
+            "Vânia Mara",
             "Mateus Silva",
-            "Vânia Mara"
+            "Lucas Silva"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Female"
+            "FEMALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Jean Sousa"
         },
@@ -5405,14 +5407,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Minas Gerais",
           "Short name": "IFTM-Patrocinio/ADS",
           "Contestants": [
-            "Eduardo Pereira",
+            "Willon Freitas",
             "Lucas Moreira",
-            "Willon Freitas"
+            "Eduardo Pereira"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Jean Sousa"
         },
@@ -5422,14 +5424,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Minas Gerais",
           "Short name": "IFTM-Patrocinio/ADS",
           "Contestants": [
-            "Mariana Siqueira",
+            "José Gustavo",
             "José Rodrigues",
-            "José Gustavo"
+            "Mariana Siqueira"
           ],
           "Sex": [
-            "Female",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "FEMALE"
           ],
           "Coach": "Jean Sousa"
         },
@@ -5439,14 +5441,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Minas Gerais",
           "Short name": "IFTM-Patrocinio/ADS",
           "Contestants": [
-            "Marcos Ribeiro",
+            "Dieyse Leal",
             "Tharlison Silva",
-            "Dieyse Leal"
+            "Marcos Ribeiro"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Female"
+            "FEMALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Jean Sousa"
         }
@@ -5458,14 +5460,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Pará",
           "Short name": "UFOPA",
           "Contestants": [
-            "Sueli Da Silva Corrêa",
             "Queilane Cardoso",
-            "Eliene Santos"
+            "Eliene Santos",
+            "Sueli Da Silva Corrêa"
           ],
           "Sex": [
-            "Female",
-            "Female",
-            "Female"
+            "FEMALE",
+            "FEMALE",
+            "FEMALE"
           ],
           "Coach": "Flavia Monteiro"
         },
@@ -5475,14 +5477,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Pará",
           "Short name": "UFOPA",
           "Contestants": [
-            "Raiane Coimbra",
+            "Izabela Cristina Lopes Carvalho",
             "Luciana Sousa",
-            "Izabela Cristina Lopes Carvalho"
+            "Raiane Coimbra"
           ],
           "Sex": [
-            "Female",
-            "Female",
-            "Female"
+            "FEMALE",
+            "FEMALE",
+            "FEMALE"
           ],
           "Coach": "Flavia Monteiro"
         },
@@ -5492,14 +5494,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Pará",
           "Short name": "UFOPA",
           "Contestants": [
-            "Carlos Souza",
+            "Crystian Cativo",
             "Arielson Picanço",
-            "Crystian Cativo"
+            "Carlos Souza"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Flavia Monteiro"
         },
@@ -5509,14 +5511,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Pará",
           "Short name": "UFOPA",
           "Contestants": [
-            "Anne Larice Anne Larice Dos",
+            "Wagner Viana Sampaio",
             "Neidiane Andrade Soares",
-            "Wagner Viana Sampaio"
+            "Anne Larice Anne Larice Dos"
           ],
           "Sex": [
-            "Female",
-            "Female",
-            "Male"
+            "MALE",
+            "FEMALE",
+            "FEMALE"
           ],
           "Coach": "Josivan Reis"
         },
@@ -5526,14 +5528,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Pará",
           "Short name": "UFOPA",
           "Contestants": [
-            "Everson Yan Silva Dos Anjos",
+            "Claudenor Neves Pantoja",
             "Keiziani Santos De Souza",
-            "Claudenor Neves Pantoja"
+            "Everson Yan Silva Dos Anjos"
           ],
           "Sex": [
-            "Male",
-            "Female",
-            "Male"
+            "MALE",
+            "FEMALE",
+            "MALE"
           ],
           "Coach": "Josivan Reis"
         },
@@ -5543,14 +5545,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Pará",
           "Short name": "UFOPA",
           "Contestants": [
-            "Paulo Antonio Paulo Antonio",
+            "Kairo Húdson Alvarenga Tavares",
             "Patrick Teixeira",
-            "Kairo Húdson Alvarenga Tavares"
+            "Paulo Antonio Paulo Antonio"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Suzane Monteiro"
         },
@@ -5560,14 +5562,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Pará",
           "Short name": "UFOPA",
           "Contestants": [
-            "Matheus Carvalho",
+            "Nattan Lobato",
             "Chrislley Augusto Farias Machado",
-            "Nattan Lobato"
+            "Matheus Carvalho"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Flavia Monteiro"
         },
@@ -5577,14 +5579,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Pará",
           "Short name": "UFOPA",
           "Contestants": [
-            "Paulo Derick Silva Dos Anjos",
             "Cezar Rocha",
+            "Paulo Derick Silva Dos Anjos",
             "Caroline Silva"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Female"
+            "MALE",
+            "MALE",
+            "FEMALE"
           ],
           "Coach": "Flavia Monteiro"
         }
@@ -5596,14 +5598,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Pará",
           "Short name": "",
           "Contestants": [
-            "Raiany Souza",
+            "Anne Livia Macedo",
             "Gilvia Guimarães",
-            "Anne Livia Macedo"
+            "Raiany Souza"
           ],
           "Sex": [
-            "Female",
-            "Female",
-            "Female"
+            "FEMALE",
+            "FEMALE",
+            "FEMALE"
           ],
           "Coach": "Igor Ruiz Gomes"
         },
@@ -5613,14 +5615,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Pará",
           "Short name": "",
           "Contestants": [
-            "Jeremias Abreu",
+            "Felipe Cardoso",
             "Diego Figueiredo",
-            "Felipe Cardoso"
+            "Jeremias Abreu"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Euripedes Santos"
         }
@@ -5634,14 +5636,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Rondônia",
           "Short name": "UNIR",
           "Contestants": [
-            "Uthant Vicentin Leite",
             "Wan Song Rocha",
-            "Márcus Vinícius Lobo Costa"
+            "Márcus Vinícius Lobo Costa",
+            "Uthant Vicentin Leite"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Liliane Jacon"
         },
@@ -5651,14 +5653,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Rondônia",
           "Short name": "UNIR",
           "Contestants": [
-            "Sarah Gabryela Rodrigues Togni",
+            "Laura Mengel",
             "Fabiana Fabiana",
-            "Laura Mengel"
+            "Sarah Gabryela Rodrigues Togni"
           ],
           "Sex": [
-            "Female",
-            "Female",
-            "Female"
+            "FEMALE",
+            "FEMALE",
+            "FEMALE"
           ],
           "Coach": "Liliane Jacon"
         },
@@ -5668,14 +5670,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Rondônia",
           "Short name": "UNIR",
           "Contestants": [
-            "Robson Cavalcante",
+            "Thales Junior De Souza Gomes",
             "Paulo Victor Vieira Lunas",
-            "Thales Junior De Souza Gomes"
+            "Robson Cavalcante"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Liliane Jacon"
         },
@@ -5685,14 +5687,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Rondônia",
           "Short name": "UNIR",
           "Contestants": [
-            "Marcelo Cruz De Sousa",
+            "Aden Hercules",
             "Leonardo Honorato",
-            "Aden Hercules"
+            "Marcelo Cruz De Sousa"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Liliane Jacon"
         },
@@ -5702,14 +5704,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Rondônia",
           "Short name": "UNIR",
           "Contestants": [
-            "Victor Moitinho",
+            "Jéfferson Douglas",
             "Matheus Melo",
-            "Jéfferson Douglas"
+            "Victor Moitinho"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Liliane Jacon"
         },
@@ -5719,14 +5721,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Rondônia",
           "Short name": "UNIR",
           "Contestants": [
-            "Thiago Fernandes",
+            "Ivo Vieira",
             "Gabriel Barros",
-            "Ivo Vieira"
+            "Thiago Fernandes"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Liliane Jacon"
         },
@@ -5736,14 +5738,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Rondônia",
           "Short name": "UNIR",
           "Contestants": [
-            "Gustavo Henrique",
+            "Samuel Valdés",
             "Joao Ribeiro",
-            "Samuel Valdés"
+            "Gustavo Henrique"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Liliane Jacon"
         },
@@ -5753,14 +5755,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Rondônia",
           "Short name": "UNIR",
           "Contestants": [
-            "Bruno Lima",
+            "Mateus Oliveira",
             "Fernando Ferreira",
-            "Mateus Oliveira"
+            "Bruno Lima"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Liliane Jacon"
         }
@@ -5774,14 +5776,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Roraima",
           "Short name": "UFRR",
           "Contestants": [
-            "André Leandro Schillreff Dos Santos",
+            "Miller Raycell Monteiro Correia",
             "Markus Kaul Monteiro Gerrits",
-            "Miller Raycell Monteiro Correia"
+            "André Leandro Schillreff Dos Santos"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Acauan Ribeiro"
         }
@@ -5795,14 +5797,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Tocantins",
           "Short name": "IFTO - Paraíso do To",
           "Contestants": [
-            "Elian Xavier De Macêdo E Silva",
+            "George Trindade Rodrigues",
             "Lorena Arruda De Sousa",
-            "George Trindade Rodrigues"
+            "Elian Xavier De Macêdo E Silva"
           ],
           "Sex": [
-            "Male",
-            "Female",
-            "Male"
+            "MALE",
+            "FEMALE",
+            "MALE"
           ],
           "Coach": "Ivo Oliveira"
         },
@@ -5812,14 +5814,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Tocantins",
           "Short name": "IFTO - Paraíso do To",
           "Contestants": [
-            "Alexandre Alexandre",
+            "João Victor Maciel De Freitas",
             "Gabriel Veras",
-            "João Victor Maciel De Freitas"
+            "Alexandre Alexandre"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "André Rincon"
         }
@@ -5835,14 +5837,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Espirito Santo",
           "Short name": "Ceunes UFES",
           "Contestants": [
-            "Addison Viana",
+            "João Ferrete",
             "Uarlley Amorim",
-            "João Ferrete"
+            "Addison Viana"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Oberlan Romão"
         },
@@ -5852,14 +5854,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Espirito Santo",
           "Short name": "Ceunes UFES",
           "Contestants": [
-            "Gabriel Mota Bromonschenkel Lima",
+            "Guilherme Goncalves Dos Santos",
             "Luciano Alves De Souza Junior",
-            "Guilherme Goncalves Dos Santos"
+            "Gabriel Mota Bromonschenkel Lima"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Oberlan Romão"
         },
@@ -5869,14 +5871,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Espirito Santo",
           "Short name": "Ceunes UFES",
           "Contestants": [
+            "Willian Silva",
             "Gabriel Matos",
-            "Arthur Ferreira",
-            "Willian Silva"
+            "Arthur Ferreira"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Oberlan Romão"
         }
@@ -5888,14 +5890,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Espirito Santo",
           "Short name": "UVV",
           "Contestants": [
-            "Paulo Cerqueira",
+            "Fabrício Ramos",
             "Igor Velasco",
-            "Fabrício Ramos"
+            "Paulo Cerqueira"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Alessandro Bertolani"
         },
@@ -5905,14 +5907,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Espirito Santo",
           "Short name": "UVV",
           "Contestants": [
-            "Henrique Miossi De Araújo",
+            "Gabriel Palhares",
             "Windsor Lóss",
-            "Gabriel Palhares"
+            "Henrique Miossi De Araújo"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Alessandro Bertolani"
         }
@@ -5924,14 +5926,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Espirito Santo",
           "Short name": "IFES",
           "Contestants": [
-            "Flávio Lehmann Junior",
+            "Lívia Tononi Aurich",
             "Marlon Onorio",
-            "Lívia Tononi Aurich"
+            "Flávio Lehmann Junior"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Female"
+            "FEMALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Victorio Carvalho"
         }
@@ -5943,14 +5945,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Espirito Santo",
           "Short name": "UFES-CCENS-Alegre",
           "Contestants": [
-            "Felipe Camatta",
+            "Rômulo Almeida",
             "Gabriel Dias",
-            "Rômulo Almeida"
+            "Felipe Camatta"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Edmar Hell Kampke"
         }
@@ -5962,14 +5964,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Espirito Santo",
           "Short name": "UFES",
           "Contestants": [
-            "Gabriel Baptista",
             "Marco Oliari",
-            "João Lima"
+            "João Lima",
+            "Gabriel Baptista"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Giovanni Comarela"
         },
@@ -5979,14 +5981,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Espirito Santo",
           "Short name": "UFES",
           "Contestants": [
-            "Philipe Marques",
             "Leandro Turi",
+            "Philipe Marques",
             "Atílio Dadalto"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Giovanni Comarela"
         },
@@ -5996,14 +5998,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Espirito Santo",
           "Short name": "UFES",
           "Contestants": [
-            "Guilherme Zanetti",
+            "André Oliveira Cunha",
             "Henrique Faria Ribeiro",
-            "André Oliveira Cunha"
+            "Guilherme Zanetti"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Giovanni Comarela"
         },
@@ -6013,14 +6015,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Espirito Santo",
           "Short name": "UFES",
           "Contestants": [
-            "Elaine Pires",
             "Thiago Mai",
-            "Milla Souza"
+            "Milla Souza",
+            "Elaine Pires"
           ],
           "Sex": [
-            "Female",
-            "Male",
-            "Female"
+            "MALE",
+            "FEMALE",
+            "FEMALE"
           ],
           "Coach": "Giovanni Comarela"
         },
@@ -6030,14 +6032,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Espirito Santo",
           "Short name": "UFES",
           "Contestants": [
-            "Rafael Cozer",
+            "Samuel Carlos Xavier De Carvalho",
             "Christian State",
-            "Samuel Carlos Xavier De Carvalho"
+            "Rafael Cozer"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Giovanni Comarela"
         },
@@ -6047,14 +6049,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Espirito Santo",
           "Short name": "UFES",
           "Contestants": [
-            "Bruno Gomes",
+            "Fernando Peres",
             "Abraão Santos",
-            "Fernando Peres"
+            "Bruno Gomes"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Giovanni Comarela"
         },
@@ -6064,14 +6066,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Espirito Santo",
           "Short name": "UFES",
           "Contestants": [
-            "Laian De Souza Braum",
+            "Vinicius Jesus",
             "Matheus Moreira",
-            "Vinicius Jesus"
+            "Laian De Souza Braum"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Giovanni Comarela"
         },
@@ -6081,14 +6083,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Espirito Santo",
           "Short name": "UFES",
           "Contestants": [
-            "Lorenzo Guimarães Moulin",
+            "Pedro Anselmo Santana De Angeli",
             "Franco Schmidt Rossi",
-            "Pedro Anselmo Santana De Angeli"
+            "Lorenzo Guimarães Moulin"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Giovanni Comarela"
         },
@@ -6098,14 +6100,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Espirito Santo",
           "Short name": "UFES",
           "Contestants": [
-            "Luis Camara",
+            "Igor Varejão",
             "Danilo Lima",
-            "Igor Varejão"
+            "Luis Camara"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Giovanni Comarela"
         }
@@ -6119,14 +6121,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Minas Gerais",
           "Short name": "CEFET-MG-C2",
           "Contestants": [
-            "Antonio Pierre Vieira",
             "Marcus Vinicius Durães Zuba",
-            "Maria Izamara Coutinho"
+            "Maria Izamara Coutinho",
+            "Antonio Pierre Vieira"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Female"
+            "MALE",
+            "FEMALE",
+            "MALE"
           ],
           "Coach": "Sandro Renato Dias"
         },
@@ -6137,13 +6139,13 @@ CONTESTS[2020]["1aFase"] = {
           "Short name": "CEFET-MG-C2",
           "Contestants": [
             "Nicholas Cristofaro",
-            "Lucas Santos",
-            "Silvia Fonseca"
+            "Silvia Fonseca",
+            "Lucas Santos"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Female"
+            "MALE",
+            "FEMALE",
+            "MALE"
           ],
           "Coach": "Sandro Renato Dias"
         },
@@ -6154,13 +6156,13 @@ CONTESTS[2020]["1aFase"] = {
           "Short name": "CEFET-MG-C2",
           "Contestants": [
             "Israel Terra",
-            "Lucas Alexsanderson Da Fonseca",
-            "Gabriel Santos"
+            "Gabriel Santos",
+            "Lucas Alexsanderson Da Fonseca"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Sandro Renato Dias"
         }
@@ -6172,14 +6174,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Minas Gerais",
           "Short name": "CEFET-MG - Timóteo",
           "Contestants": [
-            "Arthur Pimentel",
+            "Arthur Gomes",
             "Wylton Leone",
-            "Arthur Gomes"
+            "Arthur Pimentel"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Alessio Miranda Junior"
         },
@@ -6189,14 +6191,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Minas Gerais",
           "Short name": "CEFET-MG - Timóteo",
           "Contestants": [
-            "Henrique Loring",
+            "Samuel Faioli",
             "Wilker Guimarães",
-            "Samuel Faioli"
+            "Henrique Loring"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Alessio Miranda Junior"
         },
@@ -6206,14 +6208,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Minas Gerais",
           "Short name": "CEFET-MG - Timóteo",
           "Contestants": [
-            "Marcos Paulo De Souza Pereira",
+            "Victor David Mendoza Cavalcanti",
             "Luiz Victor Ferreira Santos",
-            "Victor David Mendoza Cavalcanti"
+            "Marcos Paulo De Souza Pereira"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Alessio Miranda Junior"
         },
@@ -6223,14 +6225,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Minas Gerais",
           "Short name": "CEFET-MG - Timóteo",
           "Contestants": [
-            "Calebe Pedroso",
+            "Fernando Henrique Gonçalves Pereira",
             "River Junior",
-            "Fernando Henrique Gonçalves Pereira"
+            "Calebe Pedroso"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Alessio Miranda Junior"
         },
@@ -6240,14 +6242,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Minas Gerais",
           "Short name": "CEFET-MG - Timóteo",
           "Contestants": [
-            "Abdul Kevin Alexis",
+            "Marcelo Makoto Goto",
             "Leandro Santana",
-            "Marcelo Makoto Goto"
+            "Abdul Kevin Alexis"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Alessio Miranda Junior"
         },
@@ -6257,14 +6259,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Minas Gerais",
           "Short name": "CEFET-MG - Timóteo",
           "Contestants": [
-            "Alex Eduardo Levindo De Paulo",
+            "Guilherme Augusto Sousa Eler",
             "Guilherme De Oliveira Cantarino",
-            "Guilherme Augusto Sousa Eler"
+            "Alex Eduardo Levindo De Paulo"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Alessio Miranda Junior"
         },
@@ -6274,14 +6276,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Minas Gerais",
           "Short name": "CEFET-MG - Timóteo",
           "Contestants": [
-            "Filipe Rocha",
+            "Pedro Oliveira",
             "Victor Luiz",
-            "Pedro Oliveira"
+            "Filipe Rocha"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Alessio Miranda Junior"
         },
@@ -6291,14 +6293,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Minas Gerais",
           "Short name": "CEFET-MG - Timóteo",
           "Contestants": [
-            "Joice Figueiredo",
+            "Lucas Duarte",
             "Emilly Saraiva",
-            "Lucas Duarte"
+            "Joice Figueiredo"
           ],
           "Sex": [
-            "Female",
-            "Female",
-            "Male"
+            "MALE",
+            "FEMALE",
+            "FEMALE"
           ],
           "Coach": "Alessio Miranda Junior"
         },
@@ -6309,13 +6311,13 @@ CONTESTS[2020]["1aFase"] = {
           "Short name": "CEFET-MG - Timóteo",
           "Contestants": [
             "Luiz Souza",
-            "Arthur Assis",
-            "Camila Aparecida Silva Corrêa Vilela"
+            "Camila Aparecida Silva Corrêa Vilela",
+            "Arthur Assis"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Female"
+            "MALE",
+            "FEMALE",
+            "MALE"
           ],
           "Coach": "Alessio Miranda Junior"
         },
@@ -6325,14 +6327,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Minas Gerais",
           "Short name": "CEFET-MG - Timóteo",
           "Contestants": [
-            "José Junior",
             "Pedro Augusto Soares Marques",
-            "Rhuan Canedo"
+            "Rhuan Canedo",
+            "José Junior"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Alessio Miranda Junior"
         },
@@ -6342,14 +6344,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Minas Gerais",
           "Short name": "CEFET-MG - Timóteo",
           "Contestants": [
-            "Marco Aurelio",
+            "Tássis Fernandes",
             "Gustavo Sampaio",
-            "Tássis Fernandes"
+            "Marco Aurelio"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Alessio Miranda Junior"
         },
@@ -6360,13 +6362,13 @@ CONTESTS[2020]["1aFase"] = {
           "Short name": "CEFET-MG - Timóteo",
           "Contestants": [
             "Igor Reis Miranda",
-            "Otto Siman",
-            "Bruno Oliveira Paes De Lima"
+            "Bruno Oliveira Paes De Lima",
+            "Otto Siman"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Alessio Miranda Junior"
         },
@@ -6376,14 +6378,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Minas Gerais",
           "Short name": "CEFET-MG - Timóteo",
           "Contestants": [
-            "Hugo Vicente Coelho De Carvalho",
             "Luan Diniz Barreiros",
-            "Gustavo Silveira Lucas"
+            "Gustavo Silveira Lucas",
+            "Hugo Vicente Coelho De Carvalho"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Alessio Miranda Junior"
         },
@@ -6394,13 +6396,13 @@ CONTESTS[2020]["1aFase"] = {
           "Short name": "CEFET-MG - Timóteo",
           "Contestants": [
             "Juliana Silva Cruz Sartori",
-            "Amanda Duarte Carvalho Lima E Silva",
-            "Esther Cristina Silva Magalhães"
+            "Esther Cristina Silva Magalhães",
+            "Amanda Duarte Carvalho Lima E Silva"
           ],
           "Sex": [
-            "Female",
-            "Female",
-            "Female"
+            "FEMALE",
+            "FEMALE",
+            "FEMALE"
           ],
           "Coach": "Alessio Miranda Junior"
         },
@@ -6410,14 +6412,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Minas Gerais",
           "Short name": "CEFET-MG - Timóteo",
           "Contestants": [
-            "Henrique Vitorino",
+            "Matheus Bicalho",
             "Emanuel Vitor Rodrigues De Souza",
-            "Matheus Bicalho"
+            "Henrique Vitorino"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Alessio Miranda Junior"
         },
@@ -6427,14 +6429,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Minas Gerais",
           "Short name": "CEFET-MG - Timóteo",
           "Contestants": [
-            "Rafael Lima Da Silva",
+            "Vitor Rafael De Oliveira Nascimento",
             "Yan Lanzieri Barbuto Torres",
-            "Vitor Rafael De Oliveira Nascimento"
+            "Rafael Lima Da Silva"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Alessio Miranda Junior"
         }
@@ -6446,14 +6448,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Minas Gerais",
           "Short name": "Centro Universitário",
           "Contestants": [
-            "Vitor Hugo Barreto",
+            "Gabriel Valeriano Gomes",
             "Victor Emanuel Alves",
-            "Gabriel Valeriano Gomes"
+            "Vitor Hugo Barreto"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Robinson Cruz"
         }
@@ -6465,14 +6467,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Minas Gerais",
           "Short name": "CES/JF",
           "Contestants": [
-            "Matheus Campos",
+            "Mateus Melo",
             "Jonatas Carvalho Domingos",
-            "Mateus Melo"
+            "Matheus Campos"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Daves Martins"
         }
@@ -6484,14 +6486,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Minas Gerais",
           "Short name": "FAI",
           "Contestants": [
-            "Lucas Lima",
+            "Alison Reis",
             "Enderson Garcia",
-            "Alison Reis"
+            "Lucas Lima"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Roberto Porto"
         }
@@ -6504,13 +6506,13 @@ CONTESTS[2020]["1aFase"] = {
           "Short name": "",
           "Contestants": [
             "Gabriel Campos Nogueira Vieira",
-            "Pietro Ferreira Leite De Arruda",
-            "Luciano Carvalho Junior"
+            "Luciano Carvalho Junior",
+            "Pietro Ferreira Leite De Arruda"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Joás Weslei Baía"
         },
@@ -6520,14 +6522,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Minas Gerais",
           "Short name": "",
           "Contestants": [
-            "Rhalf Souza De Oliveira",
+            "Gustavo Tartaglia Silva De Paula",
             "Maxsuel Matilde Marques",
-            "Gustavo Tartaglia Silva De Paula"
+            "Rhalf Souza De Oliveira"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Joás Weslei Baía"
         },
@@ -6537,14 +6539,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Minas Gerais",
           "Short name": "",
           "Contestants": [
-            "Gabriel Silva Rosa",
+            "Elias Coelho Ribeiro",
             "Lincoln Moura Rodrigues",
-            "Elias Coelho Ribeiro"
+            "Gabriel Silva Rosa"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Joás Weslei Baía"
         },
@@ -6554,14 +6556,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Minas Gerais",
           "Short name": "",
           "Contestants": [
-            "Vitória Dos Santos Francisco",
             "Lucas Santos",
-            "Thiago Moreira Batalha"
+            "Thiago Moreira Batalha",
+            "Vitória Dos Santos Francisco"
           ],
           "Sex": [
-            "Female",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "FEMALE"
           ],
           "Coach": "Joás Weslei Baía"
         },
@@ -6571,14 +6573,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Minas Gerais",
           "Short name": "",
           "Contestants": [
-            "Ramon Elias Da Costa",
+            "Felipe Pereira Verneck Da Silva",
             "Lucas Parreira Filgueiras",
-            "Felipe Pereira Verneck Da Silva"
+            "Ramon Elias Da Costa"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Joás Weslei Baía"
         },
@@ -6588,14 +6590,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Minas Gerais",
           "Short name": "",
           "Contestants": [
-            "Andre Luiz Da Silva Teixeira",
             "Geraldo Vitor Da Costa Netto",
+            "Andre Luiz Da Silva Teixeira",
             "Mateus Cirino Silva"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Joás Weslei Baía"
         },
@@ -6605,14 +6607,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Minas Gerais",
           "Short name": "",
           "Contestants": [
-            "Robert Da Silva Ferreira",
             "Rachel Braga Vecchi",
-            "Rafael Amancio Da Silva"
+            "Rafael Amancio Da Silva",
+            "Robert Da Silva Ferreira"
           ],
           "Sex": [
-            "Male",
-            "Female",
-            "Male"
+            "FEMALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Joás Weslei Baía"
         }
@@ -6625,13 +6627,13 @@ CONTESTS[2020]["1aFase"] = {
           "Short name": "UNICA",
           "Contestants": [
             "Wallace Silva",
-            "Fábio Alvarenga",
-            "Gabriel Tsuyoshi Shibuya"
+            "Gabriel Tsuyoshi Shibuya",
+            "Fábio Alvarenga"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Filipe Fernandes"
         },
@@ -6641,14 +6643,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Minas Gerais",
           "Short name": "UNICA",
           "Contestants": [
-            "Lucas Paulo",
+            "Gabriel Lucas Assuncao Brandin",
             "João Vitor",
-            "Gabriel Lucas Assuncao Brandin"
+            "Lucas Paulo"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Filipe Fernandes"
         }
@@ -6660,14 +6662,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Minas Gerais",
           "Short name": "INATEL",
           "Contestants": [
-            "Lucas Marques",
+            "Bernardo Gandolpho",
             "João Gustavo Rogel De Oliveira",
-            "Bernardo Gandolpho"
+            "Lucas Marques"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Luciano Ribeiro"
         },
@@ -6677,14 +6679,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Minas Gerais",
           "Short name": "INATEL",
           "Contestants": [
-            "Nathalya Stefhany Pereira",
+            "Adson Santos",
             "Maria Eduarda Costa Leite Andrade",
-            "Adson Santos"
+            "Nathalya Stefhany Pereira"
           ],
           "Sex": [
-            "Female",
-            "Female",
-            "Male"
+            "MALE",
+            "FEMALE",
+            "FEMALE"
           ],
           "Coach": "Luciano Ribeiro"
         },
@@ -6694,14 +6696,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Minas Gerais",
           "Short name": "INATEL",
           "Contestants": [
-            "Miguel Ribeiro",
+            "Gilson Muniz",
             "Pedro Piccichelli",
-            "Gilson Muniz"
+            "Miguel Ribeiro"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Luciano Ribeiro"
         },
@@ -6711,14 +6713,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Minas Gerais",
           "Short name": "INATEL",
           "Contestants": [
-            "Leandro Mucciaroni De Souza",
+            "Gustavo Luz",
             "Paulo Henrique Lopes Júnior",
-            "Gustavo Luz"
+            "Leandro Mucciaroni De Souza"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Luciano Ribeiro"
         },
@@ -6728,14 +6730,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Minas Gerais",
           "Short name": "INATEL",
           "Contestants": [
-            "Pedro Rafael Rezende Da Silva",
+            "Matheus Aguiar",
             "Vinícius Aguiar",
-            "Matheus Aguiar"
+            "Pedro Rafael Rezende Da Silva"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Luciano Ribeiro"
         }
@@ -6747,14 +6749,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Minas Gerais",
           "Short name": "IFNMG - Campus Monte",
           "Contestants": [
-            "Vinicius Souza",
+            "Gabriel Da Mata",
             "Gabriel Ferreira",
-            "Gabriel Da Mata"
+            "Vinicius Souza"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Alberto Alexandre Assis Miranda"
         },
@@ -6764,14 +6766,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Minas Gerais",
           "Short name": "IFNMG - Campus Monte",
           "Contestants": [
-            "Hugo Leonardo Machado",
+            "João Duarte Colares",
             "Mattheus Mazzillio",
-            "João Duarte Colares"
+            "Hugo Leonardo Machado"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Alberto Alexandre Assis Miranda"
         }
@@ -6783,14 +6785,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Minas Gerais",
           "Short name": "ifsudestemgJF",
           "Contestants": [
-            "Leonardo Rodrigues",
+            "Fabrício Lima",
             "Jonathan Thomaz",
-            "Fabrício Lima"
+            "Leonardo Rodrigues"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Daves Martins"
         }
@@ -6802,14 +6804,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Minas Gerais",
           "Short name": "IFSULMGMch",
           "Contestants": [
-            "Bruna Delmouro Da Silva",
+            "Alex Silva Rodrigues",
             "Marcelo Junior",
-            "Alex Silva Rodrigues"
+            "Bruna Delmouro Da Silva"
           ],
           "Sex": [
-            "Female",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "FEMALE"
           ],
           "Coach": "Matheus Eloy Franco"
         }
@@ -6821,14 +6823,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Minas Gerais",
           "Short name": "IFSULMGMuz",
           "Contestants": [
-            "Ygor Ribeiro Costa",
+            "Natanael Fabrício Dacioli Batista",
             "Jairo De Sousa Júnior",
-            "Natanael Fabrício Dacioli Batista"
+            "Ygor Ribeiro Costa"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Ricardo José Martins"
         },
@@ -6838,14 +6840,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Minas Gerais",
           "Short name": "IFSULMGMuz",
           "Contestants": [
-            "Camila Caldas",
+            "Hemili Trindade",
             "Álef Fernandes",
-            "Hemili Trindade"
+            "Camila Caldas"
           ],
           "Sex": [
-            "Female",
-            "Male",
-            "Female"
+            "FEMALE",
+            "MALE",
+            "FEMALE"
           ],
           "Coach": "Ricardo José Martins"
         },
@@ -6855,14 +6857,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Minas Gerais",
           "Short name": "IFSULMGMuz",
           "Contestants": [
-            "João Gabriel Francisco De Azevedo",
+            "Alan Moraes Ferreira",
             "Wallace Teixeira",
-            "Alan Moraes Ferreira"
+            "João Gabriel Francisco De Azevedo"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Ricardo José Martins"
         },
@@ -6872,14 +6874,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Minas Gerais",
           "Short name": "IFSULMGMuz",
           "Contestants": [
-            "Sarah Silva",
+            "Eliezer Alves",
             "Lara Milena Custódio Rezende",
-            "Eliezer Alves"
+            "Sarah Silva"
           ],
           "Sex": [
-            "Female",
-            "Female",
-            "Male"
+            "MALE",
+            "FEMALE",
+            "FEMALE"
           ],
           "Coach": "Ricardo José Martins"
         },
@@ -6889,14 +6891,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Minas Gerais",
           "Short name": "IFSULMGMuz",
           "Contestants": [
-            "Jonathan Ramsés Alves Borges",
+            "Vanessa Da Silva Machado",
             "Leonardo Dos Reis Dias",
-            "Vanessa Da Silva Machado"
+            "Jonathan Ramsés Alves Borges"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Female"
+            "FEMALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Ricardo José Martins"
         },
@@ -6906,14 +6908,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Minas Gerais",
           "Short name": "IFSULMGMuz",
           "Contestants": [
-            "Leonardo Eric",
+            "Vinicius Ribeiro",
             "Leonardo Henrique Juliano Da Silva",
-            "Vinicius Ribeiro"
+            "Leonardo Eric"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Ricardo José Martins"
         },
@@ -6923,14 +6925,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Minas Gerais",
           "Short name": "IFSULMGMuz",
           "Contestants": [
-            "Isaias Souza",
+            "Fortunato Roncholeta",
             "Maria Silva",
-            "Fortunato Roncholeta"
+            "Isaias Souza"
           ],
           "Sex": [
-            "Male",
-            "Female",
-            "Male"
+            "MALE",
+            "FEMALE",
+            "MALE"
           ],
           "Coach": "Ricardo José Martins"
         },
@@ -6940,14 +6942,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Minas Gerais",
           "Short name": "IFSULMGMuz",
           "Contestants": [
-            "Thuani Oliveira",
+            "Mikael Fonzaghi",
             "Elyssa Dalva Ribeiro Bueno",
-            "Mikael Fonzaghi"
+            "Thuani Oliveira"
           ],
           "Sex": [
-            "Female",
-            "Female",
-            "Male"
+            "MALE",
+            "FEMALE",
+            "FEMALE"
           ],
           "Coach": "Ricardo José Martins"
         },
@@ -6957,14 +6959,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Minas Gerais",
           "Short name": "IFSULMGMuz",
           "Contestants": [
-            "João Paulo Souza",
+            "Guilherme Castello",
             "Felipe Navas",
-            "Guilherme Castello"
+            "João Paulo Souza"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Ricardo José Martins"
         },
@@ -6974,14 +6976,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Minas Gerais",
           "Short name": "IFSULMGMuz",
           "Contestants": [
-            "Lincoln Marques",
+            "Andreza Cristina Barbieri Serra",
             "Tiago Batista",
-            "Andreza Cristina Barbieri Serra"
+            "Lincoln Marques"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Female"
+            "FEMALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Ricardo José Martins"
         },
@@ -6991,14 +6993,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Minas Gerais",
           "Short name": "IFSULMGMuz",
           "Contestants": [
-            "Carlos Eduardo Viana Pereira",
+            "Jefferson Correa De Assis Marinho",
             "Lucas Magalhães Prado",
-            "Jefferson Correa De Assis Marinho"
+            "Carlos Eduardo Viana Pereira"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Ricardo José Martins"
         },
@@ -7008,14 +7010,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Minas Gerais",
           "Short name": "IFSULMGMuz",
           "Contestants": [
-            "Eduardo Pioli Do Amaral",
+            "Renan Magalhães",
             "Samuel Lucas Santos Gomes",
-            "Renan Magalhães"
+            "Eduardo Pioli Do Amaral"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Ricardo José Martins"
         },
@@ -7025,14 +7027,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Minas Gerais",
           "Short name": "IFSULMGMuz",
           "Contestants": [
-            "Paola Emily",
+            "João Silva",
             "Leonardo Pereira",
-            "João Silva"
+            "Paola Emily"
           ],
           "Sex": [
-            "Female",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "FEMALE"
           ],
           "Coach": "Ricardo José Martins"
         },
@@ -7042,14 +7044,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Minas Gerais",
           "Short name": "IFSULMGMuz",
           "Contestants": [
-            "Diogo Evânio De Ávila",
+            "Alef Zandomenighi",
             "Rafael Vicente Da Silva",
-            "Alef Zandomenighi"
+            "Diogo Evânio De Ávila"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Ricardo José Martins"
         },
@@ -7059,14 +7061,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Minas Gerais",
           "Short name": "IFSULMGMuz",
           "Contestants": [
-            "Daiane Garcia",
+            "Heberty Heberty",
             "Janaina Costa",
-            "Heberty Heberty"
+            "Daiane Garcia"
           ],
           "Sex": [
-            "Female",
-            "Female",
-            "Male"
+            "MALE",
+            "FEMALE",
+            "FEMALE"
           ],
           "Coach": "Ricardo José Martins"
         }
@@ -7078,14 +7080,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Minas Gerais",
           "Short name": "IFSULMGPoços",
           "Contestants": [
-            "Nádia Nogues De Almeida",
+            "Isabella Damião",
             "Brenda Cunha",
-            "Isabella Damião"
+            "Nádia Nogues De Almeida"
           ],
           "Sex": [
-            "Female",
-            "Female",
-            "Female"
+            "FEMALE",
+            "FEMALE",
+            "FEMALE"
           ],
           "Coach": "Douglas Nunes"
         },
@@ -7095,14 +7097,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Minas Gerais",
           "Short name": "IFSULMGPoços",
           "Contestants": [
-            "Jônata Sousa",
+            "Milena Silva",
             "Beatriz Neaime",
-            "Milena Silva"
+            "Jônata Sousa"
           ],
           "Sex": [
-            "Male",
-            "Female",
-            "Female"
+            "FEMALE",
+            "FEMALE",
+            "MALE"
           ],
           "Coach": "Douglas Nunes"
         },
@@ -7112,14 +7114,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Minas Gerais",
           "Short name": "IFSULMGPoços",
           "Contestants": [
-            "Maria Maria Clara",
+            "Jádyla Maria Cesário Firmino",
             "Adrian Damião",
-            "Jádyla Maria Cesário Firmino"
+            "Maria Maria Clara"
           ],
           "Sex": [
-            "Female",
-            "Male",
-            "Female"
+            "FEMALE",
+            "MALE",
+            "FEMALE"
           ],
           "Coach": "Douglas Nunes"
         },
@@ -7129,14 +7131,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Minas Gerais",
           "Short name": "IFSULMGPoços",
           "Contestants": [
-            "Luziane De Lourdes Freitas",
+            "Natasha Alves De Castro",
             "Rodrigo Araújo Marinho Franco",
-            "Natasha Alves De Castro"
+            "Luziane De Lourdes Freitas"
           ],
           "Sex": [
-            "Female",
-            "Male",
-            "Female"
+            "FEMALE",
+            "MALE",
+            "FEMALE"
           ],
           "Coach": "Douglas Nunes"
         },
@@ -7146,14 +7148,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Minas Gerais",
           "Short name": "IFSULMGPoços",
           "Contestants": [
-            "Mateus Nazaré Tavares",
+            "Pablo Santos",
             "Caio Antônio",
-            "Pablo Santos"
+            "Mateus Nazaré Tavares"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Douglas Nunes"
         },
@@ -7163,14 +7165,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Minas Gerais",
           "Short name": "IFSULMGPoços",
           "Contestants": [
-            "Antonio Amaral",
+            "Vinicius Charleaux",
             "Matheus Spigariol",
-            "Vinicius Charleaux"
+            "Antonio Amaral"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Douglas Nunes"
         }
@@ -7187,9 +7189,9 @@ CONTESTS[2020]["1aFase"] = {
             "Paulo Cruz"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Camilo Paula"
         }
@@ -7201,14 +7203,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Minas Gerais",
           "Short name": "PUC-MG",
           "Contestants": [
-            "Wyan Gauzzi",
+            "Diogo Araújo Miranda",
             "João Pedro Ribeiro",
-            "Diogo Araújo Miranda"
+            "Wyan Gauzzi"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Felipe Cunha"
         },
@@ -7218,14 +7220,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Minas Gerais",
           "Short name": "PUC-MG",
           "Contestants": [
-            "Igor Silva",
+            "Samuel Deboni Fraga",
             "Raphael Souza",
-            "Samuel Deboni Fraga"
+            "Igor Silva"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Felipe Cunha"
         }
@@ -7237,14 +7239,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Minas Gerais",
           "Short name": "UNIMONTES",
           "Contestants": [
-            "Ian Dangelis Costa",
+            "Gabriel Vinícius Abreu",
             "Ítalo Marcos Boaventura Siqueira",
-            "Gabriel Vinícius Abreu"
+            "Ian Dangelis Costa"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Heveraldo Oliveira"
         },
@@ -7254,14 +7256,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Minas Gerais",
           "Short name": "UNIMONTES",
           "Contestants": [
-            "Enael Ferraz Rocha",
+            "João Antônio Gomes",
             "Ed William Pereira",
-            "João Antônio Gomes"
+            "Enael Ferraz Rocha"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Heveraldo Oliveira"
         }
@@ -7273,14 +7275,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Minas Gerais",
           "Short name": "Unifei Itabira",
           "Contestants": [
-            "Pedro Souza",
+            "João Ribeiro",
             "Arthur Santos",
-            "João Ribeiro"
+            "Pedro Souza"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Paulo José Lage Alvarenga"
         },
@@ -7290,14 +7292,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Minas Gerais",
           "Short name": "Unifei Itabira",
           "Contestants": [
-            "Rafael Luís",
+            "Bernardo Rodrigues",
             "Júlia Ionêz",
-            "Bernardo Rodrigues"
+            "Rafael Luís"
           ],
           "Sex": [
-            "Male",
-            "Female",
-            "Male"
+            "MALE",
+            "FEMALE",
+            "MALE"
           ],
           "Coach": "Paulo José Lage Alvarenga"
         },
@@ -7307,14 +7309,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Minas Gerais",
           "Short name": "Unifei Itabira",
           "Contestants": [
-            "Brenda Valença",
+            "Gabriela Amorim",
             "Natan Vaz",
-            "Gabriela Amorim"
+            "Brenda Valença"
           ],
           "Sex": [
-            "Female",
-            "Male",
-            "Female"
+            "FEMALE",
+            "MALE",
+            "FEMALE"
           ],
           "Coach": "Paulo José Lage Alvarenga"
         },
@@ -7324,14 +7326,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Minas Gerais",
           "Short name": "Unifei Itabira",
           "Contestants": [
-            "Eduardo Perotti",
+            "Ian Souza",
             "João Pedro Pereira Magalhães",
-            "Ian Souza"
+            "Eduardo Perotti"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Paulo José Lage Alvarenga"
         },
@@ -7341,14 +7343,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Minas Gerais",
           "Short name": "Unifei Itabira",
           "Contestants": [
-            "Augusto Figueiredo",
+            "Matheus Botelho",
             "Hiroto Tanaka",
-            "Matheus Botelho"
+            "Augusto Figueiredo"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Paulo José Lage Alvarenga"
         },
@@ -7358,14 +7360,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Minas Gerais",
           "Short name": "Unifei Itabira",
           "Contestants": [
-            "Vinicius Duarte",
+            "Camila Soares",
             "Luiz Otavio Mendes",
-            "Camila Soares"
+            "Vinicius Duarte"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Female"
+            "FEMALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Paulo José Lage Alvarenga"
         },
@@ -7376,13 +7378,13 @@ CONTESTS[2020]["1aFase"] = {
           "Short name": "Unifei Itabira",
           "Contestants": [
             "Willian Ferraz",
-            "Gabriel Toffanetto",
-            "Emanuel Souza"
+            "Emanuel Souza",
+            "Gabriel Toffanetto"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Paulo José Lage Alvarenga"
         }
@@ -7394,14 +7396,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Minas Gerais",
           "Short name": "UNIFEI",
           "Contestants": [
-            "José Silva Neto",
+            "Dilson Gabriel Pieve",
             "Marcos Antonio Flores Gonçalves",
-            "Dilson Gabriel Pieve"
+            "José Silva Neto"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Roberto Affonso Costa Junior"
         },
@@ -7411,14 +7413,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Minas Gerais",
           "Short name": "UNIFEI",
           "Contestants": [
-            "Gabriel Hasmann Freire Moraes",
+            "Alvaro Horowicz Martins",
             "Pétrus Lopes Fiore",
-            "Alvaro Horowicz Martins"
+            "Gabriel Hasmann Freire Moraes"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Roberto Affonso Costa Junior"
         },
@@ -7428,14 +7430,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Minas Gerais",
           "Short name": "UNIFEI",
           "Contestants": [
-            "Gabriella Correa",
+            "Daniel Mendes",
             "Igor Andrade Reis De Oliveira",
-            "Daniel Mendes"
+            "Gabriella Correa"
           ],
           "Sex": [
-            "Female",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "FEMALE"
           ],
           "Coach": "Roberto Affonso Costa Junior"
         },
@@ -7445,14 +7447,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Minas Gerais",
           "Short name": "UNIFEI",
           "Contestants": [
-            "Luis Fernando Soares Dos Santos",
+            "Giovany Da Silva Santos",
             "Alef De Paula",
-            "Giovany Da Silva Santos"
+            "Luis Fernando Soares Dos Santos"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Roberto Affonso Costa Junior"
         },
@@ -7462,14 +7464,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Minas Gerais",
           "Short name": "UNIFEI",
           "Contestants": [
-            "Gustavo Luiz De Alvarenga Guerra",
+            "Eduardo Augusto De Oliveira",
             "Felipe Kallás Silva",
-            "Eduardo Augusto De Oliveira"
+            "Gustavo Luiz De Alvarenga Guerra"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Roberto Affonso Costa Junior"
         }
@@ -7481,14 +7483,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Minas Gerais",
           "Short name": "UFMG",
           "Contestants": [
-            "Francielly Neves",
+            "Augusto Lessa Corrêa",
             "Mateus Latrova Stephanin",
-            "Augusto Lessa Corrêa"
+            "Francielly Neves"
           ],
           "Sex": [
-            "Female",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "FEMALE"
           ],
           "Coach": "Pedro Papa Paniago"
         },
@@ -7498,14 +7500,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Minas Gerais",
           "Short name": "UFMG",
           "Contestants": [
-            "Gabriel Ubiratan",
+            "Emily Sena",
             "José Oliveira",
-            "Emily Sena"
+            "Gabriel Ubiratan"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Female"
+            "FEMALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Pedro Papa Paniago"
         },
@@ -7515,14 +7517,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Minas Gerais",
           "Short name": "UFMG",
           "Contestants": [
-            "Czarena Wealth Nana Afia Agyei",
+            "Kael Soares Augusto",
             "Thales Henrique Silva",
-            "Kael Soares Augusto"
+            "Czarena Wealth Nana Afia Agyei"
           ],
           "Sex": [
-            "Female",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "FEMALE"
           ],
           "Coach": "Pedro Papa Paniago"
         },
@@ -7532,14 +7534,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Minas Gerais",
           "Short name": "UFMG",
           "Contestants": [
-            "João Victor Moreira Tamm",
+            "Caio Zanatelli",
             "Matheus Henrique De Souza",
-            "Caio Zanatelli"
+            "João Victor Moreira Tamm"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Pedro Papa Paniago"
         },
@@ -7549,14 +7551,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Minas Gerais",
           "Short name": "UFMG",
           "Contestants": [
-            "Thiago Almeida Campos",
+            "Rafael Vinícius Dos Santos",
             "Otávio De Meira Lima",
-            "Rafael Vinícius Dos Santos"
+            "Thiago Almeida Campos"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Pedro Papa Paniago"
         },
@@ -7566,14 +7568,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Minas Gerais",
           "Short name": "UFMG",
           "Contestants": [
-            "Paulo Estevão Nunes Santos",
+            "Luiz Almeida De Oliveira",
             "Gustavo Da Silva Gomes",
-            "Luiz Almeida De Oliveira"
+            "Paulo Estevão Nunes Santos"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Pedro Papa Paniago"
         },
@@ -7583,14 +7585,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Minas Gerais",
           "Short name": "UFMG",
           "Contestants": [
-            "Celio Passos",
+            "Matheus Guedes",
             "Matheus Aquino Motta",
-            "Matheus Guedes"
+            "Celio Passos"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Pedro Papa Paniago"
         },
@@ -7600,14 +7602,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Minas Gerais",
           "Short name": "UFMG",
           "Contestants": [
-            "Tomaz Mascarenhas",
+            "Caio Caldeira",
             "Henrique Brito",
-            "Caio Caldeira"
+            "Tomaz Mascarenhas"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Pedro Papa Paniago"
         },
@@ -7617,14 +7619,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Minas Gerais",
           "Short name": "UFMG",
           "Contestants": [
-            "João Marcos Machado Couto",
+            "Guilherme Drummond Lima",
             "Breno Tanure Prata",
-            "Guilherme Drummond Lima"
+            "João Marcos Machado Couto"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Pedro Papa Paniago"
         },
@@ -7634,14 +7636,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Minas Gerais",
           "Short name": "UFMG",
           "Contestants": [
-            "Isadora Alves De Salles",
+            "Ana Flávia De Miranda Silva",
             "Thiago Martin Poppe",
-            "Ana Flávia De Miranda Silva"
+            "Isadora Alves De Salles"
           ],
           "Sex": [
-            "Female",
-            "Male",
-            "Female"
+            "FEMALE",
+            "MALE",
+            "FEMALE"
           ],
           "Coach": "Pedro Papa Paniago"
         },
@@ -7651,14 +7653,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Minas Gerais",
           "Short name": "UFMG",
           "Contestants": [
-            "Matheus Ibrahim Fonseca Magalhães",
+            "Paula Mara Ribeiro",
             "Luiz Augusto Dias Berto",
-            "Paula Mara Ribeiro"
+            "Matheus Ibrahim Fonseca Magalhães"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Female"
+            "FEMALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Pedro Papa Paniago"
         },
@@ -7668,14 +7670,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Minas Gerais",
           "Short name": "UFMG",
           "Contestants": [
-            "Breno De Sousa",
+            "Bruno Nogueira",
             "João Antonio Oliveira Pedrosa",
-            "Bruno Nogueira"
+            "Breno De Sousa"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Pedro Papa Paniago"
         },
@@ -7685,14 +7687,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Minas Gerais",
           "Short name": "UFMG",
           "Contestants": [
-            "Fernando Eduardo Pinto Moreira",
+            "Vinícius Assis Neves",
             "Bernardo Gomes Nunes",
-            "Vinícius Assis Neves"
+            "Fernando Eduardo Pinto Moreira"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Pedro Papa Paniago"
         },
@@ -7702,14 +7704,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Minas Gerais",
           "Short name": "UFMG",
           "Contestants": [
-            "Mariano Glauber Torres Fernandes",
+            "Diego Pereira Da Silva",
             "Bernardo Borges",
-            "Diego Pereira Da Silva"
+            "Mariano Glauber Torres Fernandes"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Pedro Papa Paniago"
         },
@@ -7719,14 +7721,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Minas Gerais",
           "Short name": "UFMG",
           "Contestants": [
-            "Vítor Gabriel Peixoto Pessoa",
+            "Bruno Gabriel Sant Anna De Faria",
             "Júlia Guerreiro",
-            "Bruno Gabriel Sant Anna De Faria"
+            "Vítor Gabriel Peixoto Pessoa"
           ],
           "Sex": [
-            "Male",
-            "Female",
-            "Male"
+            "MALE",
+            "FEMALE",
+            "MALE"
           ],
           "Coach": "Pedro Papa Paniago"
         },
@@ -7736,14 +7738,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Minas Gerais",
           "Short name": "UFMG",
           "Contestants": [
-            "Eduardo Fernandes",
+            "Bernardo Neto",
             "Vitor Ricoy",
-            "Bernardo Neto"
+            "Eduardo Fernandes"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Pedro Papa Paniago"
         },
@@ -7753,14 +7755,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Minas Gerais",
           "Short name": "UFMG",
           "Contestants": [
-            "Helen Ferreira De Oliveira",
+            "Thais Macela De Lira Menegaldi",
             "Lorena Leão",
-            "Thais Macela De Lira Menegaldi"
+            "Helen Ferreira De Oliveira"
           ],
           "Sex": [
-            "Female",
-            "Female",
-            "Female"
+            "FEMALE",
+            "FEMALE",
+            "FEMALE"
           ],
           "Coach": "Pedro Papa Paniago"
         },
@@ -7770,14 +7772,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Minas Gerais",
           "Short name": "UFMG",
           "Contestants": [
-            "Bruno Monteiro",
+            "Rafael Grandsire Oliveira",
             "Emanuel Silva",
-            "Rafael Grandsire Oliveira"
+            "Bruno Monteiro"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Pedro Papa Paniago"
         },
@@ -7787,14 +7789,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Minas Gerais",
           "Short name": "UFMG",
           "Contestants": [
-            "João Pedro Miranda De Faria",
+            "Geovanna Menegasse Silva",
             "Paulo Palmuti Sigiani Neto",
-            "Geovanna Menegasse Silva"
+            "João Pedro Miranda De Faria"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Female"
+            "FEMALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Pedro Papa Paniago"
         }
@@ -7806,14 +7808,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Minas Gerais",
           "Short name": "UFOP",
           "Contestants": [
-            "Jhonatan Souza",
+            "Eduardo Matosinhos",
             "Leandro Rodrigues",
-            "Eduardo Matosinhos"
+            "Jhonatan Souza"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Valmir Bueno"
         }
@@ -7825,14 +7827,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Minas Gerais",
           "Short name": "UFSJ",
           "Contestants": [
-            "Sávio Araújo Gonçalves Guedes",
+            "Letícia Marotta",
             "Matheus Rodrigues Silva Maia",
-            "Letícia Marotta"
+            "Sávio Araújo Gonçalves Guedes"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Female"
+            "FEMALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Alex Vidigal Bastos"
         },
@@ -7842,14 +7844,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Minas Gerais",
           "Short name": "UFSJ",
           "Contestants": [
-            "Lucas Souza Soares",
+            "Ana Gabriela Menezes Costa",
             "Luis Felipe Blasco",
-            "Ana Gabriela Menezes Costa"
+            "Lucas Souza Soares"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Female"
+            "FEMALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Alex Vidigal Bastos"
         },
@@ -7859,14 +7861,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Minas Gerais",
           "Short name": "UFSJ",
           "Contestants": [
-            "João Victor Pires Generoso",
+            "Cecília Camimura Oliveira",
             "Breno Wellington Da Silva Paula",
-            "Cecília Camimura Oliveira"
+            "João Victor Pires Generoso"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Female"
+            "FEMALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Alex Vidigal Bastos"
         },
@@ -7876,14 +7878,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Minas Gerais",
           "Short name": "UFSJ",
           "Contestants": [
-            "Markus Yuri Martins Ribeiro",
+            "Danilo Sales Rodrigues De Oliveira",
             "Eshelly Emanuele Leme Vieira",
-            "Danilo Sales Rodrigues De Oliveira"
+            "Markus Yuri Martins Ribeiro"
           ],
           "Sex": [
-            "Male",
-            "Female",
-            "Male"
+            "MALE",
+            "FEMALE",
+            "MALE"
           ],
           "Coach": "Alex Vidigal Bastos"
         }
@@ -7895,14 +7897,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Minas Gerais",
           "Short name": "UFU",
           "Contestants": [
-            "Lucas Ferreira Dos Reis",
+            "Lucas Araújo",
             "Murielly Oliveira Nascimento",
-            "Lucas Araújo"
+            "Lucas Ferreira Dos Reis"
           ],
           "Sex": [
-            "Male",
-            "Female",
-            "Male"
+            "MALE",
+            "FEMALE",
+            "MALE"
           ],
           "Coach": "João Henrique De Souza Pereira"
         },
@@ -7912,14 +7914,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Minas Gerais",
           "Short name": "UFU",
           "Contestants": [
-            "Robert Wyllyam Andrade Rocha",
+            "Yuri Augusto Da Costa",
             "Eric Martins Vilela",
-            "Yuri Augusto Da Costa"
+            "Robert Wyllyam Andrade Rocha"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Luiz Cláudio Theodoro"
         },
@@ -7929,14 +7931,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Minas Gerais",
           "Short name": "UFU",
           "Contestants": [
-            "Regis Marcos",
+            "João Correa Neves Neto",
             "Bruno Brito",
-            "João Correa Neves Neto"
+            "Regis Marcos"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "João Henrique De Souza Pereira"
         },
@@ -7946,14 +7948,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Minas Gerais",
           "Short name": "UFU",
           "Contestants": [
-            "Luanna Rabelo",
+            "Arthur Sousa",
             "Matheus Santos",
-            "Arthur Sousa"
+            "Luanna Rabelo"
           ],
           "Sex": [
-            "Female",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "FEMALE"
           ],
           "Coach": "João Henrique De Souza Pereira"
         },
@@ -7963,14 +7965,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Minas Gerais",
           "Short name": "UFU",
           "Contestants": [
-            "Breno Henrique De Oliveira Ferreira",
             "Mateus Silva",
+            "Breno Henrique De Oliveira Ferreira",
             "Guilherme Rodrigues Rodovalho"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Marcelo Albertini"
         },
@@ -7980,14 +7982,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Minas Gerais",
           "Short name": "UFU",
           "Contestants": [
-            "Rodrigo Ferreira",
+            "João Rodrigues",
             "Gustavo Pacheco",
-            "João Rodrigues"
+            "Rodrigo Ferreira"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Felipe A. Louza"
         },
@@ -7997,14 +7999,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Minas Gerais",
           "Short name": "UFU",
           "Contestants": [
-            "Pedro Santana",
+            "Victor Hugo Martins Alves",
             "Felipe Eduardo",
-            "Victor Hugo Martins Alves"
+            "Pedro Santana"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "João Henrique De Souza Pereira"
         },
@@ -8014,14 +8016,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Minas Gerais",
           "Short name": "UFU",
           "Contestants": [
-            "Júlio Silva",
+            "Pedro Jiticovski",
             "Breno Aniceto",
-            "Pedro Jiticovski"
+            "Júlio Silva"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "João Henrique De Souza Pereira"
         },
@@ -8031,14 +8033,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Minas Gerais",
           "Short name": "UFU",
           "Contestants": [
-            "Leonardo Balestere",
+            "Manuela Sousa",
             "Gustavo Reis",
-            "Manuela Sousa"
+            "Leonardo Balestere"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Female"
+            "FEMALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Luiz Cláudio Theodoro"
         },
@@ -8048,14 +8050,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Minas Gerais",
           "Short name": "UFU",
           "Contestants": [
-            "Guilherme Rafael",
+            "Israel Lúcio De Vaz",
             "João Vítor Silva",
-            "Israel Lúcio De Vaz"
+            "Guilherme Rafael"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "João Henrique De Souza Pereira"
         },
@@ -8070,9 +8072,9 @@ CONTESTS[2020]["1aFase"] = {
             "Luiz Oliveira"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "João Henrique De Souza Pereira"
         },
@@ -8082,14 +8084,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Minas Gerais",
           "Short name": "UFU",
           "Contestants": [
-            "Gustavo Gardusi",
+            "Pedro Diogo Machado",
             "Marcos Felipe Belisário Costa",
-            "Pedro Diogo Machado"
+            "Gustavo Gardusi"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Luiz Cláudio Theodoro"
         },
@@ -8099,14 +8101,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Minas Gerais",
           "Short name": "UFU",
           "Contestants": [
-            "Samuel Reine Alves Ribeiro",
+            "João Gerardi",
             "Paulo Júnior",
-            "João Gerardi"
+            "Samuel Reine Alves Ribeiro"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "João Henrique De Souza Pereira"
         },
@@ -8116,14 +8118,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Minas Gerais",
           "Short name": "UFU",
           "Contestants": [
-            "Larissa Lima Moraes Aguiar",
+            "Ana Beatriz Thezolin",
             "Thaís Barbosa Caetano Souza",
-            "Ana Beatriz Thezolin"
+            "Larissa Lima Moraes Aguiar"
           ],
           "Sex": [
-            "Female",
-            "Female",
-            "Female"
+            "FEMALE",
+            "FEMALE",
+            "FEMALE"
           ],
           "Coach": "Felipe A. Louza"
         },
@@ -8133,14 +8135,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Minas Gerais",
           "Short name": "UFU",
           "Contestants": [
-            "Ellen Christina Amaral Santana",
+            "Victor Tsutsumi",
             "Leonardo Magalhães",
-            "Victor Tsutsumi"
+            "Ellen Christina Amaral Santana"
           ],
           "Sex": [
-            "Female",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "FEMALE"
           ],
           "Coach": "Luiz Cláudio Theodoro"
         },
@@ -8150,14 +8152,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Minas Gerais",
           "Short name": "UFU",
           "Contestants": [
-            "Renzo Souza",
+            "Bruno Fernandes",
             "Guilherme Gabriel",
-            "Bruno Fernandes"
+            "Renzo Souza"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Felipe A. Louza"
         },
@@ -8167,14 +8169,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Minas Gerais",
           "Short name": "UFU",
           "Contestants": [
-            "Bruna Oliveira",
+            "Carlos Cabral",
             "Giullia Rodrigues",
-            "Carlos Cabral"
+            "Bruna Oliveira"
           ],
           "Sex": [
-            "Female",
-            "Female",
-            "Male"
+            "MALE",
+            "FEMALE",
+            "FEMALE"
           ],
           "Coach": "Luiz Cláudio Theodoro"
         },
@@ -8184,14 +8186,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Minas Gerais",
           "Short name": "UFU",
           "Contestants": [
-            "Arthur Honório Brandão",
+            "Heloisa Maluf Ribeiro Melo",
             "Pedro Emanuel Borges Costa",
-            "Heloisa Maluf Ribeiro Melo"
+            "Arthur Honório Brandão"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Female"
+            "FEMALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Felipe A. Louza"
         },
@@ -8201,14 +8203,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Minas Gerais",
           "Short name": "UFU",
           "Contestants": [
-            "Anna Letycia Reis",
+            "Gabriela Calixto",
             "Gabriel Amaral",
-            "Gabriela Calixto"
+            "Anna Letycia Reis"
           ],
           "Sex": [
-            "Female",
-            "Male",
-            "Female"
+            "FEMALE",
+            "MALE",
+            "FEMALE"
           ],
           "Coach": "Luiz Cláudio Theodoro"
         },
@@ -8218,14 +8220,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Minas Gerais",
           "Short name": "UFU",
           "Contestants": [
-            "Thiago Dutra",
+            "Carolina Figueiredo",
             "Guilherme Silva",
-            "Carolina Figueiredo"
+            "Thiago Dutra"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Female"
+            "FEMALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Luiz Cláudio Theodoro"
         },
@@ -8235,14 +8237,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Minas Gerais",
           "Short name": "UFU",
           "Contestants": [
-            "Victor Gabriel Castão Da Cruz",
+            "Cayo Phellipe Ramalho De Oliveira",
             "Victor Costa Moura Carvalho",
-            "Cayo Phellipe Ramalho De Oliveira"
+            "Victor Gabriel Castão Da Cruz"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Felipe A. Louza"
         }
@@ -8254,14 +8256,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Minas Gerais",
           "Short name": "UFU-Monte Carmelo/SI",
           "Contestants": [
-            "Yan Silva",
             "Gabriel Lima",
+            "Yan Silva",
             "Mateus Rosa"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Rafael Dias Araujo"
         },
@@ -8271,14 +8273,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Minas Gerais",
           "Short name": "UFU-Monte Carmelo/SI",
           "Contestants": [
-            "Roberto Tupinambá",
+            "João Dairel",
             "João Vitor",
-            "João Dairel"
+            "Roberto Tupinambá"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Fernanda Santos"
         },
@@ -8288,14 +8290,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Minas Gerais",
           "Short name": "UFU-Monte Carmelo/SI",
           "Contestants": [
-            "Ricardo Filho",
             "Hellen Harada",
-            "Matheus Costa"
+            "Matheus Costa",
+            "Ricardo Filho"
           ],
           "Sex": [
-            "Male",
-            "Female",
-            "Male"
+            "FEMALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Alessandra Paulino"
         }
@@ -8307,14 +8309,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Minas Gerais",
           "Short name": "DPI-UFV",
           "Contestants": [
-            "Natan Garcias",
+            "Gabriel Felix",
             "Matheus Aguilar De Oliveira",
-            "Gabriel Felix"
+            "Natan Garcias"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Salles Magalhães"
         },
@@ -8324,14 +8326,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Minas Gerais",
           "Short name": "DPI-UFV",
           "Contestants": [
-            "Vítor Emídio Simoncini",
+            "Bianca Dias",
             "Hicaro Vitor Teixeira De Abreu",
-            "Bianca Dias"
+            "Vítor Emídio Simoncini"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Female"
+            "FEMALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Salles Magalhães"
         },
@@ -8341,14 +8343,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Minas Gerais",
           "Short name": "DPI-UFV",
           "Contestants": [
-            "Bruno Ferreira Coelho",
+            "Rodrigo Eduardo De Oliveira Bauer Chichorro",
             "Róger Vieira Batista",
-            "Rodrigo Eduardo De Oliveira Bauer Chichorro"
+            "Bruno Ferreira Coelho"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Salles Magalhães"
         },
@@ -8358,14 +8360,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Minas Gerais",
           "Short name": "DPI-UFV",
           "Contestants": [
-            "Nicholas Barbosa E Costa",
+            "Lucas Rodrigues Joviniano",
             "Igor Teixeira Brasiliano",
-            "Lucas Rodrigues Joviniano"
+            "Nicholas Barbosa E Costa"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Salles Magalhães"
         },
@@ -8375,14 +8377,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Minas Gerais",
           "Short name": "DPI-UFV",
           "Contestants": [
-            "Sarah Carvalho Alves",
+            "Leandro Figueiredo Xavier",
             "Manoela Werneck Auad",
-            "Leandro Figueiredo Xavier"
+            "Sarah Carvalho Alves"
           ],
           "Sex": [
-            "Female",
-            "Female",
-            "Male"
+            "MALE",
+            "FEMALE",
+            "FEMALE"
           ],
           "Coach": "Salles Magalhães"
         },
@@ -8392,14 +8394,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Minas Gerais",
           "Short name": "DPI-UFV",
           "Contestants": [
-            "Fabiano Junior",
+            "Gabriel Philippe Pereira",
             "Levi Guimarães Martins",
-            "Gabriel Philippe Pereira"
+            "Fabiano Junior"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Salles Magalhães"
         },
@@ -8409,14 +8411,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Minas Gerais",
           "Short name": "DPI-UFV",
           "Contestants": [
-            "João Pedro Borges",
+            "Mariana Rodrigues De Santana",
             "Matheus Ferreira",
-            "Mariana Rodrigues De Santana"
+            "João Pedro Borges"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Female"
+            "FEMALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Salles Magalhães"
         },
@@ -8426,14 +8428,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Minas Gerais",
           "Short name": "DPI-UFV",
           "Contestants": [
-            "Erick Figueiredo",
+            "Henrique Campos Padula",
             "Gabriel Bezerra Soares",
-            "Henrique Campos Padula"
+            "Erick Figueiredo"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Salles Magalhães"
         }
@@ -8445,14 +8447,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Minas Gerais",
           "Short name": "UFV - Campus Florest",
           "Contestants": [
-            "Athena Sarantôpoulos",
+            "Tássia Gomes",
             "Ana Rocha",
-            "Tássia Gomes"
+            "Athena Sarantôpoulos"
           ],
           "Sex": [
-            "Female",
-            "Female",
-            "Female"
+            "FEMALE",
+            "FEMALE",
+            "FEMALE"
           ],
           "Coach": "Estela Batista"
         },
@@ -8462,14 +8464,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Minas Gerais",
           "Short name": "UFV - Campus Florest",
           "Contestants": [
-            "Igor Lucas Braz",
+            "Henrique Santana",
             "João Marcos Alves Modesto Ramos",
-            "Henrique Santana"
+            "Igor Lucas Braz"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Estela Batista"
         },
@@ -8479,14 +8481,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Minas Gerais",
           "Short name": "UFV - Campus Florest",
           "Contestants": [
-            "Guilherme Souza",
+            "Mateus Santos",
             "Aryel Penido",
-            "Mateus Santos"
+            "Guilherme Souza"
           ],
           "Sex": [
-            "Male",
-            "Female",
-            "Male"
+            "MALE",
+            "FEMALE",
+            "MALE"
           ],
           "Coach": "Estela Batista"
         },
@@ -8496,14 +8498,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Minas Gerais",
           "Short name": "UFV - Campus Florest",
           "Contestants": [
-            "Isabella Ramos",
+            "Pablo Ferreira",
             "Arthur Gomes",
-            "Pablo Ferreira"
+            "Isabella Ramos"
           ],
           "Sex": [
-            "Female",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "FEMALE"
           ],
           "Coach": "Estela Batista"
         },
@@ -8513,14 +8515,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Minas Gerais",
           "Short name": "UFV - Campus Florest",
           "Contestants": [
-            "Naiara Diniz",
+            "João Vale",
             "Daniel Martins",
-            "João Vale"
+            "Naiara Diniz"
           ],
           "Sex": [
-            "Female",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "FEMALE"
           ],
           "Coach": "Estela Batista"
         },
@@ -8530,14 +8532,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Minas Gerais",
           "Short name": "UFV - Campus Florest",
           "Contestants": [
-            "Caio Rocha",
+            "Lázaro Bodevan",
             "Leonardo Silva",
-            "Lázaro Bodevan"
+            "Caio Rocha"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Estela Batista"
         },
@@ -8547,14 +8549,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Minas Gerais",
           "Short name": "UFV - Campus Florest",
           "Contestants": [
-            "Maria Theresa Henriques",
+            "Mariana Souza",
             "Júlia Faria",
-            "Mariana Souza"
+            "Maria Theresa Henriques"
           ],
           "Sex": [
-            "Female",
-            "Female",
-            "Female"
+            "FEMALE",
+            "FEMALE",
+            "FEMALE"
           ],
           "Coach": "Estela Batista"
         },
@@ -8564,14 +8566,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Minas Gerais",
           "Short name": "UFV - Campus Florest",
           "Contestants": [
-            "Victoria Rodrigues",
+            "Paula Gibrim",
             "Maria Dalila Vieira",
-            "Paula Gibrim"
+            "Victoria Rodrigues"
           ],
           "Sex": [
-            "Female",
-            "Female",
-            "Female"
+            "FEMALE",
+            "FEMALE",
+            "FEMALE"
           ],
           "Coach": "Estela Batista"
         },
@@ -8581,14 +8583,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Minas Gerais",
           "Short name": "UFV - Campus Florest",
           "Contestants": [
-            "Sandra Rodrigues",
+            "Jeniffer Souza",
             "Melissa Araújo",
-            "Jeniffer Souza"
+            "Sandra Rodrigues"
           ],
           "Sex": [
-            "Female",
-            "Female",
-            "Female"
+            "FEMALE",
+            "FEMALE",
+            "FEMALE"
           ],
           "Coach": "Estela Batista"
         },
@@ -8598,33 +8600,33 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Minas Gerais",
           "Short name": "UFV - Campus Florest",
           "Contestants": [
-            "Otávio Gomes",
+            "Guilherme Melos",
             "Dener Ribeiro",
-            "Guilherme Melos"
+            "Otávio Gomes"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Estela Batista"
         }
       },
-      "Universidade Federal do Triângulo Mineiro": {
+      "Universidade Federal do Triângulo Mineiro ": {
         "#G3M!": {
           "Rank": 632,
           "SiteRank": 124,
           "Site": "Minas Gerais",
           "Short name": "UFTM",
           "Contestants": [
-            "Gabriela Aparecida Perlotti",
+            "Maria Luísa Kassuya Pereira Murakami",
             "Mariana Pereira Maito",
-            "Maria Luísa Kassuya Pereira Murakami"
+            "Gabriela Aparecida Perlotti"
           ],
           "Sex": [
-            "Female",
-            "Female",
-            "Female"
+            "FEMALE",
+            "FEMALE",
+            "FEMALE"
           ],
           "Coach": "Elder Sobrinho"
         },
@@ -8634,14 +8636,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Minas Gerais",
           "Short name": "UFTM",
           "Contestants": [
-            "Thales Silva",
+            "Arthur Lopes",
             "David Palis Neto",
-            "Arthur Lopes"
+            "Thales Silva"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Elder Sobrinho"
         },
@@ -8651,14 +8653,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Minas Gerais",
           "Short name": "UFTM",
           "Contestants": [
-            "Breno Borrasqui",
+            "Henrique Correa Faganello",
             "Gabriel Bonizário",
-            "Henrique Correa Faganello"
+            "Breno Borrasqui"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Elder Sobrinho"
         },
@@ -8668,14 +8670,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Minas Gerais",
           "Short name": "UFTM",
           "Contestants": [
-            "Jhony Raphael Silva De Almeida",
+            "Wallace Servato Bertolaccini",
             "Lucas De Alvarenga Hanazono",
-            "Wallace Servato Bertolaccini"
+            "Jhony Raphael Silva De Almeida"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Elder Sobrinho"
         },
@@ -8685,14 +8687,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Minas Gerais",
           "Short name": "UFTM",
           "Contestants": [
-            "Marcio Pimenta",
+            "João Vitor Alves Gomes Da Silva",
             "Gustavo Nepomuceno Deusdará",
-            "João Vitor Alves Gomes Da Silva"
+            "Marcio Pimenta"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Elder Sobrinho"
         }
@@ -8704,14 +8706,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Minas Gerais",
           "Short name": "UNIVAS",
           "Contestants": [
-            "Raul Pires",
+            "Vinicius Costa",
             "Wellington Barreiros",
-            "Vinicius Costa"
+            "Raul Pires"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Roberto Rocha"
         },
@@ -8721,14 +8723,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Minas Gerais",
           "Short name": "UNIVAS",
           "Contestants": [
-            "Alexandre Tertuliano",
+            "Lucas Costa",
             "Brendon Augusto",
-            "Lucas Costa"
+            "Alexandre Tertuliano"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Roberto Rocha"
         }
@@ -8742,14 +8744,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Rio de Janeiro",
           "Short name": "CEFET/RJ",
           "Contestants": [
-            "Lucas Mello",
+            "Claudio Botelho",
             "Lucas Rodrigues",
-            "Claudio Botelho"
+            "Lucas Mello"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "João Roberto De Toledo Quadros"
         }
@@ -8761,14 +8763,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Rio de Janeiro",
           "Short name": "CEFET/RJ Petrópolis",
           "Contestants": [
-            "Gabrielle Santos",
+            "Raíssa Pereira",
             "Carlos Candido",
-            "Raíssa Pereira"
+            "Gabrielle Santos"
           ],
           "Sex": [
-            "Female",
-            "Male",
-            "Female"
+            "FEMALE",
+            "MALE",
+            "FEMALE"
           ],
           "Coach": "Douglas De Oliveira Cardoso"
         },
@@ -8778,14 +8780,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Rio de Janeiro",
           "Short name": "CEFET/RJ Petrópolis",
           "Contestants": [
-            "Rayssa Vilaca",
+            "Diego Zanchett",
             "Thalis Galeno",
-            "Diego Zanchett"
+            "Rayssa Vilaca"
           ],
           "Sex": [
-            "Female",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "FEMALE"
           ],
           "Coach": "Douglas De Oliveira Cardoso"
         },
@@ -8795,14 +8797,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Rio de Janeiro",
           "Short name": "CEFET/RJ Petrópolis",
           "Contestants": [
-            "Marcos Paulo",
+            "Rômulo Asevedo",
             "Caio Pinheiro",
-            "Rômulo Asevedo"
+            "Marcos Paulo"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Douglas De Oliveira Cardoso"
         },
@@ -8812,14 +8814,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Rio de Janeiro",
           "Short name": "CEFET/RJ Petrópolis",
           "Contestants": [
-            "Igor Lordeiro",
+            "Roger Passos",
             "Mateus Garcia",
-            "Roger Passos"
+            "Igor Lordeiro"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Douglas De Oliveira Cardoso"
         },
@@ -8829,14 +8831,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Rio de Janeiro",
           "Short name": "CEFET/RJ Petrópolis",
           "Contestants": [
-            "João Jochem",
+            "Tatiana Wu",
             "Eduardo Gomes",
-            "Tatiana Wu"
+            "João Jochem"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Female"
+            "FEMALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Douglas De Oliveira Cardoso"
         }
@@ -8848,14 +8850,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Rio de Janeiro",
           "Short name": "UNIFESO",
           "Contestants": [
-            "Lucas João De Oliveira",
+            "Gustavo Esteves Rocha",
             "Aniello Longobardi",
-            "Gustavo Esteves Rocha"
+            "Lucas João De Oliveira"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Rafael Gomes Monteiro"
         },
@@ -8865,14 +8867,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Rio de Janeiro",
           "Short name": "UNIFESO",
           "Contestants": [
-            "Guilherme Lucas Pires De Vasconcelos",
+            "Maycon Douglas",
             "Lucas Cruz",
-            "Maycon Douglas"
+            "Guilherme Lucas Pires De Vasconcelos"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Rafael Gomes Monteiro"
         },
@@ -8882,14 +8884,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Rio de Janeiro",
           "Short name": "UNIFESO",
           "Contestants": [
-            "Maycon Cuervo Volino Peclat",
+            "Douglas Ornelas De Sousa",
             "João Pedro Neves Carneiro",
-            "Douglas Ornelas De Sousa"
+            "Maycon Cuervo Volino Peclat"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Rafael Gomes Monteiro"
         }
@@ -8901,14 +8903,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Rio de Janeiro",
           "Short name": "IME",
           "Contestants": [
-            "Guilherme De Sá Menezes",
+            "Gabriel Vinícius De Souza Silva",
             "Arnon Mello Barbosa",
-            "Gabriel Vinícius De Souza Silva"
+            "Guilherme De Sá Menezes"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Claudia Justel"
         },
@@ -8918,14 +8920,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Rio de Janeiro",
           "Short name": "IME",
           "Contestants": [
-            "Pedro Novaes Carnevale",
+            "Alexandre Belfort De Almeida Chiacchio",
             "Rafael Tchen Yin Hang Wei",
-            "Alexandre Belfort De Almeida Chiacchio"
+            "Pedro Novaes Carnevale"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Claudia Justel"
         },
@@ -8935,14 +8937,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Rio de Janeiro",
           "Short name": "IME",
           "Contestants": [
-            "Bruno Gorresen Mello",
+            "João Miguel De Lima Filho",
             "Pietro Motta Geronimi",
-            "João Miguel De Lima Filho"
+            "Bruno Gorresen Mello"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Claudia Justel"
         },
@@ -8952,14 +8954,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Rio de Janeiro",
           "Short name": "IME",
           "Contestants": [
-            "Sergio Macário",
+            "Davi Holanda",
             "Caio Rocha",
-            "Davi Holanda"
+            "Sergio Macário"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Claudia Justel"
         }
@@ -8971,14 +8973,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Rio de Janeiro",
           "Short name": "PUC Rio de Janeiro",
           "Contestants": [
-            "Rachel Szenberg",
+            "Miguel Fagundes Vuori",
             "Pedro Da Silveira Carvalho Ripper",
-            "Miguel Fagundes Vuori"
+            "Rachel Szenberg"
           ],
           "Sex": [
-            "Female",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "FEMALE"
           ],
           "Coach": "Marcus Poggi"
         },
@@ -8988,14 +8990,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Rio de Janeiro",
           "Short name": "PUC Rio de Janeiro",
           "Contestants": [
-            "Gustavo Oliveira Mendonça",
+            "Vitor Krau",
             "Alexandre Augusto Poggio Heine",
-            "Vitor Krau"
+            "Gustavo Oliveira Mendonça"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Marcus Poggi"
         },
@@ -9005,14 +9007,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Rio de Janeiro",
           "Short name": "PUC Rio de Janeiro",
           "Contestants": [
-            "Daniel Menezes Cavalcante Lemos Dos Passos",
+            "Conrado Costa",
             "Théo Falcato Ribeiro Palmeirim De Athayde",
-            "Conrado Costa"
+            "Daniel Menezes Cavalcante Lemos Dos Passos"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Marcus Poggi"
         },
@@ -9022,14 +9024,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Rio de Janeiro",
           "Short name": "PUC Rio de Janeiro",
           "Contestants": [
-            "Luiz Fernando Cunha Duarte",
+            "Daniel Guimarães",
             "Felipe Bernardi",
-            "Daniel Guimarães"
+            "Luiz Fernando Cunha Duarte"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Marcus Poggi"
         },
@@ -9039,14 +9041,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Rio de Janeiro",
           "Short name": "PUC Rio de Janeiro",
           "Contestants": [
-            "Lucas Feijó Lobo De Andrade",
+            "Daniel Zimmer De Paula Freitas",
             "Thomas Mergener Gouvêa Mendes",
-            "Daniel Zimmer De Paula Freitas"
+            "Lucas Feijó Lobo De Andrade"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Marcus Poggi"
         },
@@ -9056,14 +9058,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Rio de Janeiro",
           "Short name": "PUC Rio de Janeiro",
           "Contestants": [
-            "Paulo Vítor Campos Ferreira Libório",
+            "Matheus Sampaio Moreira",
             "Kevin Abreu De Araujo",
-            "Matheus Sampaio Moreira"
+            "Paulo Vítor Campos Ferreira Libório"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Marcus Poggi"
         },
@@ -9073,14 +9075,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Rio de Janeiro",
           "Short name": "PUC Rio de Janeiro",
           "Contestants": [
-            "José Lucas Teixeira Xavier",
+            "Alexandre Rodrigues Bomfim Junior",
             "João Pedro Monteiro Maia",
-            "Alexandre Rodrigues Bomfim Junior"
+            "José Lucas Teixeira Xavier"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Marcus Poggi"
         },
@@ -9090,14 +9092,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Rio de Janeiro",
           "Short name": "PUC Rio de Janeiro",
           "Contestants": [
-            "Eduardo Sarruf Pinheiro",
+            "Suemy Inagaki Pinheiro Fagundes",
             "João Pedro Jesus De Abreu Martinez",
-            "Suemy Inagaki Pinheiro Fagundes"
+            "Eduardo Sarruf Pinheiro"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Female"
+            "FEMALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Marcus Poggi"
         },
@@ -9107,14 +9109,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Rio de Janeiro",
           "Short name": "PUC Rio de Janeiro",
           "Contestants": [
-            "Rodrigo Malhães Bukowitz",
+            "Rafael Serpa",
             "Miguel Corti",
-            "Rafael Serpa"
+            "Rodrigo Malhães Bukowitz"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Marcus Poggi"
         },
@@ -9124,14 +9126,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Rio de Janeiro",
           "Short name": "PUC Rio de Janeiro",
           "Contestants": [
-            "Pedro Ferraz",
+            "Handel Scholze Marques",
             "Francisco Geiman Thiesen",
-            "Handel Scholze Marques"
+            "Pedro Ferraz"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Marcus Poggi"
         },
@@ -9141,14 +9143,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Rio de Janeiro",
           "Short name": "PUC Rio de Janeiro",
           "Contestants": [
-            "Pedro Moreira Menezes Da Costa",
+            "Lucas Ximenes Guilhon",
             "Guilherme Oliveira",
-            "Lucas Ximenes Guilhon"
+            "Pedro Moreira Menezes Da Costa"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Marcus Poggi"
         }
@@ -9160,14 +9162,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Rio de Janeiro",
           "Short name": "UFF-PURO",
           "Contestants": [
-            "Carlos Machado",
+            "Layla Sampaio",
             "Humberto Chaves",
-            "Layla Sampaio"
+            "Carlos Machado"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Female"
+            "FEMALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Danilo Artigas"
         },
@@ -9177,14 +9179,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Rio de Janeiro",
           "Short name": "UFF-PURO",
           "Contestants": [
-            "Joelson Idalgo",
+            "Rafael Fontes",
             "David Manuel Porto Nora",
-            "Rafael Fontes"
+            "Joelson Idalgo"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Danilo Artigas"
         },
@@ -9194,14 +9196,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Rio de Janeiro",
           "Short name": "UFF-PURO",
           "Contestants": [
-            "Pedro Peixoto",
+            "Lucas Cavalcante",
             "Carlos Vinicios Souza",
-            "Lucas Cavalcante"
+            "Pedro Peixoto"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Danilo Artigas"
         },
@@ -9211,14 +9213,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Rio de Janeiro",
           "Short name": "UFF-PURO",
           "Contestants": [
-            "João Pedro Almeida",
+            "Thalessa Hungerbühler Daroz",
             "Tobias Queiroz",
-            "Thalessa Hungerbühler Daroz"
+            "João Pedro Almeida"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Female"
+            "FEMALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Danilo Artigas"
         },
@@ -9228,14 +9230,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Rio de Janeiro",
           "Short name": "UFF-PURO",
           "Contestants": [
-            "Julia Miranda Rodrigues",
+            "Gabriel Ribeiro",
             "Elias Silva",
-            "Gabriel Ribeiro"
+            "Julia Miranda Rodrigues"
           ],
           "Sex": [
-            "Female",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "FEMALE"
           ],
           "Coach": "Danilo Artigas"
         },
@@ -9245,14 +9247,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Rio de Janeiro",
           "Short name": "UFF-PURO",
           "Contestants": [
-            "Douglas Mareli",
+            "João Spala",
             "Sofia Kitaeva",
-            "João Spala"
+            "Douglas Mareli"
           ],
           "Sex": [
-            "Male",
-            "Female",
-            "Male"
+            "MALE",
+            "FEMALE",
+            "MALE"
           ],
           "Coach": "Danilo Artigas"
         },
@@ -9262,14 +9264,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Rio de Janeiro",
           "Short name": "UFF-PURO",
           "Contestants": [
-            "Gabriel Silveira",
+            "Tamara Dias",
             "Rafael De Azevedo Silva",
-            "Tamara Dias"
+            "Gabriel Silveira"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Female"
+            "FEMALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Danilo Artigas"
         }
@@ -9281,14 +9283,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Rio de Janeiro",
           "Short name": "UFRRJ",
           "Contestants": [
-            "Yan Machado",
+            "Nicolas Magalhães",
             "Sergio Felipe Rezende Do Nascimento",
-            "Nicolas Magalhães"
+            "Yan Machado"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Filipe Braida Do Carmo"
         },
@@ -9298,14 +9300,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Rio de Janeiro",
           "Short name": "UFRRJ",
           "Contestants": [
-            "João Pedro Ribeiro De Moura",
+            "Lucas Nóbrega",
             "Eduardo Costa",
-            "Lucas Nóbrega"
+            "João Pedro Ribeiro De Moura"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Filipe Braida Do Carmo"
         }
@@ -9317,14 +9319,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Rio de Janeiro",
           "Short name": "UFRJ",
           "Contestants": [
-            "Luan Felix",
+            "Vinicius Proença",
             "Pedro Poppolino",
-            "Vinicius Proença"
+            "Luan Felix"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Marcia Cerioli"
         },
@@ -9334,14 +9336,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Rio de Janeiro",
           "Short name": "UFRJ",
           "Contestants": [
-            "João Sobral",
+            "Felipe Chen",
             "Guilherme Goldman Da Silva",
-            "Felipe Chen"
+            "João Sobral"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Marcia Cerioli"
         },
@@ -9351,14 +9353,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Rio de Janeiro",
           "Short name": "UFRJ",
           "Contestants": [
+            "Christopher Ciafrino",
             "Gabriel De Março",
-            "Letícia De Sousa",
-            "Christopher Ciafrino"
+            "Letícia De Sousa"
           ],
           "Sex": [
-            "Male",
-            "Female",
-            "Male"
+            "MALE",
+            "MALE",
+            "FEMALE"
           ],
           "Coach": "Marcia Cerioli"
         },
@@ -9368,14 +9370,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Rio de Janeiro",
           "Short name": "UFRJ",
           "Contestants": [
-            "Gustavo Araújo",
+            "Markson Arguello",
             "Carlos Serrado",
-            "Markson Arguello"
+            "Gustavo Araújo"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Marcia Cerioli"
         }
@@ -9387,14 +9389,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Rio de Janeiro",
           "Short name": "UERJ",
           "Contestants": [
-            "Bruno Cezar Cordeiro",
+            "Victor Vieira",
             "Pedro Pancine",
-            "Victor Vieira"
+            "Bruno Cezar Cordeiro"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Paulo Eustaquio Pinto"
         },
@@ -9405,13 +9407,13 @@ CONTESTS[2020]["1aFase"] = {
           "Short name": "UERJ",
           "Contestants": [
             "Luciano Barbosa",
-            "Arthur Câmara",
-            "Matheus Rocha"
+            "Matheus Rocha",
+            "Arthur Câmara"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Paulo Eustaquio Pinto"
         },
@@ -9421,14 +9423,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Rio de Janeiro",
           "Short name": "UERJ",
           "Contestants": [
-            "Raphael Ortolan",
+            "Lucas Formaggine",
             "Pedrogabriel Nogueira",
-            "Lucas Formaggine"
+            "Raphael Ortolan"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Paulo Eustaquio Pinto"
         },
@@ -9438,14 +9440,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Rio de Janeiro",
           "Short name": "UERJ",
           "Contestants": [
-            "Lucas Dunhão",
+            "Vinicius Sathler",
             "Jaime Lay",
-            "Vinicius Sathler"
+            "Lucas Dunhão"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Paulo Eustaquio Pinto"
         }
@@ -9453,6 +9455,23 @@ CONTESTS[2020]["1aFase"] = {
     },
     "SP": {
       "Centro Universitario Municipal de Franca": {
+        " Programadores HTML": {
+          "Rank": 440,
+          "SiteRank": 89,
+          "Site": "São Paulo",
+          "Short name": "UNIFACEF",
+          "Contestants": [
+            "Matheus Henrique Gotardo Pintor",
+            "Gustavo Medeiros",
+            "Lucas Bolela"
+          ],
+          "Sex": [
+            "MALE",
+            "MALE",
+            "MALE"
+          ],
+          "Coach": "Daniel Pires"
+        },
         "C+ou -": {
           "Rank": 234,
           "SiteRank": 48,
@@ -9464,26 +9483,9 @@ CONTESTS[2020]["1aFase"] = {
             "Helil Bergária"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
-          ],
-          "Coach": "Daniel Pires"
-        },
-        "Programadores HTML": {
-          "Rank": 440,
-          "SiteRank": 89,
-          "Site": "São Paulo",
-          "Short name": "UNIFACEF",
-          "Contestants": [
-            "Lucas Bolela",
-            "Gustavo Medeiros",
-            "Matheus Henrique Gotardo Pintor"
-          ],
-          "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Daniel Pires"
         }
@@ -9495,14 +9497,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "São Paulo",
           "Short name": "UNIARARAS",
           "Contestants": [
-            "Jaderson Izael De Camargo",
+            "Tiago Sullevan Hilario",
             "Marcos Silva",
-            "Tiago Sullevan Hilario"
+            "Jaderson Izael De Camargo"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Renato Luciano Cagnin"
         }
@@ -9514,14 +9516,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "São Paulo",
           "Short name": "UNISAL",
           "Contestants": [
-            "Juan Santos",
+            "Erick José Silva Borges De Lima",
             "Raphael Baruffi",
-            "Erick José Silva Borges De Lima"
+            "Juan Santos"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Warner Brezolin"
         }
@@ -9533,14 +9535,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "São Paulo",
           "Short name": "Senac-SP",
           "Contestants": [
-            "Felipe Kumada",
+            "João Baptista",
             "Christopher Silva",
-            "João Baptista"
+            "Felipe Kumada"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Fabio Lubacheski"
         },
@@ -9550,14 +9552,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "São Paulo",
           "Short name": "Senac-SP",
           "Contestants": [
-            "Vinicius Fernandes",
+            "Victor Costa",
             "Gustavo Rigor",
-            "Victor Costa"
+            "Vinicius Fernandes"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Fabio Lubacheski"
         }
@@ -9574,9 +9576,9 @@ CONTESTS[2020]["1aFase"] = {
             "Rubens Mendes"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Lucas Laheras"
         },
@@ -9586,12 +9588,12 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "São Paulo",
           "Short name": "FEI",
           "Contestants": [
-            "Weverson Da Silva",
-            "Vinicius Silva"
+            "Vinicius Silva",
+            "Weverson Da Silva"
           ],
           "Sex": [
-            "Male",
-            "Male"
+            "MALE",
+            "MALE"
           ],
           "Coach": "Lucas Laheras"
         }
@@ -9603,14 +9605,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "São Paulo",
           "Short name": "EEP",
           "Contestants": [
-            "Leonardo Vinagre",
+            "Caio Roccia",
             "Lucas Teato",
-            "Caio Roccia"
+            "Leonardo Vinagre"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Clerivaldo Roccia"
         },
@@ -9620,14 +9622,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "São Paulo",
           "Short name": "EEP",
           "Contestants": [
-            "Matheus Corrêa",
             "Marcio Junior",
-            "Cleber Augusto Silva"
+            "Cleber Augusto Silva",
+            "Matheus Corrêa"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Clerivaldo Roccia"
         },
@@ -9637,14 +9639,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "São Paulo",
           "Short name": "EEP",
           "Contestants": [
+            "João Vitor Mengatto Gimenes",
             "Diego Motta Garcia",
-            "Leonardo Vencovsky",
-            "João Vitor Mengatto Gimenes"
+            "Leonardo Vencovsky"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Clerivaldo Roccia"
         },
@@ -9654,14 +9656,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "São Paulo",
           "Short name": "EEP",
           "Contestants": [
-            "Henrique Lira",
+            "Guilherme Cavalcante",
             "Gabriel Franco",
-            "Guilherme Cavalcante"
+            "Henrique Lira"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Clerivaldo Roccia"
         },
@@ -9671,14 +9673,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "São Paulo",
           "Short name": "EEP",
           "Contestants": [
+            "Gabriel Sepulvida",
             "Pedro Jantin",
-            "Eduardo Argenton",
-            "Gabriel Sepulvida"
+            "Eduardo Argenton"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Clerivaldo Roccia"
         },
@@ -9688,14 +9690,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "São Paulo",
           "Short name": "EEP",
           "Contestants": [
-            "Matheus Pandolfe",
+            "Leandro Carvalho",
             "Everson Cangiani",
-            "Leandro Carvalho"
+            "Matheus Pandolfe"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Clerivaldo Roccia"
         }
@@ -9707,14 +9709,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "São Paulo",
           "Short name": "FIAP",
           "Contestants": [
-            "Yuri Matheus Barboza De Oliveira",
+            "Leonardo Formágio Freitas",
             "Gabriel Ronei De Oliveira Paulo",
-            "Leonardo Formágio Freitas"
+            "Yuri Matheus Barboza De Oliveira"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Antonio Marcos Selmini"
         }
@@ -9726,14 +9728,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "São Paulo",
           "Short name": "FTT",
           "Contestants": [
-            "Lucas Araujo Russo",
+            "Bruna Cristina Torres",
             "Arthur Augusto Micheletti De Souza",
-            "Bruna Cristina Torres"
+            "Lucas Araujo Russo"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Female"
+            "FEMALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Michele Bazana De Souza"
         },
@@ -9743,14 +9745,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "São Paulo",
           "Short name": "FTT",
           "Contestants": [
-            "Renan Oliveira Franca",
+            "Vítor Longarini Da Costa",
             "Isabelle Puertas Ruiz",
-            "Vítor Longarini Da Costa"
+            "Renan Oliveira Franca"
           ],
           "Sex": [
-            "Male",
-            "Female",
-            "Male"
+            "MALE",
+            "FEMALE",
+            "MALE"
           ],
           "Coach": "Michele Bazana De Souza"
         }
@@ -9762,14 +9764,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "São Paulo",
           "Short name": "FATEC Cruzeiro",
           "Contestants": [
-            "Felipe Sampaio Da Mota",
+            "Breno Luis Da Silva Xavier",
             "Jose Lucas Rodrigues Silva",
-            "Breno Luis Da Silva Xavier"
+            "Felipe Sampaio Da Mota"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Carlos Nascimento"
         },
@@ -9779,14 +9781,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "São Paulo",
           "Short name": "FATEC Cruzeiro",
           "Contestants": [
-            "Alexandre Pereira Hummel Junior",
+            "Heron Lorena Alves Da Silva",
             "Marcus Vinícius Souza Silva",
-            "Heron Lorena Alves Da Silva"
+            "Alexandre Pereira Hummel Junior"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Carlos Nascimento"
         },
@@ -9796,14 +9798,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "São Paulo",
           "Short name": "FATEC Cruzeiro",
           "Contestants": [
-            "Joao Bosco Felix",
+            "Alessandra Alves De Almeida",
             "Bruno Bernardi Bianchi Ferreira",
-            "Alessandra Alves De Almeida"
+            "Joao Bosco Felix"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Female"
+            "FEMALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Carlos Nascimento"
         },
@@ -9813,14 +9815,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "São Paulo",
           "Short name": "FATEC Cruzeiro",
           "Contestants": [
-            "Gabriel Baptista De Souza Oliveira",
+            "Rodrigo Augusto De Souza Florentino",
             "Joao Pedro Dos Santos",
-            "Rodrigo Augusto De Souza Florentino"
+            "Gabriel Baptista De Souza Oliveira"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Carlos Nascimento"
         },
@@ -9830,14 +9832,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "São Paulo",
           "Short name": "FATEC Cruzeiro",
           "Contestants": [
-            "Mateus Quintino",
+            "Salomao Ribeiro",
             "Antonio Ribeiro",
-            "Salomao Ribeiro"
+            "Mateus Quintino"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Carlos Nascimento"
         }
@@ -9849,14 +9851,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "São Paulo",
           "Short name": "FATEC Garça",
           "Contestants": [
-            "Caio Vitor Da Rocha",
+            "Rebecca Nunes De Assis",
             "Luana Nogueira Da Silva",
-            "Rebecca Nunes De Assis"
+            "Caio Vitor Da Rocha"
           ],
           "Sex": [
-            "Male",
-            "Female",
-            "Female"
+            "FEMALE",
+            "FEMALE",
+            "MALE"
           ],
           "Coach": "Mauricio Duarte"
         }
@@ -9868,14 +9870,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "São Paulo",
           "Short name": "Fatec Mococa",
           "Contestants": [
-            "Thiago Martins Joaquim",
+            "Rafael Santos Perina",
             "Rafael Souza Candido Lima",
-            "Rafael Santos Perina"
+            "Thiago Martins Joaquim"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Guilherme Souza"
         }
@@ -9887,14 +9889,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "São Paulo",
           "Short name": "",
           "Contestants": [
-            "Eric Hideki Kataoka Ferreira",
+            "Gustavo Cecato",
             "Nádia Mirka Carboni",
-            "Gustavo Cecato"
+            "Eric Hideki Kataoka Ferreira"
           ],
           "Sex": [
-            "Male",
-            "Female",
-            "Male"
+            "MALE",
+            "FEMALE",
+            "MALE"
           ],
           "Coach": "Antonio Cesar Barros Munari"
         },
@@ -9905,13 +9907,13 @@ CONTESTS[2020]["1aFase"] = {
           "Short name": "",
           "Contestants": [
             "Fernando Vinicius Mariano Pereira",
-            "Júlio Augusto Ribeiro De Sá Almeida",
-            "Davi Teixeira De Paula"
+            "Davi Teixeira De Paula",
+            "Júlio Augusto Ribeiro De Sá Almeida"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Antonio Cesar Barros Munari"
         },
@@ -9921,14 +9923,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "São Paulo",
           "Short name": "",
           "Contestants": [
-            "Edson Isaac José Francisco",
             "Christian Cezar Coelho",
-            "Caique Oliveira Silva"
+            "Caique Oliveira Silva",
+            "Edson Isaac José Francisco"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Antonio Cesar Barros Munari"
         }
@@ -9940,14 +9942,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "São Paulo",
           "Short name": "FATEC-SJC",
           "Contestants": [
-            "Rafael Dos Santos Pereira",
+            "Ricardo Sousa De Paiva",
             "Camila De Fátima Ferreira Pacheco",
-            "Ricardo Sousa De Paiva"
+            "Rafael Dos Santos Pereira"
           ],
           "Sex": [
-            "Male",
-            "Female",
-            "Male"
+            "MALE",
+            "FEMALE",
+            "MALE"
           ],
           "Coach": "Reinaldo Gen Ichiro Arakaki"
         },
@@ -9957,14 +9959,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "São Paulo",
           "Short name": "FATEC-SJC",
           "Contestants": [
-            "Rafael Furtado",
             "Maria Eduarda Basilio De Oliveira",
+            "Rafael Furtado",
             "Gabriel Souza"
           ],
           "Sex": [
-            "Male",
-            "Female",
-            "Male"
+            "FEMALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Reinaldo Gen Ichiro Arakaki"
         },
@@ -9974,14 +9976,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "São Paulo",
           "Short name": "FATEC-SJC",
           "Contestants": [
-            "Lucas Almeida Salvador",
+            "Fabio Rodrigues Da Silva",
             "Willyan Antunes",
-            "Fabio Rodrigues Da Silva"
+            "Lucas Almeida Salvador"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Reinaldo Gen Ichiro Arakaki"
         },
@@ -9991,14 +9993,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "São Paulo",
           "Short name": "FATEC-SJC",
           "Contestants": [
-            "Isabelle Oliveira",
+            "Samuel Costa",
             "Gabriel Francisco Borges",
-            "Samuel Costa"
+            "Isabelle Oliveira"
           ],
           "Sex": [
-            "Female",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "FEMALE"
           ],
           "Coach": "Reinaldo Gen Ichiro Arakaki"
         },
@@ -10008,14 +10010,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "São Paulo",
           "Short name": "FATEC-SJC",
           "Contestants": [
-            "Pedro Fogaça Souza Minicz",
+            "Willian Pinto",
             "Mateus Luz",
-            "Willian Pinto"
+            "Pedro Fogaça Souza Minicz"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Reinaldo Gen Ichiro Arakaki"
         },
@@ -10025,14 +10027,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "São Paulo",
           "Short name": "FATEC-SJC",
           "Contestants": [
-            "Pedro Reginaldo Tome Silva",
+            "Jonathan Willian Goncales Alves",
             "Barbara Bidetti",
-            "Jonathan Willian Goncales Alves"
+            "Pedro Reginaldo Tome Silva"
           ],
           "Sex": [
-            "Male",
-            "Female",
-            "Male"
+            "MALE",
+            "FEMALE",
+            "MALE"
           ],
           "Coach": "Reinaldo Gen Ichiro Arakaki"
         }
@@ -10044,14 +10046,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "São Paulo",
           "Short name": "FATEC São Paulo",
           "Contestants": [
-            "Lucas Correa De Oliveira",
+            "Edvandro Negreiros",
             "Guilherme Oliveira Do Carmo Carvalho",
-            "Edvandro Negreiros"
+            "Lucas Correa De Oliveira"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Grace Borges"
         },
@@ -10061,14 +10063,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "São Paulo",
           "Short name": "FATEC São Paulo",
           "Contestants": [
-            "Henrique Bustillos",
+            "Emerson Silva",
             "Alicia Nunes",
-            "Emerson Silva"
+            "Henrique Bustillos"
           ],
           "Sex": [
-            "Male",
-            "Female",
-            "Male"
+            "MALE",
+            "FEMALE",
+            "MALE"
           ],
           "Coach": "Grace Borges"
         },
@@ -10078,14 +10080,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "São Paulo",
           "Short name": "FATEC São Paulo",
           "Contestants": [
-            "Lucas Bastos",
+            "Mayumi Sacono",
             "Julio Cruz",
-            "Mayumi Sacono"
+            "Lucas Bastos"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Female"
+            "FEMALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Grace Borges"
         }
@@ -10097,14 +10099,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "São Paulo",
           "Short name": "FIB",
           "Contestants": [
-            "William Douglas",
+            "Mauricio Ramos",
             "David Almeida",
-            "Mauricio Ramos"
+            "William Douglas"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Heleno Vale"
         },
@@ -10114,14 +10116,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "São Paulo",
           "Short name": "FIB",
           "Contestants": [
-            "Mateus Gimenez",
+            "João Marcelino",
             "Caio Andrade",
-            "João Marcelino"
+            "Mateus Gimenez"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Heleno Vale"
         }
@@ -10133,14 +10135,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "São Paulo",
           "Short name": "Fatec Bauru",
           "Contestants": [
-            "Hulgo Ferreira",
+            "Jonathan Binner",
             "Samuel Silva",
-            "Jonathan Binner"
+            "Hulgo Ferreira"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Anderson Talon"
         },
@@ -10150,14 +10152,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "São Paulo",
           "Short name": "Fatec Bauru",
           "Contestants": [
-            "Lucas Silva",
+            "Elisangela Aparecida De Figueiredo",
             "Samira Silva",
-            "Elisangela Aparecida De Figueiredo"
+            "Lucas Silva"
           ],
           "Sex": [
-            "Male",
-            "Female",
-            "Female"
+            "FEMALE",
+            "FEMALE",
+            "MALE"
           ],
           "Coach": "Anderson Talon"
         },
@@ -10167,14 +10169,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "São Paulo",
           "Short name": "Fatec Bauru",
           "Contestants": [
-            "Gabriel Silva",
+            "Jean Vicente",
             "Luana Godoy",
-            "Jean Vicente"
+            "Gabriel Silva"
           ],
           "Sex": [
-            "Male",
-            "Female",
-            "Male"
+            "MALE",
+            "FEMALE",
+            "MALE"
           ],
           "Coach": "Anderson Talon"
         }
@@ -10186,14 +10188,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "São Paulo",
           "Short name": "Fatec Ourinhos",
           "Contestants": [
-            "Alexandre Dos Santos Corda Junior",
+            "Luiz Oliveira",
             "Sueli Corrêa",
-            "Luiz Oliveira"
+            "Alexandre Dos Santos Corda Junior"
           ],
           "Sex": [
-            "Male",
-            "Female",
-            "Male"
+            "MALE",
+            "FEMALE",
+            "MALE"
           ],
           "Coach": "Alex Marino Gonçalves De Almeida"
         },
@@ -10203,14 +10205,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "São Paulo",
           "Short name": "Fatec Ourinhos",
           "Contestants": [
-            "Lucas Pires",
+            "Thiago Yoshiaki Toma",
             "Adriano Tsuyoshi Toma",
-            "Thiago Yoshiaki Toma"
+            "Lucas Pires"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Alex Marino Gonçalves De Almeida"
         },
@@ -10220,14 +10222,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "São Paulo",
           "Short name": "Fatec Ourinhos",
           "Contestants": [
-            "Thiago Pontes",
+            "Rafael Silva Mostasso",
             "Joao Pedro Boletti",
-            "Rafael Silva Mostasso"
+            "Thiago Pontes"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Alex Marino Gonçalves De Almeida"
         }
@@ -10239,14 +10241,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "São Paulo",
           "Short name": "ITE",
           "Contestants": [
-            "Pablo Polito",
+            "Andre Carvalho",
             "Breno Alquati",
-            "Andre Carvalho"
+            "Pablo Polito"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Anderson Talon"
         },
@@ -10256,14 +10258,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "São Paulo",
           "Short name": "ITE",
           "Contestants": [
-            "Vinicius Pereira Lucchesi",
+            "Pedro Pregnolato",
             "Natalia Lima",
-            "Pedro Pregnolato"
+            "Vinicius Pereira Lucchesi"
           ],
           "Sex": [
-            "Male",
-            "Female",
-            "Male"
+            "MALE",
+            "FEMALE",
+            "MALE"
           ],
           "Coach": "Anderson Talon"
         }
@@ -10275,14 +10277,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "São Paulo",
           "Short name": "IFSP - Birigui",
           "Contestants": [
-            "Lucas Silva",
+            "Filip Junio Felipe",
             "Joao Brito",
-            "Filip Junio Felipe"
+            "Lucas Silva"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Cassio Onodera"
         },
@@ -10293,13 +10295,13 @@ CONTESTS[2020]["1aFase"] = {
           "Short name": "IFSP - Birigui",
           "Contestants": [
             "Gustavo Nishimura",
-            "Willian Leme",
-            "Cesar Santos"
+            "Cesar Santos",
+            "Willian Leme"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Rafael João"
         },
@@ -10309,14 +10311,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "São Paulo",
           "Short name": "IFSP - Birigui",
           "Contestants": [
-            "Wilhan Mello",
+            "Rafael Dantas",
             "Kaue Gabas",
-            "Rafael Dantas"
+            "Wilhan Mello"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Rafael João"
         },
@@ -10326,14 +10328,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "São Paulo",
           "Short name": "IFSP - Birigui",
           "Contestants": [
-            "Gabriel Martins",
+            "Pedro Pauletti",
             "Lucas Kamado",
-            "Pedro Pauletti"
+            "Gabriel Martins"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Rafael João"
         },
@@ -10343,14 +10345,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "São Paulo",
           "Short name": "IFSP - Birigui",
           "Contestants": [
-            "Igor Romero",
+            "Henrique Marcolino",
             "Fabrício Malta De Oliveira",
-            "Henrique Marcolino"
+            "Igor Romero"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Rafael João"
         },
@@ -10360,14 +10362,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "São Paulo",
           "Short name": "IFSP - Birigui",
           "Contestants": [
-            "Natália Souza",
+            "Vinícius Roque",
             "Weslley Capelari",
-            "Vinícius Roque"
+            "Natália Souza"
           ],
           "Sex": [
-            "Female",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "FEMALE"
           ],
           "Coach": "Rafael João"
         }
@@ -10379,14 +10381,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "São Paulo",
           "Short name": "IFSP",
           "Contestants": [
-            "Lia Cavalheiro",
             "Leonardo Souza",
+            "Lia Cavalheiro",
             "Bianca Seolin"
           ],
           "Sex": [
-            "Female",
-            "Male",
-            "Female"
+            "MALE",
+            "FEMALE",
+            "FEMALE"
           ],
           "Coach": "Jose Beluzo"
         },
@@ -10396,14 +10398,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "São Paulo",
           "Short name": "IFSP",
           "Contestants": [
-            "Angelina Martinovsky Novais Santos",
+            "Marcio Scotuzzi Da Silva Junior",
             "Eduarda Ferreira Costa",
-            "Marcio Scotuzzi Da Silva Junior"
+            "Angelina Martinovsky Novais Santos"
           ],
           "Sex": [
-            "Female",
-            "Female",
-            "Male"
+            "MALE",
+            "FEMALE",
+            "FEMALE"
           ],
           "Coach": "Giovana Nakashima"
         },
@@ -10413,14 +10415,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "São Paulo",
           "Short name": "IFSP",
           "Contestants": [
-            "Angelo Queiroz",
+            "Bruno Pessoa Reis",
             "Vitor Silva",
-            "Bruno Pessoa Reis"
+            "Angelo Queiroz"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Giovana Nakashima"
         },
@@ -10430,14 +10432,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "São Paulo",
           "Short name": "IFSP",
           "Contestants": [
-            "Bruno Silvestre",
             "Gabriel Soares",
-            "Rafael Pena"
+            "Rafael Pena",
+            "Bruno Silvestre"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Jose Beluzo"
         }
@@ -10449,14 +10451,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "São Paulo",
           "Short name": "IFSP - Barretos",
           "Contestants": [
-            "Davi Almeida",
+            "Antonio Polesel",
             "Thiago Muzetti",
-            "Antonio Polesel"
+            "Davi Almeida"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Jones Souza"
         },
@@ -10466,14 +10468,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "São Paulo",
           "Short name": "IFSP - Barretos",
           "Contestants": [
-            "Caio Sampaio",
+            "Jefferson Dias",
             "Renan Silva De Oliveira",
-            "Jefferson Dias"
+            "Caio Sampaio"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Jones Souza"
         }
@@ -10485,14 +10487,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "São Paulo",
           "Short name": "IFSP - Piracicaba",
           "Contestants": [
-            "Isabela Medeiros",
+            "José Barros",
             "Felipe Silva",
-            "José Barros"
+            "Isabela Medeiros"
           ],
           "Sex": [
-            "Female",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "FEMALE"
           ],
           "Coach": "Marcio Crocomo"
         },
@@ -10502,14 +10504,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "São Paulo",
           "Short name": "IFSP - Piracicaba",
           "Contestants": [
-            "Thomas Taino",
+            "Aldemir Neto",
             "Letícia Abelha",
-            "Aldemir Neto"
+            "Thomas Taino"
           ],
           "Sex": [
-            "Male",
-            "Female",
-            "Male"
+            "MALE",
+            "FEMALE",
+            "MALE"
           ],
           "Coach": "Marcio Crocomo"
         },
@@ -10519,14 +10521,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "São Paulo",
           "Short name": "IFSP - Piracicaba",
           "Contestants": [
-            "Adélia De Andrade",
+            "Miguel Albarracin",
             "Larissa Tavares",
-            "Miguel Albarracin"
+            "Adélia De Andrade"
           ],
           "Sex": [
-            "Female",
-            "Female",
-            "Male"
+            "MALE",
+            "FEMALE",
+            "FEMALE"
           ],
           "Coach": "Marcio Crocomo"
         }
@@ -10538,14 +10540,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "São Paulo",
           "Short name": "ITA",
           "Contestants": [
-            "Nauane Linhares",
+            "Eric Ribeiro",
             "Marcelo Buga",
-            "Eric Ribeiro"
+            "Nauane Linhares"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Armando Gouveia"
         },
@@ -10555,14 +10557,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "São Paulo",
           "Short name": "ITA",
           "Contestants": [
-            "Gustavo Lima",
+            "Guilherme Kowalczuk",
             "Gabriel Pereira",
-            "Guilherme Kowalczuk"
+            "Gustavo Lima"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Armando Gouveia"
         },
@@ -10572,14 +10574,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "São Paulo",
           "Short name": "ITA",
           "Contestants": [
-            "Brendon Borck",
+            "Luiz Vasconcelos Júnior",
             "Ana Schuch",
-            "Luiz Vasconcelos Júnior"
+            "Brendon Borck"
           ],
           "Sex": [
-            "Male",
-            "Female",
-            "Male"
+            "MALE",
+            "FEMALE",
+            "MALE"
           ],
           "Coach": "Armando Gouveia"
         },
@@ -10589,14 +10591,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "São Paulo",
           "Short name": "ITA",
           "Contestants": [
-            "Diego Fidalgo",
+            "Caio Gomes",
             "Vinicius Antunes",
-            "Caio Gomes"
+            "Diego Fidalgo"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Armando Gouveia"
         },
@@ -10606,14 +10608,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "São Paulo",
           "Short name": "ITA",
           "Contestants": [
-            "Pedro Alves",
             "Lucas Steuernagel",
-            "Matheus Vidal"
+            "Matheus Vidal",
+            "Pedro Alves"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Armando Gouveia"
         },
@@ -10623,14 +10625,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "São Paulo",
           "Short name": "ITA",
           "Contestants": [
-            "Gabriel Gandour",
+            "Kenji Yamane",
             "Nacib Neme",
-            "Kenji Yamane"
+            "Gabriel Gandour"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Armando Gouveia"
         },
@@ -10640,14 +10642,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "São Paulo",
           "Short name": "ITA",
           "Contestants": [
-            "Rodrigo Aki",
+            "Felipe Vieira Coimbra",
             "Felipe Pereira",
-            "Felipe Vieira Coimbra"
+            "Rodrigo Aki"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Armando Gouveia"
         },
@@ -10657,14 +10659,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "São Paulo",
           "Short name": "ITA",
           "Contestants": [
-            "Vinicius Almeida",
+            "Ariel S. Claudino",
             "André Vítor Dal Bosco",
-            "Ariel S. Claudino"
+            "Vinicius Almeida"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Armando Gouveia"
         }
@@ -10676,14 +10678,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "São Paulo",
           "Short name": "PUC-Campinas",
           "Contestants": [
-            "Pedro Ninci",
+            "João Cavina",
             "Julio Moura",
-            "João Cavina"
+            "Pedro Ninci"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Daniele Rodrigues"
         },
@@ -10693,14 +10695,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "São Paulo",
           "Short name": "PUC-Campinas",
           "Contestants": [
-            "Lucas Miguel",
+            "Lucas Grass",
             "Henrique Dias",
-            "Lucas Grass"
+            "Lucas Miguel"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Daniele Rodrigues"
         },
@@ -10710,14 +10712,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "São Paulo",
           "Short name": "PUC-Campinas",
           "Contestants": [
-            "Thiago Brito",
+            "Guilherme Garros",
             "Danielle Moreira",
-            "Guilherme Garros"
+            "Thiago Brito"
           ],
           "Sex": [
-            "Male",
-            "Female",
-            "Male"
+            "MALE",
+            "FEMALE",
+            "MALE"
           ],
           "Coach": "Daniele Rodrigues"
         }
@@ -10729,14 +10731,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "São Paulo",
           "Short name": "FCT-UNESP",
           "Contestants": [
-            "Leandro Silva",
+            "Daniel Monteiro",
             "Gabriel Augusto Lima Silva",
-            "Daniel Monteiro"
+            "Leandro Silva"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Danilo Eler"
         },
@@ -10746,14 +10748,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "São Paulo",
           "Short name": "FCT-UNESP",
           "Contestants": [
-            "Marcelo Rodrigues",
+            "Daniel Themoteo",
             "Giovanna Marinho",
-            "Daniel Themoteo"
+            "Marcelo Rodrigues"
           ],
           "Sex": [
-            "Male",
-            "Female",
-            "Male"
+            "MALE",
+            "FEMALE",
+            "MALE"
           ],
           "Coach": "Danilo Eler"
         }
@@ -10765,14 +10767,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "São Paulo",
           "Short name": "IBILCE-UNESP",
           "Contestants": [
-            "Cláudio Gramulha",
+            "Gabriel Dalalana",
             "Leonardo Prado",
-            "Gabriel Dalalana"
+            "Cláudio Gramulha"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Aleardo Manacero"
         },
@@ -10782,14 +10784,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "São Paulo",
           "Short name": "IBILCE-UNESP",
           "Contestants": [
-            "Karen Barcelos",
+            "Miguel Silva",
             "Flávia Nitto",
-            "Miguel Silva"
+            "Karen Barcelos"
           ],
           "Sex": [
-            "Female",
-            "Female",
-            "Male"
+            "MALE",
+            "FEMALE",
+            "FEMALE"
           ],
           "Coach": "Aleardo Manacero"
         },
@@ -10799,14 +10801,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "São Paulo",
           "Short name": "IBILCE-UNESP",
           "Contestants": [
-            "João Mota",
             "André Marques",
-            "Vitor França"
+            "Vitor França",
+            "João Mota"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Aleardo Manacero"
         },
@@ -10816,14 +10818,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "São Paulo",
           "Short name": "IBILCE-UNESP",
           "Contestants": [
-            "Luís Vinícius Omar Baldissera",
+            "Matheus Santos",
             "Thiago Pozati",
-            "Matheus Santos"
+            "Luís Vinícius Omar Baldissera"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Aleardo Manacero"
         }
@@ -10835,14 +10837,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "São Paulo",
           "Short name": "UNESP-Bauru",
           "Contestants": [
-            "Giovani Candido",
+            "Luis Morelli",
             "Davi Neves",
-            "Luis Morelli"
+            "Giovani Candido"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Pedro Henrique Paiola"
         },
@@ -10852,14 +10854,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "São Paulo",
           "Short name": "UNESP-Bauru",
           "Contestants": [
-            "Arissa Yoshida",
+            "Luan Ricciardi",
             "Dhiego Cassiano Fogaça Barbosa",
-            "Luan Ricciardi"
+            "Arissa Yoshida"
           ],
           "Sex": [
-            "Female",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "FEMALE"
           ],
           "Coach": "Pedro Henrique Paiola"
         },
@@ -10869,14 +10871,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "São Paulo",
           "Short name": "UNESP-Bauru",
           "Contestants": [
-            "Rodrigo César Barboza Rossetti",
+            "Bruno Papa",
             "Maurício Arantes",
-            "Bruno Papa"
+            "Rodrigo César Barboza Rossetti"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Pedro Henrique Paiola"
         },
@@ -10886,14 +10888,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "São Paulo",
           "Short name": "UNESP-Bauru",
           "Contestants": [
-            "Denis Santos",
+            "Mateus Rijo",
             "Vinicius Coutinho",
-            "Mateus Rijo"
+            "Denis Santos"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Pedro Henrique Paiola"
         }
@@ -10905,14 +10907,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "São Paulo",
           "Short name": "UNIVEM",
           "Contestants": [
-            "Maria Eduarda Santos",
+            "Pedro Henrique Freire",
             "Vinicius Françozo Da Silva",
-            "Pedro Henrique Freire"
+            "Maria Eduarda Santos"
           ],
           "Sex": [
-            "Female",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "FEMALE"
           ],
           "Coach": "Rodolfo Barros Chiaramonte"
         },
@@ -10922,14 +10924,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "São Paulo",
           "Short name": "UNIVEM",
           "Contestants": [
-            "Elias Guedes Calegari",
+            "Analice Da Silva Batista",
             "Rykelme Steven Do Prado De Oliveira",
-            "Analice Da Silva Batista"
+            "Elias Guedes Calegari"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Female"
+            "FEMALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Rodolfo Barros Chiaramonte"
         },
@@ -10939,14 +10941,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "São Paulo",
           "Short name": "UNIVEM",
           "Contestants": [
-            "Felipe Stefani Correia Dos Santos",
+            "Marcello Cesar Queiroz",
             "William Chapuis Marciano",
-            "Marcello Cesar Queiroz"
+            "Felipe Stefani Correia Dos Santos"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Rodolfo Barros Chiaramonte"
         },
@@ -10956,14 +10958,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "São Paulo",
           "Short name": "UNIVEM",
           "Contestants": [
-            "Renzo Yuta Miyatera",
+            "Kevin De Souza Lima",
             "Kevin Costa Oliveira",
-            "Kevin De Souza Lima"
+            "Renzo Yuta Miyatera"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Rodolfo Barros Chiaramonte"
         }
@@ -10975,14 +10977,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "São Paulo",
           "Short name": "UNOESTE",
           "Contestants": [
-            "Eddy Augusto Santos",
+            "Evandro Junior",
             "Heitor Payão Bittencourt",
-            "Evandro Junior"
+            "Eddy Augusto Santos"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Francisco Assis Da Silva"
         }
@@ -10994,14 +10996,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "São Paulo",
           "Short name": "UniSantos",
           "Contestants": [
-            "Carlos Eduardo Lorenzetti Jr",
+            "Adilson Felipe Filho",
             "Tiago Samuel Sousa Dos Santos",
-            "Adilson Felipe Filho"
+            "Carlos Eduardo Lorenzetti Jr"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Ciro Trindade"
         },
@@ -11011,14 +11013,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "São Paulo",
           "Short name": "UniSantos",
           "Contestants": [
-            "Gabriel Gonçales Lopes",
+            "Vinícius Pereira Freire Costa",
             "Weslley Richard",
-            "Vinícius Pereira Freire Costa"
+            "Gabriel Gonçales Lopes"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Ciro Trindade"
         },
@@ -11028,14 +11030,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "São Paulo",
           "Short name": "UniSantos",
           "Contestants": [
-            "Luiz Paulo Jahjah Borgomoni",
+            "Victor Fernandes Dos Santos",
             "Pedro Medeiros De Jesus",
-            "Victor Fernandes Dos Santos"
+            "Luiz Paulo Jahjah Borgomoni"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Ciro Trindade"
         },
@@ -11045,14 +11047,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "São Paulo",
           "Short name": "UniSantos",
           "Contestants": [
-            "Elián Roventini Andrade",
+            "Vinícius Luiz Ventura Ribeiro",
             "Gabriel Souza Recouso",
-            "Vinícius Luiz Ventura Ribeiro"
+            "Elián Roventini Andrade"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Ciro Trindade"
         },
@@ -11062,14 +11064,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "São Paulo",
           "Short name": "UniSantos",
           "Contestants": [
-            "Lucas Pereira",
+            "Milton Manuel Coelho Ramos",
             "Leonardo Ribeiro Blume",
-            "Milton Manuel Coelho Ramos"
+            "Lucas Pereira"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Ciro Trindade"
         },
@@ -11079,14 +11081,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "São Paulo",
           "Short name": "UniSantos",
           "Contestants": [
-            "Guilherme Rabelo",
+            "Luis Durante",
             "Victor Moreno",
-            "Luis Durante"
+            "Guilherme Rabelo"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Ciro Trindade"
         },
@@ -11096,14 +11098,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "São Paulo",
           "Short name": "UniSantos",
           "Contestants": [
-            "Pedro Henrique Vidal Lopes",
+            "Daniel Luiz Campos",
             "Matheus Santos Zanella",
-            "Daniel Luiz Campos"
+            "Pedro Henrique Vidal Lopes"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Ciro Trindade"
         },
@@ -11113,14 +11115,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "São Paulo",
           "Short name": "UniSantos",
           "Contestants": [
-            "Henrique Ricardo",
+            "Guilherme Evangelista Dos Santos Fittipaldi Barros",
             "Renato Santos Carvalho",
-            "Guilherme Evangelista Dos Santos Fittipaldi Barros"
+            "Henrique Ricardo"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Ciro Trindade"
         },
@@ -11130,14 +11132,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "São Paulo",
           "Short name": "UniSantos",
           "Contestants": [
-            "Lucas Silva Dos Anjos",
+            "Artur Freire Dos Santos",
             "Gustavo Medeiros Madeira",
-            "Artur Freire Dos Santos"
+            "Lucas Silva Dos Anjos"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Ciro Trindade"
         },
@@ -11147,14 +11149,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "São Paulo",
           "Short name": "UniSantos",
           "Contestants": [
-            "Murilo Caio Mendes Gonçalves",
+            "Matheus De Melo Barreto",
             "Gabriel Inacio Tabarin",
-            "Matheus De Melo Barreto"
+            "Murilo Caio Mendes Gonçalves"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Ciro Trindade"
         },
@@ -11164,14 +11166,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "São Paulo",
           "Short name": "UniSantos",
           "Contestants": [
-            "Pedro Leandro De Andrade Cruz",
+            "Victor Pereira Gaspar",
             "Pedro Henrique Nakata",
-            "Victor Pereira Gaspar"
+            "Pedro Leandro De Andrade Cruz"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Ciro Trindade"
         },
@@ -11181,14 +11183,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "São Paulo",
           "Short name": "UniSantos",
           "Contestants": [
-            "Vitor Dos Santos Segovia Souza",
+            "Luiz Felipe Silva Santos",
             "Gabriel Teodoro Suzano",
-            "Luiz Felipe Silva Santos"
+            "Vitor Dos Santos Segovia Souza"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Ciro Trindade"
         },
@@ -11198,14 +11200,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "São Paulo",
           "Short name": "UniSantos",
           "Contestants": [
-            "Igor Lopes Rodrigues Amon",
+            "Bruno Luis Anjos Soares Da Silva",
             "Gustavo Lino Barbosa",
-            "Bruno Luis Anjos Soares Da Silva"
+            "Igor Lopes Rodrigues Amon"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Ciro Trindade"
         }
@@ -11217,14 +11219,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "São Paulo",
           "Short name": "UNESP Rio Claro",
           "Contestants": [
-            "Rafael Fuziyama",
+            "João Alencar",
             "Matheus Santos",
-            "João Alencar"
+            "Rafael Fuziyama"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Mário Silva"
         }
@@ -11236,14 +11238,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "São Paulo",
           "Short name": "UNICAMP",
           "Contestants": [
-            "Adilson Luis Jonck Junior",
+            "João Aleixo",
             "Yan Guimarães",
-            "João Aleixo"
+            "Adilson Luis Jonck Junior"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Fábio Luiz Usberti"
         },
@@ -11253,14 +11255,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "São Paulo",
           "Short name": "UNICAMP",
           "Contestants": [
-            "Jose Vasques Moreira",
+            "Luiz Henrique Aguiar De Lima Alves",
             "Lucas Roberto",
-            "Luiz Henrique Aguiar De Lima Alves"
+            "Jose Vasques Moreira"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Fábio Luiz Usberti"
         },
@@ -11270,14 +11272,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "São Paulo",
           "Short name": "UNICAMP",
           "Contestants": [
-            "Matheus Silva",
+            "Tales Nicoletti",
             "Thales Almeida",
-            "Tales Nicoletti"
+            "Matheus Silva"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Fábio Luiz Usberti"
         },
@@ -11287,14 +11289,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "São Paulo",
           "Short name": "UNICAMP",
           "Contestants": [
-            "Rian Costa",
+            "Cirilo Morais",
             "Igor Brito",
-            "Cirilo Morais"
+            "Rian Costa"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Fábio Luiz Usberti"
         },
@@ -11304,14 +11306,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "São Paulo",
           "Short name": "UNICAMP",
           "Contestants": [
-            "Henrique Da Fonseca Simões",
+            "Renan Fernando Franco Da Silva",
             "Luiz Gustavo Silva Aguiar",
-            "Renan Fernando Franco Da Silva"
+            "Henrique Da Fonseca Simões"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Fábio Luiz Usberti"
         },
@@ -11321,14 +11323,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "São Paulo",
           "Short name": "UNICAMP",
           "Contestants": [
-            "Diogo Teles Sant Anna",
+            "Juliano Moura",
             "David Afonso Borges Dos Santos",
-            "Juliano Moura"
+            "Diogo Teles Sant Anna"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Fábio Luiz Usberti"
         },
@@ -11338,14 +11340,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "São Paulo",
           "Short name": "UNICAMP",
           "Contestants": [
+            "Eric Mendes",
             "Joao Antunes",
-            "Giovana Bonás",
-            "Eric Mendes"
+            "Giovana Bonás"
           ],
           "Sex": [
-            "Male",
-            "Female",
-            "Male"
+            "MALE",
+            "MALE",
+            "FEMALE"
           ],
           "Coach": "Fábio Luiz Usberti"
         },
@@ -11355,14 +11357,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "São Paulo",
           "Short name": "UNICAMP",
           "Contestants": [
-            "Naim Shaikhzadeh",
+            "Matheus Leal Viana",
             "Tiago Souza",
-            "Matheus Leal Viana"
+            "Naim Shaikhzadeh"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Fábio Luiz Usberti"
         }
@@ -11374,14 +11376,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "São Paulo",
           "Short name": "UFSCar",
           "Contestants": [
-            "Nayra Kaline",
+            "Melissa Fontenelle",
             "Joao Ricardo Lopes Lovato",
-            "Melissa Fontenelle"
+            "Nayra Kaline"
           ],
           "Sex": [
-            "Female",
-            "Male",
-            "Female"
+            "FEMALE",
+            "MALE",
+            "FEMALE"
           ],
           "Coach": "Guilherme Silva Castro"
         },
@@ -11391,14 +11393,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "São Paulo",
           "Short name": "UFSCar",
           "Contestants": [
-            "Luana Garcia",
+            "Pedro Baleeiro",
             "João Korczovei",
-            "Pedro Baleeiro"
+            "Luana Garcia"
           ],
           "Sex": [
-            "Female",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "FEMALE"
           ],
           "Coach": "Guilherme Silva Castro"
         },
@@ -11408,14 +11410,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "São Paulo",
           "Short name": "UFSCar",
           "Contestants": [
-            "Fernanda Assi",
+            "Iara Silva",
             "Pabolo Vinícius Da Rosa Pires",
-            "Iara Silva"
+            "Fernanda Assi"
           ],
           "Sex": [
-            "Female",
-            "Male",
-            "Female"
+            "FEMALE",
+            "MALE",
+            "FEMALE"
           ],
           "Coach": "Víctor Colombo"
         },
@@ -11425,14 +11427,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "São Paulo",
           "Short name": "UFSCar",
           "Contestants": [
-            "Guilherme Arcencio",
+            "Alcides Mignoso E Silva",
             "Matheus Victorello",
-            "Alcides Mignoso E Silva"
+            "Guilherme Arcencio"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Víctor Colombo"
         },
@@ -11442,14 +11444,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "São Paulo",
           "Short name": "UFSCar",
           "Contestants": [
-            "Italo Carvalho Vianelli Ribeiro",
+            "Marciel Almeida",
             "Mateus Grota Nishimura Ferro",
-            "Marciel Almeida"
+            "Italo Carvalho Vianelli Ribeiro"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Diego Furtado Silva"
         },
@@ -11459,14 +11461,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "São Paulo",
           "Short name": "UFSCar",
           "Contestants": [
-            "Gabriel Dantas",
+            "Pedro Santos",
             "Gabriel Machado",
-            "Pedro Santos"
+            "Gabriel Dantas"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Guilherme Silva Castro"
         }
@@ -11478,14 +11480,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "São Paulo",
           "Short name": "UNIFESP",
           "Contestants": [
-            "João Pedro Norberto Da Silva",
+            "Luis Damy",
             "Luiz Alves",
-            "Luis Damy"
+            "João Pedro Norberto Da Silva"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Arlindo Conceicao"
         },
@@ -11495,14 +11497,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "São Paulo",
           "Short name": "UNIFESP",
           "Contestants": [
-            "Yuri Shiba",
+            "Miguel Freitas",
             "Victor Bueno",
-            "Miguel Freitas"
+            "Yuri Shiba"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Arlindo Conceicao"
         },
@@ -11512,14 +11514,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "São Paulo",
           "Short name": "UNIFESP",
           "Contestants": [
-            "Renato Galvani Sarto",
+            "Adriano Amaral",
             "Danilo Pereira Da Silva",
-            "Adriano Amaral"
+            "Renato Galvani Sarto"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Marco Dias"
         },
@@ -11529,14 +11531,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "São Paulo",
           "Short name": "UNIFESP",
           "Contestants": [
-            "Gabriel Almeida",
+            "Vinícius Girotto",
             "Claudio Filho",
-            "Vinícius Girotto"
+            "Gabriel Almeida"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Arlindo Conceicao"
         }
@@ -11548,14 +11550,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "São Paulo",
           "Short name": "UFABC",
           "Contestants": [
-            "André De Santana Santos",
+            "Michel Munhoz",
             "Gabriela Oliveira",
-            "Michel Munhoz"
+            "André De Santana Santos"
           ],
           "Sex": [
-            "Male",
-            "Female",
-            "Male"
+            "MALE",
+            "FEMALE",
+            "MALE"
           ],
           "Coach": "Cristiane Sato"
         },
@@ -11565,14 +11567,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "São Paulo",
           "Short name": "UFABC",
           "Contestants": [
-            "Marcio Gaefke",
+            "Yves Yoshio Ohi",
             "Lucas Kendy Shimizu Silva",
-            "Yves Yoshio Ohi"
+            "Marcio Gaefke"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Cristiane Sato"
         },
@@ -11582,14 +11584,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "São Paulo",
           "Short name": "UFABC",
           "Contestants": [
-            "Jonatas Duarte Souza",
+            "Bryan Valeriano",
             "Wesley Pereira Da Silva",
-            "Bryan Valeriano"
+            "Jonatas Duarte Souza"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Cristiane Sato"
         }
@@ -11601,14 +11603,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "São Paulo",
           "Short name": "UNINOVE",
           "Contestants": [
-            "Gustavo Weiss Rocha",
+            "Vinicius Afonso Oliveira",
             "Geovanny Albuquerqie Vogel Silva",
-            "Vinicius Afonso Oliveira"
+            "Gustavo Weiss Rocha"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Daniel Ferreira De Barros Junior"
         },
@@ -11618,14 +11620,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "São Paulo",
           "Short name": "UNINOVE",
           "Contestants": [
-            "Gabriela Leite Alves",
+            "Andreia Ferreia",
             "Fernanda Soares Silveira Martins",
-            "Andreia Ferreia"
+            "Gabriela Leite Alves"
           ],
           "Sex": [
-            "Female",
-            "Female",
-            "Female"
+            "FEMALE",
+            "FEMALE",
+            "FEMALE"
           ],
           "Coach": "Daniel Ferreira De Barros Junior"
         },
@@ -11635,14 +11637,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "São Paulo",
           "Short name": "UNINOVE",
           "Contestants": [
-            "José Luiz Brito Da Silva",
+            "Gustavo Henrique Rodrigues Dos Santos",
             "Giovanna Desideri De Paiva",
-            "Gustavo Henrique Rodrigues Dos Santos"
+            "José Luiz Brito Da Silva"
           ],
           "Sex": [
-            "Male",
-            "Female",
-            "Male"
+            "MALE",
+            "FEMALE",
+            "MALE"
           ],
           "Coach": "Daniel Ferreira De Barros Junior"
         },
@@ -11653,13 +11655,13 @@ CONTESTS[2020]["1aFase"] = {
           "Short name": "UNINOVE",
           "Contestants": [
             "Matheus Silva Paiva",
-            "Victor Maldinês Santos Macedo",
-            "Lucas Batista Nieto Santos"
+            "Lucas Batista Nieto Santos",
+            "Victor Maldinês Santos Macedo"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Daniel Ferreira De Barros Junior"
         },
@@ -11669,14 +11671,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "São Paulo",
           "Short name": "UNINOVE",
           "Contestants": [
-            "Diego Lourenço Dos Santos",
+            "Mateus Freire Da Silva",
             "David Acassio Da Silva",
-            "Mateus Freire Da Silva"
+            "Diego Lourenço Dos Santos"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Daniel Ferreira De Barros Junior"
         },
@@ -11686,14 +11688,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "São Paulo",
           "Short name": "UNINOVE",
           "Contestants": [
-            "Ricardo Tandu Mattos",
+            "João Kaíque De Oliveira Aguiar",
             "Lucas Vaz Maia",
-            "João Kaíque De Oliveira Aguiar"
+            "Ricardo Tandu Mattos"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Daniel Ferreira De Barros Junior"
         }
@@ -11705,14 +11707,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "São Paulo",
           "Short name": "",
           "Contestants": [
-            "Ryan Marco Andrade Dos Santos",
+            "Anna Ferreira",
             "Claudia Fiorentino Andrade",
-            "Anna Ferreira"
+            "Ryan Marco Andrade Dos Santos"
           ],
           "Sex": [
-            "Male",
-            "Female",
-            "Female"
+            "FEMALE",
+            "FEMALE",
+            "MALE"
           ],
           "Coach": "Israel Florentino"
         },
@@ -11722,14 +11724,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "São Paulo",
           "Short name": "",
           "Contestants": [
-            "Victor Vasconcellos Borba",
+            "Pedro Giuliano Farina",
             "Amanda Alcatrão Scarpitta",
-            "Pedro Giuliano Farina"
+            "Victor Vasconcellos Borba"
           ],
           "Sex": [
-            "Male",
-            "Female",
-            "Male"
+            "MALE",
+            "FEMALE",
+            "MALE"
           ],
           "Coach": "Israel Florentino"
         },
@@ -11739,14 +11741,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "São Paulo",
           "Short name": "",
           "Contestants": [
-            "Lucas Garcia",
+            "Matheus Matos Chang",
             "Daniel Kauffmann",
-            "Matheus Matos Chang"
+            "Lucas Garcia"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Israel Florentino"
         },
@@ -11756,14 +11758,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "São Paulo",
           "Short name": "",
           "Contestants": [
-            "Felipe Padilha Ferreira",
+            "Pedro Galvão Barretto",
             "Thayná Gomes Da Silva",
-            "Pedro Galvão Barretto"
+            "Felipe Padilha Ferreira"
           ],
           "Sex": [
-            "Male",
-            "Female",
-            "Male"
+            "MALE",
+            "FEMALE",
+            "MALE"
           ],
           "Coach": "Israel Florentino"
         }
@@ -11775,14 +11777,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "São Paulo",
           "Short name": "USF",
           "Contestants": [
-            "Leonardo Alves Da Costa Larangeira",
+            "Nathan Resende Da Silva Pinto",
             "Leonardo Fernandes De Lima",
-            "Nathan Resende Da Silva Pinto"
+            "Leonardo Alves Da Costa Larangeira"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Felipe Cavalaro"
         }
@@ -11794,14 +11796,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "São Paulo",
           "Short name": "Univesp",
           "Contestants": [
-            "Carlos Alfredo Oliveira De Lima",
+            "Maína Caçador Alexandre",
             "Bruno Campagnoli Felix",
-            "Maína Caçador Alexandre"
+            "Carlos Alfredo Oliveira De Lima"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Female"
+            "FEMALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Lucy Mari Tabuti"
         },
@@ -11811,14 +11813,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "São Paulo",
           "Short name": "Univesp",
           "Contestants": [
-            "Iaquine Silva",
+            "Bruna Santos De Paula",
             "Carolina Costa Gois",
-            "Bruna Santos De Paula"
+            "Iaquine Silva"
           ],
           "Sex": [
-            "Female",
-            "Female",
-            "Female"
+            "FEMALE",
+            "FEMALE",
+            "FEMALE"
           ],
           "Coach": "Lucy Mari Tabuti"
         },
@@ -11828,14 +11830,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "São Paulo",
           "Short name": "Univesp",
           "Contestants": [
-            "Selma Silva",
+            "Rodrigo Toledo",
             "Marcos Vinicius",
-            "Rodrigo Toledo"
+            "Selma Silva"
           ],
           "Sex": [
-            "Female",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "FEMALE"
           ],
           "Coach": "Lucy Mari Tabuti"
         },
@@ -11845,14 +11847,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "São Paulo",
           "Short name": "Univesp",
           "Contestants": [
-            "Marilia Gabriela Soares",
+            "Rebeca Lopes",
             "Erica Suguimoto",
-            "Rebeca Lopes"
+            "Marilia Gabriela Soares"
           ],
           "Sex": [
-            "Female",
-            "Female",
-            "Female"
+            "FEMALE",
+            "FEMALE",
+            "FEMALE"
           ],
           "Coach": "Lucy Mari Tabuti"
         },
@@ -11862,14 +11864,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "São Paulo",
           "Short name": "Univesp",
           "Contestants": [
-            "Clovis Garcia",
+            "Luana Duyen Huu Nguyen",
             "Geovana Aparecida Coelho Corrêa",
-            "Luana Duyen Huu Nguyen"
+            "Clovis Garcia"
           ],
           "Sex": [
-            "Male",
-            "Female",
-            "Female"
+            "FEMALE",
+            "FEMALE",
+            "MALE"
           ],
           "Coach": "Lucy Mari Tabuti"
         },
@@ -11879,14 +11881,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "São Paulo",
           "Short name": "Univesp",
           "Contestants": [
-            "Wendel Pedro De Sousa",
+            "Mariana Roman Oliveira",
             "Dimas Pereira",
-            "Mariana Roman Oliveira"
+            "Wendel Pedro De Sousa"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Female"
+            "FEMALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Lucy Mari Tabuti"
         },
@@ -11896,14 +11898,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "São Paulo",
           "Short name": "Univesp",
           "Contestants": [
-            "Guilherme Silva",
+            "Giovanna Oller",
             "Elton Soligueto",
-            "Giovanna Oller"
+            "Guilherme Silva"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Female"
+            "FEMALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Lucy Mari Tabuti"
         }
@@ -11915,14 +11917,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "São Paulo",
           "Short name": "USP",
           "Contestants": [
-            "Luã Santilli",
+            "Antonio Hachisuca",
             "Arthur Fazio",
-            "Antonio Hachisuca"
+            "Luã Santilli"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Nathan Benedetto Proença"
         },
@@ -11932,14 +11934,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "São Paulo",
           "Short name": "USP",
           "Contestants": [
-            "Gustavo De Medeiros Carlos",
+            "Davi Pereira",
             "Luiza Barros Reis Soezima",
-            "Davi Pereira"
+            "Gustavo De Medeiros Carlos"
           ],
           "Sex": [
-            "Male",
-            "Female",
-            "Male"
+            "MALE",
+            "FEMALE",
+            "MALE"
           ],
           "Coach": "Nathan Benedetto Proença"
         },
@@ -11949,14 +11951,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "São Paulo",
           "Short name": "USP",
           "Contestants": [
-            "Thiago Oliveira",
+            "Lucas Hiroshi Hanke Harada",
             "Gabriel Morete",
-            "Lucas Hiroshi Hanke Harada"
+            "Thiago Oliveira"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Nathan Benedetto Proença"
         },
@@ -11966,14 +11968,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "São Paulo",
           "Short name": "USP",
           "Contestants": [
-            "Jiang Zhi",
+            "William Kondo",
             "Victor Lamarca",
-            "William Kondo"
+            "Jiang Zhi"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Nathan Benedetto Proença"
         },
@@ -11983,14 +11985,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "São Paulo",
           "Short name": "USP",
           "Contestants": [
-            "Andre Abreu",
+            "Eduardo Porto",
             "Pedro Alves",
-            "Eduardo Porto"
+            "Andre Abreu"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Nathan Benedetto Proença"
         },
@@ -12000,14 +12002,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "São Paulo",
           "Short name": "USP",
           "Contestants": [
-            "Raphael Silva",
+            "Felipe Noronha",
             "Bento Bruno Pereira",
-            "Felipe Noronha"
+            "Raphael Silva"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Nathan Benedetto Proença"
         },
@@ -12017,14 +12019,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "São Paulo",
           "Short name": "USP",
           "Contestants": [
-            "Otavio Martins",
+            "Guilhermo Cutrim Costa",
             "Willian Wang",
-            "Guilhermo Cutrim Costa"
+            "Otavio Martins"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Nathan Benedetto Proença"
         },
@@ -12034,14 +12036,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "São Paulo",
           "Short name": "USP",
           "Contestants": [
-            "Ana Lima",
+            "Daniel Costa",
             "Nathan Martins",
-            "Daniel Costa"
+            "Ana Lima"
           ],
           "Sex": [
-            "Female",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "FEMALE"
           ],
           "Coach": "Nathan Benedetto Proença"
         },
@@ -12051,14 +12053,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "São Paulo",
           "Short name": "USP",
           "Contestants": [
-            "Giovanna Conrado",
+            "Pedro Sousa",
             "Gabriel Fernandes De Oliveira",
-            "Pedro Sousa"
+            "Giovanna Conrado"
           ],
           "Sex": [
-            "Female",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "FEMALE"
           ],
           "Coach": "Nathan Benedetto Proença"
         }
@@ -12070,14 +12072,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "São Paulo",
           "Short name": "USP - São Carlos",
           "Contestants": [
-            "Mateus Penteado",
+            "Victor Carvalho",
             "Matheus Ventura",
-            "Victor Carvalho"
+            "Mateus Penteado"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Samuel Santos"
         },
@@ -12087,14 +12089,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "São Paulo",
           "Short name": "USP - São Carlos",
           "Contestants": [
-            "Leonardo Silva",
+            "Leonardo Pizzo",
             "Gabriel Dertoni",
-            "Leonardo Pizzo"
+            "Leonardo Silva"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Guilherme Tubone"
         },
@@ -12104,14 +12106,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "São Paulo",
           "Short name": "USP - São Carlos",
           "Contestants": [
-            "Yasmin Araujo",
+            "Ana Costa",
             "Flavio Salles",
-            "Ana Costa"
+            "Yasmin Araujo"
           ],
           "Sex": [
-            "Female",
-            "Male",
-            "Female"
+            "FEMALE",
+            "MALE",
+            "FEMALE"
           ],
           "Coach": "Guilherme Tubone"
         },
@@ -12121,14 +12123,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "São Paulo",
           "Short name": "USP - São Carlos",
           "Contestants": [
-            "Marcus Medeiros",
+            "Gabriel Rojas",
             "Mathias Fernandes",
-            "Gabriel Rojas"
+            "Marcus Medeiros"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Samuel Santos"
         },
@@ -12138,14 +12140,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "São Paulo",
           "Short name": "USP - São Carlos",
           "Contestants": [
-            "Francisco Sousa",
+            "Thiago Vicentini",
             "Hazael Jumonji",
-            "Thiago Vicentini"
+            "Francisco Sousa"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Guilherme Tubone"
         },
@@ -12155,14 +12157,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "São Paulo",
           "Short name": "USP - São Carlos",
           "Contestants": [
-            "Guilherme Rios",
+            "Guilherme Hiromoto",
             "Pedro Monici",
-            "Guilherme Hiromoto"
+            "Guilherme Rios"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Guilherme Tubone"
         },
@@ -12172,14 +12174,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "São Paulo",
           "Short name": "USP - São Carlos",
           "Contestants": [
-            "Gildo Oliveira",
+            "Artur Rodrigues",
             "Auro Martins Soares Junior",
-            "Artur Rodrigues"
+            "Gildo Oliveira"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Guilherme Tubone"
         },
@@ -12189,14 +12191,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "São Paulo",
           "Short name": "USP - São Carlos",
           "Contestants": [
-            "Alexandre Brito",
+            "Pedro Perez",
             "Fernando Henrique Paes Generich",
-            "Pedro Perez"
+            "Alexandre Brito"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Samuel Santos"
         },
@@ -12206,14 +12208,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "São Paulo",
           "Short name": "USP - São Carlos",
           "Contestants": [
-            "Albert Wolf",
+            "Tamiris Tinelli",
             "Luan Arcanjo",
-            "Tamiris Tinelli"
+            "Albert Wolf"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Female"
+            "FEMALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Samuel Santos"
         },
@@ -12223,14 +12225,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "São Paulo",
           "Short name": "USP - São Carlos",
           "Contestants": [
-            "Pedro Ilídio",
+            "Giuliano Semente",
             "Estevão Chedieck Lobo",
-            "Giuliano Semente"
+            "Pedro Ilídio"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Samuel Santos"
         },
@@ -12240,14 +12242,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "São Paulo",
           "Short name": "USP - São Carlos",
           "Contestants": [
-            "João Marcos Cardoso Da Silva",
+            "Sofhia Souza",
             "Israel Silva",
-            "Sofhia Souza"
+            "João Marcos Cardoso Da Silva"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Female"
+            "FEMALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Guilherme Tubone"
         },
@@ -12257,14 +12259,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "São Paulo",
           "Short name": "USP - São Carlos",
           "Contestants": [
-            "Thiago Preischadt Pinheiro",
+            "David Cairuz",
             "Luísa Moura",
-            "David Cairuz"
+            "Thiago Preischadt Pinheiro"
           ],
           "Sex": [
-            "Male",
-            "Female",
-            "Male"
+            "MALE",
+            "FEMALE",
+            "MALE"
           ],
           "Coach": "Guilherme Tubone"
         },
@@ -12274,14 +12276,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "São Paulo",
           "Short name": "USP - São Carlos",
           "Contestants": [
-            "Victor Daniel",
+            "Luana Balador Belisário",
             "Luan Arjuna Fraga Ramires",
-            "Luana Balador Belisário"
+            "Victor Daniel"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Female"
+            "FEMALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Samuel Santos"
         },
@@ -12291,14 +12293,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "São Paulo",
           "Short name": "USP - São Carlos",
           "Contestants": [
-            "Thiago Queiroz",
+            "Fernando Lincoln",
             "Dikson Santos",
-            "Fernando Lincoln"
+            "Thiago Queiroz"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Guilherme Tubone"
         },
@@ -12308,14 +12310,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "São Paulo",
           "Short name": "USP - São Carlos",
           "Contestants": [
+            "Andre Fakhoury",
             "Lucas Turci",
-            "Frederico Ribeiro",
-            "Andre Fakhoury"
+            "Frederico Ribeiro"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Samuel Santos"
         },
@@ -12325,14 +12327,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "São Paulo",
           "Short name": "USP - São Carlos",
           "Contestants": [
-            "Ellian Carlos Oliveria Costa",
+            "Thiago Cardoso",
             "Ciro Falsarella",
-            "Thiago Cardoso"
+            "Ellian Carlos Oliveria Costa"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Samuel Santos"
         }
@@ -12344,14 +12346,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Santa Catarina",
           "Short name": "UNESC",
           "Contestants": [
-            "Rai Bonassa",
+            "Bruno Lorenzoni",
             "Flávia De Noni Ferreira",
-            "Bruno Lorenzoni"
+            "Rai Bonassa"
           ],
           "Sex": [
-            "Male",
-            "Female",
-            "Male"
+            "MALE",
+            "FEMALE",
+            "MALE"
           ],
           "Coach": "Luciano Antunes"
         },
@@ -12361,14 +12363,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Santa Catarina",
           "Short name": "UNESC",
           "Contestants": [
-            "Jackson Belloli",
+            "Roger Vieira",
             "Rômulo Ramos De Siqueira",
-            "Roger Vieira"
+            "Jackson Belloli"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Luciano Antunes"
         },
@@ -12378,14 +12380,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Santa Catarina",
           "Short name": "UNESC",
           "Contestants": [
-            "Wagner Ghedin",
             "Pedro Chimuco",
+            "Wagner Ghedin",
             "Breno Pombo"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Luciano Antunes"
         }
@@ -12401,14 +12403,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Paraná",
           "Short name": "Uninter",
           "Contestants": [
-            "Thais Carvalho",
+            "Poliana Ferreira",
             "Gean Santos",
-            "Poliana Ferreira"
+            "Thais Carvalho"
           ],
           "Sex": [
-            "Female",
-            "Male",
-            "Female"
+            "FEMALE",
+            "MALE",
+            "FEMALE"
           ],
           "Coach": "Guilherme Pianezzer"
         }
@@ -12420,14 +12422,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Paraná",
           "Short name": "UNIOESTE",
           "Contestants": [
-            "Daniel Carlos Chaves Boll",
             "Mateus Nunes Ismael",
-            "Mateus Edival"
+            "Mateus Edival",
+            "Daniel Carlos Chaves Boll"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Josué Pereira De Castro"
         },
@@ -12437,14 +12439,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Paraná",
           "Short name": "UNIOESTE",
           "Contestants": [
+            "Lucas Frank Hollmann",
             "Michel Caesar Koval De Oliveira",
-            "Pablo Alessandro Santos Hugen",
-            "Lucas Frank Hollmann"
+            "Pablo Alessandro Santos Hugen"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Josué Pereira De Castro"
         }
@@ -12456,14 +12458,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Paraná",
           "Short name": "UNIOESTE",
           "Contestants": [
-            "Caio Cezar Das Moreira",
+            "Leví Cícero Arcanjo",
             "Eduardo Cembranel",
-            "Leví Cícero Arcanjo"
+            "Caio Cezar Das Moreira"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Antonio Marcos Hachisuca"
         },
@@ -12473,14 +12475,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Paraná",
           "Short name": "UNIOESTE",
           "Contestants": [
-            "Victor Almeida",
+            "Daniel Ojeda",
             "Deivid Costa",
-            "Daniel Ojeda"
+            "Victor Almeida"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Antonio Marcos Hachisuca"
         },
@@ -12490,14 +12492,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Paraná",
           "Short name": "UNIOESTE",
           "Contestants": [
-            "Lucas Garavaglia",
+            "Gilmar Thomas De Araujo Júnior",
             "Marco Guerra",
-            "Gilmar Thomas De Araujo Júnior"
+            "Lucas Garavaglia"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Antonio Marcos Hachisuca"
         }
@@ -12509,14 +12511,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Paraná",
           "Short name": "UEL",
           "Contestants": [
-            "Felipe Abrahão",
+            "Rhuan Ferrer",
             "Arthur Pimont",
-            "Rhuan Ferrer"
+            "Felipe Abrahão"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Jacques Brancher"
         },
@@ -12526,14 +12528,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Paraná",
           "Short name": "UEL",
           "Contestants": [
-            "Guilherme Mori",
+            "Júllia Silva",
             "Israel Junior",
-            "Júllia Silva"
+            "Guilherme Mori"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Female"
+            "FEMALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Jacques Brancher"
         },
@@ -12543,14 +12545,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Paraná",
           "Short name": "UEL",
           "Contestants": [
-            "Otávio Reis",
+            "Olavo Nascimento",
             "Danilo Kassuya",
-            "Olavo Nascimento"
+            "Otávio Reis"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Jacques Brancher"
         }
@@ -12562,14 +12564,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Paraná",
           "Short name": "UEM",
           "Contestants": [
-            "Antônio Roberto Dos Santos",
+            "João Barros",
             "Sandro Catabriga",
-            "João Barros"
+            "Antônio Roberto Dos Santos"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Daniel Kikuti"
         },
@@ -12579,14 +12581,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Paraná",
           "Short name": "UEM",
           "Contestants": [
-            "Gabriel Dias",
+            "Vinícius Fukace",
             "José Hermoso",
-            "Vinícius Fukace"
+            "Gabriel Dias"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Daniel Kikuti"
         },
@@ -12596,14 +12598,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Paraná",
           "Short name": "UEM",
           "Contestants": [
-            "Gustavo Cruz",
+            "Hudson Proença",
             "Gabriel Thiago Henrique Dos Santos",
-            "Hudson Proença"
+            "Gustavo Cruz"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Daniel Kikuti"
         },
@@ -12613,14 +12615,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Paraná",
           "Short name": "UEM",
           "Contestants": [
-            "Guilherme Ferrari",
+            "Sergio Alvarez",
             "Gabriel Vendrame",
-            "Sergio Alvarez"
+            "Guilherme Ferrari"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Daniel Kikuti"
         }
@@ -12632,14 +12634,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Paraná",
           "Short name": "UNICENTRO",
           "Contestants": [
-            "Joao Pieczarka",
+            "Gustavo Bork",
             "Eric Militão",
-            "Gustavo Bork"
+            "Joao Pieczarka"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Ana Elisa Tozetto Piekarski Da Palma"
         },
@@ -12649,14 +12651,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Paraná",
           "Short name": "UNICENTRO",
           "Contestants": [
-            "Rafaela Remes Lima",
+            "Felipe Testa",
             "Gabriel Krysa",
-            "Felipe Testa"
+            "Rafaela Remes Lima"
           ],
           "Sex": [
-            "Female",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "FEMALE"
           ],
           "Coach": "Mauro Miazaki"
         },
@@ -12666,14 +12668,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Paraná",
           "Short name": "UNICENTRO",
           "Contestants": [
-            "Alexandro Luis Da Rocha Jr.",
+            "Felipe Rangel Michalszeszen",
             "Guilherme Alex Ferreira",
-            "Felipe Rangel Michalszeszen"
+            "Alexandro Luis Da Rocha Jr."
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Mauro Miazaki"
         },
@@ -12683,14 +12685,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Paraná",
           "Short name": "UNICENTRO",
           "Contestants": [
-            "Daniel Machado Brasil",
+            "Gabriel Mauricio Utzig",
             "Matheus Partika Orzechowski",
-            "Gabriel Mauricio Utzig"
+            "Daniel Machado Brasil"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Ana Elisa Tozetto Piekarski Da Palma"
         }
@@ -12702,14 +12704,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Paraná",
           "Short name": "UF Paraná",
           "Contestants": [
-            "Gustavo Barbosa",
+            "Giordano Silveira",
             "Iago Floriano",
-            "Giordano Silveira"
+            "Gustavo Barbosa"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "André Guedes"
         },
@@ -12719,14 +12721,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Paraná",
           "Short name": "UF Paraná",
           "Contestants": [
-            "Fernando Kiotheka",
+            "Talita Halboth Cunha Fernandes",
             "Bruno Tissei",
-            "Talita Halboth Cunha Fernandes"
+            "Fernando Kiotheka"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Female"
+            "FEMALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "André Guedes"
         },
@@ -12736,14 +12738,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Paraná",
           "Short name": "UF Paraná",
           "Contestants": [
-            "Victor Alflen",
+            "Eduardo Gobbo",
             "Pietro Cavassin",
-            "Eduardo Gobbo"
+            "Victor Alflen"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "André Guedes"
         },
@@ -12753,14 +12755,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Paraná",
           "Short name": "UF Paraná",
           "Contestants": [
-            "Arthur Castro",
+            "Pedro Kochinski",
             "Tiago Conte",
-            "Pedro Kochinski"
+            "Arthur Castro"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "André Guedes"
         }
@@ -12772,14 +12774,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Paraná",
           "Short name": "UTFPR-DV",
           "Contestants": [
-            "Lucas Barrionuevo Ribeiro",
+            "Pedro Henrique Silva Almeida",
             "Guilherme De Medeiros Tonello",
-            "Pedro Henrique Silva Almeida"
+            "Lucas Barrionuevo Ribeiro"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Yuri Kaszubowskilopes"
         }
@@ -12791,14 +12793,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Paraná",
           "Short name": "UTFPR Toledo",
           "Contestants": [
-            "Luana Campos",
+            "Guilherme Poleto",
             "Douglas Carvalho",
-            "Guilherme Poleto"
+            "Luana Campos"
           ],
           "Sex": [
-            "Female",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "FEMALE"
           ],
           "Coach": "Ricardo Tavares De Oliveira"
         },
@@ -12808,14 +12810,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Paraná",
           "Short name": "UTFPR Toledo",
           "Contestants": [
-            "Carlos Eduardo Alves Dreyer",
+            "Gabriel Braga",
             "Raphael Sauer",
-            "Gabriel Braga"
+            "Carlos Eduardo Alves Dreyer"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Ricardo Tavares De Oliveira"
         }
@@ -12827,14 +12829,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Paraná",
           "Short name": "UTFPR-CT",
           "Contestants": [
-            "Enrico Manfron",
+            "Gustavo Guedes",
             "Gabriel Frizzo",
-            "Gustavo Guedes"
+            "Enrico Manfron"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Leandro Zatesko"
         },
@@ -12844,14 +12846,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Paraná",
           "Short name": "UTFPR-CT",
           "Contestants": [
-            "Anderson Silva",
+            "Gustavo Amorim",
             "Lucas Leal Da Silva",
-            "Gustavo Amorim"
+            "Anderson Silva"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Leandro Zatesko"
         },
@@ -12861,14 +12863,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Paraná",
           "Short name": "UTFPR-CT",
           "Contestants": [
-            "Alessandra Lacerda",
+            "Matheus Lima",
             "Meika Oliveira",
-            "Matheus Lima"
+            "Alessandra Lacerda"
           ],
           "Sex": [
-            "Female",
-            "Female",
-            "Male"
+            "MALE",
+            "FEMALE",
+            "FEMALE"
           ],
           "Coach": "Leandro Zatesko"
         }
@@ -12880,14 +12882,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Paraná",
           "Short name": "UTFPR- Ponta Grossa",
           "Contestants": [
-            "Andrey Sutil Postal",
+            "Gilson Junior Soares",
             "Matheus Silva De Oliveira",
-            "Gilson Junior Soares"
+            "Andrey Sutil Postal"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Leandro Zatesko"
         }
@@ -12901,14 +12903,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Rio Grande do Sul",
           "Short name": "FURG",
           "Contestants": [
-            "Francine Guimarães",
+            "Aline Dos Santos Marchiori",
             "Marina Hurtado",
-            "Aline Dos Santos Marchiori"
+            "Francine Guimarães"
           ],
           "Sex": [
-            "Female",
-            "Female",
-            "Female"
+            "FEMALE",
+            "FEMALE",
+            "FEMALE"
           ],
           "Coach": "Vinicius Oliveira"
         },
@@ -12918,14 +12920,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Rio Grande do Sul",
           "Short name": "FURG",
           "Contestants": [
-            "Paulo Santos Neto",
+            "Prícilla Karen Suzano Do Nascimento Da Silva Longo",
             "Bernardo Castello Da Silva",
-            "Prícilla Karen Suzano Do Nascimento Da Silva Longo"
+            "Paulo Santos Neto"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Female"
+            "FEMALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Vinicius Oliveira"
         },
@@ -12935,14 +12937,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Rio Grande do Sul",
           "Short name": "FURG",
           "Contestants": [
-            "Pedro Fernandes",
+            "Frederico Tiggemann",
             "Rudyer Delgado",
-            "Frederico Tiggemann"
+            "Pedro Fernandes"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Vinicius Oliveira"
         },
@@ -12952,14 +12954,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Rio Grande do Sul",
           "Short name": "FURG",
           "Contestants": [
-            "Anderson Cardoso",
+            "Wanderson Paes",
             "Mateus Pietro",
-            "Wanderson Paes"
+            "Anderson Cardoso"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Vinicius Oliveira"
         }
@@ -12971,14 +12973,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Rio Grande do Sul",
           "Short name": "UCPEL",
           "Contestants": [
-            "Ícaro Siqueira",
+            "Gabriel Harter",
             "Guilherme Baccarin",
-            "Gabriel Harter"
+            "Ícaro Siqueira"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Cláudio Diniz"
         }
@@ -12990,14 +12992,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Rio Grande do Sul",
           "Short name": "UFSM",
           "Contestants": [
-            "Luigi Souza",
+            "William Trindade",
             "Gabriel Di Domenico",
-            "William Trindade"
+            "Luigi Souza"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Celio Trois"
         }
@@ -13009,14 +13011,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Rio Grande do Sul",
           "Short name": "UFRGS",
           "Contestants": [
-            "Fernando Zanutto",
+            "Leonardo Reinehr Gobatto",
             "Júlia Dartora Craide",
-            "Leonardo Reinehr Gobatto"
+            "Fernando Zanutto"
           ],
           "Sex": [
-            "Male",
-            "Female",
-            "Male"
+            "MALE",
+            "FEMALE",
+            "MALE"
           ],
           "Coach": "Santiago Ravelo"
         },
@@ -13026,14 +13028,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Rio Grande do Sul",
           "Short name": "UFRGS",
           "Contestants": [
-            "Matheus Saueressig",
+            "Maria Cecília Corrêa",
             "Julia Violato",
-            "Maria Cecília Corrêa"
+            "Matheus Saueressig"
           ],
           "Sex": [
-            "Male",
-            "Female",
-            "Female"
+            "FEMALE",
+            "FEMALE",
+            "MALE"
           ],
           "Coach": "Santiago Ravelo"
         },
@@ -13043,14 +13045,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Rio Grande do Sul",
           "Short name": "UFRGS",
           "Contestants": [
-            "Arthur Silveira",
+            "Gabriel Sadigursky",
             "Carlos Eduardo Westermann",
-            "Gabriel Sadigursky"
+            "Arthur Silveira"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Santiago Ravelo"
         },
@@ -13060,14 +13062,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Rio Grande do Sul",
           "Short name": "UFRGS",
           "Contestants": [
-            "Lucas Oliveira Mews",
+            "Pedro Oliveira Mews",
             "Matheus Oliveira Mews",
-            "Pedro Oliveira Mews"
+            "Lucas Oliveira Mews"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Santiago Ravelo"
         },
@@ -13077,14 +13079,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Rio Grande do Sul",
           "Short name": "UFRGS",
           "Contestants": [
-            "Leonardo Sebben",
+            "Arthur Hoff",
             "Santiago Gonzaga",
-            "Arthur Hoff"
+            "Leonardo Sebben"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Santiago Ravelo"
         },
@@ -13094,14 +13096,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Rio Grande do Sul",
           "Short name": "UFRGS",
           "Contestants": [
-            "João Pedro Gonçalves Moreira",
+            "Rafael Audibert",
             "Erik Bardini Da Rosa",
-            "Rafael Audibert"
+            "João Pedro Gonçalves Moreira"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Santiago Ravelo"
         },
@@ -13111,14 +13113,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Rio Grande do Sul",
           "Short name": "UFRGS",
           "Contestants": [
-            "Rodrigo Bervig Rocha",
+            "Gabriel Madeira",
             "João Pedro Jensen Ourique",
-            "Gabriel Madeira"
+            "Rodrigo Bervig Rocha"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Santiago Ravelo"
         },
@@ -13128,14 +13130,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Rio Grande do Sul",
           "Short name": "UFRGS",
           "Contestants": [
-            "Rafael Humann Petry",
+            "Arthur Prochnow Baumgardt",
             "Rafael Marques Rache",
-            "Arthur Prochnow Baumgardt"
+            "Rafael Humann Petry"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Santiago Ravelo"
         }
@@ -13147,14 +13149,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Rio Grande do Sul",
           "Short name": "URI - Erechim",
           "Contestants": [
-            "Alexis Toigo",
+            "Lucas Falabretti",
             "Matheus Fabian",
-            "Lucas Falabretti"
+            "Alexis Toigo"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Gerson Eduardo Groth"
         },
@@ -13164,14 +13166,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Rio Grande do Sul",
           "Short name": "URI - Erechim",
           "Contestants": [
-            "Leonardo Félix Corrêa",
+            "Bernardo Barro",
             "Marlon Angonese",
-            "Bernardo Barro"
+            "Leonardo Félix Corrêa"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Gerson Eduardo Groth"
         }
@@ -13183,14 +13185,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Rio Grande do Sul",
           "Short name": "UPF",
           "Contestants": [
-            "João Ledebrum",
             "Adrian Cerbaro",
+            "João Ledebrum",
             "Felipe Foschiera"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Marcelo Trindade Rebonatto"
         },
@@ -13200,14 +13202,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Rio Grande do Sul",
           "Short name": "UPF",
           "Contestants": [
-            "César Júnior",
+            "Geanfrancesco Fiorini",
             "Nicolas Costa",
-            "Geanfrancesco Fiorini"
+            "César Júnior"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Marcelo Trindade Rebonatto"
         }
@@ -13221,14 +13223,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Santa Catarina",
           "Short name": "IFC",
           "Contestants": [
-            "Hygor Marques",
             "Arthur Zago",
+            "Hygor Marques",
             "Marlon Cendron"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Kennedy Araújo"
         }
@@ -13240,14 +13242,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Santa Catarina",
           "Short name": "IFSC",
           "Contestants": [
-            "Bruno Marcon",
+            "Gabriel Fogaça",
             "Gustavo Floriani",
-            "Gabriel Fogaça"
+            "Bruno Marcon"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Marco Rojas"
         }
@@ -13259,14 +13261,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Santa Catarina",
           "Short name": "IESGF",
           "Contestants": [
-            "Lucas Paulo Braatz",
+            "Luiz Morais",
             "Deiwid Petry",
-            "Luiz Morais"
+            "Lucas Paulo Braatz"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Patryck Martins"
         }
@@ -13278,14 +13280,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Santa Catarina",
           "Short name": "UNISOCIESC",
           "Contestants": [
+            "Mauricio Junior",
             "Leandro Custodio",
-            "Lucas Besen",
-            "Mauricio Junior"
+            "Lucas Besen"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Ricardo Pfitscher"
         },
@@ -13295,14 +13297,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Santa Catarina",
           "Short name": "UNISOCIESC",
           "Contestants": [
-            "Alexandre Faust",
+            "Mateus Alves",
             "Eric Oliveira",
-            "Mateus Alves"
+            "Alexandre Faust"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Ricardo Pfitscher"
         }
@@ -13314,14 +13316,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Santa Catarina",
           "Short name": "UNIVILLE",
           "Contestants": [
-            "Eduardo Garbe",
+            "Igor Fortes",
             "Ana Schwingel",
-            "Igor Fortes"
+            "Eduardo Garbe"
           ],
           "Sex": [
-            "Male",
-            "Female",
-            "Male"
+            "MALE",
+            "FEMALE",
+            "MALE"
           ],
           "Coach": "Leanderson André"
         },
@@ -13336,9 +13338,9 @@ CONTESTS[2020]["1aFase"] = {
             "Charles Tuan"
           ],
           "Sex": [
-            "Female",
-            "Male",
-            "Male"
+            "FEMALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Leanderson André"
         },
@@ -13348,14 +13350,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Santa Catarina",
           "Short name": "UNIVILLE",
           "Contestants": [
-            "Eliton Eliton",
+            "Christopher Ramos Miranda",
             "Lucas Fernandes Da Costa",
-            "Christopher Ramos Miranda"
+            "Eliton Eliton"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Leanderson André"
         },
@@ -13365,14 +13367,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Santa Catarina",
           "Short name": "UNIVILLE",
           "Contestants": [
-            "Leandro Machado",
+            "Carlos Mondo",
             "Henrique Salvador",
-            "Carlos Mondo"
+            "Leandro Machado"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Leanderson André"
         },
@@ -13382,14 +13384,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Santa Catarina",
           "Short name": "UNIVILLE",
           "Contestants": [
-            "Thainã Petry",
+            "Lowgan Luan Flores",
             "Matheus De Souza",
-            "Lowgan Luan Flores"
+            "Thainã Petry"
           ],
           "Sex": [
-            "Female",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "FEMALE"
           ],
           "Coach": "Leanderson André"
         }
@@ -13401,14 +13403,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Santa Catarina",
           "Short name": "UNOESC - Chapecó",
           "Contestants": [
-            "Julio Cesar Martins",
+            "Mateus Junior Lobor",
             "Marlon Luís De Col",
-            "Mateus Junior Lobor"
+            "Julio Cesar Martins"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Jacson Luiz Matte"
         },
@@ -13418,14 +13420,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Santa Catarina",
           "Short name": "UNOESC - Chapecó",
           "Contestants": [
-            "Gustavo Paris",
+            "Vitor Mateus Weirich",
             "Maiki Marolli",
-            "Vitor Mateus Weirich"
+            "Gustavo Paris"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Jacson Luiz Matte"
         },
@@ -13435,14 +13437,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Santa Catarina",
           "Short name": "UNOESC - Chapecó",
           "Contestants": [
-            "Rafaéla Jàneczko",
+            "Gustavo Silvani",
             "Leonardo Pieta Monteiro",
-            "Gustavo Silvani"
+            "Rafaéla Jàneczko"
           ],
           "Sex": [
-            "Female",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "FEMALE"
           ],
           "Coach": "Jacson Luiz Matte"
         },
@@ -13452,14 +13454,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Santa Catarina",
           "Short name": "UNOESC - Chapecó",
           "Contestants": [
-            "Guilherme José Brust",
+            "Alex Appelt",
             "Guilherme Pereira",
-            "Alex Appelt"
+            "Guilherme José Brust"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Jacson Luiz Matte"
         },
@@ -13469,14 +13471,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Santa Catarina",
           "Short name": "UNOESC - Chapecó",
           "Contestants": [
-            "Edilson Rohden",
+            "Sara Moura",
             "Anderson Franz",
-            "Sara Moura"
+            "Edilson Rohden"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Female"
+            "FEMALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Jacson Luiz Matte"
         }
@@ -13486,16 +13488,16 @@ CONTESTS[2020]["1aFase"] = {
           "Rank": 380,
           "SiteRank": 22,
           "Site": "Santa Catarina",
-          "Short name": "UNOESC - São Miguel",
+          "Short name": "UNOESC - São Miguel ",
           "Contestants": [
-            "Thiago Favretto",
+            "Fernando Fiorini",
             "Júnior Fernandes Da Costa",
-            "Fernando Fiorini"
+            "Thiago Favretto"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Roberson Alves"
         }
@@ -13507,14 +13509,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Santa Catarina",
           "Short name": "Chapecó",
           "Contestants": [
-            "Weslei Rosniak",
+            "Gabriel Henrique Tres",
             "Ana Laura Soares Dos Reis",
-            "Gabriel Henrique Tres"
+            "Weslei Rosniak"
           ],
           "Sex": [
-            "Male",
-            "Female",
-            "Male"
+            "MALE",
+            "FEMALE",
+            "MALE"
           ],
           "Coach": "Marcos Antonio Moretto"
         },
@@ -13524,14 +13526,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Santa Catarina",
           "Short name": "Chapecó",
           "Contestants": [
-            "Iago Cecon",
+            "Daniel Mergen",
             "Edenilson Luiz De Almeida",
-            "Daniel Mergen"
+            "Iago Cecon"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Marcos Antonio Moretto"
         },
@@ -13541,14 +13543,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Santa Catarina",
           "Short name": "Chapecó",
           "Contestants": [
-            "Alexandre Zatti",
+            "Cristian Maestri",
             "Leonardo Bays",
-            "Cristian Maestri"
+            "Alexandre Zatti"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Marcos Antonio Moretto"
         },
@@ -13558,14 +13560,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Santa Catarina",
           "Short name": "Chapecó",
           "Contestants": [
-            "Joacir Junior Dal Berto",
             "João Vitor Zeppe",
-            "Cauê Santi Rocha"
+            "Cauê Santi Rocha",
+            "Joacir Junior Dal Berto"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Marcos Antonio Moretto"
         },
@@ -13575,14 +13577,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Santa Catarina",
           "Short name": "Chapecó",
           "Contestants": [
+            "Mateus Antonio Franceschina",
             "Alexandre Henrique Zanella",
-            "Rafael Ignaulin",
-            "Mateus Antonio Franceschina"
+            "Rafael Ignaulin"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Marcos Antonio Moretto"
         },
@@ -13593,13 +13595,13 @@ CONTESTS[2020]["1aFase"] = {
           "Short name": "Chapecó",
           "Contestants": [
             "Shauan Santos",
-            "Henrique Cavalli",
-            "Kalyan Lucas Basso"
+            "Kalyan Lucas Basso",
+            "Henrique Cavalli"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Marcos Antonio Moretto"
         },
@@ -13610,13 +13612,13 @@ CONTESTS[2020]["1aFase"] = {
           "Short name": "Chapecó",
           "Contestants": [
             "Felippe Butland",
-            "Gabriel Chitolina Thomé",
-            "Daniel Hertal"
+            "Daniel Hertal",
+            "Gabriel Chitolina Thomé"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Marcos Antonio Moretto"
         }
@@ -13628,14 +13630,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Santa Catarina",
           "Short name": "UFFS",
           "Contestants": [
-            "Lucas Bordin",
+            "Everaldo Gomes",
             "Diogo Cunha",
-            "Everaldo Gomes"
+            "Lucas Bordin"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Emilio Wuerges"
         },
@@ -13645,14 +13647,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Santa Catarina",
           "Short name": "UFFS",
           "Contestants": [
-            "Matheus Negrão",
+            "Matheus Todescato",
             "Nicolas Ribas",
-            "Matheus Todescato"
+            "Matheus Negrão"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Emilio Wuerges"
         },
@@ -13662,14 +13664,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Santa Catarina",
           "Short name": "UFFS",
           "Contestants": [
-            "Marcos Theophilo Gobbi Adamczuk",
+            "Guilherme Silva",
             "Ruan Natan Guerra Pato",
-            "Guilherme Silva"
+            "Marcos Theophilo Gobbi Adamczuk"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Emilio Wuerges"
         },
@@ -13679,14 +13681,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Santa Catarina",
           "Short name": "UFFS",
           "Contestants": [
-            "Fernando Franceschet",
+            "Mateus Azor",
             "Bernardo Krein",
-            "Mateus Azor"
+            "Fernando Franceschet"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Emilio Wuerges"
         },
@@ -13696,14 +13698,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Santa Catarina",
           "Short name": "UFFS",
           "Contestants": [
-            "Richard Herrera",
+            "Alexsandro Thomas",
             "Matheus Miotto",
-            "Alexsandro Thomas"
+            "Richard Herrera"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Emilio Wuerges"
         }
@@ -13715,14 +13717,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Santa Catarina",
           "Short name": "UFSC-ARA",
           "Contestants": [
-            "Gabriel Estevam De Oliveira",
+            "Tobias Müller",
             "Dariel Campos",
-            "Tobias Müller"
+            "Gabriel Estevam De Oliveira"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Alvaro Franco"
         }
@@ -13734,14 +13736,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Santa Catarina",
           "Short name": "UF Santa Catarina",
           "Contestants": [
-            "Wesly Ataide",
+            "Nícolas Goeldner",
             "Gustavo Biage",
-            "Nícolas Goeldner"
+            "Wesly Ataide"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Maicon Rafael Zatelli"
         },
@@ -13751,14 +13753,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Santa Catarina",
           "Short name": "UF Santa Catarina",
           "Contestants": [
-            "Tainá Cruz",
+            "Luis Carlos Cabral Junior",
             "Vitor Silvestri",
-            "Luis Carlos Cabral Junior"
+            "Tainá Cruz"
           ],
           "Sex": [
-            "Female",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "FEMALE"
           ],
           "Coach": "Maicon Rafael Zatelli"
         },
@@ -13768,14 +13770,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Santa Catarina",
           "Short name": "UF Santa Catarina",
           "Contestants": [
-            "Vitor Santos",
+            "Gabriel Jacinto",
             "Wesley Decezere",
-            "Gabriel Jacinto"
+            "Vitor Santos"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Maicon Rafael Zatelli"
         },
@@ -13785,14 +13787,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Santa Catarina",
           "Short name": "UF Santa Catarina",
           "Contestants": [
-            "Rafael Reus",
+            "Pedro Pordeus Santos",
             "Gabriel Pordeus Santos",
-            "Pedro Pordeus Santos"
+            "Rafael Reus"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Maicon Rafael Zatelli"
         }
@@ -13804,14 +13806,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Santa Catarina",
           "Short name": "UDESC",
           "Contestants": [
-            "Eduarda Rosa",
+            "Isabela Timm",
             "Laís Vossen",
-            "Isabela Timm"
+            "Eduarda Rosa"
           ],
           "Sex": [
-            "Female",
-            "Female",
-            "Female"
+            "FEMALE",
+            "FEMALE",
+            "FEMALE"
           ],
           "Coach": "Karina Roggia"
         },
@@ -13821,14 +13823,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Santa Catarina",
           "Short name": "UDESC",
           "Contestants": [
-            "Victor Saramento",
+            "Sérgio Senem",
             "Luara Bruning",
-            "Sérgio Senem"
+            "Victor Saramento"
           ],
           "Sex": [
-            "Male",
-            "Female",
-            "Male"
+            "MALE",
+            "FEMALE",
+            "MALE"
           ],
           "Coach": "Karina Roggia"
         },
@@ -13838,14 +13840,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Santa Catarina",
           "Short name": "UDESC",
           "Contestants": [
-            "Lara Beatriz",
+            "Kleiton Pereira",
             "Gustavo Bandeira Da Silva",
-            "Kleiton Pereira"
+            "Lara Beatriz"
           ],
           "Sex": [
-            "Female",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "FEMALE"
           ],
           "Coach": "Karina Roggia"
         },
@@ -13855,14 +13857,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Santa Catarina",
           "Short name": "UDESC",
           "Contestants": [
-            "Rafael Scholtz",
             "Luís Bertelli",
-            "Nicolas Sakashita"
+            "Nicolas Sakashita",
+            "Rafael Scholtz"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Karina Roggia"
         },
@@ -13872,14 +13874,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Santa Catarina",
           "Short name": "UDESC",
           "Contestants": [
-            "Peter Brendel",
+            "Guilherme Muller Utiama",
             "Lucas Litter Mentz",
-            "Guilherme Muller Utiama"
+            "Peter Brendel"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Karina Roggia"
         },
@@ -13889,14 +13891,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Santa Catarina",
           "Short name": "UDESC",
           "Contestants": [
-            "Felipe Weiss",
+            "Vinícius Gasparini",
             "Felipe Marchi",
-            "Vinícius Gasparini"
+            "Felipe Weiss"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Karina Roggia"
         },
@@ -13906,14 +13908,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Santa Catarina",
           "Short name": "UDESC",
           "Contestants": [
-            "Bruno Werner",
             "André Eduardo Pacheco Dias",
-            "Ariel Agne Da Silveira"
+            "Ariel Agne Da Silveira",
+            "Bruno Werner"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Karina Roggia"
         },
@@ -13923,14 +13925,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Santa Catarina",
           "Short name": "UDESC",
           "Contestants": [
-            "Kelvin Bruggmann",
+            "Pedro Serpa",
             "Igor Froehner",
-            "Pedro Serpa"
+            "Kelvin Bruggmann"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Karina Roggia"
         },
@@ -13940,14 +13942,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Santa Catarina",
           "Short name": "UDESC",
           "Contestants": [
-            "José Farias",
+            "Jose Brandao",
             "Artur Machado",
-            "Jose Brandao"
+            "José Farias"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Karina Roggia"
         },
@@ -13957,14 +13959,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Santa Catarina",
           "Short name": "UDESC",
           "Contestants": [
-            "Leonardo Sell",
+            "Arthur Silva",
             "Ferdinando Galera",
-            "Arthur Silva"
+            "Leonardo Sell"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Karina Roggia"
         },
@@ -13974,14 +13976,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Santa Catarina",
           "Short name": "UDESC",
           "Contestants": [
-            "Nicholas Wojeicchowski",
+            "Eric Silveira",
             "Gustavo Pedrozo",
-            "Eric Silveira"
+            "Nicholas Wojeicchowski"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Karina Roggia"
         },
@@ -13991,14 +13993,14 @@ CONTESTS[2020]["1aFase"] = {
           "Site": "Santa Catarina",
           "Short name": "UDESC",
           "Contestants": [
-            "João Vitor Fröhlich",
+            "Rafael Granza De Mello",
             "Eliton Machado Da Silva",
-            "Rafael Granza De Mello"
+            "João Vitor Fröhlich"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Karina Roggia"
         },
@@ -14013,9 +14015,9 @@ CONTESTS[2020]["1aFase"] = {
             "Wallace Mielniczki"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Karina Roggia"
         }
@@ -14028,13 +14030,13 @@ CONTESTS[2020]["1aFase"] = {
           "Short name": "UNOESC",
           "Contestants": [
             "Eduardo Oliveira",
-            "Gabriel Chüller Batistella",
-            "Andrelise Buttner"
+            "Andrelise Buttner",
+            "Gabriel Chüller Batistella"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Female"
+            "MALE",
+            "FEMALE",
+            "MALE"
           ],
           "Coach": "Jean Prigol"
         }
@@ -14254,7 +14256,10 @@ AGGREGATED["Mean"]["Rank"][2020]["1aFase"] = {
         "Value": 342.0
       },
       "Universidade Federal do Piauí": {
-        "Value": 395.76
+        "Value": 615.0
+      },
+      "Universidade Federal do Piauí ": {
+        "Value": 354.0
       },
       "Universidade Federal do Piauí - Campus Picos": {
         "Value": 357.0
@@ -14454,7 +14459,7 @@ AGGREGATED["Mean"]["Rank"][2020]["1aFase"] = {
       "Universidade Federal de Viçosa - Campus Florestal": {
         "Value": 368.1
       },
-      "Universidade Federal do Triângulo Mineiro": {
+      "Universidade Federal do Triângulo Mineiro ": {
         "Value": 461.5
       },
       "Universidade do Vale do Sapucaí - UNIVAS": {
@@ -14873,7 +14878,10 @@ AGGREGATED["Count"]["Girls"][2020]["1aFase"] = {
     "PI": {
       "Value": 2,
       "Universidade Federal do Piauí": {
-        "Value": 2
+        "Value": 1
+      },
+      "Universidade Federal do Piauí ": {
+        "Value": 1
       }
     },
     "RN": {
@@ -15019,7 +15027,7 @@ AGGREGATED["Count"]["Girls"][2020]["1aFase"] = {
       "Universidade Federal de Viçosa - Campus Florestal": {
         "Value": 15
       },
-      "Universidade Federal do Triângulo Mineiro": {
+      "Universidade Federal do Triângulo Mineiro ": {
         "Value": 3
       }
     },
@@ -15397,7 +15405,10 @@ AGGREGATED["Count"]["Teams"][2020]["1aFase"] = {
         "Value": 1
       },
       "Universidade Federal do Piauí": {
-        "Value": 6
+        "Value": 1
+      },
+      "Universidade Federal do Piauí ": {
+        "Value": 5
       },
       "Universidade Federal do Piauí - Campus Picos": {
         "Value": 2
@@ -15606,7 +15617,7 @@ AGGREGATED["Count"]["Teams"][2020]["1aFase"] = {
       "Universidade Federal de Viçosa - Campus Florestal": {
         "Value": 10
       },
-      "Universidade Federal do Triângulo Mineiro": {
+      "Universidade Federal do Triângulo Mineiro ": {
         "Value": 5
       },
       "Universidade do Vale do Sapucaí - UNIVAS": {

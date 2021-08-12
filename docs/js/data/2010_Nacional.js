@@ -1210,40 +1210,7 @@ if (AGGREGATED["Count"]["Girls"][2010] === undefined)
   AGGREGATED["Count"]["Girls"][2010] = {};
 
 AGGREGATED["Count"]["Girls"][2010]["Nacional"] = {
-  "Centro-Oeste": {
-    "Value": 1,
-    "MS": {
-      "Value": 1,
-      "Faculdade de Computação - UFMS": {
-        "Value": 1
-      }
-    }
-  },
-  "Sudeste": {
-    "Value": 4,
-    "MG": {
-      "Value": 1,
-      "Universidade Federal de Minas Gerais": {
-        "Value": 1
-      }
-    },
-    "RJ": {
-      "Value": 1,
-      "Pontificia Universidade Catolica do Rio de Janeiro": {
-        "Value": 1
-      }
-    },
-    "SP": {
-      "Value": 2,
-      "Faculdade de Tecnologia de Sorocaba": {
-        "Value": 1
-      },
-      "Universidade Estadual de Campinas": {
-        "Value": 1
-      }
-    }
-  },
-  "Value": 5
+  "Value": 0
 };
 
 

@@ -1227,52 +1227,7 @@ if (AGGREGATED["Count"]["Girls"][2011] === undefined)
   AGGREGATED["Count"]["Girls"][2011] = {};
 
 AGGREGATED["Count"]["Girls"][2011]["Nacional"] = {
-  "Nordeste": {
-    "Value": 2,
-    "BA": {
-      "Value": 1,
-      "Universidade Estadual de Feira de Santana": {
-        "Value": 1
-      }
-    },
-    "SE": {
-      "Value": 1,
-      "Universidade Federal de Sergipe": {
-        "Value": 1
-      }
-    }
-  },
-  "Sudeste": {
-    "Value": 3,
-    "MG": {
-      "Value": 1,
-      "Universidade Estadual de Montes Claros - UNIMONTES": {
-        "Value": 1
-      }
-    },
-    "RJ": {
-      "Value": 1,
-      "Pontificia Universidade Catolica do Rio de Janeiro": {
-        "Value": 1
-      }
-    },
-    "SP": {
-      "Value": 1,
-      "Pró-Reitoria de Graduação da Universidade de São Paulo": {
-        "Value": 1
-      }
-    }
-  },
-  "Sul": {
-    "Value": 1,
-    "SC": {
-      "Value": 1,
-      "Universidade do Vale do Itajaí": {
-        "Value": 1
-      }
-    }
-  },
-  "Value": 6
+  "Value": 0
 };
 
 

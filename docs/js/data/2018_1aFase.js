@@ -18,9 +18,9 @@ CONTESTS[2018]["1aFase"] = {
             "Érika Espindola"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Female"
+            "MALE",
+            "MALE",
+            "FEMALE"
           ],
           "Coach": "Patricia Moscariello Rodrigues"
         },
@@ -35,9 +35,9 @@ CONTESTS[2018]["1aFase"] = {
             "Júlio Silva"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Patricia Moscariello Rodrigues"
         },
@@ -52,9 +52,9 @@ CONTESTS[2018]["1aFase"] = {
             "Sabrina Maia"
           ],
           "Sex": [
-            "Male",
-            "Female",
-            "Female"
+            "MALE",
+            "FEMALE",
+            "FEMALE"
           ],
           "Coach": "Patricia Moscariello Rodrigues"
         },
@@ -69,9 +69,9 @@ CONTESTS[2018]["1aFase"] = {
             "Luiz Felipe Azevedo"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Patricia Moscariello Rodrigues"
         },
@@ -86,9 +86,9 @@ CONTESTS[2018]["1aFase"] = {
             "Pedro Sérgio Vieira"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Patricia Moscariello Rodrigues"
         }
@@ -105,9 +105,9 @@ CONTESTS[2018]["1aFase"] = {
             "Victor Anjos"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Daniel Nunes"
         },
@@ -122,9 +122,9 @@ CONTESTS[2018]["1aFase"] = {
             "Gregory Pereira"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Daniel Nunes"
         }
@@ -141,9 +141,9 @@ CONTESTS[2018]["1aFase"] = {
             "Rafael Chehab"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Vinicius Borges"
         },
@@ -158,9 +158,9 @@ CONTESTS[2018]["1aFase"] = {
             "Thiago Veras Machado"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Vinicius Borges"
         },
@@ -175,9 +175,9 @@ CONTESTS[2018]["1aFase"] = {
             "Cristiano Brust"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Vinicius Borges"
         },
@@ -192,9 +192,9 @@ CONTESTS[2018]["1aFase"] = {
             "Victor Lima"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Vinicius Borges"
         }
@@ -211,9 +211,9 @@ CONTESTS[2018]["1aFase"] = {
             "Igor Duarte"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Edson Junior"
         },
@@ -228,9 +228,9 @@ CONTESTS[2018]["1aFase"] = {
             "João Paulo Busche"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Edson Junior"
         },
@@ -245,9 +245,9 @@ CONTESTS[2018]["1aFase"] = {
             "Henrique Messias"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Edson Junior"
         },
@@ -262,9 +262,9 @@ CONTESTS[2018]["1aFase"] = {
             "Bruno Gomes"
           ],
           "Sex": [
-            "Female",
-            "Male",
-            "Male"
+            "FEMALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Edson Junior"
         },
@@ -279,9 +279,9 @@ CONTESTS[2018]["1aFase"] = {
             "Arthur Komatsu"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Edson Junior"
         }
@@ -300,9 +300,9 @@ CONTESTS[2018]["1aFase"] = {
             "Rafael Lima"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Francisco Xavier"
         }
@@ -319,9 +319,9 @@ CONTESTS[2018]["1aFase"] = {
             "Mateus Farias Feliciano"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Andre Ribeiro"
         },
@@ -336,9 +336,9 @@ CONTESTS[2018]["1aFase"] = {
             "João Victor Santana Lima Fernandes"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Andre Ribeiro"
         },
@@ -353,9 +353,9 @@ CONTESTS[2018]["1aFase"] = {
             "Barbara Castro Diniz"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Female"
+            "MALE",
+            "MALE",
+            "FEMALE"
           ],
           "Coach": "Andre Ribeiro"
         },
@@ -370,9 +370,9 @@ CONTESTS[2018]["1aFase"] = {
             "Douglas Emanuel Souza Almeida"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Andre Ribeiro"
         }
@@ -389,9 +389,9 @@ CONTESTS[2018]["1aFase"] = {
             "Luiz Gustavo Santos Mendes Cirino"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Lucas Cunha"
         },
@@ -406,9 +406,9 @@ CONTESTS[2018]["1aFase"] = {
             "Iago Diniz"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Lucas Cunha"
         }
@@ -425,9 +425,9 @@ CONTESTS[2018]["1aFase"] = {
             "Leandro Alves Vianna"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Welton Cardoso Do Carmo"
         },
@@ -442,9 +442,9 @@ CONTESTS[2018]["1aFase"] = {
             "Lucas Machado De Oliveira"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Welton Cardoso Do Carmo"
         },
@@ -459,9 +459,9 @@ CONTESTS[2018]["1aFase"] = {
             "Bryan Lincoln De Oliveira"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Welton Cardoso Do Carmo"
         },
@@ -476,9 +476,9 @@ CONTESTS[2018]["1aFase"] = {
             "Misael Mateus Oliveira De Morais"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Welton Cardoso Do Carmo"
         },
@@ -493,9 +493,9 @@ CONTESTS[2018]["1aFase"] = {
             "Rebecca Gabrielle Teixeira Da Paixão De Moraes"
           ],
           "Sex": [
-            "Female",
-            "Female",
-            "Female"
+            "FEMALE",
+            "FEMALE",
+            "FEMALE"
           ],
           "Coach": "Welton Cardoso Do Carmo"
         }
@@ -512,9 +512,9 @@ CONTESTS[2018]["1aFase"] = {
             "David Almeida"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Alexandre Ribeiro"
         },
@@ -529,9 +529,9 @@ CONTESTS[2018]["1aFase"] = {
             "Bruno Oliveira"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Alexandre Ribeiro"
         },
@@ -546,9 +546,9 @@ CONTESTS[2018]["1aFase"] = {
             "Victor Estrela"
           ],
           "Sex": [
-            "Female",
-            "Female",
-            "Male"
+            "FEMALE",
+            "FEMALE",
+            "MALE"
           ],
           "Coach": "Alexandre Ribeiro"
         },
@@ -563,9 +563,9 @@ CONTESTS[2018]["1aFase"] = {
             "Valdomiro Roberto"
           ],
           "Sex": [
-            "Female",
-            "Male",
-            "Male"
+            "FEMALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Alexandre Ribeiro"
         },
@@ -580,9 +580,9 @@ CONTESTS[2018]["1aFase"] = {
             "Ezequiel Rodrigues Da Silva"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Alexandre Ribeiro"
         }
@@ -599,9 +599,9 @@ CONTESTS[2018]["1aFase"] = {
             "Wander Henrick Aluizio De Souza"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Joilson Brito"
         },
@@ -616,9 +616,9 @@ CONTESTS[2018]["1aFase"] = {
             "Thiago De Sousa Mota"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Joilson Brito"
         },
@@ -633,9 +633,9 @@ CONTESTS[2018]["1aFase"] = {
             "Vinicius Correia Siqueira Silva"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Joilson Brito"
         },
@@ -650,9 +650,9 @@ CONTESTS[2018]["1aFase"] = {
             "Nassim Moussa"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Joilson Brito"
         },
@@ -667,9 +667,9 @@ CONTESTS[2018]["1aFase"] = {
             "João Vitor Felipe Dos Santos"
           ],
           "Sex": [
-            "Female",
-            "Male",
-            "Male"
+            "FEMALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Joilson Brito"
         },
@@ -684,9 +684,9 @@ CONTESTS[2018]["1aFase"] = {
             "Rafael De Amorim E Silva"
           ],
           "Sex": [
-            "Male",
-            "Female",
-            "Male"
+            "MALE",
+            "FEMALE",
+            "MALE"
           ],
           "Coach": "Joilson Brito"
         }
@@ -703,9 +703,9 @@ CONTESTS[2018]["1aFase"] = {
             "Lucas Ávila Oliveira"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Dayse De Almeida"
         }
@@ -724,9 +724,9 @@ CONTESTS[2018]["1aFase"] = {
             "Lucas Reis"
           ],
           "Sex": [
-            "Female",
-            "Male",
-            "Male"
+            "FEMALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Eloi Araujo"
         },
@@ -741,9 +741,9 @@ CONTESTS[2018]["1aFase"] = {
             "Matheus Oliveira"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Eloi Araujo"
         },
@@ -758,9 +758,9 @@ CONTESTS[2018]["1aFase"] = {
             "Luiz Henrique Santos"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Eloi Araujo"
         }
@@ -777,9 +777,9 @@ CONTESTS[2018]["1aFase"] = {
             "Matias Manoel Uchôa Do Amaral"
           ],
           "Sex": [
-            "Male",
-            "Female",
-            "Male"
+            "MALE",
+            "FEMALE",
+            "MALE"
           ],
           "Coach": "Pedro Siqueira"
         },
@@ -794,9 +794,9 @@ CONTESTS[2018]["1aFase"] = {
             "Carlos Pina"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Pedro Siqueira"
         },
@@ -811,9 +811,9 @@ CONTESTS[2018]["1aFase"] = {
             "Christian De Oliveira Silva"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Eduardo Hiroshi Nakamura"
         },
@@ -828,9 +828,9 @@ CONTESTS[2018]["1aFase"] = {
             "Alan Franzin De Oliveira"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Eduardo Hiroshi Nakamura"
         },
@@ -845,9 +845,9 @@ CONTESTS[2018]["1aFase"] = {
             "Rafael Moreira Simão"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Rogério Antoniassi"
         },
@@ -857,14 +857,14 @@ CONTESTS[2018]["1aFase"] = {
           "Site": "Tres Lagoas",
           "Short name": "Instituto Federal de",
           "Contestants": [
-            "Sara Mendonça",
             "Mateus Rezende",
-            "Paulo Teodoro"
+            "Paulo Teodoro",
+            "Sara Mendonça"
           ],
           "Sex": [
-            "Female",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "FEMALE"
           ],
           "Coach": "Rogério Antoniassi"
         },
@@ -879,9 +879,9 @@ CONTESTS[2018]["1aFase"] = {
             "Anderson Pereira Da Silva Filho"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Eduardo Hiroshi Nakamura"
         },
@@ -896,9 +896,9 @@ CONTESTS[2018]["1aFase"] = {
             "Caroline Bolandin Cardoso"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Female"
+            "MALE",
+            "MALE",
+            "FEMALE"
           ],
           "Coach": "Eduardo Hiroshi Nakamura"
         }
@@ -915,9 +915,9 @@ CONTESTS[2018]["1aFase"] = {
             "Cesar Augusto Lima Montorio Filho"
           ],
           "Sex": [
-            "Female",
-            "Male",
-            "Male"
+            "FEMALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Vilson Maziero"
         },
@@ -932,9 +932,9 @@ CONTESTS[2018]["1aFase"] = {
             "Gustavo Onishi"
           ],
           "Sex": [
-            "Female",
-            "Male",
-            "Male"
+            "FEMALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Bruno Vani"
         }
@@ -951,9 +951,9 @@ CONTESTS[2018]["1aFase"] = {
             "Matheus Souza"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Fábio Duarte De Oliveira"
         },
@@ -968,9 +968,9 @@ CONTESTS[2018]["1aFase"] = {
             "Cleiton Costa Da Silva"
           ],
           "Sex": [
-            "Female",
-            "Male",
-            "Male"
+            "FEMALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Fábio Duarte De Oliveira"
         },
@@ -980,14 +980,14 @@ CONTESTS[2018]["1aFase"] = {
           "Site": "Tres Lagoas",
           "Short name": "IFMS- NA",
           "Contestants": [
-            "Delvair Junior",
             "Carlos Henrique Camilo Da Fonseca",
-            "Tiago Oliveira Martins"
+            "Tiago Oliveira Martins",
+            "Delvair Junior"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Fábio Duarte De Oliveira"
         }
@@ -1004,9 +1004,9 @@ CONTESTS[2018]["1aFase"] = {
             "Rafael José Silvério"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Edvaldo Francisco Freitas Lima"
         }
@@ -1023,9 +1023,9 @@ CONTESTS[2018]["1aFase"] = {
             "Natália Santana Dos Santos"
           ],
           "Sex": [
-            "Female",
-            "Female",
-            "Female"
+            "FEMALE",
+            "FEMALE",
+            "FEMALE"
           ],
           "Coach": "Letícia De Godoy Enz"
         },
@@ -1040,9 +1040,9 @@ CONTESTS[2018]["1aFase"] = {
             "Simone De França Tonhao"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Female"
+            "MALE",
+            "MALE",
+            "FEMALE"
           ],
           "Coach": "Letícia De Godoy Enz"
         },
@@ -1057,9 +1057,9 @@ CONTESTS[2018]["1aFase"] = {
             "Andressa De Souza Silva"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Female"
+            "MALE",
+            "MALE",
+            "FEMALE"
           ],
           "Coach": "Letícia De Godoy Enz"
         }
@@ -1076,9 +1076,9 @@ CONTESTS[2018]["1aFase"] = {
             "Thays Resende Achucarro"
           ],
           "Sex": [
-            "Male",
-            "Female",
-            "Female"
+            "MALE",
+            "FEMALE",
+            "FEMALE"
           ],
           "Coach": "Rodrigo Sacchi"
         },
@@ -1093,9 +1093,9 @@ CONTESTS[2018]["1aFase"] = {
             "Matheus Viera Zarate"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Rodrigo Sacchi"
         },
@@ -1110,9 +1110,9 @@ CONTESTS[2018]["1aFase"] = {
             "João Marcos Oliveira Lima"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Rodrigo Sacchi"
         },
@@ -1127,9 +1127,9 @@ CONTESTS[2018]["1aFase"] = {
             "Eric Henrique Heller Lopes"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Rodrigo Sacchi"
         }
@@ -1150,9 +1150,9 @@ CONTESTS[2018]["1aFase"] = {
             "Lucas Souza"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Marcos Santos"
         },
@@ -1167,9 +1167,9 @@ CONTESTS[2018]["1aFase"] = {
             "Ricardo Ribeiro"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Marcos Santos"
         },
@@ -1184,9 +1184,9 @@ CONTESTS[2018]["1aFase"] = {
             "Lis Azevedo"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Female"
+            "MALE",
+            "MALE",
+            "FEMALE"
           ],
           "Coach": "Marcos Santos"
         }
@@ -1203,9 +1203,9 @@ CONTESTS[2018]["1aFase"] = {
             "Yasmin Oliveira"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Female"
+            "MALE",
+            "MALE",
+            "FEMALE"
           ],
           "Coach": "Caio Carvalho"
         }
@@ -1222,9 +1222,9 @@ CONTESTS[2018]["1aFase"] = {
             "Diego Almeida"
           ],
           "Sex": [
-            "Male",
-            "Female",
-            "Male"
+            "MALE",
+            "FEMALE",
+            "MALE"
           ],
           "Coach": "Lais Farias Alves"
         },
@@ -1239,9 +1239,9 @@ CONTESTS[2018]["1aFase"] = {
             "Iago Barbosa Martins"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Lais Farias Alves"
         },
@@ -1251,14 +1251,14 @@ CONTESTS[2018]["1aFase"] = {
           "Site": "Juazeiro",
           "Short name": "IFBA - Irecê",
           "Contestants": [
-            "Amanda Juchem",
             "Edson Lima",
-            "Jerry Santos Silva"
+            "Jerry Santos Silva",
+            "Amanda Juchem"
           ],
           "Sex": [
-            "Female",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "FEMALE"
           ],
           "Coach": "Lais Farias Alves"
         },
@@ -1273,9 +1273,9 @@ CONTESTS[2018]["1aFase"] = {
             "Danilo Miron"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Lais Farias Alves"
         },
@@ -1290,9 +1290,9 @@ CONTESTS[2018]["1aFase"] = {
             "Airton Sena Fernandes"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Lais Farias Alves"
         },
@@ -1307,9 +1307,9 @@ CONTESTS[2018]["1aFase"] = {
             "Lucas Carvalho Machado"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Lais Farias Alves"
         },
@@ -1324,9 +1324,9 @@ CONTESTS[2018]["1aFase"] = {
             "Beatriz Borges"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Female"
+            "MALE",
+            "MALE",
+            "FEMALE"
           ],
           "Coach": "Lais Farias Alves"
         },
@@ -1341,9 +1341,9 @@ CONTESTS[2018]["1aFase"] = {
             "Matheus Barboza"
           ],
           "Sex": [
-            "Male",
-            "Female",
-            "Male"
+            "MALE",
+            "FEMALE",
+            "MALE"
           ],
           "Coach": "Lais Farias Alves"
         }
@@ -1360,9 +1360,9 @@ CONTESTS[2018]["1aFase"] = {
             "João Pedro Nunes Vivas De Sousa"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Osvaldo Requião Melo"
         },
@@ -1377,9 +1377,9 @@ CONTESTS[2018]["1aFase"] = {
             "Guilherme Borges Gurgel"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Osvaldo Requião Melo"
         },
@@ -1394,9 +1394,9 @@ CONTESTS[2018]["1aFase"] = {
             "Bianca Brito Magalhães Santos"
           ],
           "Sex": [
-            "Female",
-            "Female",
-            "Female"
+            "FEMALE",
+            "FEMALE",
+            "FEMALE"
           ],
           "Coach": "Osvaldo Requião Melo"
         }
@@ -1413,9 +1413,9 @@ CONTESTS[2018]["1aFase"] = {
             "Paulo Camacan"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Cátia Khouri"
         },
@@ -1430,9 +1430,9 @@ CONTESTS[2018]["1aFase"] = {
             "Thiago Alves Viana"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Cátia Khouri"
         },
@@ -1447,9 +1447,9 @@ CONTESTS[2018]["1aFase"] = {
             "Gustavo Trindade"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Cátia Khouri"
         },
@@ -1464,9 +1464,9 @@ CONTESTS[2018]["1aFase"] = {
             "João Andreotti"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Cátia Khouri"
         }
@@ -1483,9 +1483,9 @@ CONTESTS[2018]["1aFase"] = {
             "Raul Gonçalves"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Naiara Santos"
         },
@@ -1500,9 +1500,9 @@ CONTESTS[2018]["1aFase"] = {
             "Natanias Santos Souza"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Naiara Santos"
         },
@@ -1517,9 +1517,9 @@ CONTESTS[2018]["1aFase"] = {
             "Guilherme Oliveira"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Naiara Santos"
         },
@@ -1534,9 +1534,9 @@ CONTESTS[2018]["1aFase"] = {
             "Vinícius Quirino"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Naiara Santos"
         },
@@ -1551,9 +1551,9 @@ CONTESTS[2018]["1aFase"] = {
             "André Andrade Santos"
           ],
           "Sex": [
-            "Female",
-            "Male",
-            "Male"
+            "FEMALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Naiara Santos"
         },
@@ -1568,9 +1568,9 @@ CONTESTS[2018]["1aFase"] = {
             "Wesley Costa"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Naiara Santos"
         },
@@ -1585,9 +1585,9 @@ CONTESTS[2018]["1aFase"] = {
             "Bruno Batista Santos"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Naiara Santos"
         },
@@ -1602,9 +1602,9 @@ CONTESTS[2018]["1aFase"] = {
             "Neylan Oliveira Dos Santos"
           ],
           "Sex": [
-            "Male",
-            "Female",
-            "Male"
+            "MALE",
+            "FEMALE",
+            "MALE"
           ],
           "Coach": "Naiara Santos"
         }
@@ -1621,9 +1621,9 @@ CONTESTS[2018]["1aFase"] = {
             "Douglas Rocha Figueredo Leite"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Mauricio Pamplona Segundo"
         },
@@ -1638,9 +1638,9 @@ CONTESTS[2018]["1aFase"] = {
             "Denilson Das Mercês Amorim"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Mauricio Pamplona Segundo"
         },
@@ -1655,9 +1655,9 @@ CONTESTS[2018]["1aFase"] = {
             "Rafael Correa Nagy"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Mauricio Pamplona Segundo"
         },
@@ -1672,9 +1672,9 @@ CONTESTS[2018]["1aFase"] = {
             "Antônio Francisco Dias Da Silva"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Mauricio Pamplona Segundo"
         },
@@ -1689,9 +1689,9 @@ CONTESTS[2018]["1aFase"] = {
             "Lucas Pires"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Mauricio Pamplona Segundo"
         },
@@ -1706,9 +1706,9 @@ CONTESTS[2018]["1aFase"] = {
             "Ubiratan Barbosa"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Mauricio Pamplona Segundo"
         }
@@ -1725,9 +1725,9 @@ CONTESTS[2018]["1aFase"] = {
             "Uendel Couto"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Marcelo Linder"
         },
@@ -1742,9 +1742,9 @@ CONTESTS[2018]["1aFase"] = {
             "Ezequias Antunes"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Marcelo Linder"
         },
@@ -1759,9 +1759,9 @@ CONTESTS[2018]["1aFase"] = {
             "Yann Loiola"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Marcelo Linder"
         },
@@ -1776,9 +1776,9 @@ CONTESTS[2018]["1aFase"] = {
             "Victor Balbino"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Marcelo Linder"
         }
@@ -1795,9 +1795,9 @@ CONTESTS[2018]["1aFase"] = {
             "José Correia"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Jorge Farias"
         },
@@ -1812,9 +1812,9 @@ CONTESTS[2018]["1aFase"] = {
             "Matheus Santos"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Jorge Farias"
         },
@@ -1829,9 +1829,9 @@ CONTESTS[2018]["1aFase"] = {
             "Fernando Junior"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Jorge Farias"
         }
@@ -1850,9 +1850,9 @@ CONTESTS[2018]["1aFase"] = {
             "Joao Passos"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "João Paulo"
         },
@@ -1867,9 +1867,9 @@ CONTESTS[2018]["1aFase"] = {
             "Davi Guimarães Leite"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "João Paulo"
         }
@@ -1886,9 +1886,9 @@ CONTESTS[2018]["1aFase"] = {
             "André Pereira Dos Santos Filho"
           ],
           "Sex": [
-            "Male",
-            "Female",
-            "Male"
+            "MALE",
+            "FEMALE",
+            "MALE"
           ],
           "Coach": "Jose Alday Pinheiro Alves"
         }
@@ -1905,9 +1905,9 @@ CONTESTS[2018]["1aFase"] = {
             "José Mateus Porfírio Neves"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Reudismam Rolim De Sousa"
         },
@@ -1922,9 +1922,9 @@ CONTESTS[2018]["1aFase"] = {
             "Taísso Reni De Souza Melo"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Reudismam Rolim De Sousa"
         },
@@ -1934,14 +1934,14 @@ CONTESTS[2018]["1aFase"] = {
           "Site": "Juazeiro do Norte",
           "Short name": "UFERSA",
           "Contestants": [
-            "Daniel Da Silva Alves",
             "Aramis Lins Barreto Neto",
+            "Daniel Da Silva Alves",
             "Hygor Italo Ferreira Terto"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Reudismam Rolim De Sousa"
         },
@@ -1956,9 +1956,9 @@ CONTESTS[2018]["1aFase"] = {
             "Zacarias Pereira De Souza Neto"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Reudismam Rolim De Sousa"
         }
@@ -1975,9 +1975,9 @@ CONTESTS[2018]["1aFase"] = {
             "Carlos Henrique Felipe"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Talles Brito"
         },
@@ -1992,9 +1992,9 @@ CONTESTS[2018]["1aFase"] = {
             "Francisco Lucas Do Nascimento"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Talles Brito"
         },
@@ -2009,9 +2009,9 @@ CONTESTS[2018]["1aFase"] = {
             "Matheus Soares De Lacerda"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Talles Brito"
         },
@@ -2026,9 +2026,9 @@ CONTESTS[2018]["1aFase"] = {
             "Junior Souza"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Talles Brito"
         }
@@ -2045,9 +2045,9 @@ CONTESTS[2018]["1aFase"] = {
             "Denilson Silva"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Thalyson Silva"
         },
@@ -2062,9 +2062,9 @@ CONTESTS[2018]["1aFase"] = {
             "João Ipolito"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Thalyson Silva"
         },
@@ -2079,9 +2079,9 @@ CONTESTS[2018]["1aFase"] = {
             "Arilson Ferreira"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Thalyson Silva"
         }
@@ -2098,9 +2098,9 @@ CONTESTS[2018]["1aFase"] = {
             "Paulo Silva"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Joel Uchoa"
         },
@@ -2115,9 +2115,9 @@ CONTESTS[2018]["1aFase"] = {
             "Vítor Chagas"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Joel Uchoa"
         },
@@ -2132,9 +2132,9 @@ CONTESTS[2018]["1aFase"] = {
             "Jeferson Gonçalves De Freitas"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Joel Uchoa"
         },
@@ -2149,9 +2149,9 @@ CONTESTS[2018]["1aFase"] = {
             "Alyson Silva"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Joel Uchoa"
         },
@@ -2166,9 +2166,9 @@ CONTESTS[2018]["1aFase"] = {
             "Micaias Silva"
           ],
           "Sex": [
-            "Male",
-            "Female",
-            "Male"
+            "MALE",
+            "FEMALE",
+            "MALE"
           ],
           "Coach": "Joel Uchoa"
         }
@@ -2185,9 +2185,9 @@ CONTESTS[2018]["1aFase"] = {
             "Paulo Roberto Lopes"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Nicolas Martins"
         },
@@ -2202,9 +2202,9 @@ CONTESTS[2018]["1aFase"] = {
             "Natan Barros"
           ],
           "Sex": [
-            "Female",
-            "Male",
-            "Male"
+            "FEMALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Nicolas Martins"
         },
@@ -2219,9 +2219,9 @@ CONTESTS[2018]["1aFase"] = {
             "Eugênio Carvalho"
           ],
           "Sex": [
-            "Male",
-            "Female",
-            "Male"
+            "MALE",
+            "FEMALE",
+            "MALE"
           ],
           "Coach": "Nicolas Martins"
         }
@@ -2238,9 +2238,9 @@ CONTESTS[2018]["1aFase"] = {
             "Silvio Britto"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Rafael Gomes"
         },
@@ -2250,14 +2250,14 @@ CONTESTS[2018]["1aFase"] = {
           "Site": "Fortaleza",
           "Short name": "UECE",
           "Contestants": [
-            "Xênia Beatriz Rodrigues Marques",
             "José Gabriel Holanda",
-            "Ilwel Isaac Campos Brafa"
+            "Ilwel Isaac Campos Brafa",
+            "Xênia Beatriz Rodrigues Marques"
           ],
           "Sex": [
-            "Female",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "FEMALE"
           ],
           "Coach": "Rafael Gomes"
         },
@@ -2272,9 +2272,9 @@ CONTESTS[2018]["1aFase"] = {
             "Pedro Henrique Oliveira Sousa"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Rafael Gomes"
         },
@@ -2289,9 +2289,9 @@ CONTESTS[2018]["1aFase"] = {
             "Lamartine Cabral De Oliveira Neto"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Rafael Gomes"
         }
@@ -2308,9 +2308,9 @@ CONTESTS[2018]["1aFase"] = {
             "Otacílio Bezerra Leite Neto"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Pablo Mayckon Silva Farias"
         }
@@ -2327,9 +2327,9 @@ CONTESTS[2018]["1aFase"] = {
             "Marcus Vinicius Martins Melo"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Roberto Cabral"
         }
@@ -2346,9 +2346,9 @@ CONTESTS[2018]["1aFase"] = {
             "Enoque Neto"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Wladimir Araújo Tavares"
         },
@@ -2363,9 +2363,9 @@ CONTESTS[2018]["1aFase"] = {
             "Paulo Miranda E Silva Sousa"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Wladimir Araújo Tavares"
         },
@@ -2380,9 +2380,9 @@ CONTESTS[2018]["1aFase"] = {
             "Vinicius Teixeira De Melo"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Wladimir Araújo Tavares"
         },
@@ -2397,9 +2397,9 @@ CONTESTS[2018]["1aFase"] = {
             "Ana Victoria Araújo Maia"
           ],
           "Sex": [
-            "Female",
-            "Female",
-            "Female"
+            "FEMALE",
+            "FEMALE",
+            "FEMALE"
           ],
           "Coach": "Wladimir Araújo Tavares"
         },
@@ -2414,9 +2414,9 @@ CONTESTS[2018]["1aFase"] = {
             "Gustavo Ivens Oliveira Silva"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Wladimir Araújo Tavares"
         }
@@ -2428,14 +2428,14 @@ CONTESTS[2018]["1aFase"] = {
           "Site": "Juazeiro do Norte",
           "Short name": "UFC",
           "Contestants": [
-            "Carlos Victor Araujo",
             "Khennedy Santos",
-            "Cicero Marcelo Oliveira Mendes"
+            "Cicero Marcelo Oliveira Mendes",
+            "Carlos Victor Araujo"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Alexandre Arruda"
         },
@@ -2450,9 +2450,9 @@ CONTESTS[2018]["1aFase"] = {
             "Fernanda Costa"
           ],
           "Sex": [
-            "Female",
-            "Male",
-            "Female"
+            "FEMALE",
+            "MALE",
+            "FEMALE"
           ],
           "Coach": "Alexandre Arruda"
         },
@@ -2467,9 +2467,9 @@ CONTESTS[2018]["1aFase"] = {
             "Daniel Nogueira Rebouças"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Pablo Luiz Braga Soares"
         },
@@ -2484,9 +2484,9 @@ CONTESTS[2018]["1aFase"] = {
             "Guilherme Nepomuceno"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Alexandre Arruda"
         },
@@ -2496,14 +2496,14 @@ CONTESTS[2018]["1aFase"] = {
           "Site": "Juazeiro do Norte",
           "Short name": "UFC",
           "Contestants": [
+            "Cleiton Monteiro",
             "Herverson Sousa",
-            "João Victor Vilela De Mendonça",
-            "Cleiton Monteiro"
+            "João Victor Vilela De Mendonça"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Pablo Luiz Braga Soares"
         },
@@ -2518,9 +2518,9 @@ CONTESTS[2018]["1aFase"] = {
             "Igor Nardênio"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Pablo Luiz Braga Soares"
         }
@@ -2539,9 +2539,9 @@ CONTESTS[2018]["1aFase"] = {
             "Marcos Fellipe Watanabe De Araujo Carneiro"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Bruno Ramon De Almeida E Silva"
         },
@@ -2556,9 +2556,9 @@ CONTESTS[2018]["1aFase"] = {
             "Janilso Rodrigues Alves"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Bruno Ramon De Almeida E Silva"
         },
@@ -2573,9 +2573,9 @@ CONTESTS[2018]["1aFase"] = {
             "Rodrigo Barbosa Benício"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Bruno Ramon De Almeida E Silva"
         },
@@ -2590,9 +2590,9 @@ CONTESTS[2018]["1aFase"] = {
             "Jean Lucas Ferreira De Sousa"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Bruno Ramon De Almeida E Silva"
         }
@@ -2609,9 +2609,9 @@ CONTESTS[2018]["1aFase"] = {
             "Marcos Valério Costa De Carvalho"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Allan Cruz"
         },
@@ -2626,9 +2626,9 @@ CONTESTS[2018]["1aFase"] = {
             "Robson Dos Santos Morais"
           ],
           "Sex": [
-            "Male",
-            "Female",
-            "Male"
+            "MALE",
+            "FEMALE",
+            "MALE"
           ],
           "Coach": "Allan Cruz"
         },
@@ -2643,9 +2643,9 @@ CONTESTS[2018]["1aFase"] = {
             "Hugo Leonardo Viana De Carvalho Franco"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Allan Cruz"
         }
@@ -2662,9 +2662,9 @@ CONTESTS[2018]["1aFase"] = {
             "Luís Neto"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Carlos Soares Neto"
         },
@@ -2679,9 +2679,9 @@ CONTESTS[2018]["1aFase"] = {
             "Lucas Cléopas Costa Da Silva"
           ],
           "Sex": [
-            "Female",
-            "Male",
-            "Male"
+            "FEMALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Carlos Soares Neto"
         },
@@ -2696,9 +2696,9 @@ CONTESTS[2018]["1aFase"] = {
             "Paulo Gomes"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Carlos Soares Neto"
         }
@@ -2717,9 +2717,9 @@ CONTESTS[2018]["1aFase"] = {
             "Alexandre Matheus Dantas Dos Santos"
           ],
           "Sex": [
-            "Male",
-            "Female",
-            "Male"
+            "MALE",
+            "FEMALE",
+            "MALE"
           ],
           "Coach": "Thyago Maia Tavares De Farias"
         }
@@ -2736,9 +2736,9 @@ CONTESTS[2018]["1aFase"] = {
             "Claudiano Sampaio"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Jemerson Damasio"
         },
@@ -2753,9 +2753,9 @@ CONTESTS[2018]["1aFase"] = {
             "James Marcos Veloso Neto"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Jemerson Damasio"
         },
@@ -2770,9 +2770,9 @@ CONTESTS[2018]["1aFase"] = {
             "Lucas Tiago Cavalcante Silva"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Jemerson Damasio"
         }
@@ -2789,9 +2789,9 @@ CONTESTS[2018]["1aFase"] = {
             "Daniel Oliveira"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Luis Filipe Alves Pereira"
         }
@@ -2808,9 +2808,9 @@ CONTESTS[2018]["1aFase"] = {
             "Eduardo Mendes Loureiro"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Paulo Ditarso Maciel Júnior"
         },
@@ -2825,9 +2825,9 @@ CONTESTS[2018]["1aFase"] = {
             "Calebe Oliveira De Figueirêdo"
           ],
           "Sex": [
-            "Male",
-            "Female",
-            "Male"
+            "MALE",
+            "FEMALE",
+            "MALE"
           ],
           "Coach": "Valéria Cavalcanti"
         },
@@ -2842,9 +2842,9 @@ CONTESTS[2018]["1aFase"] = {
             "Kerven Albuquerque"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Thiago Gouveia Da Silva"
         },
@@ -2859,9 +2859,9 @@ CONTESTS[2018]["1aFase"] = {
             "Francisco Ícaro Cipriano Silva"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Luiz Chaves"
         }
@@ -2878,9 +2878,9 @@ CONTESTS[2018]["1aFase"] = {
             "Adson De Macedo Nascimento"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Sabrina De Figueiredo Souto"
         },
@@ -2895,9 +2895,9 @@ CONTESTS[2018]["1aFase"] = {
             "Pedro Henrique De Farias Costa"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Sabrina De Figueiredo Souto"
         },
@@ -2912,9 +2912,9 @@ CONTESTS[2018]["1aFase"] = {
             "João Emanuel Da Silva Lins"
           ],
           "Sex": [
-            "Male",
-            "Female",
-            "Male"
+            "MALE",
+            "FEMALE",
+            "MALE"
           ],
           "Coach": "Sabrina De Figueiredo Souto"
         }
@@ -2931,9 +2931,9 @@ CONTESTS[2018]["1aFase"] = {
             "Douglas Cardins"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Wagner Emanoel Costa"
         },
@@ -2948,9 +2948,9 @@ CONTESTS[2018]["1aFase"] = {
             "Danilo Soares De Carvalho"
           ],
           "Sex": [
-            "Male",
-            "Female",
-            "Male"
+            "MALE",
+            "FEMALE",
+            "MALE"
           ],
           "Coach": "Wagner Emanoel Costa"
         }
@@ -2967,9 +2967,9 @@ CONTESTS[2018]["1aFase"] = {
             "Thiago Yuri Evaristo De Souza"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Rohit Gheyi"
         },
@@ -2984,9 +2984,9 @@ CONTESTS[2018]["1aFase"] = {
             "Gustavo Vilar De Farias"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Rohit Gheyi"
         },
@@ -3001,9 +3001,9 @@ CONTESTS[2018]["1aFase"] = {
             "Gabriel Felipe Cardoso Gomes"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Rohit Gheyi"
         },
@@ -3018,9 +3018,9 @@ CONTESTS[2018]["1aFase"] = {
             "Emerson Leonardo Lucena"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Rohit Gheyi"
         },
@@ -3035,9 +3035,9 @@ CONTESTS[2018]["1aFase"] = {
             "José Amândio Ferreira Dos Santos"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Rohit Gheyi"
         }
@@ -3056,9 +3056,9 @@ CONTESTS[2018]["1aFase"] = {
             "Elson Da Silva Felix Junior"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Amirton Chagas"
         },
@@ -3073,9 +3073,9 @@ CONTESTS[2018]["1aFase"] = {
             "Fabio Souza"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Amirton Chagas"
         }
@@ -3092,9 +3092,9 @@ CONTESTS[2018]["1aFase"] = {
             "Wenderson Leonardo"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Rodrigo Soares"
         },
@@ -3109,9 +3109,9 @@ CONTESTS[2018]["1aFase"] = {
             "Leonardo Alcântara"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Rodrigo Soares"
         },
@@ -3126,9 +3126,9 @@ CONTESTS[2018]["1aFase"] = {
             "Matheus Demiro"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Rodrigo Soares"
         },
@@ -3143,9 +3143,9 @@ CONTESTS[2018]["1aFase"] = {
             "Jonathas Silva"
           ],
           "Sex": [
-            "Female",
-            "Male",
-            "Male"
+            "FEMALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Rodrigo Soares"
         },
@@ -3160,9 +3160,9 @@ CONTESTS[2018]["1aFase"] = {
             "Antonio Neto"
           ],
           "Sex": [
-            "Female",
-            "Male",
-            "Male"
+            "FEMALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Rodrigo Soares"
         }
@@ -3179,9 +3179,9 @@ CONTESTS[2018]["1aFase"] = {
             "Rodrigo Carneiro"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Nivan Ferreira"
         },
@@ -3196,9 +3196,9 @@ CONTESTS[2018]["1aFase"] = {
             "José Victor Silva Cruz"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Nivan Ferreira"
         },
@@ -3213,9 +3213,9 @@ CONTESTS[2018]["1aFase"] = {
             "Clodes Silva"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Nivan Ferreira"
         },
@@ -3230,9 +3230,9 @@ CONTESTS[2018]["1aFase"] = {
             "Diogo Rodrigues"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Nivan Ferreira"
         }
@@ -3251,9 +3251,9 @@ CONTESTS[2018]["1aFase"] = {
             "Igor Renan Sousa Castro"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Carleandro Nolêto"
         }
@@ -3270,9 +3270,9 @@ CONTESTS[2018]["1aFase"] = {
             "Rodrigo Souza"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Rogério Silva"
         },
@@ -3287,9 +3287,9 @@ CONTESTS[2018]["1aFase"] = {
             "Gustavo Nogueira"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Jurandir Lacerda Junior"
         },
@@ -3304,9 +3304,9 @@ CONTESTS[2018]["1aFase"] = {
             "Isaias Santana"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Rogério Silva"
         },
@@ -3321,9 +3321,9 @@ CONTESTS[2018]["1aFase"] = {
             "Felipe Gabriel"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Rogério Silva"
         },
@@ -3338,9 +3338,9 @@ CONTESTS[2018]["1aFase"] = {
             "Fabiano Santana"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Rogério Silva"
         }
@@ -3357,9 +3357,9 @@ CONTESTS[2018]["1aFase"] = {
             "Rafhael Silva"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Jesiel Silva"
         },
@@ -3374,9 +3374,9 @@ CONTESTS[2018]["1aFase"] = {
             "Ulisses Gomes Lima"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Jesiel Silva"
         }
@@ -3393,9 +3393,9 @@ CONTESTS[2018]["1aFase"] = {
             "Gustavo Rodrigues Wanderley"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Aratã Saraiva"
         },
@@ -3410,9 +3410,9 @@ CONTESTS[2018]["1aFase"] = {
             "Jhon Wilker Sousa"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Marvin Lemos"
         },
@@ -3427,9 +3427,9 @@ CONTESTS[2018]["1aFase"] = {
             "Francisco Das Chagas Fontenele Marques Junior"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Aratã Saraiva"
         },
@@ -3444,9 +3444,9 @@ CONTESTS[2018]["1aFase"] = {
             "Diogo Brandão"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Marvin Lemos"
         },
@@ -3461,9 +3461,9 @@ CONTESTS[2018]["1aFase"] = {
             "Willy Silva"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Marvin Lemos"
         },
@@ -3478,9 +3478,9 @@ CONTESTS[2018]["1aFase"] = {
             "João Vinicius Rodrigues De Sousa"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Aratã Saraiva"
         }
@@ -3497,9 +3497,9 @@ CONTESTS[2018]["1aFase"] = {
             "George Mariano Morais Lima"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Eyder Rios"
         },
@@ -3514,9 +3514,9 @@ CONTESTS[2018]["1aFase"] = {
             "Odilon Neto"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Rodrigo Baluz"
         },
@@ -3531,14 +3531,14 @@ CONTESTS[2018]["1aFase"] = {
             "Athyrson Ribeiro"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Eyder Rios"
         }
       },
-      "Universidade Federal do Piauí": {
+      "Universidade Federal do Piauí ": {
         "Imaturos": {
           "Rank": 558,
           "SiteRank": 10,
@@ -3550,9 +3550,9 @@ CONTESTS[2018]["1aFase"] = {
             "Gabriel Sousa"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Rosianni Cruz"
         },
@@ -3567,9 +3567,9 @@ CONTESTS[2018]["1aFase"] = {
             "João Pedro Patrocínio"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Rosianni Cruz"
         },
@@ -3584,9 +3584,9 @@ CONTESTS[2018]["1aFase"] = {
             "Felipe Barros Caminha"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Rosianni Cruz"
         }
@@ -3603,9 +3603,9 @@ CONTESTS[2018]["1aFase"] = {
             "Jederilson Sousa Luz"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Alcilene Dalília De Sousa"
         },
@@ -3620,9 +3620,9 @@ CONTESTS[2018]["1aFase"] = {
             "Athirson Rodrigues Da Silva Moura"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Alcilene Dalília De Sousa"
         },
@@ -3637,9 +3637,9 @@ CONTESTS[2018]["1aFase"] = {
             "Kamargo Leal"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Alcilene Dalília De Sousa"
         },
@@ -3654,9 +3654,9 @@ CONTESTS[2018]["1aFase"] = {
             "Vitória De Carvalho Brito"
           ],
           "Sex": [
-            "Male",
-            "Female",
-            "Female"
+            "MALE",
+            "FEMALE",
+            "FEMALE"
           ],
           "Coach": "Alcilene Dalília De Sousa"
         },
@@ -3671,9 +3671,9 @@ CONTESTS[2018]["1aFase"] = {
             "Adriano Oliveira Leal Rocha"
           ],
           "Sex": [
-            "Male",
-            "Female",
-            "Male"
+            "MALE",
+            "FEMALE",
+            "MALE"
           ],
           "Coach": "Alcilene Dalília De Sousa"
         }
@@ -3692,9 +3692,9 @@ CONTESTS[2018]["1aFase"] = {
             "Alexandre Jales"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Leiva Casemiro Oliveira"
         }
@@ -3711,9 +3711,9 @@ CONTESTS[2018]["1aFase"] = {
             "Paulo Jeferson Da Costa Gomes"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Jorgiano Vidal"
         },
@@ -3728,9 +3728,9 @@ CONTESTS[2018]["1aFase"] = {
             "Judson Silva"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Jorgiano Vidal"
         },
@@ -3745,9 +3745,9 @@ CONTESTS[2018]["1aFase"] = {
             "David Héricles"
           ],
           "Sex": [
-            "Female",
-            "Male",
-            "Male"
+            "FEMALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Jorgiano Vidal"
         },
@@ -3762,9 +3762,9 @@ CONTESTS[2018]["1aFase"] = {
             "Daniel Souza"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Jorgiano Vidal"
         },
@@ -3779,9 +3779,9 @@ CONTESTS[2018]["1aFase"] = {
             "Leonardo Marques De Oliveira"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Jorgiano Vidal"
         },
@@ -3796,9 +3796,9 @@ CONTESTS[2018]["1aFase"] = {
             "Luca Gouveia"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Jorgiano Vidal"
         },
@@ -3813,9 +3813,9 @@ CONTESTS[2018]["1aFase"] = {
             "Victor Augusto"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Jorgiano Vidal"
         },
@@ -3830,9 +3830,9 @@ CONTESTS[2018]["1aFase"] = {
             "Wemerson Dos Santos"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Jorgiano Vidal"
         }
@@ -3849,9 +3849,9 @@ CONTESTS[2018]["1aFase"] = {
             "Lukas Pol"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Valério Medeiros Jr"
         }
@@ -3868,9 +3868,9 @@ CONTESTS[2018]["1aFase"] = {
             "Rayan Avelino"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Rafael Beserra Gomes"
         },
@@ -3885,9 +3885,9 @@ CONTESTS[2018]["1aFase"] = {
             "André Skeete"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Victor Lima"
         },
@@ -3902,9 +3902,9 @@ CONTESTS[2018]["1aFase"] = {
             "Leonardo Cavalcante"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Sérgio Medeiros"
         },
@@ -3919,9 +3919,9 @@ CONTESTS[2018]["1aFase"] = {
             "Joanderson Borges"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Carlos Augusto Prolo"
         },
@@ -3936,9 +3936,9 @@ CONTESTS[2018]["1aFase"] = {
             "João Pedro Holanda"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Victor Lima"
         }
@@ -3955,9 +3955,9 @@ CONTESTS[2018]["1aFase"] = {
             "William Morais"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Bruno Cruz De Oliveira"
         }
@@ -3976,9 +3976,9 @@ CONTESTS[2018]["1aFase"] = {
             "Nelson Gomes Neto"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Rodrigo Paes"
         },
@@ -3993,9 +3993,9 @@ CONTESTS[2018]["1aFase"] = {
             "Alfredo Lima"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Rodrigo Paes"
         }
@@ -4012,9 +4012,9 @@ CONTESTS[2018]["1aFase"] = {
             "Francisco Neto"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Elthon Oliveira"
         }
@@ -4031,9 +4031,9 @@ CONTESTS[2018]["1aFase"] = {
             "Lucas Pereira"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Andre Britto"
         },
@@ -4048,9 +4048,9 @@ CONTESTS[2018]["1aFase"] = {
             "Raul Andrade"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Andre Britto"
         },
@@ -4065,9 +4065,9 @@ CONTESTS[2018]["1aFase"] = {
             "Valter Guilherme Silva De Souza"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Andre Britto"
         },
@@ -4082,9 +4082,9 @@ CONTESTS[2018]["1aFase"] = {
             "João Vitor Viana"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Andre Britto"
         },
@@ -4099,9 +4099,9 @@ CONTESTS[2018]["1aFase"] = {
             "Marina Vivas Andrade Reis"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Female"
+            "MALE",
+            "MALE",
+            "FEMALE"
           ],
           "Coach": "Andre Britto"
         },
@@ -4116,9 +4116,9 @@ CONTESTS[2018]["1aFase"] = {
             "João Neto"
           ],
           "Sex": [
-            "Female",
-            "Male",
-            "Male"
+            "FEMALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Andre Britto"
         },
@@ -4133,9 +4133,9 @@ CONTESTS[2018]["1aFase"] = {
             "Leandro Souza"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Andre Britto"
         },
@@ -4150,9 +4150,9 @@ CONTESTS[2018]["1aFase"] = {
             "Lucas Lopes De Souza"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Andre Britto"
         }
@@ -4168,14 +4168,14 @@ CONTESTS[2018]["1aFase"] = {
           "Site": "Rio Branco",
           "Short name": "FAB",
           "Contestants": [
-            "Anderson Nakamura",
+            "Gabriel Maciel",
             "Aluciney De Souza",
-            "Gabriel Maciel"
+            "Anderson Nakamura"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Vander Nicacio"
         }
@@ -4192,9 +4192,9 @@ CONTESTS[2018]["1aFase"] = {
             "Jonathas Ferreira"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Victor Vieira"
         },
@@ -4209,9 +4209,9 @@ CONTESTS[2018]["1aFase"] = {
             "Anderson Ferreira"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Victor Vieira"
         }
@@ -4228,9 +4228,9 @@ CONTESTS[2018]["1aFase"] = {
             "Michele De Oliveira Ascoli"
           ],
           "Sex": [
-            "Female",
-            "Female",
-            "Female"
+            "FEMALE",
+            "FEMALE",
+            "FEMALE"
           ],
           "Coach": "Manoel Limeira"
         },
@@ -4245,9 +4245,9 @@ CONTESTS[2018]["1aFase"] = {
             "Érick Fernandes"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Manoel Limeira"
         },
@@ -4262,9 +4262,9 @@ CONTESTS[2018]["1aFase"] = {
             "Antonio Fábio"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Manoel Limeira"
         },
@@ -4279,9 +4279,9 @@ CONTESTS[2018]["1aFase"] = {
             "Mickael Labres"
           ],
           "Sex": [
-            "Female",
-            "Male",
-            "Male"
+            "FEMALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Manoel Limeira"
         },
@@ -4296,9 +4296,9 @@ CONTESTS[2018]["1aFase"] = {
             "Denis Paiva"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Manoel Limeira"
         },
@@ -4313,9 +4313,9 @@ CONTESTS[2018]["1aFase"] = {
             "Italo Oliveira"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Manoel Limeira"
         },
@@ -4330,9 +4330,9 @@ CONTESTS[2018]["1aFase"] = {
             "Cleyciane Farias De Lima"
           ],
           "Sex": [
-            "Female",
-            "Female",
-            "Female"
+            "FEMALE",
+            "FEMALE",
+            "FEMALE"
           ],
           "Coach": "Manoel Limeira"
         }
@@ -4351,9 +4351,9 @@ CONTESTS[2018]["1aFase"] = {
             "Victor Meireles Roque"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Rafael Giusti"
         },
@@ -4368,9 +4368,9 @@ CONTESTS[2018]["1aFase"] = {
             "Rodrigo Queiroz"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Rosiane De Freitas Rodrigues"
         },
@@ -4385,9 +4385,9 @@ CONTESTS[2018]["1aFase"] = {
             "Ruan Gato"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Rafael Giusti"
         },
@@ -4402,9 +4402,9 @@ CONTESTS[2018]["1aFase"] = {
             "Timóteo Santos"
           ],
           "Sex": [
-            "Female",
-            "Male",
-            "Male"
+            "FEMALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Rosiane De Freitas Rodrigues"
         },
@@ -4419,9 +4419,9 @@ CONTESTS[2018]["1aFase"] = {
             "Lucas Castro De Souza"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Rosiane De Freitas Rodrigues"
         }
@@ -4438,9 +4438,9 @@ CONTESTS[2018]["1aFase"] = {
             "Ronison Melo"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Sergio Cleger Tamayo"
         },
@@ -4455,9 +4455,9 @@ CONTESTS[2018]["1aFase"] = {
             "Mayara Ferreira De Oliveira"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Female"
+            "MALE",
+            "MALE",
+            "FEMALE"
           ],
           "Coach": "Sergio Cleger Tamayo"
         },
@@ -4472,9 +4472,9 @@ CONTESTS[2018]["1aFase"] = {
             "Mateus Nogueira De Oliveira"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Sergio Cleger Tamayo"
         }
@@ -4491,9 +4491,9 @@ CONTESTS[2018]["1aFase"] = {
             "Iranildo Santos Batalha"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Marcela Pessoa"
         },
@@ -4503,14 +4503,14 @@ CONTESTS[2018]["1aFase"] = {
           "Site": "Manaus",
           "Short name": "UEA",
           "Contestants": [
-            "Kelly Larissa Souza De Lucena",
             "Hiago Oliveira De Jesus",
-            "Roberto Bevilaqua De Carvalho"
+            "Roberto Bevilaqua De Carvalho",
+            "Kelly Larissa Souza De Lucena"
           ],
           "Sex": [
-            "Female",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "FEMALE"
           ],
           "Coach": "Marcela Pessoa"
         },
@@ -4525,9 +4525,9 @@ CONTESTS[2018]["1aFase"] = {
             "Isaque Vilson Batista Da Costa"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Marcela Pessoa"
         },
@@ -4542,9 +4542,9 @@ CONTESTS[2018]["1aFase"] = {
             "Letícia Martins Vieira"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Female"
+            "MALE",
+            "MALE",
+            "FEMALE"
           ],
           "Coach": "Marcela Pessoa"
         },
@@ -4559,9 +4559,9 @@ CONTESTS[2018]["1aFase"] = {
             "Leticia Magalhães Mendes"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Female"
+            "MALE",
+            "MALE",
+            "FEMALE"
           ],
           "Coach": "Marcela Pessoa"
         },
@@ -4576,9 +4576,9 @@ CONTESTS[2018]["1aFase"] = {
             "William Silva"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Sergio Cleger Tamayo"
         }
@@ -4597,9 +4597,9 @@ CONTESTS[2018]["1aFase"] = {
             "Rafael Sousa"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Arikleyton Ferreira"
         },
@@ -4614,9 +4614,9 @@ CONTESTS[2018]["1aFase"] = {
             "Enerson Macedo Da Silva"
           ],
           "Sex": [
-            "Female",
-            "Male",
-            "Male"
+            "FEMALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Arikleyton Ferreira"
         }
@@ -4633,9 +4633,9 @@ CONTESTS[2018]["1aFase"] = {
             "Augusto Junior"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Flavia Monteiro"
         }
@@ -4652,9 +4652,9 @@ CONTESTS[2018]["1aFase"] = {
             "Carlos Neto"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Euripedes Santos"
         },
@@ -4669,9 +4669,9 @@ CONTESTS[2018]["1aFase"] = {
             "Renato Mota"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Euripedes Santos"
         },
@@ -4686,9 +4686,9 @@ CONTESTS[2018]["1aFase"] = {
             "Felipe Cardoso"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Euripedes Santos"
         },
@@ -4703,9 +4703,9 @@ CONTESTS[2018]["1aFase"] = {
             "Tarik Costa"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Euripedes Santos"
         },
@@ -4720,9 +4720,9 @@ CONTESTS[2018]["1aFase"] = {
             "Lennon Roberto Almeida Ribeiro"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Euripedes Santos"
         },
@@ -4737,9 +4737,9 @@ CONTESTS[2018]["1aFase"] = {
             "Kaled Penante Nascimento Maciel"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Euripedes Santos"
         },
@@ -4754,9 +4754,9 @@ CONTESTS[2018]["1aFase"] = {
             "Renan Miranda"
           ],
           "Sex": [
-            "Female",
-            "Female",
-            "Male"
+            "FEMALE",
+            "FEMALE",
+            "MALE"
           ],
           "Coach": "José Jailton Ferreira Junior"
         }
@@ -4773,9 +4773,9 @@ CONTESTS[2018]["1aFase"] = {
             "Lucas Rodrigues Miranda"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Alan Marcel Souza"
         },
@@ -4790,9 +4790,9 @@ CONTESTS[2018]["1aFase"] = {
             "Paulo Henrique Gouvea Arthur"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Alan Marcel Souza"
         },
@@ -4807,9 +4807,9 @@ CONTESTS[2018]["1aFase"] = {
             "Guilherme Lopes Tanimoto"
           ],
           "Sex": [
-            "Female",
-            "Male",
-            "Male"
+            "FEMALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Alan Marcel Souza"
         }
@@ -4828,9 +4828,9 @@ CONTESTS[2018]["1aFase"] = {
             "Henrico Mazzonetto Menezes"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Liliane Jacon"
         },
@@ -4845,9 +4845,9 @@ CONTESTS[2018]["1aFase"] = {
             "Janneene Guimarães"
           ],
           "Sex": [
-            "Female",
-            "Female",
-            "Female"
+            "FEMALE",
+            "FEMALE",
+            "FEMALE"
           ],
           "Coach": "Liliane Jacon"
         },
@@ -4862,9 +4862,9 @@ CONTESTS[2018]["1aFase"] = {
             "Esio Rodrigues Da Silva Nascimento"
           ],
           "Sex": [
-            "Female",
-            "Male",
-            "Male"
+            "FEMALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Liliane Jacon"
         },
@@ -4879,9 +4879,9 @@ CONTESTS[2018]["1aFase"] = {
             "Márcus Vinícius Lobo Costa"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Liliane Jacon"
         }
@@ -4900,9 +4900,9 @@ CONTESTS[2018]["1aFase"] = {
             "Jardiano Almeida"
           ],
           "Sex": [
-            "Female",
-            "Male",
-            "Male"
+            "FEMALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Jonas Mendonça"
         },
@@ -4917,9 +4917,9 @@ CONTESTS[2018]["1aFase"] = {
             "Wellington Souza"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Jonas Mendonça"
         }
@@ -4936,9 +4936,9 @@ CONTESTS[2018]["1aFase"] = {
             "Fabio Vitor De Oliveira Noronha"
           ],
           "Sex": [
-            "Female",
-            "Male",
-            "Male"
+            "FEMALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Acauan Ribeiro"
         },
@@ -4953,9 +4953,9 @@ CONTESTS[2018]["1aFase"] = {
             "Miller Raycell Monteiro Correia"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Acauan Ribeiro"
         },
@@ -4970,9 +4970,9 @@ CONTESTS[2018]["1aFase"] = {
             "Victor Barbosa Rocha"
           ],
           "Sex": [
-            "Male",
-            "Female",
-            "Male"
+            "MALE",
+            "FEMALE",
+            "MALE"
           ],
           "Coach": "Acauan Ribeiro"
         }
@@ -4991,9 +4991,9 @@ CONTESTS[2018]["1aFase"] = {
             "Getulio Dos Santos Araujo"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Tiago Almeida"
         },
@@ -5008,9 +5008,9 @@ CONTESTS[2018]["1aFase"] = {
             "Mateus Da Silva Rosario"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Wosley Arruda"
         },
@@ -5025,9 +5025,9 @@ CONTESTS[2018]["1aFase"] = {
             "Victor Saraiva"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Tiago Almeida"
         },
@@ -5042,9 +5042,9 @@ CONTESTS[2018]["1aFase"] = {
             "Klesley Gonçalves"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Warley Gramacho Da Silva"
         },
@@ -5059,9 +5059,9 @@ CONTESTS[2018]["1aFase"] = {
             "Cícero Matheus Da Silva Lacerda"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Warley Gramacho Da Silva"
         },
@@ -5076,9 +5076,9 @@ CONTESTS[2018]["1aFase"] = {
             "Davi Ribeiro Dos Santos"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Felipe Barbosa"
         },
@@ -5093,9 +5093,9 @@ CONTESTS[2018]["1aFase"] = {
             "Vinicius Cainã Félix Barros"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Wosley Arruda"
         },
@@ -5110,9 +5110,9 @@ CONTESTS[2018]["1aFase"] = {
             "Paulo Júnior"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Felipe Barbosa"
         }
@@ -5133,9 +5133,9 @@ CONTESTS[2018]["1aFase"] = {
             "Lucas Campos Vieira"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Luciana Lee"
         },
@@ -5150,9 +5150,9 @@ CONTESTS[2018]["1aFase"] = {
             "Wellerson Prenholato De Jesus"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Luciana Lee"
         },
@@ -5167,9 +5167,9 @@ CONTESTS[2018]["1aFase"] = {
             "Guilherme Gonçalves Dos Santos"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Luciana Lee"
         }
@@ -5186,9 +5186,9 @@ CONTESTS[2018]["1aFase"] = {
             "Caicke Pinheiro"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Flavio Lamas"
         },
@@ -5203,9 +5203,9 @@ CONTESTS[2018]["1aFase"] = {
             "Douglas Sousa"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Flavio Lamas"
         },
@@ -5220,9 +5220,9 @@ CONTESTS[2018]["1aFase"] = {
             "Juliana Yuri Souza"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Female"
+            "MALE",
+            "MALE",
+            "FEMALE"
           ],
           "Coach": "Flavio Lamas"
         },
@@ -5237,9 +5237,9 @@ CONTESTS[2018]["1aFase"] = {
             "Yan Teixeira"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Flavio Lamas"
         }
@@ -5256,9 +5256,9 @@ CONTESTS[2018]["1aFase"] = {
             "Iury Gama"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Edmar Hell Kampke"
         }
@@ -5275,9 +5275,9 @@ CONTESTS[2018]["1aFase"] = {
             "Douglas Funayama Tavares"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Thiago Oliveira Dos Santos"
         },
@@ -5292,9 +5292,9 @@ CONTESTS[2018]["1aFase"] = {
             "Pedro Anselmo Santana De Angeli"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Thiago Oliveira Dos Santos"
         },
@@ -5309,9 +5309,9 @@ CONTESTS[2018]["1aFase"] = {
             "Lorenzo Guimarães Moulin"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Thiago Oliveira Dos Santos"
         }
@@ -5330,9 +5330,9 @@ CONTESTS[2018]["1aFase"] = {
             "Thiago Costa"
           ],
           "Sex": [
-            "Female",
-            "Male",
-            "Male"
+            "FEMALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Sandro Renato Dias"
         },
@@ -5347,9 +5347,9 @@ CONTESTS[2018]["1aFase"] = {
             "Luiza Dos Anjos Souza"
           ],
           "Sex": [
-            "Male",
-            "Female",
-            "Female"
+            "MALE",
+            "FEMALE",
+            "FEMALE"
           ],
           "Coach": "Sandro Renato Dias"
         },
@@ -5364,9 +5364,9 @@ CONTESTS[2018]["1aFase"] = {
             "Sérgio Luiz Rodrigues De Oliveira Junior"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Sandro Renato Dias"
         },
@@ -5381,9 +5381,9 @@ CONTESTS[2018]["1aFase"] = {
             "Lucas Santos"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Sandro Renato Dias"
         },
@@ -5398,9 +5398,9 @@ CONTESTS[2018]["1aFase"] = {
             "Rodrigo Dias Moreira"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Sandro Renato Dias"
         },
@@ -5415,9 +5415,9 @@ CONTESTS[2018]["1aFase"] = {
             "Vitória Nascimento"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Female"
+            "MALE",
+            "MALE",
+            "FEMALE"
           ],
           "Coach": "Sandro Renato Dias"
         },
@@ -5432,9 +5432,9 @@ CONTESTS[2018]["1aFase"] = {
             "Lucas Alves"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Sandro Renato Dias"
         },
@@ -5449,9 +5449,9 @@ CONTESTS[2018]["1aFase"] = {
             "Leonardo Vaz"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Sandro Renato Dias"
         }
@@ -5468,9 +5468,9 @@ CONTESTS[2018]["1aFase"] = {
             "Vinicius Nogueira"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Alessio Miranda Junior"
         },
@@ -5485,9 +5485,9 @@ CONTESTS[2018]["1aFase"] = {
             "João Vitor Dos Santos Amorim"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Alessio Miranda Junior"
         },
@@ -5502,9 +5502,9 @@ CONTESTS[2018]["1aFase"] = {
             "Warley Souza"
           ],
           "Sex": [
-            "Female",
-            "Male",
-            "Male"
+            "FEMALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Alessio Miranda Junior"
         },
@@ -5514,14 +5514,14 @@ CONTESTS[2018]["1aFase"] = {
           "Site": "Timoteo",
           "Short name": "CEFET-MG - Timóteo",
           "Contestants": [
-            "Maiky Roger Ribeiro Oliveira",
             "Leonam Teixeira De Vasconcelos",
-            "Maycon Arthuso De Carvalho"
+            "Maycon Arthuso De Carvalho",
+            "Maiky Roger Ribeiro Oliveira"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Alessio Miranda Junior"
         },
@@ -5536,9 +5536,9 @@ CONTESTS[2018]["1aFase"] = {
             "Luis Henrique Benevenuto De Paula"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Alessio Miranda Junior"
         },
@@ -5548,14 +5548,14 @@ CONTESTS[2018]["1aFase"] = {
           "Site": "Timoteo",
           "Short name": "CEFET-MG - Timóteo",
           "Contestants": [
-            "Victor David Mendoza Cavalcanti",
             "Pedro Bruno Fernandes Do Nascimento",
-            "Luiz Victor Ferreira Santos"
+            "Luiz Victor Ferreira Santos",
+            "Victor David Mendoza Cavalcanti"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Alessio Miranda Junior"
         },
@@ -5570,9 +5570,9 @@ CONTESTS[2018]["1aFase"] = {
             "Pedro Otávio Soriano Jandre"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Alessio Miranda Junior"
         },
@@ -5587,9 +5587,9 @@ CONTESTS[2018]["1aFase"] = {
             "André Marcelino"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Alessio Miranda Junior"
         },
@@ -5604,9 +5604,9 @@ CONTESTS[2018]["1aFase"] = {
             "Natália Nogueira Lara"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Female"
+            "MALE",
+            "MALE",
+            "FEMALE"
           ],
           "Coach": "Alessio Miranda Junior"
         },
@@ -5621,9 +5621,9 @@ CONTESTS[2018]["1aFase"] = {
             "Henrique Guimarães"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Alessio Miranda Junior"
         }
@@ -5640,9 +5640,9 @@ CONTESTS[2018]["1aFase"] = {
             "Vitor Araujo Oliveira"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Daniel Pires"
         },
@@ -5657,9 +5657,9 @@ CONTESTS[2018]["1aFase"] = {
             "Vinicius Mijoler"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Daniel Pires"
         },
@@ -5674,9 +5674,9 @@ CONTESTS[2018]["1aFase"] = {
             "João Paulo De Oliveira Santos"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Daniel Pires"
         }
@@ -5693,9 +5693,9 @@ CONTESTS[2018]["1aFase"] = {
             "Ana Ribeiro"
           ],
           "Sex": [
-            "Female",
-            "Female",
-            "Female"
+            "FEMALE",
+            "FEMALE",
+            "FEMALE"
           ],
           "Coach": "Lucas Caetano"
         },
@@ -5710,9 +5710,9 @@ CONTESTS[2018]["1aFase"] = {
             "Luis Fernando Santana Coelho"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Lucas Caetano"
         }
@@ -5729,9 +5729,9 @@ CONTESTS[2018]["1aFase"] = {
             "Marcos Antônio Sousa"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Roberto Porto"
         },
@@ -5746,9 +5746,9 @@ CONTESTS[2018]["1aFase"] = {
             "João Vítor Teixeira"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Roberto Porto"
         }
@@ -5765,9 +5765,9 @@ CONTESTS[2018]["1aFase"] = {
             "Geraldo Vitor Da Costa Netto"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Joás Baía"
         },
@@ -5782,9 +5782,9 @@ CONTESTS[2018]["1aFase"] = {
             "Joao Hebert Ferreira Junior"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Joás Baía"
         },
@@ -5799,9 +5799,9 @@ CONTESTS[2018]["1aFase"] = {
             "Carlos Roberto Barreto Junior"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Joás Baía"
         },
@@ -5816,9 +5816,9 @@ CONTESTS[2018]["1aFase"] = {
             "Abner De Freitas Amorim"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Joás Baía"
         }
@@ -5835,9 +5835,9 @@ CONTESTS[2018]["1aFase"] = {
             "José Silva"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Jean Santos"
         },
@@ -5852,9 +5852,9 @@ CONTESTS[2018]["1aFase"] = {
             "Rodrigo Costa"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Jean Santos"
         },
@@ -5869,9 +5869,9 @@ CONTESTS[2018]["1aFase"] = {
             "Gustavo Reis"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Jean Santos"
         }
@@ -5888,9 +5888,9 @@ CONTESTS[2018]["1aFase"] = {
             "Lucas Ferreira"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Heveraldo Oliveira"
         },
@@ -5905,9 +5905,9 @@ CONTESTS[2018]["1aFase"] = {
             "Robert Veloso"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Heveraldo Oliveira"
         },
@@ -5922,9 +5922,9 @@ CONTESTS[2018]["1aFase"] = {
             "Vitor Rodrigues Machado"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Heveraldo Oliveira"
         }
@@ -5941,9 +5941,9 @@ CONTESTS[2018]["1aFase"] = {
             "Kaio Fernandes"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Jorge Hattori"
         },
@@ -5958,9 +5958,9 @@ CONTESTS[2018]["1aFase"] = {
             "Juliana Catarina De Souza"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Female"
+            "MALE",
+            "MALE",
+            "FEMALE"
           ],
           "Coach": "Jorge Hattori"
         }
@@ -5977,9 +5977,9 @@ CONTESTS[2018]["1aFase"] = {
             "Rafael Gutierrez Simôes"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Gill Mayeron Duarte"
         }
@@ -5996,9 +5996,9 @@ CONTESTS[2018]["1aFase"] = {
             "Pedro Luã Gonçalves Viegas"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Janine Prates"
         }
@@ -6015,9 +6015,9 @@ CONTESTS[2018]["1aFase"] = {
             "Vinícius Aguiar"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Dâmi Henrique Pelegrino"
         },
@@ -6032,9 +6032,9 @@ CONTESTS[2018]["1aFase"] = {
             "Pedro Antonio Cruz"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Dâmi Henrique Pelegrino"
         },
@@ -6049,9 +6049,9 @@ CONTESTS[2018]["1aFase"] = {
             "Felipe Silveira"
           ],
           "Sex": [
-            "Female",
-            "Male",
-            "Male"
+            "FEMALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Dâmi Henrique Pelegrino"
         },
@@ -6066,9 +6066,9 @@ CONTESTS[2018]["1aFase"] = {
             "Nathalya Pereira"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Female"
+            "MALE",
+            "MALE",
+            "FEMALE"
           ],
           "Coach": "Dâmi Henrique Pelegrino"
         },
@@ -6083,9 +6083,9 @@ CONTESTS[2018]["1aFase"] = {
             "Bianca Magri"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Female"
+            "MALE",
+            "MALE",
+            "FEMALE"
           ],
           "Coach": "Dâmi Henrique Pelegrino"
         }
@@ -6102,9 +6102,9 @@ CONTESTS[2018]["1aFase"] = {
             "Gustavo Oliveira Rodrigues"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Fabiano De Paula Soldati"
         }
@@ -6121,9 +6121,9 @@ CONTESTS[2018]["1aFase"] = {
             "Hugo Alkimim"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Alberto Alexandre Assis Miranda"
         },
@@ -6138,9 +6138,9 @@ CONTESTS[2018]["1aFase"] = {
             "Mattheus Mazzillio"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Alberto Alexandre Assis Miranda"
         },
@@ -6155,9 +6155,9 @@ CONTESTS[2018]["1aFase"] = {
             "Leonardo Avelino Fagundes Da Cruz"
           ],
           "Sex": [
-            "Male",
-            "Female",
-            "Male"
+            "MALE",
+            "FEMALE",
+            "MALE"
           ],
           "Coach": "Alberto Alexandre Assis Miranda"
         }
@@ -6174,9 +6174,9 @@ CONTESTS[2018]["1aFase"] = {
             "Carla Amaral Pereira Ponciano"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Female"
+            "MALE",
+            "MALE",
+            "FEMALE"
           ],
           "Coach": "Carlos Eduardo Paulino Silva"
         }
@@ -6193,9 +6193,9 @@ CONTESTS[2018]["1aFase"] = {
             "Alan Xavier"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Rosinei Figueiredo"
         }
@@ -6212,9 +6212,9 @@ CONTESTS[2018]["1aFase"] = {
             "Rafael Rocha"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Clarimundo Junior"
         }
@@ -6231,9 +6231,9 @@ CONTESTS[2018]["1aFase"] = {
             "Isaac Souza"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Eduardo Nascimento"
         }
@@ -6250,9 +6250,9 @@ CONTESTS[2018]["1aFase"] = {
             "Carlos Gouveia"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Ricardo José Martins"
         },
@@ -6267,9 +6267,9 @@ CONTESTS[2018]["1aFase"] = {
             "Samuel Eduardo Da Silva"
           ],
           "Sex": [
-            "Male",
-            "Female",
-            "Male"
+            "MALE",
+            "FEMALE",
+            "MALE"
           ],
           "Coach": "Ricardo José Martins"
         },
@@ -6284,9 +6284,9 @@ CONTESTS[2018]["1aFase"] = {
             "Amanda Beatriz Augusta Da Silva"
           ],
           "Sex": [
-            "Female",
-            "Male",
-            "Female"
+            "FEMALE",
+            "MALE",
+            "FEMALE"
           ],
           "Coach": "Ricardo José Martins"
         },
@@ -6301,9 +6301,9 @@ CONTESTS[2018]["1aFase"] = {
             "Samuel Lucas Santos Gomes"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Ricardo José Martins"
         },
@@ -6318,9 +6318,9 @@ CONTESTS[2018]["1aFase"] = {
             "Douglas Barbosa Martins Da Costa"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Ricardo José Martins"
         },
@@ -6335,9 +6335,9 @@ CONTESTS[2018]["1aFase"] = {
             "Lincoln Marques"
           ],
           "Sex": [
-            "Female",
-            "Male",
-            "Male"
+            "FEMALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Ricardo José Martins"
         },
@@ -6352,9 +6352,9 @@ CONTESTS[2018]["1aFase"] = {
             "Carlos Eduardo Viana Pereira"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Ricardo José Martins"
         },
@@ -6369,9 +6369,9 @@ CONTESTS[2018]["1aFase"] = {
             "Rafael Vicente Da Silva"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Ricardo José Martins"
         },
@@ -6386,9 +6386,9 @@ CONTESTS[2018]["1aFase"] = {
             "Breno Luiz De Souza Amadeu"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Ricardo José Martins"
         },
@@ -6403,9 +6403,9 @@ CONTESTS[2018]["1aFase"] = {
             "Elyssa Dalva Ribeiro Bueno"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Female"
+            "MALE",
+            "MALE",
+            "FEMALE"
           ],
           "Coach": "Ricardo José Martins"
         },
@@ -6420,9 +6420,9 @@ CONTESTS[2018]["1aFase"] = {
             "Leonardo Dos Reis Dias"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Ricardo José Martins"
         },
@@ -6437,9 +6437,9 @@ CONTESTS[2018]["1aFase"] = {
             "Jonathan Felipe Da Silva"
           ],
           "Sex": [
-            "Female",
-            "Female",
-            "Male"
+            "FEMALE",
+            "FEMALE",
+            "MALE"
           ],
           "Coach": "Ricardo José Martins"
         }
@@ -6456,9 +6456,9 @@ CONTESTS[2018]["1aFase"] = {
             "Lucas Dos Santos Alves"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Vinicius Alves Silva"
         }
@@ -6475,9 +6475,9 @@ CONTESTS[2018]["1aFase"] = {
             "Marcos Moreira"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Antônio José De Lima Batista"
         }
@@ -6494,9 +6494,9 @@ CONTESTS[2018]["1aFase"] = {
             "Gabriel Gomes De Oliveira"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Walteno Martins Parreira Júnior"
         },
@@ -6511,9 +6511,9 @@ CONTESTS[2018]["1aFase"] = {
             "Italo Ghiele Fernandes"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Walteno Martins Parreira Júnior"
         }
@@ -6530,9 +6530,9 @@ CONTESTS[2018]["1aFase"] = {
             "Vinícius Souza Moraes"
           ],
           "Sex": [
-            "Female",
-            "Male",
-            "Male"
+            "FEMALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "André Lima"
         },
@@ -6547,9 +6547,9 @@ CONTESTS[2018]["1aFase"] = {
             "Jordan Mattos"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "André Lima"
         },
@@ -6564,9 +6564,9 @@ CONTESTS[2018]["1aFase"] = {
             "Yasmin Pierazo"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Female"
+            "MALE",
+            "MALE",
+            "FEMALE"
           ],
           "Coach": "André Lima"
         },
@@ -6581,9 +6581,9 @@ CONTESTS[2018]["1aFase"] = {
             "Olesio Gardenghi Neto"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "André Lima"
         },
@@ -6598,9 +6598,9 @@ CONTESTS[2018]["1aFase"] = {
             "João Vitor Souza Vilela"
           ],
           "Sex": [
-            "Male",
-            "Female",
-            "Male"
+            "MALE",
+            "FEMALE",
+            "MALE"
           ],
           "Coach": "André Lima"
         },
@@ -6615,9 +6615,9 @@ CONTESTS[2018]["1aFase"] = {
             "Wanessa Cristina Parreira Ribeiro"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Female"
+            "MALE",
+            "MALE",
+            "FEMALE"
           ],
           "Coach": "André Lima"
         },
@@ -6632,9 +6632,9 @@ CONTESTS[2018]["1aFase"] = {
             "Rafael Penha"
           ],
           "Sex": [
-            "Female",
-            "Male",
-            "Male"
+            "FEMALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "André Lima"
         },
@@ -6649,9 +6649,9 @@ CONTESTS[2018]["1aFase"] = {
             "Laressa Fernanda Vilela Silveira"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Female"
+            "MALE",
+            "MALE",
+            "FEMALE"
           ],
           "Coach": "André Lima"
         },
@@ -6666,9 +6666,9 @@ CONTESTS[2018]["1aFase"] = {
             "Lucas Leonardo Freitas"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "André Lima"
         }
@@ -6685,9 +6685,9 @@ CONTESTS[2018]["1aFase"] = {
             "Guilherme Félix Rosa"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Daniela Orbolato"
         },
@@ -6702,9 +6702,9 @@ CONTESTS[2018]["1aFase"] = {
             "Jorcelino Oliveira"
           ],
           "Sex": [
-            "Female",
-            "Female",
-            "Male"
+            "FEMALE",
+            "FEMALE",
+            "MALE"
           ],
           "Coach": "Daniela Orbolato"
         },
@@ -6719,9 +6719,9 @@ CONTESTS[2018]["1aFase"] = {
             "João Pedro Sanches Dovichi"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Daniela Orbolato"
         },
@@ -6736,9 +6736,9 @@ CONTESTS[2018]["1aFase"] = {
             "Vinicius Soares Silva"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Daniela Orbolato"
         },
@@ -6753,9 +6753,9 @@ CONTESTS[2018]["1aFase"] = {
             "Luis Henrique Campos Junqueira Amaral"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Daniela Orbolato"
         }
@@ -6772,9 +6772,9 @@ CONTESTS[2018]["1aFase"] = {
             "Natan Oliveira"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Jean Sousa"
         },
@@ -6789,9 +6789,9 @@ CONTESTS[2018]["1aFase"] = {
             "Rafael Rodrigues"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Ligia Cristina Pestili"
         },
@@ -6806,9 +6806,9 @@ CONTESTS[2018]["1aFase"] = {
             "Vinícius Borges"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Matheus Aguiar"
         }
@@ -6825,9 +6825,9 @@ CONTESTS[2018]["1aFase"] = {
             "Mateus Isaías Batista Ferreira"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Cristiane Lemes Hamawaki"
         },
@@ -6842,9 +6842,9 @@ CONTESTS[2018]["1aFase"] = {
             "Ricardo Paiva Amorim"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Cristiane Lemes Hamawaki"
         },
@@ -6859,9 +6859,9 @@ CONTESTS[2018]["1aFase"] = {
             "Yuri Fernandes Aguiar Do Nascimento"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Cristiane Lemes Hamawaki"
         }
@@ -6878,9 +6878,9 @@ CONTESTS[2018]["1aFase"] = {
             "Álefe Lucas Santos Torres"
           ],
           "Sex": [
-            "Male",
-            "Female",
-            "Male"
+            "MALE",
+            "FEMALE",
+            "MALE"
           ],
           "Coach": "Felipe Cunha"
         }
@@ -6897,9 +6897,9 @@ CONTESTS[2018]["1aFase"] = {
             "Leonardo Macedo Freire"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Heveraldo Oliveira"
         },
@@ -6914,9 +6914,9 @@ CONTESTS[2018]["1aFase"] = {
             "Marcos Rodrigues"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Heveraldo Oliveira"
         },
@@ -6931,9 +6931,9 @@ CONTESTS[2018]["1aFase"] = {
             "Gabriel Fróes"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Heveraldo Oliveira"
         }
@@ -6950,9 +6950,9 @@ CONTESTS[2018]["1aFase"] = {
             "Augusto Figueiredo"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Paulo José Lage Alvarenga"
         },
@@ -6967,9 +6967,9 @@ CONTESTS[2018]["1aFase"] = {
             "Joao Moraes"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Paulo José Lage Alvarenga"
         }
@@ -6986,9 +6986,9 @@ CONTESTS[2018]["1aFase"] = {
             "Leonardo Furtado De Oliveira"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Roberto Affonso Costa Junior"
         },
@@ -7003,9 +7003,9 @@ CONTESTS[2018]["1aFase"] = {
             "Gabriel Hasmann Freire Moraes"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Roberto Affonso Costa Junior"
         },
@@ -7020,9 +7020,9 @@ CONTESTS[2018]["1aFase"] = {
             "Marcos Antonio Flores Gonçalves"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Roberto Affonso Costa Junior"
         },
@@ -7037,9 +7037,9 @@ CONTESTS[2018]["1aFase"] = {
             "Lucas Forni Battista"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Roberto Affonso Costa Junior"
         },
@@ -7054,9 +7054,9 @@ CONTESTS[2018]["1aFase"] = {
             "André Riccieri Albinati Silva Vitor"
           ],
           "Sex": [
-            "Female",
-            "Male",
-            "Male"
+            "FEMALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Roberto Affonso Costa Junior"
         },
@@ -7071,9 +7071,9 @@ CONTESTS[2018]["1aFase"] = {
             "Ricardo Dalarme De Oliveira Filho"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Roberto Affonso Costa Junior"
         },
@@ -7088,9 +7088,9 @@ CONTESTS[2018]["1aFase"] = {
             "Gabriel Taets"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Roberto Affonso Costa Junior"
         },
@@ -7105,9 +7105,9 @@ CONTESTS[2018]["1aFase"] = {
             "Eduardo Dueñas"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Roberto Affonso Costa Junior"
         },
@@ -7122,9 +7122,9 @@ CONTESTS[2018]["1aFase"] = {
             "Rafaella Silva Monti Souza"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Female"
+            "MALE",
+            "MALE",
+            "FEMALE"
           ],
           "Coach": "Roberto Affonso Costa Junior"
         },
@@ -7139,9 +7139,9 @@ CONTESTS[2018]["1aFase"] = {
             "Maurício Ferreira"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Roberto Affonso Costa Junior"
         }
@@ -7158,9 +7158,9 @@ CONTESTS[2018]["1aFase"] = {
             "Henrique Brito"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Lucas Pereira"
         },
@@ -7175,9 +7175,9 @@ CONTESTS[2018]["1aFase"] = {
             "Juliana Neves"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Female"
+            "MALE",
+            "MALE",
+            "FEMALE"
           ],
           "Coach": "Lucas Pereira"
         },
@@ -7192,9 +7192,9 @@ CONTESTS[2018]["1aFase"] = {
             "Pedro Brum"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Lucas Pereira"
         },
@@ -7209,9 +7209,9 @@ CONTESTS[2018]["1aFase"] = {
             "Matheus Barbosa"
           ],
           "Sex": [
-            "Male",
-            "Female",
-            "Male"
+            "MALE",
+            "FEMALE",
+            "MALE"
           ],
           "Coach": "Thiago Silva"
         },
@@ -7226,9 +7226,9 @@ CONTESTS[2018]["1aFase"] = {
             "Gabriel Azevedo Cardoso"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Lucas Pereira"
         },
@@ -7243,9 +7243,9 @@ CONTESTS[2018]["1aFase"] = {
             "Nicholas Reis"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Lucas Pereira"
         }
@@ -7262,9 +7262,9 @@ CONTESTS[2018]["1aFase"] = {
             "Palloma Stephanne Silva Brito"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Female"
+            "MALE",
+            "MALE",
+            "FEMALE"
           ],
           "Coach": "Felipe Lopes De Melo Faria"
         }
@@ -7281,9 +7281,9 @@ CONTESTS[2018]["1aFase"] = {
             "Leonardo Ferreira"
           ],
           "Sex": [
-            "Male",
-            "Female",
-            "Male"
+            "MALE",
+            "FEMALE",
+            "MALE"
           ],
           "Coach": "Luiz Claúdio Theodoro"
         },
@@ -7298,9 +7298,9 @@ CONTESTS[2018]["1aFase"] = {
             "Henrique Corrêa De Oliveira"
           ],
           "Sex": [
-            "Male",
-            "Female",
-            "Male"
+            "MALE",
+            "FEMALE",
+            "MALE"
           ],
           "Coach": "Luiz Claúdio Theodoro"
         },
@@ -7315,9 +7315,9 @@ CONTESTS[2018]["1aFase"] = {
             "Gustavo Marques"
           ],
           "Sex": [
-            "Male",
-            "Female",
-            "Male"
+            "MALE",
+            "FEMALE",
+            "MALE"
           ],
           "Coach": "João Henrique De Souza Pereira"
         },
@@ -7332,9 +7332,9 @@ CONTESTS[2018]["1aFase"] = {
             "Guilherme Assakura"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Luiz Claúdio Theodoro"
         },
@@ -7349,9 +7349,9 @@ CONTESTS[2018]["1aFase"] = {
             "Lucas Damaso"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "João Henrique De Souza Pereira"
         },
@@ -7366,9 +7366,9 @@ CONTESTS[2018]["1aFase"] = {
             "Isabella Vecchi Ferreira"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Female"
+            "MALE",
+            "MALE",
+            "FEMALE"
           ],
           "Coach": "Luiz Claúdio Theodoro"
         },
@@ -7383,9 +7383,9 @@ CONTESTS[2018]["1aFase"] = {
             "Vinicius Cazarotti"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Luiz Claúdio Theodoro"
         },
@@ -7400,9 +7400,9 @@ CONTESTS[2018]["1aFase"] = {
             "Luiz Henrique Martins De Oliveira"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Luiz Claúdio Theodoro"
         },
@@ -7417,9 +7417,9 @@ CONTESTS[2018]["1aFase"] = {
             "Rodrigo Zamboni Silva"
           ],
           "Sex": [
-            "Female",
-            "Male",
-            "Male"
+            "FEMALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Luiz Claúdio Theodoro"
         },
@@ -7434,9 +7434,9 @@ CONTESTS[2018]["1aFase"] = {
             "Pedro Henrique Rabis Diniz"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "João Henrique De Souza Pereira"
         },
@@ -7451,9 +7451,9 @@ CONTESTS[2018]["1aFase"] = {
             "Isaque Tiago"
           ],
           "Sex": [
-            "Male",
-            "Female",
-            "Male"
+            "MALE",
+            "FEMALE",
+            "MALE"
           ],
           "Coach": "Luiz Claúdio Theodoro"
         },
@@ -7468,9 +7468,9 @@ CONTESTS[2018]["1aFase"] = {
             "Pedro Diogo Machado"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "João Henrique De Souza Pereira"
         },
@@ -7485,9 +7485,9 @@ CONTESTS[2018]["1aFase"] = {
             "Vitor Manoel Gonçalves Teixeira"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Luiz Claúdio Theodoro"
         },
@@ -7502,9 +7502,9 @@ CONTESTS[2018]["1aFase"] = {
             "Luiz Fernando Rosa"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Luiz Claúdio Theodoro"
         },
@@ -7519,9 +7519,9 @@ CONTESTS[2018]["1aFase"] = {
             "Adiel Pereira"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Luiz Claúdio Theodoro"
         },
@@ -7536,9 +7536,9 @@ CONTESTS[2018]["1aFase"] = {
             "Henrique Santos De Lima"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Luiz Claúdio Theodoro"
         }
@@ -7555,9 +7555,9 @@ CONTESTS[2018]["1aFase"] = {
             "Gabriel Lisboa"
           ],
           "Sex": [
-            "Male",
-            "Female",
-            "Male"
+            "MALE",
+            "FEMALE",
+            "MALE"
           ],
           "Coach": "Carlos Tuma"
         },
@@ -7572,9 +7572,9 @@ CONTESTS[2018]["1aFase"] = {
             "Emmanuel Reis"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Carlos Tuma"
         },
@@ -7589,9 +7589,9 @@ CONTESTS[2018]["1aFase"] = {
             "Danilo Pereira"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Carlos Tuma"
         }
@@ -7608,9 +7608,9 @@ CONTESTS[2018]["1aFase"] = {
             "Matheus Aguilar De Oliveira"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "André Gustavo Dos Santos"
         },
@@ -7625,9 +7625,9 @@ CONTESTS[2018]["1aFase"] = {
             "Bruno Ferreira Coelho"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Salles Magalhães"
         },
@@ -7642,9 +7642,9 @@ CONTESTS[2018]["1aFase"] = {
             "Joel Antonio Vieira Silva"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Giovanni Comarela"
         },
@@ -7659,9 +7659,9 @@ CONTESTS[2018]["1aFase"] = {
             "Felipe De Souza Dias"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "André Gustavo Dos Santos"
         }
@@ -7678,9 +7678,9 @@ CONTESTS[2018]["1aFase"] = {
             "Vinícius Almeida"
           ],
           "Sex": [
-            "Female",
-            "Male",
-            "Male"
+            "FEMALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Thais Silva"
         },
@@ -7695,9 +7695,9 @@ CONTESTS[2018]["1aFase"] = {
             "Naiara Diniz"
           ],
           "Sex": [
-            "Female",
-            "Female",
-            "Female"
+            "FEMALE",
+            "FEMALE",
+            "FEMALE"
           ],
           "Coach": "Thais Silva"
         },
@@ -7712,14 +7712,14 @@ CONTESTS[2018]["1aFase"] = {
             "Tais Santos"
           ],
           "Sex": [
-            "Male",
-            "Female",
-            "Female"
+            "MALE",
+            "FEMALE",
+            "FEMALE"
           ],
           "Coach": "Thais Silva"
         }
       },
-      "Universidade Federal do Triângulo Mineiro": {
+      "Universidade Federal do Triângulo Mineiro ": {
         "Chapa 3": {
           "Rank": 410,
           "SiteRank": 12,
@@ -7731,9 +7731,9 @@ CONTESTS[2018]["1aFase"] = {
             "Henrique Faganello"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Leandro Cruvinel"
         },
@@ -7748,9 +7748,9 @@ CONTESTS[2018]["1aFase"] = {
             "Vinicius Gomes Franco"
           ],
           "Sex": [
-            "Male",
-            "Female",
-            "Male"
+            "MALE",
+            "FEMALE",
+            "MALE"
           ],
           "Coach": "Leandro Cruvinel"
         },
@@ -7765,9 +7765,9 @@ CONTESTS[2018]["1aFase"] = {
             "Yle Carvalho"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Leandro Cruvinel"
         },
@@ -7782,9 +7782,9 @@ CONTESTS[2018]["1aFase"] = {
             "Silvio Bernardes De Sene Junior"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Leandro Cruvinel"
         },
@@ -7799,9 +7799,9 @@ CONTESTS[2018]["1aFase"] = {
             "Ana Carolina Garcia"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Female"
+            "MALE",
+            "MALE",
+            "FEMALE"
           ],
           "Coach": "Leandro Cruvinel"
         }
@@ -7818,9 +7818,9 @@ CONTESTS[2018]["1aFase"] = {
             "Caio Oliveira"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Marcos Carvalho"
         },
@@ -7834,8 +7834,8 @@ CONTESTS[2018]["1aFase"] = {
             "João Vitor Regis Falcão"
           ],
           "Sex": [
-            "Male",
-            "Male"
+            "MALE",
+            "MALE"
           ],
           "Coach": "Marcos Carvalho"
         }
@@ -7852,9 +7852,9 @@ CONTESTS[2018]["1aFase"] = {
             "Caio Flávio"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Luciano Ferreira"
         },
@@ -7869,9 +7869,9 @@ CONTESTS[2018]["1aFase"] = {
             "Rayanne Moura"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Female"
+            "MALE",
+            "MALE",
+            "FEMALE"
           ],
           "Coach": "Roberto Silva Araújo Assis"
         },
@@ -7886,9 +7886,9 @@ CONTESTS[2018]["1aFase"] = {
             "Mateus De Sousa Valente"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Roberto Silva Araújo Assis"
         }
@@ -7905,9 +7905,9 @@ CONTESTS[2018]["1aFase"] = {
             "Heriton Magno Gomes Silva"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Luciene Chagas De Oliveira"
         },
@@ -7922,9 +7922,9 @@ CONTESTS[2018]["1aFase"] = {
             "Bruno Roberto De Carvalho"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Stéfano Vita"
         },
@@ -7939,9 +7939,9 @@ CONTESTS[2018]["1aFase"] = {
             "Matheus Barbosa Rosa"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Eduardo Chagas De Oliveira"
         }
@@ -7958,9 +7958,9 @@ CONTESTS[2018]["1aFase"] = {
             "Samuel Carvalho"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Fernando Roberto Proença"
         },
@@ -7975,9 +7975,9 @@ CONTESTS[2018]["1aFase"] = {
             "Gabriel Oliveira"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Fernando Roberto Proença"
         }
@@ -7994,9 +7994,9 @@ CONTESTS[2018]["1aFase"] = {
             "Ingrid Paiva"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Female"
+            "MALE",
+            "MALE",
+            "FEMALE"
           ],
           "Coach": "Roberto Rocha"
         }
@@ -8015,9 +8015,9 @@ CONTESTS[2018]["1aFase"] = {
             "Rafael Dias Da Silva"
           ],
           "Sex": [
-            "Female",
-            "Male",
-            "Male"
+            "FEMALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Douglas De Oliveira Cardoso"
         },
@@ -8032,9 +8032,9 @@ CONTESTS[2018]["1aFase"] = {
             "Victor Vidal"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Douglas De Oliveira Cardoso"
         }
@@ -8051,9 +8051,9 @@ CONTESTS[2018]["1aFase"] = {
             "João Vitor Rosa Rebello"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Douglas De Oliveira Cardoso"
         },
@@ -8068,9 +8068,9 @@ CONTESTS[2018]["1aFase"] = {
             "Diego Zanchett"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Douglas De Oliveira Cardoso"
         },
@@ -8085,9 +8085,9 @@ CONTESTS[2018]["1aFase"] = {
             "Luca Carvalho"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Douglas De Oliveira Cardoso"
         },
@@ -8102,9 +8102,9 @@ CONTESTS[2018]["1aFase"] = {
             "Mateus Garica"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Douglas De Oliveira Cardoso"
         },
@@ -8119,9 +8119,9 @@ CONTESTS[2018]["1aFase"] = {
             "Thalis Galeno"
           ],
           "Sex": [
-            "Male",
-            "Female",
-            "Male"
+            "MALE",
+            "FEMALE",
+            "MALE"
           ],
           "Coach": "Douglas De Oliveira Cardoso"
         }
@@ -8138,9 +8138,9 @@ CONTESTS[2018]["1aFase"] = {
             "Aline Diogo"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Female"
+            "MALE",
+            "MALE",
+            "FEMALE"
           ],
           "Coach": "Ricardo Mesquita"
         },
@@ -8155,9 +8155,9 @@ CONTESTS[2018]["1aFase"] = {
             "Bruno Lima"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Ricardo Mesquita"
         },
@@ -8172,9 +8172,9 @@ CONTESTS[2018]["1aFase"] = {
             "Giulianne De Paula"
           ],
           "Sex": [
-            "Female",
-            "Female",
-            "Female"
+            "FEMALE",
+            "FEMALE",
+            "FEMALE"
           ],
           "Coach": "Ricardo Mesquita"
         }
@@ -8191,9 +8191,9 @@ CONTESTS[2018]["1aFase"] = {
             "Beatriz Pereira"
           ],
           "Sex": [
-            "Male",
-            "Female",
-            "Female"
+            "MALE",
+            "FEMALE",
+            "FEMALE"
           ],
           "Coach": "Rafael Gomes Monteiro"
         },
@@ -8208,9 +8208,9 @@ CONTESTS[2018]["1aFase"] = {
             "Gustavo Chermout Aragão"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Rafael Gomes Monteiro"
         },
@@ -8225,9 +8225,9 @@ CONTESTS[2018]["1aFase"] = {
             "Lara Madeira Da Costa"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Female"
+            "MALE",
+            "MALE",
+            "FEMALE"
           ],
           "Coach": "Rafael Gomes Monteiro"
         },
@@ -8242,9 +8242,9 @@ CONTESTS[2018]["1aFase"] = {
             "Rafael Oliveira Faitão"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Rafael Gomes Monteiro"
         }
@@ -8261,9 +8261,9 @@ CONTESTS[2018]["1aFase"] = {
             "Bruno Lerner"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Claudia Justel"
         },
@@ -8278,9 +8278,9 @@ CONTESTS[2018]["1aFase"] = {
             "João Baptista De Paula E Silva"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Claudia Justel"
         },
@@ -8295,9 +8295,9 @@ CONTESTS[2018]["1aFase"] = {
             "Mateus Cândido Lima De Castro"
           ],
           "Sex": [
-            "Male",
-            "Female",
-            "Male"
+            "MALE",
+            "FEMALE",
+            "MALE"
           ],
           "Coach": "Claudia Justel"
         },
@@ -8312,9 +8312,9 @@ CONTESTS[2018]["1aFase"] = {
             "Arnon Mello Barbosa"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Claudia Justel"
         }
@@ -8331,9 +8331,9 @@ CONTESTS[2018]["1aFase"] = {
             "Pedro Moll Bernardes"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Marcus Poggi"
         },
@@ -8348,9 +8348,9 @@ CONTESTS[2018]["1aFase"] = {
             "Ian Albuquerque Raymundo Da Silva"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Marcus Poggi"
         },
@@ -8365,9 +8365,9 @@ CONTESTS[2018]["1aFase"] = {
             "Raphael De Britto"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Marcus Poggi"
         },
@@ -8382,9 +8382,9 @@ CONTESTS[2018]["1aFase"] = {
             "Thiago Ribeiral"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Marcus Poggi"
         }
@@ -8401,9 +8401,9 @@ CONTESTS[2018]["1aFase"] = {
             "Fernando Rodrigues"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Isabel Rosseti"
         },
@@ -8418,9 +8418,9 @@ CONTESTS[2018]["1aFase"] = {
             "Vitor Pinheiro"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Marcos Lage"
         },
@@ -8435,9 +8435,9 @@ CONTESTS[2018]["1aFase"] = {
             "Bruno Mello"
           ],
           "Sex": [
-            "Male",
-            "Female",
-            "Male"
+            "MALE",
+            "FEMALE",
+            "MALE"
           ],
           "Coach": "Leandro Fernandes"
         }
@@ -8454,9 +8454,9 @@ CONTESTS[2018]["1aFase"] = {
             "Rodolpho Santoro"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Danilo Artigas"
         },
@@ -8471,9 +8471,9 @@ CONTESTS[2018]["1aFase"] = {
             "Marcela Prado"
           ],
           "Sex": [
-            "Male",
-            "Female",
-            "Female"
+            "MALE",
+            "FEMALE",
+            "FEMALE"
           ],
           "Coach": "Danilo Artigas"
         }
@@ -8490,9 +8490,9 @@ CONTESTS[2018]["1aFase"] = {
             "Letícia De Sousa"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Female"
+            "MALE",
+            "MALE",
+            "FEMALE"
           ],
           "Coach": "Marcia Cerioli"
         },
@@ -8507,9 +8507,9 @@ CONTESTS[2018]["1aFase"] = {
             "Igor Carpanese"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Marcia Cerioli"
         }
@@ -8526,9 +8526,9 @@ CONTESTS[2018]["1aFase"] = {
             "Rafaela Brum"
           ],
           "Sex": [
-            "Female",
-            "Male",
-            "Female"
+            "FEMALE",
+            "MALE",
+            "FEMALE"
           ],
           "Coach": "Paulo Eustaquio Pinto"
         },
@@ -8543,9 +8543,9 @@ CONTESTS[2018]["1aFase"] = {
             "Pedro Lemos"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Paulo Eustaquio Pinto"
         }
@@ -8564,9 +8564,9 @@ CONTESTS[2018]["1aFase"] = {
             "Leonardo Souza"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Saulo Felicío Fernandes Zambotti"
         }
@@ -8583,9 +8583,9 @@ CONTESTS[2018]["1aFase"] = {
             "Gustavo B Constantino"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "James Clauton Da Silva"
         },
@@ -8600,9 +8600,9 @@ CONTESTS[2018]["1aFase"] = {
             "Alexandre Lopes Mantovan"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Mayk Choji"
         },
@@ -8617,9 +8617,9 @@ CONTESTS[2018]["1aFase"] = {
             "Murillo Henrique Monteiro Nacfur"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Alexandre Marcelino Da Silva"
         }
@@ -8636,9 +8636,9 @@ CONTESTS[2018]["1aFase"] = {
             "Felipe Daniel Hernandes"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Diego Henrique Negretto"
         },
@@ -8653,9 +8653,9 @@ CONTESTS[2018]["1aFase"] = {
             "Mike Paes"
           ],
           "Sex": [
-            "Female",
-            "Male",
-            "Male"
+            "FEMALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Sérgio Luis Antonello"
         },
@@ -8670,9 +8670,9 @@ CONTESTS[2018]["1aFase"] = {
             "Ygor Santana"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Sérgio Luis Antonello"
         },
@@ -8687,9 +8687,9 @@ CONTESTS[2018]["1aFase"] = {
             "Lucas Santos"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Renato Luciano Cagnin"
         },
@@ -8704,9 +8704,9 @@ CONTESTS[2018]["1aFase"] = {
             "André Appolari"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Renato Luciano Cagnin"
         }
@@ -8723,9 +8723,9 @@ CONTESTS[2018]["1aFase"] = {
             "Julia Bogarim"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Female"
+            "MALE",
+            "MALE",
+            "FEMALE"
           ],
           "Coach": "Warner Brezolin"
         },
@@ -8740,9 +8740,9 @@ CONTESTS[2018]["1aFase"] = {
             "Renan Santos"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Warner Brezolin"
         },
@@ -8757,9 +8757,9 @@ CONTESTS[2018]["1aFase"] = {
             "Ricardo Augusto Silva"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Warner Brezolin"
         }
@@ -8776,9 +8776,9 @@ CONTESTS[2018]["1aFase"] = {
             "João Francisco"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Paulo Sergio Rodrigues"
         },
@@ -8793,9 +8793,9 @@ CONTESTS[2018]["1aFase"] = {
             "Joao Malafaia"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Paulo Sergio Rodrigues"
         },
@@ -8810,9 +8810,9 @@ CONTESTS[2018]["1aFase"] = {
             "Leonardo Millos"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Paulo Sergio Rodrigues"
         },
@@ -8827,9 +8827,9 @@ CONTESTS[2018]["1aFase"] = {
             "Murillo Bouzon"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Paulo Sergio Rodrigues"
         }
@@ -8846,9 +8846,9 @@ CONTESTS[2018]["1aFase"] = {
             "Jonatas Da Silva Nascimento"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Marcelo Lampkowski"
         },
@@ -8863,9 +8863,9 @@ CONTESTS[2018]["1aFase"] = {
             "Kleber Fernando Dos Santos Canedo Filho"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Marcelo Lampkowski"
         },
@@ -8880,9 +8880,9 @@ CONTESTS[2018]["1aFase"] = {
             "Gabriel Scalfi Carvalho"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Marcelo Lampkowski"
         }
@@ -8899,9 +8899,9 @@ CONTESTS[2018]["1aFase"] = {
             "Cesar Moura Leite Westphal"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Antonio Marcos Selmini"
         },
@@ -8916,9 +8916,9 @@ CONTESTS[2018]["1aFase"] = {
             "Heitor Leão Nader"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Antonio Marcos Selmini"
         }
@@ -8935,9 +8935,9 @@ CONTESTS[2018]["1aFase"] = {
             "Leonardo Vencovsky"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "João Mondoni"
         },
@@ -8952,9 +8952,9 @@ CONTESTS[2018]["1aFase"] = {
             "Lucas Citelli Haitman"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Gabriel Fava"
         },
@@ -8969,9 +8969,9 @@ CONTESTS[2018]["1aFase"] = {
             "Diogo Ramires Carascosa Filho"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "João Mondoni"
         }
@@ -8988,9 +8988,9 @@ CONTESTS[2018]["1aFase"] = {
             "Lucas Dutra"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Andre Breda Carneiro"
         },
@@ -9005,9 +9005,9 @@ CONTESTS[2018]["1aFase"] = {
             "Alisson Giron"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Andre Breda Carneiro"
         },
@@ -9022,9 +9022,9 @@ CONTESTS[2018]["1aFase"] = {
             "Eneo Juliano Bovino"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Andre Breda Carneiro"
         },
@@ -9039,9 +9039,9 @@ CONTESTS[2018]["1aFase"] = {
             "Michel Micheloti"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Andre Breda Carneiro"
         }
@@ -9058,9 +9058,9 @@ CONTESTS[2018]["1aFase"] = {
             "Welington Goes"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Danilo Gomes"
         }
@@ -9077,9 +9077,9 @@ CONTESTS[2018]["1aFase"] = {
             "Lucas Petarnella Zimmermann"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Lucy Mari Tabuti"
         },
@@ -9094,9 +9094,9 @@ CONTESTS[2018]["1aFase"] = {
             "Leonardo Todorov"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Lucy Mari Tabuti"
         }
@@ -9113,9 +9113,9 @@ CONTESTS[2018]["1aFase"] = {
             "Thiago Kota"
           ],
           "Sex": [
-            "Male",
-            "Female",
-            "Male"
+            "MALE",
+            "FEMALE",
+            "MALE"
           ],
           "Coach": "Antonio Marcos Selmini"
         },
@@ -9130,9 +9130,9 @@ CONTESTS[2018]["1aFase"] = {
             "Yuri Matheus Barboza De Oliveira"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Antonio Marcos Selmini"
         },
@@ -9147,9 +9147,9 @@ CONTESTS[2018]["1aFase"] = {
             "Wesley Ferreira Anazario"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Antonio Marcos Selmini"
         }
@@ -9166,9 +9166,9 @@ CONTESTS[2018]["1aFase"] = {
             "Maria Cunha"
           ],
           "Sex": [
-            "Female",
-            "Female",
-            "Female"
+            "FEMALE",
+            "FEMALE",
+            "FEMALE"
           ],
           "Coach": "Alison Orioli De Souza"
         },
@@ -9183,9 +9183,9 @@ CONTESTS[2018]["1aFase"] = {
             "Nelson Júnior"
           ],
           "Sex": [
-            "Male",
-            "Female",
-            "Male"
+            "MALE",
+            "FEMALE",
+            "MALE"
           ],
           "Coach": "Alison Orioli De Souza"
         }
@@ -9202,9 +9202,9 @@ CONTESTS[2018]["1aFase"] = {
             "Anderson Silva"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Kleber Andrade"
         }
@@ -9221,9 +9221,9 @@ CONTESTS[2018]["1aFase"] = {
             "Murillo Ferreira Pinto"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Carlos Nascimento"
         }
@@ -9240,9 +9240,9 @@ CONTESTS[2018]["1aFase"] = {
             "Giovane Silva"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Mauricio Duarte"
         },
@@ -9257,9 +9257,9 @@ CONTESTS[2018]["1aFase"] = {
             "Guilherme José Pessato"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Mauricio Duarte"
         }
@@ -9276,9 +9276,9 @@ CONTESTS[2018]["1aFase"] = {
             "Emanuel Hiroshi Miyagawa"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Allbert Almeida"
         },
@@ -9293,9 +9293,9 @@ CONTESTS[2018]["1aFase"] = {
             "Matheus Jouan Raymundo Da Silva"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Allbert Almeida"
         },
@@ -9310,9 +9310,9 @@ CONTESTS[2018]["1aFase"] = {
             "Caroline Nicole Marcondes Miguel Palma"
           ],
           "Sex": [
-            "Male",
-            "Female",
-            "Female"
+            "MALE",
+            "FEMALE",
+            "FEMALE"
           ],
           "Coach": "Allbert Almeida"
         }
@@ -9329,9 +9329,9 @@ CONTESTS[2018]["1aFase"] = {
             "Augusto Henrique Amaral"
           ],
           "Sex": [
-            "Male",
-            "Female",
-            "Male"
+            "MALE",
+            "FEMALE",
+            "MALE"
           ],
           "Coach": "Glauco Todesco"
         }
@@ -9348,9 +9348,9 @@ CONTESTS[2018]["1aFase"] = {
             "Andre Luis Albino De Moraes Marques"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Alex Marino Gonçalves De Almeida"
         }
@@ -9367,9 +9367,9 @@ CONTESTS[2018]["1aFase"] = {
             "André Pereira Constâncio"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Antonio Cesar Barros Munari"
         },
@@ -9384,9 +9384,9 @@ CONTESTS[2018]["1aFase"] = {
             "Rafael Henrique Pacheco De Souza"
           ],
           "Sex": [
-            "Female",
-            "Male",
-            "Male"
+            "FEMALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Antonio Cesar Barros Munari"
         },
@@ -9401,9 +9401,9 @@ CONTESTS[2018]["1aFase"] = {
             "Guilherme Augusto De Souza"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Antonio Cesar Barros Munari"
         }
@@ -9420,9 +9420,9 @@ CONTESTS[2018]["1aFase"] = {
             "Pedro Henrique Cerqueira Fernandes"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Reinaldo Gen Ichiro Arakaki"
         },
@@ -9432,14 +9432,14 @@ CONTESTS[2018]["1aFase"] = {
           "Site": "Lorena",
           "Short name": "FATEC-SJC",
           "Contestants": [
-            "Lucas Narciso",
             "Heitor Miranda Moreira",
-            "Sergio Hilgert Jr"
+            "Sergio Hilgert Jr",
+            "Lucas Narciso"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Reinaldo Gen Ichiro Arakaki"
         },
@@ -9454,9 +9454,9 @@ CONTESTS[2018]["1aFase"] = {
             "Eduardo Henrique Pereira Souza"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Reinaldo Gen Ichiro Arakaki"
         },
@@ -9471,9 +9471,9 @@ CONTESTS[2018]["1aFase"] = {
             "Pedro Luis Pereira Morais"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Reinaldo Gen Ichiro Arakaki"
         }
@@ -9490,9 +9490,9 @@ CONTESTS[2018]["1aFase"] = {
             "Leandro Gonçalves De Oliveira"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Grace Borges"
         },
@@ -9507,9 +9507,9 @@ CONTESTS[2018]["1aFase"] = {
             "Lucas Bastos"
           ],
           "Sex": [
-            "Male",
-            "Female",
-            "Male"
+            "MALE",
+            "FEMALE",
+            "MALE"
           ],
           "Coach": "Grace Borges"
         },
@@ -9524,9 +9524,9 @@ CONTESTS[2018]["1aFase"] = {
             "Edvandro Negreiros"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Lucio Lira"
         },
@@ -9541,9 +9541,9 @@ CONTESTS[2018]["1aFase"] = {
             "Luan Prado"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Grace Borges"
         }
@@ -9560,9 +9560,9 @@ CONTESTS[2018]["1aFase"] = {
             "Rainã Pepe"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Heleno Vale"
         }
@@ -9579,9 +9579,9 @@ CONTESTS[2018]["1aFase"] = {
             "Halley Mukai Junior"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Patricia Ribeiro"
         },
@@ -9596,9 +9596,9 @@ CONTESTS[2018]["1aFase"] = {
             "Karina Prado"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Female"
+            "MALE",
+            "MALE",
+            "FEMALE"
           ],
           "Coach": "Patricia Ribeiro"
         },
@@ -9613,9 +9613,9 @@ CONTESTS[2018]["1aFase"] = {
             "Carlos Bitar"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Patricia Ribeiro"
         },
@@ -9630,9 +9630,9 @@ CONTESTS[2018]["1aFase"] = {
             "Dilenon Delfino"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Patricia Ribeiro"
         }
@@ -9649,9 +9649,9 @@ CONTESTS[2018]["1aFase"] = {
             "Larissa Ohashi"
           ],
           "Sex": [
-            "Female",
-            "Male",
-            "Female"
+            "FEMALE",
+            "MALE",
+            "FEMALE"
           ],
           "Coach": "Antonio Ferreira Viana"
         }
@@ -9668,9 +9668,9 @@ CONTESTS[2018]["1aFase"] = {
             "Wagner Luiz Rebeque Serafim"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Cássio Agnaldo Onodera"
         },
@@ -9685,9 +9685,9 @@ CONTESTS[2018]["1aFase"] = {
             "Weskley Pedro Pereira De Oliveira"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Cássio Agnaldo Onodera"
         },
@@ -9702,9 +9702,9 @@ CONTESTS[2018]["1aFase"] = {
             "João Carlos De Brito"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Cássio Agnaldo Onodera"
         }
@@ -9721,9 +9721,9 @@ CONTESTS[2018]["1aFase"] = {
             "Caio Sampaio"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Jones Souza"
         }
@@ -9740,9 +9740,9 @@ CONTESTS[2018]["1aFase"] = {
             "Nadine Ouro"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Female"
+            "MALE",
+            "MALE",
+            "FEMALE"
           ],
           "Coach": "Marcio Crocomo"
         },
@@ -9757,9 +9757,9 @@ CONTESTS[2018]["1aFase"] = {
             "Ian Degaspari"
           ],
           "Sex": [
-            "Female",
-            "Male",
-            "Male"
+            "FEMALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Marcio Crocomo"
         },
@@ -9774,9 +9774,9 @@ CONTESTS[2018]["1aFase"] = {
             "Bruno Garcia"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Marcio Crocomo"
         }
@@ -9793,9 +9793,9 @@ CONTESTS[2018]["1aFase"] = {
             "Felipe Guimarães"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Armando Gouveia"
         },
@@ -9810,9 +9810,9 @@ CONTESTS[2018]["1aFase"] = {
             "Lucas França De Oliveira"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Armando Gouveia"
         },
@@ -9827,9 +9827,9 @@ CONTESTS[2018]["1aFase"] = {
             "Victor Breder"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Armando Gouveia"
         },
@@ -9844,9 +9844,9 @@ CONTESTS[2018]["1aFase"] = {
             "Carlos Silva"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Armando Gouveia"
         }
@@ -9863,9 +9863,9 @@ CONTESTS[2018]["1aFase"] = {
             "Bruno Santos"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Danilo Eler"
         }
@@ -9882,9 +9882,9 @@ CONTESTS[2018]["1aFase"] = {
             "Pedro Henrique Nunes Barros"
           ],
           "Sex": [
-            "Male",
-            "Female",
-            "Male"
+            "MALE",
+            "FEMALE",
+            "MALE"
           ],
           "Coach": "Wilson Yonezawa"
         },
@@ -9899,9 +9899,9 @@ CONTESTS[2018]["1aFase"] = {
             "Luis Guilherme Silva Rodrigues"
           ],
           "Sex": [
-            "Male",
-            "Female",
-            "Male"
+            "MALE",
+            "FEMALE",
+            "MALE"
           ],
           "Coach": "Wilson Yonezawa"
         },
@@ -9916,9 +9916,9 @@ CONTESTS[2018]["1aFase"] = {
             "Luis Fernando De Oliveira Uzai"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Wilson Yonezawa"
         },
@@ -9933,9 +9933,9 @@ CONTESTS[2018]["1aFase"] = {
             "João Comini"
           ],
           "Sex": [
-            "Male",
-            "Female",
-            "Male"
+            "MALE",
+            "FEMALE",
+            "MALE"
           ],
           "Coach": "Wilson Yonezawa"
         },
@@ -9950,9 +9950,9 @@ CONTESTS[2018]["1aFase"] = {
             "Maurício Arantes"
           ],
           "Sex": [
-            "Female",
-            "Male",
-            "Male"
+            "FEMALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Wilson Yonezawa"
         }
@@ -9969,9 +9969,9 @@ CONTESTS[2018]["1aFase"] = {
             "Fabrício Da Silva Lima"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Samuel Rodrigues"
         },
@@ -9986,9 +9986,9 @@ CONTESTS[2018]["1aFase"] = {
             "Gustavo Felipe De Santana"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Samuel Rodrigues"
         },
@@ -10003,9 +10003,9 @@ CONTESTS[2018]["1aFase"] = {
             "Felipe De Carvalho Alves"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Samuel Rodrigues"
         },
@@ -10020,9 +10020,9 @@ CONTESTS[2018]["1aFase"] = {
             "Mauricio Pesci Silva"
           ],
           "Sex": [
-            "Male",
-            "Female",
-            "Male"
+            "MALE",
+            "FEMALE",
+            "MALE"
           ],
           "Coach": "Samuel Rodrigues"
         }
@@ -10039,9 +10039,9 @@ CONTESTS[2018]["1aFase"] = {
             "Vinicius Mapelli"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Rodolfo Barros Chiaramonte"
         },
@@ -10056,9 +10056,9 @@ CONTESTS[2018]["1aFase"] = {
             "Leonardo Fiamengue Osawa"
           ],
           "Sex": [
-            "Female",
-            "Male",
-            "Male"
+            "FEMALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Rodolfo Barros Chiaramonte"
         },
@@ -10073,9 +10073,9 @@ CONTESTS[2018]["1aFase"] = {
             "Natália Silva"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Female"
+            "MALE",
+            "MALE",
+            "FEMALE"
           ],
           "Coach": "Rodolfo Barros Chiaramonte"
         }
@@ -10092,9 +10092,9 @@ CONTESTS[2018]["1aFase"] = {
             "Lucas Barboza Sanches"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Marcelo Rosa"
         },
@@ -10109,9 +10109,9 @@ CONTESTS[2018]["1aFase"] = {
             "Eddy Augusto Santos"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Leandro Luiz De Almeida"
         },
@@ -10126,9 +10126,9 @@ CONTESTS[2018]["1aFase"] = {
             "João Vítor Dos Santos Oliveira"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Francisco Assis Da Silva"
         }
@@ -10145,9 +10145,9 @@ CONTESTS[2018]["1aFase"] = {
             "Vitor Hugo Silva"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Ronaldo Penna Saraiva"
         },
@@ -10162,9 +10162,9 @@ CONTESTS[2018]["1aFase"] = {
             "Patrick Albino De Lucca"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Ronaldo Penna Saraiva"
         },
@@ -10179,9 +10179,9 @@ CONTESTS[2018]["1aFase"] = {
             "Vinícius Matos"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Ronaldo Penna Saraiva"
         }
@@ -10198,9 +10198,9 @@ CONTESTS[2018]["1aFase"] = {
             "Hitalo Alves"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Fábio Luiz Usberti"
         },
@@ -10215,9 +10215,9 @@ CONTESTS[2018]["1aFase"] = {
             "João Baggio"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Fábio Luiz Usberti"
         },
@@ -10232,9 +10232,9 @@ CONTESTS[2018]["1aFase"] = {
             "Rodrigo Amaral Franceschinelli"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Fábio Luiz Usberti"
         },
@@ -10249,9 +10249,9 @@ CONTESTS[2018]["1aFase"] = {
             "Gabriel Henriques Siqueira"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Fábio Luiz Usberti"
         },
@@ -10266,9 +10266,9 @@ CONTESTS[2018]["1aFase"] = {
             "Matheus De Souza Ataide"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Fábio Luiz Usberti"
         },
@@ -10283,9 +10283,9 @@ CONTESTS[2018]["1aFase"] = {
             "Bruno Arnoni Falkenburg"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Fábio Luiz Usberti"
         }
@@ -10302,9 +10302,9 @@ CONTESTS[2018]["1aFase"] = {
             "Bruno Alexander Guenta Tsurushima"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Jose Reinaldo Merlin"
         },
@@ -10319,9 +10319,9 @@ CONTESTS[2018]["1aFase"] = {
             "Kaique Santos"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Jose Reinaldo Merlin"
         },
@@ -10336,9 +10336,9 @@ CONTESTS[2018]["1aFase"] = {
             "Igor Goulart De Oliveira"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Jose Reinaldo Merlin"
         }
@@ -10355,9 +10355,9 @@ CONTESTS[2018]["1aFase"] = {
             "Bruno Prates Coelho"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Diego Furtado Silva"
         },
@@ -10372,9 +10372,9 @@ CONTESTS[2018]["1aFase"] = {
             "Gabriel Alves"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Mayk Tulio Bezerra"
         },
@@ -10389,9 +10389,9 @@ CONTESTS[2018]["1aFase"] = {
             "Guilherme Henna"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Diego Furtado Silva"
         },
@@ -10406,9 +10406,9 @@ CONTESTS[2018]["1aFase"] = {
             "Luiz Arthur Oliveira"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Diego Furtado Silva"
         },
@@ -10423,9 +10423,9 @@ CONTESTS[2018]["1aFase"] = {
             "Vitor Sugaya"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Ariane Gomes"
         }
@@ -10442,9 +10442,9 @@ CONTESTS[2018]["1aFase"] = {
             "Abner Figueiredo Bertelline"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Mario Lizier"
         }
@@ -10461,9 +10461,9 @@ CONTESTS[2018]["1aFase"] = {
             "Renata Dos Santos Silva Paes"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Female"
+            "MALE",
+            "MALE",
+            "FEMALE"
           ],
           "Coach": "Cristiane Sato"
         },
@@ -10478,9 +10478,9 @@ CONTESTS[2018]["1aFase"] = {
             "Vitor Costa De Farias"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Cristiane Sato"
         },
@@ -10495,9 +10495,9 @@ CONTESTS[2018]["1aFase"] = {
             "Vinícius Veronese Gonçalves"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Cristiane Sato"
         },
@@ -10512,9 +10512,9 @@ CONTESTS[2018]["1aFase"] = {
             "Bryan Bialokur Da Cruz"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Cristiane Sato"
         }
@@ -10531,9 +10531,9 @@ CONTESTS[2018]["1aFase"] = {
             "Henrique Luiz Santos"
           ],
           "Sex": [
-            "Male",
-            "Female",
-            "Male"
+            "MALE",
+            "FEMALE",
+            "MALE"
           ],
           "Coach": "Daniel Ferreira De Barros Junior"
         },
@@ -10548,9 +10548,9 @@ CONTESTS[2018]["1aFase"] = {
             "Natan Alves Do Nascimento"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Daniel Ferreira De Barros Junior"
         },
@@ -10560,14 +10560,14 @@ CONTESTS[2018]["1aFase"] = {
           "Site": "São Paulo",
           "Short name": "UNINOVE",
           "Contestants": [
-            "Rodrigo Luan",
             "Joao Henrique Damazio",
-            "Carlos Afonso Braga"
+            "Carlos Afonso Braga",
+            "Rodrigo Luan"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Daniel Ferreira De Barros Junior"
         }
@@ -10584,9 +10584,9 @@ CONTESTS[2018]["1aFase"] = {
             "Matheus Adami"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Juliano Lima"
         },
@@ -10601,9 +10601,9 @@ CONTESTS[2018]["1aFase"] = {
             "Renan Melo"
           ],
           "Sex": [
-            "Male",
-            "Female",
-            "Male"
+            "MALE",
+            "FEMALE",
+            "MALE"
           ],
           "Coach": "Jônatas Leite De Oliveira"
         },
@@ -10618,9 +10618,9 @@ CONTESTS[2018]["1aFase"] = {
             "Rafael Dias Pimenta"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Rafael Marcelino De Jesus"
         }
@@ -10637,9 +10637,9 @@ CONTESTS[2018]["1aFase"] = {
             "Anderson Franco"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Victor Rodrigues"
         }
@@ -10656,9 +10656,9 @@ CONTESTS[2018]["1aFase"] = {
             "Rodrigo Oliveira"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Israel Florentino"
         },
@@ -10673,9 +10673,9 @@ CONTESTS[2018]["1aFase"] = {
             "Kaleb Rodrigues Oliveira"
           ],
           "Sex": [
-            "Female",
-            "Male",
-            "Male"
+            "FEMALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Israel Florentino"
         },
@@ -10690,9 +10690,9 @@ CONTESTS[2018]["1aFase"] = {
             "Ana Carolina Dos Santos Silva"
           ],
           "Sex": [
-            "Female",
-            "Female",
-            "Female"
+            "FEMALE",
+            "FEMALE",
+            "FEMALE"
           ],
           "Coach": "Israel Florentino"
         },
@@ -10707,9 +10707,9 @@ CONTESTS[2018]["1aFase"] = {
             "Rodrigo Vitor Ribeiro"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Israel Florentino"
         },
@@ -10724,9 +10724,9 @@ CONTESTS[2018]["1aFase"] = {
             "Barbara Moraes"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Female"
+            "MALE",
+            "MALE",
+            "FEMALE"
           ],
           "Coach": "Israel Florentino"
         },
@@ -10741,9 +10741,9 @@ CONTESTS[2018]["1aFase"] = {
             "Erick Lopes"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Israel Florentino"
         },
@@ -10758,9 +10758,9 @@ CONTESTS[2018]["1aFase"] = {
             "Lucas Cerqueira Figueiredo"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Israel Florentino"
         },
@@ -10775,9 +10775,9 @@ CONTESTS[2018]["1aFase"] = {
             "Diogo Torres"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Israel Florentino"
         }
@@ -10794,9 +10794,9 @@ CONTESTS[2018]["1aFase"] = {
             "José Guilherme Picolo"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Felipe Cavalaro"
         }
@@ -10813,9 +10813,9 @@ CONTESTS[2018]["1aFase"] = {
             "Vinicius Biondi França"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Carlos Menezes"
         },
@@ -10830,9 +10830,9 @@ CONTESTS[2018]["1aFase"] = {
             "Julio Santos"
           ],
           "Sex": [
-            "Male",
-            "Female",
-            "Male"
+            "MALE",
+            "FEMALE",
+            "MALE"
           ],
           "Coach": "Carlos Menezes"
         },
@@ -10847,9 +10847,9 @@ CONTESTS[2018]["1aFase"] = {
             "Lucas Firmo"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Carlos Menezes"
         },
@@ -10864,9 +10864,9 @@ CONTESTS[2018]["1aFase"] = {
             "Romario Uchoa"
           ],
           "Sex": [
-            "Female",
-            "Female",
-            "Male"
+            "FEMALE",
+            "FEMALE",
+            "MALE"
           ],
           "Coach": "Carlos Menezes"
         },
@@ -10881,9 +10881,9 @@ CONTESTS[2018]["1aFase"] = {
             "Fernando Frascino"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Carlos Menezes"
         }
@@ -10900,9 +10900,9 @@ CONTESTS[2018]["1aFase"] = {
             "Leonardo Augusto De Souza Silva"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Waldemar Bonventi Jr"
         }
@@ -10919,9 +10919,9 @@ CONTESTS[2018]["1aFase"] = {
             "Felipe Castro De Noronha"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Yan Couto"
         },
@@ -10936,9 +10936,9 @@ CONTESTS[2018]["1aFase"] = {
             "Giovanna Conrado"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Female"
+            "MALE",
+            "MALE",
+            "FEMALE"
           ],
           "Coach": "Yan Couto"
         },
@@ -10953,9 +10953,9 @@ CONTESTS[2018]["1aFase"] = {
             "Felipe Hiroyuki Tabuti Sibuya"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Yan Couto"
         },
@@ -10970,9 +10970,9 @@ CONTESTS[2018]["1aFase"] = {
             "Gabriel De Russo E Carmo"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Yan Couto"
         },
@@ -10987,9 +10987,9 @@ CONTESTS[2018]["1aFase"] = {
             "Breno Helfstein Moura"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Yan Couto"
         },
@@ -11004,9 +11004,9 @@ CONTESTS[2018]["1aFase"] = {
             "Pedro Bortolli"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Yan Couto"
         },
@@ -11021,9 +11021,9 @@ CONTESTS[2018]["1aFase"] = {
             "Nathan Benedetto Proença"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Yan Couto"
         }
@@ -11040,9 +11040,9 @@ CONTESTS[2018]["1aFase"] = {
             "Auro Martins Soares Junior"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "André De Freitas Smaira"
         },
@@ -11057,9 +11057,9 @@ CONTESTS[2018]["1aFase"] = {
             "Fabio Fogarin Destro"
           ],
           "Sex": [
-            "Male",
-            "Female",
-            "Male"
+            "MALE",
+            "FEMALE",
+            "MALE"
           ],
           "Coach": "Danilo Tedeschi"
         },
@@ -11074,9 +11074,9 @@ CONTESTS[2018]["1aFase"] = {
             "Caio Candido"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Danilo Tedeschi"
         },
@@ -11091,9 +11091,9 @@ CONTESTS[2018]["1aFase"] = {
             "Lucas Turci"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Rodrigo Weigert"
         },
@@ -11108,9 +11108,9 @@ CONTESTS[2018]["1aFase"] = {
             "Gustavo Henrique Marques Garcia"
           ],
           "Sex": [
-            "Female",
-            "Male",
-            "Male"
+            "FEMALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "André De Freitas Smaira"
         },
@@ -11125,9 +11125,9 @@ CONTESTS[2018]["1aFase"] = {
             "Andre Fakhoury"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Braulio Bezerra Da Silva"
         },
@@ -11142,9 +11142,9 @@ CONTESTS[2018]["1aFase"] = {
             "Luís Eduardo Rozante"
           ],
           "Sex": [
-            "Female",
-            "Male",
-            "Male"
+            "FEMALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Braulio Bezerra Da Silva"
         },
@@ -11159,9 +11159,9 @@ CONTESTS[2018]["1aFase"] = {
             "Paulo Silva"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Danilo Tedeschi"
         },
@@ -11176,9 +11176,9 @@ CONTESTS[2018]["1aFase"] = {
             "Samuel Santos"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Danilo Tedeschi"
         }
@@ -11195,9 +11195,9 @@ CONTESTS[2018]["1aFase"] = {
             "João Pedro Silvino Paes"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Daniel Merli Lamosa"
         },
@@ -11212,9 +11212,9 @@ CONTESTS[2018]["1aFase"] = {
             "João Carvalho"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Daniel Merli Lamosa"
         },
@@ -11229,9 +11229,9 @@ CONTESTS[2018]["1aFase"] = {
             "Eduardo Watanabe Lima"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Daniel Merli Lamosa"
         }
@@ -11248,9 +11248,9 @@ CONTESTS[2018]["1aFase"] = {
             "Amadeu Vinícius Duarte Fernandes"
           ],
           "Sex": [
-            "Male",
-            "Female",
-            "Male"
+            "MALE",
+            "FEMALE",
+            "MALE"
           ],
           "Coach": "Wagner Clementino De Jesus"
         },
@@ -11265,9 +11265,9 @@ CONTESTS[2018]["1aFase"] = {
             "Isabelle Lamin"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Female"
+            "MALE",
+            "MALE",
+            "FEMALE"
           ],
           "Coach": "Valdir Pillat"
         },
@@ -11282,9 +11282,9 @@ CONTESTS[2018]["1aFase"] = {
             "Caio Souza"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Valdir Pillat"
         }
@@ -11305,9 +11305,9 @@ CONTESTS[2018]["1aFase"] = {
             "Renan Tashiro"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Josué Pereira De Castro"
         },
@@ -11322,9 +11322,9 @@ CONTESTS[2018]["1aFase"] = {
             "Gabriela Sereniski"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Female"
+            "MALE",
+            "MALE",
+            "FEMALE"
           ],
           "Coach": "Josué Pereira De Castro"
         },
@@ -11339,9 +11339,9 @@ CONTESTS[2018]["1aFase"] = {
             "Lucas Frank Hollmann"
           ],
           "Sex": [
-            "Female",
-            "Male",
-            "Male"
+            "FEMALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Josué Pereira De Castro"
         }
@@ -11358,9 +11358,9 @@ CONTESTS[2018]["1aFase"] = {
             "Felipe Asano"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Eliane Pereira"
         },
@@ -11375,9 +11375,9 @@ CONTESTS[2018]["1aFase"] = {
             "Leví Cícero Arcanjo"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Eliane Pereira"
         },
@@ -11392,9 +11392,9 @@ CONTESTS[2018]["1aFase"] = {
             "Arthur Sobral"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Antonio Marcos Hachisuca"
         },
@@ -11409,9 +11409,9 @@ CONTESTS[2018]["1aFase"] = {
             "Adrian Fuchs"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Antonio Marcos Hachisuca"
         },
@@ -11426,9 +11426,9 @@ CONTESTS[2018]["1aFase"] = {
             "Rebeca Cavalcante"
           ],
           "Sex": [
-            "Male",
-            "Female",
-            "Female"
+            "MALE",
+            "FEMALE",
+            "FEMALE"
           ],
           "Coach": "Eliane Pereira"
         },
@@ -11443,9 +11443,9 @@ CONTESTS[2018]["1aFase"] = {
             "João Vitor Zeni Rafagnin"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Antonio Marcos Hachisuca"
         },
@@ -11460,9 +11460,9 @@ CONTESTS[2018]["1aFase"] = {
             "Eduardo Kenji Sakamoto"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Eliane Pereira"
         },
@@ -11477,9 +11477,9 @@ CONTESTS[2018]["1aFase"] = {
             "Camila Marques Rodriguez"
           ],
           "Sex": [
-            "Female",
-            "Female",
-            "Female"
+            "FEMALE",
+            "FEMALE",
+            "FEMALE"
           ],
           "Coach": "Eliane Pereira"
         },
@@ -11494,9 +11494,9 @@ CONTESTS[2018]["1aFase"] = {
             "Victor Alicino"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Eliane Pereira"
         }
@@ -11513,9 +11513,9 @@ CONTESTS[2018]["1aFase"] = {
             "Leonardo Assunção"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Daniel Kikuti"
         },
@@ -11530,9 +11530,9 @@ CONTESTS[2018]["1aFase"] = {
             "Christian Takashi Nakata"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Daniel Kikuti"
         },
@@ -11547,9 +11547,9 @@ CONTESTS[2018]["1aFase"] = {
             "Narcizo Palioto"
           ],
           "Sex": [
-            "Male",
-            "Female",
-            "Male"
+            "MALE",
+            "FEMALE",
+            "MALE"
           ],
           "Coach": "Daniel Kikuti"
         },
@@ -11564,9 +11564,9 @@ CONTESTS[2018]["1aFase"] = {
             "José Galbardi"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Daniel Kikuti"
         },
@@ -11581,9 +11581,9 @@ CONTESTS[2018]["1aFase"] = {
             "Guilherme Chichanoski"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Daniel Kikuti"
         },
@@ -11598,9 +11598,9 @@ CONTESTS[2018]["1aFase"] = {
             "Otavio Kochi"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Daniel Kikuti"
         },
@@ -11615,9 +11615,9 @@ CONTESTS[2018]["1aFase"] = {
             "Sandro Catabriga"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Daniel Kikuti"
         },
@@ -11632,9 +11632,9 @@ CONTESTS[2018]["1aFase"] = {
             "Thiago Yasunaka"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Daniel Kikuti"
         }
@@ -11651,9 +11651,9 @@ CONTESTS[2018]["1aFase"] = {
             "Gabriel Krysa"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Mauro Miazaki"
         },
@@ -11668,9 +11668,9 @@ CONTESTS[2018]["1aFase"] = {
             "Volmir Fiorini Júnior"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Tony Alexander Hild"
         },
@@ -11685,9 +11685,9 @@ CONTESTS[2018]["1aFase"] = {
             "Matheus Minski Dos Santos"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Tony Alexander Hild"
         }
@@ -11704,9 +11704,9 @@ CONTESTS[2018]["1aFase"] = {
             "Kelvin Javorski"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Felipe Augusto Przysiada"
         },
@@ -11721,9 +11721,9 @@ CONTESTS[2018]["1aFase"] = {
             "Pierre Omairi"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Felipe Augusto Przysiada"
         }
@@ -11740,9 +11740,9 @@ CONTESTS[2018]["1aFase"] = {
             "Guilherme Poleto"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Ricardo Tavares De Oliveira"
         }
@@ -11759,9 +11759,9 @@ CONTESTS[2018]["1aFase"] = {
             "James Bruno Loose Koelln"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Pedro Paula"
         },
@@ -11776,9 +11776,9 @@ CONTESTS[2018]["1aFase"] = {
             "Eric Dos Reis Alves"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Pedro Paula"
         },
@@ -11793,9 +11793,9 @@ CONTESTS[2018]["1aFase"] = {
             "Lucas Da Silva Lima"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Pedro Paula"
         }
@@ -11812,9 +11812,9 @@ CONTESTS[2018]["1aFase"] = {
             "Matheus Silva De Oliveira"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Saulo Jorge Beltrão De Queiroz"
         }
@@ -11833,9 +11833,9 @@ CONTESTS[2018]["1aFase"] = {
             "Luiz Zunino Buchvaitz"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Carlos Vinícius Rasch Alves"
         },
@@ -11850,9 +11850,9 @@ CONTESTS[2018]["1aFase"] = {
             "Frederico Kremer"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Carlos Vinícius Rasch Alves"
         },
@@ -11867,9 +11867,9 @@ CONTESTS[2018]["1aFase"] = {
             "Yuri Bento"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Angelo Luz"
         },
@@ -11884,9 +11884,9 @@ CONTESTS[2018]["1aFase"] = {
             "Bryan Pereira"
           ],
           "Sex": [
-            "Female",
-            "Male",
-            "Male"
+            "FEMALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Angelo Luz"
         }
@@ -11903,9 +11903,9 @@ CONTESTS[2018]["1aFase"] = {
             "Bruno Löbell"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Vinicius Oliveira"
         },
@@ -11920,9 +11920,9 @@ CONTESTS[2018]["1aFase"] = {
             "Anna Flávia Zimmermann Brandão"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Female"
+            "MALE",
+            "MALE",
+            "FEMALE"
           ],
           "Coach": "Vinicius Oliveira"
         },
@@ -11937,9 +11937,9 @@ CONTESTS[2018]["1aFase"] = {
             "Giulia Bordignon Silveira"
           ],
           "Sex": [
-            "Male",
-            "Female",
-            "Female"
+            "MALE",
+            "FEMALE",
+            "FEMALE"
           ],
           "Coach": "Vinicius Oliveira"
         },
@@ -11954,9 +11954,9 @@ CONTESTS[2018]["1aFase"] = {
             "Luiz Gustavo Xavier"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Vinicius Oliveira"
         }
@@ -11973,9 +11973,9 @@ CONTESTS[2018]["1aFase"] = {
             "Luis Felipe Czarnobay"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Claudinei Hoss"
         },
@@ -11990,9 +11990,9 @@ CONTESTS[2018]["1aFase"] = {
             "Mateus Cremonini"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Claudinei Hoss"
         }
@@ -12009,9 +12009,9 @@ CONTESTS[2018]["1aFase"] = {
             "Victor Augusto Zunho"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Adilso Nunes De Souza"
         },
@@ -12026,9 +12026,9 @@ CONTESTS[2018]["1aFase"] = {
             "Robson Brum Dos Santos"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Adilso Nunes De Souza"
         }
@@ -12045,9 +12045,9 @@ CONTESTS[2018]["1aFase"] = {
             "Conrado Boeira"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "João Oliveira"
         },
@@ -12062,9 +12062,9 @@ CONTESTS[2018]["1aFase"] = {
             "Fernando Maioli"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "João Oliveira"
         },
@@ -12079,9 +12079,9 @@ CONTESTS[2018]["1aFase"] = {
             "Gabriel Rockenbach"
           ],
           "Sex": [
-            "Male",
-            "Female",
-            "Male"
+            "MALE",
+            "FEMALE",
+            "MALE"
           ],
           "Coach": "João Oliveira"
         }
@@ -12098,9 +12098,9 @@ CONTESTS[2018]["1aFase"] = {
             "Mateus Junior Lobor"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Jacson Luiz Matte"
         },
@@ -12115,9 +12115,9 @@ CONTESTS[2018]["1aFase"] = {
             "Edilson Rohden"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Jacson Luiz Matte"
         },
@@ -12132,9 +12132,9 @@ CONTESTS[2018]["1aFase"] = {
             "Pedro Henrique Antunes Pinto"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Tiago Zonta"
         }
@@ -12144,16 +12144,16 @@ CONTESTS[2018]["1aFase"] = {
           "Rank": 361,
           "SiteRank": 17,
           "Site": "Erechim",
-          "Short name": "UNOESC - São Miguel",
+          "Short name": "UNOESC - São Miguel ",
           "Contestants": [
             "Luiz Lobo",
             "Jordan Alexander Machado Da Silva",
             "Patrick Battisti"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Roberson Alves"
         }
@@ -12170,9 +12170,9 @@ CONTESTS[2018]["1aFase"] = {
             "Joao Victor Baesso"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Jacson Luiz Matte"
         },
@@ -12187,9 +12187,9 @@ CONTESTS[2018]["1aFase"] = {
             "Luciano Jose Virmes Pereira"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Jacson Luiz Matte"
         }
@@ -12206,9 +12206,9 @@ CONTESTS[2018]["1aFase"] = {
             "Guilherme Carvalho"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Mateus Grellert"
         },
@@ -12223,9 +12223,9 @@ CONTESTS[2018]["1aFase"] = {
             "Wellington Weikamp Porto"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Marcos Echevarria"
         }
@@ -12242,9 +12242,9 @@ CONTESTS[2018]["1aFase"] = {
             "Junior Mateus Alves Camargo"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Marcos Antonio Moretto"
         },
@@ -12259,9 +12259,9 @@ CONTESTS[2018]["1aFase"] = {
             "Renato Mello Konflanz"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Marcos Antonio Moretto"
         }
@@ -12273,14 +12273,14 @@ CONTESTS[2018]["1aFase"] = {
           "Site": "Erechim",
           "Short name": "UFFS",
           "Contestants": [
-            "Rute Oliveira Cintra",
             "Willian Genero",
-            "Cleisson Raimundi"
+            "Cleisson Raimundi",
+            "Rute Oliveira Cintra"
           ],
           "Sex": [
-            "Female",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "FEMALE"
           ],
           "Coach": "Emilio Wuerges"
         },
@@ -12295,9 +12295,9 @@ CONTESTS[2018]["1aFase"] = {
             "Patrick Dal Ponte"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Emilio Wuerges"
         },
@@ -12312,9 +12312,9 @@ CONTESTS[2018]["1aFase"] = {
             "Nicolas Ribas"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Emilio Wuerges"
         },
@@ -12329,9 +12329,9 @@ CONTESTS[2018]["1aFase"] = {
             "Marcos Theophilo Gobbi Adamczuk"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Emilio Wuerges"
         },
@@ -12346,9 +12346,9 @@ CONTESTS[2018]["1aFase"] = {
             "Maicon Dinkel Baggio"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Emilio Wuerges"
         },
@@ -12363,9 +12363,9 @@ CONTESTS[2018]["1aFase"] = {
             "Marco Ferri"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Emilio Wuerges"
         },
@@ -12380,9 +12380,9 @@ CONTESTS[2018]["1aFase"] = {
             "Éverton Vieira"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Emilio Wuerges"
         },
@@ -12392,14 +12392,14 @@ CONTESTS[2018]["1aFase"] = {
           "Site": "Erechim",
           "Short name": "UFFS",
           "Contestants": [
-            "Igor Vicente",
             "Vinicius Cornelius",
-            "Alexsandro Thomas"
+            "Alexsandro Thomas",
+            "Igor Vicente"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Emilio Wuerges"
         },
@@ -12414,9 +12414,9 @@ CONTESTS[2018]["1aFase"] = {
             "João Vitor Bruniera Labres"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Emilio Wuerges"
         },
@@ -12431,9 +12431,9 @@ CONTESTS[2018]["1aFase"] = {
             "Felipe Chabatura Neto"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Emilio Wuerges"
         },
@@ -12448,9 +12448,9 @@ CONTESTS[2018]["1aFase"] = {
             "Paulo Comasetto"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Emilio Wuerges"
         },
@@ -12460,14 +12460,14 @@ CONTESTS[2018]["1aFase"] = {
           "Site": "Erechim",
           "Short name": "UFFS",
           "Contestants": [
-            "Damas Serius",
             "Pablo Ricardo Lodi De Lima",
-            "Matheus Ribas"
+            "Matheus Ribas",
+            "Damas Serius"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Emilio Wuerges"
         }
@@ -12484,9 +12484,9 @@ CONTESTS[2018]["1aFase"] = {
             "Gustavo Bittencourt Satheler"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Claudio Schepke"
         },
@@ -12501,9 +12501,9 @@ CONTESTS[2018]["1aFase"] = {
             "Felipe Bedinotto Fava"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Claudio Schepke"
         },
@@ -12518,9 +12518,9 @@ CONTESTS[2018]["1aFase"] = {
             "Felipe Antunes Quirino"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Claudio Schepke"
         },
@@ -12535,9 +12535,9 @@ CONTESTS[2018]["1aFase"] = {
             "Felipe Melchior"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Claudio Schepke"
         },
@@ -12552,9 +12552,9 @@ CONTESTS[2018]["1aFase"] = {
             "Rodrigo Bisso Machado"
           ],
           "Sex": [
-            "Male",
-            "Female",
-            "Male"
+            "MALE",
+            "FEMALE",
+            "MALE"
           ],
           "Coach": "Claudio Schepke"
         },
@@ -12569,9 +12569,9 @@ CONTESTS[2018]["1aFase"] = {
             "Marcelo Miletto"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Claudio Schepke"
         }
@@ -12588,9 +12588,9 @@ CONTESTS[2018]["1aFase"] = {
             "William Vargas"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Rafael Coelho"
         },
@@ -12605,9 +12605,9 @@ CONTESTS[2018]["1aFase"] = {
             "Leonardo Bombardelli"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Rafael Coelho"
         },
@@ -12622,9 +12622,9 @@ CONTESTS[2018]["1aFase"] = {
             "Yuri Jaschek"
           ],
           "Sex": [
-            "Female",
-            "Male",
-            "Male"
+            "FEMALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Rafael Coelho"
         },
@@ -12639,9 +12639,9 @@ CONTESTS[2018]["1aFase"] = {
             "Fernando Zanutto"
           ],
           "Sex": [
-            "Male",
-            "Female",
-            "Male"
+            "MALE",
+            "FEMALE",
+            "MALE"
           ],
           "Coach": "Rafael Coelho"
         },
@@ -12656,9 +12656,9 @@ CONTESTS[2018]["1aFase"] = {
             "Leonardo Feiteira"
           ],
           "Sex": [
-            "Female",
-            "Male",
-            "Male"
+            "FEMALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Rafael Coelho"
         },
@@ -12673,9 +12673,9 @@ CONTESTS[2018]["1aFase"] = {
             "Jéferson Guimarães"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Rafael Coelho"
         }
@@ -12692,9 +12692,9 @@ CONTESTS[2018]["1aFase"] = {
             "Igor Tomelero De Almeida"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Gerson Groth"
         },
@@ -12709,9 +12709,9 @@ CONTESTS[2018]["1aFase"] = {
             "Ronaldo Manfredini"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Gerson Groth"
         },
@@ -12726,9 +12726,9 @@ CONTESTS[2018]["1aFase"] = {
             "Jessica Dagostini"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Female"
+            "MALE",
+            "MALE",
+            "FEMALE"
           ],
           "Coach": "Gerson Groth"
         }
@@ -12745,9 +12745,9 @@ CONTESTS[2018]["1aFase"] = {
             "Maurício Dos Santos Dessuy"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Marcos Cavalheiro"
         },
@@ -12762,9 +12762,9 @@ CONTESTS[2018]["1aFase"] = {
             "Lucas Tossi"
           ],
           "Sex": [
-            "Male",
-            "Female",
-            "Male"
+            "MALE",
+            "FEMALE",
+            "MALE"
           ],
           "Coach": "Edson Luiz Padoin"
         },
@@ -12779,9 +12779,9 @@ CONTESTS[2018]["1aFase"] = {
             "Gustavo Machado"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Edson Luiz Padoin"
         }
@@ -12798,9 +12798,9 @@ CONTESTS[2018]["1aFase"] = {
             "Homero Kemmerich"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Marcelo Trindade Rebonatto"
         },
@@ -12815,9 +12815,9 @@ CONTESTS[2018]["1aFase"] = {
             "Ricardo Fachinello"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Marcelo Trindade Rebonatto"
         },
@@ -12832,9 +12832,9 @@ CONTESTS[2018]["1aFase"] = {
             "Leonardo Deliyannis Constantin"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Marcelo Trindade Rebonatto"
         }
@@ -12853,9 +12853,9 @@ CONTESTS[2018]["1aFase"] = {
             "Leonardo Hornig"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Nilson Modro"
         }
@@ -12872,9 +12872,9 @@ CONTESTS[2018]["1aFase"] = {
             "Rodrigo Buss"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Victor Andrade"
         }
@@ -12891,9 +12891,9 @@ CONTESTS[2018]["1aFase"] = {
             "Felipe Adriano Prestes Costa"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Leanderson André"
         },
@@ -12908,9 +12908,9 @@ CONTESTS[2018]["1aFase"] = {
             "Erick Euller Opelt"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Leanderson André"
         }
@@ -12927,9 +12927,9 @@ CONTESTS[2018]["1aFase"] = {
             "Felipe Bonato"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Gustavo Mello Machado"
         },
@@ -12944,9 +12944,9 @@ CONTESTS[2018]["1aFase"] = {
             "Tobias Müller"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Alvaro Franco"
         },
@@ -12961,9 +12961,9 @@ CONTESTS[2018]["1aFase"] = {
             "Davi Nonnenmacher"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Alvaro Franco"
         }
@@ -12980,9 +12980,9 @@ CONTESTS[2018]["1aFase"] = {
             "Mateus Favarin Costa"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Maicon Rafael Zatelli"
         },
@@ -12997,9 +12997,9 @@ CONTESTS[2018]["1aFase"] = {
             "Luis Oswaldo Ganoza"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Maicon Rafael Zatelli"
         }
@@ -13016,9 +13016,9 @@ CONTESTS[2018]["1aFase"] = {
             "Claudia Pimentel"
           ],
           "Sex": [
-            "Female",
-            "Female",
-            "Female"
+            "FEMALE",
+            "FEMALE",
+            "FEMALE"
           ],
           "Coach": "Claudio Cesar De Sá"
         },
@@ -13033,9 +13033,9 @@ CONTESTS[2018]["1aFase"] = {
             "Alexandre Heiden"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Claudio Cesar De Sá"
         },
@@ -13050,9 +13050,9 @@ CONTESTS[2018]["1aFase"] = {
             "Guilherme Muller Utiama"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Claudio Cesar De Sá"
         },
@@ -13067,9 +13067,9 @@ CONTESTS[2018]["1aFase"] = {
             "Victor Lucas De Melo Mafra"
           ],
           "Sex": [
-            "Female",
-            "Male",
-            "Male"
+            "FEMALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Claudio Cesar De Sá"
         },
@@ -13084,9 +13084,9 @@ CONTESTS[2018]["1aFase"] = {
             "Ariel Agne Da Silveira"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Claudio Cesar De Sá"
         },
@@ -13101,9 +13101,9 @@ CONTESTS[2018]["1aFase"] = {
             "João Vitor Fröhlich"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Claudio Cesar De Sá"
         },
@@ -13118,9 +13118,9 @@ CONTESTS[2018]["1aFase"] = {
             "Felipe Marchi"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Claudio Cesar De Sá"
         },
@@ -13135,9 +13135,9 @@ CONTESTS[2018]["1aFase"] = {
             "Lucas Litter Mentz"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Claudio Cesar De Sá"
         },
@@ -13152,9 +13152,9 @@ CONTESTS[2018]["1aFase"] = {
             "Filipe Cattoni"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Claudio Cesar De Sá"
         }
@@ -13171,9 +13171,9 @@ CONTESTS[2018]["1aFase"] = {
             "Guilherme Rafael Deschamps"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Geraldo Menegazzo Varela"
         }
@@ -13395,7 +13395,7 @@ AGGREGATED["Mean"]["Rank"][2018]["1aFase"] = {
       "Universidade Estadual do Piauí - Campus de Parnaíba": {
         "Value": 393.0
       },
-      "Universidade Federal do Piauí": {
+      "Universidade Federal do Piauí ": {
         "Value": 382.9230769230769
       },
       "Universidade Federal do Piauí - Campus Picos": {
@@ -13623,7 +13623,7 @@ AGGREGATED["Mean"]["Rank"][2018]["1aFase"] = {
       "Universidade Federal de Viçosa - Campus Florestal": {
         "Value": 417.3333333333333
       },
-      "Universidade Federal do Triângulo Mineiro": {
+      "Universidade Federal do Triângulo Mineiro ": {
         "Value": 468.54545454545456
       },
       "Universidade José do Rosário Vellano": {
@@ -14197,7 +14197,7 @@ AGGREGATED["Count"]["Girls"][2018]["1aFase"] = {
       "Universidade Federal de Viçosa - Campus Florestal": {
         "Value": 6
       },
-      "Universidade Federal do Triângulo Mineiro": {
+      "Universidade Federal do Triângulo Mineiro ": {
         "Value": 2
       },
       "Universidade de Uberaba - Campus Uberaba": {
@@ -14571,7 +14571,7 @@ AGGREGATED["Count"]["Teams"][2018]["1aFase"] = {
       "Universidade Estadual do Piauí - Campus de Parnaíba": {
         "Value": 3
       },
-      "Universidade Federal do Piauí": {
+      "Universidade Federal do Piauí ": {
         "Value": 3
       },
       "Universidade Federal do Piauí - Campus Picos": {
@@ -14799,7 +14799,7 @@ AGGREGATED["Count"]["Teams"][2018]["1aFase"] = {
       "Universidade Federal de Viçosa - Campus Florestal": {
         "Value": 3
       },
-      "Universidade Federal do Triângulo Mineiro": {
+      "Universidade Federal do Triângulo Mineiro ": {
         "Value": 5
       },
       "Universidade José do Rosário Vellano": {

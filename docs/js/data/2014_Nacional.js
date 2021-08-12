@@ -1407,52 +1407,7 @@ if (AGGREGATED["Count"]["Girls"][2014] === undefined)
   AGGREGATED["Count"]["Girls"][2014] = {};
 
 AGGREGATED["Count"]["Girls"][2014]["Nacional"] = {
-  "Nordeste": {
-    "Value": 2,
-    "BA": {
-      "Value": 1,
-      "Universidade Estadual do Sudoeste da Bahia": {
-        "Value": 1
-      }
-    },
-    "CE": {
-      "Value": 1,
-      "Universidade Federal do Ceará": {
-        "Value": 1
-      }
-    }
-  },
-  "Norte": {
-    "Value": 1,
-    "PA": {
-      "Value": 1,
-      "Centro Universitario do Para - CESUPA": {
-        "Value": 1
-      }
-    }
-  },
-  "Sudeste": {
-    "Value": 4,
-    "MG": {
-      "Value": 1,
-      "Instituto Federal de Educação, Ciência e Tecnologia do Triângulo Mineiro - Campus Paracatu": {
-        "Value": 1
-      }
-    },
-    "SP": {
-      "Value": 3,
-      "Centro Universitário Católico Salesiano Auxilum": {
-        "Value": 1
-      },
-      "Universidade Estadual de Campinas": {
-        "Value": 1
-      },
-      "Universidade de São Paulo - Campus de São Carlos": {
-        "Value": 1
-      }
-    }
-  },
-  "Value": 7
+  "Value": 0
 };
 
 

@@ -18,9 +18,9 @@ CONTESTS[2017]["1aFase"] = {
             "Edson Silva"
           ],
           "Sex": [
-            "Male",
-            "Female",
-            "Male"
+            "MALE",
+            "FEMALE",
+            "MALE"
           ],
           "Coach": "Pedro De Lyra Pereira"
         },
@@ -35,9 +35,9 @@ CONTESTS[2017]["1aFase"] = {
             "Rafael Araújo"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Pedro De Lyra Pereira"
         },
@@ -52,9 +52,9 @@ CONTESTS[2017]["1aFase"] = {
             "João Victor Santos Botelho"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Pedro De Lyra Pereira"
         },
@@ -69,9 +69,9 @@ CONTESTS[2017]["1aFase"] = {
             "Joao Pedro Ferraz Da Silva"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Pedro De Lyra Pereira"
         }
@@ -88,9 +88,9 @@ CONTESTS[2017]["1aFase"] = {
             "Jessica Ribeiro Dos Santos"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Female"
+            "MALE",
+            "MALE",
+            "FEMALE"
           ],
           "Coach": "Guilherme Ramos"
         },
@@ -105,9 +105,9 @@ CONTESTS[2017]["1aFase"] = {
             "Gabriel Pacheco"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Guilherme Ramos"
         }
@@ -124,9 +124,9 @@ CONTESTS[2017]["1aFase"] = {
             "Luiz Eduardo Ximenes Neto"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Daniel Nunes"
         }
@@ -143,9 +143,9 @@ CONTESTS[2017]["1aFase"] = {
             "Claudio Segala Rodrigues Silva Filho"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Guilherme Ramos"
         },
@@ -160,9 +160,9 @@ CONTESTS[2017]["1aFase"] = {
             "Igor Correia"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Guilherme Ramos"
         },
@@ -177,9 +177,9 @@ CONTESTS[2017]["1aFase"] = {
             "Gabriel Taumaturgo"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Guilherme Ramos"
         },
@@ -194,9 +194,9 @@ CONTESTS[2017]["1aFase"] = {
             "João Pedro Silva De Andrade"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Vinicius Borges"
         },
@@ -211,9 +211,9 @@ CONTESTS[2017]["1aFase"] = {
             "Marcos Farias"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Guilherme Ramos"
         },
@@ -228,9 +228,9 @@ CONTESTS[2017]["1aFase"] = {
             "André Bittencourt"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Guilherme Ramos"
         },
@@ -245,9 +245,9 @@ CONTESTS[2017]["1aFase"] = {
             "Thiago Veras Machado"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Guilherme Ramos"
         }
@@ -264,9 +264,9 @@ CONTESTS[2017]["1aFase"] = {
             "Igor Duarte"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Edson Junior"
         },
@@ -281,9 +281,9 @@ CONTESTS[2017]["1aFase"] = {
             "Elmar Filho"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Edson Junior"
         },
@@ -298,9 +298,9 @@ CONTESTS[2017]["1aFase"] = {
             "Matheus Roberto Alves Da Silva"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Edson Junior"
         },
@@ -315,9 +315,9 @@ CONTESTS[2017]["1aFase"] = {
             "Izabela Cardoso"
           ],
           "Sex": [
-            "Female",
-            "Female",
-            "Female"
+            "FEMALE",
+            "FEMALE",
+            "FEMALE"
           ],
           "Coach": "Edson Junior"
         },
@@ -332,9 +332,9 @@ CONTESTS[2017]["1aFase"] = {
             "Laércio Silva De Sousa Júnior"
           ],
           "Sex": [
-            "Male",
-            "Female",
-            "Male"
+            "MALE",
+            "FEMALE",
+            "MALE"
           ],
           "Coach": "Edson Junior"
         },
@@ -349,9 +349,9 @@ CONTESTS[2017]["1aFase"] = {
             "Simião Carvalho"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Edson Junior"
         }
@@ -370,9 +370,9 @@ CONTESTS[2017]["1aFase"] = {
             "Matheus Silva"
           ],
           "Sex": [
-            "Female",
-            "Male",
-            "Male"
+            "FEMALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Everton Aleixo"
         }
@@ -389,9 +389,9 @@ CONTESTS[2017]["1aFase"] = {
             "Roberto Borges De Oliveira Alves Filho"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Francisco Xavier"
         }
@@ -408,9 +408,9 @@ CONTESTS[2017]["1aFase"] = {
             "Higor Herinque Lopes Guimarães"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Andre Ribeiro"
         },
@@ -425,9 +425,9 @@ CONTESTS[2017]["1aFase"] = {
             "Fay Klagenberg"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Andre Ribeiro"
         },
@@ -442,9 +442,9 @@ CONTESTS[2017]["1aFase"] = {
             "Júlia Kroger Costa Aguiar"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Female"
+            "MALE",
+            "MALE",
+            "FEMALE"
           ],
           "Coach": "Andre Ribeiro"
         }
@@ -461,9 +461,9 @@ CONTESTS[2017]["1aFase"] = {
             "Jehymison Gil Alves Oliveira"
           ],
           "Sex": [
-            "Female",
-            "Male",
-            "Male"
+            "FEMALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Gabriel Vieira"
         }
@@ -480,9 +480,9 @@ CONTESTS[2017]["1aFase"] = {
             "Paulo Augusto Gomes Kataki"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Humberto Longo"
         },
@@ -497,9 +497,9 @@ CONTESTS[2017]["1aFase"] = {
             "Isabela Félix França"
           ],
           "Sex": [
-            "Male",
-            "Female",
-            "Female"
+            "MALE",
+            "FEMALE",
+            "FEMALE"
           ],
           "Coach": "Humberto Longo"
         },
@@ -514,9 +514,9 @@ CONTESTS[2017]["1aFase"] = {
             "Arthur Costa E Sousa"
           ],
           "Sex": [
-            "Male",
-            "Female",
-            "Male"
+            "MALE",
+            "FEMALE",
+            "MALE"
           ],
           "Coach": "Humberto Longo"
         },
@@ -531,9 +531,9 @@ CONTESTS[2017]["1aFase"] = {
             "Otávio Soares Mortosa"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Humberto Longo"
         },
@@ -548,9 +548,9 @@ CONTESTS[2017]["1aFase"] = {
             "Rafael De Assis Cruz"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Welton Cardoso Do Carmo"
         },
@@ -565,9 +565,9 @@ CONTESTS[2017]["1aFase"] = {
             "Gabriel Martins Segatti"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Humberto Longo"
         },
@@ -582,9 +582,9 @@ CONTESTS[2017]["1aFase"] = {
             "Murillo Rodrigues De Paula"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Humberto Longo"
         },
@@ -599,9 +599,9 @@ CONTESTS[2017]["1aFase"] = {
             "Marcos Antônio De Souza"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Humberto Longo"
         }
@@ -618,9 +618,9 @@ CONTESTS[2017]["1aFase"] = {
             "Marcelo Victor De Souza Rosa"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Noeli Antônia Pimentel Vaz"
         },
@@ -635,9 +635,9 @@ CONTESTS[2017]["1aFase"] = {
             "Rafael De Amorim E Silva"
           ],
           "Sex": [
-            "Female",
-            "Female",
-            "Male"
+            "FEMALE",
+            "FEMALE",
+            "MALE"
           ],
           "Coach": "Joilson Brito"
         },
@@ -652,9 +652,9 @@ CONTESTS[2017]["1aFase"] = {
             "Nassim Moussa"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Joilson Brito"
         },
@@ -669,9 +669,9 @@ CONTESTS[2017]["1aFase"] = {
             "Rodrigo Matheus Silva Araújo"
           ],
           "Sex": [
-            "Female",
-            "Male",
-            "Male"
+            "FEMALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Joilson Brito"
         }
@@ -688,9 +688,9 @@ CONTESTS[2017]["1aFase"] = {
             "Adolfo Aires Schneider"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Alexandre Ribeiro"
         },
@@ -705,9 +705,9 @@ CONTESTS[2017]["1aFase"] = {
             "Wilguiner Alessandro"
           ],
           "Sex": [
-            "Male",
-            "Female",
-            "Male"
+            "MALE",
+            "FEMALE",
+            "MALE"
           ],
           "Coach": "Alexandre Ribeiro"
         },
@@ -722,9 +722,9 @@ CONTESTS[2017]["1aFase"] = {
             "Jorge Santos"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Alexandre Ribeiro"
         }
@@ -743,9 +743,9 @@ CONTESTS[2017]["1aFase"] = {
             "Edison Borghezan"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Anderson Araujo"
         },
@@ -760,9 +760,9 @@ CONTESTS[2017]["1aFase"] = {
             "Fabio Pessoa"
           ],
           "Sex": [
-            "Male",
-            "Female",
-            "Male"
+            "MALE",
+            "FEMALE",
+            "MALE"
           ],
           "Coach": "Anderson Araujo"
         },
@@ -777,9 +777,9 @@ CONTESTS[2017]["1aFase"] = {
             "Lucas Ramos"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Anderson Araujo"
         }
@@ -796,9 +796,9 @@ CONTESTS[2017]["1aFase"] = {
             "Gabriel Messalas Ribeiro Dos Santos"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Douglas Toledo"
         },
@@ -813,9 +813,9 @@ CONTESTS[2017]["1aFase"] = {
             "Heitor Penha Do Carmo"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Douglas Toledo"
         }
@@ -832,9 +832,9 @@ CONTESTS[2017]["1aFase"] = {
             "Lucas Ramiro Do Nascimento"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Lucas Alves Dos Santos"
         },
@@ -849,9 +849,9 @@ CONTESTS[2017]["1aFase"] = {
             "Giovane Luiz Starch Perlin"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Daniel Brumazzi"
         },
@@ -866,9 +866,9 @@ CONTESTS[2017]["1aFase"] = {
             "Gustavo Selleri Campiteli"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Daniel Brumazzi"
         },
@@ -883,9 +883,9 @@ CONTESTS[2017]["1aFase"] = {
             "Tiago Oliveira Martins"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Lucas Alves Dos Santos"
         }
@@ -902,9 +902,9 @@ CONTESTS[2017]["1aFase"] = {
             "Luiz Fernando Concolato Alves"
           ],
           "Sex": [
-            "Female",
-            "Male",
-            "Male"
+            "FEMALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Marcos Alves"
         },
@@ -919,9 +919,9 @@ CONTESTS[2017]["1aFase"] = {
             "Dalci Pinto Da Silva Júnior"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Marcos Alves"
         }
@@ -938,9 +938,9 @@ CONTESTS[2017]["1aFase"] = {
             "Luis Felipe De Oliveira Melle"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Letícia De Godoy Enz"
         },
@@ -955,9 +955,9 @@ CONTESTS[2017]["1aFase"] = {
             "Jessica Cristina De Sousa Da Silva"
           ],
           "Sex": [
-            "Male",
-            "Female",
-            "Female"
+            "MALE",
+            "FEMALE",
+            "FEMALE"
           ],
           "Coach": "Letícia De Godoy Enz"
         }
@@ -974,9 +974,9 @@ CONTESTS[2017]["1aFase"] = {
             "Higor Aparecido Menezes"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Rodrigo Sacchi"
         },
@@ -991,9 +991,9 @@ CONTESTS[2017]["1aFase"] = {
             "Gabriele Paloma Vieira Rodrigues"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Female"
+            "MALE",
+            "MALE",
+            "FEMALE"
           ],
           "Coach": "Rodrigo Sacchi"
         },
@@ -1008,9 +1008,9 @@ CONTESTS[2017]["1aFase"] = {
             "João Marcos Oliveira Lima"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Rodrigo Sacchi"
         }
@@ -1027,9 +1027,9 @@ CONTESTS[2017]["1aFase"] = {
             "Kelvin Rodrigues"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Bárbara Barros"
         }
@@ -1048,9 +1048,9 @@ CONTESTS[2017]["1aFase"] = {
             "Newton Miotto"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Nielsen Cassiano Simões"
         },
@@ -1065,9 +1065,9 @@ CONTESTS[2017]["1aFase"] = {
             "Igor Jordany Richtic Silva"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Nielsen Cassiano Simões"
         },
@@ -1082,9 +1082,9 @@ CONTESTS[2017]["1aFase"] = {
             "Caio Henrique Silva Rodrigues"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Nielsen Cassiano Simões"
         },
@@ -1099,9 +1099,9 @@ CONTESTS[2017]["1aFase"] = {
             "Allan Fereira Geraldo De Alencar"
           ],
           "Sex": [
-            "Male",
-            "Female",
-            "Male"
+            "MALE",
+            "FEMALE",
+            "MALE"
           ],
           "Coach": "Vanice Canuto Cunha"
         },
@@ -1116,9 +1116,9 @@ CONTESTS[2017]["1aFase"] = {
             "Pedro Augusto Salamoni"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Thiago Ventura"
         },
@@ -1133,9 +1133,9 @@ CONTESTS[2017]["1aFase"] = {
             "Glauber Atanaka Dos Santos"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Thiago Ventura"
         },
@@ -1150,9 +1150,9 @@ CONTESTS[2017]["1aFase"] = {
             "Phelip José Barros Vieira"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Thiago Ventura"
         },
@@ -1167,9 +1167,9 @@ CONTESTS[2017]["1aFase"] = {
             "Gustavo Ueda"
           ],
           "Sex": [
-            "Male",
-            "Female",
-            "Male"
+            "MALE",
+            "FEMALE",
+            "MALE"
           ],
           "Coach": "Thiago Ventura"
         },
@@ -1184,9 +1184,9 @@ CONTESTS[2017]["1aFase"] = {
             "Jonathan Francisco Ferreira"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Thiago Ventura"
         },
@@ -1201,9 +1201,9 @@ CONTESTS[2017]["1aFase"] = {
             "Daniel Cruz"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Thiago Ventura"
         },
@@ -1218,9 +1218,9 @@ CONTESTS[2017]["1aFase"] = {
             "Johnata Montanher"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Thiago Ventura"
         },
@@ -1235,9 +1235,9 @@ CONTESTS[2017]["1aFase"] = {
             "Cleyton Campos Gonçalves"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Thiago Ventura"
         },
@@ -1252,9 +1252,9 @@ CONTESTS[2017]["1aFase"] = {
             "Bruno Sette"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Thiago Ventura"
         },
@@ -1269,9 +1269,9 @@ CONTESTS[2017]["1aFase"] = {
             "João Victor Barbosa Chiroli"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Thiago Ventura"
         },
@@ -1286,9 +1286,9 @@ CONTESTS[2017]["1aFase"] = {
             "Wallison Goncalves De Souza"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Thiago Ventura"
         },
@@ -1303,9 +1303,9 @@ CONTESTS[2017]["1aFase"] = {
             "Gabriel Frutuoso"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Nielsen Cassiano Simões"
         },
@@ -1320,9 +1320,9 @@ CONTESTS[2017]["1aFase"] = {
             "David Henrique Da Luz Sampaio"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Thiago Ventura"
         },
@@ -1337,9 +1337,9 @@ CONTESTS[2017]["1aFase"] = {
             "Luiz Fernando Teske"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Nielsen Cassiano Simões"
         },
@@ -1354,9 +1354,9 @@ CONTESTS[2017]["1aFase"] = {
             "Gabriel Silva Mesquita Souza"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Thiago Ventura"
         }
@@ -1373,9 +1373,9 @@ CONTESTS[2017]["1aFase"] = {
             "Kayke Rocha"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Roger Resmini"
         },
@@ -1390,9 +1390,9 @@ CONTESTS[2017]["1aFase"] = {
             "Moises Amorim"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Roger Resmini"
         },
@@ -1407,9 +1407,9 @@ CONTESTS[2017]["1aFase"] = {
             "Guilherme Merchan Ivaszek"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Roger Resmini"
         },
@@ -1424,9 +1424,9 @@ CONTESTS[2017]["1aFase"] = {
             "Polianna Paim"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Female"
+            "MALE",
+            "MALE",
+            "FEMALE"
           ],
           "Coach": "Roger Resmini"
         }
@@ -1443,9 +1443,9 @@ CONTESTS[2017]["1aFase"] = {
             "William Mateus Duarte Da Silva"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Raoni Teixeira"
         }
@@ -1466,9 +1466,9 @@ CONTESTS[2017]["1aFase"] = {
             "Lucas Ortega"
           ],
           "Sex": [
-            "Male",
-            "Female",
-            "Male"
+            "MALE",
+            "FEMALE",
+            "MALE"
           ],
           "Coach": "Marcos Santos"
         },
@@ -1483,9 +1483,9 @@ CONTESTS[2017]["1aFase"] = {
             "Lis Azevedo"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Female"
+            "MALE",
+            "MALE",
+            "FEMALE"
           ],
           "Coach": "Marcos Santos"
         }
@@ -1502,9 +1502,9 @@ CONTESTS[2017]["1aFase"] = {
             "André Mayer"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Alex Alves Da Paixão"
         },
@@ -1519,9 +1519,9 @@ CONTESTS[2017]["1aFase"] = {
             "Michel Ferreira"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Alex Alves Da Paixão"
         }
@@ -1538,9 +1538,9 @@ CONTESTS[2017]["1aFase"] = {
             "Rafael Rembrandt Lobato De Aquino"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Osvaldo Requião Melo"
         },
@@ -1555,9 +1555,9 @@ CONTESTS[2017]["1aFase"] = {
             "Filipe Roger Assis Dos Santos"
           ],
           "Sex": [
-            "Male",
-            "Female",
-            "Male"
+            "MALE",
+            "FEMALE",
+            "MALE"
           ],
           "Coach": "Osvaldo Requião Melo"
         },
@@ -1572,9 +1572,9 @@ CONTESTS[2017]["1aFase"] = {
             "Endryl Marques Do Nascimento Dos Santos"
           ],
           "Sex": [
-            "Female",
-            "Male",
-            "Male"
+            "FEMALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Osvaldo Requião Melo"
         },
@@ -1589,9 +1589,9 @@ CONTESTS[2017]["1aFase"] = {
             "Felipe Deveza De Almeida"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Osvaldo Requião Melo"
         },
@@ -1606,9 +1606,9 @@ CONTESTS[2017]["1aFase"] = {
             "João Vitor Pontes Da Silva"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Osvaldo Requião Melo"
         }
@@ -1625,9 +1625,9 @@ CONTESTS[2017]["1aFase"] = {
             "Pedro Henrique Brandão"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "João Victor Mota Do Nascimento"
         },
@@ -1642,9 +1642,9 @@ CONTESTS[2017]["1aFase"] = {
             "Antonio Crispim Amorim Neto"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "João Victor Mota Do Nascimento"
         },
@@ -1659,9 +1659,9 @@ CONTESTS[2017]["1aFase"] = {
             "Heitor Silva"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "João Victor Mota Do Nascimento"
         }
@@ -1678,9 +1678,9 @@ CONTESTS[2017]["1aFase"] = {
             "Aurelio Chausse"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Hamilton Brumatto"
         }
@@ -1697,9 +1697,9 @@ CONTESTS[2017]["1aFase"] = {
             "Ademilson Leal Dos Reis"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Cátia Khouri"
         },
@@ -1714,9 +1714,9 @@ CONTESTS[2017]["1aFase"] = {
             "Igor Silva"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Cátia Khouri"
         },
@@ -1731,9 +1731,9 @@ CONTESTS[2017]["1aFase"] = {
             "Luis Chaves"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Cátia Khouri"
         }
@@ -1750,9 +1750,9 @@ CONTESTS[2017]["1aFase"] = {
             "Cleison Nascimento"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Naiara Santos"
         },
@@ -1767,9 +1767,9 @@ CONTESTS[2017]["1aFase"] = {
             "Eurico Pimenta"
           ],
           "Sex": [
-            "Female",
-            "Male",
-            "Male"
+            "FEMALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Naiara Santos"
         },
@@ -1784,9 +1784,9 @@ CONTESTS[2017]["1aFase"] = {
             "Ian Souza Farias"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Naiara Santos"
         },
@@ -1801,9 +1801,9 @@ CONTESTS[2017]["1aFase"] = {
             "Neylan Oliveira Dos Santos"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Naiara Santos"
         },
@@ -1818,9 +1818,9 @@ CONTESTS[2017]["1aFase"] = {
             "Levi Pedreira"
           ],
           "Sex": [
-            "Male",
-            "Female",
-            "Male"
+            "MALE",
+            "FEMALE",
+            "MALE"
           ],
           "Coach": "Naiara Santos"
         },
@@ -1835,9 +1835,9 @@ CONTESTS[2017]["1aFase"] = {
             "André Gusmão Ferraz"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Naiara Santos"
         },
@@ -1852,9 +1852,9 @@ CONTESTS[2017]["1aFase"] = {
             "Danni Santos Ribeiro"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Naiara Santos"
         },
@@ -1869,9 +1869,9 @@ CONTESTS[2017]["1aFase"] = {
             "Victor Quirino"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Naiara Santos"
         },
@@ -1886,9 +1886,9 @@ CONTESTS[2017]["1aFase"] = {
             "Victória Trindade"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Female"
+            "MALE",
+            "MALE",
+            "FEMALE"
           ],
           "Coach": "Naiara Santos"
         },
@@ -1903,9 +1903,9 @@ CONTESTS[2017]["1aFase"] = {
             "Allan Alves Rodrigues"
           ],
           "Sex": [
-            "Male",
-            "Female",
-            "Male"
+            "MALE",
+            "FEMALE",
+            "MALE"
           ],
           "Coach": "Naiara Santos"
         },
@@ -1920,9 +1920,9 @@ CONTESTS[2017]["1aFase"] = {
             "Danilo Oliveira"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Naiara Santos"
         }
@@ -1939,9 +1939,9 @@ CONTESTS[2017]["1aFase"] = {
             "Ubiratan Barbosa"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Rubisley Lemes"
         },
@@ -1956,9 +1956,9 @@ CONTESTS[2017]["1aFase"] = {
             "Rafael Correa Nagy"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Rubisley Lemes"
         },
@@ -1973,9 +1973,9 @@ CONTESTS[2017]["1aFase"] = {
             "Bernardo Flores Salmeron"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Rubisley Lemes"
         },
@@ -1990,9 +1990,9 @@ CONTESTS[2017]["1aFase"] = {
             "Alisson Oliveira Souza"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Rubisley Lemes"
         },
@@ -2007,9 +2007,9 @@ CONTESTS[2017]["1aFase"] = {
             "Carlos Mendes"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Rubisley Lemes"
         },
@@ -2024,9 +2024,9 @@ CONTESTS[2017]["1aFase"] = {
             "Lara Nascimento"
           ],
           "Sex": [
-            "Female",
-            "Female",
-            "Female"
+            "FEMALE",
+            "FEMALE",
+            "FEMALE"
           ],
           "Coach": "Rubisley Lemes"
         },
@@ -2041,9 +2041,9 @@ CONTESTS[2017]["1aFase"] = {
             "Gabriel Souza"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Rubisley Lemes"
         },
@@ -2058,9 +2058,9 @@ CONTESTS[2017]["1aFase"] = {
             "Matheus Silva Freitas"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Rubisley Lemes"
         }
@@ -2077,9 +2077,9 @@ CONTESTS[2017]["1aFase"] = {
             "Mateus Amorim Silva"
           ],
           "Sex": [
-            "Male",
-            "Female",
-            "Male"
+            "MALE",
+            "FEMALE",
+            "MALE"
           ],
           "Coach": "Marcelo Linder"
         },
@@ -2094,9 +2094,9 @@ CONTESTS[2017]["1aFase"] = {
             "Luis Oliveira"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Marcelo Linder"
         }
@@ -2113,9 +2113,9 @@ CONTESTS[2017]["1aFase"] = {
             "Renato Andrade"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Jorge Farias"
         }
@@ -2132,9 +2132,9 @@ CONTESTS[2017]["1aFase"] = {
             "Rodrigo Pessoa"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Wanja Mascarenhas"
         },
@@ -2149,9 +2149,9 @@ CONTESTS[2017]["1aFase"] = {
             "Wellington Santos"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Wanja Mascarenhas"
         }
@@ -2170,9 +2170,9 @@ CONTESTS[2017]["1aFase"] = {
             "Anderson Rodrigues Palmeira"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Edimo Silva"
         },
@@ -2187,9 +2187,9 @@ CONTESTS[2017]["1aFase"] = {
             "Vinicius Brandão"
           ],
           "Sex": [
-            "Female",
-            "Male",
-            "Male"
+            "FEMALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Edimo Silva"
         }
@@ -2206,9 +2206,9 @@ CONTESTS[2017]["1aFase"] = {
             "Victoria Beserra"
           ],
           "Sex": [
-            "Female",
-            "Female",
-            "Female"
+            "FEMALE",
+            "FEMALE",
+            "FEMALE"
           ],
           "Coach": "Renato Souza"
         },
@@ -2223,9 +2223,9 @@ CONTESTS[2017]["1aFase"] = {
             "Mateus Lima"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Renato Souza"
         },
@@ -2240,9 +2240,9 @@ CONTESTS[2017]["1aFase"] = {
             "Jefferson Douglas Fernandes"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Renato Souza"
         }
@@ -2259,9 +2259,9 @@ CONTESTS[2017]["1aFase"] = {
             "Marcelo Gonçalves"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Talles Brito"
         },
@@ -2276,9 +2276,9 @@ CONTESTS[2017]["1aFase"] = {
             "Claésia Costa"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Female"
+            "MALE",
+            "MALE",
+            "FEMALE"
           ],
           "Coach": "Talles Brito"
         },
@@ -2293,9 +2293,9 @@ CONTESTS[2017]["1aFase"] = {
             "Adriel Vieira Santos"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Francisco Camilo Da Da Silva"
         },
@@ -2310,9 +2310,9 @@ CONTESTS[2017]["1aFase"] = {
             "Jayne Silva"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Female"
+            "MALE",
+            "MALE",
+            "FEMALE"
           ],
           "Coach": "Talles Brito"
         }
@@ -2329,9 +2329,9 @@ CONTESTS[2017]["1aFase"] = {
             "Augusto Falcão"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Ernani Leite"
         },
@@ -2346,9 +2346,9 @@ CONTESTS[2017]["1aFase"] = {
             "Alice Feitosa Barbosa"
           ],
           "Sex": [
-            "Female",
-            "Female",
-            "Female"
+            "FEMALE",
+            "FEMALE",
+            "FEMALE"
           ],
           "Coach": "Carina Oliveira"
         },
@@ -2363,9 +2363,9 @@ CONTESTS[2017]["1aFase"] = {
             "Matheus Oliveira"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Joel Uchoa"
         },
@@ -2380,9 +2380,9 @@ CONTESTS[2017]["1aFase"] = {
             "Vítor Chagas"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Joel Uchoa"
         },
@@ -2397,9 +2397,9 @@ CONTESTS[2017]["1aFase"] = {
             "José Wellington Pereira Junior"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Lucas Sousa"
         }
@@ -2416,9 +2416,9 @@ CONTESTS[2017]["1aFase"] = {
             "Leonardo Carneiro"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Nicolas Martins"
         },
@@ -2433,9 +2433,9 @@ CONTESTS[2017]["1aFase"] = {
             "Luis Costa"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Nicolas Martins"
         },
@@ -2450,9 +2450,9 @@ CONTESTS[2017]["1aFase"] = {
             "Thiago Magalhães"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Nicolas Martins"
         }
@@ -2469,9 +2469,9 @@ CONTESTS[2017]["1aFase"] = {
             "Jessica Cristina Cacau Patricio"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Female"
+            "MALE",
+            "MALE",
+            "FEMALE"
           ],
           "Coach": "Leonardo Sampaio Rocha"
         },
@@ -2486,9 +2486,9 @@ CONTESTS[2017]["1aFase"] = {
             "Levy Gurgel Chaves"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Leonardo Sampaio Rocha"
         },
@@ -2503,9 +2503,9 @@ CONTESTS[2017]["1aFase"] = {
             "Matheus Monteiro Silveira"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Leonardo Sampaio Rocha"
         },
@@ -2520,9 +2520,9 @@ CONTESTS[2017]["1aFase"] = {
             "Lamartine Cabral De Oliveira Neto"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Leonardo Sampaio Rocha"
         },
@@ -2537,9 +2537,9 @@ CONTESTS[2017]["1aFase"] = {
             "Xênia Beatriz Rodrigues Marques"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Female"
+            "MALE",
+            "MALE",
+            "FEMALE"
           ],
           "Coach": "Leonardo Sampaio Rocha"
         }
@@ -2556,9 +2556,9 @@ CONTESTS[2017]["1aFase"] = {
             "Francisco San Diego De Sousa Castilho"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Rudini Sampaio"
         },
@@ -2573,9 +2573,9 @@ CONTESTS[2017]["1aFase"] = {
             "Gabriel Henrique Alencar Medeiros"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Rudini Sampaio"
         },
@@ -2590,9 +2590,9 @@ CONTESTS[2017]["1aFase"] = {
             "William Ribeiro Ibiapina"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Rudini Sampaio"
         },
@@ -2607,9 +2607,9 @@ CONTESTS[2017]["1aFase"] = {
             "Lucas Pereira Torres De Araújo"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Rudini Sampaio"
         },
@@ -2624,9 +2624,9 @@ CONTESTS[2017]["1aFase"] = {
             "Otacílio Bezerra Leite Neto"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Rudini Sampaio"
         }
@@ -2643,9 +2643,9 @@ CONTESTS[2017]["1aFase"] = {
             "Hartur Alcântara"
           ],
           "Sex": [
-            "Male",
-            "Female",
-            "Male"
+            "MALE",
+            "FEMALE",
+            "MALE"
           ],
           "Coach": "Roberto Cabral"
         },
@@ -2660,9 +2660,9 @@ CONTESTS[2017]["1aFase"] = {
             "Marcus Vinicius Martins Melo"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Roberto Cabral"
         }
@@ -2679,9 +2679,9 @@ CONTESTS[2017]["1aFase"] = {
             "Pedro Torres"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Wladimir Araújo Tavares"
         },
@@ -2696,9 +2696,9 @@ CONTESTS[2017]["1aFase"] = {
             "Paulo Miranda E Silva Sousa"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Wladimir Araújo Tavares"
         },
@@ -2713,9 +2713,9 @@ CONTESTS[2017]["1aFase"] = {
             "Vinicius Teixeira De Melo"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Wladimir Araújo Tavares"
         }
@@ -2732,9 +2732,9 @@ CONTESTS[2017]["1aFase"] = {
             "Cicero Marcelo Oliveira Mendes"
           ],
           "Sex": [
-            "Male",
-            "Female",
-            "Male"
+            "MALE",
+            "FEMALE",
+            "MALE"
           ],
           "Coach": "Alexandre Arruda"
         },
@@ -2749,9 +2749,9 @@ CONTESTS[2017]["1aFase"] = {
             "Marcus Vinicius Beserra Araujo"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Pablo Luiz Braga Soares"
         },
@@ -2766,9 +2766,9 @@ CONTESTS[2017]["1aFase"] = {
             "Maria Beatriz Oliveira"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Female"
+            "MALE",
+            "MALE",
+            "FEMALE"
           ],
           "Coach": "Pablo Luiz Braga Soares"
         },
@@ -2783,9 +2783,9 @@ CONTESTS[2017]["1aFase"] = {
             "João Victor Vilela De Mendonça"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Alexandre Arruda"
         }
@@ -2802,9 +2802,9 @@ CONTESTS[2017]["1aFase"] = {
             "Gabriel Maia"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Napoleão Vieira Nepomuceno"
         }
@@ -2823,9 +2823,9 @@ CONTESTS[2017]["1aFase"] = {
             "Jonatas Arruda Peters"
           ],
           "Sex": [
-            "Male",
-            "Female",
-            "Male"
+            "MALE",
+            "FEMALE",
+            "MALE"
           ],
           "Coach": "Bruno Ramon De Almeida E Silva"
         },
@@ -2840,9 +2840,9 @@ CONTESTS[2017]["1aFase"] = {
             "Jean Lucas Ferreira De Sousa"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Bruno Ramon De Almeida E Silva"
         },
@@ -2857,9 +2857,9 @@ CONTESTS[2017]["1aFase"] = {
             "Rodrigo Santos Lima"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Bruno Ramon De Almeida E Silva"
         }
@@ -2876,9 +2876,9 @@ CONTESTS[2017]["1aFase"] = {
             "Lucas De Macedo Terças"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Carlos Soares Neto"
         },
@@ -2893,9 +2893,9 @@ CONTESTS[2017]["1aFase"] = {
             "João Marcello Mendes Moreira"
           ],
           "Sex": [
-            "Female",
-            "Male",
-            "Male"
+            "FEMALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Carlos Soares Neto"
         },
@@ -2910,9 +2910,9 @@ CONTESTS[2017]["1aFase"] = {
             "Douglas Werickson Ferreira Da Silva"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Carlos Soares Neto"
         }
@@ -2931,9 +2931,9 @@ CONTESTS[2017]["1aFase"] = {
             "José Victor Fernandes Matias"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Thyago Maia Tavares De Farias"
         }
@@ -2950,9 +2950,9 @@ CONTESTS[2017]["1aFase"] = {
             "Claudiano Sampaio"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Daniel Abella"
         },
@@ -2967,9 +2967,9 @@ CONTESTS[2017]["1aFase"] = {
             "Rafael Oliveira Da Silva"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Daniel Abella"
         },
@@ -2984,9 +2984,9 @@ CONTESTS[2017]["1aFase"] = {
             "Wesley Gonzaga Alves"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Daniel Abella"
         },
@@ -3001,9 +3001,9 @@ CONTESTS[2017]["1aFase"] = {
             "Emerson Dos Santos Cantalice"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Daniel Abella"
         }
@@ -3020,9 +3020,9 @@ CONTESTS[2017]["1aFase"] = {
             "Anderson Albuquerque De Lima"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Amirton Chagas"
         },
@@ -3037,9 +3037,9 @@ CONTESTS[2017]["1aFase"] = {
             "Guilherme Calado"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Amirton Chagas"
         }
@@ -3056,9 +3056,9 @@ CONTESTS[2017]["1aFase"] = {
             "Vitória Régia"
           ],
           "Sex": [
-            "Female",
-            "Female",
-            "Female"
+            "FEMALE",
+            "FEMALE",
+            "FEMALE"
           ],
           "Coach": "Valéria Cavalcanti"
         },
@@ -3073,9 +3073,9 @@ CONTESTS[2017]["1aFase"] = {
             "Alysson José Borba"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Paulo Ditarso Maciel Júnior"
         },
@@ -3090,9 +3090,9 @@ CONTESTS[2017]["1aFase"] = {
             "Weslley Santos"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Valéria Cavalcanti"
         },
@@ -3107,9 +3107,9 @@ CONTESTS[2017]["1aFase"] = {
             "Samuel Júnior"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Paulo Ditarso Maciel Júnior"
         }
@@ -3126,9 +3126,9 @@ CONTESTS[2017]["1aFase"] = {
             "Thairam Michel Santos Ataíde"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Sabrina De Figueiredo Souto"
         },
@@ -3143,9 +3143,9 @@ CONTESTS[2017]["1aFase"] = {
             "Antonio Marinho De Araujo Neto"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Sabrina De Figueiredo Souto"
         },
@@ -3160,9 +3160,9 @@ CONTESTS[2017]["1aFase"] = {
             "Adalcino Junior"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Sabrina De Figueiredo Souto"
         },
@@ -3177,9 +3177,9 @@ CONTESTS[2017]["1aFase"] = {
             "Joaquim Rocha"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Sabrina De Figueiredo Souto"
         }
@@ -3196,9 +3196,9 @@ CONTESTS[2017]["1aFase"] = {
             "Vinicius Paes"
           ],
           "Sex": [
-            "Female",
-            "Male",
-            "Male"
+            "FEMALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Cicero Garrozi"
         },
@@ -3213,9 +3213,9 @@ CONTESTS[2017]["1aFase"] = {
             "Gabriel Morais"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Cicero Garrozi"
         },
@@ -3230,9 +3230,9 @@ CONTESTS[2017]["1aFase"] = {
             "José Carlos Silva Junior"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Cicero Garrozi"
         },
@@ -3247,9 +3247,9 @@ CONTESTS[2017]["1aFase"] = {
             "José Vidal"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Cicero Garrozi"
         },
@@ -3264,9 +3264,9 @@ CONTESTS[2017]["1aFase"] = {
             "Matheus Demiro"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Cicero Garrozi"
         }
@@ -3283,9 +3283,9 @@ CONTESTS[2017]["1aFase"] = {
             "Henrique Lima"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Lincoln David Nery E Silva"
         },
@@ -3300,9 +3300,9 @@ CONTESTS[2017]["1aFase"] = {
             "Wenderson Paulo"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Lincoln David Nery E Silva"
         },
@@ -3317,9 +3317,9 @@ CONTESTS[2017]["1aFase"] = {
             "Edson Alves Pereira Filho"
           ],
           "Sex": [
-            "Male",
-            "Female",
-            "Male"
+            "MALE",
+            "FEMALE",
+            "MALE"
           ],
           "Coach": "Lincoln David Nery E Silva"
         },
@@ -3334,9 +3334,9 @@ CONTESTS[2017]["1aFase"] = {
             "Marcello Oliveira"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Lincoln David Nery E Silva"
         },
@@ -3351,9 +3351,9 @@ CONTESTS[2017]["1aFase"] = {
             "Fernando Máximo"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Lincoln David Nery E Silva"
         }
@@ -3370,9 +3370,9 @@ CONTESTS[2017]["1aFase"] = {
             "Raquel Rufino Costa Da Paz"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Female"
+            "MALE",
+            "MALE",
+            "FEMALE"
           ],
           "Coach": "Rohit Gheyi"
         },
@@ -3387,9 +3387,9 @@ CONTESTS[2017]["1aFase"] = {
             "Gabriel Alves Tavares"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Rohit Gheyi"
         },
@@ -3404,9 +3404,9 @@ CONTESTS[2017]["1aFase"] = {
             "Ordan Silva Santos"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Rohit Gheyi"
         },
@@ -3421,9 +3421,9 @@ CONTESTS[2017]["1aFase"] = {
             "Victor Andrade De Almeida"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Rohit Gheyi"
         },
@@ -3438,9 +3438,9 @@ CONTESTS[2017]["1aFase"] = {
             "Gustavo Bezerra Ribeiro"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Rohit Gheyi"
         },
@@ -3455,9 +3455,9 @@ CONTESTS[2017]["1aFase"] = {
             "Gabriel Felipe Cardoso Gomes"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Rohit Gheyi"
         },
@@ -3472,9 +3472,9 @@ CONTESTS[2017]["1aFase"] = {
             "Letícia Maia Teixeira"
           ],
           "Sex": [
-            "Male",
-            "Female",
-            "Female"
+            "MALE",
+            "FEMALE",
+            "FEMALE"
           ],
           "Coach": "Rohit Gheyi"
         }
@@ -3491,9 +3491,9 @@ CONTESTS[2017]["1aFase"] = {
             "Tiago Goncalves"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Katia Guimarães"
         },
@@ -3508,9 +3508,9 @@ CONTESTS[2017]["1aFase"] = {
             "Diogo Rodrigues"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Katia Guimarães"
         },
@@ -3525,9 +3525,9 @@ CONTESTS[2017]["1aFase"] = {
             "Nicola Pedulla"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Katia Guimarães"
         },
@@ -3542,9 +3542,9 @@ CONTESTS[2017]["1aFase"] = {
             "Vítor Castelo Branco"
           ],
           "Sex": [
-            "Female",
-            "Male",
-            "Male"
+            "FEMALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Katia Guimarães"
         }
@@ -3563,9 +3563,9 @@ CONTESTS[2017]["1aFase"] = {
             "Yanka Ramos"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Female"
+            "MALE",
+            "MALE",
+            "FEMALE"
           ],
           "Coach": "Leinylson Fontinele"
         },
@@ -3580,9 +3580,9 @@ CONTESTS[2017]["1aFase"] = {
             "Ramon Dos Santos Silva"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Leinylson Fontinele"
         }
@@ -3599,9 +3599,9 @@ CONTESTS[2017]["1aFase"] = {
             "Jesus Filho"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Rogério Silva"
         },
@@ -3616,9 +3616,9 @@ CONTESTS[2017]["1aFase"] = {
             "Hipólito Júnior"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Rogério Silva"
         },
@@ -3633,9 +3633,9 @@ CONTESTS[2017]["1aFase"] = {
             "Filipe Neiva"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Rogério Silva"
         },
@@ -3650,9 +3650,9 @@ CONTESTS[2017]["1aFase"] = {
             "Leoncio Ferreira"
           ],
           "Sex": [
-            "Female",
-            "Male",
-            "Male"
+            "FEMALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Rogério Silva"
         },
@@ -3667,9 +3667,9 @@ CONTESTS[2017]["1aFase"] = {
             "Bruno Darshan"
           ],
           "Sex": [
-            "Female",
-            "Male",
-            "Male"
+            "FEMALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Rogério Silva"
         }
@@ -3686,9 +3686,9 @@ CONTESTS[2017]["1aFase"] = {
             "Luis Gustavo"
           ],
           "Sex": [
-            "Female",
-            "Male",
-            "Male"
+            "FEMALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Jesiel Silva"
         },
@@ -3703,9 +3703,9 @@ CONTESTS[2017]["1aFase"] = {
             "Marcos Wênyo Rodrigues Barros E Castro"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Jader Aderson Oliveira De Abreu"
         },
@@ -3720,9 +3720,9 @@ CONTESTS[2017]["1aFase"] = {
             "Dayvid Ferreira"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Aislan Sousa"
         }
@@ -3739,9 +3739,9 @@ CONTESTS[2017]["1aFase"] = {
             "Artur Antunes Da Silva Sousa"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "José Anatiel Gonçalves Santos Landim"
         }
@@ -3758,9 +3758,9 @@ CONTESTS[2017]["1aFase"] = {
             "George Mariano Morais Lima"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Eyder Rios"
         },
@@ -3775,9 +3775,9 @@ CONTESTS[2017]["1aFase"] = {
             "Matheus Alcântara"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Marvin Lemos"
         },
@@ -3792,9 +3792,9 @@ CONTESTS[2017]["1aFase"] = {
             "Marcel Mei"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Marvin Lemos"
         },
@@ -3809,9 +3809,9 @@ CONTESTS[2017]["1aFase"] = {
             "Oberdan Cruz"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Marvin Lemos"
         }
@@ -3828,9 +3828,9 @@ CONTESTS[2017]["1aFase"] = {
             "Francisco Júnior"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Aratã Saraiva"
         },
@@ -3845,9 +3845,9 @@ CONTESTS[2017]["1aFase"] = {
             "Ian Oliveira"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Luciano Kelvin"
         },
@@ -3862,9 +3862,9 @@ CONTESTS[2017]["1aFase"] = {
             "Diego Rodrigues"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Rodrigo Baluz"
         },
@@ -3879,14 +3879,14 @@ CONTESTS[2017]["1aFase"] = {
             "Nator Junior Carvalho Da Costa"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Aratã Saraiva"
         }
       },
-      "Universidade Federal do Piauí": {
+      "Universidade Federal do Piauí ": {
         "B-Team": {
           "Rank": 564,
           "SiteRank": 9,
@@ -3898,9 +3898,9 @@ CONTESTS[2017]["1aFase"] = {
             "João Pedro Lima"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Rosianni Cruz"
         },
@@ -3915,9 +3915,9 @@ CONTESTS[2017]["1aFase"] = {
             "Açucena Rodrigues Dos Santos Soares"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Female"
+            "MALE",
+            "MALE",
+            "FEMALE"
           ],
           "Coach": "Alcilene Dalília De Sousa"
         },
@@ -3932,9 +3932,9 @@ CONTESTS[2017]["1aFase"] = {
             "Felipe Barros Caminha"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Rosianni Cruz"
         },
@@ -3949,9 +3949,9 @@ CONTESTS[2017]["1aFase"] = {
             "João Pedro Patrocínio"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Rosianni Cruz"
         },
@@ -3966,9 +3966,9 @@ CONTESTS[2017]["1aFase"] = {
             "Marcos Vinicius Dos Santos Ferreira"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Alcilene Dalília De Sousa"
         },
@@ -3983,9 +3983,9 @@ CONTESTS[2017]["1aFase"] = {
             "Wiliam De Oliveira Torres"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Alcilene Dalília De Sousa"
         },
@@ -4000,9 +4000,9 @@ CONTESTS[2017]["1aFase"] = {
             "Jederson Sousa Luz"
           ],
           "Sex": [
-            "Female",
-            "Male",
-            "Male"
+            "FEMALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Alcilene Dalília De Sousa"
         }
@@ -4021,9 +4021,9 @@ CONTESTS[2017]["1aFase"] = {
             "Francisco Gurgel"
           ],
           "Sex": [
-            "Male",
-            "Female",
-            "Male"
+            "MALE",
+            "FEMALE",
+            "MALE"
           ],
           "Coach": "Paulo Queiroz"
         }
@@ -4040,9 +4040,9 @@ CONTESTS[2017]["1aFase"] = {
             "Francisco Bento Silva Junior"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Plácido A Souza Neto"
         },
@@ -4057,9 +4057,9 @@ CONTESTS[2017]["1aFase"] = {
             "Viviane Matias"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Female"
+            "MALE",
+            "MALE",
+            "FEMALE"
           ],
           "Coach": "Plácido A Souza Neto"
         },
@@ -4074,9 +4074,9 @@ CONTESTS[2017]["1aFase"] = {
             "Astrogilda Silva"
           ],
           "Sex": [
-            "Female",
-            "Female",
-            "Female"
+            "FEMALE",
+            "FEMALE",
+            "FEMALE"
           ],
           "Coach": "Plácido A Souza Neto"
         },
@@ -4091,9 +4091,9 @@ CONTESTS[2017]["1aFase"] = {
             "Elvis Silva De Souza"
           ],
           "Sex": [
-            "Male",
-            "Female",
-            "Male"
+            "MALE",
+            "FEMALE",
+            "MALE"
           ],
           "Coach": "Plácido A Souza Neto"
         },
@@ -4108,9 +4108,9 @@ CONTESTS[2017]["1aFase"] = {
             "Victor Wagner"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Plácido A Souza Neto"
         }
@@ -4127,9 +4127,9 @@ CONTESTS[2017]["1aFase"] = {
             "Igor De Carvalho Negócio"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Carlos Augusto Prolo"
         },
@@ -4144,9 +4144,9 @@ CONTESTS[2017]["1aFase"] = {
             "André Skeete"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Carlos Augusto Prolo"
         },
@@ -4161,9 +4161,9 @@ CONTESTS[2017]["1aFase"] = {
             "Rubem Kalebe Santos"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Carlos Augusto Prolo"
         },
@@ -4178,9 +4178,9 @@ CONTESTS[2017]["1aFase"] = {
             "Railton Calheiros"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Carlos Augusto Prolo"
         },
@@ -4195,9 +4195,9 @@ CONTESTS[2017]["1aFase"] = {
             "Marciel Manoel Leal"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Carlos Augusto Prolo"
         },
@@ -4212,9 +4212,9 @@ CONTESTS[2017]["1aFase"] = {
             "Giovanni Franco De Paula Rosário"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Carlos Augusto Prolo"
         },
@@ -4229,9 +4229,9 @@ CONTESTS[2017]["1aFase"] = {
             "Deângela Caroline Gomes Neves"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Female"
+            "MALE",
+            "MALE",
+            "FEMALE"
           ],
           "Coach": "Carlos Augusto Prolo"
         },
@@ -4246,9 +4246,9 @@ CONTESTS[2017]["1aFase"] = {
             "Francisco De Paiva Marques Netto"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Carlos Augusto Prolo"
         },
@@ -4263,9 +4263,9 @@ CONTESTS[2017]["1aFase"] = {
             "Fernanda Menezes Paes Isabel"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Female"
+            "MALE",
+            "MALE",
+            "FEMALE"
           ],
           "Coach": "Carlos Augusto Prolo"
         }
@@ -4282,9 +4282,9 @@ CONTESTS[2017]["1aFase"] = {
             "Raniélison Soares De Oliveira"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Bruno Cruz De Oliveira"
         },
@@ -4299,9 +4299,9 @@ CONTESTS[2017]["1aFase"] = {
             "Daniel Ferreira Costa"
           ],
           "Sex": [
-            "Male",
-            "Female",
-            "Male"
+            "MALE",
+            "FEMALE",
+            "MALE"
           ],
           "Coach": "Bruno Cruz De Oliveira"
         }
@@ -4320,9 +4320,9 @@ CONTESTS[2017]["1aFase"] = {
             "Romário Oliveira"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Rodrigo Paes"
         },
@@ -4337,9 +4337,9 @@ CONTESTS[2017]["1aFase"] = {
             "Lucas Peixoto"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Rodrigo Paes"
         }
@@ -4356,9 +4356,9 @@ CONTESTS[2017]["1aFase"] = {
             "Marina Vivas Andrade Reis"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Female"
+            "MALE",
+            "MALE",
+            "FEMALE"
           ],
           "Coach": "Andre Britto"
         },
@@ -4373,9 +4373,9 @@ CONTESTS[2017]["1aFase"] = {
             "José Joaquim De Andrade Neto"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Andre Britto"
         },
@@ -4390,9 +4390,9 @@ CONTESTS[2017]["1aFase"] = {
             "Lucas Lopes De Souza"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Andre Britto"
         },
@@ -4407,9 +4407,9 @@ CONTESTS[2017]["1aFase"] = {
             "Leandro Souza"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Andre Britto"
         },
@@ -4424,9 +4424,9 @@ CONTESTS[2017]["1aFase"] = {
             "João Vítor Dos Almeida"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Andre Britto"
         },
@@ -4441,9 +4441,9 @@ CONTESTS[2017]["1aFase"] = {
             "Ailton Neto"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Andre Britto"
         }
@@ -4460,9 +4460,9 @@ CONTESTS[2017]["1aFase"] = {
             "Larisse Bitencourt"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Female"
+            "MALE",
+            "MALE",
+            "FEMALE"
           ],
           "Coach": "Adolfo Guimaraes"
         },
@@ -4477,9 +4477,9 @@ CONTESTS[2017]["1aFase"] = {
             "Matheus Marques"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Adolfo Guimaraes"
         },
@@ -4494,9 +4494,9 @@ CONTESTS[2017]["1aFase"] = {
             "Luciano Chagas"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Adolfo Guimaraes"
         }
@@ -4517,9 +4517,9 @@ CONTESTS[2017]["1aFase"] = {
             "Samondiano De Souza Dos Santos"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Vander Nicacio"
         }
@@ -4536,9 +4536,9 @@ CONTESTS[2017]["1aFase"] = {
             "Hiago Assunção"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Adolfo Fernandes"
         },
@@ -4553,9 +4553,9 @@ CONTESTS[2017]["1aFase"] = {
             "José Gabriel Cunha"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Victor Vieira"
         },
@@ -4570,9 +4570,9 @@ CONTESTS[2017]["1aFase"] = {
             "Rogério Da Silva"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Antonio Rege Santos"
         }
@@ -4589,9 +4589,9 @@ CONTESTS[2017]["1aFase"] = {
             "Mariana Xavier De Almeida"
           ],
           "Sex": [
-            "Female",
-            "Female",
-            "Female"
+            "FEMALE",
+            "FEMALE",
+            "FEMALE"
           ],
           "Coach": "Manoel Limeira"
         },
@@ -4606,9 +4606,9 @@ CONTESTS[2017]["1aFase"] = {
             "Cleyciane Farias De Lima"
           ],
           "Sex": [
-            "Female",
-            "Female",
-            "Female"
+            "FEMALE",
+            "FEMALE",
+            "FEMALE"
           ],
           "Coach": "Manoel Limeira"
         },
@@ -4623,9 +4623,9 @@ CONTESTS[2017]["1aFase"] = {
             "Ítalo Rogério De Oliveira Barbosa"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Macilon Araújo Costa Neto"
         },
@@ -4640,9 +4640,9 @@ CONTESTS[2017]["1aFase"] = {
             "Evandro Cavalcante De Araújo Júnior"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Manoel Limeira"
         }
@@ -4661,9 +4661,9 @@ CONTESTS[2017]["1aFase"] = {
             "Yury Jorge Luiz Phelippe Antony Barros"
           ],
           "Sex": [
-            "Female",
-            "Male",
-            "Male"
+            "FEMALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Marcela Pessoa"
         },
@@ -4678,9 +4678,9 @@ CONTESTS[2017]["1aFase"] = {
             "Rafael Pinheiro Ferreira"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Marcela Pessoa"
         },
@@ -4695,9 +4695,9 @@ CONTESTS[2017]["1aFase"] = {
             "Jefferson Oliveira"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Marcela Pessoa"
         },
@@ -4712,9 +4712,9 @@ CONTESTS[2017]["1aFase"] = {
             "Thiago Vinhote Fonseca"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Marcela Pessoa"
         }
@@ -4731,9 +4731,9 @@ CONTESTS[2017]["1aFase"] = {
             "Ingrid Lima Dos Santos"
           ],
           "Sex": [
-            "Male",
-            "Female",
-            "Female"
+            "MALE",
+            "FEMALE",
+            "FEMALE"
           ],
           "Coach": "Rosiane De Freitas Rodrigues"
         },
@@ -4748,9 +4748,9 @@ CONTESTS[2017]["1aFase"] = {
             "Yara De Souza Lima"
           ],
           "Sex": [
-            "Female",
-            "Female",
-            "Female"
+            "FEMALE",
+            "FEMALE",
+            "FEMALE"
           ],
           "Coach": "Rosiane De Freitas Rodrigues"
         },
@@ -4765,9 +4765,9 @@ CONTESTS[2017]["1aFase"] = {
             "André Xavier"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Rosiane De Freitas Rodrigues"
         },
@@ -4782,9 +4782,9 @@ CONTESTS[2017]["1aFase"] = {
             "Mardoqueu Arruda Pimentel"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Rosiane De Freitas Rodrigues"
         }
@@ -4801,9 +4801,9 @@ CONTESTS[2017]["1aFase"] = {
             "Levi Lima"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Sergio Cleger Tamayo"
         },
@@ -4818,9 +4818,9 @@ CONTESTS[2017]["1aFase"] = {
             "Vitor Carvalho"
           ],
           "Sex": [
-            "Male",
-            "Female",
-            "Male"
+            "MALE",
+            "FEMALE",
+            "MALE"
           ],
           "Coach": "Sergio Cleger Tamayo"
         },
@@ -4835,9 +4835,9 @@ CONTESTS[2017]["1aFase"] = {
             "Luiz Pedro Gadelha Da Silva"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Sergio Cleger Tamayo"
         },
@@ -4852,9 +4852,9 @@ CONTESTS[2017]["1aFase"] = {
             "Leticia Vieira"
           ],
           "Sex": [
-            "Female",
-            "Female",
-            "Female"
+            "FEMALE",
+            "FEMALE",
+            "FEMALE"
           ],
           "Coach": "Sergio Cleger Tamayo"
         },
@@ -4869,9 +4869,9 @@ CONTESTS[2017]["1aFase"] = {
             "Erick Monteiro"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Sergio Cleger Tamayo"
         }
@@ -4890,9 +4890,9 @@ CONTESTS[2017]["1aFase"] = {
             "Itamar Santos"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Arikleyton Ferreira"
         },
@@ -4907,9 +4907,9 @@ CONTESTS[2017]["1aFase"] = {
             "André Aquino Sousa"
           ],
           "Sex": [
-            "Male",
-            "Female",
-            "Male"
+            "MALE",
+            "FEMALE",
+            "MALE"
           ],
           "Coach": "Arikleyton Ferreira"
         },
@@ -4924,9 +4924,9 @@ CONTESTS[2017]["1aFase"] = {
             "Joab Alencar"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Arikleyton Ferreira"
         },
@@ -4941,9 +4941,9 @@ CONTESTS[2017]["1aFase"] = {
             "Cayque Lima"
           ],
           "Sex": [
-            "Female",
-            "Male",
-            "Male"
+            "FEMALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Arikleyton Ferreira"
         }
@@ -4960,9 +4960,9 @@ CONTESTS[2017]["1aFase"] = {
             "Gabriel Noble"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Fabio Lobato"
         },
@@ -4977,9 +4977,9 @@ CONTESTS[2017]["1aFase"] = {
             "Cauã Santos"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Fabio Lobato"
         }
@@ -4996,9 +4996,9 @@ CONTESTS[2017]["1aFase"] = {
             "Felipe Cunha Cardoso"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Flavio Brito"
         },
@@ -5013,9 +5013,9 @@ CONTESTS[2017]["1aFase"] = {
             "João Marcelino Neto"
           ],
           "Sex": [
-            "Male",
-            "Female",
-            "Male"
+            "MALE",
+            "FEMALE",
+            "MALE"
           ],
           "Coach": "Otavio Teixeira"
         },
@@ -5030,9 +5030,9 @@ CONTESTS[2017]["1aFase"] = {
             "Eduardo Nascimento"
           ],
           "Sex": [
-            "Male",
-            "Female",
-            "Male"
+            "MALE",
+            "FEMALE",
+            "MALE"
           ],
           "Coach": "Otavio Teixeira"
         },
@@ -5047,9 +5047,9 @@ CONTESTS[2017]["1aFase"] = {
             "Gabriel Gomes"
           ],
           "Sex": [
-            "Female",
-            "Female",
-            "Male"
+            "FEMALE",
+            "FEMALE",
+            "MALE"
           ],
           "Coach": "Otavio Teixeira"
         },
@@ -5064,9 +5064,9 @@ CONTESTS[2017]["1aFase"] = {
             "Geovane Silva"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Otavio Teixeira"
         },
@@ -5081,9 +5081,9 @@ CONTESTS[2017]["1aFase"] = {
             "Yan Oliveira"
           ],
           "Sex": [
-            "Male",
-            "Female",
-            "Male"
+            "MALE",
+            "FEMALE",
+            "MALE"
           ],
           "Coach": "Otavio Teixeira"
         },
@@ -5098,9 +5098,9 @@ CONTESTS[2017]["1aFase"] = {
             "Andrey Nakamura"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Flavio Brito"
         },
@@ -5115,9 +5115,9 @@ CONTESTS[2017]["1aFase"] = {
             "Arissa Niwa"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Female"
+            "MALE",
+            "MALE",
+            "FEMALE"
           ],
           "Coach": "Flavio Brito"
         }
@@ -5134,9 +5134,9 @@ CONTESTS[2017]["1aFase"] = {
             "Bruno Kenji Hosoda Mineshita"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Alan Marcel Souza"
         },
@@ -5151,9 +5151,9 @@ CONTESTS[2017]["1aFase"] = {
             "Bruno Carvalho Dos Santos"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Alan Marcel Souza"
         },
@@ -5168,9 +5168,9 @@ CONTESTS[2017]["1aFase"] = {
             "Rafael Leandro Diniz Soares"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Alan Marcel Souza"
         }
@@ -5189,9 +5189,9 @@ CONTESTS[2017]["1aFase"] = {
             "Weverson Souza"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Maigon Pontuschka"
         },
@@ -5206,9 +5206,9 @@ CONTESTS[2017]["1aFase"] = {
             "Juan Silva"
           ],
           "Sex": [
-            "Male",
-            "Female",
-            "Male"
+            "MALE",
+            "FEMALE",
+            "MALE"
           ],
           "Coach": "Maigon Pontuschka"
         },
@@ -5223,9 +5223,9 @@ CONTESTS[2017]["1aFase"] = {
             "Suelen Magalhães"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Female"
+            "MALE",
+            "MALE",
+            "FEMALE"
           ],
           "Coach": "Maigon Pontuschka"
         },
@@ -5240,9 +5240,9 @@ CONTESTS[2017]["1aFase"] = {
             "Micaela Diniz"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Female"
+            "MALE",
+            "MALE",
+            "FEMALE"
           ],
           "Coach": "Maigon Pontuschka"
         }
@@ -5259,9 +5259,9 @@ CONTESTS[2017]["1aFase"] = {
             "Juber Miranda Cunha"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Luciano Topolniak"
         }
@@ -5280,9 +5280,9 @@ CONTESTS[2017]["1aFase"] = {
             "Lucas Silva"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Jonas Mendonça"
         },
@@ -5297,9 +5297,9 @@ CONTESTS[2017]["1aFase"] = {
             "Larissa Pantoja"
           ],
           "Sex": [
-            "Female",
-            "Female",
-            "Female"
+            "FEMALE",
+            "FEMALE",
+            "FEMALE"
           ],
           "Coach": "Jonas Mendonça"
         },
@@ -5314,9 +5314,9 @@ CONTESTS[2017]["1aFase"] = {
             "Jardiano Almeida"
           ],
           "Sex": [
-            "Male",
-            "Female",
-            "Male"
+            "MALE",
+            "FEMALE",
+            "MALE"
           ],
           "Coach": "Jonas Mendonça"
         },
@@ -5331,9 +5331,9 @@ CONTESTS[2017]["1aFase"] = {
             "Francisco Elineuton Pinheiro Da Silva"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Jonas Mendonça"
         },
@@ -5348,9 +5348,9 @@ CONTESTS[2017]["1aFase"] = {
             "Pedro Lobato"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Jonas Mendonça"
         },
@@ -5365,9 +5365,9 @@ CONTESTS[2017]["1aFase"] = {
             "Hellen Susan Marques"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Female"
+            "MALE",
+            "MALE",
+            "FEMALE"
           ],
           "Coach": "Jonas Mendonça"
         }
@@ -5384,9 +5384,9 @@ CONTESTS[2017]["1aFase"] = {
             "Felipe Derkian De Sousa Freitas"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Filipe Dwan"
         }
@@ -5405,9 +5405,9 @@ CONTESTS[2017]["1aFase"] = {
             "Davi Ribeiro Dos Santos"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Rafael Carvalho"
         },
@@ -5422,9 +5422,9 @@ CONTESTS[2017]["1aFase"] = {
             "Victor Saraiva"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Tiago Almeida"
         },
@@ -5439,9 +5439,9 @@ CONTESTS[2017]["1aFase"] = {
             "Adão Henrique Ribeiro Araújo"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Tiago Almeida"
         }
@@ -5462,9 +5462,9 @@ CONTESTS[2017]["1aFase"] = {
             "Guilherme Ferrari Bravin"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Bruno Bazelato"
         },
@@ -5479,9 +5479,9 @@ CONTESTS[2017]["1aFase"] = {
             "Jean Pablo Mello"
           ],
           "Sex": [
-            "Male",
-            "Female",
-            "Male"
+            "MALE",
+            "FEMALE",
+            "MALE"
           ],
           "Coach": "Bruno Bazelato"
         },
@@ -5496,9 +5496,9 @@ CONTESTS[2017]["1aFase"] = {
             "Wellerson Prenholato De Jesus"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Bruno Bazelato"
         }
@@ -5515,9 +5515,9 @@ CONTESTS[2017]["1aFase"] = {
             "João Alvim Cosate Magnago"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Cristiano Biancardi"
         },
@@ -5532,9 +5532,9 @@ CONTESTS[2017]["1aFase"] = {
             "Cesar Castelo"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Cristiano Biancardi"
         }
@@ -5551,9 +5551,9 @@ CONTESTS[2017]["1aFase"] = {
             "João Antonio Souza"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Edmar Hell Kampke"
         }
@@ -5565,14 +5565,14 @@ CONTESTS[2017]["1aFase"] = {
           "Site": "Vila Velha",
           "Short name": "IFES",
           "Contestants": [
-            "Landerson Alexandre",
             "Brendon Mauro",
-            "Ádler Oliveira Silva Neves"
+            "Ádler Oliveira Silva Neves",
+            "Landerson Alexandre"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Jefferson Andrade"
         }
@@ -5589,9 +5589,9 @@ CONTESTS[2017]["1aFase"] = {
             "Elson Freitas Oliveira Junior"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Thiago Oliveira Dos Santos"
         },
@@ -5606,9 +5606,9 @@ CONTESTS[2017]["1aFase"] = {
             "Matheus Vicente Delunardo De Lucena"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Thiago Oliveira Dos Santos"
         },
@@ -5623,9 +5623,9 @@ CONTESTS[2017]["1aFase"] = {
             "Gabriel Ucelli"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Thiago Oliveira Dos Santos"
         },
@@ -5640,9 +5640,9 @@ CONTESTS[2017]["1aFase"] = {
             "Gabriel Giorisatto De Angelo"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Thiago Oliveira Dos Santos"
         },
@@ -5657,9 +5657,9 @@ CONTESTS[2017]["1aFase"] = {
             "Mateus Uliana"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Patricia Dockhorn Costa"
         }
@@ -5676,9 +5676,9 @@ CONTESTS[2017]["1aFase"] = {
             "Daniel Nascimento"
           ],
           "Sex": [
-            "Female",
-            "Male",
-            "Male"
+            "FEMALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Kennedy Fernandes"
         }
@@ -5697,9 +5697,9 @@ CONTESTS[2017]["1aFase"] = {
             "Pedro Henrique Ribeiro"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Alessio Miranda Junior"
         },
@@ -5714,9 +5714,9 @@ CONTESTS[2017]["1aFase"] = {
             "Athos Caetano De Assis"
           ],
           "Sex": [
-            "Female",
-            "Female",
-            "Male"
+            "FEMALE",
+            "FEMALE",
+            "MALE"
           ],
           "Coach": "Alessio Miranda Junior"
         },
@@ -5731,9 +5731,9 @@ CONTESTS[2017]["1aFase"] = {
             "Leonardo Ribeiro"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Alessio Miranda Junior"
         },
@@ -5748,9 +5748,9 @@ CONTESTS[2017]["1aFase"] = {
             "Ana Clara"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Female"
+            "MALE",
+            "MALE",
+            "FEMALE"
           ],
           "Coach": "Alessio Miranda Junior"
         },
@@ -5765,9 +5765,9 @@ CONTESTS[2017]["1aFase"] = {
             "Marcos Guilherme Ribeiro"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Alessio Miranda Junior"
         }
@@ -5784,9 +5784,9 @@ CONTESTS[2017]["1aFase"] = {
             "Matheus De Almeida Rosa"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Sandro Renato Dias"
         },
@@ -5801,9 +5801,9 @@ CONTESTS[2017]["1aFase"] = {
             "Juan Lopes Ferreira"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Sandro Renato Dias"
         },
@@ -5818,9 +5818,9 @@ CONTESTS[2017]["1aFase"] = {
             "Vitor Gomes Soares Lins Peixoto"
           ],
           "Sex": [
-            "Male",
-            "Female",
-            "Male"
+            "MALE",
+            "FEMALE",
+            "MALE"
           ],
           "Coach": "Sandro Renato Dias"
         },
@@ -5835,9 +5835,9 @@ CONTESTS[2017]["1aFase"] = {
             "Marcelo Cândido"
           ],
           "Sex": [
-            "Male",
-            "Female",
-            "Male"
+            "MALE",
+            "FEMALE",
+            "MALE"
           ],
           "Coach": "Sandro Renato Dias"
         },
@@ -5852,9 +5852,9 @@ CONTESTS[2017]["1aFase"] = {
             "Jonathan Cândido Da Silva Rodrigues"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Sandro Renato Dias"
         },
@@ -5869,9 +5869,9 @@ CONTESTS[2017]["1aFase"] = {
             "Larisse Stefany Amorim"
           ],
           "Sex": [
-            "Female",
-            "Female",
-            "Female"
+            "FEMALE",
+            "FEMALE",
+            "FEMALE"
           ],
           "Coach": "Sandro Renato Dias"
         },
@@ -5886,9 +5886,9 @@ CONTESTS[2017]["1aFase"] = {
             "Paulo Fraga"
           ],
           "Sex": [
-            "Female",
-            "Male",
-            "Male"
+            "FEMALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Sandro Renato Dias"
         },
@@ -5903,9 +5903,9 @@ CONTESTS[2017]["1aFase"] = {
             "Luiza Dos Anjos Souza"
           ],
           "Sex": [
-            "Female",
-            "Male",
-            "Female"
+            "FEMALE",
+            "MALE",
+            "FEMALE"
           ],
           "Coach": "Sandro Renato Dias"
         },
@@ -5920,9 +5920,9 @@ CONTESTS[2017]["1aFase"] = {
             "Rodrigo Dias Moreira"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Sandro Renato Dias"
         }
@@ -5939,9 +5939,9 @@ CONTESTS[2017]["1aFase"] = {
             "Luis Fernando Santana Coelho"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Lucas Caetano"
         }
@@ -5958,9 +5958,9 @@ CONTESTS[2017]["1aFase"] = {
             "Lucas Gomes Da Silva"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Barbara Quintela"
         },
@@ -5975,9 +5975,9 @@ CONTESTS[2017]["1aFase"] = {
             "Lucas Fagundes Teixeira"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Barbara Quintela"
         }
@@ -5994,9 +5994,9 @@ CONTESTS[2017]["1aFase"] = {
             "Marcos Antônio Sousa"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Roberto Porto"
         }
@@ -6013,9 +6013,9 @@ CONTESTS[2017]["1aFase"] = {
             "Italo Luis Da Silva"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Joás Baía"
         },
@@ -6030,9 +6030,9 @@ CONTESTS[2017]["1aFase"] = {
             "Lucas Fouraux Dorigueto"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Joás Baía"
         },
@@ -6047,9 +6047,9 @@ CONTESTS[2017]["1aFase"] = {
             "Lucas Magalhães Luciano"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Joás Baía"
         }
@@ -6059,16 +6059,16 @@ CONTESTS[2017]["1aFase"] = {
           "Rank": 708,
           "SiteRank": 34,
           "Site": "Uberlândia",
-          "Short name": "Pitágoras - Uberlân",
+          "Short name": " Pitágoras - Uberlân",
           "Contestants": [
             "Allefe José Soares Siqueira",
             "Gabriel Silva De Lima",
             "Matheus Maske"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Alberto Dumont Alves Oliveira"
         },
@@ -6076,16 +6076,16 @@ CONTESTS[2017]["1aFase"] = {
           "Rank": 708,
           "SiteRank": 34,
           "Site": "Uberlândia",
-          "Short name": "Pitágoras - Uberlân",
+          "Short name": " Pitágoras - Uberlân",
           "Contestants": [
             "Eduardo Dos Santos Barroso",
             "Camila Cerqueira Lott",
             "Lázaro Antônio De Souza Cordeiro"
           ],
           "Sex": [
-            "Male",
-            "Female",
-            "Male"
+            "MALE",
+            "FEMALE",
+            "MALE"
           ],
           "Coach": "Alberto Dumont Alves Oliveira"
         },
@@ -6093,16 +6093,16 @@ CONTESTS[2017]["1aFase"] = {
           "Rank": 708,
           "SiteRank": 34,
           "Site": "Uberlândia",
-          "Short name": "Pitágoras - Uberlân",
+          "Short name": " Pitágoras - Uberlân",
           "Contestants": [
             "Rodrigo Rodrigues De Angelis",
             "Walace Bernard Guimarães",
             "Sérgio Eduardo Pucci Reis"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Alberto Dumont Alves Oliveira"
         }
@@ -6119,9 +6119,9 @@ CONTESTS[2017]["1aFase"] = {
             "Lucas Medeiros"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Eduardo Santos"
         },
@@ -6136,9 +6136,9 @@ CONTESTS[2017]["1aFase"] = {
             "Markus Nathan Marques"
           ],
           "Sex": [
-            "Female",
-            "Male",
-            "Male"
+            "FEMALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Eduardo Santos"
         },
@@ -6153,9 +6153,9 @@ CONTESTS[2017]["1aFase"] = {
             "Welton Alves"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Eduardo Santos"
         }
@@ -6172,9 +6172,9 @@ CONTESTS[2017]["1aFase"] = {
             "Felix Jose Batista"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Heveraldo Oliveira"
         },
@@ -6189,9 +6189,9 @@ CONTESTS[2017]["1aFase"] = {
             "Ramon Ferreira De Souza"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Heveraldo Oliveira"
         },
@@ -6206,9 +6206,9 @@ CONTESTS[2017]["1aFase"] = {
             "Vitor Rodrigues Machado"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Heveraldo Oliveira"
         }
@@ -6225,9 +6225,9 @@ CONTESTS[2017]["1aFase"] = {
             "Deivid Alvacy Reis De Castro"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Wagner José Dos Santos Júnior"
         }
@@ -6244,9 +6244,9 @@ CONTESTS[2017]["1aFase"] = {
             "Kaio Fernandes"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Jorge Hattori"
         }
@@ -6263,9 +6263,9 @@ CONTESTS[2017]["1aFase"] = {
             "Leandro Alves De Oliveira"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Gill Mayeron Duarte"
         }
@@ -6282,9 +6282,9 @@ CONTESTS[2017]["1aFase"] = {
             "Jardel Nathan De Souza Rodrigues"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Janine Prates"
         }
@@ -6301,9 +6301,9 @@ CONTESTS[2017]["1aFase"] = {
             "Alexandre Gadelha"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Eduardo Gomes De Oliveira"
         }
@@ -6320,9 +6320,9 @@ CONTESTS[2017]["1aFase"] = {
             "João Gustavo Rogel De Oliveira"
           ],
           "Sex": [
-            "Female",
-            "Male",
-            "Male"
+            "FEMALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Dâmi Henrique Pelegrino"
         },
@@ -6337,9 +6337,9 @@ CONTESTS[2017]["1aFase"] = {
             "Eduardo Rotundaro"
           ],
           "Sex": [
-            "Male",
-            "Female",
-            "Male"
+            "MALE",
+            "FEMALE",
+            "MALE"
           ],
           "Coach": "Dâmi Henrique Pelegrino"
         },
@@ -6354,9 +6354,9 @@ CONTESTS[2017]["1aFase"] = {
             "Lucas Abbade"
           ],
           "Sex": [
-            "Male",
-            "Female",
-            "Male"
+            "MALE",
+            "FEMALE",
+            "MALE"
           ],
           "Coach": "Dâmi Henrique Pelegrino"
         },
@@ -6371,9 +6371,9 @@ CONTESTS[2017]["1aFase"] = {
             "Gustavo Policarpo"
           ],
           "Sex": [
-            "Female",
-            "Male",
-            "Male"
+            "FEMALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Dâmi Henrique Pelegrino"
         }
@@ -6390,9 +6390,9 @@ CONTESTS[2017]["1aFase"] = {
             "Wadson Pereira"
           ],
           "Sex": [
-            "Female",
-            "Male",
-            "Male"
+            "FEMALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Rafael Coelho"
         },
@@ -6407,9 +6407,9 @@ CONTESTS[2017]["1aFase"] = {
             "Francisco Navarrete Gonçalves"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Rafael Coelho"
         },
@@ -6424,9 +6424,9 @@ CONTESTS[2017]["1aFase"] = {
             "Vinicius Souza"
           ],
           "Sex": [
-            "Female",
-            "Male",
-            "Male"
+            "FEMALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Rafael Coelho"
         },
@@ -6441,9 +6441,9 @@ CONTESTS[2017]["1aFase"] = {
             "David Jansen"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Rafael Coelho"
         }
@@ -6460,9 +6460,9 @@ CONTESTS[2017]["1aFase"] = {
             "Jonathan Alves De Carvalho"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Walteno Martins Parreira Júnior"
         },
@@ -6477,9 +6477,9 @@ CONTESTS[2017]["1aFase"] = {
             "Marco Aurelio Martins Bessa"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Walteno Martins Parreira Júnior"
         }
@@ -6496,9 +6496,9 @@ CONTESTS[2017]["1aFase"] = {
             "Joao Marcos Salvanini Bellini De Moraes"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Ricardo José Martins"
         },
@@ -6513,9 +6513,9 @@ CONTESTS[2017]["1aFase"] = {
             "Natanael Fabrício Dacioli Batista"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Ricardo José Martins"
         },
@@ -6530,9 +6530,9 @@ CONTESTS[2017]["1aFase"] = {
             "Breno Henrique Anacleto"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Ricardo José Martins"
         },
@@ -6547,9 +6547,9 @@ CONTESTS[2017]["1aFase"] = {
             "Gerivaldo Cesar Silva"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Ricardo José Martins"
         },
@@ -6564,9 +6564,9 @@ CONTESTS[2017]["1aFase"] = {
             "Mikael Fonzaghi"
           ],
           "Sex": [
-            "Female",
-            "Female",
-            "Male"
+            "FEMALE",
+            "FEMALE",
+            "MALE"
           ],
           "Coach": "Ricardo José Martins"
         },
@@ -6581,9 +6581,9 @@ CONTESTS[2017]["1aFase"] = {
             "Igor Augusto De Aquino Silva"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Ricardo José Martins"
         },
@@ -6598,9 +6598,9 @@ CONTESTS[2017]["1aFase"] = {
             "Izak Jose Da Silva"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Ricardo José Martins"
         },
@@ -6615,9 +6615,9 @@ CONTESTS[2017]["1aFase"] = {
             "Amália Spineli Oliveira"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Female"
+            "MALE",
+            "MALE",
+            "FEMALE"
           ],
           "Coach": "Ricardo José Martins"
         },
@@ -6632,9 +6632,9 @@ CONTESTS[2017]["1aFase"] = {
             "Aline Oliveira"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Female"
+            "MALE",
+            "MALE",
+            "FEMALE"
           ],
           "Coach": "Ricardo José Martins"
         },
@@ -6649,9 +6649,9 @@ CONTESTS[2017]["1aFase"] = {
             "Eduarda Karoline Bianca Del Vale"
           ],
           "Sex": [
-            "Female",
-            "Female",
-            "Female"
+            "FEMALE",
+            "FEMALE",
+            "FEMALE"
           ],
           "Coach": "Ricardo José Martins"
         },
@@ -6666,9 +6666,9 @@ CONTESTS[2017]["1aFase"] = {
             "Leonardo Dos Reis Dias"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Ricardo José Martins"
         },
@@ -6683,9 +6683,9 @@ CONTESTS[2017]["1aFase"] = {
             "Diego Pereira Da Penha"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Ricardo José Martins"
         },
@@ -6700,9 +6700,9 @@ CONTESTS[2017]["1aFase"] = {
             "Cleisson Silva"
           ],
           "Sex": [
-            "Male",
-            "Female",
-            "Male"
+            "MALE",
+            "FEMALE",
+            "MALE"
           ],
           "Coach": "Ricardo José Martins"
         },
@@ -6717,9 +6717,9 @@ CONTESTS[2017]["1aFase"] = {
             "José Vicente Bonadio Grande"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Ricardo José Martins"
         }
@@ -6736,9 +6736,9 @@ CONTESTS[2017]["1aFase"] = {
             "Agmar De Ávila Torres"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Vinicius Alves Silva"
         },
@@ -6753,9 +6753,9 @@ CONTESTS[2017]["1aFase"] = {
             "Lucas Dos Santos Alves"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Vinicius Alves Silva"
         }
@@ -6772,9 +6772,9 @@ CONTESTS[2017]["1aFase"] = {
             "Vanessa Fagundes"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Female"
+            "MALE",
+            "MALE",
+            "FEMALE"
           ],
           "Coach": "Douglas Castilho"
         },
@@ -6789,9 +6789,9 @@ CONTESTS[2017]["1aFase"] = {
             "Joaquim Cioffi"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Straus Michalsky"
         },
@@ -6806,9 +6806,9 @@ CONTESTS[2017]["1aFase"] = {
             "Marcos Moreira"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Straus Michalsky"
         }
@@ -6825,9 +6825,9 @@ CONTESTS[2017]["1aFase"] = {
             "Pedro Henrique Rodrigues"
           ],
           "Sex": [
-            "Female",
-            "Female",
-            "Male"
+            "FEMALE",
+            "FEMALE",
+            "MALE"
           ],
           "Coach": "Marcelo Loures"
         },
@@ -6842,9 +6842,9 @@ CONTESTS[2017]["1aFase"] = {
             "Marcos Vinicius Fernandes Vital"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Giselle Corrêa"
         },
@@ -6859,9 +6859,9 @@ CONTESTS[2017]["1aFase"] = {
             "Bruno Henrique Da Silva Oliveira"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "André Lima"
         },
@@ -6876,9 +6876,9 @@ CONTESTS[2017]["1aFase"] = {
             "Herique Altivo"
           ],
           "Sex": [
-            "Male",
-            "Female",
-            "Male"
+            "MALE",
+            "FEMALE",
+            "MALE"
           ],
           "Coach": "Marcelo Loures"
         },
@@ -6893,9 +6893,9 @@ CONTESTS[2017]["1aFase"] = {
             "Júnior Martins Da Costa"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Ailton Luiz Dias Siqueira Junior"
         },
@@ -6910,9 +6910,9 @@ CONTESTS[2017]["1aFase"] = {
             "Aurélio Filho"
           ],
           "Sex": [
-            "Female",
-            "Male",
-            "Male"
+            "FEMALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Marcelo Loures"
         },
@@ -6927,9 +6927,9 @@ CONTESTS[2017]["1aFase"] = {
             "Adelino Pessanha"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "André Lima"
         },
@@ -6944,9 +6944,9 @@ CONTESTS[2017]["1aFase"] = {
             "Lucas Leonardo Freitas"
           ],
           "Sex": [
-            "Male",
-            "Female",
-            "Male"
+            "MALE",
+            "FEMALE",
+            "MALE"
           ],
           "Coach": "Giselle Corrêa"
         },
@@ -6961,9 +6961,9 @@ CONTESTS[2017]["1aFase"] = {
             "Renzo Marquez Piedade"
           ],
           "Sex": [
-            "Male",
-            "Female",
-            "Male"
+            "MALE",
+            "FEMALE",
+            "MALE"
           ],
           "Coach": "André Lima"
         }
@@ -6980,9 +6980,9 @@ CONTESTS[2017]["1aFase"] = {
             "André Da Silva Taveira"
           ],
           "Sex": [
-            "Male",
-            "Female",
-            "Male"
+            "MALE",
+            "FEMALE",
+            "MALE"
           ],
           "Coach": "Edwar Saliba Júnior"
         },
@@ -6997,9 +6997,9 @@ CONTESTS[2017]["1aFase"] = {
             "Guilherme Ferreirra Matos"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Edwar Saliba Júnior"
         }
@@ -7016,9 +7016,9 @@ CONTESTS[2017]["1aFase"] = {
             "João Pedro Sanches Dovichi"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Daniela Orbolato"
         },
@@ -7033,9 +7033,9 @@ CONTESTS[2017]["1aFase"] = {
             "Victor Martins"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Daniela Orbolato"
         },
@@ -7050,9 +7050,9 @@ CONTESTS[2017]["1aFase"] = {
             "Kelwin Ferreira"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Daniela Orbolato"
         },
@@ -7067,9 +7067,9 @@ CONTESTS[2017]["1aFase"] = {
             "Wendler Souza Ramos"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Daniela Orbolato"
         },
@@ -7084,9 +7084,9 @@ CONTESTS[2017]["1aFase"] = {
             "João Silva"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Daniela Orbolato"
         },
@@ -7101,9 +7101,9 @@ CONTESTS[2017]["1aFase"] = {
             "Victor Hugo Komori Silva"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Daniela Orbolato"
         },
@@ -7118,9 +7118,9 @@ CONTESTS[2017]["1aFase"] = {
             "Bruno Borges"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Daniela Orbolato"
         },
@@ -7135,9 +7135,9 @@ CONTESTS[2017]["1aFase"] = {
             "Adriano Henrique Gonçalves"
           ],
           "Sex": [
-            "Female",
-            "Male",
-            "Male"
+            "FEMALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Daniela Orbolato"
         },
@@ -7152,9 +7152,9 @@ CONTESTS[2017]["1aFase"] = {
             "Felipe Fuzaro"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Daniela Orbolato"
         },
@@ -7169,9 +7169,9 @@ CONTESTS[2017]["1aFase"] = {
             "Guilherme Otavio Dias Silva"
           ],
           "Sex": [
-            "Male",
-            "Female",
-            "Male"
+            "MALE",
+            "FEMALE",
+            "MALE"
           ],
           "Coach": "Daniela Orbolato"
         },
@@ -7186,9 +7186,9 @@ CONTESTS[2017]["1aFase"] = {
             "Leonardo Neres Silva"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Daniela Orbolato"
         },
@@ -7203,9 +7203,9 @@ CONTESTS[2017]["1aFase"] = {
             "Arthur Laranjo"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Daniela Orbolato"
         }
@@ -7222,9 +7222,9 @@ CONTESTS[2017]["1aFase"] = {
             "Andressa Souza"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Female"
+            "MALE",
+            "MALE",
+            "FEMALE"
           ],
           "Coach": "Jean Sousa"
         },
@@ -7239,9 +7239,9 @@ CONTESTS[2017]["1aFase"] = {
             "Henrique Franco"
           ],
           "Sex": [
-            "Female",
-            "Male",
-            "Male"
+            "FEMALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Cintia Oliveira"
         },
@@ -7256,9 +7256,9 @@ CONTESTS[2017]["1aFase"] = {
             "Jaqueline Neves Dorneles"
           ],
           "Sex": [
-            "Female",
-            "Male",
-            "Female"
+            "FEMALE",
+            "MALE",
+            "FEMALE"
           ],
           "Coach": "Cintia Oliveira"
         },
@@ -7273,9 +7273,9 @@ CONTESTS[2017]["1aFase"] = {
             "Kamila Freitas"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Female"
+            "MALE",
+            "MALE",
+            "FEMALE"
           ],
           "Coach": "Jean Sousa"
         },
@@ -7290,9 +7290,9 @@ CONTESTS[2017]["1aFase"] = {
             "Gustavo França Martins"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Cintia Oliveira"
         },
@@ -7307,9 +7307,9 @@ CONTESTS[2017]["1aFase"] = {
             "Marcelo Augusto Aparecido Faria"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Cintia Oliveira"
         },
@@ -7324,9 +7324,9 @@ CONTESTS[2017]["1aFase"] = {
             "Felipe Menezes"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Cintia Oliveira"
         }
@@ -7343,9 +7343,9 @@ CONTESTS[2017]["1aFase"] = {
             "Gabrielly Nascimento Santos"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Female"
+            "MALE",
+            "MALE",
+            "FEMALE"
           ],
           "Coach": "Saulo Da Mata"
         },
@@ -7360,9 +7360,9 @@ CONTESTS[2017]["1aFase"] = {
             "Yago Lopes Lázaro"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Saulo Da Mata"
         },
@@ -7377,9 +7377,9 @@ CONTESTS[2017]["1aFase"] = {
             "Marco Antônio Resende Neves"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Saulo Da Mata"
         }
@@ -7396,9 +7396,9 @@ CONTESTS[2017]["1aFase"] = {
             "Thais Moraes Murici"
           ],
           "Sex": [
-            "Female",
-            "Male",
-            "Female"
+            "FEMALE",
+            "MALE",
+            "FEMALE"
           ],
           "Coach": "Wladmir Cardoso Brandão"
         },
@@ -7413,9 +7413,9 @@ CONTESTS[2017]["1aFase"] = {
             "João Paulo De Castro Bento Pereira"
           ],
           "Sex": [
-            "Female",
-            "Male",
-            "Male"
+            "FEMALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Wladmir Cardoso Brandão"
         },
@@ -7430,9 +7430,9 @@ CONTESTS[2017]["1aFase"] = {
             "Stela Carneiro Espíndola"
           ],
           "Sex": [
-            "Female",
-            "Female",
-            "Female"
+            "FEMALE",
+            "FEMALE",
+            "FEMALE"
           ],
           "Coach": "Wladmir Cardoso Brandão"
         }
@@ -7449,9 +7449,9 @@ CONTESTS[2017]["1aFase"] = {
             "João Vitor Corrêa"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Heveraldo Oliveira"
         },
@@ -7466,9 +7466,9 @@ CONTESTS[2017]["1aFase"] = {
             "Pedro Henrique Silva Rodrigues"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Heveraldo Oliveira"
         },
@@ -7483,9 +7483,9 @@ CONTESTS[2017]["1aFase"] = {
             "Jair Soares Júnior"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Heveraldo Oliveira"
         }
@@ -7502,9 +7502,9 @@ CONTESTS[2017]["1aFase"] = {
             "Victória Olívia Araújo Vilas Boas"
           ],
           "Sex": [
-            "Female",
-            "Female",
-            "Female"
+            "FEMALE",
+            "FEMALE",
+            "FEMALE"
           ],
           "Coach": "Paulo José Lage Alvarenga"
         },
@@ -7519,9 +7519,9 @@ CONTESTS[2017]["1aFase"] = {
             "João Guilherme De Souza Alves Costa"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Paulo José Lage Alvarenga"
         },
@@ -7536,9 +7536,9 @@ CONTESTS[2017]["1aFase"] = {
             "Raphael Machado Monteiro"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Paulo José Lage Alvarenga"
         }
@@ -7555,9 +7555,9 @@ CONTESTS[2017]["1aFase"] = {
             "Tarik Vieira Mouallem"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Edmilson Moreira"
         },
@@ -7572,9 +7572,9 @@ CONTESTS[2017]["1aFase"] = {
             "Felipe Silva"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Thiago De Carvalho Pinto"
         },
@@ -7589,9 +7589,9 @@ CONTESTS[2017]["1aFase"] = {
             "Vinícius Campos"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Edmilson Moreira"
         },
@@ -7606,9 +7606,9 @@ CONTESTS[2017]["1aFase"] = {
             "Eduardo Dueñas"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Roberto Affonso Costa Junior"
         },
@@ -7623,9 +7623,9 @@ CONTESTS[2017]["1aFase"] = {
             "Jonathan Souza"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Thiago De Carvalho Pinto"
         },
@@ -7640,9 +7640,9 @@ CONTESTS[2017]["1aFase"] = {
             "Gabriel Taets"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "José Wagner De Andrade Júnior"
         },
@@ -7657,9 +7657,9 @@ CONTESTS[2017]["1aFase"] = {
             "Maurício Ferreira"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Roberto Affonso Costa Junior"
         }
@@ -7676,9 +7676,9 @@ CONTESTS[2017]["1aFase"] = {
             "Pedro Henrique Gasparetto Lugão"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Lorenza Leão Oliveira Moreno"
         }
@@ -7695,9 +7695,9 @@ CONTESTS[2017]["1aFase"] = {
             "Pedro Otávio Machado Ribeiro"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Guilherme Gomes"
         },
@@ -7712,9 +7712,9 @@ CONTESTS[2017]["1aFase"] = {
             "Rafael Oliveira"
           ],
           "Sex": [
-            "Male",
-            "Female",
-            "Male"
+            "MALE",
+            "FEMALE",
+            "MALE"
           ],
           "Coach": "Guilherme Gomes"
         },
@@ -7729,9 +7729,9 @@ CONTESTS[2017]["1aFase"] = {
             "Henrique Eustáquio Lopes Ferreira"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Guilherme Gomes"
         },
@@ -7746,9 +7746,9 @@ CONTESTS[2017]["1aFase"] = {
             "Pablo Luiz Resende Figueira"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Lucas Maciel"
         },
@@ -7763,9 +7763,9 @@ CONTESTS[2017]["1aFase"] = {
             "Pedro Henrique Targino Gama"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Derick Matheus De Oliveira"
         },
@@ -7780,9 +7780,9 @@ CONTESTS[2017]["1aFase"] = {
             "Nicholas Reis"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Dilson Guimarães"
         }
@@ -7799,9 +7799,9 @@ CONTESTS[2017]["1aFase"] = {
             "João Pedro Lonczynski"
           ],
           "Sex": [
-            "Female",
-            "Male",
-            "Male"
+            "FEMALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Pedro Gabriel Evangelista Torres"
         },
@@ -7816,9 +7816,9 @@ CONTESTS[2017]["1aFase"] = {
             "Luís Filipe Lima Alves Vieira"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Pedro Gabriel Evangelista Torres"
         },
@@ -7833,9 +7833,9 @@ CONTESTS[2017]["1aFase"] = {
             "Bruno Oliveira"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Gleiph Menezes"
         },
@@ -7850,9 +7850,9 @@ CONTESTS[2017]["1aFase"] = {
             "Júlia Beatriz Azevedo Teixeira"
           ],
           "Sex": [
-            "Male",
-            "Female",
-            "Female"
+            "MALE",
+            "FEMALE",
+            "FEMALE"
           ],
           "Coach": "Pedro Gabriel Evangelista Torres"
         },
@@ -7867,9 +7867,9 @@ CONTESTS[2017]["1aFase"] = {
             "Felipe Fontenele De Ávila Magalhães"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Pedro Gabriel Evangelista Torres"
         }
@@ -7886,9 +7886,9 @@ CONTESTS[2017]["1aFase"] = {
             "Yuri Santamarina"
           ],
           "Sex": [
-            "Female",
-            "Male",
-            "Male"
+            "FEMALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Luiz Cláudio Theodoro"
         },
@@ -7903,9 +7903,9 @@ CONTESTS[2017]["1aFase"] = {
             "Luiz Henrique Martins De Oliveira"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Luiz Cláudio Theodoro"
         },
@@ -7915,14 +7915,14 @@ CONTESTS[2017]["1aFase"] = {
           "Site": "Uberlândia",
           "Short name": "UFU",
           "Contestants": [
-            "Matheus Cunha Reis",
             "Gustavo Candido De Freitas Simões",
-            "Ronistone Reis"
+            "Ronistone Reis",
+            "Matheus Cunha Reis"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Luiz Cláudio Theodoro"
         },
@@ -7937,9 +7937,9 @@ CONTESTS[2017]["1aFase"] = {
             "Matheus Andrade"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Luiz Cláudio Theodoro"
         },
@@ -7954,9 +7954,9 @@ CONTESTS[2017]["1aFase"] = {
             "Gabriel Queiroz Nunes"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Luiz Cláudio Theodoro"
         },
@@ -7971,9 +7971,9 @@ CONTESTS[2017]["1aFase"] = {
             "Vitor Hugo Silva"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Luiz Cláudio Theodoro"
         },
@@ -7988,9 +7988,9 @@ CONTESTS[2017]["1aFase"] = {
             "Diego Jesus"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Luiz Cláudio Theodoro"
         },
@@ -8005,9 +8005,9 @@ CONTESTS[2017]["1aFase"] = {
             "Larissa Roberta Teixeira"
           ],
           "Sex": [
-            "Female",
-            "Male",
-            "Female"
+            "FEMALE",
+            "MALE",
+            "FEMALE"
           ],
           "Coach": "Luiz Cláudio Theodoro"
         },
@@ -8022,9 +8022,9 @@ CONTESTS[2017]["1aFase"] = {
             "Lucas Vinhal"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Luiz Cláudio Theodoro"
         },
@@ -8039,9 +8039,9 @@ CONTESTS[2017]["1aFase"] = {
             "Arthur Borges Duarte"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Luiz Cláudio Theodoro"
         },
@@ -8056,9 +8056,9 @@ CONTESTS[2017]["1aFase"] = {
             "Vinicius Reis"
           ],
           "Sex": [
-            "Female",
-            "Male",
-            "Male"
+            "FEMALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Luiz Cláudio Theodoro"
         },
@@ -8073,9 +8073,9 @@ CONTESTS[2017]["1aFase"] = {
             "Andressa Alvilino Silva"
           ],
           "Sex": [
-            "Male",
-            "Female",
-            "Female"
+            "MALE",
+            "FEMALE",
+            "FEMALE"
           ],
           "Coach": "Luiz Cláudio Theodoro"
         },
@@ -8090,9 +8090,9 @@ CONTESTS[2017]["1aFase"] = {
             "Rodrigo Machado"
           ],
           "Sex": [
-            "Female",
-            "Male",
-            "Male"
+            "FEMALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Luiz Cláudio Theodoro"
         },
@@ -8107,9 +8107,9 @@ CONTESTS[2017]["1aFase"] = {
             "Natan Luis Silva Rodovalho"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Luiz Cláudio Theodoro"
         },
@@ -8124,9 +8124,9 @@ CONTESTS[2017]["1aFase"] = {
             "Marcos Júnior"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Luiz Cláudio Theodoro"
         },
@@ -8141,9 +8141,9 @@ CONTESTS[2017]["1aFase"] = {
             "Marcelo Prado"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Luiz Cláudio Theodoro"
         },
@@ -8158,9 +8158,9 @@ CONTESTS[2017]["1aFase"] = {
             "Bruna Oliveira"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Female"
+            "MALE",
+            "MALE",
+            "FEMALE"
           ],
           "Coach": "Luiz Cláudio Theodoro"
         },
@@ -8175,9 +8175,9 @@ CONTESTS[2017]["1aFase"] = {
             "Cristopher Morais"
           ],
           "Sex": [
-            "Male",
-            "Female",
-            "Male"
+            "MALE",
+            "FEMALE",
+            "MALE"
           ],
           "Coach": "Luiz Cláudio Theodoro"
         },
@@ -8192,9 +8192,9 @@ CONTESTS[2017]["1aFase"] = {
             "João Paulo De Oliveira"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Luiz Cláudio Theodoro"
         },
@@ -8209,9 +8209,9 @@ CONTESTS[2017]["1aFase"] = {
             "Lázaro Luiz Duarte Neto"
           ],
           "Sex": [
-            "Male",
-            "Female",
-            "Male"
+            "MALE",
+            "FEMALE",
+            "MALE"
           ],
           "Coach": "Luiz Cláudio Theodoro"
         },
@@ -8226,9 +8226,9 @@ CONTESTS[2017]["1aFase"] = {
             "Gil Santos"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Luiz Cláudio Theodoro"
         },
@@ -8243,9 +8243,9 @@ CONTESTS[2017]["1aFase"] = {
             "Danilo Augusto Nunes"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Luiz Cláudio Theodoro"
         },
@@ -8260,9 +8260,9 @@ CONTESTS[2017]["1aFase"] = {
             "Matheus Santos"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Luiz Cláudio Theodoro"
         },
@@ -8277,9 +8277,9 @@ CONTESTS[2017]["1aFase"] = {
             "Alexandre Athayde"
           ],
           "Sex": [
-            "Female",
-            "Male",
-            "Male"
+            "FEMALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Luiz Cláudio Theodoro"
         },
@@ -8294,9 +8294,9 @@ CONTESTS[2017]["1aFase"] = {
             "Gustavo Gardusi"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Luiz Cláudio Theodoro"
         }
@@ -8313,9 +8313,9 @@ CONTESTS[2017]["1aFase"] = {
             "Vinícius Henrique Resende"
           ],
           "Sex": [
-            "Male",
-            "Female",
-            "Male"
+            "MALE",
+            "FEMALE",
+            "MALE"
           ],
           "Coach": "Daniele Oliveira"
         },
@@ -8330,9 +8330,9 @@ CONTESTS[2017]["1aFase"] = {
             "Rafael Silva"
           ],
           "Sex": [
-            "Female",
-            "Male",
-            "Male"
+            "FEMALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Daniele Oliveira"
         },
@@ -8347,9 +8347,9 @@ CONTESTS[2017]["1aFase"] = {
             "Otávio Ribeiro"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Daniele Oliveira"
         },
@@ -8364,9 +8364,9 @@ CONTESTS[2017]["1aFase"] = {
             "Bruno Santos"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Daniele Oliveira"
         },
@@ -8381,9 +8381,9 @@ CONTESTS[2017]["1aFase"] = {
             "Emmanuel Reis"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Daniele Oliveira"
         },
@@ -8398,9 +8398,9 @@ CONTESTS[2017]["1aFase"] = {
             "Michel Dornelas"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Daniele Oliveira"
         },
@@ -8415,9 +8415,9 @@ CONTESTS[2017]["1aFase"] = {
             "Gabriel De Castro Vasconcelos"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Daniele Oliveira"
         }
@@ -8434,9 +8434,9 @@ CONTESTS[2017]["1aFase"] = {
             "Daniela De Souza Gomes"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Female"
+            "MALE",
+            "MALE",
+            "FEMALE"
           ],
           "Coach": "André Gustavo Dos Santos"
         },
@@ -8451,9 +8451,9 @@ CONTESTS[2017]["1aFase"] = {
             "Guttardo Néri Pereira"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "André Gustavo Dos Santos"
         },
@@ -8468,9 +8468,9 @@ CONTESTS[2017]["1aFase"] = {
             "Marcos Valério De Carvalho Loures"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "André Gustavo Dos Santos"
         }
@@ -8487,14 +8487,14 @@ CONTESTS[2017]["1aFase"] = {
             "Lucas Pereira"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Guilherme Pena"
         }
       },
-      "Universidade Federal do Triângulo Mineiro": {
+      "Universidade Federal do Triângulo Mineiro ": {
         "UFTMasters": {
           "Rank": 265,
           "SiteRank": 3,
@@ -8506,9 +8506,9 @@ CONTESTS[2017]["1aFase"] = {
             "Gabriel Jordão"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Leandro Cruvinel"
         },
@@ -8523,9 +8523,9 @@ CONTESTS[2017]["1aFase"] = {
             "Lucas Alessandro Do Carmo Lemos"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Leandro Cruvinel"
         },
@@ -8539,8 +8539,8 @@ CONTESTS[2017]["1aFase"] = {
             "Paulo Jorge"
           ],
           "Sex": [
-            "Male",
-            "Male"
+            "MALE",
+            "MALE"
           ],
           "Coach": "Leandro Cruvinel"
         }
@@ -8557,9 +8557,9 @@ CONTESTS[2017]["1aFase"] = {
             "Patrick Alves Gandra De Oliveira"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Jesuliana Ulysses"
         }
@@ -8576,9 +8576,9 @@ CONTESTS[2017]["1aFase"] = {
             "Brenda Oliveira"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Female"
+            "MALE",
+            "MALE",
+            "FEMALE"
           ],
           "Coach": "Roberto Silva Araújo Assis"
         },
@@ -8593,9 +8593,9 @@ CONTESTS[2017]["1aFase"] = {
             "Paulo Ribeiro Da Silva Júnior"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Roberto Silva Araújo Assis"
         },
@@ -8610,9 +8610,9 @@ CONTESTS[2017]["1aFase"] = {
             "Ellen Morganna Resende Silva"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Female"
+            "MALE",
+            "MALE",
+            "FEMALE"
           ],
           "Coach": "Roberto Silva Araújo Assis"
         }
@@ -8629,9 +8629,9 @@ CONTESTS[2017]["1aFase"] = {
             "Heriton Magno Gomes Silva"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Luciene Chagas De Oliveira"
         },
@@ -8646,9 +8646,9 @@ CONTESTS[2017]["1aFase"] = {
             "Luiz Elino Machado Borba"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Eduardo Chagas De Oliveira"
         },
@@ -8663,9 +8663,9 @@ CONTESTS[2017]["1aFase"] = {
             "Bruno César Fiuza Salomao"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Mylene Lemos Rodrigues"
         }
@@ -8682,9 +8682,9 @@ CONTESTS[2017]["1aFase"] = {
             "Marcelo Brito Côrtes"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Ivan José Dos Reis Filho"
         },
@@ -8699,9 +8699,9 @@ CONTESTS[2017]["1aFase"] = {
             "Vinicius Marqui Fernandes Da Silva"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Ivan José Dos Reis Filho"
         },
@@ -8716,9 +8716,9 @@ CONTESTS[2017]["1aFase"] = {
             "Luiz Guilherme Faleiros Garcia"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Ivan José Dos Reis Filho"
         },
@@ -8733,9 +8733,9 @@ CONTESTS[2017]["1aFase"] = {
             "João Vitor Silva"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Ivan José Dos Reis Filho"
         }
@@ -8752,9 +8752,9 @@ CONTESTS[2017]["1aFase"] = {
             "Hygor Martins De Paula"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Mailson De Queiroz Proença"
         },
@@ -8769,9 +8769,9 @@ CONTESTS[2017]["1aFase"] = {
             "Vitor Bruno Da Silveira Guimarães"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Mailson De Queiroz Proença"
         }
@@ -8788,9 +8788,9 @@ CONTESTS[2017]["1aFase"] = {
             "Lucas Costa"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Roberto Rocha"
         },
@@ -8805,9 +8805,9 @@ CONTESTS[2017]["1aFase"] = {
             "Wellington Barreiros"
           ],
           "Sex": [
-            "Female",
-            "Male",
-            "Male"
+            "FEMALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Roberto Rocha"
         }
@@ -8826,9 +8826,9 @@ CONTESTS[2017]["1aFase"] = {
             "Igor Kelvin Ferreira De Moura"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Aline Manhães"
         },
@@ -8843,9 +8843,9 @@ CONTESTS[2017]["1aFase"] = {
             "Lucas Lima"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Aline Manhães"
         },
@@ -8860,9 +8860,9 @@ CONTESTS[2017]["1aFase"] = {
             "Lucas Fernandes"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Aline Manhães"
         }
@@ -8879,9 +8879,9 @@ CONTESTS[2017]["1aFase"] = {
             "Marcus Demori"
           ],
           "Sex": [
-            "Female",
-            "Male",
-            "Male"
+            "FEMALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Douglas De Oliveira Cardoso"
         },
@@ -8896,9 +8896,9 @@ CONTESTS[2017]["1aFase"] = {
             "Caio Rodrigues"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Douglas De Oliveira Cardoso"
         },
@@ -8913,9 +8913,9 @@ CONTESTS[2017]["1aFase"] = {
             "Diego Zanchett"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Douglas De Oliveira Cardoso"
         }
@@ -8932,9 +8932,9 @@ CONTESTS[2017]["1aFase"] = {
             "Maycon Silva"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Ricardo Mesquita"
         },
@@ -8949,9 +8949,9 @@ CONTESTS[2017]["1aFase"] = {
             "Aline Diogo"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Female"
+            "MALE",
+            "MALE",
+            "FEMALE"
           ],
           "Coach": "Ricardo Mesquita"
         },
@@ -8966,9 +8966,9 @@ CONTESTS[2017]["1aFase"] = {
             "Philipe Vieira"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Ricardo Mesquita"
         }
@@ -8985,9 +8985,9 @@ CONTESTS[2017]["1aFase"] = {
             "Alexandre Pereira"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Rafael Gomes Monteiro"
         },
@@ -9002,9 +9002,9 @@ CONTESTS[2017]["1aFase"] = {
             "Ariel Aquila Zimbrão"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Rafael Gomes Monteiro"
         },
@@ -9019,9 +9019,9 @@ CONTESTS[2017]["1aFase"] = {
             "Beatriz Pereira"
           ],
           "Sex": [
-            "Female",
-            "Female",
-            "Female"
+            "FEMALE",
+            "FEMALE",
+            "FEMALE"
           ],
           "Coach": "Rafael Gomes Monteiro"
         },
@@ -9036,9 +9036,9 @@ CONTESTS[2017]["1aFase"] = {
             "Rafael Oliveira Faitão"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Rafael Gomes Monteiro"
         }
@@ -9055,9 +9055,9 @@ CONTESTS[2017]["1aFase"] = {
             "Lucas Reis"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Moacyr Silva"
         }
@@ -9074,9 +9074,9 @@ CONTESTS[2017]["1aFase"] = {
             "João Baptista De Paula E Silva"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Claudia Justel"
         },
@@ -9091,9 +9091,9 @@ CONTESTS[2017]["1aFase"] = {
             "Matheus Cariús Castro"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Female"
+            "MALE",
+            "MALE",
+            "FEMALE"
           ],
           "Coach": "Claudia Justel"
         },
@@ -9108,9 +9108,9 @@ CONTESTS[2017]["1aFase"] = {
             "Gabriel Portela"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Claudia Justel"
         },
@@ -9125,9 +9125,9 @@ CONTESTS[2017]["1aFase"] = {
             "Rebeca Reis"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Female"
+            "MALE",
+            "MALE",
+            "FEMALE"
           ],
           "Coach": "Claudia Justel"
         }
@@ -9144,9 +9144,9 @@ CONTESTS[2017]["1aFase"] = {
             "Ian Albuquerque Raymundo Da Silva"
           ],
           "Sex": [
-            "Male",
-            "Female",
-            "Male"
+            "MALE",
+            "FEMALE",
+            "MALE"
           ],
           "Coach": "Marcus Poggi"
         },
@@ -9161,9 +9161,9 @@ CONTESTS[2017]["1aFase"] = {
             "Francisco Geiman Thiesen"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Marcus Poggi"
         },
@@ -9178,9 +9178,9 @@ CONTESTS[2017]["1aFase"] = {
             "Gabriela Gutierrez"
           ],
           "Sex": [
-            "Male",
-            "Female",
-            "Female"
+            "MALE",
+            "FEMALE",
+            "FEMALE"
           ],
           "Coach": "Marcus Poggi"
         },
@@ -9195,9 +9195,9 @@ CONTESTS[2017]["1aFase"] = {
             "Guilherme Oliveira"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Marcus Poggi"
         },
@@ -9212,9 +9212,9 @@ CONTESTS[2017]["1aFase"] = {
             "Raphael De Britto"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Marcus Poggi"
         }
@@ -9231,9 +9231,9 @@ CONTESTS[2017]["1aFase"] = {
             "Rafael Firmino Magalhaes"
           ],
           "Sex": [
-            "Male",
-            "Female",
-            "Male"
+            "MALE",
+            "FEMALE",
+            "MALE"
           ],
           "Coach": "Edirlei Lima"
         },
@@ -9248,9 +9248,9 @@ CONTESTS[2017]["1aFase"] = {
             "Carlos Cardoso Dias"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Edirlei Lima"
         },
@@ -9265,9 +9265,9 @@ CONTESTS[2017]["1aFase"] = {
             "Vítor Januario"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Edirlei Lima"
         }
@@ -9284,9 +9284,9 @@ CONTESTS[2017]["1aFase"] = {
             "Fernando Rodrigues"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Isabel Rosseti"
         },
@@ -9301,9 +9301,9 @@ CONTESTS[2017]["1aFase"] = {
             "Daniel Ye"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Marcos Lage"
         },
@@ -9318,9 +9318,9 @@ CONTESTS[2017]["1aFase"] = {
             "Ashey Noblega"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Leandro Fernandes"
         }
@@ -9337,9 +9337,9 @@ CONTESTS[2017]["1aFase"] = {
             "Paulo Sérgio Alves Carreira"
           ],
           "Sex": [
-            "Female",
-            "Male",
-            "Male"
+            "FEMALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Danilo Artigas"
         },
@@ -9354,9 +9354,9 @@ CONTESTS[2017]["1aFase"] = {
             "José Victor Dias Pereira"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Danilo Artigas"
         },
@@ -9371,9 +9371,9 @@ CONTESTS[2017]["1aFase"] = {
             "Marcela Prado"
           ],
           "Sex": [
-            "Male",
-            "Female",
-            "Female"
+            "MALE",
+            "FEMALE",
+            "FEMALE"
           ],
           "Coach": "Danilo Artigas"
         }
@@ -9390,9 +9390,9 @@ CONTESTS[2017]["1aFase"] = {
             "Ian Miranda"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Marcia Cerioli"
         },
@@ -9407,9 +9407,9 @@ CONTESTS[2017]["1aFase"] = {
             "Matheus Simões"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Marcia Cerioli"
         },
@@ -9424,9 +9424,9 @@ CONTESTS[2017]["1aFase"] = {
             "Thiago Coelho"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Marcia Cerioli"
         },
@@ -9441,9 +9441,9 @@ CONTESTS[2017]["1aFase"] = {
             "André Queiroz"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Marcia Cerioli"
         }
@@ -9460,9 +9460,9 @@ CONTESTS[2017]["1aFase"] = {
             "Raquel Marcolino"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Female"
+            "MALE",
+            "MALE",
+            "FEMALE"
           ],
           "Coach": "Paulo Eustaquio Pinto"
         },
@@ -9477,9 +9477,9 @@ CONTESTS[2017]["1aFase"] = {
             "Vitória Rio"
           ],
           "Sex": [
-            "Male",
-            "Female",
-            "Female"
+            "MALE",
+            "FEMALE",
+            "FEMALE"
           ],
           "Coach": "Paulo Eustaquio Pinto"
         },
@@ -9494,9 +9494,9 @@ CONTESTS[2017]["1aFase"] = {
             "Antonio Alves"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Paulo Eustaquio Pinto"
         }
@@ -9515,9 +9515,9 @@ CONTESTS[2017]["1aFase"] = {
             "Leonardo Souza"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Saulo Felicío Fernandes Zambotti"
         }
@@ -9534,9 +9534,9 @@ CONTESTS[2017]["1aFase"] = {
             "Guilherme Giácomo Simões"
           ],
           "Sex": [
-            "Male",
-            "Female",
-            "Male"
+            "MALE",
+            "FEMALE",
+            "MALE"
           ],
           "Coach": "Alexandre Marcelino Da Silva"
         },
@@ -9551,9 +9551,9 @@ CONTESTS[2017]["1aFase"] = {
             "Gabriel De Almeida Leone"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Alexandre Marcelino Da Silva"
         },
@@ -9568,9 +9568,9 @@ CONTESTS[2017]["1aFase"] = {
             "Israel José Mameli"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Rafael Marcelino De Jesus"
         },
@@ -9585,9 +9585,9 @@ CONTESTS[2017]["1aFase"] = {
             "Danilo Sotto De Lima"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "James Clauton Da Silva"
         }
@@ -9604,9 +9604,9 @@ CONTESTS[2017]["1aFase"] = {
             "Miguel Botelho Penteado R Cruz"
           ],
           "Sex": [
-            "Male",
-            "Female",
-            "Male"
+            "MALE",
+            "FEMALE",
+            "MALE"
           ],
           "Coach": "Sérgio Luis Antonello"
         },
@@ -9621,9 +9621,9 @@ CONTESTS[2017]["1aFase"] = {
             "André Appolari"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Renato Luciano Cagnin"
         },
@@ -9638,9 +9638,9 @@ CONTESTS[2017]["1aFase"] = {
             "Bruno De Miranda Miquelotto"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Sérgio Luis Antonello"
         }
@@ -9657,9 +9657,9 @@ CONTESTS[2017]["1aFase"] = {
             "Rodrigo Luiz Barbosa De Souza"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "João Paulo Brognoni Casati"
         }
@@ -9676,9 +9676,9 @@ CONTESTS[2017]["1aFase"] = {
             "Guilherme Costa"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Paulo Sergio Rodrigues"
         },
@@ -9693,9 +9693,9 @@ CONTESTS[2017]["1aFase"] = {
             "Daniel Costa"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Paulo Sergio Rodrigues"
         },
@@ -9710,9 +9710,9 @@ CONTESTS[2017]["1aFase"] = {
             "João Francisco"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Paulo Sergio Rodrigues"
         }
@@ -9729,9 +9729,9 @@ CONTESTS[2017]["1aFase"] = {
             "Willian Barbosa"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Luiz Camalionte"
         },
@@ -9746,9 +9746,9 @@ CONTESTS[2017]["1aFase"] = {
             "Sassine El-asmar"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Luiz Camalionte"
         },
@@ -9763,9 +9763,9 @@ CONTESTS[2017]["1aFase"] = {
             "Wendel Branco"
           ],
           "Sex": [
-            "Female",
-            "Female",
-            "Male"
+            "FEMALE",
+            "FEMALE",
+            "MALE"
           ],
           "Coach": "Luiz Camalionte"
         }
@@ -9782,9 +9782,9 @@ CONTESTS[2017]["1aFase"] = {
             "Thiago Feliciano"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Antonio Marcos Selmini"
         },
@@ -9799,9 +9799,9 @@ CONTESTS[2017]["1aFase"] = {
             "Elmeri Moreno Da Silva"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Antonio Marcos Selmini"
         },
@@ -9816,9 +9816,9 @@ CONTESTS[2017]["1aFase"] = {
             "Luiza Sarmento Galante Manhães"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Female"
+            "MALE",
+            "MALE",
+            "FEMALE"
           ],
           "Coach": "Antonio Marcos Selmini"
         }
@@ -9835,9 +9835,9 @@ CONTESTS[2017]["1aFase"] = {
             "Gabriel Oliveira Dos Santos"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Alexandre Mello Ferreira"
         },
@@ -9852,9 +9852,9 @@ CONTESTS[2017]["1aFase"] = {
             "Luis Fedrizze"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Alexandre Mello Ferreira"
         },
@@ -9869,9 +9869,9 @@ CONTESTS[2017]["1aFase"] = {
             "Rodrigo Cesar Assarice"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Alexandre Mello Ferreira"
         },
@@ -9886,9 +9886,9 @@ CONTESTS[2017]["1aFase"] = {
             "Leonardo Vencovsky"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Alexandre Mello Ferreira"
         },
@@ -9903,9 +9903,9 @@ CONTESTS[2017]["1aFase"] = {
             "Gustavo Calça"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Alexandre Mello Ferreira"
         },
@@ -9920,9 +9920,9 @@ CONTESTS[2017]["1aFase"] = {
             "Pablo Dos Santos"
           ],
           "Sex": [
-            "Female",
-            "Male",
-            "Male"
+            "FEMALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Alexandre Mello Ferreira"
         },
@@ -9937,9 +9937,9 @@ CONTESTS[2017]["1aFase"] = {
             "Lucas Dario Frias"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Alexandre Mello Ferreira"
         }
@@ -9956,9 +9956,9 @@ CONTESTS[2017]["1aFase"] = {
             "Michel Rento"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Andre Breda Carneiro"
         },
@@ -9973,9 +9973,9 @@ CONTESTS[2017]["1aFase"] = {
             "Carlos Henrique Vega Delgadillo"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Andre Breda Carneiro"
         },
@@ -9990,9 +9990,9 @@ CONTESTS[2017]["1aFase"] = {
             "Lucas De Oliveira Dutra"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Andre Breda Carneiro"
         },
@@ -10007,9 +10007,9 @@ CONTESTS[2017]["1aFase"] = {
             "Lucas De Sousa Rodrigues"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Andre Breda Carneiro"
         }
@@ -10026,9 +10026,9 @@ CONTESTS[2017]["1aFase"] = {
             "Blenda Albuquerque"
           ],
           "Sex": [
-            "Female",
-            "Male",
-            "Female"
+            "FEMALE",
+            "MALE",
+            "FEMALE"
           ],
           "Coach": "Danilo Gomes"
         },
@@ -10043,9 +10043,9 @@ CONTESTS[2017]["1aFase"] = {
             "Leticia Máximo"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Female"
+            "MALE",
+            "MALE",
+            "FEMALE"
           ],
           "Coach": "Danilo Gomes"
         },
@@ -10060,9 +10060,9 @@ CONTESTS[2017]["1aFase"] = {
             "Fabiano Furuta"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Danilo Gomes"
         }
@@ -10079,9 +10079,9 @@ CONTESTS[2017]["1aFase"] = {
             "Carlos Eduardo Almeida Gomes"
           ],
           "Sex": [
-            "Female",
-            "Male",
-            "Male"
+            "FEMALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Lucy Mari Tabuti"
         },
@@ -10096,9 +10096,9 @@ CONTESTS[2017]["1aFase"] = {
             "Yuri Moreira Feliciano Da Silva"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Lucy Mari Tabuti"
         },
@@ -10113,9 +10113,9 @@ CONTESTS[2017]["1aFase"] = {
             "Henrique Paixão"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Lucy Mari Tabuti"
         },
@@ -10130,9 +10130,9 @@ CONTESTS[2017]["1aFase"] = {
             "Lucas Gutierre Craveiro"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Lucy Mari Tabuti"
         }
@@ -10149,9 +10149,9 @@ CONTESTS[2017]["1aFase"] = {
             "Júlio César Dos Santos"
           ],
           "Sex": [
-            "Female",
-            "Male",
-            "Male"
+            "FEMALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Ivair Lima"
         },
@@ -10166,9 +10166,9 @@ CONTESTS[2017]["1aFase"] = {
             "Wilder Pereira"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Ivair Lima"
         }
@@ -10185,9 +10185,9 @@ CONTESTS[2017]["1aFase"] = {
             "Daniel Kiesshau"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Antonio Marcos Selmini"
         },
@@ -10202,9 +10202,9 @@ CONTESTS[2017]["1aFase"] = {
             "Thiago Kota"
           ],
           "Sex": [
-            "Female",
-            "Male",
-            "Male"
+            "FEMALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Antonio Marcos Selmini"
         },
@@ -10219,9 +10219,9 @@ CONTESTS[2017]["1aFase"] = {
             "Lucas Martins Rodrigues"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Antonio Marcos Selmini"
         },
@@ -10236,9 +10236,9 @@ CONTESTS[2017]["1aFase"] = {
             "Jefferson Pereira"
           ],
           "Sex": [
-            "Male",
-            "Female",
-            "Male"
+            "MALE",
+            "FEMALE",
+            "MALE"
           ],
           "Coach": "Antonio Marcos Selmini"
         }
@@ -10255,9 +10255,9 @@ CONTESTS[2017]["1aFase"] = {
             "Weberton Romão"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Rodrigo Rovaron"
         },
@@ -10272,9 +10272,9 @@ CONTESTS[2017]["1aFase"] = {
             "Victor Leandro"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Rodrigo Rovaron"
         },
@@ -10289,9 +10289,9 @@ CONTESTS[2017]["1aFase"] = {
             "Alexandre Pinto Da Silva Júnior"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Rodrigo Rovaron"
         }
@@ -10308,9 +10308,9 @@ CONTESTS[2017]["1aFase"] = {
             "Arnaldo Ferreira"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Kleber Andrade"
         }
@@ -10327,9 +10327,9 @@ CONTESTS[2017]["1aFase"] = {
             "Bruno Bastos Melo"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Carlos Nascimento"
         }
@@ -10346,9 +10346,9 @@ CONTESTS[2017]["1aFase"] = {
             "Glaucio Queiroz"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Mauricio Duarte"
         },
@@ -10363,9 +10363,9 @@ CONTESTS[2017]["1aFase"] = {
             "Edson Ribeiro"
           ],
           "Sex": [
-            "Female",
-            "Male",
-            "Male"
+            "FEMALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Mauricio Duarte"
         }
@@ -10382,9 +10382,9 @@ CONTESTS[2017]["1aFase"] = {
             "José Francisco Albaceto Junior"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Glauco Todesco"
         }
@@ -10401,9 +10401,9 @@ CONTESTS[2017]["1aFase"] = {
             "Flaviano Gabriel Jesus Da Cruz"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Alex Marino Gonçalves De Almeida"
         }
@@ -10420,9 +10420,9 @@ CONTESTS[2017]["1aFase"] = {
             "Alex Afonso De Barros Silva"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Antonio Cesar Barros Munari"
         },
@@ -10437,9 +10437,9 @@ CONTESTS[2017]["1aFase"] = {
             "Bruna Ferreira Fernandes"
           ],
           "Sex": [
-            "Male",
-            "Female",
-            "Female"
+            "MALE",
+            "FEMALE",
+            "FEMALE"
           ],
           "Coach": "Antonio Cesar Barros Munari"
         },
@@ -10454,9 +10454,9 @@ CONTESTS[2017]["1aFase"] = {
             "Valter Massashi Akashi"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Antonio Cesar Barros Munari"
         }
@@ -10473,9 +10473,9 @@ CONTESTS[2017]["1aFase"] = {
             "Graziele Galvão Da Silva"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Female"
+            "MALE",
+            "MALE",
+            "FEMALE"
           ],
           "Coach": "Reinaldo Gen Ichiro Arakaki"
         },
@@ -10490,9 +10490,9 @@ CONTESTS[2017]["1aFase"] = {
             "Gustavo Henrique De Castro Silva"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Reinaldo Gen Ichiro Arakaki"
         },
@@ -10507,9 +10507,9 @@ CONTESTS[2017]["1aFase"] = {
             "Eduardo Henrique Pereira Souza"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Reinaldo Gen Ichiro Arakaki"
         },
@@ -10524,9 +10524,9 @@ CONTESTS[2017]["1aFase"] = {
             "Heitor Miranda Moreira"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Reinaldo Gen Ichiro Arakaki"
         }
@@ -10543,9 +10543,9 @@ CONTESTS[2017]["1aFase"] = {
             "Lucas Jeon"
           ],
           "Sex": [
-            "Female",
-            "Male",
-            "Male"
+            "FEMALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Grace Borges"
         },
@@ -10560,9 +10560,9 @@ CONTESTS[2017]["1aFase"] = {
             "Samuel Souza"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Lucio Lira"
         },
@@ -10577,9 +10577,9 @@ CONTESTS[2017]["1aFase"] = {
             "Nicholas Maestrello Agiz"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Sérgio Luiz Banin"
         },
@@ -10594,9 +10594,9 @@ CONTESTS[2017]["1aFase"] = {
             "Allyson Lima"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Leandro Kinoshita"
         },
@@ -10611,9 +10611,9 @@ CONTESTS[2017]["1aFase"] = {
             "Luan Prado"
           ],
           "Sex": [
-            "Female",
-            "Male",
-            "Male"
+            "FEMALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Grace Borges"
         }
@@ -10630,9 +10630,9 @@ CONTESTS[2017]["1aFase"] = {
             "Wesley Ramalho Candido"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Antonio Ferreira Viana"
         }
@@ -10649,9 +10649,9 @@ CONTESTS[2017]["1aFase"] = {
             "Kaue Gabas"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Cássio Agnaldo Onodera"
         },
@@ -10666,9 +10666,9 @@ CONTESTS[2017]["1aFase"] = {
             "João Carlos De Brito"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Cássio Agnaldo Onodera"
         },
@@ -10683,9 +10683,9 @@ CONTESTS[2017]["1aFase"] = {
             "Edilson Pereira Mendonça"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Cássio Agnaldo Onodera"
         }
@@ -10702,9 +10702,9 @@ CONTESTS[2017]["1aFase"] = {
             "Nathalia Lopes"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Female"
+            "MALE",
+            "MALE",
+            "FEMALE"
           ],
           "Coach": "Kleber Trevisani"
         }
@@ -10721,9 +10721,9 @@ CONTESTS[2017]["1aFase"] = {
             "Lidiane Albrecht"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Female"
+            "MALE",
+            "MALE",
+            "FEMALE"
           ],
           "Coach": "Marcio Crocomo"
         }
@@ -10740,9 +10740,9 @@ CONTESTS[2017]["1aFase"] = {
             "Lucas Ferreira"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Armando Gouveia"
         },
@@ -10757,9 +10757,9 @@ CONTESTS[2017]["1aFase"] = {
             "Ocimar Santos"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Armando Gouveia"
         },
@@ -10774,9 +10774,9 @@ CONTESTS[2017]["1aFase"] = {
             "Eric Moreira"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Armando Gouveia"
         },
@@ -10791,9 +10791,9 @@ CONTESTS[2017]["1aFase"] = {
             "Matheus Bertolino"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Armando Gouveia"
         }
@@ -10810,9 +10810,9 @@ CONTESTS[2017]["1aFase"] = {
             "Laert Espagnoli Neto"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Leandro Alonso Xastre"
         },
@@ -10827,9 +10827,9 @@ CONTESTS[2017]["1aFase"] = {
             "Beatriz Oliveira"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Female"
+            "MALE",
+            "MALE",
+            "FEMALE"
           ],
           "Coach": "Leandro Alonso Xastre"
         },
@@ -10844,9 +10844,9 @@ CONTESTS[2017]["1aFase"] = {
             "Murilo Martos"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Leandro Alonso Xastre"
         },
@@ -10861,9 +10861,9 @@ CONTESTS[2017]["1aFase"] = {
             "Lucas Bonin"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Leandro Alonso Xastre"
         },
@@ -10878,9 +10878,9 @@ CONTESTS[2017]["1aFase"] = {
             "Gabriela Vicente"
           ],
           "Sex": [
-            "Male",
-            "Female",
-            "Female"
+            "MALE",
+            "FEMALE",
+            "FEMALE"
           ],
           "Coach": "Leandro Alonso Xastre"
         },
@@ -10895,9 +10895,9 @@ CONTESTS[2017]["1aFase"] = {
             "Bruno Guilherme Marini"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Leandro Alonso Xastre"
         }
@@ -10914,9 +10914,9 @@ CONTESTS[2017]["1aFase"] = {
             "João Comini"
           ],
           "Sex": [
-            "Male",
-            "Female",
-            "Male"
+            "MALE",
+            "FEMALE",
+            "MALE"
           ],
           "Coach": "Andrea Vianna"
         },
@@ -10931,9 +10931,9 @@ CONTESTS[2017]["1aFase"] = {
             "Mateus Cabana"
           ],
           "Sex": [
-            "Female",
-            "Male",
-            "Male"
+            "FEMALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Andrea Vianna"
         },
@@ -10948,9 +10948,9 @@ CONTESTS[2017]["1aFase"] = {
             "Aron Bordin"
           ],
           "Sex": [
-            "Male",
-            "Female",
-            "Male"
+            "MALE",
+            "FEMALE",
+            "MALE"
           ],
           "Coach": "Andrea Vianna"
         }
@@ -10967,9 +10967,9 @@ CONTESTS[2017]["1aFase"] = {
             "Gustavo Felipe De Santana"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Glaucio Luz"
         },
@@ -10984,9 +10984,9 @@ CONTESTS[2017]["1aFase"] = {
             "Leandro De Oliveira Penhalver"
           ],
           "Sex": [
-            "Female",
-            "Female",
-            "Male"
+            "FEMALE",
+            "FEMALE",
+            "MALE"
           ],
           "Coach": "Glaucio Luz"
         }
@@ -11003,9 +11003,9 @@ CONTESTS[2017]["1aFase"] = {
             "Thiago Aparecido Gonçalves Da Costa"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Rodolfo Barros Chiaramonte"
         },
@@ -11020,9 +11020,9 @@ CONTESTS[2017]["1aFase"] = {
             "Cassio Guilherme Viana Dos Santos"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Rodolfo Barros Chiaramonte"
         },
@@ -11037,9 +11037,9 @@ CONTESTS[2017]["1aFase"] = {
             "Matheus Ferraroni Sanches"
           ],
           "Sex": [
-            "Male",
-            "Female",
-            "Male"
+            "MALE",
+            "FEMALE",
+            "MALE"
           ],
           "Coach": "Rodolfo Barros Chiaramonte"
         }
@@ -11056,9 +11056,9 @@ CONTESTS[2017]["1aFase"] = {
             "Caio Chizzolini"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Marcelo Rosa"
         },
@@ -11073,9 +11073,9 @@ CONTESTS[2017]["1aFase"] = {
             "Rafael Jacomeli Chirolli"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Francisco Virginio Maracci"
         },
@@ -11090,9 +11090,9 @@ CONTESTS[2017]["1aFase"] = {
             "João Vitor Dos Santos Oliveira"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Francisco Assis Da Silva"
         }
@@ -11109,9 +11109,9 @@ CONTESTS[2017]["1aFase"] = {
             "Hiero Carvalho"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Ciro Trindade"
         },
@@ -11126,9 +11126,9 @@ CONTESTS[2017]["1aFase"] = {
             "Felipe Marques"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Ciro Trindade"
         },
@@ -11143,9 +11143,9 @@ CONTESTS[2017]["1aFase"] = {
             "Patrick Albino De Lucca"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Ciro Trindade"
         }
@@ -11162,9 +11162,9 @@ CONTESTS[2017]["1aFase"] = {
             "Diogo Teles Sant Anna"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Diego Aranha"
         },
@@ -11179,9 +11179,9 @@ CONTESTS[2017]["1aFase"] = {
             "Laura Politi De Oliveira"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Female"
+            "MALE",
+            "MALE",
+            "FEMALE"
           ],
           "Coach": "Diego Aranha"
         },
@@ -11196,9 +11196,9 @@ CONTESTS[2017]["1aFase"] = {
             "Matheus De Souza Ataide"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Diego Aranha"
         },
@@ -11213,9 +11213,9 @@ CONTESTS[2017]["1aFase"] = {
             "Gustavo Crivelli"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Diego Aranha"
         }
@@ -11232,9 +11232,9 @@ CONTESTS[2017]["1aFase"] = {
             "Caroline Vicente Da Silva"
           ],
           "Sex": [
-            "Female",
-            "Male",
-            "Female"
+            "FEMALE",
+            "MALE",
+            "FEMALE"
           ],
           "Coach": "Luiz Camolesi Jr"
         },
@@ -11249,9 +11249,9 @@ CONTESTS[2017]["1aFase"] = {
             "Daniel Rodrigues De Biasi"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Luiz Camolesi Jr"
         },
@@ -11266,9 +11266,9 @@ CONTESTS[2017]["1aFase"] = {
             "Gabriel Paulo Turato"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Luiz Camolesi Jr"
         },
@@ -11283,9 +11283,9 @@ CONTESTS[2017]["1aFase"] = {
             "Joao Gabriel Pampanin De Abreu"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Luiz Camolesi Jr"
         },
@@ -11300,9 +11300,9 @@ CONTESTS[2017]["1aFase"] = {
             "João Victor Ignacio"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Luiz Camolesi Jr"
         }
@@ -11319,9 +11319,9 @@ CONTESTS[2017]["1aFase"] = {
             "Igor Goulart De Oliveira"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Jose Reinaldo Merlin"
         }
@@ -11338,9 +11338,9 @@ CONTESTS[2017]["1aFase"] = {
             "Lorhan Kondo"
           ],
           "Sex": [
-            "Female",
-            "Female",
-            "Male"
+            "FEMALE",
+            "FEMALE",
+            "MALE"
           ],
           "Coach": "Delano Medeiros Beder"
         },
@@ -11355,9 +11355,9 @@ CONTESTS[2017]["1aFase"] = {
             "Jonathan Gouvea Da Silva"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Delano Medeiros Beder"
         },
@@ -11372,9 +11372,9 @@ CONTESTS[2017]["1aFase"] = {
             "Theodosio Banevicius"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Delano Medeiros Beder"
         },
@@ -11389,9 +11389,9 @@ CONTESTS[2017]["1aFase"] = {
             "Matheus Bortoleto Da Silva"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Delano Medeiros Beder"
         },
@@ -11406,9 +11406,9 @@ CONTESTS[2017]["1aFase"] = {
             "Caio Herrera"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Delano Medeiros Beder"
         }
@@ -11425,9 +11425,9 @@ CONTESTS[2017]["1aFase"] = {
             "Leonardo Muniz Tozato"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Mario Lizier"
         },
@@ -11442,9 +11442,9 @@ CONTESTS[2017]["1aFase"] = {
             "William Giacometti Dutra De Oliveira"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Mario Lizier"
         }
@@ -11461,9 +11461,9 @@ CONTESTS[2017]["1aFase"] = {
             "Daniel Pereira"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Cristiane Sato"
         },
@@ -11478,9 +11478,9 @@ CONTESTS[2017]["1aFase"] = {
             "Daniel Souza Da Fonseca"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Cristiane Sato"
         },
@@ -11495,9 +11495,9 @@ CONTESTS[2017]["1aFase"] = {
             "Victor Bressani De Mello"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Cristiane Sato"
         }
@@ -11514,9 +11514,9 @@ CONTESTS[2017]["1aFase"] = {
             "Leandro Santiago Rosa"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Daniel Ferreira De Barros Junior"
         },
@@ -11531,9 +11531,9 @@ CONTESTS[2017]["1aFase"] = {
             "Caique Silva"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Daniel Ferreira De Barros Junior"
         },
@@ -11548,9 +11548,9 @@ CONTESTS[2017]["1aFase"] = {
             "Bruno De Souza Ribeiro"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Daniel Ferreira De Barros Junior"
         }
@@ -11567,9 +11567,9 @@ CONTESTS[2017]["1aFase"] = {
             "Vinicius Pinatti"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Aldriano Silva"
         },
@@ -11584,9 +11584,9 @@ CONTESTS[2017]["1aFase"] = {
             "Layane Oliveira Silva"
           ],
           "Sex": [
-            "Female",
-            "Female",
-            "Female"
+            "FEMALE",
+            "FEMALE",
+            "FEMALE"
           ],
           "Coach": "Jônatas Leite De Oliveira"
         },
@@ -11601,9 +11601,9 @@ CONTESTS[2017]["1aFase"] = {
             "Felipe Lima"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Juliano Lima"
         }
@@ -11620,9 +11620,9 @@ CONTESTS[2017]["1aFase"] = {
             "Daniel Dantas"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Ana Cristina Santos"
         },
@@ -11637,9 +11637,9 @@ CONTESTS[2017]["1aFase"] = {
             "Gabriel Tavares"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Ana Cristina Santos"
         },
@@ -11654,9 +11654,9 @@ CONTESTS[2017]["1aFase"] = {
             "Rodrigo Oliveira"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Ana Cristina Santos"
         },
@@ -11671,9 +11671,9 @@ CONTESTS[2017]["1aFase"] = {
             "Samuel Feitosa"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Ana Cristina Santos"
         },
@@ -11688,9 +11688,9 @@ CONTESTS[2017]["1aFase"] = {
             "Renan Germano"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Ana Cristina Santos"
         },
@@ -11705,9 +11705,9 @@ CONTESTS[2017]["1aFase"] = {
             "Vitor Souza"
           ],
           "Sex": [
-            "Female",
-            "Female",
-            "Male"
+            "FEMALE",
+            "FEMALE",
+            "MALE"
           ],
           "Coach": "Ana Cristina Santos"
         },
@@ -11722,9 +11722,9 @@ CONTESTS[2017]["1aFase"] = {
             "Daniel Shimoyama"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Ana Cristina Santos"
         },
@@ -11739,9 +11739,9 @@ CONTESTS[2017]["1aFase"] = {
             "Piera Carolina Marchesini Dutra"
           ],
           "Sex": [
-            "Female",
-            "Female",
-            "Female"
+            "FEMALE",
+            "FEMALE",
+            "FEMALE"
           ],
           "Coach": "Ana Cristina Santos"
         },
@@ -11756,9 +11756,9 @@ CONTESTS[2017]["1aFase"] = {
             "Juliana Backer"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Female"
+            "MALE",
+            "MALE",
+            "FEMALE"
           ],
           "Coach": "Ana Cristina Santos"
         },
@@ -11773,9 +11773,9 @@ CONTESTS[2017]["1aFase"] = {
             "Victor Ribeiro"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Ana Cristina Santos"
         },
@@ -11790,9 +11790,9 @@ CONTESTS[2017]["1aFase"] = {
             "Erick Lopes"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Ana Cristina Santos"
         }
@@ -11809,9 +11809,9 @@ CONTESTS[2017]["1aFase"] = {
             "Pedro Renan Cazari Guerreiro De Melo"
           ],
           "Sex": [
-            "Male",
-            "Female",
-            "Male"
+            "MALE",
+            "FEMALE",
+            "MALE"
           ],
           "Coach": "Wesley De Toledo Costa"
         },
@@ -11826,9 +11826,9 @@ CONTESTS[2017]["1aFase"] = {
             "Otavio Braga"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Wesley De Toledo Costa"
         },
@@ -11843,9 +11843,9 @@ CONTESTS[2017]["1aFase"] = {
             "Juan Santos"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Wesley De Toledo Costa"
         }
@@ -11862,9 +11862,9 @@ CONTESTS[2017]["1aFase"] = {
             "Thiago Almeida"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Carlos Menezes"
         },
@@ -11879,9 +11879,9 @@ CONTESTS[2017]["1aFase"] = {
             "Alexandre De Souza Dias Do Nascimento"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Rodolfo Riyoei Goya"
         },
@@ -11896,9 +11896,9 @@ CONTESTS[2017]["1aFase"] = {
             "Fernanda Cosme De Oliveira Lima"
           ],
           "Sex": [
-            "Female",
-            "Male",
-            "Female"
+            "FEMALE",
+            "MALE",
+            "FEMALE"
           ],
           "Coach": "Carlos Menezes"
         },
@@ -11913,9 +11913,9 @@ CONTESTS[2017]["1aFase"] = {
             "Ricardo Mujin Kim"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Rodolfo Riyoei Goya"
         },
@@ -11930,9 +11930,9 @@ CONTESTS[2017]["1aFase"] = {
             "Vinicius Biondi França"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Carlos Menezes"
         },
@@ -11947,9 +11947,9 @@ CONTESTS[2017]["1aFase"] = {
             "Pedro Henrique Marinho Durek"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Rodolfo Riyoei Goya"
         },
@@ -11964,9 +11964,9 @@ CONTESTS[2017]["1aFase"] = {
             "Victor Bastos"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Rodolfo Riyoei Goya"
         },
@@ -11981,9 +11981,9 @@ CONTESTS[2017]["1aFase"] = {
             "Thiago Batista Soares"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Carlos Menezes"
         }
@@ -12000,9 +12000,9 @@ CONTESTS[2017]["1aFase"] = {
             "William Kondo"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Renzo Gomez"
         },
@@ -12017,9 +12017,9 @@ CONTESTS[2017]["1aFase"] = {
             "Thiago Estrela Montenegro"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Renzo Gomez"
         },
@@ -12034,9 +12034,9 @@ CONTESTS[2017]["1aFase"] = {
             "Leonardo Rezende"
           ],
           "Sex": [
-            "Female",
-            "Male",
-            "Male"
+            "FEMALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Renzo Gomez"
         },
@@ -12051,9 +12051,9 @@ CONTESTS[2017]["1aFase"] = {
             "Nathan Benedetto Proença"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Renzo Gomez"
         },
@@ -12068,9 +12068,9 @@ CONTESTS[2017]["1aFase"] = {
             "Iuri Carvalho"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Renzo Gomez"
         },
@@ -12085,9 +12085,9 @@ CONTESTS[2017]["1aFase"] = {
             "Arthur Nascimento"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Renzo Gomez"
         }
@@ -12104,9 +12104,9 @@ CONTESTS[2017]["1aFase"] = {
             "Vitor Speranza"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Danilo Tedeschi"
         },
@@ -12121,9 +12121,9 @@ CONTESTS[2017]["1aFase"] = {
             "Vitor Augusto De Oliveira"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "André De Freitas Smaira"
         },
@@ -12138,9 +12138,9 @@ CONTESTS[2017]["1aFase"] = {
             "Otavio Sousa"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Danilo Tedeschi"
         },
@@ -12155,9 +12155,9 @@ CONTESTS[2017]["1aFase"] = {
             "Bárbara Côrtes"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Female"
+            "MALE",
+            "MALE",
+            "FEMALE"
           ],
           "Coach": "Bruno Sanches"
         },
@@ -12172,9 +12172,9 @@ CONTESTS[2017]["1aFase"] = {
             "Auro Martins Soares Junior"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "André De Freitas Smaira"
         },
@@ -12189,9 +12189,9 @@ CONTESTS[2017]["1aFase"] = {
             "Fabio Fogarin Destro"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Bruno Sanches"
         },
@@ -12206,9 +12206,9 @@ CONTESTS[2017]["1aFase"] = {
             "Rodrigo Weigert"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Danilo Tedeschi"
         },
@@ -12223,9 +12223,9 @@ CONTESTS[2017]["1aFase"] = {
             "Victor Forbes"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Nicolas Masanori Shimizu Oe"
         },
@@ -12240,9 +12240,9 @@ CONTESTS[2017]["1aFase"] = {
             "Sérgio Ricardo Gomes Barbosa Filho"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Danilo Tedeschi"
         }
@@ -12259,9 +12259,9 @@ CONTESTS[2017]["1aFase"] = {
             "Vitor Silva"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Bruno De Carvalho Albertini"
         }
@@ -12278,9 +12278,9 @@ CONTESTS[2017]["1aFase"] = {
             "Andre Vaillant"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Vinicius Zibetti Resko"
         },
@@ -12295,9 +12295,9 @@ CONTESTS[2017]["1aFase"] = {
             "Michael Santos De Souza"
           ],
           "Sex": [
-            "Male",
-            "Female",
-            "Male"
+            "MALE",
+            "FEMALE",
+            "MALE"
           ],
           "Coach": "Vinicius Zibetti Resko"
         },
@@ -12312,9 +12312,9 @@ CONTESTS[2017]["1aFase"] = {
             "Mario Celso Alves Correa Junior"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Vinicius Zibetti Resko"
         },
@@ -12329,9 +12329,9 @@ CONTESTS[2017]["1aFase"] = {
             "Alexandre Junior"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Jeferson Lesbão De Siqueira"
         }
@@ -12348,9 +12348,9 @@ CONTESTS[2017]["1aFase"] = {
             "William Rebeque"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Valdir Pillat"
         },
@@ -12365,9 +12365,9 @@ CONTESTS[2017]["1aFase"] = {
             "Thiago De Almeida Santos"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Alberto Correia"
         },
@@ -12382,9 +12382,9 @@ CONTESTS[2017]["1aFase"] = {
             "Paulo Custodio"
           ],
           "Sex": [
-            "Male",
-            "Female",
-            "Male"
+            "MALE",
+            "FEMALE",
+            "MALE"
           ],
           "Coach": "Wagner Clementino De Jesus"
         }
@@ -12405,9 +12405,9 @@ CONTESTS[2017]["1aFase"] = {
             "Adilson Tavares"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Emerson Cabrera Paraiso"
         }
@@ -12424,9 +12424,9 @@ CONTESTS[2017]["1aFase"] = {
             "Renan Tashiro"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Josué Pereira De Castro"
         },
@@ -12441,9 +12441,9 @@ CONTESTS[2017]["1aFase"] = {
             "Bárbara De Souza Marques"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Female"
+            "MALE",
+            "MALE",
+            "FEMALE"
           ],
           "Coach": "Josué Pereira De Castro"
         },
@@ -12458,9 +12458,9 @@ CONTESTS[2017]["1aFase"] = {
             "Cleison Arenhart Dos Santos"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Josué Pereira De Castro"
         },
@@ -12475,9 +12475,9 @@ CONTESTS[2017]["1aFase"] = {
             "Matheus Nunes Ismael"
           ],
           "Sex": [
-            "Female",
-            "Male",
-            "Male"
+            "FEMALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Josué Pereira De Castro"
         },
@@ -12492,9 +12492,9 @@ CONTESTS[2017]["1aFase"] = {
             "Lucas Frank Hollmann"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Josué Pereira De Castro"
         }
@@ -12511,9 +12511,9 @@ CONTESTS[2017]["1aFase"] = {
             "Eduardo Cembranel"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Eliane Pereira"
         },
@@ -12528,9 +12528,9 @@ CONTESTS[2017]["1aFase"] = {
             "Gabriel Horst Montoanelli"
           ],
           "Sex": [
-            "Female",
-            "Female",
-            "Male"
+            "FEMALE",
+            "FEMALE",
+            "MALE"
           ],
           "Coach": "Eliane Pereira"
         },
@@ -12545,9 +12545,9 @@ CONTESTS[2017]["1aFase"] = {
             "Franklin Fracaro"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Eliane Pereira"
         },
@@ -12562,9 +12562,9 @@ CONTESTS[2017]["1aFase"] = {
             "João Vitor Zeni Rafagnin"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Antonio Marcos Hachisuca"
         },
@@ -12579,9 +12579,9 @@ CONTESTS[2017]["1aFase"] = {
             "Giovani Francisco"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Antonio Marcos Hachisuca"
         },
@@ -12596,9 +12596,9 @@ CONTESTS[2017]["1aFase"] = {
             "Melissa Lewartoski Wong"
           ],
           "Sex": [
-            "Female",
-            "Female",
-            "Female"
+            "FEMALE",
+            "FEMALE",
+            "FEMALE"
           ],
           "Coach": "Antonio Marcos Hachisuca"
         },
@@ -12613,9 +12613,9 @@ CONTESTS[2017]["1aFase"] = {
             "Matheus Maciel"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Eliane Pereira"
         },
@@ -12630,9 +12630,9 @@ CONTESTS[2017]["1aFase"] = {
             "Anderson Martinelli"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Antonio Marcos Hachisuca"
         }
@@ -12649,9 +12649,9 @@ CONTESTS[2017]["1aFase"] = {
             "Kevin Levrone Rodrigues Machado Silva"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Daniel Kikuti"
         },
@@ -12666,9 +12666,9 @@ CONTESTS[2017]["1aFase"] = {
             "Juliano Cézar Chagas Tavares"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Daniel Kikuti"
         },
@@ -12683,9 +12683,9 @@ CONTESTS[2017]["1aFase"] = {
             "Ricardo Henrique Brunetto"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Daniel Kikuti"
         },
@@ -12700,9 +12700,9 @@ CONTESTS[2017]["1aFase"] = {
             "Bruno Massaki Emori"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Daniel Kikuti"
         }
@@ -12719,9 +12719,9 @@ CONTESTS[2017]["1aFase"] = {
             "Luan Michel Dos Santos"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Márcio Augusto De Souza"
         }
@@ -12738,9 +12738,9 @@ CONTESTS[2017]["1aFase"] = {
             "Moises Alonso Prestes"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Ana Elisa Tozetto Piekarski Da Palma"
         },
@@ -12754,8 +12754,8 @@ CONTESTS[2017]["1aFase"] = {
             "Gabriel Schambakler Viante"
           ],
           "Sex": [
-            "Male",
-            "Male"
+            "MALE",
+            "MALE"
           ],
           "Coach": "Mauro Miazaki"
         },
@@ -12770,9 +12770,9 @@ CONTESTS[2017]["1aFase"] = {
             "Kild Bezerra Fernandes"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Ana Elisa Tozetto Piekarski Da Palma"
         },
@@ -12787,9 +12787,9 @@ CONTESTS[2017]["1aFase"] = {
             "Bruno Cecatto"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Mauro Miazaki"
         }
@@ -12806,9 +12806,9 @@ CONTESTS[2017]["1aFase"] = {
             "Sayuri Morikane"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Female"
+            "MALE",
+            "MALE",
+            "FEMALE"
           ],
           "Coach": "Flávio Henrique De Bittencourt Zavan"
         },
@@ -12823,9 +12823,9 @@ CONTESTS[2017]["1aFase"] = {
             "Djenifer Renata Pereira"
           ],
           "Sex": [
-            "Male",
-            "Female",
-            "Female"
+            "MALE",
+            "FEMALE",
+            "FEMALE"
           ],
           "Coach": "Flávio Henrique De Bittencourt Zavan"
         },
@@ -12840,9 +12840,9 @@ CONTESTS[2017]["1aFase"] = {
             "Luiz Eduardo Simões"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Flávio Henrique De Bittencourt Zavan"
         },
@@ -12857,9 +12857,9 @@ CONTESTS[2017]["1aFase"] = {
             "Jedian Brambilla"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Flávio Henrique De Bittencourt Zavan"
         }
@@ -12876,9 +12876,9 @@ CONTESTS[2017]["1aFase"] = {
             "Camila Macedo"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Female"
+            "MALE",
+            "MALE",
+            "FEMALE"
           ],
           "Coach": "Alexandre Zuge"
         },
@@ -12893,9 +12893,9 @@ CONTESTS[2017]["1aFase"] = {
             "João Albuquerque"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Alexandre Zuge"
         }
@@ -12912,9 +12912,9 @@ CONTESTS[2017]["1aFase"] = {
             "Johann Karl Muller"
           ],
           "Sex": [
-            "Male",
-            "Female",
-            "Male"
+            "MALE",
+            "FEMALE",
+            "MALE"
           ],
           "Coach": "José Claudio Vianna Junior"
         },
@@ -12929,9 +12929,9 @@ CONTESTS[2017]["1aFase"] = {
             "Artur Matos"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "José Claudio Vianna Junior"
         }
@@ -12948,9 +12948,9 @@ CONTESTS[2017]["1aFase"] = {
             "Alecsander Johan Pontes De Andrade"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Davi Rocha"
         },
@@ -12965,9 +12965,9 @@ CONTESTS[2017]["1aFase"] = {
             "Mateus Campaner Hercules"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Ricardo D. Da Silva"
         }
@@ -12984,9 +12984,9 @@ CONTESTS[2017]["1aFase"] = {
             "Felipe Arisi"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Luciene Marin"
         }
@@ -13003,9 +13003,9 @@ CONTESTS[2017]["1aFase"] = {
             "Gabriel Teixeira"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Saulo Jorge Beltrão De Queiroz"
         },
@@ -13020,9 +13020,9 @@ CONTESTS[2017]["1aFase"] = {
             "Matheus Silva De Oliveira"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Saulo Jorge Beltrão De Queiroz"
         },
@@ -13037,9 +13037,9 @@ CONTESTS[2017]["1aFase"] = {
             "Olivir De Paula Junior"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Saulo Jorge Beltrão De Queiroz"
         }
@@ -13058,9 +13058,9 @@ CONTESTS[2017]["1aFase"] = {
             "Alexandre Oliveira"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Carlos Vinícius Rasch Alves"
         },
@@ -13075,9 +13075,9 @@ CONTESTS[2017]["1aFase"] = {
             "Francine Moraes"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Female"
+            "MALE",
+            "MALE",
+            "FEMALE"
           ],
           "Coach": "Angelo Luz"
         },
@@ -13092,9 +13092,9 @@ CONTESTS[2017]["1aFase"] = {
             "Frederico Kremer"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Carlos Vinícius Rasch Alves"
         },
@@ -13109,9 +13109,9 @@ CONTESTS[2017]["1aFase"] = {
             "Patrick Porto"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Angelo Luz"
         }
@@ -13128,9 +13128,9 @@ CONTESTS[2017]["1aFase"] = {
             "Claudio Steindorff"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Eglécio Alexandre Pereira"
         }
@@ -13147,9 +13147,9 @@ CONTESTS[2017]["1aFase"] = {
             "Everton Fernandes"
           ],
           "Sex": [
-            "Male",
-            "Female",
-            "Male"
+            "MALE",
+            "FEMALE",
+            "MALE"
           ],
           "Coach": "Calebe Conceicao"
         }
@@ -13166,9 +13166,9 @@ CONTESTS[2017]["1aFase"] = {
             "Anna Flávia Zimmermann Brandão"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Female"
+            "MALE",
+            "MALE",
+            "FEMALE"
           ],
           "Coach": "Vinicius Oliveira"
         },
@@ -13183,9 +13183,9 @@ CONTESTS[2017]["1aFase"] = {
             "Igor Maurell"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Vinicius Oliveira"
         }
@@ -13202,9 +13202,9 @@ CONTESTS[2017]["1aFase"] = {
             "Vinicius Brustolin"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Claudinei Hoss"
         },
@@ -13219,9 +13219,9 @@ CONTESTS[2017]["1aFase"] = {
             "Luis Felipe Czarnobay"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Claudinei Hoss"
         }
@@ -13238,9 +13238,9 @@ CONTESTS[2017]["1aFase"] = {
             "Roan Roberson"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Marcos Andre Lucas"
         },
@@ -13255,9 +13255,9 @@ CONTESTS[2017]["1aFase"] = {
             "Henrique Bergamin"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Marcos Andre Lucas"
         },
@@ -13272,9 +13272,9 @@ CONTESTS[2017]["1aFase"] = {
             "Alexsander Chagas Dambros"
           ],
           "Sex": [
-            "Female",
-            "Female",
-            "Male"
+            "FEMALE",
+            "FEMALE",
+            "MALE"
           ],
           "Coach": "Marcos Andre Lucas"
         }
@@ -13291,9 +13291,9 @@ CONTESTS[2017]["1aFase"] = {
             "Vinicius Sesti"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "João Oliveira"
         },
@@ -13308,9 +13308,9 @@ CONTESTS[2017]["1aFase"] = {
             "Gabriel Paul"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "João Oliveira"
         }
@@ -13327,9 +13327,9 @@ CONTESTS[2017]["1aFase"] = {
             "Marlon Luís De Col"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Jacson Luiz Matte"
         },
@@ -13344,9 +13344,9 @@ CONTESTS[2017]["1aFase"] = {
             "Felipe André Zeiser"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Tiago Zonta"
         },
@@ -13361,9 +13361,9 @@ CONTESTS[2017]["1aFase"] = {
             "Élvis Paulo Martello"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Jacson Luiz Matte"
         }
@@ -13380,9 +13380,9 @@ CONTESTS[2017]["1aFase"] = {
             "Wellington Weikamp Porto"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Marcos Echevarria"
         },
@@ -13397,9 +13397,9 @@ CONTESTS[2017]["1aFase"] = {
             "Sara Ritta"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Female"
+            "MALE",
+            "MALE",
+            "FEMALE"
           ],
           "Coach": "Marcos Echevarria"
         },
@@ -13414,9 +13414,9 @@ CONTESTS[2017]["1aFase"] = {
             "Marcelo Barroso"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Marcos Echevarria"
         }
@@ -13433,9 +13433,9 @@ CONTESTS[2017]["1aFase"] = {
             "William Murari"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Marcos Antonio Moretto"
         },
@@ -13450,9 +13450,9 @@ CONTESTS[2017]["1aFase"] = {
             "Guilherme Mohr"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Marcos Antonio Moretto"
         }
@@ -13469,9 +13469,9 @@ CONTESTS[2017]["1aFase"] = {
             "Gabriel Fernando Casagrande"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Emilio Wuerges"
         },
@@ -13486,9 +13486,9 @@ CONTESTS[2017]["1aFase"] = {
             "Matheus Todescato"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Emilio Wuerges"
         },
@@ -13503,9 +13503,9 @@ CONTESTS[2017]["1aFase"] = {
             "Ruan Natan Guerra Pato"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Emilio Wuerges"
         },
@@ -13520,9 +13520,9 @@ CONTESTS[2017]["1aFase"] = {
             "Cleisson Raimundi"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Emilio Wuerges"
         },
@@ -13537,9 +13537,9 @@ CONTESTS[2017]["1aFase"] = {
             "Anthony Nadaletti"
           ],
           "Sex": [
-            "Male",
-            "Female",
-            "Male"
+            "MALE",
+            "FEMALE",
+            "MALE"
           ],
           "Coach": "Emilio Wuerges"
         },
@@ -13554,9 +13554,9 @@ CONTESTS[2017]["1aFase"] = {
             "Gabriel Chittolina"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Emilio Wuerges"
         },
@@ -13571,9 +13571,9 @@ CONTESTS[2017]["1aFase"] = {
             "João Paulo Castilho"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Emilio Wuerges"
         },
@@ -13588,9 +13588,9 @@ CONTESTS[2017]["1aFase"] = {
             "Isabeli Reik"
           ],
           "Sex": [
-            "Male",
-            "Female",
-            "Female"
+            "MALE",
+            "FEMALE",
+            "FEMALE"
           ],
           "Coach": "Emilio Wuerges"
         }
@@ -13607,9 +13607,9 @@ CONTESTS[2017]["1aFase"] = {
             "José Vitor Da Silva"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Ricardo Araujo"
         }
@@ -13626,9 +13626,9 @@ CONTESTS[2017]["1aFase"] = {
             "Ariel Castro"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Claudio Schepke"
         },
@@ -13643,9 +13643,9 @@ CONTESTS[2017]["1aFase"] = {
             "Leonardo Gonçalves"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Claudio Schepke"
         },
@@ -13660,9 +13660,9 @@ CONTESTS[2017]["1aFase"] = {
             "Isadora Ferrão"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Female"
+            "MALE",
+            "MALE",
+            "FEMALE"
           ],
           "Coach": "Claudio Schepke"
         },
@@ -13677,9 +13677,9 @@ CONTESTS[2017]["1aFase"] = {
             "Guilherme Bustamante"
           ],
           "Sex": [
-            "Male",
-            "Female",
-            "Male"
+            "MALE",
+            "FEMALE",
+            "MALE"
           ],
           "Coach": "Claudio Schepke"
         },
@@ -13694,9 +13694,9 @@ CONTESTS[2017]["1aFase"] = {
             "Lucas Mateus Dos Santos Melo"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Claudio Schepke"
         }
@@ -13713,9 +13713,9 @@ CONTESTS[2017]["1aFase"] = {
             "Daniel Bossle"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Rodrigo Machado"
         },
@@ -13730,9 +13730,9 @@ CONTESTS[2017]["1aFase"] = {
             "Bernardo Sulzbach"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Rodrigo Machado"
         },
@@ -13747,9 +13747,9 @@ CONTESTS[2017]["1aFase"] = {
             "Mario Figueiro"
           ],
           "Sex": [
-            "Female",
-            "Male",
-            "Male"
+            "FEMALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Rodrigo Machado"
         },
@@ -13764,9 +13764,9 @@ CONTESTS[2017]["1aFase"] = {
             "Arthur Vedana"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Rodrigo Machado"
         },
@@ -13781,9 +13781,9 @@ CONTESTS[2017]["1aFase"] = {
             "Pietra Freitas"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Female"
+            "MALE",
+            "MALE",
+            "FEMALE"
           ],
           "Coach": "Rodrigo Machado"
         },
@@ -13798,9 +13798,9 @@ CONTESTS[2017]["1aFase"] = {
             "Andrea Leonice Pereira Dos Santos"
           ],
           "Sex": [
-            "Female",
-            "Male",
-            "Female"
+            "FEMALE",
+            "MALE",
+            "FEMALE"
           ],
           "Coach": "Rodrigo Machado"
         },
@@ -13815,9 +13815,9 @@ CONTESTS[2017]["1aFase"] = {
             "Yuri Jaschek"
           ],
           "Sex": [
-            "Female",
-            "Male",
-            "Male"
+            "FEMALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Rodrigo Machado"
         },
@@ -13832,9 +13832,9 @@ CONTESTS[2017]["1aFase"] = {
             "Felipe Graeff"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Rodrigo Machado"
         }
@@ -13851,9 +13851,9 @@ CONTESTS[2017]["1aFase"] = {
             "Felipe Carlotto Ochial"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Neilor Tonin"
         },
@@ -13868,9 +13868,9 @@ CONTESTS[2017]["1aFase"] = {
             "Alexis Toigo"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Neilor Tonin"
         },
@@ -13885,9 +13885,9 @@ CONTESTS[2017]["1aFase"] = {
             "Gustavo Marini"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Neilor Tonin"
         },
@@ -13902,9 +13902,9 @@ CONTESTS[2017]["1aFase"] = {
             "Marcos Vinicius De Moura Lima"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Neilor Tonin"
         }
@@ -13921,9 +13921,9 @@ CONTESTS[2017]["1aFase"] = {
             "João Cigana"
           ],
           "Sex": [
-            "Female",
-            "Male",
-            "Male"
+            "FEMALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Marcos Cavalheiro"
         },
@@ -13938,9 +13938,9 @@ CONTESTS[2017]["1aFase"] = {
             "Mathias Henrique Nast Berwig"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Marcos Cavalheiro"
         },
@@ -13955,9 +13955,9 @@ CONTESTS[2017]["1aFase"] = {
             "Thainan Feistel"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Marcos Cavalheiro"
         }
@@ -13974,9 +13974,9 @@ CONTESTS[2017]["1aFase"] = {
             "Kelvyn Eduardo Krug"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Marcelo Trindade Rebonatto"
         },
@@ -13991,9 +13991,9 @@ CONTESTS[2017]["1aFase"] = {
             "Luis Fernando Fontoura Spaniol"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Eder Pazinatto"
         },
@@ -14008,9 +14008,9 @@ CONTESTS[2017]["1aFase"] = {
             "Gabriel Kressin"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Marcelo Trindade Rebonatto"
         }
@@ -14029,9 +14029,9 @@ CONTESTS[2017]["1aFase"] = {
             "Wesley Fuchter"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Nacim Miguel Francisco Júnior"
         },
@@ -14046,9 +14046,9 @@ CONTESTS[2017]["1aFase"] = {
             "João Castelli Miranda"
           ],
           "Sex": [
-            "Male",
-            "Female",
-            "Male"
+            "MALE",
+            "FEMALE",
+            "MALE"
           ],
           "Coach": "Nacim Miguel Francisco Júnior"
         },
@@ -14063,9 +14063,9 @@ CONTESTS[2017]["1aFase"] = {
             "Heloiza Silva"
           ],
           "Sex": [
-            "Female",
-            "Male",
-            "Female"
+            "FEMALE",
+            "MALE",
+            "FEMALE"
           ],
           "Coach": "Nacim Miguel Francisco Júnior"
         }
@@ -14082,9 +14082,9 @@ CONTESTS[2017]["1aFase"] = {
             "Tobias Müller"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Priscila Calegari"
         },
@@ -14099,9 +14099,9 @@ CONTESTS[2017]["1aFase"] = {
             "Gabriel Domene"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Gustavo Mello Machado"
         },
@@ -14116,9 +14116,9 @@ CONTESTS[2017]["1aFase"] = {
             "Juary Rocha"
           ],
           "Sex": [
-            "Female",
-            "Male",
-            "Male"
+            "FEMALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Vinicius Ramos"
         },
@@ -14133,9 +14133,9 @@ CONTESTS[2017]["1aFase"] = {
             "Pedro Henrique Di Francia Rosso"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Alvaro Franco"
         }
@@ -14152,9 +14152,9 @@ CONTESTS[2017]["1aFase"] = {
             "Gustavo Tarciso Da Silva"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Jerusa Marchi"
         }
@@ -14171,9 +14171,9 @@ CONTESTS[2017]["1aFase"] = {
             "Luiza Engler Stadelhofer"
           ],
           "Sex": [
-            "Female",
-            "Female",
-            "Female"
+            "FEMALE",
+            "FEMALE",
+            "FEMALE"
           ],
           "Coach": "Claudio Cesar De Sá"
         },
@@ -14188,9 +14188,9 @@ CONTESTS[2017]["1aFase"] = {
             "Filipe Da Silva De Oliveira"
           ],
           "Sex": [
-            "Male",
-            "Female",
-            "Male"
+            "MALE",
+            "FEMALE",
+            "MALE"
           ],
           "Coach": "Claudio Cesar De Sá"
         },
@@ -14205,9 +14205,9 @@ CONTESTS[2017]["1aFase"] = {
             "Lucas Litter Mentz"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Claudio Cesar De Sá"
         },
@@ -14222,9 +14222,9 @@ CONTESTS[2017]["1aFase"] = {
             "Vinícius Gasparini"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Claudio Cesar De Sá"
         },
@@ -14239,9 +14239,9 @@ CONTESTS[2017]["1aFase"] = {
             "Peter Brendel"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Claudio Cesar De Sá"
         },
@@ -14256,9 +14256,9 @@ CONTESTS[2017]["1aFase"] = {
             "Victor Lucas De Melo Mafra"
           ],
           "Sex": [
-            "Male",
-            "Female",
-            "Male"
+            "MALE",
+            "FEMALE",
+            "MALE"
           ],
           "Coach": "Claudio Cesar De Sá"
         },
@@ -14273,9 +14273,9 @@ CONTESTS[2017]["1aFase"] = {
             "Victor Hugo Ribeiro Carriço"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Claudio Cesar De Sá"
         },
@@ -14290,9 +14290,9 @@ CONTESTS[2017]["1aFase"] = {
             "William Pereira"
           ],
           "Sex": [
-            "Female",
-            "Male",
-            "Male"
+            "FEMALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Claudio Cesar De Sá"
         },
@@ -14307,9 +14307,9 @@ CONTESTS[2017]["1aFase"] = {
             "Pedro Henrique Hamms Vietro"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Claudio Cesar De Sá"
         },
@@ -14324,9 +14324,9 @@ CONTESTS[2017]["1aFase"] = {
             "Felipe Weiss"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Claudio Cesar De Sá"
         },
@@ -14341,9 +14341,9 @@ CONTESTS[2017]["1aFase"] = {
             "Lucas Schulze"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Claudio Cesar De Sá"
         }
@@ -14360,9 +14360,9 @@ CONTESTS[2017]["1aFase"] = {
             "Hiroshi Siqueira"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Flavio Ceci"
         }
@@ -14596,7 +14596,7 @@ AGGREGATED["Mean"]["Rank"][2017]["1aFase"] = {
       "Universidade Estadual do Piauí - Campus de Parnaíba": {
         "Value": 512.2173913043479
       },
-      "Universidade Federal do Piauí": {
+      "Universidade Federal do Piauí ": {
         "Value": 530.0
       }
     },
@@ -14827,7 +14827,7 @@ AGGREGATED["Mean"]["Rank"][2017]["1aFase"] = {
       "Universidade Federal de Viçosa - Campus Rio Paranaiba - Sistemas de Informação": {
         "Value": 144.0
       },
-      "Universidade Federal do Triângulo Mineiro": {
+      "Universidade Federal do Triângulo Mineiro ": {
         "Value": 400.84615384615387
       },
       "Universidade Salgado de Oliveira - UNIVERSO": {
@@ -15308,7 +15308,7 @@ AGGREGATED["Count"]["Girls"][2017]["1aFase"] = {
       "Instituto Federal de Educação, Ciência e Tecnologia do Piauí - Campus Picos": {
         "Value": 1
       },
-      "Universidade Federal do Piauí": {
+      "Universidade Federal do Piauí ": {
         "Value": 2
       }
     },
@@ -15871,7 +15871,7 @@ AGGREGATED["Count"]["Teams"][2017]["1aFase"] = {
       "Universidade Estadual do Piauí - Campus de Parnaíba": {
         "Value": 4
       },
-      "Universidade Federal do Piauí": {
+      "Universidade Federal do Piauí ": {
         "Value": 7
       }
     },
@@ -16102,7 +16102,7 @@ AGGREGATED["Count"]["Teams"][2017]["1aFase"] = {
       "Universidade Federal de Viçosa - Campus Rio Paranaiba - Sistemas de Informação": {
         "Value": 1
       },
-      "Universidade Federal do Triângulo Mineiro": {
+      "Universidade Federal do Triângulo Mineiro ": {
         "Value": 3
       },
       "Universidade Salgado de Oliveira - UNIVERSO": {

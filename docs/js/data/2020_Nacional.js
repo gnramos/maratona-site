@@ -1,21 +1,21 @@
 if (CONTESTS === undefined)
   var CONTESTS = {};
-if (CONTESTS[2019] === undefined)
-  CONTESTS[2019] = {};
+if (CONTESTS[2020] === undefined)
+  CONTESTS[2020] = {};
 
-CONTESTS[2019]["Nacional"] = {
+CONTESTS[2020]["Nacional"] = {
   "Centro-Oeste": {
     "DF": {
       "Universidade de Brasília": {
-        "Rock Lee do Pagode Namora D+": {
-          "Rank": 4,
-          "SiteRank": 1,
+        "Rock Lee Casado Não Vai + Pra Pagode": {
+          "Rank": 23,
+          "SiteRank": 2,
           "Site": "Brazilian Finals",
           "Short name": "UnB",
           "Contestants": [
-            "Thiago Veras Machado",
-            "José Marcos Da Silva Leite",
-            "Luís Felipe Braga Gebrim Silva"
+            "Mikael Mello",
+            "Leonardo Riether",
+            "Thiago Veras Machado"
           ],
           "Sex": [
             "MALE",
@@ -26,15 +26,15 @@ CONTESTS[2019]["Nacional"] = {
         }
       },
       "Universidade de Brasília - Faculdade UnB Gama": {
-        "Caminhoneiros do Cerrado": {
-          "Rank": 23,
-          "SiteRank": 4,
+        "Mensageiros do à main": {
+          "Rank": 26,
+          "SiteRank": 3,
           "Site": "Brazilian Finals",
           "Short name": "UnB/FGA",
           "Contestants": [
-            "Renato Britto",
-            "Joao Carvalho",
-            "Gustavo Marques"
+            "Thiago Ferreira",
+            "Gustavo Marques",
+            "Joao Carvalho"
           ],
           "Sex": [
             "MALE",
@@ -47,51 +47,34 @@ CONTESTS[2019]["Nacional"] = {
     },
     "GO": {
       "Instituto de Informática - UFG": {
-        "Delicinhas do Cerrado": {
-          "Rank": 8,
-          "SiteRank": 2,
-          "Site": "Brazilian Finals",
-          "Short name": "UFG",
-          "Contestants": [
-            "Misael Moraes",
-            "Rafael De Castro Silva",
-            "Paulo Augusto Gomes Kataki"
-          ],
-          "Sex": [
-            "MALE",
-            "MALE",
-            "MALE"
-          ],
-          "Coach": "Humberto Longo"
-        },
-        "Leandro in the Jungle": {
-          "Rank": 13,
-          "SiteRank": 3,
+        "Monkeys": {
+          "Rank": 10,
+          "SiteRank": 1,
           "Site": "Brazilian Finals",
           "Short name": "UFG",
           "Contestants": [
             "Leandro Alves Vianna",
-            "Gustavo Leal",
-            "João Batista Oliveira Netto"
+            "Rafael De Castro Silva",
+            "Gustavo Leal"
           ],
           "Sex": [
             "MALE",
             "MALE",
             "MALE"
           ],
-          "Coach": "Humberto Longo"
+          "Coach": "Paulo Augusto Gomes Kataki"
         }
       },
       "Pontifícia Universidade Católica de Goiás": {
-        "Serjão Matador de Bug": {
-          "Rank": 30,
+        "BalloonField": {
+          "Rank": 34,
           "SiteRank": 5,
           "Site": "Brazilian Finals",
           "Short name": "PUC-Goiás",
           "Contestants": [
-            "Guilherme Londe",
-            "Jorge Santos",
-            "Ezequiel Rodrigues Da Silva"
+            "Bruno Oliveira",
+            "Ítalo Gonçalves",
+            "Adolfo Aires Schneider"
           ],
           "Sex": [
             "MALE",
@@ -104,15 +87,15 @@ CONTESTS[2019]["Nacional"] = {
     },
     "MS": {
       "Faculdade de Computação - UFMS": {
-        "Supimpa do balacobaco": {
-          "Rank": 37,
-          "SiteRank": 6,
+        "Quero café": {
+          "Rank": 31,
+          "SiteRank": 4,
           "Site": "Brazilian Finals",
           "Short name": "FACOM - UFMS",
           "Contestants": [
+            "Gabriel Sanches",
             "Felipe Silva",
-            "Luiz Henrique Santos",
-            "Matheus Oliveira"
+            "Luiz Henrique Santos"
           ],
           "Sex": [
             "MALE",
@@ -122,20 +105,41 @@ CONTESTS[2019]["Nacional"] = {
           "Coach": "Anderson Araujo"
         }
       }
+    },
+    "MT": {
+      "Universidade Federal de Mato Grosso - Campus Cuiabá": {
+        "Vamu vense": {
+          "Rank": 56,
+          "SiteRank": 6,
+          "Site": "Brazilian Finals",
+          "Short name": "UFMT - Cuiabá",
+          "Contestants": [
+            "Jean Fortes",
+            "Gabriel De Sousa Gomes Pedroso",
+            "Henrique Soares"
+          ],
+          "Sex": [
+            "MALE",
+            "MALE",
+            "MALE"
+          ],
+          "Coach": "Thiago Ventura"
+        }
+      }
     }
   },
   "Nordeste": {
     "AL": {
       "Universidade Federal de Alagoas": {
-        "TNT": {
-          "Rank": 26,
-          "SiteRank": 8,
+        "A query tá on": {
+          "Rank": 28,
+          "SiteRank": 9,
           "Site": "Brazilian Finals",
           "Short name": "UFAL",
           "Contestants": [
             "Tiago Marinho",
             "Nelson Gomes Neto",
-            "Thiago José Silva Santos"
+            "João Alcântara"
           ],
           "Sex": [
             "MALE",
@@ -144,19 +148,57 @@ CONTESTS[2019]["Nacional"] = {
           ],
           "Coach": "Rodrigo Paes"
         }
+      },
+      "Universidade Federal de Alagoas - Campus Arapiraca": {
+        "Os k-ésimos": {
+          "Rank": 39,
+          "SiteRank": 13,
+          "Site": "Brazilian Finals",
+          "Short name": "UFAL Arapiraca",
+          "Contestants": [
+            "Francisco Neto",
+            "Eduardo Correia",
+            "Jadson Santos"
+          ],
+          "Sex": [
+            "MALE",
+            "MALE",
+            "MALE"
+          ],
+          "Coach": "Elthon Oliveira"
+        }
       }
     },
     "BA": {
+      "Universidade Estadual de Feira de Santana": {
+        "Vêm tranquilo, afoba não": {
+          "Rank": 60,
+          "SiteRank": 17,
+          "Site": "Brazilian Finals",
+          "Short name": "UEFS",
+          "Contestants": [
+            "Alex Anderson Ferreira Boa Morte",
+            "Mariana Santos",
+            "Esther Araújo"
+          ],
+          "Sex": [
+            "MALE",
+            "FEMALE",
+            "FEMALE"
+          ],
+          "Coach": "Pamela Michele Cândida Cortez"
+        }
+      },
       "Universidade Estadual do Sudoeste da Bahia": {
-        "Ursos sem Curso": {
-          "Rank": 29,
-          "SiteRank": 10,
+        "Qual o nome do time?": {
+          "Rank": 40,
+          "SiteRank": 14,
           "Site": "Brazilian Finals",
           "Short name": "UESB",
           "Contestants": [
-            "Gabriel Amaral Sousa",
-            "João Andreotti",
-            "Igor Silva"
+            "Igor Silva",
+            "Gabriel Neri",
+            "Matheus Cardoso"
           ],
           "Sex": [
             "MALE",
@@ -167,15 +209,15 @@ CONTESTS[2019]["Nacional"] = {
         }
       },
       "Universidade Federal da Bahia": {
-        "Juntos & Shell | Now": {
-          "Rank": 27,
-          "SiteRank": 9,
+        "União Fiasco": {
+          "Rank": 3,
+          "SiteRank": 2,
           "Site": "Brazilian Finals",
           "Short name": "UFBA",
           "Contestants": [
+            "Bernardo Salmeron",
             "Vinicius Teixeira Hirschle",
-            "Christian Elster",
-            "Bernardo Salmeron"
+            "Thalles Medrado"
           ],
           "Sex": [
             "MALE",
@@ -187,35 +229,35 @@ CONTESTS[2019]["Nacional"] = {
       }
     },
     "CE": {
-      "Instituto Federal de Educação, Ciência e Tecnologia do Ceará - Campus Tianguá": {
-        "Completa Racha": {
-          "Rank": 57,
-          "SiteRank": 16,
+      "Instituto Federal de Ensino, Ciência e Tecnologia do Ceará": {
+        "CPA - Carregados Pelo Alyson": {
+          "Rank": 38,
+          "SiteRank": 12,
           "Site": "Brazilian Finals",
-          "Short name": "IFCE-Tianguá",
+          "Short name": "IFCE",
           "Contestants": [
-            "Marcelo Meneses De Lima",
-            "João Ipolito",
-            "Gabriel Arruda"
+            "João Venancio",
+            "Alyson Noronha",
+            "Luis Sales"
           ],
           "Sex": [
             "MALE",
             "MALE",
             "MALE"
           ],
-          "Coach": "David Rodrigues"
+          "Coach": "Ernani Leite"
         }
       },
       "Universidade Estadual do Ceará": {
-        " (++sucesso)++;": {
-          "Rank": 38,
-          "SiteRank": 12,
+        "Abacate Atômico": {
+          "Rank": 55,
+          "SiteRank": 16,
           "Site": "Brazilian Finals",
           "Short name": "UECE",
           "Contestants": [
-            "Pedro Henrique Oliveira Sousa",
-            "Matheus Monteiro Silveira",
-            "Levy Gurgel Chaves"
+            "Michael Silva",
+            "José Gabriel Uchoa Holanda",
+            "Ivo Aguiar Pimenta"
           ],
           "Sex": [
             "MALE",
@@ -225,16 +267,35 @@ CONTESTS[2019]["Nacional"] = {
           "Coach": "Rafael Gomes"
         }
       },
+      "Universidade Federal do Ceará": {
+        "AC(¬‿¬)WA": {
+          "Rank": 36,
+          "SiteRank": 11,
+          "Site": "Brazilian Finals",
+          "Short name": "UFC",
+          "Contestants": [
+            "Gabriel Candeia",
+            "Wanderley Chagas",
+            "Paulo Roberto Pinto Costa"
+          ],
+          "Sex": [
+            "MALE",
+            "MALE",
+            "MALE"
+          ],
+          "Coach": "Pablo Mayckon Silva Farias"
+        }
+      },
       "Universidade Federal do Ceará - Campus Quixadá": {
-        "Disqualified": {
-          "Rank": 7,
-          "SiteRank": 2,
+        ":ultra_fast_parrot:": {
+          "Rank": 12,
+          "SiteRank": 4,
           "Site": "Brazilian Finals",
           "Short name": "",
           "Contestants": [
-            "Paulo Miranda E Silva Sousa",
             "Michael Douglas Gonçalves Nóbrega",
-            "Claro Henrique Silva Sales"
+            "Claro Henrique Silva Sales",
+            "Paulo Miranda E Silva Sousa"
           ],
           "Sex": [
             "MALE",
@@ -245,36 +306,38 @@ CONTESTS[2019]["Nacional"] = {
         }
       }
     },
-    "PB": {
-      "Centro Universitário Unifacisa": {
-        "Vai_na.sort()": {
-          "Rank": 53,
+    "MA": {
+      "Universidade Federal do Maranhão": {
+        "UFMA Time 1": {
+          "Rank": 54,
           "SiteRank": 15,
           "Site": "Brazilian Finals",
-          "Short name": "Unifacisa",
+          "Short name": "UFMA",
           "Contestants": [
-            "James Marcos Veloso Neto",
-            "Matheus Rodrigues Sousa",
-            "Hiago Marques De Medeiros"
+            "Emanuelle Da Luz Lemos",
+            "Pedro Vinnícius Bernhard",
+            "Dayvson Almeida"
           ],
           "Sex": [
-            "MALE",
+            "FEMALE",
             "MALE",
             "MALE"
           ],
-          "Coach": "Jemerson Damasio"
+          "Coach": "Carlos Soares Neto"
         }
-      },
+      }
+    },
+    "PB": {
       "Instituto Federal de Educação, Ciência e Tecnologia da Paraíba - Campus João Pessoa": {
-        "Antenas Paranoicas": {
-          "Rank": 41,
-          "SiteRank": 13,
+        "2 matemáticos e 2 flamenguistas": {
+          "Rank": 27,
+          "SiteRank": 8,
           "Site": "Brazilian Finals",
           "Short name": "IFPB - João Pessoa",
           "Contestants": [
+            "Calebe Oliveira De Figueirêdo",
             "Victor Herbert Ferreira De Sousa",
-            "Mateus Melo",
-            "Calebe Oliveira De Figueirêdo"
+            "Kerven Albuquerque"
           ],
           "Sex": [
             "MALE",
@@ -285,15 +348,15 @@ CONTESTS[2019]["Nacional"] = {
         }
       },
       "Universidade Federal de Campina Grande": {
-        "Trio Moranguinhonho :3": {
-          "Rank": 22,
-          "SiteRank": 6,
+        "O amarelo é impostor": {
+          "Rank": 1,
+          "SiteRank": 1,
           "Site": "Brazilian Finals",
           "Short name": "UFCG",
           "Contestants": [
-            "Gabriel Felipe Cardoso Gomes",
-            "Gabriel Tavares",
-            "Matheus Oliveira Pereira"
+            "Emerson Leonardo Lucena",
+            "Daniel Figueredo",
+            "João Marcos Lima Medeiros"
           ],
           "Sex": [
             "MALE",
@@ -302,72 +365,36 @@ CONTESTS[2019]["Nacional"] = {
           ],
           "Coach": "Rohit Gheyi"
         },
-        "if avx !": {
-          "Rank": 17,
-          "SiteRank": 4,
+        "vae victis": {
+          "Rank": 14,
+          "SiteRank": 5,
           "Site": "Brazilian Finals",
           "Short name": "UFCG",
           "Contestants": [
-            "Arthur Vinícius Tomé Rodrigues",
-            "João Marcos Lima Medeiros",
-            "Gustavo Bezerra Ribeiro"
+            "Felipe Mota Dos Santos",
+            "Matheus Coutinho",
+            "Ícaro Lima"
           ],
           "Sex": [
             "MALE",
             "MALE",
             "MALE"
           ],
-          "Coach": "Rohit Gheyi"
+          "Coach": "Isabel Fontgalland"
         }
       }
     },
     "PE": {
-      "Universidade Federal Rural de Pernambuco": {
-        "Três mosqueteiros": {
-          "Rank": 50,
-          "SiteRank": 14,
-          "Site": "Brazilian Finals",
-          "Short name": "UFRPE",
-          "Contestants": [
-            "Lucas Vieira",
-            "Matheus Félix",
-            "Matheus Demiro"
-          ],
-          "Sex": [
-            "MALE",
-            "MALE",
-            "MALE"
-          ],
-          "Coach": "Cleviton Monteiro"
-        }
-      },
       "Universidade Federal de Pernambuco": {
-        "Amigos do Beto": {
-          "Rank": 3,
-          "SiteRank": 1,
-          "Site": "Brazilian Finals",
-          "Short name": "UFPE",
-          "Contestants": [
-            "Clodes Silva",
-            "Bezaliel Silva",
-            "Gabriel Pessoa"
-          ],
-          "Sex": [
-            "MALE",
-            "MALE",
-            "MALE"
-          ],
-          "Coach": "Nivan Ferreira"
-        },
-        "Experts com sono": {
-          "Rank": 9,
+        "Beto was ejected": {
+          "Rank": 11,
           "SiteRank": 3,
           "Site": "Brazilian Finals",
           "Short name": "UFPE",
           "Contestants": [
+            "Ícaro Guerra",
             "Vinícius Serra",
-            "Gabriel Mendes",
-            "José Victor Silva Cruz"
+            "Gabriel Mendes"
           ],
           "Sex": [
             "MALE",
@@ -381,13 +408,13 @@ CONTESTS[2019]["Nacional"] = {
     "PI": {
       "Universidade Federal do Piauí ": {
         "Três caras numa moto": {
-          "Rank": 32,
-          "SiteRank": 11,
+          "Rank": 24,
+          "SiteRank": 7,
           "Site": "Brazilian Finals",
           "Short name": "UFPI",
           "Contestants": [
+            "Felipe Barros Caminha",
             "Gabriel Araújo",
-            "João Pedro Patrocínio",
             "Carlos Eduardo De Santana Bastos"
           ],
           "Sex": [
@@ -401,99 +428,141 @@ CONTESTS[2019]["Nacional"] = {
     },
     "RN": {
       "Universidade Federal do Rio Grande do Norte": {
-        "Gadod++": {
-          "Rank": 21,
-          "SiteRank": 5,
+        "Que bixiga é essa?": {
+          "Rank": 29,
+          "SiteRank": 10,
           "Site": "Brazilian Finals",
           "Short name": "UFRN",
           "Contestants": [
-            "André Skeete",
+            "João Bezerra",
             "Paulo Augusto De Lima Medeiros",
-            "João Bezerra"
+            "João Victor Aquino"
           ],
           "Sex": [
             "MALE",
             "MALE",
             "MALE"
           ],
-          "Coach": "Rafael Beserra Gomes"
+          "Coach": "Sérgio Medeiros"
         }
       }
     },
     "SE": {
       "Universidade Federal de Sergipe": {
-        "Caranguejo Misterioso": {
-          "Rank": 25,
-          "SiteRank": 7,
+        "Dorime": {
+          "Rank": 18,
+          "SiteRank": 6,
           "Site": "Brazilian Finals",
           "Short name": "U Federal de Sergipe",
           "Contestants": [
-            "Lucas Lopes De Souza",
             "João Vitor Viana",
-            "Carlos Vinícios Ferreira Santos"
+            "Lucas Souza",
+            "José Freire"
           ],
           "Sex": [
             "MALE",
             "MALE",
             "MALE"
           ],
-          "Coach": "Beatriz Trinchão Andrade"
+          "Coach": "Andre Britto"
         }
       }
     }
   },
   "Norte": {
-    "AM": {
-      "Institute of Computing - Federal University of Amazonas": {
-        "Tuturu sem O(1)": {
-          "Rank": 10,
-          "SiteRank": 1,
+    "AC": {
+      "Universidade Federal do Acre": {
+        "Wrong Answer 1000%": {
+          "Rank": 58,
+          "SiteRank": 4,
           "Site": "Brazilian Finals",
-          "Short name": "IComp/UFAM",
+          "Short name": "UFAC",
           "Contestants": [
-            "Felipe Pereira Franco",
-            "Lucas Rocha Dos Santos",
-            "Lucas Castro De Souza"
+            "Bruno Ricardo Silva Trindade",
+            "André Oliveira",
+            "Italo Oliveira"
           ],
           "Sex": [
             "MALE",
             "MALE",
             "MALE"
           ],
+          "Coach": "Manoel Limeira"
+        }
+      }
+    },
+    "AM": {
+      "Institute of Computing - Federal University of Amazonas": {
+        "NP-Compeixe": {
+          "Rank": 47,
+          "SiteRank": 3,
+          "Site": "Brazilian Finals",
+          "Short name": "IComp/UFAM",
+          "Contestants": [
+            "Thayna Silvestre",
+            "Raquel Folz Cavalcante",
+            "Juliana Pereira De Magalhães"
+          ],
+          "Sex": [
+            "FEMALE",
+            "FEMALE",
+            "FEMALE"
+          ],
           "Coach": "Rosiane De Freitasr"
+        }
+      },
+      "Universidade do Estado do Amazonas": {
+        "Você é fraco, te falta O(1)": {
+          "Rank": 30,
+          "SiteRank": 1,
+          "Site": "Brazilian Finals",
+          "Short name": "UEA",
+          "Contestants": [
+            "Levi Lima",
+            "William Silva",
+            "Eduardo Lima"
+          ],
+          "Sex": [
+            "MALE",
+            "MALE",
+            "MALE"
+          ],
+          "Coach": "Wesley Rocha"
+        }
+      }
+    },
+    "AP": {
+      "Universidade Federal do Amapá": {
+        "Conexão Tucuju: aqui o caixeiro chegou de barco": {
+          "Rank": 63,
+          "SiteRank": 6,
+          "Site": "Brazilian Finals",
+          "Short name": "UNIFAP",
+          "Contestants": [
+            "Bianca Maria Sousa Aguiar",
+            "Maiara Priscila Lima Dos Santos",
+            "Jamilly Bárbara Nunes"
+          ],
+          "Sex": [
+            "FEMALE",
+            "FEMALE",
+            "FEMALE"
+          ],
+          "Coach": "Patrícia Araújo-de-oliveira"
         }
       }
     },
     "PA": {
-      "Universidade Federal do Oeste do Pará": {
-        "Projeto Beta": {
-          "Rank": 56,
-          "SiteRank": 3,
-          "Site": "Brazilian Finals",
-          "Short name": "UFOPA",
-          "Contestants": [
-            "Carlos Souza",
-            "Ellen Cristina Oliveira",
-            "Francisco Nunes"
-          ],
-          "Sex": [
-            "MALE",
-            "FEMALE",
-            "MALE"
-          ],
-          "Coach": "Flavia Monteiro"
-        }
-      },
       "Universidade Federal do Pará": {
-        "Greedy d+": {
-          "Rank": 28,
+        "Sem TLE irmão": {
+          "Rank": 33,
           "SiteRank": 2,
           "Site": "Brazilian Finals",
           "Short name": "",
           "Contestants": [
-            "Jeremias Abreu",
             "Felipe Cardoso",
-            "Diego Figueiredo"
+            "Diego Figueiredo",
+            "Jeremias Abreu"
           ],
           "Sex": [
             "MALE",
@@ -504,24 +573,45 @@ CONTESTS[2019]["Nacional"] = {
         }
       }
     },
-    "RR": {
-      "Centro Universitário Estácio da Amazônia": {
-        "Codemons": {
-          "Rank": 0,
-          "SiteRank": 0,
+    "RO": {
+      "Fundação Universidade Federal de Rondônia": {
+        "EM3.1415NA": {
+          "Rank": 62,
+          "SiteRank": 5,
           "Site": "Brazilian Finals",
-          "Short name": "CUEdA",
+          "Short name": "UNIR",
           "Contestants": [
-            "Elson Júnior",
-            "Wellington Souza",
-            "Guilherme Saraiva"
+            "Márcus Vinícius Lobo Costa",
+            "Wan Song Rocha",
+            "Uthant Vicentin Leite"
           ],
           "Sex": [
             "MALE",
             "MALE",
             "MALE"
           ],
-          "Coach": "Jonas Mendonça"
+          "Coach": "Liliane Jacon"
+        }
+      }
+    },
+    "RR": {
+      "Universidade Federal de Roraima": {
+        "KLM": {
+          "Rank": 63,
+          "SiteRank": 6,
+          "Site": "Brazilian Finals",
+          "Short name": "UFRR",
+          "Contestants": [
+            "Markus Kaul Monteiro Gerrits",
+            "André Leandro Schillreff Dos Santos",
+            "Miller Raycell Monteiro Correia"
+          ],
+          "Sex": [
+            "MALE",
+            "MALE",
+            "MALE"
+          ],
+          "Coach": "Acauan Ribeiro"
         }
       }
     }
@@ -530,92 +620,92 @@ CONTESTS[2019]["Nacional"] = {
     "ES": {
       "Universidade Federal do Espirito Santo": {
         "man java": {
-          "Rank": 36,
-          "SiteRank": 15,
+          "Rank": 35,
+          "SiteRank": 17,
           "Site": "Brazilian Finals",
           "Short name": "UFES",
           "Contestants": [
-            "Lorenzo Guimarães Moulin",
-            "Gilmarllen Pereira Miotto",
-            "Franco Schmidt Rossi"
+            "Franco Schmidt Rossi",
+            "Pedro Anselmo Santana De Angeli",
+            "Lorenzo Guimarães Moulin"
           ],
           "Sex": [
             "MALE",
             "MALE",
             "MALE"
           ],
-          "Coach": "Maria Claudia Silva Boeres"
+          "Coach": "Giovanni Comarela"
         }
       }
     },
     "MG": {
       "Centro Federal de Educação Tecnológica de Minas Gerais - Campus 2": {
         "O(f*ck)": {
-          "Rank": 34,
-          "SiteRank": 13,
+          "Rank": 37,
+          "SiteRank": 18,
           "Site": "Brazilian Finals",
           "Short name": "CEFET-MG-C2",
           "Contestants": [
+            "Lucas Santos",
             "Silvia Fonseca",
-            "Nicholas Cristofaro",
-            "Lucas Santos"
+            "Nicholas Cristofaro"
           ],
           "Sex": [
-            "FEMALE",
             "MALE",
+            "FEMALE",
             "MALE"
           ],
           "Coach": "Sandro Renato Dias"
         }
       },
       "INATEL - Instituto Nacional de Telecomunicações": {
-        "IrionTroop3rs": {
-          "Rank": 19,
-          "SiteRank": 9,
+        "Code Zwang": {
+          "Rank": 16,
+          "SiteRank": 10,
           "Site": "Brazilian Finals",
           "Short name": "INATEL",
           "Contestants": [
-            "Gustavo Policarpo",
-            "Adson Santos",
-            "Maycon Alves"
+            "Maria Eduarda Costa Leite Andrade",
+            "Nathalya Stefhany Pereira",
+            "Adson Santos"
           ],
           "Sex": [
-            "MALE",
-            "MALE",
+            "FEMALE",
+            "FEMALE",
             "MALE"
           ],
           "Coach": "Luciano Ribeiro"
         }
       },
-      "Instituto Federal Do Norte de Minas Gerais - Campus Montes Claros": {
-        "Jarbas": {
-          "Rank": 42,
-          "SiteRank": 17,
+      "Instituto Federal de Educação, Ciência e Tecnologia do Sul de Minas Gerais - Campus Muzambinho": {
+        "Amigos da Aracele": {
+          "Rank": 46,
+          "SiteRank": 20,
           "Site": "Brazilian Finals",
-          "Short name": "IFNMG - Campus Monte",
+          "Short name": "IFSULMGMuz",
           "Contestants": [
-            "Mattheus Mazzillio",
-            "Vinicius Souza",
-            "Gabriel Ferreira"
+            "Natanael Fabrício Dacioli Batista",
+            "Ygor Ribeiro Costa",
+            "Jairo De Sousa Júnior"
           ],
           "Sex": [
             "MALE",
             "MALE",
             "MALE"
           ],
-          "Coach": "Alberto Alexandre Assis Miranda"
+          "Coach": "Ricardo José Martins"
         }
       },
       "Universidade Federal de Itajubá - Campus Itajubá": {
-        "Falácias e Carícias": {
-          "Rank": 45,
-          "SiteRank": 19,
+        "The droids you are looking for": {
+          "Rank": 15,
+          "SiteRank": 9,
           "Site": "Brazilian Finals",
           "Short name": "UNIFEI",
           "Contestants": [
-            "José Silva Neto",
-            "Tarik Vieira Mouallem",
-            "David Batista"
+            "Felipe Kallás Silva",
+            "Eduardo Augusto De Oliveira",
+            "Gustavo Luiz De Alvarenga Guerra"
           ],
           "Sex": [
             "MALE",
@@ -626,14 +716,31 @@ CONTESTS[2019]["Nacional"] = {
         }
       },
       "Universidade Federal de Minas Gerais": {
-        "Rábalabaxúrias": {
-          "Rank": 5,
-          "SiteRank": 3,
+        "GTA: Grover's Street Algorithms": {
+          "Rank": 9,
+          "SiteRank": 7,
           "Site": "Brazilian Finals",
           "Short name": "UFMG",
           "Contestants": [
+            "Matheus Guedes",
+            "Matheus Aquino Motta",
+            "Celio Passos"
+          ],
+          "Sex": [
+            "MALE",
+            "MALE",
+            "MALE"
+          ],
+          "Coach": "Pedro Papa Paniago"
+        },
+        "Xerebêlerebébis": {
+          "Rank": 7,
+          "SiteRank": 5,
+          "Site": "Brazilian Finals",
+          "Short name": "UFMG",
+          "Contestants": [
+            "Emanuel Silva",
             "Bruno Monteiro",
-            "Pedro Papa Paniago",
             "Rafael Grandsire Oliveira"
           ],
           "Sex": [
@@ -641,19 +748,19 @@ CONTESTS[2019]["Nacional"] = {
             "MALE",
             "MALE"
           ],
-          "Coach": "Dilson Guimarães"
+          "Coach": "Pedro Papa Paniago"
         }
       },
       "Universidade Federal de Uberlândia": {
-        "Clube das Winx": {
-          "Rank": 16,
-          "SiteRank": 8,
+        "Home Off C++": {
+          "Rank": 22,
+          "SiteRank": 15,
           "Site": "Brazilian Finals",
           "Short name": "UFU",
           "Contestants": [
+            "Marcos Felipe Belisário Costa",
             "Gustavo Gardusi",
-            "Gustavo Nunes",
-            "Lucas Damaso"
+            "Pedro Diogo Machado"
           ],
           "Sex": [
             "MALE",
@@ -663,35 +770,16 @@ CONTESTS[2019]["Nacional"] = {
           "Coach": "Luiz Cláudio Theodoro"
         }
       },
-      "Universidade Federal de Uberlândia - Campus Monte Carmelo - Sistemas de Informação": {
-        "EGO": {
-          "Rank": 52,
-          "SiteRank": 23,
-          "Site": "Brazilian Finals",
-          "Short name": "UFU-Monte Carmelo/SI",
-          "Contestants": [
-            "Otávio Soares Ribeiro",
-            "Guilherme Suzuki",
-            "Emmanuel Reis"
-          ],
-          "Sex": [
-            "MALE",
-            "MALE",
-            "MALE"
-          ],
-          "Coach": "Mirella Junqueira"
-        }
-      },
       "Universidade Federal de Viçosa": {
-        "For-De-Fluxo": {
-          "Rank": 35,
-          "SiteRank": 14,
+        "Bagre Branco, Branco Bagre": {
+          "Rank": 25,
+          "SiteRank": 16,
           "Site": "Brazilian Finals",
           "Short name": "DPI-UFV",
           "Contestants": [
-            "Rodrigo Eduardo De Oliveira Bauer Chichorro",
-            "Bruno Ferreira Coelho",
-            "Róger Vieira Batista"
+            "Gabriel Felix",
+            "Natan Garcias",
+            "Matheus Aguilar De Oliveira"
           ],
           "Sex": [
             "MALE",
@@ -701,37 +789,56 @@ CONTESTS[2019]["Nacional"] = {
           "Coach": "Salles Magalhães"
         }
       },
-      "Universidade Federal do Triângulo Mineiro ": {
-        "Matilha": {
+      "Universidade Federal de Viçosa - Campus Florestal": {
+        "seila": {
           "Rank": 48,
           "SiteRank": 21,
           "Site": "Brazilian Finals",
-          "Short name": "UFTM",
+          "Short name": "UFV - Campus Florest",
           "Contestants": [
-            "Arthur Lopes",
-            "Pedro Santos",
-            "Lucas Ferreira"
+            "Guilherme Melos",
+            "Otávio Gomes",
+            "Dener Ribeiro"
           ],
           "Sex": [
             "MALE",
             "MALE",
             "MALE"
           ],
-          "Coach": "Leandro Cruvinel"
+          "Coach": "Estela Batista"
         }
       }
     },
     "RJ": {
+      "Centro Federal de Educação Tecnológica Celso Suckow da Fonseca - Campus Petrópolis": {
+        "PD pá": {
+          "Rank": 42,
+          "SiteRank": 19,
+          "Site": "Brazilian Finals",
+          "Short name": "CEFET/RJ Petrópolis",
+          "Contestants": [
+            "Igor Lordeiro",
+            "Roger Passos",
+            "Mateus Garcia"
+          ],
+          "Sex": [
+            "MALE",
+            "MALE",
+            "MALE"
+          ],
+          "Coach": "Douglas De Oliveira Cardoso"
+        }
+      },
       "Instituto Militar de Engenharia": {
-        "Cadê o meu coach?": {
-          "Rank": 20,
-          "SiteRank": 10,
+        "WA em O(1)": {
+          "Rank": 13,
+          "SiteRank": 8,
           "Site": "Brazilian Finals",
           "Short name": "IME",
           "Contestants": [
-            "Henrique Navarro",
-            "Caio Rocha",
-            "Arnon Mello Barbosa"
+            "Davi Holanda",
+            "Sergio Macário",
+            "Caio Rocha"
           ],
           "Sex": [
             "MALE",
@@ -742,15 +849,15 @@ CONTESTS[2019]["Nacional"] = {
         }
       },
       "Pontificia Universidade Catolica do Rio de Janeiro": {
-        "Censurados pelo Crivella": {
-          "Rank": 11,
-          "SiteRank": 5,
+        "NP-Lúcia": {
+          "Rank": 21,
+          "SiteRank": 14,
           "Site": "Brazilian Finals",
           "Short name": "PUC Rio de Janeiro",
           "Contestants": [
+            "Pedro Ferraz",
             "Handel Scholze Marques",
-            "Francisco Geiman Thiesen",
-            "Lucas Pavanelli"
+            "Francisco Geiman Thiesen"
           ],
           "Sex": [
             "MALE",
@@ -759,57 +866,38 @@ CONTESTS[2019]["Nacional"] = {
           ],
           "Coach": "Marcus Poggi"
         }
+      },
+      "Universidade Federal do Rio de Janeiro": {
+        "Que time?": {
+          "Rank": 6,
+          "SiteRank": 4,
+          "Site": "Brazilian Finals",
+          "Short name": "UFRJ",
+          "Contestants": [
+            "Felipe Chen",
+            "Guilherme Goldman Da Silva",
+            "João Sobral"
+          ],
+          "Sex": [
+            "MALE",
+            "MALE",
+            "MALE"
+          ],
+          "Coach": "Marcia Cerioli"
+        }
       }
     },
     "SP": {
-      "Centro Universitario Municipal de Franca": {
-        "C + ou -": {
-          "Rank": 54,
-          "SiteRank": 24,
-          "Site": "Brazilian Finals",
-          "Short name": "UNIFACEF",
-          "Contestants": [
-            "Renato Teles",
-            "Gabriel Henrique Leal Garcia",
-            "Helil Bergária"
-          ],
-          "Sex": [
-            "MALE",
-            "MALE",
-            "MALE"
-          ],
-          "Coach": "Daniel Pires"
-        }
-      },
-      "FACENS - Faculdade de Engenharia de Sorocaba": {
-        "Enigma": {
-          "Rank": 46,
-          "SiteRank": 20,
-          "Site": "Brazilian Finals",
-          "Short name": "FACENS",
-          "Contestants": [
-            "Lucas Dutra",
-            "Fabricio Torquato Leite",
-            "Emanuel Huber"
-          ],
-          "Sex": [
-            "MALE",
-            "MALE",
-            "MALE"
-          ],
-          "Coach": "Andre Breda Carneiro"
-        }
-      },
       "Faculdade de Tecnologia de Sorocaba": {
-        "RENEGADES": {
-          "Rank": 44,
-          "SiteRank": 18,
+        "No Main No Gain": {
+          "Rank": 49,
+          "SiteRank": 22,
           "Site": "Brazilian Finals",
           "Short name": "",
           "Contestants": [
-            "Gabriel Giovani Felicidade",
-            "Guilherme Igor Alves Sernajoto",
-            "Rafael Henrique Pacheco De Souza"
+            "Davi Teixeira De Paula",
+            "Júlio Augusto Ribeiro De Sá Almeida",
+            "Fernando Vinicius Mariano Pereira"
           ],
           "Sex": [
             "MALE",
@@ -819,35 +907,35 @@ CONTESTS[2019]["Nacional"] = {
           "Coach": "Antonio Cesar Barros Munari"
         }
       },
-      "Fatec Ourinhos": {
-        "Jumentus": {
-          "Rank": 55,
-          "SiteRank": 25,
+      "Instituto Federal de São Paulo": {
+        "RGB IFSP-ARQ Team": {
+          "Rank": 59,
+          "SiteRank": 28,
           "Site": "Brazilian Finals",
-          "Short name": "Fatec Ourinhos",
+          "Short name": "IFSP",
           "Contestants": [
-            "Flaviano Gabriel Jesus Da Cruz",
-            "André Oliveira Mendes",
-            "Guilherme Antonio Garcia Moreira"
+            "Gabriel Soares",
+            "Rafael Pena",
+            "Bruno Silvestre"
           ],
           "Sex": [
             "MALE",
             "MALE",
             "MALE"
           ],
-          "Coach": "Alex Marino Gonçalves De Almeida"
+          "Coach": "Jose Beluzo"
         }
       },
       "Instituto Tecnológico de Aeronautica": {
-        "Pappy van Poodle": {
-          "Rank": 24,
-          "SiteRank": 11,
+        "GGG": {
+          "Rank": 20,
+          "SiteRank": 13,
           "Site": "Brazilian Finals",
           "Short name": "ITA",
           "Contestants": [
-            "Guilherme Oliveira",
-            "Lucas Jorge",
-            "Felipe Guimarães"
+            "Guilherme Kowalczuk",
+            "Gustavo Lima",
+            "Gabriel Pereira"
           ],
           "Sex": [
             "MALE",
@@ -858,53 +946,72 @@ CONTESTS[2019]["Nacional"] = {
         }
       },
       "UNESP - Universidade Estadual Paulista - (Faculdade de Ciências - Bauru)": {
-        "Colecionadores de Balões": {
-          "Rank": 39,
-          "SiteRank": 16,
+        "UnespRPM": {
+          "Rank": 53,
+          "SiteRank": 26,
           "Site": "Brazilian Finals",
           "Short name": "UNESP-Bauru",
           "Contestants": [
-            "João Comini",
-            "Pedro Paiola",
-            "Giulia Moura Crusco"
-          ],
-          "Sex": [
-            "MALE",
-            "MALE",
-            "FEMALE"
-          ],
-          "Coach": "Wilson Yonezawa"
-        }
-      },
-      "UNOESTE - Universidade do Oeste Paulista": {
-        "Gryffindor": {
-          "Rank": 0,
-          "SiteRank": 0,
-          "Site": "Brazilian Finals",
-          "Short name": "UNOESTE",
-          "Contestants": [
-            "Evandro Junior",
-            "Heitor Payão Bittencourt",
-            "Eddy Augusto Santos"
+            "Bruno Papa",
+            "Maurício Arantes",
+            "Rodrigo César Barboza Rossetti"
           ],
           "Sex": [
             "MALE",
             "MALE",
             "MALE"
           ],
-          "Coach": "Francisco Virginio Maracci"
+          "Coach": "Pedro Henrique Paiola"
+        }
+      },
+      "UNIVEM - Centro Universitário Eurípides de Marília": {
+        "Overclock": {
+          "Rank": 61,
+          "SiteRank": 29,
+          "Site": "Brazilian Finals",
+          "Short name": "UNIVEM",
+          "Contestants": [
+            "Felipe Stefani Correia Dos Santos",
+            "William Chapuis Marciano",
+            "Marcello Cesar Queiroz"
+          ],
+          "Sex": [
+            "MALE",
+            "MALE",
+            "MALE"
+          ],
+          "Coach": "Rodolfo Barros Chiaramonte"
+        }
+      },
+      "UNOESTE - Universidade do Oeste Paulista": {
+        "Alquimistas": {
+          "Rank": 50,
+          "SiteRank": 23,
+          "Site": "Brazilian Finals",
+          "Short name": "UNOESTE",
+          "Contestants": [
+            "Heitor Payão Bittencourt",
+            "Eddy Augusto Santos",
+            "Evandro Junior"
+          ],
+          "Sex": [
+            "MALE",
+            "MALE",
+            "MALE"
+          ],
+          "Coach": "Francisco Assis Da Silva"
         }
       },
       "Universidade Estadual de Campinas": {
-        "Campinas Grande": {
-          "Rank": 2,
-          "SiteRank": 2,
+        "$wa": {
+          "Rank": 17,
+          "SiteRank": 11,
           "Site": "Brazilian Finals",
           "Short name": "UNICAMP",
           "Contestants": [
-            "Augusto Damschi Bernardi",
-            "Rodrigo Amaral Franceschinelli",
-            "Arthur Pratti Dadalto"
+            "Yan Guimarães",
+            "Adilson Luis Jonck Junior",
+            "João Aleixo"
           ],
           "Sex": [
             "MALE",
@@ -913,15 +1020,15 @@ CONTESTS[2019]["Nacional"] = {
           ],
           "Coach": "Fábio Luiz Usberti"
         },
-        "OBIixos": {
-          "Rank": 15,
-          "SiteRank": 7,
+        "namae wa??": {
+          "Rank": 2,
+          "SiteRank": 1,
           "Site": "Brazilian Finals",
           "Short name": "UNICAMP",
           "Contestants": [
-            "Yan Guimarães",
+            "Matheus Leal Viana",
             "Tiago Souza",
-            "Matheus Leal Viana"
+            "Naim Shaikhzadeh"
           ],
           "Sex": [
             "MALE",
@@ -932,34 +1039,34 @@ CONTESTS[2019]["Nacional"] = {
         }
       },
       "Universidade Federal de São Carlos": {
-        "BoraCodarCaramba": {
+        "S -> aSa | a": {
           "Rank": 51,
-          "SiteRank": 22,
+          "SiteRank": 24,
           "Site": "Brazilian Finals",
           "Short name": "UFSCar",
           "Contestants": [
-            "Guilherme Godoy",
-            "Lucas Fracasso",
-            "Gabriel Machado"
+            "Matheus Victorello",
+            "Alcides Mignoso E Silva",
+            "Guilherme Arcencio"
           ],
           "Sex": [
             "MALE",
             "MALE",
             "MALE"
           ],
-          "Coach": "Gabriel Malaquias"
+          "Coach": "Víctor Colombo"
         }
       },
       "Universidade Federal do ABC": {
-        "buiatchaka": {
-          "Rank": 31,
-          "SiteRank": 12,
+        "anarquia às 8": {
+          "Rank": 52,
+          "SiteRank": 25,
           "Site": "Brazilian Finals",
           "Short name": "UFABC",
           "Contestants": [
-            "Jonatas Duarte Souza",
+            "Bryan Valeriano",
             "Wesley Pereira Da Silva",
-            "Bryan Valeriano"
+            "Jonatas Duarte Souza"
           ],
           "Sex": [
             "MALE",
@@ -969,71 +1076,69 @@ CONTESTS[2019]["Nacional"] = {
           "Coach": "Cristiane Sato"
         }
       },
-      "Universidade Nove de Julho": {
-        "Undefin@d": {
-          "Rank": 0,
-          "SiteRank": 0,
+      "Universidade de São Paulo": {
+        "Hoje tem AC do Ribamar": {
+          "Rank": 8,
+          "SiteRank": 6,
           "Site": "Brazilian Finals",
-          "Short name": "UNINOVE",
+          "Short name": "USP",
           "Contestants": [
-            "Guilherme Rodrigues",
-            "Joao Henrique Damazio",
-            "Matheus Pereira"
+            "Lucas Hiroshi Hanke Harada",
+            "Gabriel Morete",
+            "Thiago Oliveira"
           ],
           "Sex": [
             "MALE",
             "MALE",
             "MALE"
           ],
-          "Coach": "Daniel Ferreira De Barros Junior"
-        }
-      },
-      "Universidade de São Paulo": {
-        "Time com T": {
-          "Rank": 1,
-          "SiteRank": 1,
+          "Coach": "Nathan Benedetto Proença"
+        },
+        "KondZhiLa": {
+          "Rank": 5,
+          "SiteRank": 3,
           "Site": "Brazilian Finals",
           "Short name": "USP",
           "Contestants": [
-            "Cezar Guimarães",
-            "Giovanna Conrado",
-            "Arthur Nascimento"
+            "Victor Lamarca",
+            "Jiang Zhi",
+            "William Kondo"
           ],
           "Sex": [
             "MALE",
-            "FEMALE",
+            "MALE",
             "MALE"
           ],
           "Coach": "Nathan Benedetto Proença"
         }
       },
       "Universidade de São Paulo - Campus de São Carlos": {
-        "Triple G": {
-          "Rank": 6,
-          "SiteRank": 4,
+        "cuscuz com cachaça": {
+          "Rank": 19,
+          "SiteRank": 12,
           "Site": "Brazilian Finals",
           "Short name": "USP - São Carlos",
           "Contestants": [
-            "Gabriel Pinto De Camargo",
-            "Gustavo Soares",
-            "Guilherme Tubone"
+            "Dikson Santos",
+            "Fernando Lincoln",
+            "Thiago Queiroz"
           ],
           "Sex": [
             "MALE",
             "MALE",
             "MALE"
           ],
-          "Coach": "Samuel Santos"
+          "Coach": "Guilherme Tubone"
         },
-        "um minuto para o fim do coffee": {
-          "Rank": 12,
-          "SiteRank": 6,
+        "deitando no gramado": {
+          "Rank": 4,
+          "SiteRank": 2,
           "Site": "Brazilian Finals",
           "Short name": "USP - São Carlos",
           "Contestants": [
-            "Frederico Ribeiro",
+            "Lucas Turci",
             "Andre Fakhoury",
-            "Raphael Medeiros"
+            "Frederico Ribeiro"
           ],
           "Sex": [
             "MALE",
@@ -1041,67 +1146,67 @@ CONTESTS[2019]["Nacional"] = {
             "MALE"
           ],
           "Coach": "Samuel Santos"
+        }
+      },
+      "Universidade do Extremo Sul Catarinense": {
+        "Code Distancing": {
+          "Rank": 57,
+          "SiteRank": 27,
+          "Site": "Brazilian Finals",
+          "Short name": "UNESC",
+          "Contestants": [
+            "Roger Vieira",
+            "Jackson Belloli",
+            "Rômulo Ramos De Siqueira"
+          ],
+          "Sex": [
+            "MALE",
+            "MALE",
+            "MALE"
+          ],
+          "Coach": "Luciano Antunes"
         }
       }
     }
   },
   "Sul": {
     "PR": {
-      "UNIOESTE - Campus Cascavel": {
-        "Ops, !(Solução Trivial)": {
-          "Rank": 14,
-          "SiteRank": 1,
-          "Site": "Brazilian Finals",
-          "Short name": "UNIOESTE",
-          "Contestants": [
-            "Marcelo Henrique Bittencourt",
-            "Brendo Peres Bizetto",
-            "Luis Fernando Veronese Trivelatto"
-          ],
-          "Sex": [
-            "MALE",
-            "MALE",
-            "MALE"
-          ],
-          "Coach": "Josué Pereira De Castro"
-        }
-      },
-      "Universidade Estadual de Maringá": {
-        "RATAT010S": {
-          "Rank": 49,
-          "SiteRank": 7,
-          "Site": "Brazilian Finals",
-          "Short name": "UEM",
-          "Contestants": [
-            "Mateus Osmarin",
-            "Alex Noce",
-            "Alan Lopes De Sousa Freitas"
-          ],
-          "Sex": [
-            "MALE",
-            "MALE",
-            "MALE"
-          ],
-          "Coach": "Daniel Kikuti"
-        }
-      },
       "Universidade Federal do Paraná": {
-        "YouShallNot.cpp": {
-          "Rank": 33,
-          "SiteRank": 3,
+        "YouShallNot.stay": {
+          "Rank": 45,
+          "SiteRank": 5,
           "Site": "Brazilian Finals",
           "Short name": "UF Paraná",
           "Contestants": [
             "Bruno Tissei",
-            "Leonardo Strozzi",
-            "Jedian Brambilla"
+            "Talita Halboth Cunha Fernandes",
+            "Fernando Kiotheka"
+          ],
+          "Sex": [
+            "MALE",
+            "FEMALE",
+            "MALE"
+          ],
+          "Coach": "André Guedes"
+        }
+      },
+      "Universidade Tecnológica Federal do Paraná - Campus Curitiba": {
+        "Programadores: continue": {
+          "Rank": 44,
+          "SiteRank": 4,
+          "Site": "Brazilian Finals",
+          "Short name": "UTFPR-CT",
+          "Contestants": [
+            "Gustavo Guedes",
+            "Gabriel Frizzo",
+            "Enrico Manfron"
           ],
           "Sex": [
             "MALE",
             "MALE",
             "MALE"
           ],
-          "Coach": "André Guedes"
+          "Coach": "Leandro Zatesko"
         }
       }
     },
@@ -1109,11 +1214,11 @@ CONTESTS[2019]["Nacional"] = {
       "Universidade Federal do Rio Grande do Sul": {
         "[nome_do_time]": {
           "Rank": 43,
-          "SiteRank": 5,
+          "SiteRank": 3,
           "Site": "Brazilian Finals",
           "Short name": "UFRGS",
           "Contestants": [
-            "Matheus Kovaleski",
+            "Erik Bardini Da Rosa",
             "Rafael Audibert",
             "João Pedro Gonçalves Moreira"
           ],
@@ -1122,59 +1227,40 @@ CONTESTS[2019]["Nacional"] = {
             "MALE",
             "MALE"
           ],
-          "Coach": "Rodrigo Machado"
-        }
-      },
-      "Universidade de Passo Fundo": {
-        "Press 0xF to pay respects": {
-          "Rank": 47,
-          "SiteRank": 6,
-          "Site": "Brazilian Finals",
-          "Short name": "UPF",
-          "Contestants": [
-            "Felipe Foschiera",
-            "Adrian Cerbaro",
-            "Ricardo Fachinello"
-          ],
-          "Sex": [
-            "MALE",
-            "MALE",
-            "MALE"
-          ],
-          "Coach": "Marcelo Trindade Rebonatto"
+          "Coach": "Santiago Ravelo"
         }
       }
     },
     "SC": {
-      "Universidade Federal da Fronteira Sul": {
-        "Hu3++OnTheEdgeOfOblivion": {
-          "Rank": 40,
-          "SiteRank": 4,
+      "Universidade Federal de Santa Catarina (Campus Florianópolis)": {
+        "Bolonhesa": {
+          "Rank": 41,
+          "SiteRank": 2,
           "Site": "Brazilian Finals",
-          "Short name": "UFFS",
+          "Short name": "UF Santa Catarina",
           "Contestants": [
-            "Daniel Mello Konflanz",
-            "Marcos Theophilo Gobbi Adamczuk",
-            "Ruan Natan Guerra Pato"
+            "Nícolas Goeldner",
+            "Gustavo Biage",
+            "Wesly Ataide"
           ],
           "Sex": [
             "MALE",
             "MALE",
             "MALE"
           ],
-          "Coach": "Emilio Wuerges"
+          "Coach": "Maicon Rafael Zatelli"
         }
       },
       "Universidade do Estado de Santa Catarina": {
-        "S4D B0YZ": {
-          "Rank": 18,
-          "SiteRank": 2,
+        "Mews Lovers": {
+          "Rank": 32,
+          "SiteRank": 1,
           "Site": "Brazilian Finals",
           "Short name": "UDESC",
           "Contestants": [
             "Felipe Weiss",
-            "Felipe Marchi",
-            "Adilson Luis Jonck Junior"
+            "Vinícius Gasparini",
+            "Felipe Marchi"
           ],
           "Sex": [
             "MALE",
@@ -1195,238 +1281,277 @@ if (AGGREGATED["Mean"] === undefined)
   AGGREGATED["Mean"] = {};
 if (AGGREGATED["Mean"]["Rank"] === undefined)
   AGGREGATED["Mean"]["Rank"] = {};
-if (AGGREGATED["Mean"]["Rank"][2019] === undefined)
-  AGGREGATED["Mean"]["Rank"][2019] = {};
+if (AGGREGATED["Mean"]["Rank"][2020] === undefined)
+  AGGREGATED["Mean"]["Rank"][2020] = {};
 
-AGGREGATED["Mean"]["Rank"][2019]["Nacional"] = {
+AGGREGATED["Mean"]["Rank"][2020]["Nacional"] = {
   "Centro-Oeste": {
-    "Value": 16.689655172413794,
+    "Value": 28.96153846153846,
     "DF": {
-      "Value": 10.333333333333334,
+      "Value": 24.333333333333332,
       "Universidade de Brasília": {
-        "Value": 4.0
+        "Value": 23.0
       },
       "Universidade de Brasília - Faculdade UnB Gama": {
-        "Value": 23.0
+        "Value": 26.0
       }
     },
     "GO": {
-      "Value": 16.307692307692307,
+      "Value": 20.666666666666668,
       "Instituto de Informática - UFG": {
-        "Value": 10.222222222222221
+        "Value": 10.0
       },
       "Pontifícia Universidade Católica de Goiás": {
-        "Value": 30.0
+        "Value": 34.0
       }
     },
     "MS": {
-      "Value": 37.0,
+      "Value": 31.0,
       "Faculdade de Computação - UFMS": {
-        "Value": 37.0
+        "Value": 31.0
+      }
+    },
+    "MT": {
+      "Value": 56.0,
+      "Universidade Federal de Mato Grosso - Campus Cuiabá": {
+        "Value": 56.0
       }
     }
   },
   "Nordeste": {
-    "Value": 28.115384615384617,
+    "Value": 28.6,
     "AL": {
-      "Value": 26.0,
+      "Value": 34.111111111111114,
       "Universidade Federal de Alagoas": {
-        "Value": 26.0
+        "Value": 28.0
+      },
+      "Universidade Federal de Alagoas - Campus Arapiraca": {
+        "Value": 39.0
       }
     },
     "BA": {
-      "Value": 28.11111111111111,
+      "Value": 33.92857142857143,
+      "Universidade Estadual de Feira de Santana": {
+        "Value": 60.0
+      },
       "Universidade Estadual do Sudoeste da Bahia": {
-        "Value": 29.0
+        "Value": 40.0
       },
       "Universidade Federal da Bahia": {
-        "Value": 27.0
+        "Value": 3.0
       }
     },
     "CE": {
-      "Value": 34.0,
-      "Instituto Federal de Educação, Ciência e Tecnologia do Ceará - Campus Tianguá": {
-        "Value": 57.0
-      },
-      "Universidade Estadual do Ceará": {
+      "Value": 36.388888888888886,
+      "Instituto Federal de Ensino, Ciência e Tecnologia do Ceará": {
         "Value": 38.0
       },
+      "Universidade Estadual do Ceará": {
+        "Value": 55.0
+      },
+      "Universidade Federal do Ceará": {
+        "Value": 36.0
+      },
       "Universidade Federal do Ceará - Campus Quixadá": {
-        "Value": 7.0
+        "Value": 12.0
+      }
+    },
+    "MA": {
+      "Value": 54.0,
+      "Universidade Federal do Maranhão": {
+        "Value": 54.0
       }
     },
     "PB": {
-      "Value": 32.65,
-      "Centro Universitário Unifacisa": {
-        "Value": 53.0
-      },
+      "Value": 14.0,
       "Instituto Federal de Educação, Ciência e Tecnologia da Paraíba - Campus João Pessoa": {
-        "Value": 41.0
+        "Value": 27.0
       },
       "Universidade Federal de Campina Grande": {
-        "Value": 19.5
+        "Value": 6.777777777777778
       }
     },
     "PE": {
-      "Value": 20.666666666666668,
-      "Universidade Federal Rural de Pernambuco": {
-        "Value": 50.0
-      },
+      "Value": 11.0,
       "Universidade Federal de Pernambuco": {
-        "Value": 6.0
+        "Value": 11.0
       }
     },
     "PI": {
-      "Value": 32.0,
+      "Value": 24.0,
       "Universidade Federal do Piauí ": {
-        "Value": 32.0
+        "Value": 24.0
       }
     },
     "RN": {
-      "Value": 21.0,
+      "Value": 29.0,
       "Universidade Federal do Rio Grande do Norte": {
-        "Value": 21.0
+        "Value": 29.0
       }
     },
     "SE": {
-      "Value": 25.0,
+      "Value": 18.0,
       "Universidade Federal de Sergipe": {
-        "Value": 25.0
+        "Value": 18.0
       }
     }
   },
   "Norte": {
-    "Value": 30.857142857142858,
+    "Value": 49.303030303030305,
+    "AC": {
+      "Value": 58.0,
+      "Universidade Federal do Acre": {
+        "Value": 58.0
+      }
+    },
     "AM": {
-      "Value": 10.0,
+      "Value": 37.72727272727273,
       "Institute of Computing - Federal University of Amazonas": {
-        "Value": 10.0
+        "Value": 47.0
+      },
+      "Universidade do Estado do Amazonas": {
+        "Value": 30.0
+      }
+    },
+    "AP": {
+      "Value": 63.0,
+      "Universidade Federal do Amapá": {
+        "Value": 63.0
       }
     },
     "PA": {
-      "Value": 39.2,
-      "Universidade Federal do Oeste do Pará": {
-        "Value": 56.0
-      },
+      "Value": 33.0,
       "Universidade Federal do Pará": {
-        "Value": 28.0
+        "Value": 33.0
+      }
+    },
+    "RO": {
+      "Value": 62.0,
+      "Fundação Universidade Federal de Rondônia": {
+        "Value": 62.0
+      }
+    },
+    "RR": {
+      "Value": 63.0,
+      "Universidade Federal de Roraima": {
+        "Value": 63.0
       }
     }
   },
   "Sudeste": {
-    "Value": 30.02542372881356,
+    "Value": 29.23913043478261,
     "ES": {
-      "Value": 36.0,
+      "Value": 35.0,
       "Universidade Federal do Espirito Santo": {
-        "Value": 36.0
+        "Value": 35.0
       }
     },
     "MG": {
-      "Value": 34.61904761904762,
+      "Value": 25.790697674418606,
       "Centro Federal de Educação Tecnológica de Minas Gerais - Campus 2": {
-        "Value": 34.0
+        "Value": 37.0
       },
       "INATEL - Instituto Nacional de Telecomunicações": {
-        "Value": 19.0
-      },
-      "Instituto Federal Do Norte de Minas Gerais - Campus Montes Claros": {
-        "Value": 42.0
-      },
-      "Universidade Federal de Itajubá - Campus Itajubá": {
-        "Value": 45.0
-      },
-      "Universidade Federal de Minas Gerais": {
-        "Value": 5.0
-      },
-      "Universidade Federal de Uberlândia": {
         "Value": 16.0
       },
-      "Universidade Federal de Uberlândia - Campus Monte Carmelo - Sistemas de Informação": {
-        "Value": 52.0
+      "Instituto Federal de Educação, Ciência e Tecnologia do Sul de Minas Gerais - Campus Muzambinho": {
+        "Value": 46.0
+      },
+      "Universidade Federal de Itajubá - Campus Itajubá": {
+        "Value": 15.0
+      },
+      "Universidade Federal de Minas Gerais": {
+        "Value": 8.0
+      },
+      "Universidade Federal de Uberlândia": {
+        "Value": 22.0
       },
       "Universidade Federal de Viçosa": {
-        "Value": 35.0
+        "Value": 25.0
       },
-      "Universidade Federal do Triângulo Mineiro ": {
+      "Universidade Federal de Viçosa - Campus Florestal": {
         "Value": 48.0
       }
     },
     "RJ": {
-      "Value": 15.909090909090908,
+      "Value": 20.157894736842106,
+      "Centro Federal de Educação Tecnológica Celso Suckow da Fonseca - Campus Petrópolis": {
+        "Value": 42.0
+      },
       "Instituto Militar de Engenharia": {
-        "Value": 20.0
+        "Value": 13.0
       },
       "Pontificia Universidade Catolica do Rio de Janeiro": {
-        "Value": 11.0
+        "Value": 21.0
+      },
+      "Universidade Federal do Rio de Janeiro": {
+        "Value": 6.0
       }
     },
     "SP": {
-      "Value": 29.016393442622952,
-      "Centro Universitario Municipal de Franca": {
-        "Value": 54.0
-      },
-      "FACENS - Faculdade de Engenharia de Sorocaba": {
-        "Value": 46.0
-      },
+      "Value": 33.375,
       "Faculdade de Tecnologia de Sorocaba": {
-        "Value": 44.0
+        "Value": 49.0
       },
-      "Fatec Ourinhos": {
-        "Value": 55.0
+      "Instituto Federal de São Paulo": {
+        "Value": 59.0
       },
       "Instituto Tecnológico de Aeronautica": {
-        "Value": 24.0
+        "Value": 20.0
       },
       "UNESP - Universidade Estadual Paulista - (Faculdade de Ciências - Bauru)": {
-        "Value": 39.0
+        "Value": 53.0
+      },
+      "UNIVEM - Centro Universitário Eurípides de Marília": {
+        "Value": 61.0
+      },
+      "UNOESTE - Universidade do Oeste Paulista": {
+        "Value": 50.0
       },
       "Universidade Estadual de Campinas": {
-        "Value": 8.5
+        "Value": 9.5
       },
       "Universidade Federal de São Carlos": {
         "Value": 51.0
       },
       "Universidade Federal do ABC": {
-        "Value": 31.0
+        "Value": 52.0
       },
       "Universidade de São Paulo": {
-        "Value": 1.0
+        "Value": 6.5
       },
       "Universidade de São Paulo - Campus de São Carlos": {
-        "Value": 9.0
+        "Value": 11.5
+      },
+      "Universidade do Extremo Sul Catarinense": {
+        "Value": 57.0
       }
     }
   },
   "Sul": {
-    "Value": 34.96774193548387,
+    "Value": 41.22727272727273,
     "PR": {
-      "Value": 32.0,
-      "UNIOESTE - Campus Cascavel": {
-        "Value": 14.0
-      },
-      "Universidade Estadual de Maringá": {
-        "Value": 49.0
-      },
+      "Value": 44.44444444444444,
       "Universidade Federal do Paraná": {
-        "Value": 33.0
+        "Value": 45.0
+      },
+      "Universidade Tecnológica Federal do Paraná - Campus Curitiba": {
+        "Value": 44.0
       }
     },
     "RS": {
-      "Value": 45.0,
+      "Value": 43.0,
       "Universidade Federal do Rio Grande do Sul": {
         "Value": 43.0
-      },
-      "Universidade de Passo Fundo": {
-        "Value": 47.0
       }
     },
     "SC": {
-      "Value": 27.77777777777778,
-      "Universidade Federal da Fronteira Sul": {
-        "Value": 40.0
+      "Value": 36.5,
+      "Universidade Federal de Santa Catarina (Campus Florianópolis)": {
+        "Value": 41.0
       },
       "Universidade do Estado de Santa Catarina": {
-        "Value": 18.0
+        "Value": 32.0
       }
     }
   }
@@ -1439,38 +1564,62 @@ if (AGGREGATED["Count"] === undefined)
   AGGREGATED["Count"] = {};
 if (AGGREGATED["Count"]["Girls"] === undefined)
   AGGREGATED["Count"]["Girls"] = {};
-if (AGGREGATED["Count"]["Girls"][2019] === undefined)
-  AGGREGATED["Count"]["Girls"][2019] = {};
+if (AGGREGATED["Count"]["Girls"][2020] === undefined)
+  AGGREGATED["Count"]["Girls"][2020] = {};
 
-AGGREGATED["Count"]["Girls"][2019]["Nacional"] = {
-  "Norte": {
-    "Value": 1,
-    "PA": {
+AGGREGATED["Count"]["Girls"][2020]["Nacional"] = {
+  "Nordeste": {
+    "Value": 3,
+    "BA": {
+      "Value": 2,
+      "Universidade Estadual de Feira de Santana": {
+        "Value": 2
+      }
+    },
+    "MA": {
       "Value": 1,
-      "Universidade Federal do Oeste do Pará": {
+      "Universidade Federal do Maranhão": {
         "Value": 1
+      }
+    }
+  },
+  "Norte": {
+    "Value": 6,
+    "AM": {
+      "Value": 3,
+      "Institute of Computing - Federal University of Amazonas": {
+        "Value": 3
+      }
+    },
+    "AP": {
+      "Value": 3,
+      "Universidade Federal do Amapá": {
+        "Value": 3
       }
     }
   },
   "Sudeste": {
     "Value": 3,
     "MG": {
-      "Value": 1,
+      "Value": 3,
       "Centro Federal de Educação Tecnológica de Minas Gerais - Campus 2": {
         "Value": 1
-      }
-    },
-    "SP": {
-      "Value": 2,
-      "UNESP - Universidade Estadual Paulista - (Faculdade de Ciências - Bauru)": {
-        "Value": 1
       },
-      "Universidade de São Paulo": {
+      "INATEL - Instituto Nacional de Telecomunicações": {
+        "Value": 2
+      }
+    }
+  },
+  "Sul": {
+    "Value": 1,
+    "PR": {
+      "Value": 1,
+      "Universidade Federal do Paraná": {
         "Value": 1
       }
     }
   },
-  "Value": 4
+  "Value": 13
 };
 
 
@@ -1480,10 +1629,10 @@ if (AGGREGATED["Count"] === undefined)
   AGGREGATED["Count"] = {};
 if (AGGREGATED["Count"]["Teams"] === undefined)
   AGGREGATED["Count"]["Teams"] = {};
-if (AGGREGATED["Count"]["Teams"][2019] === undefined)
-  AGGREGATED["Count"]["Teams"][2019] = {};
+if (AGGREGATED["Count"]["Teams"][2020] === undefined)
+  AGGREGATED["Count"]["Teams"][2020] = {};
 
-AGGREGATED["Count"]["Teams"][2019]["Nacional"] = {
+AGGREGATED["Count"]["Teams"][2020]["Nacional"] = {
   "Centro-Oeste": {
     "Value": 6,
     "DF": {
@@ -1496,9 +1645,9 @@ AGGREGATED["Count"]["Teams"][2019]["Nacional"] = {
       }
     },
     "GO": {
-      "Value": 3,
+      "Value": 2,
       "Instituto de Informática - UFG": {
-        "Value": 2
+        "Value": 1
       },
       "Pontifícia Universidade Católica de Goiás": {
         "Value": 1
@@ -1509,18 +1658,30 @@ AGGREGATED["Count"]["Teams"][2019]["Nacional"] = {
       "Faculdade de Computação - UFMS": {
         "Value": 1
       }
+    },
+    "MT": {
+      "Value": 1,
+      "Universidade Federal de Mato Grosso - Campus Cuiabá": {
+        "Value": 1
+      }
     }
   },
   "Nordeste": {
-    "Value": 16,
+    "Value": 17,
     "AL": {
-      "Value": 1,
+      "Value": 2,
       "Universidade Federal de Alagoas": {
+        "Value": 1
+      },
+      "Universidade Federal de Alagoas - Campus Arapiraca": {
         "Value": 1
       }
     },
     "BA": {
-      "Value": 2,
+      "Value": 3,
+      "Universidade Estadual de Feira de Santana": {
+        "Value": 1
+      },
       "Universidade Estadual do Sudoeste da Bahia": {
         "Value": 1
       },
@@ -1529,22 +1690,28 @@ AGGREGATED["Count"]["Teams"][2019]["Nacional"] = {
       }
     },
     "CE": {
-      "Value": 3,
-      "Instituto Federal de Educação, Ciência e Tecnologia do Ceará - Campus Tianguá": {
+      "Value": 4,
+      "Instituto Federal de Ensino, Ciência e Tecnologia do Ceará": {
         "Value": 1
       },
       "Universidade Estadual do Ceará": {
+        "Value": 1
+      },
+      "Universidade Federal do Ceará": {
         "Value": 1
       },
       "Universidade Federal do Ceará - Campus Quixadá": {
         "Value": 1
       }
     },
-    "PB": {
-      "Value": 4,
-      "Centro Universitário Unifacisa": {
+    "MA": {
+      "Value": 1,
+      "Universidade Federal do Maranhão": {
         "Value": 1
-      },
+      }
+    },
+    "PB": {
+      "Value": 3,
       "Instituto Federal de Educação, Ciência e Tecnologia da Paraíba - Campus João Pessoa": {
         "Value": 1
       },
@@ -1553,12 +1720,9 @@ AGGREGATED["Count"]["Teams"][2019]["Nacional"] = {
       }
     },
     "PE": {
-      "Value": 3,
-      "Universidade Federal Rural de Pernambuco": {
-        "Value": 1
-      },
+      "Value": 1,
       "Universidade Federal de Pernambuco": {
-        "Value": 2
+        "Value": 1
       }
     },
     "PI": {
@@ -1581,31 +1745,49 @@ AGGREGATED["Count"]["Teams"][2019]["Nacional"] = {
     }
   },
   "Norte": {
-    "Value": 4,
-    "AM": {
+    "Value": 7,
+    "AC": {
       "Value": 1,
+      "Universidade Federal do Acre": {
+        "Value": 1
+      }
+    },
+    "AM": {
+      "Value": 2,
       "Institute of Computing - Federal University of Amazonas": {
+        "Value": 1
+      },
+      "Universidade do Estado do Amazonas": {
+        "Value": 1
+      }
+    },
+    "AP": {
+      "Value": 1,
+      "Universidade Federal do Amapá": {
         "Value": 1
       }
     },
     "PA": {
-      "Value": 2,
-      "Universidade Federal do Oeste do Pará": {
-        "Value": 1
-      },
+      "Value": 1,
       "Universidade Federal do Pará": {
+        "Value": 1
+      }
+    },
+    "RO": {
+      "Value": 1,
+      "Fundação Universidade Federal de Rondônia": {
         "Value": 1
       }
     },
     "RR": {
       "Value": 1,
-      "Centro Universitário Estácio da Amazônia": {
+      "Universidade Federal de Roraima": {
         "Value": 1
       }
     }
   },
   "Sudeste": {
-    "Value": 27,
+    "Value": 29,
     "ES": {
       "Value": 1,
       "Universidade Federal do Espirito Santo": {
@@ -1620,55 +1802,55 @@ AGGREGATED["Count"]["Teams"][2019]["Nacional"] = {
       "INATEL - Instituto Nacional de Telecomunicações": {
         "Value": 1
       },
-      "Instituto Federal Do Norte de Minas Gerais - Campus Montes Claros": {
+      "Instituto Federal de Educação, Ciência e Tecnologia do Sul de Minas Gerais - Campus Muzambinho": {
         "Value": 1
       },
       "Universidade Federal de Itajubá - Campus Itajubá": {
         "Value": 1
       },
       "Universidade Federal de Minas Gerais": {
-        "Value": 1
+        "Value": 2
       },
       "Universidade Federal de Uberlândia": {
-        "Value": 1
-      },
-      "Universidade Federal de Uberlândia - Campus Monte Carmelo - Sistemas de Informação": {
         "Value": 1
       },
       "Universidade Federal de Viçosa": {
         "Value": 1
       },
-      "Universidade Federal do Triângulo Mineiro ": {
+      "Universidade Federal de Viçosa - Campus Florestal": {
         "Value": 1
       }
     },
     "RJ": {
-      "Value": 2,
+      "Value": 4,
+      "Centro Federal de Educação Tecnológica Celso Suckow da Fonseca - Campus Petrópolis": {
+        "Value": 1
+      },
       "Instituto Militar de Engenharia": {
         "Value": 1
       },
       "Pontificia Universidade Catolica do Rio de Janeiro": {
         "Value": 1
+      },
+      "Universidade Federal do Rio de Janeiro": {
+        "Value": 1
       }
     },
     "SP": {
       "Value": 15,
-      "Centro Universitario Municipal de Franca": {
-        "Value": 1
-      },
-      "FACENS - Faculdade de Engenharia de Sorocaba": {
-        "Value": 1
-      },
       "Faculdade de Tecnologia de Sorocaba": {
         "Value": 1
       },
-      "Fatec Ourinhos": {
+      "Instituto Federal de São Paulo": {
         "Value": 1
       },
       "Instituto Tecnológico de Aeronautica": {
         "Value": 1
       },
       "UNESP - Universidade Estadual Paulista - (Faculdade de Ciências - Bauru)": {
+        "Value": 1
+      },
+      "UNIVEM - Centro Universitário Eurípides de Marília": {
         "Value": 1
       },
       "UNOESTE - Universidade do Oeste Paulista": {
@@ -1683,43 +1865,37 @@ AGGREGATED["Count"]["Teams"][2019]["Nacional"] = {
       "Universidade Federal do ABC": {
         "Value": 1
       },
-      "Universidade Nove de Julho": {
-        "Value": 1
-      },
       "Universidade de São Paulo": {
-        "Value": 1
+        "Value": 2
       },
       "Universidade de São Paulo - Campus de São Carlos": {
         "Value": 2
+      },
+      "Universidade do Extremo Sul Catarinense": {
+        "Value": 1
       }
     }
   },
   "Sul": {
-    "Value": 7,
+    "Value": 5,
     "PR": {
-      "Value": 3,
-      "UNIOESTE - Campus Cascavel": {
-        "Value": 1
-      },
-      "Universidade Estadual de Maringá": {
-        "Value": 1
-      },
+      "Value": 2,
       "Universidade Federal do Paraná": {
+        "Value": 1
+      },
+      "Universidade Tecnológica Federal do Paraná - Campus Curitiba": {
         "Value": 1
       }
     },
     "RS": {
-      "Value": 2,
+      "Value": 1,
       "Universidade Federal do Rio Grande do Sul": {
-        "Value": 1
-      },
-      "Universidade de Passo Fundo": {
         "Value": 1
       }
     },
     "SC": {
       "Value": 2,
-      "Universidade Federal da Fronteira Sul": {
+      "Universidade Federal de Santa Catarina (Campus Florianópolis)": {
         "Value": 1
       },
       "Universidade do Estado de Santa Catarina": {
@@ -1727,6 +1903,6 @@ AGGREGATED["Count"]["Teams"][2019]["Nacional"] = {
       }
     }
   },
-  "Value": 60
+  "Value": 64
 };
 

@@ -13,14 +13,14 @@ CONTESTS[2018]["Nacional"] = {
           "Site": "Brazilian Finals",
           "Short name": "UnB",
           "Contestants": [
-            "José Marcos Da Silva Leite",
+            "Rafael Chehab",
             "Luis Braga Gebrim Silva",
-            "Rafael Chehab"
+            "José Marcos Da Silva Leite"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Vinicius Borges"
         }
@@ -32,14 +32,14 @@ CONTESTS[2018]["Nacional"] = {
           "Site": "Brazilian Finals",
           "Short name": "UnB/FGA",
           "Contestants": [
-            "Arthur Komatsu",
+            "Lucas Mattioli",
             "João Moura",
-            "Lucas Mattioli"
+            "Arthur Komatsu"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Edson Junior"
         }
@@ -53,14 +53,14 @@ CONTESTS[2018]["Nacional"] = {
           "Site": "Brazilian Finals",
           "Short name": "UFG",
           "Contestants": [
-            "Rafael De Assis Cruz",
+            "Paulo Augusto Gomes Kataki",
             "Misael Mateus Oliveira De Morais",
-            "Paulo Augusto Gomes Kataki"
+            "Rafael De Assis Cruz"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Welton Cardoso Do Carmo"
         }
@@ -72,14 +72,14 @@ CONTESTS[2018]["Nacional"] = {
           "Site": "Brazilian Finals",
           "Short name": "PUC-Goiás",
           "Contestants": [
-            "Adolfo Aires Schneider",
+            "Bruno Oliveira",
             "Ítalo Fernandes",
-            "Bruno Oliveira"
+            "Adolfo Aires Schneider"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Alexandre Ribeiro"
         }
@@ -93,14 +93,14 @@ CONTESTS[2018]["Nacional"] = {
           "Site": "Brazilian Finals",
           "Short name": "FACOM - UFMS",
           "Contestants": [
-            "Bianca Sakiyama",
+            "Lucas Reis",
             "Lucas Ramos",
-            "Lucas Reis"
+            "Bianca Sakiyama"
           ],
           "Sex": [
-            "Female",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "FEMALE"
           ],
           "Coach": "Eloi Araujo"
         }
@@ -112,14 +112,14 @@ CONTESTS[2018]["Nacional"] = {
           "Site": "Brazilian Finals",
           "Short name": "UFGD",
           "Contestants": [
-            "Matheus Viera Zarate",
+            "Felipe Natan Dos Santos",
             "Caio Fernandes Lima",
-            "Felipe Natan Dos Santos"
+            "Matheus Viera Zarate"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Rodrigo Sacchi"
         }
@@ -135,14 +135,14 @@ CONTESTS[2018]["Nacional"] = {
           "Site": "Brazilian Finals",
           "Short name": "UFAL Arapiraca",
           "Contestants": [
-            "Francisco Neto",
+            "Eduardo Correia",
             "Luiz Silva",
-            "Eduardo Correia"
+            "Francisco Neto"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Elthon Oliveira"
         }
@@ -156,14 +156,14 @@ CONTESTS[2018]["Nacional"] = {
           "Site": "Brazilian Finals",
           "Short name": "UCSAL",
           "Contestants": [
-            "Rafael Rembrandt Lobato De Aquino",
+            "João Pedro Nunes Vivas De Sousa",
             "Giovani Mota Lobato",
-            "João Pedro Nunes Vivas De Sousa"
+            "Rafael Rembrandt Lobato De Aquino"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Osvaldo Requião Melo"
         }
@@ -175,14 +175,14 @@ CONTESTS[2018]["Nacional"] = {
           "Site": "Brazilian Finals",
           "Short name": "UESB",
           "Contestants": [
-            "Igor Silva",
+            "Gabriel Amaral Sousa",
             "João Andreotti",
-            "Gabriel Amaral Sousa"
+            "Igor Silva"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Cátia Khouri"
         }
@@ -194,14 +194,14 @@ CONTESTS[2018]["Nacional"] = {
           "Site": "Brazilian Finals",
           "Short name": "UFBA",
           "Contestants": [
-            "Thalles Medrado",
             "Mateus Carvalho",
+            "Thalles Medrado",
             "Ubiratan Barbosa"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Mauricio Pamplona Segundo"
         }
@@ -215,14 +215,14 @@ CONTESTS[2018]["Nacional"] = {
           "Site": "Brazilian Finals",
           "Short name": "IFCE - Campus Crato",
           "Contestants": [
-            "Marcelo Gonçalves",
+            "Washington Santos",
             "Carlos Henrique Felipe",
-            "Washington Santos"
+            "Marcelo Gonçalves"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Talles Brito"
         }
@@ -234,14 +234,14 @@ CONTESTS[2018]["Nacional"] = {
           "Site": "Brazilian Finals",
           "Short name": "UECE",
           "Contestants": [
-            "Matheus Monteiro Silveira",
+            "Lamartine Cabral De Oliveira Neto",
             "Filipe Herculano Rocha",
-            "Lamartine Cabral De Oliveira Neto"
+            "Matheus Monteiro Silveira"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Rafael Gomes"
         }
@@ -253,14 +253,14 @@ CONTESTS[2018]["Nacional"] = {
           "Site": "Brazilian Finals",
           "Short name": "",
           "Contestants": [
-            "Pedro Pinheiro",
+            "Pedro Torres",
             "Enoque Neto",
-            "Pedro Torres"
+            "Pedro Pinheiro"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Wladimir Araújo Tavares"
         }
@@ -274,14 +274,14 @@ CONTESTS[2018]["Nacional"] = {
           "Site": "Brazilian Finals",
           "Short name": "UFMA",
           "Contestants": [
-            "Welton Marinho De Souza",
+            "Dayvson Almeida",
             "Paulo Gomes",
-            "Dayvson Almeida"
+            "Welton Marinho De Souza"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Carlos Soares Neto"
         }
@@ -295,14 +295,14 @@ CONTESTS[2018]["Nacional"] = {
           "Site": "Brazilian Finals",
           "Short name": "IFPB - João Pessoa",
           "Contestants": [
-            "Mateus Melo",
+            "Weslley Santos",
             "Kerven Albuquerque",
-            "Weslley Santos"
+            "Mateus Melo"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Thiago Gouveia Da Silva"
         }
@@ -314,14 +314,14 @@ CONTESTS[2018]["Nacional"] = {
           "Site": "Brazilian Finals",
           "Short name": "UFCG",
           "Contestants": [
-            "Emerson Leonardo Lucena",
+            "Arthur Vinícius Tomé Rodrigues",
             "Gustavo Bezerra Ribeiro",
-            "Arthur Vinícius Tomé Rodrigues"
+            "Emerson Leonardo Lucena"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Rohit Gheyi"
         }
@@ -335,14 +335,14 @@ CONTESTS[2018]["Nacional"] = {
           "Site": "Brazilian Finals",
           "Short name": "UFPE",
           "Contestants": [
-            "Bezaliel Silva",
             "Gabriel Pessoa",
+            "Bezaliel Silva",
             "Clodes Silva"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Nivan Ferreira"
         },
@@ -352,14 +352,14 @@ CONTESTS[2018]["Nacional"] = {
           "Site": "Brazilian Finals",
           "Short name": "UFPE",
           "Contestants": [
-            "Tiago Goncalves",
+            "Diogo Rodrigues",
             "Lucas Santana",
-            "Diogo Rodrigues"
+            "Tiago Goncalves"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Nivan Ferreira"
         }
@@ -373,33 +373,33 @@ CONTESTS[2018]["Nacional"] = {
           "Site": "Brazilian Finals",
           "Short name": "UESPI Parnaíba",
           "Contestants": [
-            "Augusto Calaça",
+            "Jefferson Carvalho",
             "George Mariano Morais Lima",
-            "Jefferson Carvalho"
+            "Augusto Calaça"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Eyder Rios"
         }
       },
-      "Universidade Federal do Piauí": {
+      "Universidade Federal do Piauí ": {
         "Três caras numa moto": {
           "Rank": 34,
           "SiteRank": 12,
           "Site": "Brazilian Finals",
           "Short name": "UFPI",
           "Contestants": [
-            "Jeová Gomes",
+            "Felipe Barros Caminha",
             "Carlos Eduardo De Santana Bastos",
-            "Felipe Barros Caminha"
+            "Jeová Gomes"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Rosianni Cruz"
         }
@@ -413,14 +413,14 @@ CONTESTS[2018]["Nacional"] = {
           "Site": "Brazilian Finals",
           "Short name": "UFRN",
           "Contestants": [
-            "João Pedro Holanda",
+            "Tyrone Damasceno",
             "Josenaldo Júnior",
-            "Tyrone Damasceno"
+            "João Pedro Holanda"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Victor Lima"
         }
@@ -434,14 +434,14 @@ CONTESTS[2018]["Nacional"] = {
           "Site": "Brazilian Finals",
           "Short name": "Senai Cimatic",
           "Contestants": [
-            "Riccardo Cafagna",
+            "Rafael Loureiro",
             "Ricardo Ribeiro",
-            "Rafael Loureiro"
+            "Riccardo Cafagna"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Marcos Santos"
         }
@@ -453,14 +453,14 @@ CONTESTS[2018]["Nacional"] = {
           "Site": "Brazilian Finals",
           "Short name": "U Federal de Sergipe",
           "Contestants": [
-            "Lucas Lopes De Souza",
+            "Carlos Vinícios Ferreira Santos",
             "José Joaquim De Andrade Neto",
-            "Carlos Vinícios Ferreira Santos"
+            "Lucas Lopes De Souza"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Andre Britto"
         }
@@ -476,14 +476,14 @@ CONTESTS[2018]["Nacional"] = {
           "Site": "Brazilian Finals",
           "Short name": "UFAC",
           "Contestants": [
-            "Bruno Ricardo Silva Trindade",
+            "Italo Oliveira",
             "André Oliveira",
-            "Italo Oliveira"
+            "Bruno Ricardo Silva Trindade"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Manoel Limeira"
         }
@@ -497,14 +497,14 @@ CONTESTS[2018]["Nacional"] = {
           "Site": "Brazilian Finals",
           "Short name": "IComp/UFAM",
           "Contestants": [
-            "Felipe Pereira Franco",
+            "Lucas Castro De Souza",
             "Lucas Rocha Dos Santos",
-            "Lucas Castro De Souza"
+            "Felipe Pereira Franco"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Rosiane De Freitas Rodrigues"
         }
@@ -516,14 +516,14 @@ CONTESTS[2018]["Nacional"] = {
           "Site": "Brazilian Finals",
           "Short name": "UEA",
           "Contestants": [
-            "Wesley Rocha",
+            "William Silva",
             "Levi Lima",
-            "William Silva"
+            "Wesley Rocha"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Sergio Cleger Tamayo"
         }
@@ -537,14 +537,14 @@ CONTESTS[2018]["Nacional"] = {
           "Site": "Brazilian Finals",
           "Short name": "IFTM campus UPT",
           "Contestants": [
-            "João Pedro Sanches Dovichi",
+            "Guilherme Ganeko",
             "Caio Nishi",
-            "Guilherme Ganeko"
+            "João Pedro Sanches Dovichi"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Daniela Orbolato"
         }
@@ -556,14 +556,14 @@ CONTESTS[2018]["Nacional"] = {
           "Site": "Brazilian Finals",
           "Short name": "IFTM-Patrocinio/ADS",
           "Contestants": [
-            "Júlio César",
+            "Maike Silva",
             "Natan Oliveira",
-            "Maike Silva"
+            "Júlio César"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Jean Sousa"
         }
@@ -575,14 +575,14 @@ CONTESTS[2018]["Nacional"] = {
           "Site": "Brazilian Finals",
           "Short name": "",
           "Contestants": [
-            "Felipe Cardoso",
+            "Diego Figueiredo",
             "Marcos Lude Da Silva Ferreira",
-            "Diego Figueiredo"
+            "Felipe Cardoso"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Euripedes Santos"
         }
@@ -596,14 +596,14 @@ CONTESTS[2018]["Nacional"] = {
           "Site": "Brazilian Finals",
           "Short name": "UNIR",
           "Contestants": [
-            "Márcus Vinícius Lobo Costa",
+            "Wan Song Rocha",
             "Uthant Vicentin Leite",
-            "Wan Song Rocha"
+            "Márcus Vinícius Lobo Costa"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Liliane Jacon"
         }
@@ -617,14 +617,14 @@ CONTESTS[2018]["Nacional"] = {
           "Site": "Brazilian Finals",
           "Short name": "UFRR",
           "Contestants": [
-            "Fabio Vitor De Oliveira Noronha",
+            "Victor Deluca Almirante Gomes",
             "Débora Bianca Taveira De Moura",
-            "Victor Deluca Almirante Gomes"
+            "Fabio Vitor De Oliveira Noronha"
           ],
           "Sex": [
-            "Male",
-            "Female",
-            "Male"
+            "MALE",
+            "FEMALE",
+            "MALE"
           ],
           "Coach": "Acauan Ribeiro"
         }
@@ -638,14 +638,14 @@ CONTESTS[2018]["Nacional"] = {
           "Site": "Brazilian Finals",
           "Short name": "UFT",
           "Contestants": [
-            "Davi Ribeiro Dos Santos",
+            "André Luiz Gomes De Freitas",
             "Rafael Costa Silva",
-            "André Luiz Gomes De Freitas"
+            "Davi Ribeiro Dos Santos"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Felipe Barbosa"
         }
@@ -661,14 +661,14 @@ CONTESTS[2018]["Nacional"] = {
           "Site": "Brazilian Finals",
           "Short name": "UFES",
           "Contestants": [
-            "Lorenzo Guimarães Moulin",
             "Gabriel Giorisatto De Angelo",
+            "Lorenzo Guimarães Moulin",
             "Gilmarllen Pereira Miotto"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Thiago Oliveira Dos Santos"
         }
@@ -682,14 +682,14 @@ CONTESTS[2018]["Nacional"] = {
           "Site": "Brazilian Finals",
           "Short name": "CEFET-MG - Timóteo",
           "Contestants": [
-            "Gabriel Felipe Paiva Pereira",
+            "Vinicius Nogueira",
             "Pedro Henrique Lima Ribeiro",
-            "Vinicius Nogueira"
+            "Gabriel Felipe Paiva Pereira"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Alessio Miranda Junior"
         }
@@ -701,14 +701,14 @@ CONTESTS[2018]["Nacional"] = {
           "Site": "Brazilian Finals",
           "Short name": "INATEL",
           "Contestants": [
-            "Maycon Alves",
+            "Bianca Magri",
             "Gustavo Policarpo",
-            "Bianca Magri"
+            "Maycon Alves"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Female"
+            "FEMALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Dâmi Henrique Pelegrino"
         }
@@ -721,13 +721,13 @@ CONTESTS[2018]["Nacional"] = {
           "Short name": "IFSULMGMuz",
           "Contestants": [
             "Gabriel Bianchin De Oliveira",
-            "Aline Oliveira",
-            "Samuel Eduardo Da Silva"
+            "Samuel Eduardo Da Silva",
+            "Aline Oliveira"
           ],
           "Sex": [
-            "Male",
-            "Female",
-            "Male"
+            "MALE",
+            "MALE",
+            "FEMALE"
           ],
           "Coach": "Ricardo José Martins"
         }
@@ -739,14 +739,14 @@ CONTESTS[2018]["Nacional"] = {
           "Site": "Brazilian Finals",
           "Short name": "IFSULMGPoços",
           "Contestants": [
-            "Yuri Fernandes De Oliveira",
+            "Marcos Moreira",
             "Rodrigo Franco",
-            "Marcos Moreira"
+            "Yuri Fernandes De Oliveira"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Antônio José De Lima Batista"
         }
@@ -758,14 +758,14 @@ CONTESTS[2018]["Nacional"] = {
           "Site": "Brazilian Finals",
           "Short name": "IFTM",
           "Contestants": [
-            "Pedro Guimarães",
             "Tiago Ferreira De Alcantara Campos",
+            "Pedro Guimarães",
             "Wanessa Cristina Parreira Ribeiro"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Female"
+            "MALE",
+            "MALE",
+            "FEMALE"
           ],
           "Coach": "André Lima"
         }
@@ -777,14 +777,14 @@ CONTESTS[2018]["Nacional"] = {
           "Site": "Brazilian Finals",
           "Short name": "Unifei Itabira",
           "Contestants": [
-            "Raphael Machado Monteiro",
+            "Guilherme Lima",
             "Joao Moraes",
-            "Guilherme Lima"
+            "Raphael Machado Monteiro"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Paulo José Lage Alvarenga"
         }
@@ -796,14 +796,14 @@ CONTESTS[2018]["Nacional"] = {
           "Site": "Brazilian Finals",
           "Short name": "UNIFEI",
           "Contestants": [
-            "José Wagner De Andrade Júnior",
+            "Felipe Silva",
             "Marcos Antonio Flores Gonçalves",
-            "Felipe Silva"
+            "José Wagner De Andrade Júnior"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Roberto Affonso Costa Junior"
         }
@@ -815,14 +815,14 @@ CONTESTS[2018]["Nacional"] = {
           "Site": "Brazilian Finals",
           "Short name": "UFMG",
           "Contestants": [
-            "Pedro Papa Paniago",
+            "Marcos Fernandes",
             "Nicholas Reis",
-            "Marcos Fernandes"
+            "Pedro Papa Paniago"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Lucas Pereira"
         }
@@ -834,14 +834,14 @@ CONTESTS[2018]["Nacional"] = {
           "Site": "Brazilian Finals",
           "Short name": "UFU",
           "Contestants": [
-            "Gustavo Nunes",
+            "Lucas Damaso",
             "Yuri Santamarina",
-            "Lucas Damaso"
+            "Gustavo Nunes"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "João Henrique De Souza Pereira"
         }
@@ -853,14 +853,14 @@ CONTESTS[2018]["Nacional"] = {
           "Site": "Brazilian Finals",
           "Short name": "UFU-Monte Carmelo/SI",
           "Contestants": [
-            "Gabriel Lisboa",
+            "Lusmar Mendes Freitas",
             "Vinícius Henrique Resende",
-            "Lusmar Mendes Freitas"
+            "Gabriel Lisboa"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Female"
+            "FEMALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Carlos Tuma"
         }
@@ -872,14 +872,14 @@ CONTESTS[2018]["Nacional"] = {
           "Site": "Brazilian Finals",
           "Short name": "DPI-UFV",
           "Contestants": [
-            "Guttardo Néri Pereira",
+            "Arthur Gonçalves Do Carmo",
             "Felipe De Souza Dias",
-            "Arthur Gonçalves Do Carmo"
+            "Guttardo Néri Pereira"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "André Gustavo Dos Santos"
         }
@@ -893,14 +893,14 @@ CONTESTS[2018]["Nacional"] = {
           "Site": "Brazilian Finals",
           "Short name": "IME",
           "Contestants": [
-            "Rebeca Calazans De Brito",
+            "João Pedro De Araújo Xavier",
             "Mateus Cândido Lima De Castro",
-            "João Pedro De Araújo Xavier"
+            "Rebeca Calazans De Brito"
           ],
           "Sex": [
-            "Female",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "FEMALE"
           ],
           "Coach": "Claudia Justel"
         }
@@ -912,14 +912,14 @@ CONTESTS[2018]["Nacional"] = {
           "Site": "Brazilian Finals",
           "Short name": "UFRJ",
           "Contestants": [
-            "Thiago Coelho",
+            "Tiago Montalvão",
             "Igor Carpanese",
-            "Tiago Montalvão"
+            "Thiago Coelho"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Marcia Cerioli"
         }
@@ -933,14 +933,14 @@ CONTESTS[2018]["Nacional"] = {
           "Site": "Brazilian Finals",
           "Short name": "FEI",
           "Contestants": [
-            "Victtor Da Silva Mendes",
+            "Leonardo Millos",
             "Yuri Kassin Ferreira",
-            "Leonardo Millos"
+            "Victtor Da Silva Mendes"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Paulo Sergio Rodrigues"
         }
@@ -952,14 +952,14 @@ CONTESTS[2018]["Nacional"] = {
           "Site": "Brazilian Finals",
           "Short name": "FACENS",
           "Contestants": [
-            "Lucas De Sousa Rodrigues",
+            "Eneo Juliano Bovino",
             "Felipe Xavier",
-            "Eneo Juliano Bovino"
+            "Lucas De Sousa Rodrigues"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Andre Breda Carneiro"
         }
@@ -971,14 +971,14 @@ CONTESTS[2018]["Nacional"] = {
           "Site": "Brazilian Finals",
           "Short name": "FATEC Cruzeiro",
           "Contestants": [
-            "Eric Guedes Silva De Moraes",
+            "Murillo Ferreira Pinto",
             "Felipe Renan Vieira",
-            "Murillo Ferreira Pinto"
+            "Eric Guedes Silva De Moraes"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Carlos Nascimento"
         }
@@ -990,14 +990,14 @@ CONTESTS[2018]["Nacional"] = {
           "Site": "Brazilian Finals",
           "Short name": "FATEC-SJC",
           "Contestants": [
-            "Heitor Miranda Moreira",
+            "Lucas Narciso",
             "Sergio Hilgert Jr",
-            "Lucas Narciso"
+            "Heitor Miranda Moreira"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Reinaldo Gen Ichiro Arakaki"
         }
@@ -1009,14 +1009,14 @@ CONTESTS[2018]["Nacional"] = {
           "Site": "Brazilian Finals",
           "Short name": "FATEC São Paulo",
           "Contestants": [
-            "Leandro Kinoshita",
+            "Leandro Gonçalves De Oliveira",
             "Allyson Lima",
-            "Leandro Gonçalves De Oliveira"
+            "Leandro Kinoshita"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Grace Borges"
         }
@@ -1028,14 +1028,14 @@ CONTESTS[2018]["Nacional"] = {
           "Site": "Brazilian Finals",
           "Short name": "IFSP - Piracicaba",
           "Contestants": [
-            "Nadine Ouro",
+            "Jonathan Nascimento",
             "Bruno Abude Cardoso",
-            "Jonathan Nascimento"
+            "Nadine Ouro"
           ],
           "Sex": [
-            "Female",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "FEMALE"
           ],
           "Coach": "Marcio Crocomo"
         }
@@ -1047,14 +1047,14 @@ CONTESTS[2018]["Nacional"] = {
           "Site": "Brazilian Finals",
           "Short name": "ITA",
           "Contestants": [
-            "Matheus Leão",
+            "Lucas França De Oliveira",
             "Lucas Ferreira",
-            "Lucas França De Oliveira"
+            "Matheus Leão"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Armando Gouveia"
         }
@@ -1066,14 +1066,14 @@ CONTESTS[2018]["Nacional"] = {
           "Site": "Brazilian Finals",
           "Short name": "UNESP-Bauru",
           "Contestants": [
-            "João Comini",
+            "Giulia Moura Crusco",
             "Pedro Paiola",
-            "Giulia Moura Crusco"
+            "João Comini"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Female"
+            "FEMALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Wilson Yonezawa"
         }
@@ -1085,14 +1085,14 @@ CONTESTS[2018]["Nacional"] = {
           "Site": "Brazilian Finals",
           "Short name": "UNOESTE",
           "Contestants": [
-            "Caio Chizzolini",
+            "Fernando Caique Soares De Souza",
             "João Vítor Dos Santos Oliveira",
-            "Fernando Caique Soares De Souza"
+            "Caio Chizzolini"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Francisco Assis Da Silva"
         }
@@ -1104,14 +1104,14 @@ CONTESTS[2018]["Nacional"] = {
           "Site": "Brazilian Finals",
           "Short name": "UNICAMP",
           "Contestants": [
-            "Rodrigo Amaral Franceschinelli",
+            "Erick Monteiro",
             "Augusto Damschi Bernardi",
-            "Erick Monteiro"
+            "Rodrigo Amaral Franceschinelli"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Fábio Luiz Usberti"
         }
@@ -1123,14 +1123,14 @@ CONTESTS[2018]["Nacional"] = {
           "Site": "Brazilian Finals",
           "Short name": "UFSCar",
           "Contestants": [
-            "Guilherme Henna",
+            "Antonio Carlos Falcao Petri",
             "Caio Herrera",
-            "Antonio Carlos Falcao Petri"
+            "Guilherme Henna"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Diego Furtado Silva"
         }
@@ -1142,14 +1142,14 @@ CONTESTS[2018]["Nacional"] = {
           "Site": "Brazilian Finals",
           "Short name": "UFSCar-Sorocaba",
           "Contestants": [
-            "Abner Figueiredo Bertelline",
             "Felipe Lopes Rita",
+            "Abner Figueiredo Bertelline",
             "Leonardo Muniz Tozato"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Mario Lizier"
         }
@@ -1161,14 +1161,14 @@ CONTESTS[2018]["Nacional"] = {
           "Site": "Brazilian Finals",
           "Short name": "UFABC",
           "Contestants": [
-            "Bryan Valeriano",
+            "Vinícius Veronese Gonçalves",
             "Wesley Pereira Da Silva",
-            "Vinícius Veronese Gonçalves"
+            "Bryan Valeriano"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Cristiane Sato"
         }
@@ -1180,14 +1180,14 @@ CONTESTS[2018]["Nacional"] = {
           "Site": "Brazilian Finals",
           "Short name": "",
           "Contestants": [
-            "Piera Carolina Marchesini Dutra",
+            "Michelle Dos Santos",
             "Ana Carolina Dos Santos Silva",
-            "Michelle Dos Santos"
+            "Piera Carolina Marchesini Dutra"
           ],
           "Sex": [
-            "Female",
-            "Female",
-            "Female"
+            "FEMALE",
+            "FEMALE",
+            "FEMALE"
           ],
           "Coach": "Israel Florentino"
         }
@@ -1199,14 +1199,14 @@ CONTESTS[2018]["Nacional"] = {
           "Site": "Brazilian Finals",
           "Short name": "USP",
           "Contestants": [
-            "Gabriel De Russo E Carmo",
+            "Victor Sena Molero",
             "Victor Colombo",
-            "Victor Sena Molero"
+            "Gabriel De Russo E Carmo"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Yan Couto"
         },
@@ -1216,14 +1216,14 @@ CONTESTS[2018]["Nacional"] = {
           "Site": "Brazilian Finals",
           "Short name": "USP",
           "Contestants": [
-            "Pedro Sousa",
             "Gabriel Oliveira",
+            "Pedro Sousa",
             "Nathan Benedetto Proença"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Yan Couto"
         }
@@ -1235,14 +1235,14 @@ CONTESTS[2018]["Nacional"] = {
           "Site": "Brazilian Finals",
           "Short name": "USP - São Carlos",
           "Contestants": [
-            "Guilherme Tubone",
+            "Lucas Turci",
             "Victor Forbes",
-            "Lucas Turci"
+            "Guilherme Tubone"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Rodrigo Weigert"
         },
@@ -1252,14 +1252,14 @@ CONTESTS[2018]["Nacional"] = {
           "Site": "Brazilian Finals",
           "Short name": "USP - São Carlos",
           "Contestants": [
-            "Lucas De Oliveira Pacheco",
+            "Cezar Guimarães",
             "Samuel Santos",
-            "Cezar Guimarães"
+            "Lucas De Oliveira Pacheco"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Danilo Tedeschi"
         }
@@ -1275,14 +1275,14 @@ CONTESTS[2018]["Nacional"] = {
           "Site": "Brazilian Finals",
           "Short name": "UNIOESTE",
           "Contestants": [
-            "Marcelo Henrique Bittencourt",
+            "Renan Tashiro",
             "Matheus Leonardo Da Silva Dias",
-            "Renan Tashiro"
+            "Marcelo Henrique Bittencourt"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Josué Pereira De Castro"
         }
@@ -1294,14 +1294,14 @@ CONTESTS[2018]["Nacional"] = {
           "Site": "Brazilian Finals",
           "Short name": "UTFPR- Ponta Grossa",
           "Contestants": [
-            "Leonardo Pedrozo Amaral",
+            "Matheus Silva De Oliveira",
             "Edimar Bauer",
-            "Matheus Silva De Oliveira"
+            "Leonardo Pedrozo Amaral"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Saulo Jorge Beltrão De Queiroz"
         }
@@ -1315,14 +1315,14 @@ CONTESTS[2018]["Nacional"] = {
           "Site": "Brazilian Finals",
           "Short name": "UFRGS",
           "Contestants": [
-            "Giovane Alves Fonseca",
+            "Yuri Jaschek",
             "Vanessa Righi Coelho",
-            "Yuri Jaschek"
+            "Giovane Alves Fonseca"
           ],
           "Sex": [
-            "Male",
-            "Female",
-            "Male"
+            "MALE",
+            "FEMALE",
+            "MALE"
           ],
           "Coach": "Rafael Coelho"
         }
@@ -1334,14 +1334,14 @@ CONTESTS[2018]["Nacional"] = {
           "Site": "Brazilian Finals",
           "Short name": "UPF",
           "Contestants": [
-            "Gabriel Kressin",
+            "Leonardo Deliyannis Constantin",
             "Felipe Foschiera",
-            "Leonardo Deliyannis Constantin"
+            "Gabriel Kressin"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Marcelo Trindade Rebonatto"
         }
@@ -1355,14 +1355,14 @@ CONTESTS[2018]["Nacional"] = {
           "Site": "Brazilian Finals",
           "Short name": "UFFS",
           "Contestants": [
-            "João Paulo Castilho",
+            "Felipe Chabatura Neto",
             "Leonardo Tironi Fassini",
-            "Felipe Chabatura Neto"
+            "João Paulo Castilho"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Emilio Wuerges"
         }
@@ -1374,14 +1374,14 @@ CONTESTS[2018]["Nacional"] = {
           "Site": "Brazilian Finals",
           "Short name": "UFSC-ARA",
           "Contestants": [
-            "Jimy Yan",
+            "Gabriel Estevam De Oliveira",
             "Tobias Müller",
-            "Gabriel Estevam De Oliveira"
+            "Jimy Yan"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Alvaro Franco"
         }
@@ -1393,14 +1393,14 @@ CONTESTS[2018]["Nacional"] = {
           "Site": "Brazilian Finals",
           "Short name": "UDESC",
           "Contestants": [
-            "Felipe Weiss",
+            "Adilson Luis Jonck Junior",
             "Felipe Marchi",
-            "Adilson Luis Jonck Junior"
+            "Felipe Weiss"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Claudio Cesar De Sá"
         }
@@ -1508,7 +1508,7 @@ AGGREGATED["Mean"]["Rank"][2018]["Nacional"] = {
       "Universidade Estadual do Piauí - Campus de Parnaíba": {
         "Value": 65.0
       },
-      "Universidade Federal do Piauí": {
+      "Universidade Federal do Piauí ": {
         "Value": 34.0
       }
     },
@@ -1892,7 +1892,7 @@ AGGREGATED["Count"]["Teams"][2018]["Nacional"] = {
       "Universidade Estadual do Piauí - Campus de Parnaíba": {
         "Value": 1
       },
-      "Universidade Federal do Piauí": {
+      "Universidade Federal do Piauí ": {
         "Value": 1
       }
     },

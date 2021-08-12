@@ -1425,46 +1425,7 @@ if (AGGREGATED["Count"]["Girls"][2013] === undefined)
   AGGREGATED["Count"]["Girls"][2013] = {};
 
 AGGREGATED["Count"]["Girls"][2013]["Nacional"] = {
-  "Norte": {
-    "Value": 2,
-    "RO": {
-      "Value": 2,
-      "UNIR - Universidade Federal de Rondonia": {
-        "Value": 2
-      }
-    }
-  },
-  "Sudeste": {
-    "Value": 5,
-    "MG": {
-      "Value": 2,
-      "Instituto Federal de Educação, Ciência e Tecnologia de Uberaba": {
-        "Value": 2
-      }
-    },
-    "SP": {
-      "Value": 3,
-      "Centro Universitário de Lins": {
-        "Value": 1
-      },
-      "Universidade Estadual de Campinas": {
-        "Value": 1
-      },
-      "Universidade de São Paulo - Campus de São Carlos": {
-        "Value": 1
-      }
-    }
-  },
-  "Sul": {
-    "Value": 1,
-    "RS": {
-      "Value": 1,
-      "Universidade de Passo Fundo": {
-        "Value": 1
-      }
-    }
-  },
-  "Value": 8
+  "Value": 0
 };
 
 

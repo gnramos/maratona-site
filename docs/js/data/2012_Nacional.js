@@ -1217,28 +1217,7 @@ if (AGGREGATED["Count"]["Girls"][2012] === undefined)
   AGGREGATED["Count"]["Girls"][2012] = {};
 
 AGGREGATED["Count"]["Girls"][2012]["Nacional"] = {
-  "Sudeste": {
-    "Value": 3,
-    "MG": {
-      "Value": 1,
-      "Universidade Estadual de Montes Claros - UNIMONTES": {
-        "Value": 1
-      }
-    },
-    "RJ": {
-      "Value": 1,
-      "Pontificia Universidade Catolica do Rio de Janeiro": {
-        "Value": 1
-      }
-    },
-    "SP": {
-      "Value": 1,
-      "Universidade de São Paulo - Campus de São Carlos": {
-        "Value": 1
-      }
-    }
-  },
-  "Value": 3
+  "Value": 0
 };
 
 

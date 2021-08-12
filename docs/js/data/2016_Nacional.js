@@ -18,9 +18,9 @@ CONTESTS[2016]["Nacional"] = {
             "Rafael Chehab"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Matheus Pimenta"
         }
@@ -37,9 +37,9 @@ CONTESTS[2016]["Nacional"] = {
             "Lucas Mattioli"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Edson Junior"
         }
@@ -58,9 +58,9 @@ CONTESTS[2016]["Nacional"] = {
             "Paulo Augusto Gomes Kataki"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Humberto Longo"
         }
@@ -79,9 +79,9 @@ CONTESTS[2016]["Nacional"] = {
             "Rodrigo Albuquerque De Oliveira Siqueira"
           ],
           "Sex": [
-            "Female",
-            "Male",
-            "Male"
+            "FEMALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Anderson Araujo"
         }
@@ -102,9 +102,9 @@ CONTESTS[2016]["Nacional"] = {
             "André Facchinetti"
           ],
           "Sex": [
-            "Male",
-            "Female",
-            "Male"
+            "MALE",
+            "FEMALE",
+            "MALE"
           ],
           "Coach": "Alex Alves Da Paixão"
         }
@@ -121,9 +121,9 @@ CONTESTS[2016]["Nacional"] = {
             "Joel Pinto De Carvalho Filho"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "João Victor Mota Do Nascimento"
         }
@@ -140,9 +140,9 @@ CONTESTS[2016]["Nacional"] = {
             "João Andreotti"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Cátia Khouri"
         }
@@ -159,9 +159,9 @@ CONTESTS[2016]["Nacional"] = {
             "Roberto Caldeira"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Mauricio Pamplona Segundo"
         }
@@ -180,9 +180,9 @@ CONTESTS[2016]["Nacional"] = {
             "Edvaldo Silva Junior"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Joel Uchoa"
         }
@@ -199,9 +199,9 @@ CONTESTS[2016]["Nacional"] = {
             "Alisson Rodrigo Gomes Soares"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Evilasio Costa Junior"
         }
@@ -220,9 +220,9 @@ CONTESTS[2016]["Nacional"] = {
             "Mateus Rodrigues Pereira"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Carlos Soares Neto"
         }
@@ -241,9 +241,9 @@ CONTESTS[2016]["Nacional"] = {
             "Rychard Guedes"
           ],
           "Sex": [
-            "Male",
-            "Female",
-            "Male"
+            "MALE",
+            "FEMALE",
+            "MALE"
           ],
           "Coach": "Valéria Cavalcanti"
         }
@@ -260,9 +260,9 @@ CONTESTS[2016]["Nacional"] = {
             "Marcello Oliveira"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Vivek Nigam"
         }
@@ -279,9 +279,9 @@ CONTESTS[2016]["Nacional"] = {
             "Ordan Silva Santos"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Rohit Gheyi"
         }
@@ -300,9 +300,9 @@ CONTESTS[2016]["Nacional"] = {
             "Mário Henrique Da Silva"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Katia Guimarães"
         },
@@ -317,16 +317,16 @@ CONTESTS[2016]["Nacional"] = {
             "Victor Duarte Diniz Monteiro"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Katia Guimarães"
         }
       }
     },
     "PI": {
-      "Universidade Federal do Piauí": {
+      "Universidade Federal do Piauí ": {
         "CAFEÍNA OVERFLOW": {
           "Rank": 32,
           "SiteRank": 8,
@@ -338,9 +338,9 @@ CONTESTS[2016]["Nacional"] = {
             "Anderson Lima"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Rosianni Cruz"
         }
@@ -359,9 +359,9 @@ CONTESTS[2016]["Nacional"] = {
             "Lucas Souza"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Sérgio Medeiros"
         },
@@ -376,9 +376,9 @@ CONTESTS[2016]["Nacional"] = {
             "Railton Calheiros"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Sérgio Medeiros"
         }
@@ -397,9 +397,9 @@ CONTESTS[2016]["Nacional"] = {
             "Marina Vivas Andrade Reis"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Female"
+            "MALE",
+            "MALE",
+            "FEMALE"
           ],
           "Coach": "Beatriz Trinchão Andrade"
         }
@@ -420,9 +420,9 @@ CONTESTS[2016]["Nacional"] = {
             "Eduardo Carvalho Lopes"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Rosiane De Freitas Rodrigues"
         }
@@ -441,9 +441,9 @@ CONTESTS[2016]["Nacional"] = {
             "Cézanne Motta"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Rafael Carvalho"
         }
@@ -464,9 +464,9 @@ CONTESTS[2016]["Nacional"] = {
             "Bruno Smarsaro Bazelato"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Luciana Lee"
         }
@@ -485,9 +485,9 @@ CONTESTS[2016]["Nacional"] = {
             "Augusto Santos"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Sandro Renato Dias"
         }
@@ -504,9 +504,9 @@ CONTESTS[2016]["Nacional"] = {
             "Edgard Lopes"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Roberto Porto"
         }
@@ -523,9 +523,9 @@ CONTESTS[2016]["Nacional"] = {
             "Gustavo Benedito"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Eduardo Oliveira"
         }
@@ -542,9 +542,9 @@ CONTESTS[2016]["Nacional"] = {
             "Gustavo Policarpo"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Crishna Irion"
         }
@@ -561,9 +561,9 @@ CONTESTS[2016]["Nacional"] = {
             "Abner Samuel Pinto Palmeira"
           ],
           "Sex": [
-            "Male",
-            "Female",
-            "Male"
+            "MALE",
+            "FEMALE",
+            "MALE"
           ],
           "Coach": "Ricardo José Martins"
         }
@@ -580,9 +580,9 @@ CONTESTS[2016]["Nacional"] = {
             "Rafael De Oliveira Carvalho Soares"
           ],
           "Sex": [
-            "Female",
-            "Male",
-            "Male"
+            "FEMALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Cintia Oliveira"
         }
@@ -599,9 +599,9 @@ CONTESTS[2016]["Nacional"] = {
             "José Wagner De Andrade Júnior"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Roberto Costa"
         }
@@ -618,9 +618,9 @@ CONTESTS[2016]["Nacional"] = {
             "Thiago Silva"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Gabriel Poesia Reis E Silva"
         }
@@ -637,9 +637,9 @@ CONTESTS[2016]["Nacional"] = {
             "Yuri Santamarina"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "João Henrique De Souza Pereira"
         }
@@ -656,9 +656,9 @@ CONTESTS[2016]["Nacional"] = {
             "Guilherme Suzuki"
           ],
           "Sex": [
-            "Male",
-            "Female",
-            "Male"
+            "MALE",
+            "FEMALE",
+            "MALE"
           ],
           "Coach": "Daniele Oliveira"
         }
@@ -675,9 +675,9 @@ CONTESTS[2016]["Nacional"] = {
             "Gustavo Canal Uliana"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "André Gustavo Dos Santos"
         }
@@ -696,9 +696,9 @@ CONTESTS[2016]["Nacional"] = {
             "Matheus Cariús Castro"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Geraldo Avelino"
         }
@@ -715,9 +715,9 @@ CONTESTS[2016]["Nacional"] = {
             "Patrick Sava"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Marcus Poggi"
         }
@@ -734,9 +734,9 @@ CONTESTS[2016]["Nacional"] = {
             "Igor Figueiredo"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Marcia Cerioli"
         }
@@ -753,9 +753,9 @@ CONTESTS[2016]["Nacional"] = {
             "Vitória Rio"
           ],
           "Sex": [
-            "Female",
-            "Female",
-            "Female"
+            "FEMALE",
+            "FEMALE",
+            "FEMALE"
           ],
           "Coach": "Paulo Eustaquio Pinto"
         }
@@ -774,9 +774,9 @@ CONTESTS[2016]["Nacional"] = {
             "Matheus Henrique Zamberlan"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Paulo Sergio Rodrigues"
         }
@@ -793,9 +793,9 @@ CONTESTS[2016]["Nacional"] = {
             "Allyson Lima"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Grace Borges"
         }
@@ -812,9 +812,9 @@ CONTESTS[2016]["Nacional"] = {
             "Felipe Sousa"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Armando Gouveia"
         }
@@ -831,9 +831,9 @@ CONTESTS[2016]["Nacional"] = {
             "Aron Bordin"
           ],
           "Sex": [
-            "Male",
-            "Female",
-            "Male"
+            "MALE",
+            "FEMALE",
+            "MALE"
           ],
           "Coach": "Rene Pegoraro"
         }
@@ -850,9 +850,9 @@ CONTESTS[2016]["Nacional"] = {
             "Augusto Cesar Silva Cruz"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Marcelo Rosa"
         }
@@ -869,9 +869,9 @@ CONTESTS[2016]["Nacional"] = {
             "Matheus De Souza Ataide"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Fábio Luiz Usberti"
         }
@@ -888,9 +888,9 @@ CONTESTS[2016]["Nacional"] = {
             "Caio Herrera"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Delano Medeiros Beder"
         }
@@ -907,9 +907,9 @@ CONTESTS[2016]["Nacional"] = {
             "Lucas Rocha"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Cândida Nunes Da Silva"
         }
@@ -926,9 +926,9 @@ CONTESTS[2016]["Nacional"] = {
             "Rodrigo Blanco"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Carlos Menezes"
         }
@@ -945,9 +945,9 @@ CONTESTS[2016]["Nacional"] = {
             "Ramon Silva De Lima"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Renzo Gomez"
         }
@@ -964,9 +964,9 @@ CONTESTS[2016]["Nacional"] = {
             "Jiang Zhi"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Danilo Tedeschi"
         },
@@ -981,9 +981,9 @@ CONTESTS[2016]["Nacional"] = {
             "Lucas De Oliveira Pacheco"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Danilo Tedeschi"
         }
@@ -1000,9 +1000,9 @@ CONTESTS[2016]["Nacional"] = {
             "Andre Vaillant"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Daniel Merli Lamosa"
         }
@@ -1023,9 +1023,9 @@ CONTESTS[2016]["Nacional"] = {
             "Cleison Arenhart Dos Santos"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Josué Pereira De Castro"
         }
@@ -1042,9 +1042,9 @@ CONTESTS[2016]["Nacional"] = {
             "Luiz Reis"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Ricardo Oliveira"
         }
@@ -1061,9 +1061,9 @@ CONTESTS[2016]["Nacional"] = {
             "Cristhian Bonilha"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Alessandro Luiz Stamatto Ferreira"
         }
@@ -1082,9 +1082,9 @@ CONTESTS[2016]["Nacional"] = {
             "Marcos Sulzbach Morgenstern"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Gerson Battisti"
         }
@@ -1101,9 +1101,9 @@ CONTESTS[2016]["Nacional"] = {
             "Mauricio Peske"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Ricardo Araujo"
         }
@@ -1120,9 +1120,9 @@ CONTESTS[2016]["Nacional"] = {
             "Marcelo Souza Vasques"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Alex Zoch Gliesch"
         }
@@ -1139,9 +1139,9 @@ CONTESTS[2016]["Nacional"] = {
             "Mateus Lazarotto"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Neilor Tonin"
         }
@@ -1160,9 +1160,9 @@ CONTESTS[2016]["Nacional"] = {
             "Matheus Dallrosa"
           ],
           "Sex": [
-            "Male",
-            "Female",
-            "Male"
+            "MALE",
+            "FEMALE",
+            "MALE"
           ],
           "Coach": "Emilio Wuerges"
         }
@@ -1179,9 +1179,9 @@ CONTESTS[2016]["Nacional"] = {
             "Rafael Tormena"
           ],
           "Sex": [
-            "Male",
-            "Male",
-            "Male"
+            "MALE",
+            "MALE",
+            "MALE"
           ],
           "Coach": "Claudio Cesar De Sá"
         }
@@ -1271,7 +1271,7 @@ AGGREGATED["Mean"]["Rank"][2016]["Nacional"] = {
     },
     "PI": {
       "Value": 32.0,
-      "Universidade Federal do Piauí": {
+      "Universidade Federal do Piauí ": {
         "Value": 32.0
       }
     },
@@ -1610,7 +1610,7 @@ AGGREGATED["Count"]["Teams"][2016]["Nacional"] = {
     },
     "PI": {
       "Value": 1,
-      "Universidade Federal do Piauí": {
+      "Universidade Federal do Piauí ": {
         "Value": 1
       }
     },

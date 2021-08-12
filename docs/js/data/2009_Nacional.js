@@ -1248,49 +1248,7 @@ if (AGGREGATED["Count"]["Girls"][2009] === undefined)
   AGGREGATED["Count"]["Girls"][2009] = {};
 
 AGGREGATED["Count"]["Girls"][2009]["Nacional"] = {
-  "Nordeste": {
-    "Value": 2,
-    "PE": {
-      "Value": 2,
-      "Universidade Federal de Pernambuco": {
-        "Value": 2
-      }
-    }
-  },
-  "Norte": {
-    "Value": 1,
-    "AM": {
-      "Value": 1,
-      "Universidade Federal do Amazonas": {
-        "Value": 1
-      }
-    }
-  },
-  "Sudeste": {
-    "Value": 2,
-    "ES": {
-      "Value": 1,
-      "Universidade Federal do Espirito Santo": {
-        "Value": 1
-      }
-    },
-    "MG": {
-      "Value": 1,
-      "Universidade Federal de Uberlândia": {
-        "Value": 1
-      }
-    }
-  },
-  "Sul": {
-    "Value": 1,
-    "SC": {
-      "Value": 1,
-      "Universidade Federal de Santa Catarina": {
-        "Value": 1
-      }
-    }
-  },
-  "Value": 6
+  "Value": 0
 };
 
 
