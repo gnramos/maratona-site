@@ -43,5 +43,6 @@ for file in sorted(files, reverse=True):
                                          ignore_index=True)
 
 if args.participacoes:
-    print('Processando as participações...')
+    if not args.quiet:
+        print('Processando as participações...')
     participation.to_file(df_part, args.overwrite)

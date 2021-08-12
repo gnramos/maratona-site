@@ -71,7 +71,7 @@ ALIAS_STATE = {'acre': 'Acre',
                'saopaulo': 'São Paulo',
                'tocantins': 'Tocantins'}
 
-SHORT = 'Institution short name'  # melhorar a legibilidade do código
+SHORT = 'instShortName'  # melhorar a legibilidade do código
 CONTESTANTS_PER_TEAM = 3  # número mágico
 ###############################################################################
 # Funções auxiliares
@@ -88,9 +88,9 @@ def _capitalize(string):
 def _check_data(df, is_1s_phase):
     problems = []
 
-    short_df = df[df[SHORT].isna()][['Institution']]
+    short_df = df[df[SHORT].isna()][['instName']]
     missing_short = [group[0]
-                     for group in short_df.groupby('Institution')]
+                     for group in short_df.groupby('instName')]
 
     if missing_short:
         problem = 'Inclua o "short name" seguintes ' \
@@ -100,7 +100,7 @@ def _check_data(df, is_1s_phase):
     if is_1s_phase:
         uf_df = df[df['UF'] == NATIONAL_UF]
         missing_UF = [f'{_guess_institution_UF(g[1])},{g[0]},{g[1]}'
-                      for g, _ in uf_df.groupby(by=[SHORT, 'Institution'])]
+                      for g, _ in uf_df.groupby(by=[SHORT, 'instName'])]
 
         if missing_UF:
             problem = 'É preciso incluir as seguintes instituições no arquivo ' \
@@ -210,30 +210,30 @@ def _get_site(site):
 
 
 def _preprocess(df, guess_uf=False, verbose=True):
-    df['Username'] = df['Username'].apply(_hash)
-    df['Institution'] = df['Institution'].apply(_alias)
+    df['username'] = df['username'].apply(_hash)
+    df['instName'] = df['instName'].apply(_alias)
 
     for i, row in df[df[SHORT].isna()].iterrows():
-        df.at[i, SHORT] = _get_short_name(row['Institution'])
+        df.at[i, SHORT] = _get_short_name(row['instName'])
 
-    df['UF'] = [site.split('-')[0].strip() for site in df['Site']]
+    df['UF'] = [site.split('-')[0].strip() for site in df['siteName']]
     df['UF'] = df['UF'].apply(_get_UF)
     if guess_uf:
         for i, row in df[df['UF'] == NATIONAL_UF].iterrows():
-            df.at[i, 'UF'] = _guess_institution_UF(row['Institution'], row['Site'])
+            df.at[i, 'UF'] = _guess_institution_UF(row['instName'], row['siteName'])
 
     df['Region'] = [UF_REGION.get(uf, NATIONAL_REGION) for uf in df['UF']]
-    df['Site'] = df['Site'].apply(_get_site)
-    df['FullName'] = df['First name'].apply(_capitalize) + ' ' + df['Last name'].apply(_capitalize)
-    df['Rank'] = df['Rank'].fillna(0)
-    df['SiteRank'] = df['Rank']
+    df['siteName'] = df['siteName'].apply(_get_site)
+    df['FullName'] = df['firstName'].apply(_capitalize) + ' ' + df['lastName'].apply(_capitalize)
+    df['teamRank'] = df['teamRank'].fillna(0)
+    df['SiteRank'] = df['teamRank']
 
-    ranks = df[df['Rank'] > 0].sort_values(by=['Region', 'Site', 'Rank'])
-    for _, group_df in ranks.groupby(by=['Region', 'Site']):
-        for site_rank, (x, team_rank) in enumerate(group_df.groupby('Rank')):
+    ranks = df[df['teamRank'] > 0].sort_values(by=['Region', 'siteName', 'teamRank'])
+    for _, group_df in ranks.groupby(by=['Region', 'siteName']):
+        for site_rank, (x, team_rank) in enumerate(group_df.groupby('teamRank')):
             df.at[team_rank.index, 'SiteRank'] = site_rank + 1
 
-    df = df.drop(['First name', 'Last name'], axis=1)
+    df = df.drop(['firstName', 'lastName'], axis=1)
 
     return df
 
@@ -243,7 +243,7 @@ def _read_csv(file, verbose=True):
     if verbose:
         _log(f'{df.shape[0]} registros.')
 
-    df = df.drop(df[df['Team status'] != 'ACCEPTED'].index)
+    df = df.drop(df[df['teamStatus'] != 'ACCEPTED'].index)
     if verbose:
         _log(f'{df.shape[0]} registros aceitos.')
 
@@ -251,16 +251,16 @@ def _read_csv(file, verbose=True):
 
 
 def _show_statistics(df):
-    teams = df['Team'].unique()
-    contestants = df[df['Role'] == 'Contestant']
-    female_contestants = contestants[contestants['Sex'] == 'Female']
+    teams = df['teamName'].unique()
+    contestants = df[df['role'] == 'CONTESTANT']
+    female_contestants = contestants[contestants['sex'] == 'FEMALE']
     all_female_teams = female_contestants[
-        female_contestants.groupby('Team')[
-            'Team'].transform('count') == CONTESTANTS_PER_TEAM]['Team'].unique()
-    coaches = df[df['Role'] == 'Coach']
-    student_coaches = df[df['Role'] == 'Student Coach']
+        female_contestants.groupby('teamName')[
+            'teamName'].transform('count') == CONTESTANTS_PER_TEAM]['teamName'].unique()
+    coaches = df[df['role'] == 'COACH']
+    student_coaches = df[df['role'] == 'STUDENT_COACH']
 
-    _log(f'{len(df["Institution"].unique()):4d} instituições.')
+    _log(f'{len(df["instName"].unique()):4d} instituições.')
     _log(f'{len(coaches.groupby(["FullName"]).count().index):4d} coaches')
     _log(f'{len(student_coaches.groupby(["FullName"]).count().index):4d} '
          'student-coaches')
@@ -268,7 +268,7 @@ def _show_statistics(df):
     _log(f'{contestants.shape[0] - female_contestants.shape[0]:4d} alunOs em '
          f'{len(teams) - all_female_teams.shape[0]} times.')
     _log(f'{female_contestants.shape[0]:4d} alunA(s) em '
-         f'{len(female_contestants["Team"].unique())} time(s) ('
+         f'{len(female_contestants["teamName"].unique())} time(s) ('
          f'{100 * female_contestants.shape[0] / contestants.shape[0]:.0f}% '
          'dos competidores)')
     if all_female_teams.size > 0:
@@ -279,17 +279,17 @@ def _show_statistics(df):
 
 def _show_region_best(df):
     _log('Campeões Regionais')
-    for _, group_df in df.sort_values(['Region', 'Rank']).groupby('Region'):
-        _log(f'{group_df.iloc[0]["Region"]} > {group_df.iloc[0]["Team"]}', 1)
+    for _, group_df in df.sort_values(['Region', 'teamRank']).groupby('Region'):
+        _log(f'{group_df.iloc[0]["Region"]} > {group_df.iloc[0]["teamName"]}', 1)
 
 
 def _show_site_best(df):
     _log('Campeões por Sede')
-    sites = df.sort_values(by=['Region', 'UF', 'Site', 'Rank']).groupby(
-            by=['Region', 'UF', 'Site'])
+    sites = df.sort_values(by=['Region', 'UF', 'siteName', 'teamRank']).groupby(
+            by=['Region', 'UF', 'siteName'])
     for _, group_df in sites:
         r = group_df.iloc[0]
-        _log(f'{r["Region"]} > {r["UF"]} > {r["Site"]} > {r["Team"]}', 1)
+        _log(f'{r["Region"]} > {r["UF"]} > {r["siteName"]} > {r["teamName"]}', 1)
 
 
 # Função principal.

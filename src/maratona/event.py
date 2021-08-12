@@ -1,15 +1,15 @@
 import os
 
 # Constants
-GROUPS = ['Region', 'UF', 'Institution']
+GROUPS = ['Region', 'UF', 'instName']
 
 
 def _aggregate_count_girls(df):
-    df = df[(df['Role'] == 'Contestant') & (df['Sex'] == 'Female')]
+    df = df[(df['role'] == 'CONTESTANT') & (df['sex'] == 'FEMALE')]
     count, filters = {}, []
     for col in GROUPS:
         filters.append(col)
-        for items, group in df[filters + ['Sex']].groupby(filters):
+        for items, group in df[filters + ['sex']].groupby(filters):
             aux_dict = count
             names = [items] if isinstance(items, str) else items
             for k in names:
@@ -17,7 +17,7 @@ def _aggregate_count_girls(df):
                     aux_dict[k] = {}
                 aux_dict = aux_dict[k]
             # json não reconhece tipos do NumPy.
-            aux_dict['Value'] = int(group['Sex'].count())
+            aux_dict['Value'] = int(group['sex'].count())
 
     count['Value'] = sum(item['Value'] for item in count.values())
     return count
@@ -27,7 +27,7 @@ def _aggregate_count_teams(df):
     count, filters = {}, []
     for col in GROUPS:
         filters.append(col)
-        for items, group in df[filters + ['Team']].groupby(filters):
+        for items, group in df[filters + ['teamName']].groupby(filters):
             aux_dict = count
             names = [items] if isinstance(items, str) else items
             for k in names:
@@ -35,7 +35,7 @@ def _aggregate_count_teams(df):
                     aux_dict[k] = {}
                 aux_dict = aux_dict[k]
             # json não reconhece tipos do NumPy.
-            aux_dict['Value'] = group['Team'].nunique()
+            aux_dict['Value'] = group['teamName'].nunique()
 
     count['Value'] = sum(item['Value'] for item in count.values())
     return count
@@ -45,14 +45,14 @@ def _aggregate_mean_rank(df):
     mean, filters = {}, []
     for col in GROUPS:
         filters.append(col)
-        for i, row in df[df['Rank'] > 0].groupby(filters).mean().iterrows():
+        for i, row in df[df['teamRank'] > 0].groupby(filters).mean().iterrows():
             aux_dict = mean
             names = [row.name] if isinstance(row.name, str) else row.name
             for k in names:
                 if k not in aux_dict:
                     aux_dict[k] = {}
                 aux_dict = aux_dict[k]
-            aux_dict['Value'] = float(row['Rank'])
+            aux_dict['Value'] = float(row['teamRank'])
 
     return mean
 
@@ -107,10 +107,10 @@ def load_js_in_html(year, phase):
 
 def _to_js(year, phase, df):
     event = {}
-    contestants = df[df['Role'] == 'Contestant']
-    coaches = df[df['Role'] == 'Coach']
-    for group in contestants.groupby(by=['Region', 'UF',
-                                         'Institution', 'Team']):
+    contestants = df[df['role'] == 'CONTESTANT']
+    coaches = df[df['role'] == 'COACH']
+    for group in contestants.groupby(by=['Region', 'UF', 'instName',
+                                         'teamName']):
         r, u, i, t = group[0]
         if r not in event:
             event[r] = {u: {i: {}}}
@@ -120,20 +120,19 @@ def _to_js(year, phase, df):
             event[r][u][i] = {}
 
         coach = ''
-        if t in coaches['Team'].values:
-            coach = coaches.loc[coaches['Team'] == t].iloc[0]['FullName']
+        if t in coaches['teamName'].values:
+            coach = coaches.loc[coaches['teamName'] == t].iloc[0]['FullName']
         else:
-            coach = df.loc[(df['Role'] == 'Student Coach') &
-                           (df['Team'] == t)].iloc[0]['FullName']
+            coach = df.loc[(df['role'] == 'STUDENT_COACH') &
+                           (df['teamName'] == t)].iloc[0]['FullName']
 
         # int(Rank) pois json não reconhece tipos do NumPy.
-        event[r][u][i][t] = {'Rank': int(group[1].iloc[0]['Rank']),
+        event[r][u][i][t] = {'Rank': int(group[1].iloc[0]['teamRank']),
                              'SiteRank': int(group[1].iloc[0]['SiteRank']),
-                             'Site': group[1].iloc[0]['Site'],
-                             'Short name': group[1].iloc[0][
-                                'Institution short name'],
+                             'Site': group[1].iloc[0]['siteName'],
+                             'Short name': group[1].iloc[0]['instShortName'],
                              'Contestants': list(group[1]['FullName']),
-                             'Sex': list(group[1]['Sex']),
+                             'Sex': list(group[1]['sex']),
                              'Coach': coach}
 
     event_js = f'''if (CONTESTS === undefined)
