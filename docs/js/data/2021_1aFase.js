@@ -4,167 +4,6 @@ if (CONTESTS[2021] === undefined)
   CONTESTS[2021] = {};
 
 CONTESTS[2021]["1aFase"] = {
-  "Brasil": {
-    "BR": {
-      "Faculdade Descomplica": {
-        "DESCOMPLICA-E": {
-          "Rank": 400,
-          "SiteRank": 3,
-          "Site": "Rio de Janeiro",
-          "Short name": "Descomplica",
-          "Contestants": [
-            "Marilia Santos Barbosa",
-            "Aline Lucena",
-            "Denis Eberhard Hüsch"
-          ],
-          "Sex": [
-            "FEMALE",
-            "FEMALE",
-            "MALE"
-          ],
-          "Coach": "Lucy Mari Tabuti"
-        },
-        "DESCOMPLICA-EXACTUS": {
-          "Rank": 400,
-          "SiteRank": 3,
-          "Site": "Rio de Janeiro",
-          "Short name": "Descomplica",
-          "Contestants": [
-            "Sergio Damaceno Botelho",
-            "Ueslei Conceição Dos Santos",
-            "Claudia Brito Caldeira Soares"
-          ],
-          "Sex": [
-            "MALE",
-            "MALE",
-            "FEMALE"
-          ],
-          "Coach": "Lucy Mari Tabuti"
-        },
-        "DESCOMPLICA-FI": {
-          "Rank": 395,
-          "SiteRank": 2,
-          "Site": "Rio de Janeiro",
-          "Short name": "Descomplica",
-          "Contestants": [
-            "Adilson Magalhaes Jager",
-            "Rodrigo Simon",
-            "Rainara Moura"
-          ],
-          "Sex": [
-            "MALE",
-            "MALE",
-            "FEMALE"
-          ],
-          "Coach": "Lucy Mari Tabuti"
-        },
-        "DESCOMPLICA-MIRABILIS": {
-          "Rank": 400,
-          "SiteRank": 3,
-          "Site": "Rio de Janeiro",
-          "Short name": "Descomplica",
-          "Contestants": [
-            "Leandro De Souza Nascimento",
-            "Mario Martins Junior",
-            "Joanderson Feliciano"
-          ],
-          "Sex": [
-            "MALE",
-            "MALE",
-            "MALE"
-          ],
-          "Coach": "Lucy Mari Tabuti"
-        },
-        "DESCOMPLICA-PI": {
-          "Rank": 400,
-          "SiteRank": 3,
-          "Site": "Rio de Janeiro",
-          "Short name": "Descomplica",
-          "Contestants": [
-            "Fernanda Drumond Marques",
-            "Tulio Roberto",
-            "Jailson Costa Garrido"
-          ],
-          "Sex": [
-            "FEMALE",
-            "MALE",
-            "MALE"
-          ],
-          "Coach": "Lucy Mari Tabuti"
-        },
-        "DESCOMPLICA-SHAY": {
-          "Rank": 400,
-          "SiteRank": 3,
-          "Site": "Rio de Janeiro",
-          "Short name": "Descomplica",
-          "Contestants": [
-            "Edcleidson De Souza Cardoso Junior",
-            "Vinicius Maia",
-            "Nivea Martins Gomes Dos Santos"
-          ],
-          "Sex": [
-            "MALE",
-            "MALE",
-            "FEMALE"
-          ],
-          "Coach": "Lucy Mari Tabuti"
-        },
-        "DESCOMPLICA-TRIGON": {
-          "Rank": 400,
-          "SiteRank": 3,
-          "Site": "Rio de Janeiro",
-          "Short name": "Descomplica",
-          "Contestants": [
-            "João Pedro Santos Cirqueira",
-            "Maria Eduarda Pereira Silva",
-            "Nicolas Silveira"
-          ],
-          "Sex": [
-            "MALE",
-            "FEMALE",
-            "MALE"
-          ],
-          "Coach": "Lucy Mari Tabuti"
-        },
-        "OS TRÊS MOSQUETEIROS DA PROGRAMAÇÃO": {
-          "Rank": 400,
-          "SiteRank": 3,
-          "Site": "Rio de Janeiro",
-          "Short name": "Descomplica",
-          "Contestants": [
-            "Ingryd Rios",
-            "Cassio Alves Da Silva Mendes",
-            "Nilson José De Souza Porceli"
-          ],
-          "Sex": [
-            "FEMALE",
-            "MALE",
-            "MALE"
-          ],
-          "Coach": "Lucy Mari Tabuti"
-        }
-      },
-      "Fundação Getúlio Vargas": {
-        "FiboTeam": {
-          "Rank": 141,
-          "SiteRank": 1,
-          "Site": "Rio de Janeiro",
-          "Short name": "FGV",
-          "Contestants": [
-            "Rodrigo Ribeiro Da Silva",
-            "João Pedro De Abreu Marciano",
-            "Bruno Luz"
-          ],
-          "Sex": [
-            "MALE",
-            "MALE",
-            "MALE"
-          ],
-          "Coach": "Jorge Poco"
-        }
-      }
-    }
-  },
   "Centro-Oeste": {
     "DF": {
       "Instituto Federal de Educação, Ciência e Tecnologia de Brasília": {
@@ -5817,7 +5656,7 @@ CONTESTS[2021]["1aFase"] = {
       "Centro Federal de Educação Tecnológica Celso Suckow da Fonseca - Campus Petrópolis": {
         "Cyberia": {
           "Rank": 242,
-          "SiteRank": 19,
+          "SiteRank": 20,
           "Site": "Rio de Janeiro",
           "Short name": "CEFET/RJ Petrópolis",
           "Contestants": [
@@ -5834,7 +5673,7 @@ CONTESTS[2021]["1aFase"] = {
         },
         "Os Monitores": {
           "Rank": 189,
-          "SiteRank": 14,
+          "SiteRank": 15,
           "Site": "Rio de Janeiro",
           "Short name": "CEFET/RJ Petrópolis",
           "Contestants": [
@@ -5851,7 +5690,7 @@ CONTESTS[2021]["1aFase"] = {
         },
         "The Codefiers": {
           "Rank": 260,
-          "SiteRank": 20,
+          "SiteRank": 21,
           "Site": "Rio de Janeiro",
           "Short name": "CEFET/RJ Petrópolis",
           "Contestants": [
@@ -5887,7 +5726,7 @@ CONTESTS[2021]["1aFase"] = {
       "Centro Universitário Serra dos Órgãos - UNIFESO": {
         "Só Gambiarra": {
           "Rank": 400,
-          "SiteRank": 26,
+          "SiteRank": 28,
           "Site": "Rio de Janeiro",
           "Short name": "UNIFESO",
           "Contestants": [
@@ -5901,6 +5740,163 @@ CONTESTS[2021]["1aFase"] = {
             "MALE"
           ],
           "Coach": "Rafael Gomes Monteiro"
+        }
+      },
+      "Faculdade Descomplica": {
+        "DESCOMPLICA-E": {
+          "Rank": 400,
+          "SiteRank": 28,
+          "Site": "Rio de Janeiro",
+          "Short name": "Descomplica",
+          "Contestants": [
+            "Marilia Santos Barbosa",
+            "Aline Lucena",
+            "Denis Eberhard Hüsch"
+          ],
+          "Sex": [
+            "FEMALE",
+            "FEMALE",
+            "MALE"
+          ],
+          "Coach": "Lucy Mari Tabuti"
+        },
+        "DESCOMPLICA-EXACTUS": {
+          "Rank": 400,
+          "SiteRank": 28,
+          "Site": "Rio de Janeiro",
+          "Short name": "Descomplica",
+          "Contestants": [
+            "Sergio Damaceno Botelho",
+            "Ueslei Conceição Dos Santos",
+            "Claudia Brito Caldeira Soares"
+          ],
+          "Sex": [
+            "MALE",
+            "MALE",
+            "FEMALE"
+          ],
+          "Coach": "Lucy Mari Tabuti"
+        },
+        "DESCOMPLICA-FI": {
+          "Rank": 395,
+          "SiteRank": 27,
+          "Site": "Rio de Janeiro",
+          "Short name": "Descomplica",
+          "Contestants": [
+            "Adilson Magalhaes Jager",
+            "Rodrigo Simon",
+            "Rainara Moura"
+          ],
+          "Sex": [
+            "MALE",
+            "MALE",
+            "FEMALE"
+          ],
+          "Coach": "Lucy Mari Tabuti"
+        },
+        "DESCOMPLICA-MIRABILIS": {
+          "Rank": 400,
+          "SiteRank": 28,
+          "Site": "Rio de Janeiro",
+          "Short name": "Descomplica",
+          "Contestants": [
+            "Leandro De Souza Nascimento",
+            "Mario Martins Junior",
+            "Joanderson Feliciano"
+          ],
+          "Sex": [
+            "MALE",
+            "MALE",
+            "MALE"
+          ],
+          "Coach": "Lucy Mari Tabuti"
+        },
+        "DESCOMPLICA-PI": {
+          "Rank": 400,
+          "SiteRank": 28,
+          "Site": "Rio de Janeiro",
+          "Short name": "Descomplica",
+          "Contestants": [
+            "Fernanda Drumond Marques",
+            "Tulio Roberto",
+            "Jailson Costa Garrido"
+          ],
+          "Sex": [
+            "FEMALE",
+            "MALE",
+            "MALE"
+          ],
+          "Coach": "Lucy Mari Tabuti"
+        },
+        "DESCOMPLICA-SHAY": {
+          "Rank": 400,
+          "SiteRank": 28,
+          "Site": "Rio de Janeiro",
+          "Short name": "Descomplica",
+          "Contestants": [
+            "Edcleidson De Souza Cardoso Junior",
+            "Vinicius Maia",
+            "Nivea Martins Gomes Dos Santos"
+          ],
+          "Sex": [
+            "MALE",
+            "MALE",
+            "FEMALE"
+          ],
+          "Coach": "Lucy Mari Tabuti"
+        },
+        "DESCOMPLICA-TRIGON": {
+          "Rank": 400,
+          "SiteRank": 28,
+          "Site": "Rio de Janeiro",
+          "Short name": "Descomplica",
+          "Contestants": [
+            "João Pedro Santos Cirqueira",
+            "Maria Eduarda Pereira Silva",
+            "Nicolas Silveira"
+          ],
+          "Sex": [
+            "MALE",
+            "FEMALE",
+            "MALE"
+          ],
+          "Coach": "Lucy Mari Tabuti"
+        },
+        "OS TRÊS MOSQUETEIROS DA PROGRAMAÇÃO": {
+          "Rank": 400,
+          "SiteRank": 28,
+          "Site": "Rio de Janeiro",
+          "Short name": "Descomplica",
+          "Contestants": [
+            "Ingryd Rios",
+            "Cassio Alves Da Silva Mendes",
+            "Nilson José De Souza Porceli"
+          ],
+          "Sex": [
+            "FEMALE",
+            "MALE",
+            "MALE"
+          ],
+          "Coach": "Lucy Mari Tabuti"
+        }
+      },
+      "Fundação Getúlio Vargas": {
+        "FiboTeam": {
+          "Rank": 141,
+          "SiteRank": 13,
+          "Site": "Rio de Janeiro",
+          "Short name": "FGV",
+          "Contestants": [
+            "Rodrigo Ribeiro Da Silva",
+            "João Pedro De Abreu Marciano",
+            "Bruno Luz"
+          ],
+          "Sex": [
+            "MALE",
+            "MALE",
+            "MALE"
+          ],
+          "Coach": "Jorge Poco"
         }
       },
       "Instituto Militar de Engenharia": {
@@ -5940,7 +5936,7 @@ CONTESTS[2021]["1aFase"] = {
         },
         "iostreamers": {
           "Rank": 400,
-          "SiteRank": 26,
+          "SiteRank": 28,
           "Site": "Rio de Janeiro",
           "Short name": "IME",
           "Contestants": [
@@ -5995,7 +5991,7 @@ CONTESTS[2021]["1aFase"] = {
       "Pontificia Universidade Catolica do Rio de Janeiro": {
         "Algoz Genético": {
           "Rank": 241,
-          "SiteRank": 18,
+          "SiteRank": 19,
           "Site": "Rio de Janeiro",
           "Short name": "PUC Rio de Janeiro",
           "Contestants": [
@@ -6029,7 +6025,7 @@ CONTESTS[2021]["1aFase"] = {
         },
         "OmegaAlpha": {
           "Rank": 400,
-          "SiteRank": 26,
+          "SiteRank": 28,
           "Site": "Rio de Janeiro",
           "Short name": "PUC Rio de Janeiro",
           "Contestants": [
@@ -6046,7 +6042,7 @@ CONTESTS[2021]["1aFase"] = {
         },
         "Os Filhos De Francisco": {
           "Rank": 212,
-          "SiteRank": 16,
+          "SiteRank": 17,
           "Site": "Rio de Janeiro",
           "Short name": "PUC Rio de Janeiro",
           "Contestants": [
@@ -6063,7 +6059,7 @@ CONTESTS[2021]["1aFase"] = {
         },
         "SIGSEGV": {
           "Rank": 345,
-          "SiteRank": 24,
+          "SiteRank": 25,
           "Site": "Rio de Janeiro",
           "Short name": "PUC Rio de Janeiro",
           "Contestants": [
@@ -6082,7 +6078,7 @@ CONTESTS[2021]["1aFase"] = {
       "Universidade Federal Fluminense - Polo Universitário de Rio das Ostras": {
         "@{NomeDaEquipe}": {
           "Rank": 387,
-          "SiteRank": 25,
+          "SiteRank": 26,
           "Site": "Rio de Janeiro",
           "Short name": "UFF-PURO",
           "Contestants": [
@@ -6099,7 +6095,7 @@ CONTESTS[2021]["1aFase"] = {
         },
         "Aleatórios": {
           "Rank": 304,
-          "SiteRank": 23,
+          "SiteRank": 24,
           "Site": "Rio de Janeiro",
           "Short name": "UFF-PURO",
           "Contestants": [
@@ -6116,7 +6112,7 @@ CONTESTS[2021]["1aFase"] = {
         },
         "Garotes de Programa": {
           "Rank": 400,
-          "SiteRank": 26,
+          "SiteRank": 28,
           "Site": "Rio de Janeiro",
           "Short name": "UFF-PURO",
           "Contestants": [
@@ -6135,7 +6131,7 @@ CONTESTS[2021]["1aFase"] = {
       "Universidade Federal Rural do Rio de Janeiro": {
         "Equipe Rocket": {
           "Rank": 163,
-          "SiteRank": 13,
+          "SiteRank": 14,
           "Site": "Rio de Janeiro",
           "Short name": "UFRRJ",
           "Contestants": [
@@ -6169,7 +6165,7 @@ CONTESTS[2021]["1aFase"] = {
         },
         "Sorvete galera": {
           "Rank": 266,
-          "SiteRank": 21,
+          "SiteRank": 22,
           "Site": "Rio de Janeiro",
           "Short name": "UFRRJ",
           "Contestants": [
@@ -6188,7 +6184,7 @@ CONTESTS[2021]["1aFase"] = {
       "Universidade Federal do Rio de Janeiro": {
         "Brad-hoc ": {
           "Rank": 301,
-          "SiteRank": 22,
+          "SiteRank": 23,
           "Site": "Rio de Janeiro",
           "Short name": "UFRJ",
           "Contestants": [
@@ -6275,7 +6271,7 @@ CONTESTS[2021]["1aFase"] = {
         },
         "UERJCHR": {
           "Rank": 240,
-          "SiteRank": 17,
+          "SiteRank": 18,
           "Site": "Rio de Janeiro",
           "Short name": "UERJ",
           "Contestants": [
@@ -6309,7 +6305,7 @@ CONTESTS[2021]["1aFase"] = {
         },
         "UERJTPL": {
           "Rank": 206,
-          "SiteRank": 15,
+          "SiteRank": 16,
           "Site": "Rio de Janeiro",
           "Short name": "UERJ",
           "Contestants": [
@@ -9388,18 +9384,6 @@ if (AGGREGATED["Mean"]["Rank"][2021] === undefined)
   AGGREGATED["Mean"]["Rank"][2021] = {};
 
 AGGREGATED["Mean"]["Rank"][2021]["1aFase"] = {
-  "Brasil": {
-    "Value": 370.6666666666667,
-    "BR": {
-      "Value": 370.6666666666667,
-      "Faculdade Descomplica": {
-        "Value": 399.375
-      },
-      "Fundação Getúlio Vargas": {
-        "Value": 141.0
-      }
-    }
-  },
   "Centro-Oeste": {
     "Value": 197.04225352112675,
     "DF": {
@@ -9611,7 +9595,7 @@ AGGREGATED["Mean"]["Rank"][2021]["1aFase"] = {
     }
   },
   "Sudeste": {
-    "Value": 235.73819742489272,
+    "Value": 239.7826810990841,
     "ES": {
       "Value": 222.8181818181818,
       "Centro Universitário Norte do Espírito Santo - Universidade Federal do Espírito Santo": {
@@ -9688,12 +9672,18 @@ AGGREGATED["Mean"]["Rank"][2021]["1aFase"] = {
       }
     },
     "RJ": {
-      "Value": 195.09016393442624,
+      "Value": 235.09493670886076,
       "Centro Federal de Educação Tecnológica Celso Suckow da Fonseca - Campus Petrópolis": {
         "Value": 190.0
       },
       "Centro Universitário Serra dos Órgãos - UNIFESO": {
         "Value": 400.0
+      },
+      "Faculdade Descomplica": {
+        "Value": 399.375
+      },
+      "Fundação Getúlio Vargas": {
+        "Value": 141.0
       },
       "Instituto Militar de Engenharia": {
         "Value": 138.5
@@ -9869,15 +9859,6 @@ if (AGGREGATED["Count"]["Girls"][2021] === undefined)
   AGGREGATED["Count"]["Girls"][2021] = {};
 
 AGGREGATED["Count"]["Girls"][2021]["1aFase"] = {
-  "Brasil": {
-    "Value": 8,
-    "BR": {
-      "Value": 8,
-      "Faculdade Descomplica": {
-        "Value": 8
-      }
-    }
-  },
   "Centro-Oeste": {
     "Value": 16,
     "DF": {
@@ -10005,7 +9986,7 @@ AGGREGATED["Count"]["Girls"][2021]["1aFase"] = {
     }
   },
   "Sudeste": {
-    "Value": 110,
+    "Value": 118,
     "ES": {
       "Value": 1,
       "Universidade Federal do Espirito Santo": {
@@ -10067,9 +10048,12 @@ AGGREGATED["Count"]["Girls"][2021]["1aFase"] = {
       }
     },
     "RJ": {
-      "Value": 6,
+      "Value": 14,
       "Centro Federal de Educação Tecnológica Celso Suckow da Fonseca - Campus Petrópolis": {
         "Value": 2
+      },
+      "Faculdade Descomplica": {
+        "Value": 8
       },
       "Pontificia Universidade Catolica do Rio de Janeiro": {
         "Value": 1
@@ -10192,18 +10176,6 @@ if (AGGREGATED["Count"]["Teams"][2021] === undefined)
   AGGREGATED["Count"]["Teams"][2021] = {};
 
 AGGREGATED["Count"]["Teams"][2021]["1aFase"] = {
-  "Brasil": {
-    "Value": 9,
-    "BR": {
-      "Value": 9,
-      "Faculdade Descomplica": {
-        "Value": 8
-      },
-      "Fundação Getúlio Vargas": {
-        "Value": 1
-      }
-    }
-  },
   "Centro-Oeste": {
     "Value": 45,
     "DF": {
@@ -10418,7 +10390,7 @@ AGGREGATED["Count"]["Teams"][2021]["1aFase"] = {
     }
   },
   "Sudeste": {
-    "Value": 264,
+    "Value": 273,
     "ES": {
       "Value": 11,
       "Centro Universitário Norte do Espírito Santo - Universidade Federal do Espírito Santo": {
@@ -10495,11 +10467,17 @@ AGGREGATED["Count"]["Teams"][2021]["1aFase"] = {
       }
     },
     "RJ": {
-      "Value": 29,
+      "Value": 38,
       "Centro Federal de Educação Tecnológica Celso Suckow da Fonseca - Campus Petrópolis": {
         "Value": 4
       },
       "Centro Universitário Serra dos Órgãos - UNIFESO": {
+        "Value": 1
+      },
+      "Faculdade Descomplica": {
+        "Value": 8
+      },
+      "Fundação Getúlio Vargas": {
         "Value": 1
       },
       "Instituto Militar de Engenharia": {

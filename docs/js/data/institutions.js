@@ -6599,6 +6599,18 @@ INSTITUTIONS = {
         "2017": {
           "Team": 1,
           "BestRank": 233
+        },
+        "2021": {
+          "Team": 1,
+          "BestRank": 141
+        }
+      }
+    },
+    "Faculdade Descomplica": {
+      "1aFase": {
+        "2021": {
+          "Team": 8,
+          "BestRank": 395
         }
       }
     },
@@ -11967,24 +11979,6 @@ INSTITUTIONS = {
         "2020": {
           "Team": 1,
           "BestRank": 63
-        }
-      }
-    }
-  },
-  "BR": {
-    "Faculdade Descomplica": {
-      "1aFase": {
-        "2021": {
-          "Team": 8,
-          "BestRank": 395
-        }
-      }
-    },
-    "Fundação Getúlio Vargas": {
-      "1aFase": {
-        "2021": {
-          "Team": 1,
-          "BestRank": 141
         }
       }
     }
