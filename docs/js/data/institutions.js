@@ -67,6 +67,10 @@ INSTITUTIONS = {
         "2020": {
           "Team": 19,
           "BestRank": 25
+        },
+        "2021": {
+          "Team": 13,
+          "BestRank": 24
         }
       }
     },
@@ -95,6 +99,10 @@ INSTITUTIONS = {
         "2020": {
           "Team": 7,
           "BestRank": 28
+        },
+        "2021": {
+          "Team": 5,
+          "BestRank": 56
         }
       },
       "Nacional": {
@@ -169,6 +177,10 @@ INSTITUTIONS = {
         "2020": {
           "Team": 2,
           "BestRank": 172
+        },
+        "2021": {
+          "Team": 1,
+          "BestRank": 122
         }
       }
     },
@@ -265,6 +277,10 @@ INSTITUTIONS = {
         "2020": {
           "Team": 6,
           "BestRank": 20
+        },
+        "2021": {
+          "Team": 6,
+          "BestRank": 49
         }
       }
     },
@@ -415,6 +431,10 @@ INSTITUTIONS = {
         "2020": {
           "Team": 7,
           "BestRank": 332
+        },
+        "2021": {
+          "Team": 1,
+          "BestRank": 356
         }
       }
     },
@@ -479,6 +499,10 @@ INSTITUTIONS = {
         "2020": {
           "Team": 7,
           "BestRank": 51
+        },
+        "2021": {
+          "Team": 11,
+          "BestRank": 41
         }
       },
       "Nacional": {
@@ -589,6 +613,10 @@ INSTITUTIONS = {
         "2020": {
           "Team": 3,
           "BestRank": 74
+        },
+        "2021": {
+          "Team": 4,
+          "BestRank": 52
         }
       }
     },
@@ -617,6 +645,10 @@ INSTITUTIONS = {
         "2020": {
           "Team": 2,
           "BestRank": 232
+        },
+        "2021": {
+          "Team": 1,
+          "BestRank": 400
         }
       },
       "Nacional": {
@@ -855,6 +887,10 @@ INSTITUTIONS = {
         "2020": {
           "Team": 1,
           "BestRank": 89
+        },
+        "2021": {
+          "Team": 1,
+          "BestRank": 53
         }
       }
     },
@@ -925,6 +961,10 @@ INSTITUTIONS = {
         "2020": {
           "Team": 4,
           "BestRank": 4
+        },
+        "2021": {
+          "Team": 10,
+          "BestRank": 8
         }
       }
     },
@@ -987,6 +1027,10 @@ INSTITUTIONS = {
         "2020": {
           "Team": 4,
           "BestRank": 80
+        },
+        "2021": {
+          "Team": 2,
+          "BestRank": 155
         }
       }
     },
@@ -1005,6 +1049,10 @@ INSTITUTIONS = {
         "2014": {
           "Team": 1,
           "BestRank": 488
+        },
+        "2021": {
+          "Team": 1,
+          "BestRank": 222
         }
       }
     },
@@ -1079,6 +1127,10 @@ INSTITUTIONS = {
         "2020": {
           "Team": 2,
           "BestRank": 141
+        },
+        "2021": {
+          "Team": 1,
+          "BestRank": 95
         }
       }
     },
@@ -1371,6 +1423,10 @@ INSTITUTIONS = {
         "2020": {
           "Team": 2,
           "BestRank": 50
+        },
+        "2021": {
+          "Team": 5,
+          "BestRank": 77
         }
       }
     },
@@ -1425,6 +1481,10 @@ INSTITUTIONS = {
         "2020": {
           "Team": 6,
           "BestRank": 40
+        },
+        "2021": {
+          "Team": 5,
+          "BestRank": 51
         }
       }
     },
@@ -1531,6 +1591,10 @@ INSTITUTIONS = {
         "2020": {
           "Team": 2,
           "BestRank": 281
+        },
+        "2021": {
+          "Team": 1,
+          "BestRank": 277
         }
       },
       "Nacional": {
@@ -1573,6 +1637,10 @@ INSTITUTIONS = {
         "2020": {
           "Team": 12,
           "BestRank": 16
+        },
+        "2021": {
+          "Team": 7,
+          "BestRank": 12
         }
       },
       "Nacional": {
@@ -1655,6 +1723,10 @@ INSTITUTIONS = {
         "2020": {
           "Team": 2,
           "BestRank": 330
+        },
+        "2021": {
+          "Team": 2,
+          "BestRank": 400
         }
       },
       "Nacional": {
@@ -1689,6 +1761,10 @@ INSTITUTIONS = {
         "2015": {
           "Team": 1,
           "BestRank": 108
+        },
+        "2021": {
+          "Team": 1,
+          "BestRank": 123
         }
       }
     },
@@ -1789,6 +1865,10 @@ INSTITUTIONS = {
         "2020": {
           "Team": 2,
           "BestRank": 206
+        },
+        "2021": {
+          "Team": 1,
+          "BestRank": 315
         }
       },
       "Nacional": {
@@ -1823,6 +1903,10 @@ INSTITUTIONS = {
         "2020": {
           "Team": 3,
           "BestRank": 386
+        },
+        "2021": {
+          "Team": 1,
+          "BestRank": 346
         }
       }
     }
@@ -2029,6 +2113,10 @@ INSTITUTIONS = {
         "2020": {
           "Team": 13,
           "BestRank": 6
+        },
+        "2021": {
+          "Team": 5,
+          "BestRank": 14
         }
       }
     },
@@ -2061,6 +2149,10 @@ INSTITUTIONS = {
         "2020": {
           "Team": 2,
           "BestRank": 180
+        },
+        "2021": {
+          "Team": 3,
+          "BestRank": 161
         }
       },
       "Nacional": {
@@ -2091,6 +2183,10 @@ INSTITUTIONS = {
         "2020": {
           "Team": 3,
           "BestRank": 352
+        },
+        "2021": {
+          "Team": 3,
+          "BestRank": 201
         }
       }
     },
@@ -2103,6 +2199,10 @@ INSTITUTIONS = {
         "2019": {
           "Team": 1,
           "BestRank": 291
+        },
+        "2021": {
+          "Team": 2,
+          "BestRank": 400
         }
       }
     },
@@ -2135,6 +2235,10 @@ INSTITUTIONS = {
         "2020": {
           "Team": 1,
           "BestRank": 257
+        },
+        "2021": {
+          "Team": 1,
+          "BestRank": 386
         }
       }
     },
@@ -2163,6 +2267,10 @@ INSTITUTIONS = {
         "2020": {
           "Team": 6,
           "BestRank": 43
+        },
+        "2021": {
+          "Team": 2,
+          "BestRank": 38
         }
       },
       "Nacional": {
@@ -2221,6 +2329,10 @@ INSTITUTIONS = {
         "2020": {
           "Team": 1,
           "BestRank": 143
+        },
+        "2021": {
+          "Team": 2,
+          "BestRank": 255
         }
       }
     },
@@ -2247,6 +2359,18 @@ INSTITUTIONS = {
         "2020": {
           "Team": 2,
           "BestRank": 153
+        },
+        "2021": {
+          "Team": 1,
+          "BestRank": 184
+        }
+      }
+    },
+    "Instituto Federal da Paraíba": {
+      "1aFase": {
+        "2021": {
+          "Team": 1,
+          "BestRank": 238
         }
       }
     }
@@ -2335,6 +2459,10 @@ INSTITUTIONS = {
         "2020": {
           "Team": 6,
           "BestRank": 13
+        },
+        "2021": {
+          "Team": 6,
+          "BestRank": 7
         }
       }
     },
@@ -2381,6 +2509,10 @@ INSTITUTIONS = {
         "2020": {
           "Team": 4,
           "BestRank": 169
+        },
+        "2021": {
+          "Team": 5,
+          "BestRank": 55
         }
       }
     },
@@ -2551,6 +2683,10 @@ INSTITUTIONS = {
         "2019": {
           "Team": 1,
           "BestRank": 197
+        },
+        "2021": {
+          "Team": 2,
+          "BestRank": 193
         }
       }
     },
@@ -2685,6 +2821,10 @@ INSTITUTIONS = {
         "2020": {
           "Team": 6,
           "BestRank": 105
+        },
+        "2021": {
+          "Team": 2,
+          "BestRank": 251
         }
       },
       "Nacional": {
@@ -2779,6 +2919,10 @@ INSTITUTIONS = {
         "2020": {
           "Team": 5,
           "BestRank": 26
+        },
+        "2021": {
+          "Team": 8,
+          "BestRank": 44
         }
       },
       "Nacional": {
@@ -2837,6 +2981,10 @@ INSTITUTIONS = {
         "2020": {
           "Team": 2,
           "BestRank": 343
+        },
+        "2021": {
+          "Team": 3,
+          "BestRank": 83
         }
       }
     },
@@ -2853,6 +3001,22 @@ INSTITUTIONS = {
         "2019": {
           "Team": 3,
           "BestRank": 376
+        }
+      }
+    },
+    "Instituto Federal do Piauí - Corrente": {
+      "1aFase": {
+        "2021": {
+          "Team": 1,
+          "BestRank": 340
+        }
+      }
+    },
+    "Universidade Estadual do Piauí - Campus de Piripiri": {
+      "1aFase": {
+        "2021": {
+          "Team": 3,
+          "BestRank": 400
         }
       }
     }
@@ -2941,6 +3105,10 @@ INSTITUTIONS = {
         "2020": {
           "Team": 4,
           "BestRank": 18
+        },
+        "2021": {
+          "Team": 2,
+          "BestRank": 226
         }
       }
     },
@@ -3011,6 +3179,10 @@ INSTITUTIONS = {
         "2020": {
           "Team": 1,
           "BestRank": 128
+        },
+        "2021": {
+          "Team": 3,
+          "BestRank": 279
         }
       }
     }
@@ -3063,6 +3235,10 @@ INSTITUTIONS = {
         "2020": {
           "Team": 4,
           "BestRank": 156
+        },
+        "2021": {
+          "Team": 5,
+          "BestRank": 29
         }
       }
     },
@@ -3149,6 +3325,10 @@ INSTITUTIONS = {
         "2020": {
           "Team": 5,
           "BestRank": 47
+        },
+        "2021": {
+          "Team": 4,
+          "BestRank": 27
         }
       },
       "Nacional": {
@@ -3321,6 +3501,10 @@ INSTITUTIONS = {
         "2020": {
           "Team": 2,
           "BestRank": 96
+        },
+        "2021": {
+          "Team": 1,
+          "BestRank": 28
         }
       }
     },
@@ -3457,6 +3641,10 @@ INSTITUTIONS = {
         "2020": {
           "Team": 2,
           "BestRank": 348
+        },
+        "2021": {
+          "Team": 3,
+          "BestRank": 197
         }
       }
     },
@@ -3633,6 +3821,10 @@ INSTITUTIONS = {
         "2020": {
           "Team": 8,
           "BestRank": 27
+        },
+        "2021": {
+          "Team": 6,
+          "BestRank": 22
         }
       }
     },
@@ -3661,6 +3853,10 @@ INSTITUTIONS = {
         "2020": {
           "Team": 3,
           "BestRank": 200
+        },
+        "2021": {
+          "Team": 5,
+          "BestRank": 168
         }
       },
       "Nacional": {
@@ -3913,6 +4109,10 @@ INSTITUTIONS = {
         "2020": {
           "Team": 18,
           "BestRank": 3
+        },
+        "2021": {
+          "Team": 16,
+          "BestRank": 2
         }
       }
     },
@@ -3995,6 +4195,10 @@ INSTITUTIONS = {
         "2020": {
           "Team": 19,
           "BestRank": 37
+        },
+        "2021": {
+          "Team": 19,
+          "BestRank": 45
         }
       }
     },
@@ -4081,6 +4285,10 @@ INSTITUTIONS = {
         "2020": {
           "Team": 8,
           "BestRank": 56
+        },
+        "2021": {
+          "Team": 7,
+          "BestRank": 40
         }
       }
     },
@@ -4197,6 +4405,10 @@ INSTITUTIONS = {
         "2020": {
           "Team": 5,
           "BestRank": 5
+        },
+        "2021": {
+          "Team": 9,
+          "BestRank": 43
         }
       }
     },
@@ -4303,6 +4515,10 @@ INSTITUTIONS = {
         "2020": {
           "Team": 1,
           "BestRank": 259
+        },
+        "2021": {
+          "Team": 3,
+          "BestRank": 116
         }
       }
     },
@@ -4391,6 +4607,10 @@ INSTITUTIONS = {
         "2020": {
           "Team": 1,
           "BestRank": 524
+        },
+        "2021": {
+          "Team": 2,
+          "BestRank": 333
         }
       },
       "Nacional": {
@@ -4593,6 +4813,10 @@ INSTITUTIONS = {
         "2020": {
           "Team": 5,
           "BestRank": 76
+        },
+        "2021": {
+          "Team": 3,
+          "BestRank": 59
         }
       },
       "Nacional": {
@@ -4655,6 +4879,10 @@ INSTITUTIONS = {
         "2020": {
           "Team": 2,
           "BestRank": 120
+        },
+        "2021": {
+          "Team": 2,
+          "BestRank": 91
         }
       },
       "Nacional": {
@@ -4829,6 +5057,10 @@ INSTITUTIONS = {
         "2020": {
           "Team": 3,
           "BestRank": 236
+        },
+        "2021": {
+          "Team": 3,
+          "BestRank": 219
         }
       },
       "Nacional": {
@@ -4925,6 +5157,10 @@ INSTITUTIONS = {
         "2020": {
           "Team": 3,
           "BestRank": 79
+        },
+        "2021": {
+          "Team": 6,
+          "BestRank": 75
         }
       },
       "Nacional": {
@@ -5095,6 +5331,10 @@ INSTITUTIONS = {
         "2020": {
           "Team": 7,
           "BestRank": 321
+        },
+        "2021": {
+          "Team": 6,
+          "BestRank": 185
         }
       },
       "Nacional": {
@@ -5113,6 +5353,10 @@ INSTITUTIONS = {
         "2020": {
           "Team": 2,
           "BestRank": 583
+        },
+        "2021": {
+          "Team": 6,
+          "BestRank": 196
         }
       }
     },
@@ -5185,6 +5429,10 @@ INSTITUTIONS = {
         "2020": {
           "Team": 1,
           "BestRank": 280
+        },
+        "2021": {
+          "Team": 2,
+          "BestRank": 400
         }
       }
     },
@@ -5209,6 +5457,10 @@ INSTITUTIONS = {
         "2017": {
           "Team": 7,
           "BestRank": 479
+        },
+        "2021": {
+          "Team": 1,
+          "BestRank": 400
         }
       },
       "Nacional": {
@@ -5353,6 +5605,10 @@ INSTITUTIONS = {
         "2020": {
           "Team": 10,
           "BestRank": 54
+        },
+        "2021": {
+          "Team": 11,
+          "BestRank": 139
         }
       },
       "Nacional": {
@@ -5465,6 +5721,10 @@ INSTITUTIONS = {
         "2020": {
           "Team": 5,
           "BestRank": 265
+        },
+        "2021": {
+          "Team": 2,
+          "BestRank": 178
         }
       },
       "Nacional": {
@@ -5599,6 +5859,10 @@ INSTITUTIONS = {
         "2020": {
           "Team": 14,
           "BestRank": 270
+        },
+        "2021": {
+          "Team": 8,
+          "BestRank": 195
         }
       },
       "Nacional": {
@@ -5677,6 +5941,10 @@ INSTITUTIONS = {
         "2020": {
           "Team": 10,
           "BestRank": 104
+        },
+        "2021": {
+          "Team": 6,
+          "BestRank": 63
         }
       },
       "Nacional": {
@@ -5747,6 +6015,10 @@ INSTITUTIONS = {
         "2020": {
           "Team": 1,
           "BestRank": 384
+        },
+        "2021": {
+          "Team": 1,
+          "BestRank": 367
         }
       }
     },
@@ -5755,6 +6027,22 @@ INSTITUTIONS = {
         "2020": {
           "Team": 1,
           "BestRank": 269
+        }
+      }
+    },
+    "Centro Federal de Educação Tecnológica de Minas Gerais - Campus Leopoldina": {
+      "1aFase": {
+        "2021": {
+          "Team": 1,
+          "BestRank": 300
+        }
+      }
+    },
+    "Instituto Federal Sudeste de Minas Gerais - Campus Manhuacu": {
+      "1aFase": {
+        "2021": {
+          "Team": 1,
+          "BestRank": 400
         }
       }
     }
@@ -5831,6 +6119,10 @@ INSTITUTIONS = {
         "2020": {
           "Team": 11,
           "BestRank": 34
+        },
+        "2021": {
+          "Team": 5,
+          "BestRank": 104
         }
       }
     },
@@ -5913,6 +6205,10 @@ INSTITUTIONS = {
         "2020": {
           "Team": 4,
           "BestRank": 24
+        },
+        "2021": {
+          "Team": 4,
+          "BestRank": 18
         }
       }
     },
@@ -5971,6 +6267,10 @@ INSTITUTIONS = {
         "2020": {
           "Team": 4,
           "BestRank": 111
+        },
+        "2021": {
+          "Team": 4,
+          "BestRank": 65
         }
       }
     },
@@ -6045,6 +6345,10 @@ INSTITUTIONS = {
         "2020": {
           "Team": 4,
           "BestRank": 30
+        },
+        "2021": {
+          "Team": 4,
+          "BestRank": 4
         }
       }
     },
@@ -6081,6 +6385,10 @@ INSTITUTIONS = {
         "2020": {
           "Team": 3,
           "BestRank": 255
+        },
+        "2021": {
+          "Team": 1,
+          "BestRank": 400
         }
       },
       "Nacional": {
@@ -6119,6 +6427,10 @@ INSTITUTIONS = {
         "2020": {
           "Team": 7,
           "BestRank": 121
+        },
+        "2021": {
+          "Team": 3,
+          "BestRank": 304
         }
       }
     },
@@ -6225,6 +6537,10 @@ INSTITUTIONS = {
         "2020": {
           "Team": 2,
           "BestRank": 103
+        },
+        "2021": {
+          "Team": 3,
+          "BestRank": 76
         }
       }
     },
@@ -6249,6 +6565,10 @@ INSTITUTIONS = {
         "2020": {
           "Team": 5,
           "BestRank": 61
+        },
+        "2021": {
+          "Team": 4,
+          "BestRank": 69
         }
       },
       "Nacional": {
@@ -6279,6 +6599,14 @@ INSTITUTIONS = {
         "2017": {
           "Team": 1,
           "BestRank": 233
+        }
+      }
+    },
+    "Instituto de Matemática Pura e Aplicada": {
+      "1aFase": {
+        "2021": {
+          "Team": 1,
+          "BestRank": 1
         }
       }
     }
@@ -6347,6 +6675,10 @@ INSTITUTIONS = {
         "2020": {
           "Team": 2,
           "BestRank": 310
+        },
+        "2021": {
+          "Team": 2,
+          "BestRank": 205
         }
       }
     },
@@ -6433,6 +6765,10 @@ INSTITUTIONS = {
         "2020": {
           "Team": 8,
           "BestRank": 38
+        },
+        "2021": {
+          "Team": 8,
+          "BestRank": 20
         }
       }
     },
@@ -6589,6 +6925,10 @@ INSTITUTIONS = {
         "2020": {
           "Team": 8,
           "BestRank": 1
+        },
+        "2021": {
+          "Team": 9,
+          "BestRank": 9
         }
       }
     },
@@ -6635,6 +6975,10 @@ INSTITUTIONS = {
         "2020": {
           "Team": 2,
           "BestRank": 492
+        },
+        "2021": {
+          "Team": 2,
+          "BestRank": 400
         }
       }
     },
@@ -6721,6 +7065,10 @@ INSTITUTIONS = {
         "2020": {
           "Team": 16,
           "BestRank": 2
+        },
+        "2021": {
+          "Team": 13,
+          "BestRank": 6
         }
       }
     },
@@ -6847,6 +7195,10 @@ INSTITUTIONS = {
         "2020": {
           "Team": 2,
           "BestRank": 99
+        },
+        "2021": {
+          "Team": 1,
+          "BestRank": 96
         }
       }
     },
@@ -6929,6 +7281,10 @@ INSTITUTIONS = {
         "2020": {
           "Team": 5,
           "BestRank": 130
+        },
+        "2021": {
+          "Team": 7,
+          "BestRank": 149
         }
       }
     },
@@ -6987,6 +7343,10 @@ INSTITUTIONS = {
         "2020": {
           "Team": 4,
           "BestRank": 60
+        },
+        "2021": {
+          "Team": 3,
+          "BestRank": 80
         }
       }
     },
@@ -7203,6 +7563,10 @@ INSTITUTIONS = {
         "2020": {
           "Team": 1,
           "BestRank": 237
+        },
+        "2021": {
+          "Team": 2,
+          "BestRank": 191
         }
       }
     },
@@ -7493,6 +7857,10 @@ INSTITUTIONS = {
         "2020": {
           "Team": 1,
           "BestRank": 522
+        },
+        "2021": {
+          "Team": 1,
+          "BestRank": 400
         }
       },
       "Nacional": {
@@ -7781,6 +8149,10 @@ INSTITUTIONS = {
         "2020": {
           "Team": 9,
           "BestRank": 388
+        },
+        "2021": {
+          "Team": 9,
+          "BestRank": 294
         }
       }
     },
@@ -7817,6 +8189,10 @@ INSTITUTIONS = {
         "2020": {
           "Team": 3,
           "BestRank": 59
+        },
+        "2021": {
+          "Team": 3,
+          "BestRank": 57
         }
       },
       "Nacional": {
@@ -7879,6 +8255,10 @@ INSTITUTIONS = {
         "2020": {
           "Team": 3,
           "BestRank": 423
+        },
+        "2021": {
+          "Team": 1,
+          "BestRank": 249
         }
       },
       "Nacional": {
@@ -7991,6 +8371,10 @@ INSTITUTIONS = {
         "2020": {
           "Team": 9,
           "BestRank": 7
+        },
+        "2021": {
+          "Team": 13,
+          "BestRank": 3
         }
       },
       "Nacional": {
@@ -8201,6 +8585,10 @@ INSTITUTIONS = {
         "2020": {
           "Team": 3,
           "BestRank": 195
+        },
+        "2021": {
+          "Team": 4,
+          "BestRank": 158
         }
       }
     },
@@ -8237,6 +8625,10 @@ INSTITUTIONS = {
         "2020": {
           "Team": 3,
           "BestRank": 274
+        },
+        "2021": {
+          "Team": 4,
+          "BestRank": 258
         }
       },
       "Nacional": {
@@ -8335,6 +8727,10 @@ INSTITUTIONS = {
         "2020": {
           "Team": 4,
           "BestRank": 383
+        },
+        "2021": {
+          "Team": 4,
+          "BestRank": 365
         }
       }
     },
@@ -8509,6 +8905,10 @@ INSTITUTIONS = {
         "2020": {
           "Team": 6,
           "BestRank": 498
+        },
+        "2021": {
+          "Team": 2,
+          "BestRank": 373
         }
       }
     },
@@ -8665,6 +9065,10 @@ INSTITUTIONS = {
         "2020": {
           "Team": 2,
           "BestRank": 428
+        },
+        "2021": {
+          "Team": 1,
+          "BestRank": 400
         }
       }
     },
@@ -8771,6 +9175,10 @@ INSTITUTIONS = {
         "2020": {
           "Team": 3,
           "BestRank": 207
+        },
+        "2021": {
+          "Team": 1,
+          "BestRank": 199
         }
       }
     },
@@ -8779,6 +9187,10 @@ INSTITUTIONS = {
         "2020": {
           "Team": 1,
           "BestRank": 357
+        },
+        "2021": {
+          "Team": 1,
+          "BestRank": 93
         }
       }
     },
@@ -8801,6 +9213,30 @@ INSTITUTIONS = {
         "2020": {
           "Team": 1,
           "BestRank": 57
+        }
+      }
+    },
+    "Faculdade de Filosofia, Ciências e Letras de Ribeirão Preto (Universidade de São Paulo)": {
+      "1aFase": {
+        "2021": {
+          "Team": 4,
+          "BestRank": 129
+        }
+      }
+    },
+    "IFSP - Salto": {
+      "1aFase": {
+        "2021": {
+          "Team": 3,
+          "BestRank": 292
+        }
+      }
+    },
+    "Instituição Toledo de Ensino": {
+      "1aFase": {
+        "2021": {
+          "Team": 1,
+          "BestRank": 400
         }
       }
     }
@@ -8877,6 +9313,10 @@ INSTITUTIONS = {
         "2020": {
           "Team": 4,
           "BestRank": 33
+        },
+        "2021": {
+          "Team": 2,
+          "BestRank": 62
         }
       }
     },
@@ -9057,6 +9497,10 @@ INSTITUTIONS = {
         "2020": {
           "Team": 3,
           "BestRank": 291
+        },
+        "2021": {
+          "Team": 6,
+          "BestRank": 126
         }
       },
       "Nacional": {
@@ -9143,6 +9587,10 @@ INSTITUTIONS = {
         "2020": {
           "Team": 4,
           "BestRank": 249
+        },
+        "2021": {
+          "Team": 5,
+          "BestRank": 282
         }
       }
     },
@@ -9257,6 +9705,10 @@ INSTITUTIONS = {
         "2020": {
           "Team": 3,
           "BestRank": 160
+        },
+        "2021": {
+          "Team": 3,
+          "BestRank": 151
         }
       },
       "Nacional": {
@@ -9389,6 +9841,10 @@ INSTITUTIONS = {
         "2020": {
           "Team": 2,
           "BestRank": 114
+        },
+        "2021": {
+          "Team": 6,
+          "BestRank": 89
         }
       }
     },
@@ -9409,6 +9865,10 @@ INSTITUTIONS = {
         "2020": {
           "Team": 2,
           "BestRank": 93
+        },
+        "2021": {
+          "Team": 6,
+          "BestRank": 58
         }
       },
       "Nacional": {
@@ -9431,6 +9891,10 @@ INSTITUTIONS = {
         "2020": {
           "Team": 1,
           "BestRank": 157
+        },
+        "2021": {
+          "Team": 1,
+          "BestRank": 132
         }
       }
     }
@@ -9475,6 +9939,10 @@ INSTITUTIONS = {
         "2020": {
           "Team": 4,
           "BestRank": 145
+        },
+        "2021": {
+          "Team": 4,
+          "BestRank": 147
         }
       }
     },
@@ -9561,6 +10029,10 @@ INSTITUTIONS = {
         "2020": {
           "Team": 8,
           "BestRank": 86
+        },
+        "2021": {
+          "Team": 5,
+          "BestRank": 54
         }
       }
     },
@@ -9627,6 +10099,10 @@ INSTITUTIONS = {
         "2020": {
           "Team": 2,
           "BestRank": 171
+        },
+        "2021": {
+          "Team": 4,
+          "BestRank": 119
         }
       }
     },
@@ -10369,6 +10845,10 @@ INSTITUTIONS = {
         "2020": {
           "Team": 13,
           "BestRank": 31
+        },
+        "2021": {
+          "Team": 8,
+          "BestRank": 36
         }
       }
     },
@@ -10425,6 +10905,10 @@ INSTITUTIONS = {
         "2020": {
           "Team": 5,
           "BestRank": 183
+        },
+        "2021": {
+          "Team": 3,
+          "BestRank": 244
         }
       },
       "Nacional": {
@@ -10463,6 +10947,10 @@ INSTITUTIONS = {
         "2020": {
           "Team": 7,
           "BestRank": 284
+        },
+        "2021": {
+          "Team": 4,
+          "BestRank": 359
         }
       }
     },
@@ -10495,6 +10983,10 @@ INSTITUTIONS = {
         "2020": {
           "Team": 5,
           "BestRank": 204
+        },
+        "2021": {
+          "Team": 2,
+          "BestRank": 144
         }
       },
       "Nacional": {
@@ -10683,6 +11175,10 @@ INSTITUTIONS = {
         "2020": {
           "Team": 4,
           "BestRank": 113
+        },
+        "2021": {
+          "Team": 6,
+          "BestRank": 66
         }
       },
       "Nacional": {
@@ -10737,6 +11233,10 @@ INSTITUTIONS = {
         "2020": {
           "Team": 2,
           "BestRank": 353
+        },
+        "2021": {
+          "Team": 2,
+          "BestRank": 253
         }
       }
     },
@@ -10745,6 +11245,10 @@ INSTITUTIONS = {
         "2020": {
           "Team": 1,
           "BestRank": 380
+        },
+        "2021": {
+          "Team": 2,
+          "BestRank": 318
         }
       }
     }
@@ -10825,6 +11329,10 @@ INSTITUTIONS = {
         "2020": {
           "Team": 8,
           "BestRank": 63
+        },
+        "2021": {
+          "Team": 7,
+          "BestRank": 11
         }
       }
     },
@@ -10907,6 +11415,10 @@ INSTITUTIONS = {
         "2020": {
           "Team": 2,
           "BestRank": 317
+        },
+        "2021": {
+          "Team": 5,
+          "BestRank": 218
         }
       }
     },
@@ -11167,6 +11679,10 @@ INSTITUTIONS = {
         "2020": {
           "Team": 4,
           "BestRank": 178
+        },
+        "2021": {
+          "Team": 2,
+          "BestRank": 142
         }
       }
     },
@@ -11207,6 +11723,10 @@ INSTITUTIONS = {
         "2020": {
           "Team": 2,
           "BestRank": 337
+        },
+        "2021": {
+          "Team": 2,
+          "BestRank": 227
         }
       }
     },
@@ -11261,6 +11781,10 @@ INSTITUTIONS = {
         "2020": {
           "Team": 7,
           "BestRank": 241
+        },
+        "2021": {
+          "Team": 3,
+          "BestRank": 134
         }
       },
       "Nacional": {
@@ -11351,6 +11875,10 @@ INSTITUTIONS = {
         "2020": {
           "Team": 1,
           "BestRank": 71
+        },
+        "2021": {
+          "Team": 5,
+          "BestRank": 103
         }
       },
       "Nacional": {
@@ -11377,6 +11905,10 @@ INSTITUTIONS = {
         "2020": {
           "Team": 8,
           "BestRank": 35
+        },
+        "2021": {
+          "Team": 7,
+          "BestRank": 25
         }
       },
       "Nacional": {
@@ -11395,6 +11927,14 @@ INSTITUTIONS = {
         "2020": {
           "Team": 1,
           "BestRank": 28
+        }
+      }
+    },
+    "Instituto Federal de Alagoas - campus Arapiraca": {
+      "1aFase": {
+        "2021": {
+          "Team": 1,
+          "BestRank": 285
         }
       }
     }
@@ -11427,6 +11967,24 @@ INSTITUTIONS = {
         "2020": {
           "Team": 1,
           "BestRank": 63
+        }
+      }
+    }
+  },
+  "BR": {
+    "Faculdade Descomplica": {
+      "1aFase": {
+        "2021": {
+          "Team": 8,
+          "BestRank": 395
+        }
+      }
+    },
+    "Fundação Getúlio Vargas": {
+      "1aFase": {
+        "2021": {
+          "Team": 1,
+          "BestRank": 141
         }
       }
     }
