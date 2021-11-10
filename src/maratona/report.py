@@ -85,7 +85,7 @@ def _capitalize(string):
     return ' '.join(word.capitalize() for word in string.split())
 
 
-def _check_data(df, is_1s_phase):
+def _check_data(df, is_1st_phase):
     problems = []
 
     short_df = df[df[SHORT].isna()][['instName']]
@@ -97,7 +97,7 @@ def _check_data(df, is_1s_phase):
                   f'instituições no arquivo "{INSTITUTIONS_CSV}".'
         problems.append((problem, sorted(missing_short)))
 
-    if is_1s_phase:
+    if is_1st_phase:
         uf_df = df[df['UF'] == NATIONAL_UF]
         missing_UF = [f'{_guess_institution_UF(g[1])},{g[0]},{g[1]}'
                       for g, _ in uf_df.groupby(by=[SHORT, 'instName'])]
@@ -157,20 +157,19 @@ def _guess_institution_region(institution):
     return UF_REGION[uf]
 
 
-def _guess_institution_UF(institution, site):
+def _guess_institution_UF(institution, site=''):
     uf = _get_institution_UF(institution)
     if uf != NATIONAL_UF:
         return uf
 
     for state, uf in STATE_UF.items():
         if (re.search(f'\\b{state}\\b', institution, re.IGNORECASE) or
-            re.search(f'\\b{_normalize(state, False)}\\b',
-                      _normalize(institution, False), re.IGNORECASE) or
-            re.search(f'\\b{uf}\\b', institution, re.IGNORECASE) or
-            re.search(f'\\buf{uf[0]}[{uf[1]}]{{0,1}}\\b',
-                      institution, re.IGNORECASE) or
-            re.search(f'\\b{uf}\\b', site, re.IGNORECASE)):
-
+                re.search(f'\\b{_normalize(state, False)}\\b',
+                          _normalize(institution, False), re.IGNORECASE) or
+                re.search(f'\\b{uf}\\b', institution, re.IGNORECASE) or
+                re.search(f'\\buf{uf[0]}[{uf[1]}]{{0,1}}\\b',
+                          institution, re.IGNORECASE) or
+                re.search(f'\\b{uf}\\b', site, re.IGNORECASE)):
             return uf
 
     return NATIONAL_UF
