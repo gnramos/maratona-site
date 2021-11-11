@@ -89,8 +89,7 @@ def _check_data(df, is_1st_phase):
     problems = []
 
     short_df = df[df[SHORT].isna()][['instName']]
-    missing_short = [group[0]
-                     for group in short_df.groupby('instName')]
+    missing_short = [g[0] for g in short_df.groupby('instName')]
 
     if missing_short:
         problem = 'Inclua o "short name" seguintes ' \
@@ -103,9 +102,9 @@ def _check_data(df, is_1st_phase):
                       for g, _ in uf_df.groupby(by=[SHORT, 'instName'])]
 
         if missing_UF:
-            problem = 'É preciso incluir as seguintes instituições no arquivo ' \
-                      f'"{INSTITUTIONS_CSV}". A UF é apenas uma sugestão, ' \
-                      'confirme a informação manualmente.'
+            problem = 'É preciso incluir as seguintes instituições no ' \
+                      f'arquivo "{INSTITUTIONS_CSV}". A UF é apenas uma ' \
+                      'sugestão, confirme a informação manualmente.'
             problems.append((problem, sorted(missing_UF)))
 
     # Ajustando a UF, a região é automaticamente corrigida (_preprocess).
@@ -338,8 +337,8 @@ with open(ALIASES_CSV) as file:
 with open(INSTITUTIONS_CSV) as file:
     next(file)  # Remove header.
     for line in file:
-        info = line.rstrip().split(',', 2)  # (uf, short, name)
-        INSTITUTIONS[_normalize(info[2])] = info
+        uf, short_name, institution = line.rstrip().split(',', 2)
+        INSTITUTIONS[_normalize(institution)] = (uf, short_name, institution)
 
-        if info[1]:
-            INSTITUTIONS[_normalize(info[1])] = info
+        if short_name:
+            INSTITUTIONS[_normalize(short_name)] = (uf, short_name, institution)
