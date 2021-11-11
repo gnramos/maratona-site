@@ -104,7 +104,7 @@ function institutionChanged() {
     if (info[phase]) {
       participantStat.innerHTML += `<br>${phase}<ul>`;
       for (let year of Object.keys(info[phase]).sort()) {
-        participantStat.innerHTML += `<li>${year} ${info[phase][year]["Team"]} time(s) (Melhor Rank: ${showRank(info[phase][year]["BestRank"])}${rankImg(phase, heightPx, info[phase][year]["BestRank"])})</li>`;
+        participantStat.innerHTML += `<li>${year} ${info[phase][year]["Teams"]} time(s) (Melhor Rank: ${showRank(info[phase][year]["BestRank"])}${rankImg(phase, heightPx, info[phase][year]["BestRank"])})</li>`;
       }
       participantStat.innerHTML += `</ul>`;
     }
