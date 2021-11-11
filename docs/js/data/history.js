@@ -371,12 +371,6 @@ HISTORY = {
             "2017": 708.0
           }
         },
-        "lmieilmahmetokcmlloao": {
-          "FullName": "Mikael Mello",
-          "1aFase": {
-            "2016": 197.0
-          }
-        },
         "tosclohacmfmaomri": {
           "FullName": "Marcos Farias",
           "1aFase": {
@@ -431,12 +425,6 @@ HISTORY = {
             "2020": 23.0
           }
         },
-        "lanmimunkrblulaoeebol": {
-          "FullName": "Mikael Mello",
-          "1aFase": {
-            "2017": 708.0
-          }
-        },
         "cgdruald0u1mimlo": {
           "FullName": "Eduardo Rocha",
           "1aFase": {
@@ -483,6 +471,8 @@ HISTORY = {
         "mcoipkieaolclmelcm": {
           "FullName": "Mikael Mello",
           "1aFase": {
+            "2016": 197.0,
+            "2017": 708.0,
             "2018": 74.0,
             "2019": 46.0,
             "2020": 25.0
