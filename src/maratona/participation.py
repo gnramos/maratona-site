@@ -2,27 +2,31 @@
 participation and writes it to JS files.
 """
 
-# Constants
-GROUPS = ['Year', 'Phase', 'Region', 'UF']
+import os
+from json import dumps, loads
 
 
-def _add_contestants(df, info):
-    df = df.sort_values(by=GROUPS + ['username'])
+def to_file(df):
+    JS_FILE = '../docs/js/data/history.js'
+    GROUPS = ['Year', 'Phase', 'Region', 'UF']
 
-    for group, group_df in df.groupby(GROUPS + ['siteName', 'username']):
-        year, phase, username = group[0], group[1], group[-1]
-        for _, row in group_df.iterrows():
-            if username not in info:
-                info[username] = {'FullName': row['FullName']}
-            if phase not in info[username]:
-                info[username][phase] = {}
+    df = df[(df['role'] == 'CONTESTANT') & (df['teamRank'] > 0)]
 
-            info[username][phase][year] = row['teamRank']
+    # Load file info.
+    if os.path.isfile(JS_FILE):
+        with open(JS_FILE, 'r') as file:
+            content = file.read()
 
+        if not (content and content.startswith('HISTORY = {')):
+            raise ValueError(f'file {JS_FILE} not properly formatted')
 
-def _add_institutions(df, info):
+        _, json = content.split(' = ', 1)
+        info = loads(json[:-1])  # -1 to remove trailing ';'
+    else:
+        info = {}
+
+    # Add df content to info.
     df = df.sort_values(by=GROUPS + ['instName', 'teamRank'])
-
     for group, group_df in df.groupby(GROUPS + ['instName']):
         year, phase, uf, inst = group[0], group[1], group[-2], group[-1]
 
@@ -37,33 +41,16 @@ def _add_institutions(df, info):
             'Teams': group_df['teamName'].nunique(),
             'BestRank': int(group_df.iloc[0]['teamRank'])}
 
+        for _, row in group_df.iterrows():
+            if 'Contestants' not in info[uf][inst]:
+                info[uf][inst]['Contestants'] = {}
+            if row['username'] not in info[uf][inst]['Contestants']:
+                info[uf][inst]['Contestants'][row['username']] = {'FullName': row['FullName']}
+            if phase not in info[uf][inst]['Contestants'][row['username']]:
+                info[uf][inst]['Contestants'][row['username']][phase] = {}
 
-def to_file(df):
-    import os
-    from json import dumps, loads
+            info[uf][inst]['Contestants'][row['username']][phase][year] = row['teamRank']
 
-    df = df[(df['role'] == 'CONTESTANT') & (df['teamRank'] > 0)]
-
-    for name in ['contestants', 'institutions']:
-        js_file = f'../docs/js/data/{name.lower()}.js'
-
-        # Load file info.
-        if os.path.isfile(js_file):
-            with open(js_file, 'r') as file:
-                content = file.read()
-
-            if not (content and content.startswith(f'{name.upper()} = {{')):
-                raise ValueError(f'file {js_file} not properly formatted')
-
-            _, json = content.split(' = ', 1)
-            info = loads(json[:-1])  # -1 to remove trailing ';'
-        else:
-            info = {}
-
-        # Add df content to info.
-        exec(f'_add_{name}(df, info)')
-
-        # Overwrite file.
-        with open(js_file, 'w', encoding='utf-8') as file:
-            content = dumps(info, indent=2, ensure_ascii=False)
-            file.write(f'{name.upper()} = {content};')
+    # Overwrite file.
+    with open(JS_FILE, 'w', encoding='utf-8') as file:
+        file.write(f'HISTORY = {dumps(info, indent=2, ensure_ascii=False)};')

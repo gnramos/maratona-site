@@ -13,7 +13,8 @@
 
 const DEFAULT_IMG = "img/MaratonaSBC.jpg";
 
-const DEFAULT_NAME = {"contestant": "Competidor", "institution": "Instituição",
+const DEFAULT_NAME = {"contestant": "Competidor(a)",
+                      "institution": "Instituição",
                       "phase": "Fase", "region": "Região", "team": "Time",
                       "uf": "UF", "year": "Ano"};
 

@@ -15,10 +15,8 @@
   <body>
     <h1 class="site-header">Maratona de Programação SBC</h1>
     <div id="selectors">
-        <select id="ufSelector" onchange="selectorChanged('uf')" class="selector" style="max-width: 20%;">
-        </select>
+        <select id="ufSelector" onchange="selectorChanged('uf')" class="selector" style="max-width: 20%;"></select>
         <select id="institutionSelector" onchange="selectorChanged('institution')" class="selector"></select>
-        <br>
         <select id="contestantSelector" onchange="selectorChanged('contestant')" class="selector" style="max-width: 40%;"></select>
     </div>
     <div id="statistics">
@@ -39,8 +37,7 @@
     <script src="https://www.gstatic.com/charts/loader.js"></script>
     <!-- Maratona JS -->
     <!-- Incluir os arquivos com os dados -->
-    <script src="js/data/contestants.js"></script>   <!-- Dados dos competidores. -->
-    <script src="js/data/institutions.js"></script>  <!-- Dados das instituições. -->
+    <script src="js/data/history.js"></script>       <!-- Dados históricos. -->
     <script src="js/maratona.js"></script>           <!-- Funções comuns. -->
     <script src="js/participant.js"></script>        <!-- Manipula/apresenta os dados. -->
   </body>

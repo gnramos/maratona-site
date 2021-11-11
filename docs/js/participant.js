@@ -14,83 +14,67 @@
 
 const SELECTORS = ["uf", "institution", "contestant"];
 
-/******************************************************************************
- * Funções para obter conjunto de dados.                                      *
- ******************************************************************************/
-
-/**
- * Retorna as informações referentes à opção dada.
- *
- * As informações são organizadas em uma estrutura de árvore, utilizando um
- * objeto dicionário. Cada chave representa uma instância da opção solicitada,
- * e cada valor associado é um novo dicionário contendo as detalhes da instância.
- *
- * A atual implementação considera que há o objeto CONTESTS (dicionário), que
- * já deve ter sido criado, contendo as informações.
- *
- * @param {string}   selector    Define a fonte de informação desejada.
- * @param {string}   source      O dicionário contendo os dados.
- *
- * @return {object} Dicionário contendo as informações solicitadas.
- */
-function fetchDataFor(selector, source) {
-  if (selector == "contestant")
-    return source;
-
-  if (selector == "uf")
-    return source;
-
-  // Institution
-  return source[current("uf")];
-}
 
 /******************************************************************************
  * Outras funções                                                             *
  ******************************************************************************/
 
-function populateSelectors() {
-  var info = fetchDataFor("uf", INSTITUTIONS);
+// Atualização dos dados.
+function selectorChanged(selector) {
+  statistics.style.display = "none";
+  participantStat.innerHTML = "";
+  participantImg.style.display = "none";
+  window[`${selector}Changed`]();
+}
 
+function populateSelectors() {
   ufSelector.options.add(new Option(DEFAULT_NAME["uf"]));
+  var info = HISTORY;
   for (let text of Object.keys(info).sort(caseInsensitive))
     ufSelector.options.add(new Option(text));
 
   institutionSelector.options.add(new Option(DEFAULT_NAME["institution"]));
 
-  info = fetchDataFor("contestant", CONTESTANTS);
   contestantSelector.options.add(new Option(DEFAULT_NAME["contestant"]));
-
-  var items = Object.keys(info).map(function(key) { return [key, CONTESTANTS[key]['FullName']]; });
-  items.sort(function(a, b) { return caseInsensitive(a[1], b[1]); });
-
-  for (let item of items)
-    contestantSelector.options.add(new Option(item[1], item[0]));
-}
-
-// Atualização dos dados.
-function selectorChanged(selector) {
-  if (isDefault(selector))
-    statistics.style.display = "none";
-  else {
-    statistics.style.display = "inline";
-    statHeader.innerHTML = current(selector);
-    window[`${selector}Changed`]();
-  }
 }
 
 function ufChanged() {
   removeSelectorOptions(institutionSelector);
-  contestantSelector.options[0].selected = 'selected';
+  removeSelectorOptions(contestantSelector);
 
-  var info = fetchDataFor("instititution", INSTITUTIONS);
-  for (let text of Object.keys(info).sort(caseInsensitive))
-    institutionSelector.options.add(new Option(text));
-
-  statistics.style.display = "none";
+  if (!isDefault("uf")) {
+    var info = HISTORY[current("uf")];
+    for (let text of Object.keys(info).sort(caseInsensitive))
+      institutionSelector.options.add(new Option(text));
+  }
 }
 
 function institutionChanged() {
-  contestantSelector.options[0].selected = 'selected';
+  removeSelectorOptions(contestantSelector);
+
+  if (!isDefault("institution")) {
+    var info = HISTORY[current("uf")][current("institution")]['Contestants'];
+    var items = Object.keys(info).map(function(key) { return [key, info[key]['FullName']]; });
+    items.sort(function(a, b) { return caseInsensitive(a[1], b[1]); });
+    for (let item of items)
+      contestantSelector.options.add(new Option(item[1], item[0]));
+
+    showInstitution();
+  }
+}
+
+function contestantChanged() {
+  if (isDefault("contestant"))
+    showInstitution();
+  else
+    showContestant();
+}
+
+function showInstitution() {
+  statistics.style.display = "inline";
+  statHeader.innerHTML = current('institution');
+
+  statHeader.innerHTML = current("institution");
 
   participantImg.src = institutionImgSrc();
   participantImg.style.display = "inline";
@@ -99,7 +83,7 @@ function institutionChanged() {
 
   var heightPx = participantStat.clientHeight - 2;
 
-  var info = fetchDataFor("institution", INSTITUTIONS)[current("institution")];
+  var info = HISTORY[current("uf")][current("institution")];
   for (let phase of PHASES) {
     if (info[phase]) {
       participantStat.innerHTML += `<br>${phase}<ul>`;
@@ -113,15 +97,14 @@ function institutionChanged() {
   drawCurveTypes(info, false);
 }
 
-function contestantChanged() {
-  ufSelector.options[0].selected = 'selected';
-  removeSelectorOptions(institutionSelector);
+function showContestant() {
+  statistics.style.display = "inline";
+  statHeader.innerHTML = current('contestant');
 
-  // participantImg.src = `img/contestant/${info["Username"]}`;
-  // participantImg.style.display = "inline";
-  var info = fetchDataFor("contestant", CONTESTANTS)[current("contestant")];
-
+  var info = HISTORY[current("uf")][current("institution")]['Contestants'][current("contestant")];
   statHeader.innerHTML = info["FullName"];
+
+  participantImg.src = `img/contestant/${current("contestant")}`;
   participantStat.innerHTML = `Participações:`;
 
   var heightPx = participantStat.clientHeight - 2;
@@ -138,11 +121,9 @@ function contestantChanged() {
   drawCurveTypes(info, true);
 }
 
-
 function toolTip(phase, rank) {
   return `<div style="padding:5px 5px 5px 5px; min-width:75px;"><strong>Rank:</strong> ${rank} ${rankImg(phase, 12, rank)}</div>`;
 }
-
 
 function drawCurveTypes(info, isContestant) {
   var data = new google.visualization.DataTable();
@@ -176,7 +157,7 @@ function drawCurveTypes(info, isContestant) {
   }
 
   var options = {hAxis: {title: 'Ano'},
-                 vAxis: {title: 'Rank'},
+                 vAxis: {title: 'Rank', baseline: 1},
                  legend: {position: 'top'},
                  tooltip: {isHtml: true}};
 
@@ -188,7 +169,7 @@ function drawCurveTypes(info, isContestant) {
  * SETUP                                                                      *
  ******************************************************************************/
 
-if (typeof CONTESTANTS === "undefined" || typeof INSTITUTIONS === "undefined") {
+if (typeof HISTORY === "undefined") {
   document.write("Erro...<br><br>Não há dados carregados!");
 } else {
   google.charts.load('current', {packages: ['corechart', 'line']});
