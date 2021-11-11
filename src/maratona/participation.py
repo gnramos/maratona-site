@@ -1,64 +1,69 @@
-import os
+"""Processes DataFrame to extract information on institution/student
+participation and writes it to JS files.
+"""
 
 # Constants
 GROUPS = ['Year', 'Phase', 'Region', 'UF']
 
 
-def dict_to_json(info):
-    from json import dumps
-    return dumps(info, indent=2, ensure_ascii=False)
-
-
-def _write_to_file(name, info, overwrite):
-    participation_js = f'../docs/js/data/{name.lower()}.js'
-
-    if os.path.isfile(participation_js) and not overwrite:
-        print(f'Não sobrescrever o arquivo "{participation_js}" '
-              '(veja a opção "-o").')
-    else:
-        with open(participation_js, 'w', encoding='utf-8') as file:
-            file.write(f'{name.upper()} = {dict_to_json(info)};')
-
-
-def _write_contestant_file(df, overwrite):
+def _add_contestants(df, info):
     df = df.sort_values(by=GROUPS + ['username'])
 
-    contestants = {}
     for group, group_df in df.groupby(GROUPS + ['siteName', 'username']):
         year, phase, username = group[0], group[1], group[-1]
         for _, row in group_df.iterrows():
-            if username not in contestants:
-                contestants[username] = {'FullName': row['FullName']}
-            if phase not in contestants[username]:
-                contestants[username][phase] = {}
+            if username not in info:
+                info[username] = {'FullName': row['FullName']}
+            if phase not in info[username]:
+                info[username][phase] = {}
 
-            contestants[username][phase][year] = row['teamRank']
-
-    _write_to_file('contestants', contestants, overwrite)
+            info[username][phase][year] = row['teamRank']
 
 
-def _write_institution_file(df, overwrite):
+def _add_institutions(df, info):
     df = df.sort_values(by=GROUPS + ['instName', 'teamRank'])
 
-    institutions = {}
     for group, group_df in df.groupby(GROUPS + ['instName']):
         year, phase, uf, inst = group[0], group[1], group[-2], group[-1]
 
-        if uf not in institutions:
-            institutions[uf] = {}
-        if inst not in institutions[uf]:
-            institutions[uf][inst] = {}
-        if phase not in institutions[uf][inst]:
-            institutions[uf][inst][phase] = {}
+        if uf not in info:
+            info[uf] = {}
+        if inst not in info[uf]:
+            info[uf][inst] = {}
+        if phase not in info[uf][inst]:
+            info[uf][inst][phase] = {}
 
-        institutions[uf][inst][phase][year] = {
-            'Team': group_df['teamName'].nunique(),
+        info[uf][inst][phase][year] = {
+            'Teams': group_df['teamName'].nunique(),
             'BestRank': int(group_df.iloc[0]['teamRank'])}
 
-    _write_to_file('institutions', institutions, overwrite)
 
+def to_file(df):
+    import os
+    from json import dumps, loads
 
-def to_file(df, overwrite=False):
     df = df[(df['role'] == 'CONTESTANT') & (df['teamRank'] > 0)]
-    _write_contestant_file(df, overwrite)
-    _write_institution_file(df, overwrite)
+
+    for name in ['contestants', 'institutions']:
+        js_file = f'../docs/js/data/{name.lower()}.js'
+
+        # Load file info.
+        if os.path.isfile(js_file):
+            with open(js_file, 'r') as file:
+                content = file.read()
+
+            if not (content and content.startswith(f'{name.upper()} = {{')):
+                raise ValueError(f'file {js_file} not properly formatted')
+
+            _, json = content.split(' = ', 1)
+            info = loads(json[:-1])  # -1 to remove trailing ';'
+        else:
+            info = {}
+
+        # Add df content to info.
+        exec(f'_add_{name}(df, info)')
+
+        # Overwrite file.
+        with open(js_file, 'w', encoding='utf-8') as file:
+            content = dumps(info, indent=2, ensure_ascii=False)
+            file.write(f'{name.upper()} = {content};')
