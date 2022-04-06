@@ -514,7 +514,8 @@ HISTORY = {
             "2021": 24.0
           },
           "Nacional": {
-            "2020": 23.0
+            "2020": 23.0,
+            "2021": 13.0
           }
         },
         "g0siti02tlfmco0aamog": {
@@ -523,6 +524,9 @@ HISTORY = {
             "2019": 56.0,
             "2020": 52.0,
             "2021": 24.0
+          },
+          "Nacional": {
+            "2021": 13.0
           }
         },
         "ctomdlormttonaoblhetiea": {
@@ -531,6 +535,9 @@ HISTORY = {
             "2019": 56.0,
             "2020": 52.0,
             "2021": 24.0
+          },
+          "Nacional": {
+            "2021": 13.0
           }
         },
         "gomimoltiverosoeaiearcmrnmec": {
@@ -1017,6 +1024,10 @@ HISTORY = {
         "2020": {
           "Teams": 1,
           "BestRank": 23
+        },
+        "2021": {
+          "Teams": 1,
+          "BestRank": 13
         }
       }
     },
@@ -1361,7 +1372,8 @@ HISTORY = {
           },
           "Nacional": {
             "2019": 23.0,
-            "2020": 26.0
+            "2020": 26.0,
+            "2021": 27.0
           }
         },
         "smuggloscomvgmruamlqetaai": {
@@ -1373,7 +1385,8 @@ HISTORY = {
           },
           "Nacional": {
             "2019": 23.0,
-            "2020": 26.0
+            "2020": 26.0,
+            "2021": 27.0
           }
         },
         "iemoomtnmagrtlobtcrbaiw": {
@@ -1384,7 +1397,8 @@ HISTORY = {
             "2021": 56.0
           },
           "Nacional": {
-            "2019": 23.0
+            "2019": 23.0,
+            "2021": 27.0
           }
         },
         "31na0bu7809n0rolu3b": {
@@ -1586,6 +1600,10 @@ HISTORY = {
         "2020": {
           "Teams": 1,
           "BestRank": 26
+        },
+        "2021": {
+          "Teams": 1,
+          "BestRank": 27
         }
       }
     },
@@ -2735,7 +2753,8 @@ HISTORY = {
           },
           "Nacional": {
             "2019": 13.0,
-            "2020": 10.0
+            "2020": 10.0,
+            "2021": 18.0
           }
         },
         "aeniaraobufilhg3mrmc": {
@@ -2775,6 +2794,9 @@ HISTORY = {
             "2019": 255.0,
             "2020": 70.0,
             "2021": 49.0
+          },
+          "Nacional": {
+            "2021": 18.0
           }
         },
         "mmlamiogahmsclatiloa": {
@@ -2844,6 +2866,9 @@ HISTORY = {
             "2019": 360.0,
             "2020": 70.0,
             "2021": 49.0
+          },
+          "Nacional": {
+            "2021": 18.0
           }
         },
         "0aomslhecomiabriol0gdmlt": {
@@ -3066,6 +3091,10 @@ HISTORY = {
         "2020": {
           "Teams": 1,
           "BestRank": 10
+        },
+        "2021": {
+          "Teams": 1,
+          "BestRank": 18
         }
       }
     },
@@ -4605,6 +4634,9 @@ HISTORY = {
             "2019": 327.0,
             "2020": 68.0,
             "2021": 41.0
+          },
+          "Nacional": {
+            "2021": 29.0
           }
         },
         "amilhamkftoosihco": {
@@ -4658,6 +4690,9 @@ HISTORY = {
             "2019": 92.0,
             "2020": 68.0,
             "2021": 41.0
+          },
+          "Nacional": {
+            "2021": 29.0
           }
         },
         "kgma8occwd1lmiiar": {
@@ -4718,6 +4753,9 @@ HISTORY = {
           "1aFase": {
             "2020": 248.0,
             "2021": 41.0
+          },
+          "Nacional": {
+            "2021": 29.0
           }
         },
         "a1mamiroeoojrugaclsopmla": {
@@ -4912,6 +4950,10 @@ HISTORY = {
         "2020": {
           "Teams": 1,
           "BestRank": 34
+        },
+        "2021": {
+          "Teams": 1,
+          "BestRank": 29
         }
       }
     },
@@ -5505,7 +5547,8 @@ HISTORY = {
           },
           "Nacional": {
             "2019": 37.0,
-            "2020": 31.0
+            "2020": 31.0,
+            "2021": 17.0
           }
         },
         "tmcsghcyaiommlueav": {
@@ -5514,6 +5557,9 @@ HISTORY = {
             "2019": 215.0,
             "2020": 85.0,
             "2021": 52.0
+          },
+          "Nacional": {
+            "2021": 17.0
           }
         },
         "egacloznonmamabgi": {
@@ -5522,6 +5568,9 @@ HISTORY = {
             "2019": 215.0,
             "2020": 85.0,
             "2021": 52.0
+          },
+          "Nacional": {
+            "2021": 17.0
           }
         },
         "bgorureiacfascmlhrb": {
@@ -5676,6 +5725,10 @@ HISTORY = {
         "2020": {
           "Teams": 1,
           "BestRank": 31
+        },
+        "2021": {
+          "Teams": 1,
+          "BestRank": 17
         }
       }
     },
@@ -7747,6 +7800,9 @@ HISTORY = {
           "1aFase": {
             "2020": 299.0,
             "2021": 134.0
+          },
+          "Nacional": {
+            "2021": 54.0
           }
         },
         "lcsmlgshoamdacuomtoir": {
@@ -7754,6 +7810,9 @@ HISTORY = {
           "1aFase": {
             "2020": 322.0,
             "2021": 134.0
+          },
+          "Nacional": {
+            "2021": 54.0
           }
         },
         "lcuivigadoksmteoav": {
@@ -7840,6 +7899,9 @@ HISTORY = {
           "FullName": "Matheus Neves",
           "1aFase": {
             "2021": 134.0
+          },
+          "Nacional": {
+            "2021": 54.0
           }
         },
         "iloh5n20nctoimdolaa1smw": {
@@ -7871,6 +7933,10 @@ HISTORY = {
         "2020": {
           "Teams": 1,
           "BestRank": 56
+        },
+        "2021": {
+          "Teams": 1,
+          "BestRank": 54
         }
       }
     },
@@ -8525,7 +8591,8 @@ HISTORY = {
           },
           "Nacional": {
             "2019": 26.0,
-            "2020": 28.0
+            "2020": 28.0,
+            "2021": 32.0
           }
         },
         "cijrvubalaaaf": {
@@ -8535,7 +8602,8 @@ HISTORY = {
             "2021": 25.0
           },
           "Nacional": {
-            "2020": 28.0
+            "2020": 28.0,
+            "2021": 32.0
           }
         },
         "iabnngcurfl": {
@@ -8547,7 +8615,8 @@ HISTORY = {
           "Nacional": {
             "2017": 45.0,
             "2019": 26.0,
-            "2020": 28.0
+            "2020": 28.0,
+            "2021": 32.0
           }
         },
         "rluacdibfjfo": {
@@ -8783,6 +8852,10 @@ HISTORY = {
         "2020": {
           "Teams": 1,
           "BestRank": 28
+        },
+        "2021": {
+          "Teams": 1,
+          "BestRank": 32
         }
       }
     },
@@ -9729,6 +9802,9 @@ HISTORY = {
             "2019": 410.0,
             "2020": 141.0,
             "2021": 95.0
+          },
+          "Nacional": {
+            "2021": 52.0
           }
         },
         "dlsmcscglauslioam": {
@@ -9757,6 +9833,9 @@ HISTORY = {
             "2019": 458.0,
             "2020": 229.0,
             "2021": 95.0
+          },
+          "Nacional": {
+            "2021": 52.0
           }
         },
         "elaacaeovamcdnmatniillilcg": {
@@ -9764,6 +9843,9 @@ HISTORY = {
           "1aFase": {
             "2020": 141.0,
             "2021": 95.0
+          },
+          "Nacional": {
+            "2021": 52.0
           }
         },
         "oeonoias9n9j9nrltgslacmmi1s": {
@@ -9771,6 +9853,12 @@ HISTORY = {
           "1aFase": {
             "2020": 141.0
           }
+        }
+      },
+      "Nacional": {
+        "2021": {
+          "Teams": 1,
+          "BestRank": 52
         }
       }
     },
@@ -11398,7 +11486,8 @@ HISTORY = {
           },
           "Nacional": {
             "2019": 27.0,
-            "2020": 3.0
+            "2020": 3.0,
+            "2021": 19.0
           }
         },
         "ogeohullsiddammgocacor": {
@@ -11429,6 +11518,9 @@ HISTORY = {
             "2019": 223.0,
             "2020": 29.0,
             "2021": 8.0
+          },
+          "Nacional": {
+            "2021": 19.0
           }
         },
         "animotoaielvaraivmsoceilhld": {
@@ -11442,6 +11534,9 @@ HISTORY = {
           "1aFase": {
             "2020": 29.0,
             "2021": 8.0
+          },
+          "Nacional": {
+            "2021": 19.0
           }
         },
         "lo5asgct3enlr5iamaoamfs": {
@@ -11682,6 +11777,10 @@ HISTORY = {
         "2020": {
           "Teams": 1,
           "BestRank": 3
+        },
+        "2021": {
+          "Teams": 1,
+          "BestRank": 19
         }
       }
     },
@@ -14145,7 +14244,8 @@ HISTORY = {
           },
           "Nacional": {
             "2018": 22.0,
-            "2019": 38.0
+            "2019": 38.0,
+            "2021": 43.0
           }
         },
         "am9omioge412cl39l": {
@@ -14236,7 +14336,8 @@ HISTORY = {
             "2021": 77.0
           },
           "Nacional": {
-            "2020": 55.0
+            "2020": 55.0,
+            "2021": 43.0
           }
         },
         "rdrtmloa5mceota8iadcopkhiu": {
@@ -14271,7 +14372,8 @@ HISTORY = {
             "2021": 77.0
           },
           "Nacional": {
-            "2020": 55.0
+            "2020": 55.0,
+            "2021": 43.0
           }
         },
         "alceaiaollgiimwscm": {
@@ -14510,6 +14612,10 @@ HISTORY = {
         "2020": {
           "Teams": 1,
           "BestRank": 55
+        },
+        "2021": {
+          "Teams": 1,
+          "BestRank": 43
         }
       }
     },
@@ -14866,7 +14972,8 @@ HISTORY = {
             "2021": 51.0
           },
           "Nacional": {
-            "2020": 36.0
+            "2020": 36.0,
+            "2021": 37.0
           }
         },
         "0gao0g0siuacmm2tmlel": {
@@ -14918,7 +15025,8 @@ HISTORY = {
             "2021": 51.0
           },
           "Nacional": {
-            "2020": 36.0
+            "2020": 36.0,
+            "2021": 37.0
           }
         },
         "ml0ialpa0mco1gvra": {
@@ -14928,7 +15036,8 @@ HISTORY = {
             "2021": 51.0
           },
           "Nacional": {
-            "2020": 36.0
+            "2020": 36.0,
+            "2021": 37.0
           }
         },
         "shloorueotamcthiogramacnmeim": {
@@ -15113,6 +15222,10 @@ HISTORY = {
         "2020": {
           "Teams": 1,
           "BestRank": 36
+        },
+        "2021": {
+          "Teams": 1,
+          "BestRank": 37
         }
       }
     },
@@ -15418,7 +15531,8 @@ HISTORY = {
           },
           "Nacional": {
             "2019": 7.0,
-            "2020": 12.0
+            "2020": 12.0,
+            "2021": 16.0
           }
         },
         "mimnumaoraidposllg2s1aacm": {
@@ -15432,7 +15546,8 @@ HISTORY = {
           },
           "Nacional": {
             "2019": 7.0,
-            "2020": 12.0
+            "2020": 12.0,
+            "2021": 16.0
           }
         },
         "crlegrsmeamyzeiobile2a": {
@@ -15452,7 +15567,8 @@ HISTORY = {
           },
           "Nacional": {
             "2019": 7.0,
-            "2020": 12.0
+            "2020": 12.0,
+            "2021": 16.0
           }
         },
         "mcoyiomarrctetbgle": {
@@ -15865,6 +15981,10 @@ HISTORY = {
         "2020": {
           "Teams": 1,
           "BestRank": 12
+        },
+        "2021": {
+          "Teams": 1,
+          "BestRank": 16
         }
       }
     },
@@ -19184,7 +19304,8 @@ HISTORY = {
             "2021": 14.0
           },
           "Nacional": {
-            "2020": 1.0
+            "2020": 1.0,
+            "2021": 6.0
           }
         },
         "igcheytagoiumlsagfdomc": {
@@ -19234,7 +19355,8 @@ HISTORY = {
             "2021": 14.0
           },
           "Nacional": {
-            "2020": 1.0
+            "2020": 1.0,
+            "2021": 6.0
           }
         },
         "mlidnlmsoviggeaiarfrcaa": {
@@ -19274,6 +19396,9 @@ HISTORY = {
             "2019": 33.0,
             "2020": 46.0,
             "2021": 14.0
+          },
+          "Nacional": {
+            "2021": 6.0
           }
         },
         "uuofgadrcbesldoucccnre": {
@@ -19591,6 +19716,10 @@ HISTORY = {
         "2020": {
           "Teams": 2,
           "BestRank": 1
+        },
+        "2021": {
+          "Teams": 1,
+          "BestRank": 6
         }
       }
     },
@@ -20411,7 +20540,8 @@ HISTORY = {
           "Nacional": {
             "2017": 55.0,
             "2018": 29.0,
-            "2020": 27.0
+            "2020": 27.0,
+            "2021": 28.0
           }
         },
         "zilimgjammsoca": {
@@ -20526,7 +20656,8 @@ HISTORY = {
           },
           "Nacional": {
             "2019": 41.0,
-            "2020": 27.0
+            "2020": 27.0,
+            "2021": 28.0
           }
         },
         "omtcnloheeirstaimdoaaosgn": {
@@ -20546,7 +20677,8 @@ HISTORY = {
           },
           "Nacional": {
             "2019": 41.0,
-            "2020": 27.0
+            "2020": 27.0,
+            "2021": 28.0
           }
         },
         "pseabujmioraglrmcreaol": {
@@ -20701,6 +20833,10 @@ HISTORY = {
         "2020": {
           "Teams": 1,
           "BestRank": 27
+        },
+        "2021": {
+          "Teams": 1,
+          "BestRank": 28
         }
       }
     },
@@ -21891,7 +22027,8 @@ HISTORY = {
           },
           "Nacional": {
             "2018": 9.0,
-            "2019": 3.0
+            "2019": 3.0,
+            "2021": 1.0
           }
         },
         "eirfgpcuanpb": {
@@ -21903,7 +22040,8 @@ HISTORY = {
           },
           "Nacional": {
             "2018": 9.0,
-            "2019": 3.0
+            "2019": 3.0,
+            "2021": 1.0
           }
         },
         "icsurpfc3nfbme": {
@@ -21990,7 +22128,8 @@ HISTORY = {
             "2021": 7.0
           },
           "Nacional": {
-            "2020": 11.0
+            "2020": 11.0,
+            "2021": 1.0
           }
         },
         "ijsbcnpfrucec": {
@@ -22284,6 +22423,10 @@ HISTORY = {
         "2020": {
           "Teams": 1,
           "BestRank": 11
+        },
+        "2021": {
+          "Teams": 1,
+          "BestRank": 1
         }
       }
     },
@@ -22443,6 +22586,9 @@ HISTORY = {
           "1aFase": {
             "2020": 169.0,
             "2021": 55.0
+          },
+          "Nacional": {
+            "2021": 21.0
           }
         },
         "gi4minsvlocinuacm2srig": {
@@ -22450,6 +22596,9 @@ HISTORY = {
           "1aFase": {
             "2020": 169.0,
             "2021": 55.0
+          },
+          "Nacional": {
+            "2021": 21.0
           }
         },
         "o5tanirovlm4a1lci8amcg": {
@@ -22457,6 +22606,9 @@ HISTORY = {
           "1aFase": {
             "2020": 169.0,
             "2021": 55.0
+          },
+          "Nacional": {
+            "2021": 21.0
           }
         },
         "oinamlopbnratrcamlraecroos": {
@@ -22623,6 +22775,10 @@ HISTORY = {
         "2015": {
           "Teams": 1,
           "BestRank": 35
+        },
+        "2021": {
+          "Teams": 1,
+          "BestRank": 21
         }
       }
     },
@@ -25675,7 +25831,8 @@ HISTORY = {
           "Nacional": {
             "2018": 34.0,
             "2019": 32.0,
-            "2020": 24.0
+            "2020": 24.0,
+            "2021": 30.0
           }
         },
         "olocmalut13sok5uok": {
@@ -25752,6 +25909,9 @@ HISTORY = {
           "1aFase": {
             "2020": 326.0,
             "2021": 44.0
+          },
+          "Nacional": {
+            "2021": 30.0
           }
         },
         "sehaitaeisoacclrsigtcmmnk": {
@@ -25816,6 +25976,9 @@ HISTORY = {
           "FullName": "Gabriel Moreira",
           "1aFase": {
             "2021": 44.0
+          },
+          "Nacional": {
+            "2021": 30.0
           }
         },
         "iucgoocleamm7cprd2al": {
@@ -25941,6 +26104,10 @@ HISTORY = {
         "2020": {
           "Teams": 1,
           "BestRank": 24
+        },
+        "2021": {
+          "Teams": 1,
+          "BestRank": 30
         }
       }
     },
@@ -26108,6 +26275,9 @@ HISTORY = {
             "2019": 194.0,
             "2020": 343.0,
             "2021": 83.0
+          },
+          "Nacional": {
+            "2021": 55.0
           }
         },
         "llmlesmoumas8igil8eca": {
@@ -26117,6 +26287,9 @@ HISTORY = {
             "2019": 194.0,
             "2020": 343.0,
             "2021": 83.0
+          },
+          "Nacional": {
+            "2021": 55.0
           }
         },
         "meiriemaodnjollscg": {
@@ -26126,6 +26299,9 @@ HISTORY = {
             "2019": 194.0,
             "2020": 343.0,
             "2021": 83.0
+          },
+          "Nacional": {
+            "2021": 55.0
           }
         },
         "o4tmoiamg3ntricv4l": {
@@ -26223,6 +26399,12 @@ HISTORY = {
           "1aFase": {
             "2021": 400.0
           }
+        }
+      },
+      "Nacional": {
+        "2021": {
+          "Teams": 1,
+          "BestRank": 55
         }
       }
     },
@@ -27208,7 +27390,8 @@ HISTORY = {
             "2021": 11.0
           },
           "Nacional": {
-            "2020": 29.0
+            "2020": 29.0,
+            "2021": 10.0
           }
         },
         "aoemcaedmaehslstragmddnviu": {
@@ -27339,12 +27522,18 @@ HISTORY = {
           "FullName": "Paulo Vitor Lima Borges",
           "1aFase": {
             "2021": 11.0
+          },
+          "Nacional": {
+            "2021": 10.0
           }
         },
         "eafnoiru0uep0ubosdelrmr7d": {
           "FullName": "Paulo Augusto De Lima Medeiros",
           "1aFase": {
             "2021": 11.0
+          },
+          "Nacional": {
+            "2021": 10.0
           }
         },
         "ooegglaiomenclaarumajfosira": {
@@ -27490,6 +27679,10 @@ HISTORY = {
         "2020": {
           "Teams": 1,
           "BestRank": 29
+        },
+        "2021": {
+          "Teams": 1,
+          "BestRank": 10
         }
       }
     },
@@ -32302,7 +32495,8 @@ HISTORY = {
           },
           "Nacional": {
             "2019": 36.0,
-            "2020": 35.0
+            "2020": 35.0,
+            "2021": 31.0
           }
         },
         "rlmsfeojogimaocln": {
@@ -32359,7 +32553,8 @@ HISTORY = {
           "Nacional": {
             "2018": 42.0,
             "2019": 36.0,
-            "2020": 35.0
+            "2020": 35.0,
+            "2021": 31.0
           }
         },
         "gecmsaieraunjemylumonduosneqaing": {
@@ -32384,7 +32579,8 @@ HISTORY = {
             "2021": 22.0
           },
           "Nacional": {
-            "2020": 35.0
+            "2020": 35.0,
+            "2021": 31.0
           }
         },
         "nsclcaozagrrlbemo1ime": {
@@ -32703,6 +32899,10 @@ HISTORY = {
         "2020": {
           "Teams": 1,
           "BestRank": 35
+        },
+        "2021": {
+          "Teams": 1,
+          "BestRank": 31
         }
       }
     },
@@ -35469,6 +35669,9 @@ HISTORY = {
             "2019": 59.0,
             "2020": 87.0,
             "2021": 59.0
+          },
+          "Nacional": {
+            "2021": 26.0
           }
         },
         "cnpnuloeeibjaeclvieegftir": {
@@ -35556,6 +35759,9 @@ HISTORY = {
             "2019": 59.0,
             "2020": 87.0,
             "2021": 59.0
+          },
+          "Nacional": {
+            "2021": 26.0
           }
         },
         "gnrsletalbcaaueai": {
@@ -35564,6 +35770,9 @@ HISTORY = {
             "2019": 59.0,
             "2020": 87.0,
             "2021": 59.0
+          },
+          "Nacional": {
+            "2021": 26.0
           }
         },
         "raieebtaldflpegterraon": {
@@ -35680,6 +35889,10 @@ HISTORY = {
         "2020": {
           "Teams": 1,
           "BestRank": 16
+        },
+        "2021": {
+          "Teams": 1,
+          "BestRank": 26
         }
       }
     },
@@ -35993,7 +36206,8 @@ HISTORY = {
             "2021": 91.0
           },
           "Nacional": {
-            "2019": 42.0
+            "2019": 42.0,
+            "2021": 44.0
           }
         },
         "lgckasatmolemyeiile": {
@@ -36022,7 +36236,8 @@ HISTORY = {
             "2021": 91.0
           },
           "Nacional": {
-            "2019": 42.0
+            "2019": 42.0,
+            "2021": 44.0
           }
         },
         "4m3glac12ociojaomd": {
@@ -36041,6 +36256,9 @@ HISTORY = {
           "FullName": "João Gabriel",
           "1aFase": {
             "2021": 91.0
+          },
+          "Nacional": {
+            "2021": 44.0
           }
         },
         "vuinlabnmrufo4edbgp": {
@@ -36078,6 +36296,10 @@ HISTORY = {
         "2019": {
           "Teams": 1,
           "BestRank": 42
+        },
+        "2021": {
+          "Teams": 1,
+          "BestRank": 44
         }
       }
     },
@@ -37839,7 +38061,8 @@ HISTORY = {
           },
           "Nacional": {
             "2017": 19.0,
-            "2019": 45.0
+            "2019": 45.0,
+            "2021": 39.0
           }
         },
         "mncorgamsmriosaioitoacntlma": {
@@ -37906,7 +38129,8 @@ HISTORY = {
             "2021": 43.0
           },
           "Nacional": {
-            "2019": 45.0
+            "2019": 45.0,
+            "2021": 39.0
           }
         },
         "ikaommsogserdawla3rcl": {
@@ -38045,7 +38269,8 @@ HISTORY = {
             "2021": 43.0
           },
           "Nacional": {
-            "2020": 15.0
+            "2020": 15.0,
+            "2021": 39.0
           }
         },
         "baattmlaitccusamiohlost": {
@@ -38391,6 +38616,10 @@ HISTORY = {
         "2020": {
           "Teams": 1,
           "BestRank": 15
+        },
+        "2021": {
+          "Teams": 1,
+          "BestRank": 39
         }
       }
     },
@@ -38786,7 +39015,8 @@ HISTORY = {
           },
           "Nacional": {
             "2019": 5.0,
-            "2020": 7.0
+            "2020": 7.0,
+            "2021": 2.0
           }
         },
         "gurbfrermdaiefrcch": {
@@ -38802,6 +39032,9 @@ HISTORY = {
             "2019": 25.0,
             "2020": 14.0,
             "2021": 23.0
+          },
+          "Nacional": {
+            "2021": 8.0
           }
         },
         "eal6ilrghmeuomah2gicrm": {
@@ -38870,6 +39103,9 @@ HISTORY = {
             "2019": 25.0,
             "2020": 14.0,
             "2021": 23.0
+          },
+          "Nacional": {
+            "2021": 8.0
           }
         },
         "mioaolaoprcgcisessmlj": {
@@ -38898,7 +39134,8 @@ HISTORY = {
             "2021": 2.0
           },
           "Nacional": {
-            "2020": 7.0
+            "2020": 7.0,
+            "2021": 2.0
           }
         },
         "grrmcotiivicyolamo": {
@@ -38937,6 +39174,9 @@ HISTORY = {
           "FullName": "Bernardo Neto",
           "1aFase": {
             "2020": 36.0,
+            "2021": 2.0
+          },
+          "Nacional": {
             "2021": 2.0
           }
         },
@@ -39182,6 +39422,9 @@ HISTORY = {
           "FullName": "Kaio Henrique Masse Vieira",
           "1aFase": {
             "2021": 23.0
+          },
+          "Nacional": {
+            "2021": 8.0
           }
         },
         "iwomeglglmanhacys": {
@@ -39463,6 +39706,10 @@ HISTORY = {
         "2020": {
           "Teams": 2,
           "BestRank": 7
+        },
+        "2021": {
+          "Teams": 2,
+          "BestRank": 2
         }
       }
     },
@@ -40701,7 +40948,8 @@ HISTORY = {
           "Nacional": {
             "2016": 24.0,
             "2019": 16.0,
-            "2020": 22.0
+            "2020": 22.0,
+            "2021": 22.0
           }
         },
         "ahcnreuofuoscoacirsbu": {
@@ -41032,7 +41280,8 @@ HISTORY = {
             "2021": 45.0
           },
           "Nacional": {
-            "2020": 22.0
+            "2020": 22.0,
+            "2021": 22.0
           }
         },
         "aaimlotymliheoconrozcz": {
@@ -41401,7 +41650,8 @@ HISTORY = {
             "2021": 45.0
           },
           "Nacional": {
-            "2020": 22.0
+            "2020": 22.0,
+            "2021": 22.0
           }
         },
         "rimgdocamlpbsreiao": {
@@ -42451,6 +42701,10 @@ HISTORY = {
           "BestRank": 16
         },
         "2020": {
+          "Teams": 1,
+          "BestRank": 22
+        },
+        "2021": {
           "Teams": 1,
           "BestRank": 22
         }
@@ -44663,7 +44917,8 @@ HISTORY = {
           },
           "Nacional": {
             "2019": 34.0,
-            "2020": 37.0
+            "2020": 37.0,
+            "2021": 51.0
           }
         },
         "aammlosmomigoieairrcmhlts": {
@@ -44766,7 +45021,8 @@ HISTORY = {
           },
           "Nacional": {
             "2019": 34.0,
-            "2020": 37.0
+            "2020": 37.0,
+            "2021": 51.0
           }
         },
         "8rem1aiiealrfelsrvgaoc6m": {
@@ -44923,6 +45179,9 @@ HISTORY = {
           "FullName": "Maria Izamara Clara Da Silva Coutinho",
           "1aFase": {
             "2021": 75.0
+          },
+          "Nacional": {
+            "2021": 51.0
           }
         },
         "kcor1gemci1amif1l0r": {
@@ -45008,6 +45267,10 @@ HISTORY = {
         "2020": {
           "Teams": 1,
           "BestRank": 37
+        },
+        "2021": {
+          "Teams": 1,
+          "BestRank": 51
         }
       }
     },
@@ -52254,7 +52517,8 @@ HISTORY = {
             "2021": 63.0
           },
           "Nacional": {
-            "2020": 48.0
+            "2020": 48.0,
+            "2021": 49.0
           }
         },
         "mr1nstaal4iosmauhinaqegnce3": {
@@ -52309,7 +52573,8 @@ HISTORY = {
             "2021": 63.0
           },
           "Nacional": {
-            "2020": 48.0
+            "2020": 48.0,
+            "2021": 49.0
           }
         },
         "eovruvflobaaj": {
@@ -52448,6 +52713,9 @@ HISTORY = {
           "FullName": "Germano Santos",
           "1aFase": {
             "2021": 63.0
+          },
+          "Nacional": {
+            "2021": 49.0
           }
         },
         "mibuovanrfrnyalts": {
@@ -52497,6 +52765,10 @@ HISTORY = {
         "2020": {
           "Teams": 1,
           "BestRank": 48
+        },
+        "2021": {
+          "Teams": 1,
+          "BestRank": 49
         }
       }
     },
@@ -53712,7 +53984,8 @@ HISTORY = {
             "2021": 4.0
           },
           "Nacional": {
-            "2019": 20.0
+            "2019": 20.0,
+            "2021": 11.0
           }
         },
         "amilermbegolnurcr": {
@@ -53753,7 +54026,8 @@ HISTORY = {
             "2021": 4.0
           },
           "Nacional": {
-            "2020": 13.0
+            "2020": 13.0,
+            "2021": 11.0
           }
         },
         "imaamicgxuaiwogyynl": {
@@ -53781,7 +54055,8 @@ HISTORY = {
             "2021": 4.0
           },
           "Nacional": {
-            "2020": 13.0
+            "2020": 13.0,
+            "2021": 11.0
           }
         },
         "lioeos5sviaurgl2lamaamibg1zc": {
@@ -53917,6 +54192,10 @@ HISTORY = {
         "2020": {
           "Teams": 1,
           "BestRank": 13
+        },
+        "2021": {
+          "Teams": 1,
+          "BestRank": 11
         }
       }
     },
@@ -55512,6 +55791,9 @@ HISTORY = {
             "2019": 103.0,
             "2020": 110.0,
             "2021": 18.0
+          },
+          "Nacional": {
+            "2021": 7.0
           }
         },
         "orurferecrpdobjdzuada": {
@@ -55527,6 +55809,9 @@ HISTORY = {
             "2019": 103.0,
             "2020": 110.0,
             "2021": 18.0
+          },
+          "Nacional": {
+            "2021": 7.0
           }
         },
         "piubrmmgrlliaooredefhlnjug": {
@@ -55547,7 +55832,8 @@ HISTORY = {
             "2021": 18.0
           },
           "Nacional": {
-            "2020": 6.0
+            "2020": 6.0,
+            "2021": 7.0
           }
         },
         "srdlcujaojcfrrbobao": {
@@ -55744,6 +56030,10 @@ HISTORY = {
         "2020": {
           "Teams": 1,
           "BestRank": 6
+        },
+        "2021": {
+          "Teams": 1,
+          "BestRank": 7
         }
       }
     },
@@ -56011,6 +56301,9 @@ HISTORY = {
             "2019": 293.0,
             "2020": 111.0,
             "2021": 65.0
+          },
+          "Nacional": {
+            "2021": 24.0
           }
         },
         "mamalo99g71liemicjya": {
@@ -56019,6 +56312,9 @@ HISTORY = {
             "2019": 293.0,
             "2020": 111.0,
             "2021": 65.0
+          },
+          "Nacional": {
+            "2021": 24.0
           }
         },
         "olmualnhotimaocdh": {
@@ -56026,6 +56322,9 @@ HISTORY = {
           "1aFase": {
             "2020": 111.0,
             "2021": 65.0
+          },
+          "Nacional": {
+            "2021": 24.0
           }
         },
         "cai0rbho0roo1orv2tmbcyo": {
@@ -56164,6 +56463,10 @@ HISTORY = {
         "2017": {
           "Teams": 1,
           "BestRank": 28
+        },
+        "2021": {
+          "Teams": 1,
+          "BestRank": 24
         }
       }
     },
@@ -56907,6 +57210,9 @@ HISTORY = {
             "2019": 385.0,
             "2020": 168.0,
             "2021": 76.0
+          },
+          "Nacional": {
+            "2021": 35.0
           }
         },
         "amr0hc00iu0eltmd1aoodo": {
@@ -56922,6 +57228,9 @@ HISTORY = {
             "2019": 385.0,
             "2020": 168.0,
             "2021": 76.0
+          },
+          "Nacional": {
+            "2021": 35.0
           }
         },
         "m2aasclogihmnsiamlegac3lao": {
@@ -56949,6 +57258,9 @@ HISTORY = {
           "FullName": "Thiago Felipe Bastos Da Silva",
           "1aFase": {
             "2021": 76.0
+          },
+          "Nacional": {
+            "2021": 35.0
           }
         },
         "aecgalmebolrlacaidmgimrod": {
@@ -56968,6 +57280,12 @@ HISTORY = {
           "1aFase": {
             "2021": 163.0
           }
+        }
+      },
+      "Nacional": {
+        "2021": {
+          "Teams": 1,
+          "BestRank": 35
         }
       }
     },
@@ -57143,7 +57461,8 @@ HISTORY = {
             "2021": 69.0
           },
           "Nacional": {
-            "2020": 42.0
+            "2020": 42.0,
+            "2021": 40.0
           }
         },
         "lisci50altoa0hthmm8bro": {
@@ -57206,6 +57525,9 @@ HISTORY = {
             "2019": 264.0,
             "2020": 198.0,
             "2021": 69.0
+          },
+          "Nacional": {
+            "2021": 40.0
           }
         },
         "ieaammogdgncvautli": {
@@ -57272,6 +57594,9 @@ HISTORY = {
           "FullName": "Roger Passos",
           "1aFase": {
             "2021": 69.0
+          },
+          "Nacional": {
+            "2021": 40.0
           }
         },
         "aaflnlarjenrtneefczjudbueoir": {
@@ -57315,6 +57640,10 @@ HISTORY = {
         "2020": {
           "Teams": 1,
           "BestRank": 42
+        },
+        "2021": {
+          "Teams": 1,
+          "BestRank": 40
         }
       }
     },
@@ -57638,19 +57967,34 @@ HISTORY = {
           "FullName": "Angel Gerardo Napa Bernuy",
           "1aFase": {
             "2021": 1.0
+          },
+          "Nacional": {
+            "2021": 3.0
           }
         },
         "mioaolaoprcgcisessmlj": {
           "FullName": "Celio Passos",
           "1aFase": {
             "2021": 1.0
+          },
+          "Nacional": {
+            "2021": 3.0
           }
         },
         "lgkocyihaan1uzmmu99o9": {
           "FullName": "Yukun Zhao",
           "1aFase": {
             "2021": 1.0
+          },
+          "Nacional": {
+            "2021": 3.0
           }
+        }
+      },
+      "Nacional": {
+        "2021": {
+          "Teams": 1,
+          "BestRank": 3
         }
       }
     }
@@ -61640,6 +61984,9 @@ HISTORY = {
           "1aFase": {
             "2019": 281.0,
             "2021": 96.0
+          },
+          "Nacional": {
+            "2021": 38.0
           }
         },
         "loiajr9imeatdpvcfsbaouelg": {
@@ -61650,7 +61997,8 @@ HISTORY = {
             "2021": 96.0
           },
           "Nacional": {
-            "2020": 49.0
+            "2020": 49.0,
+            "2021": 38.0
           }
         },
         "otdpoactkooulvaluima": {
@@ -61670,7 +62018,8 @@ HISTORY = {
             "2021": 96.0
           },
           "Nacional": {
-            "2020": 49.0
+            "2020": 49.0,
+            "2021": 38.0
           }
         },
         "raugttaeefopavoossccgbvct": {
@@ -61726,6 +62075,10 @@ HISTORY = {
         "2020": {
           "Teams": 1,
           "BestRank": 49
+        },
+        "2021": {
+          "Teams": 1,
+          "BestRank": 38
         }
       }
     },
@@ -63173,7 +63526,8 @@ HISTORY = {
             "2021": 20.0
           },
           "Nacional": {
-            "2020": 20.0
+            "2020": 20.0,
+            "2021": 14.0
           }
         },
         "lteo2sotdgsocicum": {
@@ -63184,7 +63538,8 @@ HISTORY = {
             "2021": 20.0
           },
           "Nacional": {
-            "2020": 20.0
+            "2020": 20.0,
+            "2021": 14.0
           }
         },
         "i9rlbimvomhitniotcais9uco": {
@@ -63219,6 +63574,9 @@ HISTORY = {
           "1aFase": {
             "2019": 115.0,
             "2021": 20.0
+          },
+          "Nacional": {
+            "2021": 14.0
           }
         },
         "ggebamumcknuomisirle": {
@@ -63551,6 +63909,10 @@ HISTORY = {
         "2020": {
           "Teams": 1,
           "BestRank": 20
+        },
+        "2021": {
+          "Teams": 1,
+          "BestRank": 14
         }
       }
     },
@@ -66594,6 +66956,9 @@ HISTORY = {
           "1aFase": {
             "2020": 19.0,
             "2021": 9.0
+          },
+          "Nacional": {
+            "2021": 34.0
           }
         },
         "ondairoarrmbeligtagdiomc": {
@@ -66601,6 +66966,9 @@ HISTORY = {
           "1aFase": {
             "2020": 19.0,
             "2021": 9.0
+          },
+          "Nacional": {
+            "2021": 34.0
           }
         },
         "pb9rc17duaic3rmn78a": {
@@ -66608,6 +66976,9 @@ HISTORY = {
           "1aFase": {
             "2020": 19.0,
             "2021": 9.0
+          },
+          "Nacional": {
+            "2021": 34.0
           }
         },
         "a6m0gaeurigooncsluc4mila": {
@@ -66671,18 +67042,27 @@ HISTORY = {
           "FullName": "Luiz Fernando Batista Morato",
           "1aFase": {
             "2021": 19.0
+          },
+          "Nacional": {
+            "2021": 9.0
           }
         },
         "ydamcoiglmlhdoa": {
           "FullName": "Luiz Henrique Yuji Delgado Oda",
           "1aFase": {
             "2021": 19.0
+          },
+          "Nacional": {
+            "2021": 9.0
           }
         },
         "graaohriemcednarocbmlgsa": {
           "FullName": "Bernardo Archegas",
           "1aFase": {
             "2021": 19.0
+          },
+          "Nacional": {
+            "2021": 9.0
           }
         },
         "aviarlimlgceipmag20ab20o": {
@@ -66890,6 +67270,10 @@ HISTORY = {
         "2020": {
           "Teams": 2,
           "BestRank": 2
+        },
+        "2021": {
+          "Teams": 2,
+          "BestRank": 9
         }
       }
     },
@@ -67287,7 +67671,8 @@ HISTORY = {
             "2021": 149.0
           },
           "Nacional": {
-            "2019": 51.0
+            "2019": 51.0,
+            "2021": 47.0
           }
         },
         "maiseumahcololdfct": {
@@ -67333,6 +67718,9 @@ HISTORY = {
             "2019": 536.0,
             "2020": 158.0,
             "2021": 149.0
+          },
+          "Nacional": {
+            "2021": 47.0
           }
         },
         "srfdbralarocugeeetmsauuntcsihret": {
@@ -67361,6 +67749,9 @@ HISTORY = {
           "1aFase": {
             "2020": 158.0,
             "2021": 149.0
+          },
+          "Nacional": {
+            "2021": 47.0
           }
         },
         "dishsautratmrsuffbnaeaecr": {
@@ -67592,6 +67983,10 @@ HISTORY = {
         "2020": {
           "Teams": 1,
           "BestRank": 51
+        },
+        "2021": {
+          "Teams": 1,
+          "BestRank": 47
         }
       }
     },
@@ -68626,7 +69021,8 @@ HISTORY = {
           },
           "Nacional": {
             "2019": 31.0,
-            "2020": 52.0
+            "2020": 52.0,
+            "2021": 25.0
           }
         },
         "nacg3iuiodmbaelora1ml": {
@@ -68677,6 +69073,9 @@ HISTORY = {
           "1aFase": {
             "2019": 176.0,
             "2021": 57.0
+          },
+          "Nacional": {
+            "2021": 25.0
           }
         },
         "iricpssdaomovheteslmo": {
@@ -68750,6 +69149,9 @@ HISTORY = {
           "1aFase": {
             "2019": 472.0,
             "2021": 57.0
+          },
+          "Nacional": {
+            "2021": 25.0
           }
         },
         "yc2ghoo0slva2oms0yeiim": {
@@ -68822,6 +69224,10 @@ HISTORY = {
         "2020": {
           "Teams": 1,
           "BestRank": 52
+        },
+        "2021": {
+          "Teams": 1,
+          "BestRank": 25
         }
       }
     },
@@ -71345,7 +71751,8 @@ HISTORY = {
             "2021": 5.0
           },
           "Nacional": {
-            "2020": 8.0
+            "2020": 8.0,
+            "2021": 5.0
           }
         },
         "ampsbberiuorlzs": {
@@ -71363,7 +71770,8 @@ HISTORY = {
             "2021": 5.0
           },
           "Nacional": {
-            "2020": 8.0
+            "2020": 8.0,
+            "2021": 5.0
           }
         },
         "gtvo0gaoucdmscima1ml": {
@@ -71372,6 +71780,9 @@ HISTORY = {
             "2019": 50.0,
             "2020": 57.0,
             "2021": 3.0
+          },
+          "Nacional": {
+            "2021": 15.0
           }
         },
         "aarsrerhbulprpb": {
@@ -71413,7 +71824,8 @@ HISTORY = {
             "2021": 5.0
           },
           "Nacional": {
-            "2020": 8.0
+            "2020": 8.0,
+            "2021": 5.0
           }
         },
         "dpbvmsuazeesienr": {
@@ -71433,6 +71845,9 @@ HISTORY = {
           "1aFase": {
             "2020": 62.0,
             "2021": 3.0
+          },
+          "Nacional": {
+            "2021": 15.0
           }
         },
         "ufsmaarybpli": {
@@ -71502,6 +71917,9 @@ HISTORY = {
           "FullName": "Enrique Junchaya",
           "1aFase": {
             "2021": 3.0
+          },
+          "Nacional": {
+            "2021": 15.0
           }
         },
         "tbshrsuipy": {
@@ -71685,6 +72103,10 @@ HISTORY = {
           "BestRank": 1
         },
         "2020": {
+          "Teams": 2,
+          "BestRank": 5
+        },
+        "2021": {
           "Teams": 2,
           "BestRank": 5
         }
@@ -72194,7 +72616,8 @@ HISTORY = {
           },
           "Nacional": {
             "2018": 14.0,
-            "2020": 4.0
+            "2020": 4.0,
+            "2021": 4.0
           }
         },
         "aarnllbubraxplesesed": {
@@ -72309,7 +72732,8 @@ HISTORY = {
           },
           "Nacional": {
             "2019": 12.0,
-            "2020": 4.0
+            "2020": 4.0,
+            "2021": 4.0
           }
         },
         "uelogajoarimumaimojrhocelg": {
@@ -72385,7 +72809,8 @@ HISTORY = {
           },
           "Nacional": {
             "2019": 12.0,
-            "2020": 4.0
+            "2020": 4.0,
+            "2021": 4.0
           }
         },
         "odcqigahumairomtslzioeg": {
@@ -72486,6 +72911,9 @@ HISTORY = {
           "1aFase": {
             "2020": 39.0,
             "2021": 13.0
+          },
+          "Nacional": {
+            "2021": 12.0
           }
         },
         "sjaaooooviomlrktasccmolocu": {
@@ -72506,6 +72934,9 @@ HISTORY = {
           "1aFase": {
             "2020": 41.0,
             "2021": 13.0
+          },
+          "Nacional": {
+            "2021": 12.0
           }
         },
         "orbgiemaclvsmocteaeln": {
@@ -72703,6 +73134,9 @@ HISTORY = {
           "FullName": "Kenzo Nobre",
           "1aFase": {
             "2021": 21.0
+          },
+          "Nacional": {
+            "2021": 12.0
           }
         },
         "pubsebrsaetcenrlov": {
@@ -72920,6 +73354,10 @@ HISTORY = {
           "BestRank": 6
         },
         "2020": {
+          "Teams": 2,
+          "BestRank": 4
+        },
+        "2021": {
           "Teams": 2,
           "BestRank": 4
         }
@@ -76687,7 +77125,8 @@ HISTORY = {
             "2021": 80.0
           },
           "Nacional": {
-            "2020": 53.0
+            "2020": 53.0,
+            "2021": 46.0
           }
         },
         "ram8raleaimcokkugnm0": {
@@ -76805,6 +77244,9 @@ HISTORY = {
           "1aFase": {
             "2020": 238.0,
             "2021": 80.0
+          },
+          "Nacional": {
+            "2021": 46.0
           }
         },
         "acrodiaugviglivlamm": {
@@ -76823,6 +77265,9 @@ HISTORY = {
           "FullName": "Maria Angélica Miranda",
           "1aFase": {
             "2021": 80.0
+          },
+          "Nacional": {
+            "2021": 46.0
           }
         },
         "pstostasnsmeuntrbaho": {
@@ -76880,6 +77325,10 @@ HISTORY = {
         "2020": {
           "Teams": 1,
           "BestRank": 53
+        },
+        "2021": {
+          "Teams": 1,
+          "BestRank": 46
         }
       }
     },
@@ -79416,18 +79865,27 @@ HISTORY = {
           "FullName": "Paulo Guilherme Pinheiro Pereira",
           "1aFase": {
             "2021": 129.0
+          },
+          "Nacional": {
+            "2021": 50.0
           }
         },
         "logagrerbeusrcipbb": {
           "FullName": "Gabriel Carvalho Bergoc",
           "1aFase": {
             "2021": 129.0
+          },
+          "Nacional": {
+            "2021": 50.0
           }
         },
         "lbssoptsuarsccnuodoraas": {
           "FullName": "Lucas Cardoso Dos Santos",
           "1aFase": {
             "2021": 129.0
+          },
+          "Nacional": {
+            "2021": 50.0
           }
         },
         "audmalspibedrelreafa": {
@@ -79483,6 +79941,12 @@ HISTORY = {
           "1aFase": {
             "2021": 400.0
           }
+        }
+      },
+      "Nacional": {
+        "2021": {
+          "Teams": 1,
+          "BestRank": 50
         }
       }
     },
@@ -82220,6 +82684,9 @@ HISTORY = {
             "2019": 269.0,
             "2020": 142.0,
             "2021": 62.0
+          },
+          "Nacional": {
+            "2021": 45.0
           }
         },
         "rh5piffir1ubn": {
@@ -82280,12 +82747,18 @@ HISTORY = {
           "FullName": "Pietro Cavassin",
           "1aFase": {
             "2021": 62.0
+          },
+          "Nacional": {
+            "2021": 45.0
           }
         },
         "miktgataamerlocdia": {
           "FullName": "Vinicius Tikara Venturi Date",
           "1aFase": {
             "2021": 62.0
+          },
+          "Nacional": {
+            "2021": 45.0
           }
         },
         "soapquecdilgimouaoretm": {
@@ -82367,6 +82840,10 @@ HISTORY = {
           "BestRank": 33
         },
         "2020": {
+          "Teams": 1,
+          "BestRank": 45
+        },
+        "2021": {
           "Teams": 1,
           "BestRank": 45
         }
@@ -84320,6 +84797,9 @@ HISTORY = {
             "2019": 529.0,
             "2020": 114.0,
             "2021": 89.0
+          },
+          "Nacional": {
+            "2021": 48.0
           }
         },
         "maocluspcotaiaomnmachl": {
@@ -84328,6 +84808,9 @@ HISTORY = {
             "2019": 529.0,
             "2020": 114.0,
             "2021": 89.0
+          },
+          "Nacional": {
+            "2021": 48.0
           }
         },
         "rnrtdoesboeyalpcreduuurslafr": {
@@ -84356,6 +84839,9 @@ HISTORY = {
           "1aFase": {
             "2020": 114.0,
             "2021": 89.0
+          },
+          "Nacional": {
+            "2021": 48.0
           }
         },
         "alrdmx9b1c2gl4gaolneaireiaem": {
@@ -84447,6 +84933,12 @@ HISTORY = {
           "1aFase": {
             "2021": 398.0
           }
+        }
+      },
+      "Nacional": {
+        "2021": {
+          "Teams": 1,
+          "BestRank": 48
         }
       }
     },
@@ -86879,6 +87371,9 @@ HISTORY = {
           "1aFase": {
             "2020": 117.0,
             "2021": 54.0
+          },
+          "Nacional": {
+            "2021": 41.0
           }
         },
         "iobotafmlgamfhci": {
@@ -86981,12 +87476,18 @@ HISTORY = {
           "FullName": "Henrique Utzig",
           "1aFase": {
             "2021": 54.0
+          },
+          "Nacional": {
+            "2021": 41.0
           }
         },
         "gbfrnsafncrfosufgie": {
           "FullName": "Gabriel Fagundes Da Fonseca",
           "1aFase": {
             "2021": 54.0
+          },
+          "Nacional": {
+            "2021": 41.0
           }
         },
         "iiaiocireumgtoq5obhrlex0nrepioem": {
@@ -87135,6 +87636,10 @@ HISTORY = {
         "2020": {
           "Teams": 1,
           "BestRank": 43
+        },
+        "2021": {
+          "Teams": 1,
+          "BestRank": 41
         }
       }
     },
@@ -93665,6 +94170,9 @@ HISTORY = {
             "2019": 78.0,
             "2020": 42.0,
             "2021": 36.0
+          },
+          "Nacional": {
+            "2021": 23.0
           }
         },
         "aivmcocijfrohotahlmoorgli": {
@@ -93674,6 +94182,9 @@ HISTORY = {
             "2019": 78.0,
             "2020": 42.0,
             "2021": 36.0
+          },
+          "Nacional": {
+            "2021": 23.0
           }
         },
         "gbwtlriceanlmeikelvmo": {
@@ -93722,6 +94233,9 @@ HISTORY = {
             "2019": 198.0,
             "2020": 42.0,
             "2021": 36.0
+          },
+          "Nacional": {
+            "2021": 23.0
           }
         },
         "deslrn2eiliemcfaia0fnogmp": {
@@ -94058,6 +94572,10 @@ HISTORY = {
         "2020": {
           "Teams": 1,
           "BestRank": 32
+        },
+        "2021": {
+          "Teams": 1,
+          "BestRank": 23
         }
       }
     },
@@ -95020,7 +95538,8 @@ HISTORY = {
             "2021": 66.0
           },
           "Nacional": {
-            "2020": 41.0
+            "2020": 41.0,
+            "2021": 42.0
           }
         },
         "usrfemmcataavmilaignco": {
@@ -95037,7 +95556,8 @@ HISTORY = {
             "2021": 66.0
           },
           "Nacional": {
-            "2020": 41.0
+            "2020": 41.0,
+            "2021": 42.0
           }
         },
         "ijomtgoulmpalaciz": {
@@ -95071,7 +95591,8 @@ HISTORY = {
             "2021": 66.0
           },
           "Nacional": {
-            "2020": 41.0
+            "2020": 41.0,
+            "2021": 42.0
           }
         },
         "eopoprrumsgodlemsadic": {
@@ -95203,6 +95724,10 @@ HISTORY = {
         "2020": {
           "Teams": 1,
           "BestRank": 41
+        },
+        "2021": {
+          "Teams": 1,
+          "BestRank": 42
         }
       }
     },
@@ -96469,18 +96994,27 @@ HISTORY = {
           "FullName": "Lucas Castro De Souza",
           "1aFase": {
             "2021": 29.0
+          },
+          "Nacional": {
+            "2021": 20.0
           }
         },
         "ocbucucoerhfrmuaalmsdpia": {
           "FullName": "Lucas Rocha Dos Santos",
           "1aFase": {
             "2021": 29.0
+          },
+          "Nacional": {
+            "2021": 20.0
           }
         },
         "udemucebnoarflrapmieofpicf": {
           "FullName": "Felipe Pereira Franco",
           "1aFase": {
             "2021": 29.0
+          },
+          "Nacional": {
+            "2021": 20.0
           }
         },
         "beleelsttaumooichaicnudmpnisromnf": {
@@ -96628,6 +97162,10 @@ HISTORY = {
         "2016": {
           "Teams": 1,
           "BestRank": 50
+        },
+        "2021": {
+          "Teams": 1,
+          "BestRank": 20
         }
       }
     },
@@ -96854,7 +97392,8 @@ HISTORY = {
           },
           "Nacional": {
             "2018": 30.0,
-            "2020": 30.0
+            "2020": 30.0,
+            "2021": 36.0
           }
         },
         "ivdialgvdilmomlaislsemacall": {
@@ -96869,7 +97408,8 @@ HISTORY = {
           },
           "Nacional": {
             "2018": 30.0,
-            "2020": 30.0
+            "2020": 30.0,
+            "2021": 36.0
           }
         },
         "iernatmoiliaemgiscvriimlmaact": {
@@ -97011,7 +97551,8 @@ HISTORY = {
             "2021": 27.0
           },
           "Nacional": {
-            "2020": 30.0
+            "2020": 30.0,
+            "2021": 36.0
           }
         },
         "nu81emeeuamgldbr": {
@@ -97237,6 +97778,10 @@ HISTORY = {
         "2020": {
           "Teams": 1,
           "BestRank": 30
+        },
+        "2021": {
+          "Teams": 1,
+          "BestRank": 36
         }
       }
     },
@@ -99090,7 +99635,8 @@ HISTORY = {
           "Nacional": {
             "2018": 38.0,
             "2019": 28.0,
-            "2020": 33.0
+            "2020": 33.0,
+            "2021": 33.0
           }
         },
         "oaimaigcsawailmsn3r": {
@@ -99188,7 +99734,8 @@ HISTORY = {
           "Nacional": {
             "2018": 38.0,
             "2019": 28.0,
-            "2020": 33.0
+            "2020": 33.0,
+            "2021": 33.0
           }
         },
         "iomg1li3aalvigmc": {
@@ -99230,6 +99777,9 @@ HISTORY = {
           "1aFase": {
             "2018": 335.0,
             "2021": 28.0
+          },
+          "Nacional": {
+            "2021": 33.0
           }
         },
         "mfiaoareltrogscim": {
@@ -99380,6 +99930,10 @@ HISTORY = {
           "BestRank": 28
         },
         "2020": {
+          "Teams": 1,
+          "BestRank": 33
+        },
+        "2021": {
           "Teams": 1,
           "BestRank": 33
         }
@@ -100708,7 +101262,8 @@ HISTORY = {
           },
           "Nacional": {
             "2018": 61.0,
-            "2020": 58.0
+            "2020": 58.0,
+            "2021": 53.0
           }
         },
         "gmaecsminldeanomggrro": {
@@ -100721,7 +101276,8 @@ HISTORY = {
           },
           "Nacional": {
             "2018": 61.0,
-            "2020": 58.0
+            "2020": 58.0,
+            "2021": 53.0
           }
         },
         "ooitlla0r3acieihmtoa0ivlmo": {
@@ -100734,7 +101290,8 @@ HISTORY = {
           },
           "Nacional": {
             "2018": 61.0,
-            "2020": 58.0
+            "2020": 58.0,
+            "2021": 53.0
           }
         },
         "r1ocaoceglmimbmlfa": {
@@ -100938,6 +101495,10 @@ HISTORY = {
         "2020": {
           "Teams": 1,
           "BestRank": 58
+        },
+        "2021": {
+          "Teams": 1,
+          "BestRank": 53
         }
       }
     },
