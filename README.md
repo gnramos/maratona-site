@@ -47,9 +47,9 @@ docs
   |    +- [YYYY]
   |    |    +- poster.jpg
   |    |    +- 1aFase
-  |    |    |    `- [RANK].jpg
+  |    |    |    `- [RANK].webp
   |    |    `- Nacional
-  |    |         `- [RANK].jpg
+  |    |         `- [RANK].webp
   |    `- institutions
   |         `- [INSTITUIÇÃO].png
   `- js
@@ -57,7 +57,7 @@ docs
             `- [YYYY_FASE].js
 ```
 
-O diretório [img](docs/img) contém as imagens do site. Imagens de bandeiras de UFs foram obtidas da [Wikimedia Commons](https://commons.wikimedia.org/), as demais foram criadas ou são da organização do evento. Para cada diretório `YYYY`, representando o ano do evento, o poster de chamada fica armazenado no arquivo `poster.jpg` e a foto de cada time participante no respectivo arquivo `RANK.jpg`, onde _RANK_ é o rank do time no placar geral. O arquivo `INSTITUIÇÃO.png`, onde _INSTITUIÇÃO_ é o nome da instituição, formatado apenas com suas letras minúsculas e sem acentos, deve conter a imagem da marca da instituição.
+O diretório [img](docs/img) contém as imagens do site. Imagens de bandeiras de UFs foram obtidas da [Wikimedia Commons](https://commons.wikimedia.org/), as demais foram criadas ou são da organização do evento. Para cada diretório `YYYY`, representando o ano do evento, o poster de chamada fica armazenado no arquivo `poster.jpg` e a foto de cada time participante no respectivo arquivo `RANK.webp`, onde _RANK_ é o rank do time no placar geral. O arquivo `INSTITUIÇÃO.png`, onde _INSTITUIÇÃO_ é o nome da instituição, formatado apenas com suas letras minúsculas e sem acentos, deve conter a imagem da marca da instituição.
 
 O diretório [js](docs/js) contém os arquivos javascript do site. Além de scripts de manipulação de páginas, o diretório [data](docs/js/data) contém os arquivos com as informações processadas dos eventos, no formato de dicionários.
 

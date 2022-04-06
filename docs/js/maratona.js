@@ -58,7 +58,7 @@ function institutionImgSrc() {
 }
 
 function teamImgSrc(year, phase, rank) {
-  return `${IMG_PATH}/event/${year}/${phase}/${rank}.jpg`;
+  return `${IMG_PATH}/event/${year}/${phase}/${rank}.webp`;
 }
 
 function showRank(rank) {
