@@ -37,6 +37,10 @@ HISTORY = {
         "2021": {
           "Teams": 13,
           "BestRank": 24
+        },
+        "2022": {
+          "Teams": 7,
+          "BestRank": 9
         }
       },
       "Contestants": {
@@ -511,7 +515,8 @@ HISTORY = {
           "1aFase": {
             "2019": 46.0,
             "2020": 25.0,
-            "2021": 24.0
+            "2021": 24.0,
+            "2022": 9.0
           },
           "Nacional": {
             "2020": 23.0,
@@ -523,7 +528,8 @@ HISTORY = {
           "1aFase": {
             "2019": 56.0,
             "2020": 52.0,
-            "2021": 24.0
+            "2021": 24.0,
+            "2022": 9.0
           },
           "Nacional": {
             "2021": 13.0
@@ -534,7 +540,8 @@ HISTORY = {
           "1aFase": {
             "2019": 56.0,
             "2020": 52.0,
-            "2021": 24.0
+            "2021": 24.0,
+            "2022": 9.0
           },
           "Nacional": {
             "2021": 13.0
@@ -615,7 +622,8 @@ HISTORY = {
           "FullName": "Victor Manuel Brito Santos",
           "1aFase": {
             "2020": 137.0,
-            "2021": 90.0
+            "2021": 90.0,
+            "2022": 34.0
           }
         },
         "b82n52l0bao04unru50": {
@@ -652,7 +660,8 @@ HISTORY = {
           "FullName": "Maria Eduarda Carvalho Santos",
           "1aFase": {
             "2020": 176.0,
-            "2021": 143.0
+            "2021": 143.0,
+            "2022": 104.0
           }
         },
         "toaaghlodasomripemiamc": {
@@ -698,7 +707,8 @@ HISTORY = {
           "FullName": "Enzo Niho",
           "1aFase": {
             "2020": 208.0,
-            "2021": 34.0
+            "2021": 34.0,
+            "2022": 11.0
           }
         },
         "teamlrb9agia9msolniuicfog": {
@@ -749,7 +759,8 @@ HISTORY = {
           "FullName": "Pablo Araujo",
           "1aFase": {
             "2020": 251.0,
-            "2021": 90.0
+            "2021": 90.0,
+            "2022": 34.0
           }
         },
         "macam0iloi0cgmoo": {
@@ -776,7 +787,8 @@ HISTORY = {
           "FullName": "Eduarda Holanda",
           "1aFase": {
             "2020": 272.0,
-            "2021": 215.0
+            "2021": 215.0,
+            "2022": 104.0
           }
         },
         "cm1eaglormeoikaclad6nm": {
@@ -838,7 +850,8 @@ HISTORY = {
           "FullName": "Wallace Wu",
           "1aFase": {
             "2020": 329.0,
-            "2021": 87.0
+            "2021": 87.0,
+            "2022": 65.0
           }
         },
         "nbrreclaooxrncoealxddhmleaeea": {
@@ -880,19 +893,22 @@ HISTORY = {
         "mirradnieuvcuqliolgoordiimeoaa": {
           "FullName": "Eduardo Quirino De Oliveira",
           "1aFase": {
-            "2021": 34.0
+            "2021": 34.0,
+            "2022": 11.0
           }
         },
         "mciecepadgpslorom": {
           "FullName": "Pedro De Carvalho Gallo Pereira",
           "1aFase": {
-            "2021": 87.0
+            "2021": 87.0,
+            "2022": 65.0
           }
         },
         "ttsfgscfaeuuoroum": {
           "FullName": "Augusto Monteiro",
           "1aFase": {
-            "2021": 87.0
+            "2021": 87.0,
+            "2022": 65.0
           }
         },
         "uciiiprdammgvoatal": {
@@ -904,7 +920,8 @@ HISTORY = {
         "iaobaivigmhlfcrogmoslctuo": {
           "FullName": "Victor Lisboa",
           "1aFase": {
-            "2021": 128.0
+            "2021": 128.0,
+            "2022": 81.0
           }
         },
         "laoamlaciaojnfgmiaansra": {
@@ -916,7 +933,8 @@ HISTORY = {
         "amc2iehapmo0r0r5aaetl0l2giani": {
           "FullName": "Nathália Pereira",
           "1aFase": {
-            "2021": 138.0
+            "2021": 138.0,
+            "2022": 104.0
           }
         },
         "cigsgolavtaeuzlmadomn": {
@@ -958,7 +976,8 @@ HISTORY = {
         "bmmonvgsra998gaa7cluori": {
           "FullName": "Bruno Vargas De Souza",
           "1aFase": {
-            "2021": 230.0
+            "2021": 230.0,
+            "2022": 102.0
           }
         },
         "sagmodzcdiomegelosrir": {
@@ -989,6 +1008,42 @@ HISTORY = {
           "FullName": "Paulo Henrique Azevêdo Filho",
           "Nacional": {
             "2009": 31.0
+          }
+        },
+        "oceit002iowglsn2mnlaom": {
+          "FullName": "Wilson Guimarães",
+          "1aFase": {
+            "2022": 11.0
+          }
+        },
+        "eoiwemlxdriammleavg1ol1aicl": {
+          "FullName": "Maxwell Oliveira",
+          "1aFase": {
+            "2022": 34.0
+          }
+        },
+        "morzlcsaaulsmauacicgl": {
+          "FullName": "Lucas Cruz",
+          "1aFase": {
+            "2022": 81.0
+          }
+        },
+        "qecrigreamaosqmhulsnomi": {
+          "FullName": "Henrique Ramos",
+          "1aFase": {
+            "2022": 81.0
+          }
+        },
+        "eugmtegligrglnoparcaasimri": {
+          "FullName": "Gustavo Pierre Starling",
+          "1aFase": {
+            "2022": 102.0
+          }
+        },
+        "inrmaidchuoiralgopoontenehm": {
+          "FullName": "Pedro Nogueira",
+          "1aFase": {
+            "2022": 102.0
           }
         }
       },
@@ -1060,6 +1115,10 @@ HISTORY = {
         "2021": {
           "Teams": 5,
           "BestRank": 56
+        },
+        "2022": {
+          "Teams": 5,
+          "BestRank": 57
         }
       },
       "Contestants": {
@@ -1368,7 +1427,8 @@ HISTORY = {
           "1aFase": {
             "2019": 49.0,
             "2020": 28.0,
-            "2021": 56.0
+            "2021": 56.0,
+            "2022": 57.0
           },
           "Nacional": {
             "2019": 23.0,
@@ -1534,7 +1594,8 @@ HISTORY = {
         "iogmmcla2sasthn30io0l": {
           "FullName": "Thalisson Alves G. De Jesus",
           "1aFase": {
-            "2021": 113.0
+            "2021": 113.0,
+            "2022": 57.0
           }
         },
         "amvtoccrahtigiomslof": {
@@ -1577,6 +1638,84 @@ HISTORY = {
           "FullName": "Liverson Severo",
           "1aFase": {
             "2021": 194.0
+          }
+        },
+        "ormiarl4o0airmggc": {
+          "FullName": "Iago Marques",
+          "1aFase": {
+            "2022": 57.0
+          }
+        },
+        "lhigmleamroaserouigicmrm": {
+          "FullName": "Guilherme De Morais Richter",
+          "1aFase": {
+            "2022": 215.0
+          }
+        },
+        "i9gl9at9ma1lioii1ncs8vium9c8o": {
+          "FullName": "Ítalo Guimarães",
+          "1aFase": {
+            "2022": 215.0
+          }
+        },
+        "boiil0nmcpa2a8rblg0meg": {
+          "FullName": "Gabriel Bonifácio Perez Nunes",
+          "1aFase": {
+            "2022": 215.0
+          }
+        },
+        "otiuilmmopolgbuscaorm": {
+          "FullName": "Murilo Souto",
+          "1aFase": {
+            "2022": 334.0
+          }
+        },
+        "smaoogis0afcy0uimeell": {
+          "FullName": "Eliás Yousef",
+          "1aFase": {
+            "2022": 334.0
+          }
+        },
+        "nrhcorucammabitlraauggi": {
+          "FullName": "Arthur Garcia",
+          "1aFase": {
+            "2022": 334.0
+          }
+        },
+        "mctaiomaoiaovmagly": {
+          "FullName": "Otavio Oliveira De Maya Viana",
+          "1aFase": {
+            "2022": 382.0
+          }
+        },
+        "lca0v1cgoamiillalu2me4s": {
+          "FullName": "Lucas Alves Vilela",
+          "1aFase": {
+            "2022": 382.0
+          }
+        },
+        "amurrunmbgosilnealmoci": {
+          "FullName": "Brunna Louise Martins Rocha",
+          "1aFase": {
+            "2022": 382.0
+          }
+        },
+        "ul3a4osazgiogvmotecmn1k": {
+          "FullName": "Gustavo Takechi",
+          "1aFase": {
+            "2022": 508.0
+          }
+        },
+        "i3aamogateml5iogsrclb1c": {
+          "FullName": "Gabriel De Oliveira",
+          "1aFase": {
+            "2022": 508.0
+          }
+        },
+        "l1polha2raiamahemcto": {
+          "FullName": "Raphaela Dos Santos",
+          "1aFase": {
+            "2022": 508.0
           }
         }
       },
@@ -1628,6 +1767,10 @@ HISTORY = {
         "2020": {
           "Teams": 2,
           "BestRank": 231
+        },
+        "2022": {
+          "Teams": 2,
+          "BestRank": 136
         }
       },
       "Contestants": {
@@ -1832,7 +1975,8 @@ HISTORY = {
         "lohmelnaoi13mgbigsaracc": {
           "FullName": "Gabriel Sancho",
           "1aFase": {
-            "2019": 498.0
+            "2019": 498.0,
+            "2022": 136.0
           }
         },
         "cgaabogsilnmmsraeuiassl": {
@@ -1857,13 +2001,15 @@ HISTORY = {
           "FullName": "Lucas Ferreira",
           "1aFase": {
             "2019": 587.0,
-            "2020": 231.0
+            "2020": 231.0,
+            "2022": 136.0
           }
         },
         "0elgo1ega0miiico2idmrav": {
           "FullName": "Diego Santos",
           "1aFase": {
-            "2020": 231.0
+            "2020": 231.0,
+            "2022": 300.0
           }
         },
         "craeogyidogarlmam": {
@@ -1888,6 +2034,24 @@ HISTORY = {
           "FullName": "João Souza",
           "1aFase": {
             "2020": 470.0
+          }
+        },
+        "rmgiuoalticmjocgsv": {
+          "FullName": "João Guntijo",
+          "1aFase": {
+            "2022": 136.0
+          }
+        },
+        "pssmcoigcmlsdoa": {
+          "FullName": "Christian Santos",
+          "1aFase": {
+            "2022": 300.0
+          }
+        },
+        "cnmhoaaoomcouliyolti": {
+          "FullName": "Luciano Oyo Viana",
+          "1aFase": {
+            "2022": 300.0
           }
         }
       }
@@ -1959,6 +2123,10 @@ HISTORY = {
         "2021": {
           "Teams": 1,
           "BestRank": 122
+        },
+        "2022": {
+          "Teams": 1,
+          "BestRank": 135
         }
       },
       "Contestants": {
@@ -2088,13 +2256,21 @@ HISTORY = {
         "itiomlchgvlmiaaamsi": {
           "FullName": "Matheus Loiola",
           "1aFase": {
-            "2021": 122.0
+            "2021": 122.0,
+            "2022": 135.0
           }
         },
         "oxinipcorctlmhnaaz": {
           "FullName": "Caio Aguiar",
           "1aFase": {
-            "2021": 122.0
+            "2021": 122.0,
+            "2022": 135.0
+          }
+        },
+        "i3a6lemh9fitlaiocams6glk8r": {
+          "FullName": "Khalil Freitas",
+          "1aFase": {
+            "2022": 135.0
           }
         }
       }
@@ -2104,6 +2280,10 @@ HISTORY = {
         "2020": {
           "Teams": 5,
           "BestRank": 391
+        },
+        "2022": {
+          "Teams": 5,
+          "BestRank": 107
         }
       },
       "Contestants": {
@@ -2196,6 +2376,96 @@ HISTORY = {
           "1aFase": {
             "2020": 659.0
           }
+        },
+        "uterprsebccurmsobdmhea": {
+          "FullName": "Arthur Bouças",
+          "1aFase": {
+            "2022": 107.0
+          }
+        },
+        "euglaatbirsosmccneprmbrmeei": {
+          "FullName": "Gabriel Martins",
+          "1aFase": {
+            "2022": 107.0
+          }
+        },
+        "elpieaepocniuebmolmrcsovri": {
+          "FullName": "Plínio Valério",
+          "1aFase": {
+            "2022": 107.0
+          }
+        },
+        "acposolzrsmsbeecmrucuee": {
+          "FullName": "Lucas Costa",
+          "1aFase": {
+            "2022": 275.0
+          }
+        },
+        "saeoarersuerspmncedcmb": {
+          "FullName": "Andreas Spyridakis",
+          "1aFase": {
+            "2022": 275.0
+          }
+        },
+        "erdcuccpdsmbaaueimveols": {
+          "FullName": "Lucas Matos",
+          "1aFase": {
+            "2022": 275.0
+          }
+        },
+        "pguerbgloemehicnsreorbuemmeac": {
+          "FullName": "Guilherme Nóbrega",
+          "1aFase": {
+            "2022": 504.0
+          }
+        },
+        "ctumclrbmegaiepevbtoreiersi": {
+          "FullName": "Gabriel Rivetti",
+          "1aFase": {
+            "2022": 504.0
+          }
+        },
+        "reoreurausbmeeacmoebnplcd": {
+          "FullName": "Leandro Abreu",
+          "1aFase": {
+            "2022": 504.0
+          }
+        },
+        "eaebareshucasemnutuccmpmarbo": {
+          "FullName": "Matheus Carnaúba",
+          "1aFase": {
+            "2022": 508.0
+          }
+        },
+        "cemojecbuooosmpsmireacrgaansb": {
+          "FullName": "João Marcos Oliveira Melo",
+          "1aFase": {
+            "2022": 508.0
+          }
+        },
+        "adilcsepbomumdesoesurcersu": {
+          "FullName": "Luis Eduardo Silva Dos Santos",
+          "1aFase": {
+            "2022": 508.0
+          }
+        },
+        "mgoeulacucrsbepovemp": {
+          "FullName": "Paulo Victor Sousa Gomes",
+          "1aFase": {
+            "2022": 508.0
+          }
+        },
+        "grtacsupbomrmoeemesrrceghu": {
+          "FullName": "Arthur Gomes",
+          "1aFase": {
+            "2022": 508.0
+          }
+        },
+        "ccucsbmimeeoperbrle": {
+          "FullName": "Eric Binsfeld",
+          "1aFase": {
+            "2022": 508.0
+          }
         }
       }
     }
@@ -2238,6 +2508,10 @@ HISTORY = {
         "2021": {
           "Teams": 6,
           "BestRank": 49
+        },
+        "2022": {
+          "Teams": 5,
+          "BestRank": 13
         }
       },
       "Contestants": {
@@ -2749,7 +3023,8 @@ HISTORY = {
           "1aFase": {
             "2019": 13.0,
             "2020": 20.0,
-            "2021": 49.0
+            "2021": 49.0,
+            "2022": 13.0
           },
           "Nacional": {
             "2019": 13.0,
@@ -2887,13 +3162,15 @@ HISTORY = {
         "eninehebenfcqiersauubgraatdwt": {
           "FullName": "Alexander Henrique Watanabe De Souza",
           "1aFase": {
-            "2020": 282.0
+            "2020": 282.0,
+            "2022": 115.0
           }
         },
         "cesengrcbnrldtfsuiau": {
           "FullName": "Lucas Nunes Rios",
           "1aFase": {
-            "2020": 282.0
+            "2020": 282.0,
+            "2022": 115.0
           }
         },
         "foardisdgnscbepucrnheeest": {
@@ -2935,13 +3212,15 @@ HISTORY = {
         "glo9lancedaariumcc9ms": {
           "FullName": "Luan César Dutra Carvalho",
           "1aFase": {
-            "2021": 88.0
+            "2021": 88.0,
+            "2022": 201.0
           }
         },
         "eofrymaagardnclimu": {
           "FullName": "Ryan Fernandes Auder Lopes",
           "1aFase": {
-            "2021": 88.0
+            "2021": 88.0,
+            "2022": 201.0
           }
         },
         "utugotfmcvsadoeunraeisbgr": {
@@ -2965,7 +3244,8 @@ HISTORY = {
         "leraa3a2isderxamlecontamng": {
           "FullName": "Alexandre Arantes Naves",
           "1aFase": {
-            "2021": 220.0
+            "2021": 220.0,
+            "2022": 201.0
           }
         },
         "egptodudnoscfbrejseoiata": {
@@ -3007,13 +3287,15 @@ HISTORY = {
         "sisfdategilnuueencborss": {
           "FullName": "Nelsi Junior",
           "1aFase": {
-            "2021": 400.0
+            "2021": 400.0,
+            "2022": 13.0
           }
         },
         "mmnaaoialelugc1m6o": {
           "FullName": "Lauane Mateus Oliveira De Moraes",
           "1aFase": {
-            "2021": 400.0
+            "2021": 400.0,
+            "2022": 13.0
           }
         },
         "eldegmcigioeomsdaiungf": {
@@ -3040,6 +3322,48 @@ HISTORY = {
           "FullName": "André Augusto Miranda Da Silva",
           "Nacional": {
             "2012": 13.0
+          }
+        },
+        "djcrnoreaebdtuusaedgifn": {
+          "FullName": "Jan Eduardo Macedo Barbosa Junior",
+          "1aFase": {
+            "2022": 115.0
+          }
+        },
+        "duciuslbfnmahocrdigestea": {
+          "FullName": "Luís Miguel Gouveia Machado",
+          "1aFase": {
+            "2022": 126.0
+          }
+        },
+        "clgsrsamvmeiahilulo": {
+          "FullName": "Luís Henrique Alves Rosa",
+          "1aFase": {
+            "2022": 126.0
+          }
+        },
+        "llctrmgiauoscodilasimr": {
+          "FullName": "Luís Ricardo Santos De Lima",
+          "1aFase": {
+            "2022": 126.0
+          }
+        },
+        "tveoinntwdbfecerusg": {
+          "FullName": "Wevton Junior Fagundes Santana",
+          "1aFase": {
+            "2022": 228.0
+          }
+        },
+        "5mjaialrbc4oyzmeeitocg": {
+          "FullName": "Joyce Beatriz Ferreira Da Costa Silva",
+          "1aFase": {
+            "2022": 228.0
+          }
+        },
+        "mmipocmasaadolsfcg": {
+          "FullName": "Daniel Campos Da Silva",
+          "1aFase": {
+            "2022": 228.0
           }
         }
       },
@@ -3818,6 +4142,10 @@ HISTORY = {
         "2021": {
           "Teams": 1,
           "BestRank": 356
+        },
+        "2022": {
+          "Teams": 3,
+          "BestRank": 249
         }
       },
       "Contestants": {
@@ -3951,7 +4279,8 @@ HISTORY = {
           "FullName": "Emanuel Silva Araujo",
           "1aFase": {
             "2019": 481.0,
-            "2020": 586.0
+            "2020": 586.0,
+            "2022": 369.0
           }
         },
         "maviiucgsu71crniil0moozeqi": {
@@ -4007,7 +4336,8 @@ HISTORY = {
         "aisrdtiegttoituoieigauabdfmnheoraont": {
           "FullName": "Thiago Rafael Mariotti Claudio",
           "1aFase": {
-            "2020": 586.0
+            "2020": 586.0,
+            "2022": 369.0
           }
         },
         "eaodesremaugnirubroeinundaosbftot": {
@@ -4074,6 +4404,48 @@ HISTORY = {
           "FullName": "Anthoni Sena",
           "1aFase": {
             "2021": 356.0
+          }
+        },
+        "mloopagiiwssmce": {
+          "FullName": "Wésio Pascoal Messias Coelho",
+          "1aFase": {
+            "2022": 249.0
+          }
+        },
+        "taoobmopllrzorkmoeaucreied": {
+          "FullName": "Pedro Lima Bezerra",
+          "1aFase": {
+            "2022": 249.0
+          }
+        },
+        "lcam2mamiohr1ceh0ygl2": {
+          "FullName": "Marcyhel Da Silva Menezes",
+          "1aFase": {
+            "2022": 249.0
+          }
+        },
+        "atdgnugmmeoeaosmsrcstlsoawainh": {
+          "FullName": "Matheus Wagner Martins",
+          "1aFase": {
+            "2022": 279.0
+          }
+        },
+        "2a059ocmaaim7nmal9dg": {
+          "FullName": "Amanda Araujo",
+          "1aFase": {
+            "2022": 279.0
+          }
+        },
+        "ca1laaetm9airmyitaonhiegxr": {
+          "FullName": "Thaynara Dos Santos Teixeira",
+          "1aFase": {
+            "2022": 279.0
+          }
+        },
+        "lmiaromnngvooinottcaver": {
+          "FullName": "José Antonio Gonçalves Neto",
+          "1aFase": {
+            "2022": 369.0
           }
         }
       }
@@ -4544,6 +4916,10 @@ HISTORY = {
         "2021": {
           "Teams": 11,
           "BestRank": 41
+        },
+        "2022": {
+          "Teams": 7,
+          "BestRank": 61
         }
       },
       "Contestants": {
@@ -4633,7 +5009,8 @@ HISTORY = {
             "2018": 107.0,
             "2019": 327.0,
             "2020": 68.0,
-            "2021": 41.0
+            "2021": 41.0,
+            "2022": 61.0
           },
           "Nacional": {
             "2021": 29.0
@@ -4689,7 +5066,8 @@ HISTORY = {
           "1aFase": {
             "2019": 92.0,
             "2020": 68.0,
-            "2021": 41.0
+            "2021": 41.0,
+            "2022": 61.0
           },
           "Nacional": {
             "2021": 29.0
@@ -4774,7 +5152,8 @@ HISTORY = {
           "FullName": "Lucas Arriel",
           "1aFase": {
             "2020": 354.0,
-            "2021": 107.0
+            "2021": 107.0,
+            "2022": 61.0
           }
         },
         "iormaidcnqoirilaorinagoguvm": {
@@ -4862,25 +5241,29 @@ HISTORY = {
         "smuolrateaeooimcgahgflmb": {
           "FullName": "Matheus Fernandes Rabelo Matheus",
           "1aFase": {
-            "2021": 317.0
+            "2021": 317.0,
+            "2022": 224.0
           }
         },
         "oheaocpuomiaoazolglsmtesid": {
           "FullName": "Iago Lopes",
           "1aFase": {
-            "2021": 361.0
+            "2021": 361.0,
+            "2022": 218.0
           }
         },
         "iaomlllmerkgbgcla": {
           "FullName": "Kallel Braga",
           "1aFase": {
-            "2021": 361.0
+            "2021": 361.0,
+            "2022": 218.0
           }
         },
         "4gml66oc9im1mga": {
           "FullName": "Guilherme Machado",
           "1aFase": {
-            "2021": 361.0
+            "2021": 361.0,
+            "2022": 218.0
           }
         },
         "clem9gi1oa11lemms": {
@@ -4892,19 +5275,22 @@ HISTORY = {
         "zelenoroodaimmmgce": {
           "FullName": "Enzo Rezende",
           "1aFase": {
-            "2021": 379.0
+            "2021": 379.0,
+            "2022": 72.0
           }
         },
         "oplcukaosvmzgruauliim": {
           "FullName": "Paulo Suzuki",
           "1aFase": {
-            "2021": 379.0
+            "2021": 379.0,
+            "2022": 134.0
           }
         },
         "gmozm4armaigcl4et": {
           "FullName": "João Guilherme Guimarães E Silva",
           "1aFase": {
-            "2021": 396.0
+            "2021": 396.0,
+            "2022": 162.0
           }
         },
         "cr1oifldamfgmanc": {
@@ -4916,7 +5302,8 @@ HISTORY = {
         "vcirgmmaiiolrridcecdoaoa": {
           "FullName": "Ricardo Vieira",
           "1aFase": {
-            "2021": 396.0
+            "2021": 396.0,
+            "2022": 162.0
           }
         },
         "lsuizue1gao7mmc3ado": {
@@ -4935,6 +5322,66 @@ HISTORY = {
           "FullName": "Igor Ferreira",
           "1aFase": {
             "2021": 400.0
+          }
+        },
+        "focrviomc9iolpam1tjgao7": {
+          "FullName": "João Victor Porto Fernandes",
+          "1aFase": {
+            "2022": 72.0
+          }
+        },
+        "rgsclpcloimematai": {
+          "FullName": "Carlos Araujo",
+          "1aFase": {
+            "2022": 72.0
+          }
+        },
+        "amhgmjslooc3imoa1": {
+          "FullName": "João Henrique Miranda",
+          "1aFase": {
+            "2022": 134.0
+          }
+        },
+        "sanl4lhmmgia2cupioa36o": {
+          "FullName": "Sophia Luna",
+          "1aFase": {
+            "2022": 134.0
+          }
+        },
+        "lfamagmvaicmasiaoaiomli": {
+          "FullName": "Savio Duarte Lemes",
+          "1aFase": {
+            "2022": 162.0
+          }
+        },
+        "mquiveactldueeaosazm": {
+          "FullName": "Mateus Quezada",
+          "1aFase": {
+            "2022": 224.0
+          }
+        },
+        "daoimcasgroibsmulrvn": {
+          "FullName": "Bruno Ribeiro",
+          "1aFase": {
+            "2022": 224.0
+          }
+        },
+        "ifhmeloomrobscaltuoloaij": {
+          "FullName": "Julio Tomaz Lobo",
+          "1aFase": {
+            "2022": 318.0
+          }
+        },
+        "loac1ypmahs2gbmaiikr": {
+          "FullName": "Raiky Prezotto Pereira Novaes",
+          "1aFase": {
+            "2022": 318.0
+          }
+        },
+        "ugaotharc00m2piplrml": {
+          "FullName": "Arthur Paes Leme Pinto",
+          "1aFase": {
+            "2022": 318.0
           }
         }
       },
@@ -5321,6 +5768,10 @@ HISTORY = {
         "2021": {
           "Teams": 4,
           "BestRank": 52
+        },
+        "2022": {
+          "Teams": 4,
+          "BestRank": 28
         }
       },
       "Contestants": {
@@ -5543,7 +5994,8 @@ HISTORY = {
             "2018": 691.0,
             "2019": 63.0,
             "2020": 74.0,
-            "2021": 52.0
+            "2021": 52.0,
+            "2022": 28.0
           },
           "Nacional": {
             "2019": 37.0,
@@ -5556,7 +6008,8 @@ HISTORY = {
           "1aFase": {
             "2019": 215.0,
             "2020": 85.0,
-            "2021": 52.0
+            "2021": 52.0,
+            "2022": 28.0
           },
           "Nacional": {
             "2021": 17.0
@@ -5593,7 +6046,8 @@ HISTORY = {
           "FullName": "Lucas Villar",
           "1aFase": {
             "2020": 290.0,
-            "2021": 150.0
+            "2021": 150.0,
+            "2022": 28.0
           }
         },
         "mmil002mao52c0g1h1": {
@@ -5617,7 +6071,8 @@ HISTORY = {
         "le1mmoig9rl9rlviano4ioad1a09c5e": {
           "FullName": "Leandro De Souza Oliveira",
           "1aFase": {
-            "2021": 150.0
+            "2021": 150.0,
+            "2022": 161.0
           }
         },
         "ribrofuoehcsomgl": {
@@ -5647,7 +6102,8 @@ HISTORY = {
         "uormjsreandlbf": {
           "FullName": "Leandro Pereira",
           "1aFase": {
-            "2021": 264.0
+            "2021": 264.0,
+            "2022": 164.0
           }
         },
         "ibinisrtcfasmhralvsu": {
@@ -5690,6 +6146,48 @@ HISTORY = {
           "FullName": "Eduardo Theodoro Bogue",
           "Nacional": {
             "2011": 34.0
+          }
+        },
+        "imlvousavrcbitfrs": {
+          "FullName": "João Victor Santos",
+          "1aFase": {
+            "2022": 161.0
+          }
+        },
+        "lgceopsiefmpmaiclirei": {
+          "FullName": "Filipe Pires",
+          "1aFase": {
+            "2022": 161.0
+          }
+        },
+        "pmeblemfrufsi": {
+          "FullName": "Matheus Felipe Alves Durães",
+          "1aFase": {
+            "2022": 164.0
+          }
+        },
+        "vlatgmcizugiomolasssuj": {
+          "FullName": "Luiz Gustavo Sabadim Spolon Junqueira",
+          "1aFase": {
+            "2022": 164.0
+          }
+        },
+        "amso0rsrmid1icaftaglaoie": {
+          "FullName": "Isadora Freitas Picoli",
+          "1aFase": {
+            "2022": 408.0
+          }
+        },
+        "auasornfmsnrfpsebdea": {
+          "FullName": "Fernanda De Paula Pessoa",
+          "1aFase": {
+            "2022": 408.0
+          }
+        },
+        "sgmbsriafneumeanondv": {
+          "FullName": "Giovanna Rodrigues Mendes",
+          "1aFase": {
+            "2022": 408.0
           }
         }
       },
@@ -6549,6 +7047,10 @@ HISTORY = {
         "2019": {
           "Teams": 3,
           "BestRank": 516
+        },
+        "2022": {
+          "Teams": 1,
+          "BestRank": 145
         }
       },
       "Contestants": {
@@ -6672,6 +7174,24 @@ HISTORY = {
           "FullName": "Mateus Vieira Dos Santos",
           "1aFase": {
             "2019": 665.0
+          }
+        },
+        "ur4s6mm6pboe5cgmr3": {
+          "FullName": "Leonardo Correia Da Silva",
+          "1aFase": {
+            "2022": 145.0
+          }
+        },
+        "35bcum5gpesrromm43": {
+          "FullName": "Bruno Biagi De Lima Piveta",
+          "1aFase": {
+            "2022": 145.0
+          }
+        },
+        "278bms5mrpru4gmoec": {
+          "FullName": "Kaio Christaldo",
+          "1aFase": {
+            "2022": 145.0
           }
         }
       }
@@ -6977,6 +7497,34 @@ HISTORY = {
           }
         }
       }
+    },
+    "Instituto Federal de Educação, Ciência e Tecnologia de Mato Grosso do Sul": {
+      "1aFase": {
+        "2022": {
+          "Teams": 1,
+          "BestRank": 439
+        }
+      },
+      "Contestants": {
+        "ifussmoneesrmeoazettusaubdsid": {
+          "FullName": "Moisés Francisco Ximenes De Souza",
+          "1aFase": {
+            "2022": 439.0
+          }
+        },
+        "idostbfreivumalannotdefsrejuiu": {
+          "FullName": "Flavio Henrique Junior",
+          "1aFase": {
+            "2022": 439.0
+          }
+        },
+        "abrudomsamoastfntumreesdesrci": {
+          "FullName": "Marcos Paulo Paolino Ramos",
+          "1aFase": {
+            "2022": 439.0
+          }
+        }
+      }
     }
   },
   "MT": {
@@ -7009,6 +7557,10 @@ HISTORY = {
         "2021": {
           "Teams": 3,
           "BestRank": 134
+        },
+        "2022": {
+          "Teams": 10,
+          "BestRank": 60
         }
       },
       "Contestants": {
@@ -7758,7 +8310,8 @@ HISTORY = {
           "FullName": "Henrique Soares",
           "1aFase": {
             "2020": 241.0,
-            "2021": 182.0
+            "2021": 182.0,
+            "2022": 60.0
           },
           "Nacional": {
             "2020": 56.0
@@ -7768,7 +8321,8 @@ HISTORY = {
           "FullName": "Gabriel De Sousa Gomes Pedroso",
           "1aFase": {
             "2020": 241.0,
-            "2021": 182.0
+            "2021": 182.0,
+            "2022": 60.0
           },
           "Nacional": {
             "2020": 56.0
@@ -7777,7 +8331,8 @@ HISTORY = {
         "cg1ahcnlliesjmemauoa0": {
           "FullName": "Jean Fortes",
           "1aFase": {
-            "2020": 241.0
+            "2020": 241.0,
+            "2022": 346.0
           },
           "Nacional": {
             "2020": 56.0
@@ -7914,6 +8469,168 @@ HISTORY = {
           "FullName": "Victor Hugo Duarte Da Silva",
           "1aFase": {
             "2021": 182.0
+          }
+        },
+        "coalmhlmliatedlooanto": {
+          "FullName": "Allan Toledo",
+          "1aFase": {
+            "2022": 60.0
+          }
+        },
+        "srsceiaamiolmaarc3o0oigc": {
+          "FullName": "Gabriel Acassio Correia",
+          "1aFase": {
+            "2022": 240.0
+          }
+        },
+        "ngalczoamlumiewnaamyiaakai": {
+          "FullName": "Aline Nakazawa",
+          "1aFase": {
+            "2022": 240.0
+          }
+        },
+        "omjgitmlorai2t8coaov3": {
+          "FullName": "João Vittor Padilha",
+          "1aFase": {
+            "2022": 240.0
+          }
+        },
+        "orgoismrdlndgociaumeor": {
+          "FullName": "Rogério Moura",
+          "1aFase": {
+            "2022": 283.0
+          }
+        },
+        "aoargloilroliammrangesfaucscea": {
+          "FullName": "Carlos Rafael Nogueira De Arruda Silva",
+          "1aFase": {
+            "2022": 283.0
+          }
+        },
+        "rskaohcmrealtmnelaioat": {
+          "FullName": "Raquel Arantes Valério",
+          "1aFase": {
+            "2022": 283.0
+          }
+        },
+        "imaloflmfhtasuazroocaea": {
+          "FullName": "Rafaela Francisco",
+          "1aFase": {
+            "2022": 346.0
+          }
+        },
+        "sga1aokm4oi2uczlrmala2": {
+          "FullName": "Karla De Souza E Silva",
+          "1aFase": {
+            "2022": 346.0
+          }
+        },
+        "zoddglvmuiatrmacovicoelirpsr": {
+          "FullName": "Pedro Vitor Da Cruz Silva",
+          "1aFase": {
+            "2022": 417.0
+          }
+        },
+        "mgjitmacolyseholalmaahaim": {
+          "FullName": "Jamily Silva",
+          "1aFase": {
+            "2022": 417.0
+          }
+        },
+        "mimro2imaogm4cgioloadrr5": {
+          "FullName": "Rodrigo Fabio Lima De Amorim",
+          "1aFase": {
+            "2022": 417.0
+          }
+        },
+        "iigk11nic0l0moaermsc": {
+          "FullName": "Nicollas Reis",
+          "1aFase": {
+            "2022": 487.0
+          }
+        },
+        "ioaloiocseo0ltnluvk9icum": {
+          "FullName": "Vinicius Leal",
+          "1aFase": {
+            "2022": 487.0
+          }
+        },
+        "cmoiaiamotehllfgrca": {
+          "FullName": "Rafael Clementi",
+          "1aFase": {
+            "2022": 487.0
+          }
+        },
+        "imaaclogonmarpneodr": {
+          "FullName": "Andre Parron",
+          "1aFase": {
+            "2022": 491.0
+          }
+        },
+        "loglmcobvarroitecmhaui1": {
+          "FullName": "Gabriel Ribeiro",
+          "1aFase": {
+            "2022": 491.0
+          }
+        },
+        "coalorai918cmagmm": {
+          "FullName": "Alexandre Muraro Do Carmo",
+          "1aFase": {
+            "2022": 491.0
+          }
+        },
+        "iidomrcnihgioitzgmla": {
+          "FullName": "Higor Bravo",
+          "1aFase": {
+            "2022": 503.0
+          }
+        },
+        "aecsgnaarinloliragcaostblmma": {
+          "FullName": "Carlos Santana",
+          "1aFase": {
+            "2022": 503.0
+          }
+        },
+        "buhotrtrmteasusrmfiinmas": {
+          "FullName": "Thamires Martins",
+          "1aFase": {
+            "2022": 503.0
+          }
+        },
+        "omagsocescpsoapmsisiolpt": {
+          "FullName": "Cassio Spessoto",
+          "1aFase": {
+            "2022": 508.0
+          }
+        },
+        "oiaorldacmelnooj40oag5m": {
+          "FullName": "João Leonardo Valdez",
+          "1aFase": {
+            "2022": 508.0
+          }
+        },
+        "rllnaeaotaomozcgihpmo": {
+          "FullName": "Raphael Ozono",
+          "1aFase": {
+            "2022": 508.0
+          }
+        },
+        "miinasisafcumostuwlburc": {
+          "FullName": "Winicius Casmal",
+          "1aFase": {
+            "2022": 508.0
+          }
+        },
+        "mvam6crigoloevti14c7lori": {
+          "FullName": "Victor Hugo Oliveira",
+          "1aFase": {
+            "2022": 508.0
+          }
+        },
+        "aoinhciotsernhmequgm": {
+          "FullName": "Thiago Christoni",
+          "1aFase": {
+            "2022": 508.0
           }
         }
       },
@@ -8301,6 +9018,10 @@ HISTORY = {
         "2021": {
           "Teams": 5,
           "BestRank": 103
+        },
+        "2022": {
+          "Teams": 1,
+          "BestRank": 296
         }
       },
       "Contestants": {
@@ -8496,6 +9217,24 @@ HISTORY = {
           "Nacional": {
             "2018": 32.0
           }
+        },
+        "eperricusacrtaluflabaalai": {
+          "FullName": "Lucas Barbosa",
+          "1aFase": {
+            "2022": 296.0
+          }
+        },
+        "aioflsaabnucapeatrmreclcrljuaeiny": {
+          "FullName": "Jucyelle Barros Do Nascimento",
+          "1aFase": {
+            "2022": 296.0
+          }
+        },
+        "siactcfnousabrrlaincsapafoarar": {
+          "FullName": "Francisco Racklyn",
+          "1aFase": {
+            "2022": 296.0
+          }
         }
       },
       "Nacional": {
@@ -8526,6 +9265,10 @@ HISTORY = {
         "2021": {
           "Teams": 7,
           "BestRank": 25
+        },
+        "2022": {
+          "Teams": 8,
+          "BestRank": 12
         }
       },
       "Contestants": {
@@ -8599,7 +9342,8 @@ HISTORY = {
           "FullName": "João Alcântara",
           "1aFase": {
             "2020": 35.0,
-            "2021": 25.0
+            "2021": 25.0,
+            "2022": 12.0
           },
           "Nacional": {
             "2020": 28.0,
@@ -8629,14 +9373,16 @@ HISTORY = {
           "FullName": "Jackson Da Silva",
           "1aFase": {
             "2020": 152.0,
-            "2021": 181.0
+            "2021": 181.0,
+            "2022": 120.0
           }
         },
         "ubanara2ilcfs": {
           "FullName": "Ascânio Neves",
           "1aFase": {
             "2020": 152.0,
-            "2021": 181.0
+            "2021": 181.0,
+            "2022": 120.0
           }
         },
         "cumasrlciflbm": {
@@ -8654,7 +9400,8 @@ HISTORY = {
         "frb2cvplliasu": {
           "FullName": "Paulo Severiano",
           "1aFase": {
-            "2020": 311.0
+            "2020": 311.0,
+            "2022": 127.0
           }
         },
         "bualifrgjllc": {
@@ -8691,7 +9438,8 @@ HISTORY = {
           "FullName": "Robson Pinheiro",
           "1aFase": {
             "2020": 410.0,
-            "2021": 100.0
+            "2021": 100.0,
+            "2022": 12.0
           }
         },
         "lfblcsilarubv": {
@@ -8833,6 +9581,120 @@ HISTORY = {
           "FullName": "Thiago José Silva Santos",
           "Nacional": {
             "2019": 26.0
+          }
+        },
+        "e4otldricovi8pvrmeco": {
+          "FullName": "Pedro Ferreira",
+          "1aFase": {
+            "2022": 12.0
+          }
+        },
+        "imapnuflbrcj": {
+          "FullName": "João Magalhães",
+          "1aFase": {
+            "2022": 120.0
+          }
+        },
+        "gcaolcliimaad75mioen": {
+          "FullName": "Caio Cavalcante",
+          "1aFase": {
+            "2022": 127.0
+          }
+        },
+        "rluaclibfjco": {
+          "FullName": "João Lucas Oliveira Costa",
+          "1aFase": {
+            "2022": 127.0
+          }
+        },
+        "laiuclarrfbm": {
+          "FullName": "Matheus Aidano",
+          "1aFase": {
+            "2022": 200.0
+          }
+        },
+        "3iammg0il0msaaitaolc": {
+          "FullName": "Taisa Lima",
+          "1aFase": {
+            "2022": 200.0
+          }
+        },
+        "aludrfibvcf": {
+          "FullName": "Danilo Freire",
+          "1aFase": {
+            "2022": 200.0
+          }
+        },
+        "amkmcomual1e3qiiisg": {
+          "FullName": "Isaque Cerqueira",
+          "1aFase": {
+            "2022": 449.0
+          }
+        },
+        "vblacaigurlfc": {
+          "FullName": "Vinícius Alcântara",
+          "1aFase": {
+            "2022": 449.0
+          }
+        },
+        "ofciamepikligclmfsil": {
+          "FullName": "Filipe Ferreira Figueredo Soriano Pinto",
+          "1aFase": {
+            "2022": 449.0
+          }
+        },
+        "ocfraimfslaubt": {
+          "FullName": "Filipe Mota",
+          "1aFase": {
+            "2022": 463.0
+          }
+        },
+        "slsabrcusipfj": {
+          "FullName": "João Pedro Simões",
+          "1aFase": {
+            "2022": 463.0
+          }
+        },
+        "mglmet0h3naacaast2anmo6ius": {
+          "FullName": "José Matheus Santana Alves",
+          "1aFase": {
+            "2022": 463.0
+          }
+        },
+        "lsufbicvaar": {
+          "FullName": "Vinícius Alencar",
+          "1aFase": {
+            "2022": 470.0
+          }
+        },
+        "rubpfimljaac": {
+          "FullName": "Jean Almeida",
+          "1aFase": {
+            "2022": 470.0
+          }
+        },
+        "mhotbciacglooarsmeeauamsnd": {
+          "FullName": "Matheus Nobre",
+          "1aFase": {
+            "2022": 470.0
+          }
+        },
+        "rl9lcu0g0im2maaacom": {
+          "FullName": "Laura Costa",
+          "1aFase": {
+            "2022": 508.0
+          }
+        },
+        "ibaucbfilrmp": {
+          "FullName": "Isadora Paz",
+          "1aFase": {
+            "2022": 508.0
+          }
+        },
+        "rluaccibfl2m": {
+          "FullName": "Luiza Marques",
+          "1aFase": {
+            "2022": 508.0
           }
         }
       },
@@ -9048,6 +9910,10 @@ HISTORY = {
         "2019": {
           "Teams": 3,
           "BestRank": 253
+        },
+        "2022": {
+          "Teams": 2,
+          "BestRank": 397
         }
       },
       "Contestants": {
@@ -9202,6 +10068,42 @@ HISTORY = {
           "1aFase": {
             "2019": 388.0
           }
+        },
+        "9siomzmmolaugncilh8eac": {
+          "FullName": "Michel Nascimento Souza",
+          "1aFase": {
+            "2022": 397.0
+          }
+        },
+        "roagillmcpme4o88ba": {
+          "FullName": "Pablo Rabelo",
+          "1aFase": {
+            "2022": 397.0
+          }
+        },
+        "amacalimoihclgsctaeurr": {
+          "FullName": "Arthur Celis Santos",
+          "1aFase": {
+            "2022": 397.0
+          }
+        },
+        "c4lihtiosaa6msaggmole": {
+          "FullName": "Thiago Sales Dos Santos",
+          "1aFase": {
+            "2022": 480.0
+          }
+        },
+        "mgiopimacahtoltecg": {
+          "FullName": "Tiago Pinheiro Silva",
+          "1aFase": {
+            "2022": 480.0
+          }
+        },
+        "ecl7s8emalrgo7dmi": {
+          "FullName": "Elder Dos Santos Borges",
+          "1aFase": {
+            "2022": 480.0
+          }
         }
       },
       "Nacional": {
@@ -9244,6 +10146,10 @@ HISTORY = {
         "2021": {
           "Teams": 2,
           "BestRank": 155
+        },
+        "2022": {
+          "Teams": 3,
+          "BestRank": 373
         }
       },
       "Contestants": {
@@ -9554,7 +10460,8 @@ HISTORY = {
           "FullName": "Gabriel Santana",
           "1aFase": {
             "2020": 295.0,
-            "2021": 303.0
+            "2021": 303.0,
+            "2022": 395.0
           }
         },
         "mthpoll00emoa19cii": {
@@ -9574,13 +10481,15 @@ HISTORY = {
           "FullName": "Diego Rocha Cerqueira",
           "1aFase": {
             "2020": 398.0,
-            "2021": 303.0
+            "2021": 303.0,
+            "2022": 395.0
           }
         },
         "nmqmcogieli6ierhaue6": {
           "FullName": "Carlos Valadão",
           "1aFase": {
-            "2020": 398.0
+            "2020": 398.0,
+            "2022": 395.0
           }
         },
         "asbimiarcrtmo1allgiet": {
@@ -9617,6 +10526,42 @@ HISTORY = {
           "FullName": "Maria Alice Oliveira Costa Leal",
           "Nacional": {
             "2011": 32.0
+          }
+        },
+        "arpoacogisimeledmlroareorginmemir": {
+          "FullName": "Émerson Rodrigo Lima Pereira",
+          "1aFase": {
+            "2022": 373.0
+          }
+        },
+        "maeaelirriuonllogoaancmeenaiimmtp": {
+          "FullName": "Emanuel Antonio Lima Pereira",
+          "1aFase": {
+            "2022": 373.0
+          }
+        },
+        "scegomavevi2ontmlfr": {
+          "FullName": "Everton Ferreira",
+          "1aFase": {
+            "2022": 373.0
+          }
+        },
+        "mm2mibsgtmoakocla": {
+          "FullName": "Caio Bruno Santos Matos De Oliveira",
+          "1aFase": {
+            "2022": 448.0
+          }
+        },
+        "irsagkrhlcmgmgo": {
+          "FullName": "João Vitor Cedraz Carneiro",
+          "1aFase": {
+            "2022": 448.0
+          }
+        },
+        "ml0laaia9omicg00m": {
+          "FullName": "Amanda Lima Bezerra",
+          "1aFase": {
+            "2022": 448.0
           }
         }
       },
@@ -9676,6 +10621,10 @@ HISTORY = {
         "2021": {
           "Teams": 1,
           "BestRank": 95
+        },
+        "2022": {
+          "Teams": 1,
+          "BestRank": 76
         }
       },
       "Contestants": {
@@ -9801,7 +10750,8 @@ HISTORY = {
           "1aFase": {
             "2019": 410.0,
             "2020": 141.0,
-            "2021": 95.0
+            "2021": 95.0,
+            "2022": 76.0
           },
           "Nacional": {
             "2021": 52.0
@@ -9832,7 +10782,8 @@ HISTORY = {
           "1aFase": {
             "2019": 458.0,
             "2020": 229.0,
-            "2021": 95.0
+            "2021": 95.0,
+            "2022": 76.0
           },
           "Nacional": {
             "2021": 52.0
@@ -9842,7 +10793,8 @@ HISTORY = {
           "FullName": "Daniel Costa",
           "1aFase": {
             "2020": 141.0,
-            "2021": 95.0
+            "2021": 95.0,
+            "2022": 76.0
           },
           "Nacional": {
             "2021": 52.0
@@ -11074,6 +12026,10 @@ HISTORY = {
         "2021": {
           "Teams": 10,
           "BestRank": 8
+        },
+        "2022": {
+          "Teams": 3,
+          "BestRank": 19
         }
       },
       "Contestants": {
@@ -11482,7 +12438,8 @@ HISTORY = {
             "2018": 213.0,
             "2019": 18.0,
             "2020": 4.0,
-            "2021": 8.0
+            "2021": 8.0,
+            "2022": 19.0
           },
           "Nacional": {
             "2019": 27.0,
@@ -11509,7 +12466,8 @@ HISTORY = {
           "FullName": "Levi Weber Costa",
           "1aFase": {
             "2019": 223.0,
-            "2020": 29.0
+            "2020": 29.0,
+            "2022": 19.0
           }
         },
         "atheaormcoosomirsbln": {
@@ -11517,7 +12475,8 @@ HISTORY = {
           "1aFase": {
             "2019": 223.0,
             "2020": 29.0,
-            "2021": 8.0
+            "2021": 8.0,
+            "2022": 19.0
           },
           "Nacional": {
             "2021": 19.0
@@ -11614,7 +12573,8 @@ HISTORY = {
         "kabgfmazbairau": {
           "FullName": "Izak Alves Gama",
           "1aFase": {
-            "2021": 322.0
+            "2021": 322.0,
+            "2022": 211.0
           }
         },
         "abovraueitblfri": {
@@ -11626,7 +12586,8 @@ HISTORY = {
         "nomafeurbbisfajrfonre": {
           "FullName": "Jefferson Silva",
           "1aFase": {
-            "2021": 322.0
+            "2021": 322.0,
+            "2022": 211.0
           }
         },
         "ougfracthhbutioibnoa": {
@@ -11738,6 +12699,30 @@ HISTORY = {
           "Nacional": {
             "2009": 37.0,
             "2010": 18.0
+          }
+        },
+        "gycdaodsilremm1l": {
+          "FullName": "Dely Silva",
+          "1aFase": {
+            "2022": 88.0
+          }
+        },
+        "mcignaoziiimlsog": {
+          "FullName": "Gabriel Sizinio Bomfim Cruz",
+          "1aFase": {
+            "2022": 88.0
+          }
+        },
+        "podbarrrogailojgaommci": {
+          "FullName": "Igor Borja",
+          "1aFase": {
+            "2022": 88.0
+          }
+        },
+        "gicaoonmciohnulftvmiii": {
+          "FullName": "Vinicius Coutinho",
+          "1aFase": {
+            "2022": 211.0
           }
         }
       },
@@ -12605,6 +13590,10 @@ HISTORY = {
         "2020": {
           "Teams": 7,
           "BestRank": 304
+        },
+        "2022": {
+          "Teams": 6,
+          "BestRank": 261
         }
       },
       "Contestants": {
@@ -12779,7 +13768,8 @@ HISTORY = {
           "FullName": "Yla Maria Buri Santana Dos Santos",
           "1aFase": {
             "2019": 545.0,
-            "2020": 513.0
+            "2020": 513.0,
+            "2022": 261.0
           }
         },
         "odestbserlenrcausutas": {
@@ -12841,13 +13831,15 @@ HISTORY = {
         "auulleersfilemabdaeicdp": {
           "FullName": "Felipe Kaian Mutti Almeida",
           "1aFase": {
-            "2020": 456.0
+            "2020": 456.0,
+            "2022": 358.0
           }
         },
         "lturaneavdoiueiobarslerc": {
           "FullName": "Renato Russo Gomes De Oliveira",
           "1aFase": {
-            "2020": 513.0
+            "2020": 513.0,
+            "2022": 261.0
           }
         },
         "scjiaudboloradonjuelru": {
@@ -12914,6 +13906,96 @@ HISTORY = {
           "FullName": "Brendo Souza Pinheiro",
           "1aFase": {
             "2020": 672.0
+          }
+        },
+        "caamuebnraoodzsrlcuuys": {
+          "FullName": "Marcony Jefferson Silva Souza",
+          "1aFase": {
+            "2022": 261.0
+          }
+        },
+        "siueredacleruxdanbalafars": {
+          "FullName": "Alexandre Gomes De Farias",
+          "1aFase": {
+            "2022": 321.0
+          }
+        },
+        "ulniardcadroaalsmbsedleueas": {
+          "FullName": "Alessandro Carvalho De Almeida",
+          "1aFase": {
+            "2022": 321.0
+          }
+        },
+        "eleisrrbcoeauvdapdriulmiiaaflin": {
+          "FullName": "Filipe Oliveira",
+          "1aFase": {
+            "2022": 321.0
+          }
+        },
+        "duoubdczrrirjurbaelnoeadsua": {
+          "FullName": "Eduardo Braz Pinto Wanderley Junior",
+          "1aFase": {
+            "2022": 358.0
+          }
+        },
+        "ucdsoouoaeiraonntrcotabillenn": {
+          "FullName": "Antonio Carolino Araujo Neto",
+          "1aFase": {
+            "2022": 358.0
+          }
+        },
+        "leeruausmdehcbstroamiesdu": {
+          "FullName": "Matheus Barreto Medeiros",
+          "1aFase": {
+            "2022": 409.0
+          }
+        },
+        "oblnsensrusatdoaclreu": {
+          "FullName": "Loren Vitória Cavalcante Santos",
+          "1aFase": {
+            "2022": 409.0
+          }
+        },
+        "mcuoaalmrbilsuaedlen": {
+          "FullName": "Leonam Sousa Bittencourt Dias Lima",
+          "1aFase": {
+            "2022": 409.0
+          }
+        },
+        "rdseoebaoeldrpuulcrba": {
+          "FullName": "Pedro Oliveira Rabelo",
+          "1aFase": {
+            "2022": 416.0
+          }
+        },
+        "cupabexreaelrlasbdsteudr": {
+          "FullName": "Albert Álef Silva Praxedes",
+          "1aFase": {
+            "2022": 416.0
+          }
+        },
+        "aldacalaciusebmeoudrt": {
+          "FullName": "Átila Esquivel Macedo",
+          "1aFase": {
+            "2022": 416.0
+          }
+        },
+        "caboeusrtnoososdanularujb": {
+          "FullName": "João Santos",
+          "1aFase": {
+            "2022": 495.0
+          }
+        },
+        "iatsroemelrhcdeumlsugbau": {
+          "FullName": "Guilherme Matos",
+          "1aFase": {
+            "2022": 495.0
+          }
+        },
+        "eascuoiouuailrnbdjrvlf": {
+          "FullName": "Flávio Júnior",
+          "1aFase": {
+            "2022": 495.0
           }
         }
       },
@@ -13111,6 +14193,10 @@ HISTORY = {
         "2019": {
           "Teams": 1,
           "BestRank": 354
+        },
+        "2022": {
+          "Teams": 3,
+          "BestRank": 341
         }
       },
       "Contestants": {
@@ -13130,6 +14216,60 @@ HISTORY = {
           "FullName": "Jucimar Junior",
           "1aFase": {
             "2019": 354.0
+          }
+        },
+        "uperann3ec1banssaa3r2ouol9fa": {
+          "FullName": "Renan Pereira De Sousa",
+          "1aFase": {
+            "2022": 341.0
+          }
+        },
+        "a0f5be3paoplnauovcaulrasli32": {
+          "FullName": "Paulo Henrique Cabral E Silva",
+          "1aFase": {
+            "2022": 341.0
+          }
+        },
+        "uecdcafaua3a52rmvobaolc2senl1p": {
+          "FullName": "Lucas Macedo",
+          "1aFase": {
+            "2022": 341.0
+          }
+        },
+        "a1caaeaucolro4fz8rjnop9ub9": {
+          "FullName": "Joao Cruz",
+          "1aFase": {
+            "2022": 368.0
+          }
+        },
+        "o2daibdnrefvrrusa4laucpal2oae17": {
+          "FullName": "Eduardo Ribeiro",
+          "1aFase": {
+            "2022": 368.0
+          }
+        },
+        "db2o0ceserd4rgeilnfnaruo53abnaauap": {
+          "FullName": "Bernardo Guisande",
+          "1aFase": {
+            "2022": 368.0
+          }
+        },
+        "onacoivael3adf8briu2pi41eararrc": {
+          "FullName": "Ricardo Vieira",
+          "1aFase": {
+            "2022": 444.0
+          }
+        },
+        "l61e2oo2apuia2auafcsenrszabl": {
+          "FullName": "Elias Souza",
+          "1aFase": {
+            "2022": 444.0
+          }
+        },
+        "mle1e1n2oarplnaacbswo1aluif3sla": {
+          "FullName": "Wallesson Lima",
+          "1aFase": {
+            "2022": 444.0
           }
         }
       }
@@ -14051,6 +15191,10 @@ HISTORY = {
         "2021": {
           "Teams": 5,
           "BestRank": 77
+        },
+        "2022": {
+          "Teams": 5,
+          "BestRank": 64
         }
       },
       "Contestants": {
@@ -14369,7 +15513,8 @@ HISTORY = {
             "2018": 120.0,
             "2019": 104.0,
             "2020": 50.0,
-            "2021": 77.0
+            "2021": 77.0,
+            "2022": 64.0
           },
           "Nacional": {
             "2020": 55.0,
@@ -14391,7 +15536,8 @@ HISTORY = {
         "iadlbocnrroeuoluivsueead": {
           "FullName": "Silvio Britto",
           "1aFase": {
-            "2018": 369.0
+            "2018": 369.0,
+            "2022": 278.0
           }
         },
         "m02i1nsl2omactvallieahooss": {
@@ -14410,7 +15556,8 @@ HISTORY = {
           "FullName": "Michael Silva",
           "1aFase": {
             "2019": 168.0,
-            "2020": 50.0
+            "2020": 50.0,
+            "2022": 278.0
           },
           "Nacional": {
             "2020": 55.0
@@ -14427,14 +15574,16 @@ HISTORY = {
           "1aFase": {
             "2019": 280.0,
             "2020": 254.0,
-            "2021": 135.0
+            "2021": 135.0,
+            "2022": 257.0
           }
         },
         "odeonaeelbtceirsunuasalln": {
           "FullName": "Danielle Santos",
           "1aFase": {
             "2019": 365.0,
-            "2020": 254.0
+            "2020": 254.0,
+            "2022": 257.0
           }
         },
         "reuaaronmebueacolsl": {
@@ -14470,7 +15619,8 @@ HISTORY = {
         "uunobaueocortaacnloej": {
           "FullName": "João Guilherme Araujo Canuto",
           "1aFase": {
-            "2021": 209.0
+            "2021": 209.0,
+            "2022": 64.0
           }
         },
         "evuoecbarcnasuosularetg": {
@@ -14494,13 +15644,15 @@ HISTORY = {
         "sernafnirneauumdtoeecleuanhbso": {
           "FullName": "Mateus Fernandes Nascimento",
           "1aFase": {
-            "2021": 307.0
+            "2021": 307.0,
+            "2022": 232.0
           }
         },
         "oaoalrcelabmnicrpnueuae": {
           "FullName": "Marina Gabriela Alves Capelo",
           "1aFase": {
-            "2021": 307.0
+            "2021": 307.0,
+            "2022": 232.0
           }
         },
         "necapiucaaliavlroabeui": {
@@ -14512,7 +15664,8 @@ HISTORY = {
         "osrcirduslpleouauesneeb": {
           "FullName": "Pedro Ulisses Pereira Castro Maia",
           "1aFase": {
-            "2021": 370.0
+            "2021": 370.0,
+            "2022": 192.0
           }
         },
         "nudrblcbounaooatruesre": {
@@ -14569,6 +15722,42 @@ HISTORY = {
           "FullName": "Luis Paulo De Morais Freire",
           "Nacional": {
             "2012": 24.0
+          }
+        },
+        "ernohaaovyarecuubtflr": {
+          "FullName": "Rhavy Souza",
+          "1aFase": {
+            "2022": 64.0
+          }
+        },
+        "uouidcanqellasaulaobernhhun": {
+          "FullName": "Lucas Holanda",
+          "1aFase": {
+            "2022": 192.0
+          }
+        },
+        "mscuearlacllnbeauaoaur": {
+          "FullName": "Lucas Monteiro",
+          "1aFase": {
+            "2022": 192.0
+          }
+        },
+        "roancauncloblereaeuvavh": {
+          "FullName": "Vanessa Carvalho Lima",
+          "1aFase": {
+            "2022": 232.0
+          }
+        },
+        "auiieeolavacacanmrkubmi": {
+          "FullName": "Vitoria Maia",
+          "1aFase": {
+            "2022": 257.0
+          }
+        },
+        "aulomuzrmaeabiseeenedlcne": {
+          "FullName": "Rafael Menezes",
+          "1aFase": {
+            "2022": 278.0
           }
         }
       },
@@ -14656,6 +15845,10 @@ HISTORY = {
         "2021": {
           "Teams": 5,
           "BestRank": 51
+        },
+        "2022": {
+          "Teams": 5,
+          "BestRank": 45
         }
       },
       "Contestants": {
@@ -14969,7 +16162,8 @@ HISTORY = {
           "1aFase": {
             "2019": 55.0,
             "2020": 40.0,
-            "2021": 51.0
+            "2021": 51.0,
+            "2022": 45.0
           },
           "Nacional": {
             "2020": 36.0,
@@ -15022,7 +16216,8 @@ HISTORY = {
           "FullName": "Paulo Roberto Pinto Costa",
           "1aFase": {
             "2020": 40.0,
-            "2021": 51.0
+            "2021": 51.0,
+            "2022": 45.0
           },
           "Nacional": {
             "2020": 36.0,
@@ -15050,7 +16245,8 @@ HISTORY = {
           "FullName": "Marcos Augusto Pereira Albuquerque Lima",
           "1aFase": {
             "2020": 118.0,
-            "2021": 157.0
+            "2021": 157.0,
+            "2022": 98.0
           }
         },
         "auonslomacia7ghnc7rl7mo7": {
@@ -15136,13 +16332,15 @@ HISTORY = {
         "mruhcefhaclarbuuosat": {
           "FullName": "Matheus Rocha Monteiro",
           "1aFase": {
-            "2021": 157.0
+            "2021": 157.0,
+            "2022": 98.0
           }
         },
         "nusurconaubolhlcfara": {
           "FullName": "Lucas Noronha De Oliveira Alves",
           "1aFase": {
-            "2021": 157.0
+            "2021": 157.0,
+            "2022": 98.0
           }
         },
         "ompotoa2ieanimzcghmlirh": {
@@ -15172,19 +16370,22 @@ HISTORY = {
         "aflgoyotbauruscac": {
           "FullName": "Yago Costa De Oliveira",
           "1aFase": {
-            "2021": 223.0
+            "2021": 223.0,
+            "2022": 210.0
           }
         },
         "fua2uzdrvblaqe2i0iourc0": {
           "FullName": "Davi Queiroz Albuquerque",
           "1aFase": {
-            "2021": 223.0
+            "2021": 223.0,
+            "2022": 210.0
           }
         },
         "lfrctrhbaceutimuarrkaene": {
           "FullName": "Catherine Bezerra Markert",
           "1aFase": {
-            "2021": 223.0
+            "2021": 223.0,
+            "2022": 210.0
           }
         },
         "moitlcocinlgimgoaraham": {
@@ -15203,6 +16404,48 @@ HISTORY = {
           "FullName": "Max Douglas Peixoto Da Silva",
           "Nacional": {
             "2010": 38.0
+          }
+        },
+        "l2molaaoecc2gilemaapfr": {
+          "FullName": "Rafael Capelo Domingues",
+          "1aFase": {
+            "2022": 45.0
+          }
+        },
+        "craaaotrbuliarubanflos": {
+          "FullName": "Natália Barroso",
+          "1aFase": {
+            "2022": 364.0
+          }
+        },
+        "laaurrflbiuegrcfuetb": {
+          "FullName": "Gabriel Vasconcelos Fruet",
+          "1aFase": {
+            "2022": 364.0
+          }
+        },
+        "riedalmnusoeurebaecfdrd": {
+          "FullName": "André Filipe De Medeiros",
+          "1aFase": {
+            "2022": 364.0
+          }
+        },
+        "rauuslcbalfcdftu": {
+          "FullName": "Lucas Oliveira Furtado",
+          "1aFase": {
+            "2022": 508.0
+          }
+        },
+        "aranlrouohcifapugbl": {
+          "FullName": "Igor Braga Palhano",
+          "1aFase": {
+            "2022": 508.0
+          }
+        },
+        "uslauunbvarieeapcferlrar": {
+          "FullName": "Ruan Pereira Alves",
+          "1aFase": {
+            "2022": 508.0
           }
         }
       },
@@ -15266,6 +16509,10 @@ HISTORY = {
         "2021": {
           "Teams": 7,
           "BestRank": 12
+        },
+        "2022": {
+          "Teams": 7,
+          "BestRank": 142
         }
       },
       "Contestants": {
@@ -15654,7 +16901,8 @@ HISTORY = {
           "1aFase": {
             "2019": 218.0,
             "2020": 135.0,
-            "2021": 102.0
+            "2021": 102.0,
+            "2022": 148.0
           }
         },
         "a54emulmc3s1ogaoslaix": {
@@ -15662,7 +16910,8 @@ HISTORY = {
           "1aFase": {
             "2019": 218.0,
             "2020": 135.0,
-            "2021": 102.0
+            "2021": 102.0,
+            "2022": 148.0
           }
         },
         "caeslaligtmnsaaelogivemtimu": {
@@ -15887,7 +17136,8 @@ HISTORY = {
         "vfcaaolouadrasutsiferbstnids": {
           "FullName": "Davi Dos Santos Freitas",
           "1aFase": {
-            "2020": 658.0
+            "2020": 658.0,
+            "2022": 142.0
           }
         },
         "hlgadinnatal4amanmc6oo": {
@@ -15923,7 +17173,8 @@ HISTORY = {
         "frtfaieblaclfupgueier": {
           "FullName": "Felipe Rodrigues De Santana Freitag",
           "1aFase": {
-            "2021": 400.0
+            "2021": 400.0,
+            "2022": 142.0
           }
         },
         "ouorgbfhpolcaurubl": {
@@ -15966,6 +17217,102 @@ HISTORY = {
           "FullName": "Diego Feitoza De Oliveira",
           "1aFase": {
             "2021": 400.0
+          }
+        },
+        "huqeaomeremnodifgvalsivcgtus": {
+          "FullName": "Gustavo Henrique Freitas De Sousa",
+          "1aFase": {
+            "2022": 148.0
+          }
+        },
+        "enaimoogoalacbinmdmrfl": {
+          "FullName": "Luis Fernando Batista Lima",
+          "1aFase": {
+            "2022": 235.0
+          }
+        },
+        "bkucrrlsaaloeisauf": {
+          "FullName": "Kairo Matheus Sales Barbosa",
+          "1aFase": {
+            "2022": 235.0
+          }
+        },
+        "eesmmvui3olsmgtiaac3l": {
+          "FullName": "Luís Estevam Rosa Chaves",
+          "1aFase": {
+            "2022": 235.0
+          }
+        },
+        "c0iia0o0grb11mg1m0lel0a": {
+          "FullName": "Gabriel Mendes",
+          "1aFase": {
+            "2022": 400.0
+          }
+        },
+        "brbnulafiacuarcoir": {
+          "FullName": "Caio Rian",
+          "1aFase": {
+            "2022": 400.0
+          }
+        },
+        "acubpermluofdser": {
+          "FullName": "Pedro Emanuel Santana",
+          "1aFase": {
+            "2022": 400.0
+          }
+        },
+        "ruseibfcuurgrrbaoedaln": {
+          "FullName": "Brena Rodrigues Machado",
+          "1aFase": {
+            "2022": 426.0
+          }
+        },
+        "lureuaebeertmrolfcsluna": {
+          "FullName": "Emanuelle Carvalho",
+          "1aFase": {
+            "2022": 426.0
+          }
+        },
+        "ocuabulafsisnpr": {
+          "FullName": "Pedro Henrique Spinosa Braga",
+          "1aFase": {
+            "2022": 426.0
+          }
+        },
+        "inaioa2ctadt8coolmmamgo": {
+          "FullName": "Damiao Gomes Da Silva Neto",
+          "1aFase": {
+            "2022": 459.0
+          }
+        },
+        "6m7glm90siiocadag": {
+          "FullName": "Gabriel Mandú",
+          "1aFase": {
+            "2022": 459.0
+          }
+        },
+        "giradralic1momso4aanmt": {
+          "FullName": "Ramiro Dantas",
+          "1aFase": {
+            "2022": 459.0
+          }
+        },
+        "gjoolc0iomaacanmrd1i": {
+          "FullName": "Caio Jordan Oliveira De Siqueira",
+          "1aFase": {
+            "2022": 508.0
+          }
+        },
+        "esbsucclaulurtrfor": {
+          "FullName": "Lucas Torres",
+          "1aFase": {
+            "2022": 508.0
+          }
+        },
+        "laaairflbiuegrcvunab": {
+          "FullName": "Gabriel Viana",
+          "1aFase": {
+            "2022": 508.0
           }
         }
       },
@@ -16216,6 +17563,10 @@ HISTORY = {
         "2021": {
           "Teams": 2,
           "BestRank": 400
+        },
+        "2022": {
+          "Teams": 3,
+          "BestRank": 405
         }
       },
       "Contestants": {
@@ -16495,7 +17846,8 @@ HISTORY = {
           "FullName": "André Luis Pinheiro",
           "1aFase": {
             "2019": 567.0,
-            "2020": 667.0
+            "2020": 667.0,
+            "2022": 414.0
           }
         },
         "f2pm1ongallid1eamcr0da": {
@@ -16534,6 +17886,54 @@ HISTORY = {
           "1aFase": {
             "2021": 400.0
           }
+        },
+        "iabee6alflrcaadgbcnu1oeuinelrr": {
+          "FullName": "Gabriel Alencar",
+          "1aFase": {
+            "2022": 405.0
+          }
+        },
+        "dgu0ar3lcsdefbnsleeruirocuaameb": {
+          "FullName": "Lucas Gonçalves",
+          "1aFase": {
+            "2022": 405.0
+          }
+        },
+        "idaeu0sb5nracrfnoleayoluc": {
+          "FullName": "Carlos Yan Vieira",
+          "1aFase": {
+            "2022": 405.0
+          }
+        },
+        "mleitgtvnoaeomaodmircshaliu": {
+          "FullName": "Matheus Tenorio",
+          "1aFase": {
+            "2022": 414.0
+          }
+        },
+        "a1a73m9lcgm6ipo": {
+          "FullName": "Pedro Almeida",
+          "1aFase": {
+            "2022": 414.0
+          }
+        },
+        "m1couj4gcamilf": {
+          "FullName": "Francisco Júnior",
+          "1aFase": {
+            "2022": 415.0
+          }
+        },
+        "cayhmmcmmsiosatlurleegw": {
+          "FullName": "Wesly Lobo",
+          "1aFase": {
+            "2022": 415.0
+          }
+        },
+        "naazsamlpnoimelicommogn": {
+          "FullName": "Zennon Sampaio",
+          "1aFase": {
+            "2022": 415.0
+          }
         }
       },
       "Nacional": {
@@ -16560,6 +17960,10 @@ HISTORY = {
         "2020": {
           "Teams": 1,
           "BestRank": 199
+        },
+        "2022": {
+          "Teams": 2,
+          "BestRank": 388
         }
       },
       "Contestants": {
@@ -16614,6 +18018,42 @@ HISTORY = {
             "2019": 369.0,
             "2020": 199.0
           }
+        },
+        "4pigskm1lotacroiraactm": {
+          "FullName": "Patrik Ferreira",
+          "1aFase": {
+            "2022": 388.0
+          }
+        },
+        "clima8amsb1groagl": {
+          "FullName": "Lara Beatriz Soares Gomes",
+          "1aFase": {
+            "2022": 388.0
+          }
+        },
+        "ireibtaoborolngcmbmc": {
+          "FullName": "Breno Brito Cruz",
+          "1aFase": {
+            "2022": 388.0
+          }
+        },
+        "eacjme5smoimngle3o": {
+          "FullName": "Ermeson Ferreira",
+          "1aFase": {
+            "2022": 465.0
+          }
+        },
+        "imnalblauaeiet7eaocnn0ldafru": {
+          "FullName": "Natanael Lima",
+          "1aFase": {
+            "2022": 465.0
+          }
+        },
+        "mdselasmigc6oaotngap2l": {
+          "FullName": "Gabriel Dantas Lopes",
+          "1aFase": {
+            "2022": 465.0
+          }
         }
       }
     },
@@ -16626,6 +18066,10 @@ HISTORY = {
         "2021": {
           "Teams": 1,
           "BestRank": 123
+        },
+        "2022": {
+          "Teams": 2,
+          "BestRank": 53
         }
       },
       "Contestants": {
@@ -16656,13 +18100,39 @@ HISTORY = {
         "st2holci0yoaanbsmnoml": {
           "FullName": "Alyson Noronha",
           "1aFase": {
-            "2021": 123.0
+            "2021": 123.0,
+            "2022": 53.0
           }
         },
         "folgmrimibcleatmh": {
           "FullName": "Mardonio França",
           "1aFase": {
-            "2021": 123.0
+            "2021": 123.0,
+            "2022": 53.0
+          }
+        },
+        "oabonj7oclrmooairemg1": {
+          "FullName": "João Venancio",
+          "1aFase": {
+            "2022": 53.0
+          }
+        },
+        "lcilrpkhucmgoimoeaa": {
+          "FullName": "Paulo Herick Lemos Andrade",
+          "1aFase": {
+            "2022": 466.0
+          }
+        },
+        "lnop1umo0taojc3o1ku": {
+          "FullName": "Juan Pablo Paulino Fernandez",
+          "1aFase": {
+            "2022": 466.0
+          }
+        },
+        "gccaaodmilslmmvu": {
+          "FullName": "Davison Viana",
+          "1aFase": {
+            "2022": 466.0
           }
         }
       }
@@ -16688,6 +18158,10 @@ HISTORY = {
         "2020": {
           "Teams": 4,
           "BestRank": 215
+        },
+        "2022": {
+          "Teams": 5,
+          "BestRank": 285
         }
       },
       "Contestants": {
@@ -16798,7 +18272,8 @@ HISTORY = {
           "FullName": "Pablo Oliveira",
           "1aFase": {
             "2019": 144.0,
-            "2020": 215.0
+            "2020": 215.0,
+            "2022": 285.0
           }
         },
         "ctnebdaoraupveuiolrcf": {
@@ -16810,13 +18285,15 @@ HISTORY = {
         "uaopeuartnjbeocaloibfnrds": {
           "FullName": "Jonas Brito",
           "1aFase": {
-            "2020": 215.0
+            "2020": 215.0,
+            "2022": 285.0
           }
         },
         "lenbaied1aeofocmruapd7antu": {
           "FullName": "Damião Souza",
           "1aFase": {
-            "2020": 215.0
+            "2020": 215.0,
+            "2022": 285.0
           }
         },
         "nelcrrvabeeoaielulaabdoigpruif": {
@@ -16864,7 +18341,74 @@ HISTORY = {
         "ubrcnorlencabpoaaaaluejyddfrd": {
           "FullName": "Jorddyan Cabral",
           "1aFase": {
-            "2020": 622.0
+            "2020": 622.0,
+            "2022": 462.0
+          }
+        },
+        "cobeulosamdatonpnrocuifoaen": {
+          "FullName": "Antônio Cosmo Da Silva Neto",
+          "1aFase": {
+            "2022": 462.0
+          }
+        },
+        "aeorcerbuanlprgeibbenfioudnniuralad": {
+          "FullName": "Gabriel Bernardino De Oliveira",
+          "1aFase": {
+            "2022": 462.0
+          }
+        },
+        "barfamuaesvaoepsadynsrcilul": {
+          "FullName": "Laryssa Brilhante",
+          "1aFase": {
+            "2022": 474.0
+          }
+        },
+        "leafuierhbersacanoopuuudnnsdil": {
+          "FullName": "Hudson Israel França Costa",
+          "1aFase": {
+            "2022": 474.0
+          }
+        },
+        "eajrb1goplg7uifdeac2nlzoueur": {
+          "FullName": "Jorge Da Silva",
+          "1aFase": {
+            "2022": 474.0
+          }
+        },
+        "ladbasee33l21pufuncauoclbr": {
+          "FullName": "Lucas Brito Da Silva",
+          "1aFase": {
+            "2022": 497.0
+          }
+        },
+        "deuprpaueabmfnmocanklsli": {
+          "FullName": "Pedro Dantas",
+          "1aFase": {
+            "2022": 497.0
+          }
+        },
+        "rcauuuirfralacampprlnasdemboaoae": {
+          "FullName": "Maria Campos",
+          "1aFase": {
+            "2022": 497.0
+          }
+        },
+        "oaonrsdbnlezauyrraelopfacut": {
+          "FullName": "Lazaro Bezerra",
+          "1aFase": {
+            "2022": 508.0
+          }
+        },
+        "cemboarcvnuaudiapnistouoriholagerf": {
+          "FullName": "Victor Hugo",
+          "1aFase": {
+            "2022": 508.0
+          }
+        },
+        "abacglcopoluoieifnanedturula": {
+          "FullName": "Italo Gonçalves",
+          "1aFase": {
+            "2022": 508.0
           }
         }
       }
@@ -17256,6 +18800,10 @@ HISTORY = {
         "2019": {
           "Teams": 3,
           "BestRank": 517
+        },
+        "2022": {
+          "Teams": 1,
+          "BestRank": 239
         }
       },
       "Contestants": {
@@ -17364,6 +18912,24 @@ HISTORY = {
           "1aFase": {
             "2019": 577.0
           }
+        },
+        "loduicmhyralaodtombaoef": {
+          "FullName": "Mizael Eduardo Dos Santos",
+          "1aFase": {
+            "2022": 239.0
+          }
+        },
+        "evpaomqeghrdmodniuireelc": {
+          "FullName": "Pedro Henrique Costa",
+          "1aFase": {
+            "2022": 239.0
+          }
+        },
+        "wimgdvcamlmlmeiayo": {
+          "FullName": "Helton Wylammi Pinto",
+          "1aFase": {
+            "2022": 239.0
+          }
         }
       }
     },
@@ -17380,6 +18946,10 @@ HISTORY = {
         "2021": {
           "Teams": 1,
           "BestRank": 315
+        },
+        "2022": {
+          "Teams": 1,
+          "BestRank": 367
         }
       },
       "Contestants": {
@@ -17453,7 +19023,8 @@ HISTORY = {
           "FullName": "Esrael Saraiva De Sousa",
           "1aFase": {
             "2020": 206.0,
-            "2021": 315.0
+            "2021": 315.0,
+            "2022": 367.0
           }
         },
         "m9vgmaelrco7laesngvios": {
@@ -17474,6 +19045,18 @@ HISTORY = {
           "1aFase": {
             "2020": 419.0
           }
+        },
+        "oos8cemidli0aunbocduirfrrcroatrrdaneie": {
+          "FullName": "Ricardo Martins",
+          "1aFase": {
+            "2022": 367.0
+          }
+        },
+        "oednagnlseavsimaadimzlaeianc": {
+          "FullName": "Anna Zenaide Dias Alves",
+          "1aFase": {
+            "2022": 367.0
+          }
         }
       },
       "Nacional": {
@@ -17492,6 +19075,10 @@ HISTORY = {
         "2020": {
           "Teams": 1,
           "BestRank": 491
+        },
+        "2022": {
+          "Teams": 2,
+          "BestRank": 431
         }
       },
       "Contestants": {
@@ -17528,7 +19115,38 @@ HISTORY = {
         "al5iia5o5lc5sac5mmuglm": {
           "FullName": "Lucas Alves De Lima",
           "1aFase": {
-            "2020": 491.0
+            "2020": 491.0,
+            "2022": 498.0
+          }
+        },
+        "uaurcqulgaoderlroaimepbuoaqmje": {
+          "FullName": "João Pedro",
+          "1aFase": {
+            "2022": 431.0
+          }
+        },
+        "ccfojeimarngviaodoetsnaoonilmtrp": {
+          "FullName": "João Victor Fernandes",
+          "1aFase": {
+            "2022": 431.0
+          }
+        },
+        "iicgvircnvrmlxaevi9ei4xouimasa": {
+          "FullName": "Marcos Vinicius",
+          "1aFase": {
+            "2022": 431.0
+          }
+        },
+        "mut1afet3hianommcgosl2": {
+          "FullName": "Matheus Vieira",
+          "1aFase": {
+            "2022": 498.0
+          }
+        },
+        "lor1amkdproica0taumooo": {
+          "FullName": "Maria Do Socorro Da Silva Prado Neta",
+          "1aFase": {
+            "2022": 498.0
           }
         }
       }
@@ -17538,6 +19156,10 @@ HISTORY = {
         "2020": {
           "Teams": 2,
           "BestRank": 490
+        },
+        "2022": {
+          "Teams": 1,
+          "BestRank": 508
         }
       },
       "Contestants": {
@@ -17562,7 +19184,8 @@ HISTORY = {
         "coramtainoicocoaomplj": {
           "FullName": "Caio Joca De Mendonça",
           "1aFase": {
-            "2020": 619.0
+            "2020": 619.0,
+            "2022": 508.0
           }
         },
         "ctheaolmcolsomitncli": {
@@ -17575,6 +19198,18 @@ HISTORY = {
           "FullName": "Thiago Costa Machado",
           "1aFase": {
             "2020": 619.0
+          }
+        },
+        "jgaijmaicsloiameym": {
+          "FullName": "Jaime Jaysi Lima Rabelo",
+          "1aFase": {
+            "2022": 508.0
+          }
+        },
+        "aortls9gmicdhori9foom": {
+          "FullName": "Rodrigo Ferreira",
+          "1aFase": {
+            "2022": 508.0
           }
         }
       }
@@ -17664,6 +19299,34 @@ HISTORY = {
           }
         }
       }
+    },
+    "Instituto Federal de Educação, Ciência e Tecnologia do Ceará - Maracanaú": {
+      "1aFase": {
+        "2022": {
+          "Teams": 1,
+          "BestRank": 308
+        }
+      },
+      "Contestants": {
+        "metoicclafsr06oajla3suagiom": {
+          "FullName": "João Lucas De Freitas Rodrigues",
+          "1aFase": {
+            "2022": 308.0
+          }
+        },
+        "onatagblsdeoalcaisommarx0": {
+          "FullName": "Alexssandro Tabosa",
+          "1aFase": {
+            "2022": 308.0
+          }
+        },
+        "uule6rma1gegcn6imhimigrloa1eo": {
+          "FullName": "Guilherme Nogueira",
+          "1aFase": {
+            "2022": 308.0
+          }
+        }
+      }
     }
   },
   "MA": {
@@ -17696,6 +19359,10 @@ HISTORY = {
         "2019": {
           "Teams": 3,
           "BestRank": 211
+        },
+        "2022": {
+          "Teams": 5,
+          "BestRank": 351
         }
       },
       "Contestants": {
@@ -18160,6 +19827,96 @@ HISTORY = {
           "FullName": "Marcus André Miranda Teixeira Costa",
           "Nacional": {
             "2010": 50.0
+          }
+        },
+        "urabouoeesdpadalsnrgrubbilse": {
+          "FullName": "Pedro Henrique Martins Borges",
+          "1aFase": {
+            "2022": 351.0
+          }
+        },
+        "dnbloasaaiaureucsesilsuakub": {
+          "FullName": "Caike Ribeiro De Sousa",
+          "1aFase": {
+            "2022": 351.0
+          }
+        },
+        "oussulauaaalblbknhenulrid": {
+          "FullName": "Luan Jacomini Kloh",
+          "1aFase": {
+            "2022": 351.0
+          }
+        },
+        "uoaibuidduaenwrlrhosbealflnessn": {
+          "FullName": "Wenderson Carlos Coelho Da Silva Filho",
+          "1aFase": {
+            "2022": 485.0
+          }
+        },
+        "mrabiabedaurlallngbugiasueas": {
+          "FullName": "Gabriel Siqueira Gama",
+          "1aFase": {
+            "2022": 485.0
+          }
+        },
+        "sssaursbansubibeuaolridluan": {
+          "FullName": "Bruno Robson Pereira De Assis",
+          "1aFase": {
+            "2022": 485.0
+          }
+        },
+        "densuuyaalnlirhaelabutadbssr": {
+          "FullName": "Andrey Oliveira Stahl",
+          "1aFase": {
+            "2022": 492.0
+          }
+        },
+        "sdueuuradbrdbaiulsnolasaae": {
+          "FullName": "Eduardo Gomes De Sá",
+          "1aFase": {
+            "2022": 492.0
+          }
+        },
+        "cvaeudbuosrnunalibfsuaiisinracl": {
+          "FullName": "Vinícius Abreu Silva Franco",
+          "1aFase": {
+            "2022": 492.0
+          }
+        },
+        "suibsuelaiathsdrnvalbaalayun": {
+          "FullName": "Thayna Bezerra Silva",
+          "1aFase": {
+            "2022": 508.0
+          }
+        },
+        "assaurlbsniulvbeuaaliidlvai": {
+          "FullName": "Lívia Oliveira Silva",
+          "1aFase": {
+            "2022": 508.0
+          }
+        },
+        "cnralluaorhasaluuaurdaelbsvbia": {
+          "FullName": "Laura Oliveira Carvalho",
+          "1aFase": {
+            "2022": 508.0
+          }
+        },
+        "advelsanausobraabtuluigilis": {
+          "FullName": "Tiago Reis Da Silva",
+          "1aFase": {
+            "2022": 508.0
+          }
+        },
+        "sdsuiyaocbpbeasmulrumoajanleli": {
+          "FullName": "Joemily Campos",
+          "1aFase": {
+            "2022": 508.0
+          }
+        },
+        "radiluiubnejbrunnaralsiouoatlsd": {
+          "FullName": "Darliton Pereira Reis Júnior",
+          "1aFase": {
+            "2022": 508.0
           }
         }
       },
@@ -18708,6 +20465,70 @@ HISTORY = {
           }
         }
       }
+    },
+    "Instituto Federal de Educação, Ciência e Tecnologia do Maranhão": {
+      "1aFase": {
+        "2022": {
+          "Teams": 3,
+          "BestRank": 144
+        }
+      },
+      "Contestants": {
+        "maesricdabnaeanaocmuluidtnf": {
+          "FullName": "Robson Luan Do Nascimento De Sousa",
+          "1aFase": {
+            "2022": 144.0
+          }
+        },
+        "apneaeeiaclbfrnmrdiaduelf": {
+          "FullName": "Renan Fellipe Amaral Da Silva",
+          "1aFase": {
+            "2022": 144.0
+          }
+        },
+        "bafeliemaafudmaeorcdl": {
+          "FullName": "Alef Joseneudo Silveira Gomes De Melo",
+          "1aFase": {
+            "2022": 144.0
+          }
+        },
+        "magdeatlaocobiudabrf": {
+          "FullName": "Gustavo Ribeiro Lobato",
+          "1aFase": {
+            "2022": 412.0
+          }
+        },
+        "fdliamlaauaabidoctnebyphrdekcdrr": {
+          "FullName": "Hildelbrando Patryck Borges Lopes",
+          "1aFase": {
+            "2022": 412.0
+          }
+        },
+        "tiaaaocnofieeddcuminrab": {
+          "FullName": "Francisco Inácio Pereira Neto",
+          "1aFase": {
+            "2022": 412.0
+          }
+        },
+        "oeitjmrcmbcirviauamfardodadb": {
+          "FullName": "Victor Bomjardim",
+          "1aFase": {
+            "2022": 486.0
+          }
+        },
+        "idauohdynifmaaarrgcanbatce": {
+          "FullName": "Anthony Kayro Garcia Ferreira",
+          "1aFase": {
+            "2022": 486.0
+          }
+        },
+        "mduareezrabadciraabfe": {
+          "FullName": "Danilo Bezerra Araújo",
+          "1aFase": {
+            "2022": 486.0
+          }
+        }
+      }
     }
   },
   "PB": {
@@ -18764,6 +20585,10 @@ HISTORY = {
         "2021": {
           "Teams": 3,
           "BestRank": 161
+        },
+        "2022": {
+          "Teams": 2,
+          "BestRank": 90
         }
       },
       "Contestants": {
@@ -18952,7 +20777,8 @@ HISTORY = {
         "mzicekmirilooazluhg": {
           "FullName": "Luiz Henrique Queiroz",
           "1aFase": {
-            "2021": 161.0
+            "2021": 161.0,
+            "2022": 90.0
           }
         },
         "vmmpc2i2go00llam": {
@@ -18994,13 +20820,38 @@ HISTORY = {
         "cmg2awnm2js2lftaoi2o": {
           "FullName": "Jonas Araújo",
           "1aFase": {
-            "2021": 400.0
+            "2021": 400.0,
+            "2022": 267.0
           }
         },
         "ogriammilaacolcgm": {
           "FullName": "Ícaro Magalhães",
           "Nacional": {
             "2017": 53.0
+          }
+        },
+        "lciremquuqblgosoauemlrnuae": {
+          "FullName": "Luerson Albuquerque",
+          "1aFase": {
+            "2022": 90.0
+          }
+        },
+        "fsciapbsrmchrbarcaoinuil": {
+          "FullName": "Larissa Marinho",
+          "1aFase": {
+            "2022": 90.0
+          }
+        },
+        "mlcopdinsrydsramaeoga": {
+          "FullName": "Ryan Duarte",
+          "1aFase": {
+            "2022": 267.0
+          }
+        },
+        "pdnaabconmoibarceatfocrmuio": {
+          "FullName": "Marco Antonio Cunha Cossetin",
+          "1aFase": {
+            "2022": 267.0
           }
         }
       },
@@ -19044,6 +20895,10 @@ HISTORY = {
         "2021": {
           "Teams": 5,
           "BestRank": 14
+        },
+        "2022": {
+          "Teams": 6,
+          "BestRank": 22
         }
       },
       "Contestants": {
@@ -19379,7 +21234,8 @@ HISTORY = {
           "1aFase": {
             "2019": 33.0,
             "2020": 46.0,
-            "2021": 30.0
+            "2021": 30.0,
+            "2022": 22.0
           }
         },
         "m0r2oactha0aol7imepl8h": {
@@ -19387,7 +21243,8 @@ HISTORY = {
           "1aFase": {
             "2019": 33.0,
             "2020": 46.0,
-            "2021": 30.0
+            "2021": 30.0,
+            "2022": 22.0
           }
         },
         "drncfcsrnfutinacebcaeureg": {
@@ -19395,7 +21252,8 @@ HISTORY = {
           "1aFase": {
             "2019": 33.0,
             "2020": 46.0,
-            "2021": 14.0
+            "2021": 14.0,
+            "2022": 22.0
           },
           "Nacional": {
             "2021": 6.0
@@ -19412,7 +21270,8 @@ HISTORY = {
         "rgulcilaedccmubfencroascodel": {
           "FullName": "Daniel Carlos Alves De Melo",
           "1aFase": {
-            "2019": 60.0
+            "2019": 60.0,
+            "2022": 89.0
           }
         },
         "rnmg6or1ijcsjbloaom": {
@@ -19486,21 +21345,24 @@ HISTORY = {
           "FullName": "Rembrandt Asafe Vasconcelos Costa",
           "1aFase": {
             "2020": 77.0,
-            "2021": 74.0
+            "2021": 74.0,
+            "2022": 33.0
           }
         },
         "iafgercucvadcubgsmeiaurcd": {
           "FullName": "Daví Henrique Silva Guimarães",
           "1aFase": {
             "2020": 77.0,
-            "2021": 74.0
+            "2021": 74.0,
+            "2022": 33.0
           }
         },
         "brsucduiateafegccraarcofb": {
           "FullName": "Abraão Caiana De Freitas",
           "1aFase": {
             "2020": 77.0,
-            "2021": 74.0
+            "2021": 74.0,
+            "2022": 33.0
           }
         },
         "prbgcodunrcobgcfrcdaeuee": {
@@ -19666,6 +21528,72 @@ HISTORY = {
           "Nacional": {
             "2010": 23.0
           }
+        },
+        "bcegssdoaocdugrlacucsufu": {
+          "FullName": "Douglas Alves De Sousa",
+          "1aFase": {
+            "2022": 37.0
+          }
+        },
+        "suoeafdllgcebccuernamucleumc": {
+          "FullName": "Lucas Emanuel Silva Melo",
+          "1aFase": {
+            "2022": 37.0
+          }
+        },
+        "suoafrcgzendsjaocuccbcuk": {
+          "FullName": "Jackson Alves Da Silva Souza",
+          "1aFase": {
+            "2022": 37.0
+          }
+        },
+        "beucocghpbrrtucacotfuredaerdrr": {
+          "FullName": "Pedro Arthur De Oliveira Barreto",
+          "1aFase": {
+            "2022": 87.0
+          }
+        },
+        "otpoereocgrrabjccfcpodudou": {
+          "FullName": "João Pedro Campos Porto",
+          "1aFase": {
+            "2022": 87.0
+          }
+        },
+        "ubeucdregrcedceflogcuomhtli": {
+          "FullName": "Guilherme Silva Toledo",
+          "1aFase": {
+            "2022": 87.0
+          }
+        },
+        "cbralnecrcfvsducugaeu": {
+          "FullName": "Ruan Gomes De Oliveira Alves",
+          "1aFase": {
+            "2022": 89.0
+          }
+        },
+        "tisfcoarogrsueluesaucrebcodrgdc": {
+          "FullName": "Rodrigo De Sousa",
+          "1aFase": {
+            "2022": 89.0
+          }
+        },
+        "ltngurdfaotbireecudnrusgseedmeaueu": {
+          "FullName": "Victor Emanuel Barbosa Rodrigues",
+          "1aFase": {
+            "2022": 290.0
+          }
+        },
+        "onkemrirgeil2colf3cmai": {
+          "FullName": "Erik Florêncio",
+          "1aFase": {
+            "2022": 290.0
+          }
+        },
+        "amifyklseiimlaicykaedrsomfg": {
+          "FullName": "Kayky Fidelis Serafim",
+          "1aFase": {
+            "2022": 290.0
+          }
         }
       },
       "Nacional": {
@@ -19744,6 +21672,10 @@ HISTORY = {
         "2021": {
           "Teams": 3,
           "BestRank": 201
+        },
+        "2022": {
+          "Teams": 1,
+          "BestRank": 450
         }
       },
       "Contestants": {
@@ -19899,19 +21831,22 @@ HISTORY = {
           "FullName": "Mateus Arcanjo",
           "1aFase": {
             "2020": 421.0,
-            "2021": 201.0
+            "2021": 201.0,
+            "2022": 450.0
           }
         },
         "nziargmlco8umiaebligm0": {
           "FullName": "Gabriel Muniz De Almeida",
           "1aFase": {
-            "2020": 421.0
+            "2020": 421.0,
+            "2022": 450.0
           }
         },
         "ometrqcephunoaemripialsh": {
           "FullName": "Pedro Henrique Serpa",
           "1aFase": {
-            "2021": 201.0
+            "2021": 201.0,
+            "2022": 450.0
           }
         },
         "cmlmcgnaaosiofnrie": {
@@ -20421,6 +22356,10 @@ HISTORY = {
         "2015": {
           "Teams": 1,
           "BestRank": 403
+        },
+        "2022": {
+          "Teams": 1,
+          "BestRank": 108
         }
       },
       "Contestants": {
@@ -20440,6 +22379,24 @@ HISTORY = {
           "FullName": "Wensttay Sousa Alencar",
           "1aFase": {
             "2015": 403.0
+          }
+        },
+        "fadboeaidreavpeurrainmsbcadcet": {
+          "FullName": "André Lucas Tavares Dantas",
+          "1aFase": {
+            "2022": 108.0
+          }
+        },
+        "aefreidicodhmpabibecnruoiapoic": {
+          "FullName": "Caio Pinheiro Guedes",
+          "1aFase": {
+            "2022": 108.0
+          }
+        },
+        "midopdnfrbaoaejcoc6i1beuatssoa": {
+          "FullName": "João Pedro Oliveira Santos",
+          "1aFase": {
+            "2022": 108.0
           }
         }
       }
@@ -20465,6 +22422,10 @@ HISTORY = {
         "2021": {
           "Teams": 2,
           "BestRank": 38
+        },
+        "2022": {
+          "Teams": 4,
+          "BestRank": 63
         }
       },
       "Contestants": {
@@ -20652,7 +22613,8 @@ HISTORY = {
             "2018": 216.0,
             "2019": 84.0,
             "2020": 43.0,
-            "2021": 38.0
+            "2021": 38.0,
+            "2022": 63.0
           },
           "Nacional": {
             "2019": 41.0,
@@ -20673,7 +22635,8 @@ HISTORY = {
             "2018": 216.0,
             "2019": 84.0,
             "2020": 43.0,
-            "2021": 38.0
+            "2021": 38.0,
+            "2022": 63.0
           },
           "Nacional": {
             "2019": 41.0,
@@ -20806,6 +22769,66 @@ HISTORY = {
           "FullName": "Talita Matta",
           "Nacional": {
             "2016": 36.0
+          }
+        },
+        "urtngdaesccpoibbaiaffidormee": {
+          "FullName": "Igor Stefan",
+          "1aFase": {
+            "2022": 63.0
+          }
+        },
+        "clrdjaecoeabebfdobacuirpsima": {
+          "FullName": "José Da Silva Cabral Neto",
+          "1aFase": {
+            "2022": 243.0
+          }
+        },
+        "ctihmeapfvbmcirnucabasldaeocaetdaue": {
+          "FullName": "Matheus Augusto Cavalcante Maia",
+          "1aFase": {
+            "2022": 243.0
+          }
+        },
+        "cuulabhetmssfosrdicrscopaeiaidba": {
+          "FullName": "Carlos Thassius Ferreira Freire",
+          "1aFase": {
+            "2022": 243.0
+          }
+        },
+        "iaicmbtaubbwoldeeopcbaadnfri": {
+          "FullName": "Taw Ham Almeida Balbino De Paula",
+          "1aFase": {
+            "2022": 361.0
+          }
+        },
+        "riercpmliobaduveiamsiobadfeacr": {
+          "FullName": "José Moreira Da Silva Júnior",
+          "1aFase": {
+            "2022": 361.0
+          }
+        },
+        "fbordizimuacblparidparaeefcema": {
+          "FullName": "Rafael Felipe Moreira Albuquerque Prazim",
+          "1aFase": {
+            "2022": 361.0
+          }
+        },
+        "ssieodbnuaiaaoczudrdfmmbepeec": {
+          "FullName": "Lucas Mendes De Souza",
+          "1aFase": {
+            "2022": 389.0
+          }
+        },
+        "uiiipooneeebacmdrgreroarocfidmbot": {
+          "FullName": "Rogério Monteiro",
+          "1aFase": {
+            "2022": 389.0
+          }
+        },
+        "eiaebfcspsubladzciobdaeemrualoi": {
+          "FullName": "Isabelle De Souza Medeiros",
+          "1aFase": {
+            "2022": 389.0
           }
         }
       },
@@ -20949,6 +22972,10 @@ HISTORY = {
         "2021": {
           "Teams": 2,
           "BestRank": 255
+        },
+        "2022": {
+          "Teams": 2,
+          "BestRank": 379
         }
       },
       "Contestants": {
@@ -21046,19 +23073,45 @@ HISTORY = {
         "dgdr4sca2olnl08iameam": {
           "FullName": "Lucas Santos Andrade",
           "1aFase": {
-            "2021": 400.0
+            "2021": 400.0,
+            "2022": 421.0
           }
         },
         "ogjcmoalb5govima": {
           "FullName": "João Victor Gomes Barbosa",
           "1aFase": {
-            "2021": 400.0
+            "2021": 400.0,
+            "2022": 421.0
           }
         },
         "ubnobnermconisuiofiupafdrcelra": {
           "FullName": "Francisco Welio Firmino Da Silva Junior",
           "1aFase": {
             "2021": 400.0
+          }
+        },
+        "llur0iemda7ogjcm0jcaon": {
+          "FullName": "José Jardel Alves De Medeiros",
+          "1aFase": {
+            "2022": 379.0
+          }
+        },
+        "sdrcnoaumoavnilpecelj": {
+          "FullName": "José Renan Alves Pereira Alves Pereira",
+          "1aFase": {
+            "2022": 379.0
+          }
+        },
+        "a9i5asl5ugalmmicmo4ac": {
+          "FullName": "Lucas Ferreira Maia",
+          "1aFase": {
+            "2022": 379.0
+          }
+        },
+        "aael1gilmgpoce1ftmii31oh": {
+          "FullName": "Thiago Diniz",
+          "1aFase": {
+            "2022": 421.0
           }
         }
       }
@@ -21171,6 +23224,10 @@ HISTORY = {
         "2021": {
           "Teams": 1,
           "BestRank": 184
+        },
+        "2022": {
+          "Teams": 1,
+          "BestRank": 169
         }
       },
       "Contestants": {
@@ -21185,7 +23242,8 @@ HISTORY = {
           "FullName": "Lucas Tavares",
           "1aFase": {
             "2020": 153.0,
-            "2021": 184.0
+            "2021": 184.0,
+            "2022": 169.0
           }
         },
         "bdtycersupiaaeridaodafancmtobn": {
@@ -21217,6 +23275,18 @@ HISTORY = {
           "1aFase": {
             "2021": 184.0
           }
+        },
+        "uaeclliraemcsouifmpbddiaib": {
+          "FullName": "Luis Henrique Lima Santos",
+          "1aFase": {
+            "2022": 169.0
+          }
+        },
+        "lifibbluceceipsfaadseumdoarcdi": {
+          "FullName": "Lucas Araújo",
+          "1aFase": {
+            "2022": 169.0
+          }
         }
       }
     },
@@ -21244,6 +23314,34 @@ HISTORY = {
           "FullName": "Paulo Leite Junior",
           "1aFase": {
             "2021": 238.0
+          }
+        }
+      }
+    },
+    "UNIESP Centro Universitário": {
+      "1aFase": {
+        "2022": {
+          "Teams": 1,
+          "BestRank": 494
+        }
+      },
+      "Contestants": {
+        "pldiumgedreaeeibieosrbrs": {
+          "FullName": "Gabriel Medeiros",
+          "1aFase": {
+            "2022": 494.0
+          }
+        },
+        "s0r0i21d2p1120b5e22u1e": {
+          "FullName": "Márcio Freitas",
+          "1aFase": {
+            "2022": 494.0
+          }
+        },
+        "ei0pr02d5e5s11u521b022": {
+          "FullName": "Gustavo Morais",
+          "1aFase": {
+            "2022": 494.0
           }
         }
       }
@@ -21598,6 +23696,10 @@ HISTORY = {
         "2021": {
           "Teams": 6,
           "BestRank": 7
+        },
+        "2022": {
+          "Teams": 4,
+          "BestRank": 4
         }
       },
       "Contestants": {
@@ -22048,7 +24150,8 @@ HISTORY = {
           "FullName": "Clodes Silva",
           "1aFase": {
             "2018": 11.0,
-            "2019": 2.0
+            "2019": 2.0,
+            "2022": 4.0
           },
           "Nacional": {
             "2018": 9.0,
@@ -22137,7 +24240,8 @@ HISTORY = {
           "1aFase": {
             "2019": 30.0,
             "2020": 22.0,
-            "2021": 39.0
+            "2021": 39.0,
+            "2022": 4.0
           }
         },
         "nepcrubgficf": {
@@ -22202,7 +24306,8 @@ HISTORY = {
           "FullName": "Gabriel Meireles",
           "1aFase": {
             "2020": 45.0,
-            "2021": 26.0
+            "2021": 26.0,
+            "2022": 4.0
           }
         },
         "6uprensgabifc": {
@@ -22233,32 +24338,37 @@ HISTORY = {
           "FullName": "Víctor Silva",
           "1aFase": {
             "2020": 58.0,
-            "2021": 37.0
+            "2021": 37.0,
+            "2022": 67.0
           }
         },
         "fibencpcnrup": {
           "FullName": "Pedro Coutinho",
           "1aFase": {
             "2020": 58.0,
-            "2021": 37.0
+            "2021": 37.0,
+            "2022": 67.0
           }
         },
         "mcbuinnfer2pe": {
           "FullName": "Edson De Melo Neto",
           "1aFase": {
-            "2021": 26.0
+            "2021": 26.0,
+            "2022": 30.0
           }
         },
         "cap4lifnsbeur": {
           "FullName": "Leonardo Silva",
           "1aFase": {
-            "2021": 26.0
+            "2021": 26.0,
+            "2022": 30.0
           }
         },
         "vbecepigurffn": {
           "FullName": "Victor Gaudiot",
           "1aFase": {
-            "2021": 37.0
+            "2021": 37.0,
+            "2022": 30.0
           }
         },
         "crikupcfbmnee": {
@@ -22282,7 +24392,8 @@ HISTORY = {
         "eirfavcusnpb": {
           "FullName": "Allan Vasconcelos",
           "1aFase": {
-            "2021": 133.0
+            "2021": 133.0,
+            "2022": 67.0
           }
         },
         "ao9bmirvgielemagoliilacsr9": {
@@ -22373,6 +24484,24 @@ HISTORY = {
           "Nacional": {
             "2012": 6.0
           }
+        },
+        "cgpqpifnobeur": {
+          "FullName": "Pedro Grisi",
+          "1aFase": {
+            "2022": 51.0
+          }
+        },
+        "prfcebslu2mni": {
+          "FullName": "Sarah Melo",
+          "1aFase": {
+            "2022": 51.0
+          }
+        },
+        "nerujfamapcib": {
+          "FullName": "José Antônio Maciel",
+          "1aFase": {
+            "2022": 51.0
+          }
         }
       },
       "Nacional": {
@@ -22451,6 +24580,10 @@ HISTORY = {
         "2021": {
           "Teams": 5,
           "BestRank": 55
+        },
+        "2022": {
+          "Teams": 3,
+          "BestRank": 47
         }
       },
       "Contestants": {
@@ -22585,7 +24718,8 @@ HISTORY = {
           "FullName": "Gabriel Silva",
           "1aFase": {
             "2020": 169.0,
-            "2021": 55.0
+            "2021": 55.0,
+            "2022": 47.0
           },
           "Nacional": {
             "2021": 21.0
@@ -22595,7 +24729,8 @@ HISTORY = {
           "FullName": "Gerson Macedo",
           "1aFase": {
             "2020": 169.0,
-            "2021": 55.0
+            "2021": 55.0,
+            "2022": 47.0
           },
           "Nacional": {
             "2021": 21.0
@@ -22605,7 +24740,8 @@ HISTORY = {
           "FullName": "Alan Pinho",
           "1aFase": {
             "2020": 169.0,
-            "2021": 55.0
+            "2021": 55.0,
+            "2022": 47.0
           },
           "Nacional": {
             "2021": 21.0
@@ -22705,7 +24841,8 @@ HISTORY = {
         "tdvnncatehoupuaebesrubiflseider": {
           "FullName": "Paulo Amaral",
           "1aFase": {
-            "2021": 381.0
+            "2021": 381.0,
+            "2022": 230.0
           }
         },
         "dosofeubnencitmndsseeiuvagsradnre": {
@@ -22748,6 +24885,36 @@ HISTORY = {
           "FullName": "Sérgio Aurélio Ferreira Soares",
           "Nacional": {
             "2010": 43.0
+          }
+        },
+        "1imacil2oiclmgusvinive5": {
+          "FullName": "Vinícius Levi Dos Santos",
+          "1aFase": {
+            "2022": 230.0
+          }
+        },
+        "mgye4smhtaliocrl": {
+          "FullName": "Stharley Santos Leite",
+          "1aFase": {
+            "2022": 230.0
+          }
+        },
+        "icncliveuuvdtviostfaredcsaneaaitbcnrm": {
+          "FullName": "Victor Marques",
+          "1aFase": {
+            "2022": 508.0
+          }
+        },
+        "mgoljo4ma41oricahoac1": {
+          "FullName": "João Vitor Rocha",
+          "1aFase": {
+            "2022": 508.0
+          }
+        },
+        "luntrcolhatadeamarrmnreiiagcd": {
+          "FullName": "Arthur Trindade",
+          "1aFase": {
+            "2022": 508.0
           }
         }
       },
@@ -23974,6 +26141,10 @@ HISTORY = {
         "2021": {
           "Teams": 2,
           "BestRank": 251
+        },
+        "2022": {
+          "Teams": 4,
+          "BestRank": 277
         }
       },
       "Contestants": {
@@ -24384,7 +26555,8 @@ HISTORY = {
         "0ea60alc02mrmoxni3lsgdoa": {
           "FullName": "Alexandro Alves De Sousa Pereira",
           "1aFase": {
-            "2021": 251.0
+            "2021": 251.0,
+            "2022": 461.0
           }
         },
         "o1pprlcgmmojagi": {
@@ -24403,6 +26575,72 @@ HISTORY = {
           "FullName": "Jardson Costa Silva",
           "1aFase": {
             "2021": 400.0
+          }
+        },
+        "mciclemoohlopaileog": {
+          "FullName": "Leonardo Coêlho De Sousa Pinheiro",
+          "1aFase": {
+            "2022": 277.0
+          }
+        },
+        "rebiiorsfuapoaeronuajlre": {
+          "FullName": "João Marcos Costa Ferreira",
+          "1aFase": {
+            "2022": 277.0
+          }
+        },
+        "0msrugctuaird07lmhaonliooe": {
+          "FullName": "Luan Rodrigues",
+          "1aFase": {
+            "2022": 277.0
+          }
+        },
+        "ojomriasigdcmlam": {
+          "FullName": "Jarod Cavalcante",
+          "1aFase": {
+            "2022": 403.0
+          }
+        },
+        "urvoynblsapuisielraog": {
+          "FullName": "Ygor Freitas",
+          "1aFase": {
+            "2022": 403.0
+          }
+        },
+        "oesaljpbvaalsarognreiulbouei": {
+          "FullName": "João Gabriel Carvalho",
+          "1aFase": {
+            "2022": 403.0
+          }
+        },
+        "rollrabaionnahpueeriiugsbm": {
+          "FullName": "Gabriel Marinho",
+          "1aFase": {
+            "2022": 423.0
+          }
+        },
+        "nrrabahpdsuooleuicoudrea": {
+          "FullName": "Eduardo Rocha",
+          "1aFase": {
+            "2022": 423.0
+          }
+        },
+        "ojunureaiuoisaprbnlniroont": {
+          "FullName": "Antônio Rodrigues Dos Santos Junior",
+          "1aFase": {
+            "2022": 423.0
+          }
+        },
+        "7nric1jmnoangselaiomd4": {
+          "FullName": "Anderson Marcos Caitano De Jesus",
+          "1aFase": {
+            "2022": 461.0
+          }
+        },
+        "lrolamclfemnbaeaig": {
+          "FullName": "Blenda Costa",
+          "1aFase": {
+            "2022": 461.0
           }
         }
       },
@@ -24442,6 +26680,10 @@ HISTORY = {
         "2020": {
           "Teams": 1,
           "BestRank": 342
+        },
+        "2022": {
+          "Teams": 1,
+          "BestRank": 508
         }
       },
       "Contestants": {
@@ -24767,6 +27009,24 @@ HISTORY = {
           "Nacional": {
             "2011": 49.0
           }
+        },
+        "llieesubpsorpudanr": {
+          "FullName": "Pedro Lucas De Souza Rodrigues",
+          "1aFase": {
+            "2022": 508.0
+          }
+        },
+        "arnsvulaeuebmisoidslp": {
+          "FullName": "Matheus Sousa",
+          "1aFase": {
+            "2022": 508.0
+          }
+        },
+        "orrauirpeobsrreeludippaane": {
+          "FullName": "Pedro Pereira",
+          "1aFase": {
+            "2022": 508.0
+          }
         }
       },
       "Nacional": {
@@ -25046,6 +27306,10 @@ HISTORY = {
         "2020": {
           "Teams": 3,
           "BestRank": 318
+        },
+        "2022": {
+          "Teams": 3,
+          "BestRank": 297
         }
       },
       "Contestants": {
@@ -25410,6 +27674,60 @@ HISTORY = {
           "1aFase": {
             "2020": 653.0
           }
+        },
+        "aaammlaao1mlierd3gci": {
+          "FullName": "Adélia Sousa",
+          "1aFase": {
+            "2022": 297.0
+          }
+        },
+        "giraioglbmaemlmcaomr": {
+          "FullName": "Gabriel Morais",
+          "1aFase": {
+            "2022": 297.0
+          }
+        },
+        "tosorvsnhiktcaoliaommt": {
+          "FullName": "Vitor Araujo",
+          "1aFase": {
+            "2022": 297.0
+          }
+        },
+        "aifodoimmoljcaaamdlegi": {
+          "FullName": "João De Deus Teixeira De Almeida Filho",
+          "1aFase": {
+            "2022": 316.0
+          }
+        },
+        "lo2grmnioecmodemnrc2amao": {
+          "FullName": "Romero Antonio Ramos De Mendonça",
+          "1aFase": {
+            "2022": 316.0
+          }
+        },
+        "roiacesougoajdlmgmai": {
+          "FullName": "Diego Araujo",
+          "1aFase": {
+            "2022": 316.0
+          }
+        },
+        "awlolmaigyoimknl1iancr": {
+          "FullName": "Kairon Melo",
+          "1aFase": {
+            "2022": 391.0
+          }
+        },
+        "dm9ikcaeomlia8iaksg": {
+          "FullName": "Kaike Dias Miranda",
+          "1aFase": {
+            "2022": 391.0
+          }
+        },
+        "3er0kcg0u2oamodlfimad": {
+          "FullName": "Kelson Filho",
+          "1aFase": {
+            "2022": 391.0
+          }
         }
       }
     },
@@ -25512,6 +27830,10 @@ HISTORY = {
         "2018": {
           "Teams": 2,
           "BestRank": 557
+        },
+        "2022": {
+          "Teams": 2,
+          "BestRank": 303
         }
       },
       "Contestants": {
@@ -25592,6 +27914,42 @@ HISTORY = {
           "1aFase": {
             "2018": 645.0
           }
+        },
+        "tp0adoe022iracis082c2luu1nfi1ba1pd": {
+          "FullName": "Victor Sousa",
+          "1aFase": {
+            "2022": 303.0
+          }
+        },
+        "mioc2n5aodtfaasmcloa8gsccir": {
+          "FullName": "Francisco Carvalho",
+          "1aFase": {
+            "2022": 303.0
+          }
+        },
+        "oeoomuioulagnarmanctlmirr": {
+          "FullName": "Ruan Monteiro",
+          "1aFase": {
+            "2022": 303.0
+          }
+        },
+        "aarcglmiaocl1lrmomvo0oh8u": {
+          "FullName": "Romulo Carvalho",
+          "1aFase": {
+            "2022": 410.0
+          }
+        },
+        "lceeoormadeiwmnsgmv": {
+          "FullName": "Wemerson Lima",
+          "1aFase": {
+            "2022": 410.0
+          }
+        },
+        "tnluemomgsuulbaaiumc": {
+          "FullName": "Samuel Martins",
+          "1aFase": {
+            "2022": 410.0
+          }
         }
       }
     },
@@ -25620,6 +27978,10 @@ HISTORY = {
         "2021": {
           "Teams": 8,
           "BestRank": 44
+        },
+        "2022": {
+          "Teams": 5,
+          "BestRank": 35
         }
       },
       "Contestants": {
@@ -25826,7 +28188,8 @@ HISTORY = {
             "2018": 70.0,
             "2019": 79.0,
             "2020": 26.0,
-            "2021": 44.0
+            "2021": 44.0,
+            "2022": 35.0
           },
           "Nacional": {
             "2018": 34.0,
@@ -25889,7 +28252,8 @@ HISTORY = {
         "jjcoeam201vlgiv1m": {
           "FullName": "João Victor Araujo Silva",
           "1aFase": {
-            "2019": 602.0
+            "2019": 602.0,
+            "2022": 354.0
           }
         },
         "nvstaumoe8euvismcic3hlii": {
@@ -25908,7 +28272,8 @@ HISTORY = {
           "FullName": "Lucas Amaral",
           "1aFase": {
             "2020": 326.0,
-            "2021": 44.0
+            "2021": 44.0,
+            "2022": 35.0
           },
           "Nacional": {
             "2021": 30.0
@@ -25924,7 +28289,8 @@ HISTORY = {
           "FullName": "Járdesson Ribeiro",
           "1aFase": {
             "2020": 326.0,
-            "2021": 231.0
+            "2021": 231.0,
+            "2022": 110.0
           }
         },
         "ammm9ea1leicka9slnid7ogit": {
@@ -25975,7 +28341,8 @@ HISTORY = {
         "ag1igrriomae1mmclom": {
           "FullName": "Gabriel Moreira",
           "1aFase": {
-            "2021": 44.0
+            "2021": 44.0,
+            "2022": 35.0
           },
           "Nacional": {
             "2021": 30.0
@@ -26032,13 +28399,15 @@ HISTORY = {
         "iudberpubfaoidrurbder": {
           "FullName": "Pedro Eduardo Carvalho",
           "1aFase": {
-            "2021": 400.0
+            "2021": 400.0,
+            "2022": 217.0
           }
         },
         "fsruqdqnpeemetilzeuaiuuuihirb": {
           "FullName": "Luiz Henrique Aquino",
           "1aFase": {
-            "2021": 400.0
+            "2021": 400.0,
+            "2022": 217.0
           }
         },
         "aurpdtrniubpmsiefauol": {
@@ -26081,6 +28450,54 @@ HISTORY = {
           "FullName": "Gabriela Oliveira",
           "1aFase": {
             "2021": 400.0
+          }
+        },
+        "dam4relryimcop4egon0": {
+          "FullName": "Pedro Henryque Oliveira",
+          "1aFase": {
+            "2022": 110.0
+          }
+        },
+        "eiurfbuietdngppaeofli4s": {
+          "FullName": "Felipe Santiago Gama",
+          "1aFase": {
+            "2022": 110.0
+          }
+        },
+        "uunfirorpbngadduamiese": {
+          "FullName": "Anderson Guimarães",
+          "1aFase": {
+            "2022": 167.0
+          }
+        },
+        "e2cmcatgao2ulmmhlsimussa": {
+          "FullName": "Lucas Matheus Rocha",
+          "1aFase": {
+            "2022": 167.0
+          }
+        },
+        "bkeurapufazncuvaid": {
+          "FullName": "Kauan Vaz Nascimento",
+          "1aFase": {
+            "2022": 167.0
+          }
+        },
+        "sbpydafieunsaorfuur": {
+          "FullName": "Ryan Sousa",
+          "1aFase": {
+            "2022": 217.0
+          }
+        },
+        "0ru2d0pebtuielf1": {
+          "FullName": "Ana Letícia Rodrigues De Oliveira",
+          "1aFase": {
+            "2022": 354.0
+          }
+        },
+        "adarofsd2rem7luieabprnexu": {
+          "FullName": "Alexandre José Cantuária Monteiro Rosa Filho",
+          "1aFase": {
+            "2022": 354.0
           }
         }
       },
@@ -26206,6 +28623,10 @@ HISTORY = {
         "2021": {
           "Teams": 3,
           "BestRank": 83
+        },
+        "2022": {
+          "Teams": 4,
+          "BestRank": 106
         }
       },
       "Contestants": {
@@ -26286,7 +28707,8 @@ HISTORY = {
             "2018": 506.0,
             "2019": 194.0,
             "2020": 343.0,
-            "2021": 83.0
+            "2021": 83.0,
+            "2022": 106.0
           },
           "Nacional": {
             "2021": 55.0
@@ -26298,7 +28720,8 @@ HISTORY = {
             "2018": 506.0,
             "2019": 194.0,
             "2020": 343.0,
-            "2021": 83.0
+            "2021": 83.0,
+            "2022": 106.0
           },
           "Nacional": {
             "2021": 55.0
@@ -26367,13 +28790,15 @@ HISTORY = {
         "cseogormpamrasioamlijs": {
           "FullName": "João Vitor Moreira Passos",
           "1aFase": {
-            "2021": 291.0
+            "2021": 291.0,
+            "2022": 411.0
           }
         },
         "3csominra5modl7gaya5ma": {
           "FullName": "Dayan Gomes",
           "1aFase": {
-            "2021": 291.0
+            "2021": 291.0,
+            "2022": 411.0
           }
         },
         "amslisirooaclmvsrasmnagvlri": {
@@ -26398,6 +28823,48 @@ HISTORY = {
           "FullName": "Pedro Tercio Do Nascimento Vieira",
           "1aFase": {
             "2021": 400.0
+          }
+        },
+        "oagomscesnmidnlesarnsuojmgdaoee": {
+          "FullName": "Jeanderson De Gomes Sousa",
+          "1aFase": {
+            "2022": 252.0
+          }
+        },
+        "bd1ep0io2surlaurcauf0h": {
+          "FullName": "Saul Da Sousa Rocha",
+          "1aFase": {
+            "2022": 252.0
+          }
+        },
+        "2ocnmnasi7jfcrcigaeolosstsmao": {
+          "FullName": "Francisco Jose Santos Reis",
+          "1aFase": {
+            "2022": 252.0
+          }
+        },
+        "al0a6oyangiomcmartcma9e": {
+          "FullName": "Mayra Caetano Oliveira",
+          "1aFase": {
+            "2022": 411.0
+          }
+        },
+        "njoobmcn4ruamooiislrjgr": {
+          "FullName": "Robson Júnior",
+          "1aFase": {
+            "2022": 457.0
+          }
+        },
+        "r6lasanmdiangipa71scmo9": {
+          "FullName": "Nara Raquel Dias Andrade",
+          "1aFase": {
+            "2022": 457.0
+          }
+        },
+        "rpvibobfiarcutryednu": {
+          "FullName": "Bryan Victor Da Costa Martins",
+          "1aFase": {
+            "2022": 457.0
           }
         }
       },
@@ -26587,6 +29054,10 @@ HISTORY = {
         "2021": {
           "Teams": 3,
           "BestRank": 400
+        },
+        "2022": {
+          "Teams": 1,
+          "BestRank": 435
         }
       },
       "Contestants": {
@@ -26611,13 +29082,15 @@ HISTORY = {
         "elmnuoorapiansamlbourue": {
           "FullName": "Francisco Carvalho",
           "1aFase": {
-            "2021": 400.0
+            "2021": 400.0,
+            "2022": 435.0
           }
         },
         "baruelinsnxdleooaplasruacer": {
           "FullName": "Carlos Alexandre Nery Da Silva",
           "1aFase": {
-            "2021": 400.0
+            "2021": 400.0,
+            "2022": 435.0
           }
         },
         "naaeoresaeusorulcpibllsmp": {
@@ -26641,7 +29114,8 @@ HISTORY = {
         "iasuolirieuepesbllpfnu": {
           "FullName": "Luis Felipe Melo",
           "1aFase": {
-            "2021": 400.0
+            "2021": 400.0,
+            "2022": 435.0
           }
         }
       }
@@ -26685,6 +29159,10 @@ HISTORY = {
         "2021": {
           "Teams": 7,
           "BestRank": 11
+        },
+        "2022": {
+          "Teams": 6,
+          "BestRank": 10
         }
       },
       "Contestants": {
@@ -27387,7 +29865,8 @@ HISTORY = {
           "FullName": "João Victor Aquino",
           "1aFase": {
             "2020": 63.0,
-            "2021": 11.0
+            "2021": 11.0,
+            "2022": 10.0
           },
           "Nacional": {
             "2020": 29.0,
@@ -27416,7 +29895,8 @@ HISTORY = {
           "FullName": "João Mendes Lopes Neto",
           "1aFase": {
             "2020": 192.0,
-            "2021": 268.0
+            "2021": 268.0,
+            "2022": 121.0
           }
         },
         "ommllmgaaavlncmgoaoidi": {
@@ -27454,7 +29934,8 @@ HISTORY = {
           "FullName": "Luiz Gonzaga Gomes",
           "1aFase": {
             "2020": 372.0,
-            "2021": 214.0
+            "2021": 214.0,
+            "2022": 206.0
           }
         },
         "uomclolymmakciugl": {
@@ -27521,7 +30002,8 @@ HISTORY = {
         "mtisgrcrimbailmloavooge": {
           "FullName": "Paulo Vitor Lima Borges",
           "1aFase": {
-            "2021": 11.0
+            "2021": 11.0,
+            "2022": 10.0
           },
           "Nacional": {
             "2021": 10.0
@@ -27530,7 +30012,8 @@ HISTORY = {
         "eafnoiru0uep0ubosdelrmr7d": {
           "FullName": "Paulo Augusto De Lima Medeiros",
           "1aFase": {
-            "2021": 11.0
+            "2021": 11.0,
+            "2022": 10.0
           },
           "Nacional": {
             "2021": 10.0
@@ -27557,7 +30040,8 @@ HISTORY = {
         "naubelrdein0duucenf7lra7": {
           "FullName": "Daniel Rodrigues Lucena",
           "1aFase": {
-            "2021": 214.0
+            "2021": 214.0,
+            "2022": 206.0
           }
         },
         "ara8er1fnuamcrilue0tdbdu": {
@@ -27636,6 +30120,78 @@ HISTORY = {
           "FullName": "Giuliano Vilela",
           "Nacional": {
             "2010": 13.0
+          }
+        },
+        "geoaldocoonodmllmlhteaoearvmai": {
+          "FullName": "Leonardo David Galvão De Melo",
+          "1aFase": {
+            "2022": 52.0
+          }
+        },
+        "egoa21ilcmomaigrni": {
+          "FullName": "Ian Gabriel Silva Dias",
+          "1aFase": {
+            "2022": 52.0
+          }
+        },
+        "amtehculmmegsilsaoauoeps": {
+          "FullName": "Matheus Leão De Carvalho",
+          "1aFase": {
+            "2022": 52.0
+          }
+        },
+        "oricmnmegaaabnraal": {
+          "FullName": "Ranna Raabe Fernandes Da Costa",
+          "1aFase": {
+            "2022": 121.0
+          }
+        },
+        "dlmr2aaerao0inlgmgoiecu": {
+          "FullName": "Daniel Oliveira Guerra",
+          "1aFase": {
+            "2022": 121.0
+          }
+        },
+        "qeuoqminmrguultoechfaie": {
+          "FullName": "Henrique Lopes Fouquet",
+          "1aFase": {
+            "2022": 129.0
+          }
+        },
+        "anlja4mvt2ogeahasrscmoi": {
+          "FullName": "Jonathas Veras Da Silva Oliveira",
+          "1aFase": {
+            "2022": 129.0
+          }
+        },
+        "0diguam1lonactoetgausm": {
+          "FullName": "Dante Augusto",
+          "1aFase": {
+            "2022": 129.0
+          }
+        },
+        "r9loorbfencancadu0ilsrum3u": {
+          "FullName": "Lucas Pires De Souza Marcolino",
+          "1aFase": {
+            "2022": 206.0
+          }
+        },
+        "rswbroetrhueloydemenlca": {
+          "FullName": "Esther Maria Da Silveira Wanderley",
+          "1aFase": {
+            "2022": 258.0
+          }
+        },
+        "pmocoaolograktaoduroce": {
+          "FullName": "Pedro Costa Aragão",
+          "1aFase": {
+            "2022": 258.0
+          }
+        },
+        "acaplim3iwmmgoa2clsomli": {
+          "FullName": "William Campos Silva",
+          "1aFase": {
+            "2022": 258.0
           }
         }
       },
@@ -28121,6 +30677,10 @@ HISTORY = {
         "2021": {
           "Teams": 5,
           "BestRank": 218
+        },
+        "2022": {
+          "Teams": 4,
+          "BestRank": 248
         }
       },
       "Contestants": {
@@ -28542,7 +31102,8 @@ HISTORY = {
         "bresaillco5emialrkegm7": {
           "FullName": "Israel Soares",
           "1aFase": {
-            "2021": 351.0
+            "2021": 351.0,
+            "2022": 280.0
           }
         },
         "mliafrhmin0otiomchhaol": {
@@ -28554,13 +31115,15 @@ HISTORY = {
         "ojiitdllaasagamdecdsnmc": {
           "FullName": "Alcides Dantas",
           "1aFase": {
-            "2021": 351.0
+            "2021": 351.0,
+            "2022": 280.0
           }
         },
         "silleercaouceramdbfrhnr": {
           "FullName": "Lívia Medeiros",
           "1aFase": {
-            "2021": 400.0
+            "2021": 400.0,
+            "2022": 280.0
           }
         },
         "clirmaciaipnomidatgag": {
@@ -28585,6 +31148,60 @@ HISTORY = {
           "FullName": "Débora Melo",
           "1aFase": {
             "2021": 400.0
+          }
+        },
+        "enurfbioecdsaprlerfliex": {
+          "FullName": "Felipe Xavier De Carvalho",
+          "1aFase": {
+            "2022": 248.0
+          }
+        },
+        "rmrnrlecsebaunaduoaaferdrdei": {
+          "FullName": "Maure Andrade",
+          "1aFase": {
+            "2022": 248.0
+          }
+        },
+        "calamlrimmdmgaogiaa": {
+          "FullName": "Radmila Gama",
+          "1aFase": {
+            "2022": 248.0
+          }
+        },
+        "rrnfnurrblaeodseacibuo": {
+          "FullName": "Bruno Gonçalves",
+          "1aFase": {
+            "2022": 456.0
+          }
+        },
+        "rrenodcgubuoieleidrissulieaahrfifq": {
+          "FullName": "Hilquias Silva",
+          "1aFase": {
+            "2022": 456.0
+          }
+        },
+        "ndlerveiraefoisocrbrunla": {
+          "FullName": "Raphael Matias",
+          "1aFase": {
+            "2022": 456.0
+          }
+        },
+        "anucrtvleblaeibfoirrirriodsn": {
+          "FullName": "Jose Neto",
+          "1aFase": {
+            "2022": 508.0
+          }
+        },
+        "sfredollsoirenbecnoejuart": {
+          "FullName": "José Silva",
+          "1aFase": {
+            "2022": 508.0
+          }
+        },
+        "ontrliareleabcdensouordfr": {
+          "FullName": "Leonardo Martins",
+          "1aFase": {
+            "2022": 508.0
           }
         }
       }
@@ -28713,6 +31330,10 @@ HISTORY = {
         "2021": {
           "Teams": 2,
           "BestRank": 226
+        },
+        "2022": {
+          "Teams": 2,
+          "BestRank": 222
         }
       },
       "Contestants": {
@@ -29199,7 +31820,8 @@ HISTORY = {
         "icdemgysjmolanam": {
           "FullName": "Endy Melo",
           "1aFase": {
-            "2020": 613.0
+            "2020": 613.0,
+            "2022": 222.0
           }
         },
         "lmneocvtgiaietsmeomrasim": {
@@ -29280,6 +31902,36 @@ HISTORY = {
           "FullName": "Antonio Ribeiro",
           "Nacional": {
             "2012": 27.0
+          }
+        },
+        "pcmoigsekesarumduol": {
+          "FullName": "Pedro Santos",
+          "1aFase": {
+            "2022": 222.0
+          }
+        },
+        "mkhblotomriejca": {
+          "FullName": "Pedro Steinbach",
+          "1aFase": {
+            "2022": 222.0
+          }
+        },
+        "lmanegmrogchashsoneimai": {
+          "FullName": "Sérgio Manhães",
+          "1aFase": {
+            "2022": 437.0
+          }
+        },
+        "ovmhgsionaomicstilm": {
+          "FullName": "Vinícius Santos",
+          "1aFase": {
+            "2022": 437.0
+          }
+        },
+        "bdaaimnxgrsicaaaiaroliemvm": {
+          "FullName": "Mariana Dias",
+          "1aFase": {
+            "2022": 437.0
           }
         }
       },
@@ -29895,6 +32547,10 @@ HISTORY = {
         "2021": {
           "Teams": 3,
           "BestRank": 279
+        },
+        "2022": {
+          "Teams": 6,
+          "BestRank": 160
         }
       },
       "Contestants": {
@@ -29910,7 +32566,8 @@ HISTORY = {
         "cmlmcgnaaogicarfia": {
           "FullName": "Riccardo Cafagna",
           "1aFase": {
-            "2020": 128.0
+            "2020": 128.0,
+            "2022": 237.0
           },
           "Nacional": {
             "2018": 55.0
@@ -29925,7 +32582,8 @@ HISTORY = {
         "aaaumcoolemohcitmhdcg": {
           "FullName": "Fred Machado",
           "1aFase": {
-            "2021": 279.0
+            "2021": 279.0,
+            "2022": 225.0
           }
         },
         "kodmlrhfonaotcucieoeotsntin": {
@@ -29937,7 +32595,8 @@ HISTORY = {
         "20otl0ocrmd2gnaoomiaaml": {
           "FullName": "Orlando Mota",
           "1aFase": {
-            "2021": 279.0
+            "2021": 279.0,
+            "2022": 160.0
           }
         },
         "iumnacecmtitedaoasracosrduelenahsb": {
@@ -29949,7 +32608,8 @@ HISTORY = {
         "hencmsniainantlobdlsmaauraatcoegeaei": {
           "FullName": "Antônio Magalhães",
           "1aFase": {
-            "2021": 400.0
+            "2021": 400.0,
+            "2022": 225.0
           }
         },
         "cancrtdsrmoesisberlananuiadaeee": {
@@ -29961,7 +32621,8 @@ HISTORY = {
         "ieuiadldaacnocnsrpeetoesbamsru": {
           "FullName": "Pedro Barros",
           "1aFase": {
-            "2021": 400.0
+            "2021": 400.0,
+            "2022": 225.0
           }
         },
         "pclcraieabmitalfeeeslumnnieaid": {
@@ -29980,6 +32641,84 @@ HISTORY = {
           "FullName": "Rafael Loureiro",
           "Nacional": {
             "2018": 55.0
+          }
+        },
+        "cdrwaebienenalaciuiedrndmmatiras": {
+          "FullName": "Adrian Widmer",
+          "1aFase": {
+            "2022": 160.0
+          }
+        },
+        "araaaeebilmdrgrrosmevlcnol": {
+          "FullName": "Bernardo Resende",
+          "1aFase": {
+            "2022": 160.0
+          }
+        },
+        "rluiadvecmseaarbnontcnzaeeedaui": {
+          "FullName": "Ruan Azevedo",
+          "1aFase": {
+            "2022": 237.0
+          }
+        },
+        "aaa0micmlrmaootigms": {
+          "FullName": "Maíra Matos",
+          "1aFase": {
+            "2022": 237.0
+          }
+        },
+        "etrdnetmscbnauicaaemsseulia": {
+          "FullName": "Mateus Alkmim",
+          "1aFase": {
+            "2022": 333.0
+          }
+        },
+        "drnociubdimslaaiadeeemcaeosrtunra": {
+          "FullName": "Eduardo Moraes",
+          "1aFase": {
+            "2022": 333.0
+          }
+        },
+        "reltnubenmlribsgeacaeiaicad2": {
+          "FullName": "Gabriel Santos",
+          "1aFase": {
+            "2022": 333.0
+          }
+        },
+        "71rm0imllbro2aabggc": {
+          "FullName": "Gabriel Reis",
+          "1aFase": {
+            "2022": 464.0
+          }
+        },
+        "btndolmnueeipacragosaacliluaeicn": {
+          "FullName": "Gianluca Lopo",
+          "1aFase": {
+            "2022": 464.0
+          }
+        },
+        "mnoricleisdhjancnatebuae": {
+          "FullName": "John Vitor De Carvalho",
+          "1aFase": {
+            "2022": 464.0
+          }
+        },
+        "bloolacminngdfrasiaenma": {
+          "FullName": "Fernanda Lisboa",
+          "1aFase": {
+            "2022": 508.0
+          }
+        },
+        "racmdesicenatdbelbaiualinen": {
+          "FullName": "Daniel Bastos",
+          "1aFase": {
+            "2022": 508.0
+          }
+        },
+        "ojcojamn19hlgip5m": {
+          "FullName": "João Oliveira",
+          "1aFase": {
+            "2022": 508.0
           }
         }
       },
@@ -30395,6 +33134,10 @@ HISTORY = {
         "2020": {
           "Teams": 3,
           "BestRank": 179
+        },
+        "2022": {
+          "Teams": 2,
+          "BestRank": 349
         }
       },
       "Contestants": {
@@ -30512,7 +33255,8 @@ HISTORY = {
         "ashgmolciusnpomr": {
           "FullName": "Bruno Lincon De Souza Bordin",
           "1aFase": {
-            "2018": 629.0
+            "2018": 629.0,
+            "2022": 460.0
           }
         },
         "onslg1miicsromae": {
@@ -30609,6 +33353,36 @@ HISTORY = {
           "FullName": "Daniel Ferreira De Souza",
           "Nacional": {
             "2011": 39.0
+          }
+        },
+        "m3lwmanadcl2lii1agrioc": {
+          "FullName": "William Cardoso Barbosa",
+          "1aFase": {
+            "2022": 349.0
+          }
+        },
+        "imsdcaiamlgsomh": {
+          "FullName": "Samih Santos De Oliveira",
+          "1aFase": {
+            "2022": 349.0
+          }
+        },
+        "ocjm43gzmal6io90i": {
+          "FullName": "João Marcos Carvalho De Souza",
+          "1aFase": {
+            "2022": 349.0
+          }
+        },
+        "nmrwocalsiydomoga": {
+          "FullName": "Deivisson Monteiro Amorim",
+          "1aFase": {
+            "2022": 460.0
+          }
+        },
+        "lrerlopmbncssrituomoaogia": {
+          "FullName": "Gabriel Morais Russo",
+          "1aFase": {
+            "2022": 460.0
           }
         }
       },
@@ -31421,6 +34195,10 @@ HISTORY = {
         "2021": {
           "Teams": 5,
           "BestRank": 168
+        },
+        "2022": {
+          "Teams": 3,
+          "BestRank": 508
         }
       },
       "Contestants": {
@@ -31636,7 +34414,8 @@ HISTORY = {
           "FullName": "João Ferrete",
           "1aFase": {
             "2020": 200.0,
-            "2021": 203.0
+            "2021": 203.0,
+            "2022": 508.0
           }
         },
         "olfeldairreybuaemsumru": {
@@ -31690,13 +34469,15 @@ HISTORY = {
         "oeihamlaniemgameucsslmt": {
           "FullName": "Matheus Dos Santos Milanese",
           "1aFase": {
-            "2021": 168.0
+            "2021": 168.0,
+            "2022": 508.0
           }
         },
         "naduubemrzsrtenoefose": {
           "FullName": "Enzo Fernandes Sarmento",
           "1aFase": {
-            "2021": 168.0
+            "2021": 168.0,
+            "2022": 508.0
           }
         },
         "oafuasurpebeddzrsuecl": {
@@ -31733,6 +34514,42 @@ HISTORY = {
           "FullName": "Leonardo Loureiro De Almeida",
           "1aFase": {
             "2021": 400.0
+          }
+        },
+        "nobisyrftaiedelvleuecrou": {
+          "FullName": "Cleyton Oliveira",
+          "1aFase": {
+            "2022": 508.0
+          }
+        },
+        "ssfehlurenbedjuesuetk": {
+          "FullName": "Kethlen Correia De Jesus",
+          "1aFase": {
+            "2022": 508.0
+          }
+        },
+        "cgldonmaribewrdamoo": {
+          "FullName": "Bernardo Wutke De Oliveira",
+          "1aFase": {
+            "2022": 508.0
+          }
+        },
+        "eraammloassromvggoacmicll": {
+          "FullName": "Marcos Vinícius Vargas Mello",
+          "1aFase": {
+            "2022": 508.0
+          }
+        },
+        "obbueaedsufgirsao": {
+          "FullName": "Iago Patrick De Melo Gripp Vilas Boas",
+          "1aFase": {
+            "2022": 508.0
+          }
+        },
+        "lmg83ioomasocgafn": {
+          "FullName": "Geraldo Afonso Guidine Martins Padua",
+          "1aFase": {
+            "2022": 508.0
           }
         }
       },
@@ -31776,6 +34593,10 @@ HISTORY = {
         "2020": {
           "Teams": 1,
           "BestRank": 287
+        },
+        "2022": {
+          "Teams": 2,
+          "BestRank": 508
         }
       },
       "Contestants": {
@@ -32131,6 +34952,42 @@ HISTORY = {
           "1aFase": {
             "2020": 287.0
           }
+        },
+        "seoilmnxaeilafcrcdoaghlm": {
+          "FullName": "Alexandre Da Silva Cardozo Filho",
+          "1aFase": {
+            "2022": 508.0
+          }
+        },
+        "eenalmirraipnodemgieilcfia": {
+          "FullName": "Daniel Fieni Pereira",
+          "1aFase": {
+            "2022": 508.0
+          }
+        },
+        "oadamhlcginelarmim": {
+          "FullName": "Henrique Almeida",
+          "1aFase": {
+            "2022": 508.0
+          }
+        },
+        "aasiaeieclgisilgmngtlmorb": {
+          "FullName": "Gabriel Garcia Tissianel",
+          "1aFase": {
+            "2022": 508.0
+          }
+        },
+        "i4oamogaicml0prjeocoa1r": {
+          "FullName": "João Pedro Correia",
+          "1aFase": {
+            "2022": 508.0
+          }
+        },
+        "slrainmmplezgocoalmiua": {
+          "FullName": "Murilo Antônio Spalenza",
+          "1aFase": {
+            "2022": 508.0
+          }
         }
       }
     },
@@ -32171,6 +35028,10 @@ HISTORY = {
         "2021": {
           "Teams": 6,
           "BestRank": 22
+        },
+        "2022": {
+          "Teams": 6,
+          "BestRank": 508
         }
       },
       "Contestants": {
@@ -32735,7 +35596,8 @@ HISTORY = {
           "FullName": "Elaine Pires",
           "1aFase": {
             "2020": 488.0,
-            "2021": 283.0
+            "2021": 283.0,
+            "2022": 508.0
           }
         },
         "isiimm9ogvln9aclirdcu": {
@@ -32747,7 +35609,8 @@ HISTORY = {
         "motogloeuolpcmciiaaixnh": {
           "FullName": "Luciano Henrique Peixoto Da Silva",
           "1aFase": {
-            "2021": 117.0
+            "2021": 117.0,
+            "2022": 508.0
           }
         },
         "alibmaslmligsadootovchar": {
@@ -32777,19 +35640,22 @@ HISTORY = {
         "ffejmilmoiclvgmipa": {
           "FullName": "Filipe Gomes Arante De Souza",
           "1aFase": {
-            "2021": 283.0
+            "2021": 283.0,
+            "2022": 508.0
           }
         },
         "errdelpufuanebiafsebi": {
           "FullName": "Felipe Barina",
           "1aFase": {
-            "2021": 349.0
+            "2021": 349.0,
+            "2022": 508.0
           }
         },
         "miomtcaotiilhonnocoalus": {
           "FullName": "Antonio Secchin",
           "1aFase": {
-            "2021": 349.0
+            "2021": 349.0,
+            "2022": 508.0
           }
         },
         "1mvfmatgcrlocoicoa8i": {
@@ -32856,6 +35722,84 @@ HISTORY = {
           "FullName": "Jackson Willian Brito",
           "Nacional": {
             "2011": 23.0
+          }
+        },
+        "vudrolbeinecuoartmsf": {
+          "FullName": "Vitor Facco Calmon",
+          "1aFase": {
+            "2022": 508.0
+          }
+        },
+        "ogimotahhtalco2t7mi": {
+          "FullName": "Thiago Paiva",
+          "1aFase": {
+            "2022": 508.0
+          }
+        },
+        "gtotsmyiafllimbbgaaerca": {
+          "FullName": "Gabryel Batista",
+          "1aFase": {
+            "2022": 508.0
+          }
+        },
+        "mliipgbuelaiomgtngorclraooe": {
+          "FullName": "Gabriel Pietroluongo",
+          "1aFase": {
+            "2022": 508.0
+          }
+        },
+        "erdeogsasbriosrtfoenuum": {
+          "FullName": "Rogério Júnior",
+          "1aFase": {
+            "2022": 508.0
+          }
+        },
+        "eotaomuheeshcuiutlursnfbd": {
+          "FullName": "Matheus Lenke Coutinho",
+          "1aFase": {
+            "2022": 508.0
+          }
+        },
+        "tsferourvsbedaonsuedp": {
+          "FullName": "Pedro Santos",
+          "1aFase": {
+            "2022": 508.0
+          }
+        },
+        "lmadaciaursersfebuu": {
+          "FullName": "Luís Eduardo Freire Da Câmara",
+          "1aFase": {
+            "2022": 508.0
+          }
+        },
+        "ujbgroviusrdaeeroeaf": {
+          "FullName": "Igor Mattos Dos Santos Varejão",
+          "1aFase": {
+            "2022": 508.0
+          }
+        },
+        "frusepfubendedrsreoane": {
+          "FullName": "Fernando Azevedo Peres",
+          "1aFase": {
+            "2022": 508.0
+          }
+        },
+        "oupicgnjacmljmcaomo": {
+          "FullName": "Christian State",
+          "1aFase": {
+            "2022": 508.0
+          }
+        },
+        "mahaalcledlafeagsueprub": {
+          "FullName": "Pamella Galacha",
+          "1aFase": {
+            "2022": 508.0
+          }
+        },
+        "nuerbueisvsicfrdseiliu": {
+          "FullName": "Vinicius Lucas Dos Reis",
+          "1aFase": {
+            "2022": 508.0
           }
         }
       },
@@ -33153,6 +36097,10 @@ HISTORY = {
         "2020": {
           "Teams": 1,
           "BestRank": 214
+        },
+        "2022": {
+          "Teams": 2,
+          "BestRank": 508
         }
       },
       "Contestants": {
@@ -33193,6 +36141,42 @@ HISTORY = {
           "1aFase": {
             "2019": 202.0,
             "2020": 214.0
+          }
+        },
+        "iedlrcbatainsiurushemf": {
+          "FullName": "Christian Lima",
+          "1aFase": {
+            "2022": 508.0
+          }
+        },
+        "mo5talackginkmcm55": {
+          "FullName": "Matheus Knack Silva",
+          "1aFase": {
+            "2022": 508.0
+          }
+        },
+        "idelrbrfepouuerpifisebi": {
+          "FullName": "Filipe Ribeiro",
+          "1aFase": {
+            "2022": 508.0
+          }
+        },
+        "neasdusflaelbrttuohsse": {
+          "FullName": "Talles Henrique",
+          "1aFase": {
+            "2022": 508.0
+          }
+        },
+        "tenadusfiaenbruduamnle": {
+          "FullName": "Daniel Goncalves Mantuan",
+          "1aFase": {
+            "2022": 508.0
+          }
+        },
+        "mrolirbgnadneuadessfrveeu": {
+          "FullName": "Vanderson Faria Milagre",
+          "1aFase": {
+            "2022": 508.0
           }
         }
       }
@@ -33875,6 +36859,10 @@ HISTORY = {
         "2021": {
           "Teams": 2,
           "BestRank": 333
+        },
+        "2022": {
+          "Teams": 1,
+          "BestRank": 393
         }
       },
       "Contestants": {
@@ -34003,7 +36991,8 @@ HISTORY = {
         "o8ucmsluam7azi1gillacoms4a": {
           "FullName": "Lucas Lima",
           "1aFase": {
-            "2020": 524.0
+            "2020": 524.0,
+            "2022": 393.0
           }
         },
         "realcnlnigdooeoemvatectmro": {
@@ -34028,6 +37017,18 @@ HISTORY = {
           "FullName": "Lucas De Souza",
           "1aFase": {
             "2021": 400.0
+          }
+        },
+        "cinvatodm201ilemhdaiia1lmoicesu": {
+          "FullName": "Vinicius Almeida",
+          "1aFase": {
+            "2022": 393.0
+          }
+        },
+        "h2zeosuma7macailu3o4sgtm": {
+          "FullName": "Matheus Felipe De Souza",
+          "1aFase": {
+            "2022": 393.0
           }
         }
       },
@@ -34071,6 +37072,10 @@ HISTORY = {
         "2020": {
           "Teams": 3,
           "BestRank": 573
+        },
+        "2022": {
+          "Teams": 3,
+          "BestRank": 342
         }
       },
       "Contestants": {
@@ -34338,7 +37343,8 @@ HISTORY = {
         "ohimc6riog0galetoiarmam": {
           "FullName": "Thiago Moreira Batalha",
           "1aFase": {
-            "2020": 573.0
+            "2020": 573.0,
+            "2022": 342.0
           }
         },
         "so1gc8ia5omiria9mtvl": {
@@ -34375,6 +37381,54 @@ HISTORY = {
           "FullName": "Maxsuel Matilde Marques",
           "1aFase": {
             "2020": 674.0
+          }
+        },
+        "idm0carl1aealalifvs11moag": {
+          "FullName": "Rafael Amancio Da Silva",
+          "1aFase": {
+            "2022": 342.0
+          }
+        },
+        "rnleglbeiiamalhaotatjoclmvin": {
+          "FullName": "Rachel Braga Vecchi",
+          "1aFase": {
+            "2022": 342.0
+          }
+        },
+        "agmifnrooomioroaaejcoittmvlni": {
+          "FullName": "João Vitor Firmiano Neto",
+          "1aFase": {
+            "2022": 401.0
+          }
+        },
+        "nta4a2ossemsukoacotovolc": {
+          "FullName": "Vanessa Ferreira Costa Oliveira",
+          "1aFase": {
+            "2022": 401.0
+          }
+        },
+        "ir1coumoustglgbe371masgjoaoa": {
+          "FullName": "João Augusto Ribeiro Borges",
+          "1aFase": {
+            "2022": 401.0
+          }
+        },
+        "lg4vo1ian5gc1mcm": {
+          "FullName": "Gabriel Campos Nogueira Vieira",
+          "1aFase": {
+            "2022": 493.0
+          }
+        },
+        "tzgi34ocmsmimaujoal": {
+          "FullName": "Joao Vitor De Souza",
+          "1aFase": {
+            "2022": 493.0
+          }
+        },
+        "msvapagmc9o6somclir": {
+          "FullName": "Marcos Paulo Vimieiro Silva",
+          "1aFase": {
+            "2022": 493.0
           }
         }
       }
@@ -35411,6 +38465,10 @@ HISTORY = {
         "2021": {
           "Teams": 3,
           "BestRank": 59
+        },
+        "2022": {
+          "Teams": 5,
+          "BestRank": 75
         }
       },
       "Contestants": {
@@ -35758,7 +38816,8 @@ HISTORY = {
           "1aFase": {
             "2019": 59.0,
             "2020": 87.0,
-            "2021": 59.0
+            "2021": 59.0,
+            "2022": 75.0
           },
           "Nacional": {
             "2021": 26.0
@@ -35769,7 +38828,8 @@ HISTORY = {
           "1aFase": {
             "2019": 59.0,
             "2020": 87.0,
-            "2021": 59.0
+            "2021": 59.0,
+            "2022": 75.0
           },
           "Nacional": {
             "2021": 26.0
@@ -35819,7 +38879,8 @@ HISTORY = {
         "ptgbinhopceaaavrecrll": {
           "FullName": "Pedro Piccichelli",
           "1aFase": {
-            "2020": 307.0
+            "2020": 307.0,
+            "2022": 75.0
           }
         },
         "jrgmeelbgilneaeatsuio": {
@@ -35843,13 +38904,15 @@ HISTORY = {
         "tirnbeecslnopaceamrdaogrb": {
           "FullName": "Bernardo Campos João Silva",
           "1aFase": {
-            "2021": 400.0
+            "2021": 400.0,
+            "2022": 508.0
           }
         },
         "olqcergnibmairalneeceturhe": {
           "FullName": "Marcelo Henrique De Oliveira Pereira Vilela",
           "1aFase": {
-            "2021": 400.0
+            "2021": 400.0,
+            "2022": 508.0
           }
         },
         "irsomgbsseincaiielutivecn": {
@@ -35862,6 +38925,66 @@ HISTORY = {
           "FullName": "João Vitor Augusto Fernandes",
           "1aFase": {
             "2021": 400.0
+          }
+        },
+        "oeiepllgrjoanubtocaa": {
+          "FullName": "João Paulo Gonçalves Da Silva",
+          "1aFase": {
+            "2022": 198.0
+          }
+        },
+        "aoditerpiegcnbltiares": {
+          "FullName": "Pedro Taisi",
+          "1aFase": {
+            "2022": 198.0
+          }
+        },
+        "teatlueosnbraigpsgvg": {
+          "FullName": "Gustavo Pereira Dalboni",
+          "1aFase": {
+            "2022": 198.0
+          }
+        },
+        "naruactabrneglidbeaarmie": {
+          "FullName": "Mariana Barude",
+          "1aFase": {
+            "2022": 309.0
+          }
+        },
+        "etbziiarellseung": {
+          "FullName": "Luiz Eduardo Akazawa Nora",
+          "1aFase": {
+            "2022": 309.0
+          }
+        },
+        "rbagnliiorfgdgstararoee": {
+          "FullName": "Rodrigo Fraga Da Costa",
+          "1aFase": {
+            "2022": 309.0
+          }
+        },
+        "nnletswobtbgoielgleeinacrrs": {
+          "FullName": "Wellington Bosser Cardoso Junior",
+          "1aFase": {
+            "2022": 508.0
+          }
+        },
+        "erbrmeglbrbiaaasbant": {
+          "FullName": "Bárbara Martins Barbieri",
+          "1aFase": {
+            "2022": 508.0
+          }
+        },
+        "ranobgacsgdiectbaeilleorr": {
+          "FullName": "Gabriel Cardoso",
+          "1aFase": {
+            "2022": 508.0
+          }
+        },
+        "bcbemtregiorelna": {
+          "FullName": "Pedro Oliveira Dias Pimenta Borém",
+          "1aFase": {
+            "2022": 508.0
           }
         }
       },
@@ -35933,6 +39056,10 @@ HISTORY = {
         "2021": {
           "Teams": 2,
           "BestRank": 91
+        },
+        "2022": {
+          "Teams": 3,
+          "BestRank": 62
         }
       },
       "Contestants": {
@@ -36233,7 +39360,8 @@ HISTORY = {
           "1aFase": {
             "2019": 67.0,
             "2020": 120.0,
-            "2021": 91.0
+            "2021": 91.0,
+            "2022": 62.0
           },
           "Nacional": {
             "2019": 42.0,
@@ -36249,7 +39377,8 @@ HISTORY = {
         "ncoalarmlhhumodhmgoadooeacito": {
           "FullName": "Hugo Leonardo Machado",
           "1aFase": {
-            "2020": 129.0
+            "2020": 129.0,
+            "2022": 62.0
           }
         },
         "agljliomcgfabeooaremirr": {
@@ -36276,7 +39405,44 @@ HISTORY = {
         "egmelasdioemallrmjncaadmnixe": {
           "FullName": "Alexandre Mendes",
           "1aFase": {
-            "2021": 400.0
+            "2021": 400.0,
+            "2022": 325.0
+          }
+        },
+        "somiilaosntmailesaongecnadnuc": {
+          "FullName": "Caio Santos",
+          "1aFase": {
+            "2022": 62.0
+          }
+        },
+        "f2b1lrldgsurinaomune": {
+          "FullName": "Lucas Ribeiro",
+          "1aFase": {
+            "2022": 325.0
+          }
+        },
+        "re07gamsqcmilmuaomd": {
+          "FullName": "Marcos Marques",
+          "1aFase": {
+            "2022": 325.0
+          }
+        },
+        "osbmelgeigamliiaiucal": {
+          "FullName": "Luigi Silva",
+          "1aFase": {
+            "2022": 381.0
+          }
+        },
+        "lcitlgvvsamgammooua": {
+          "FullName": "Gustavo Leão",
+          "1aFase": {
+            "2022": 381.0
+          }
+        },
+        "1murndujagioefbanplv": {
+          "FullName": "João Vitor Amorim",
+          "1aFase": {
+            "2022": 381.0
           }
         }
       },
@@ -36660,6 +39826,10 @@ HISTORY = {
         "2019": {
           "Teams": 3,
           "BestRank": 252
+        },
+        "2022": {
+          "Teams": 3,
+          "BestRank": 292
         }
       },
       "Contestants": {
@@ -36895,7 +40065,8 @@ HISTORY = {
         "ograailgrmacumoziglisasebsmom": {
           "FullName": "Gabriel Morais",
           "1aFase": {
-            "2017": 487.0
+            "2017": 487.0,
+            "2022": 331.0
           }
         },
         "lgo6mlcdo1amiofon": {
@@ -37133,6 +40304,54 @@ HISTORY = {
           "1aFase": {
             "2019": 505.0
           }
+        },
+        "esbnemluittertmoiadcasrfetdu": {
+          "FullName": "Tárcis Melo",
+          "1aFase": {
+            "2022": 292.0
+          }
+        },
+        "aeutidasidmeenuerjetfetsbrepsr": {
+          "FullName": "Jesse Pereira",
+          "1aFase": {
+            "2022": 292.0
+          }
+        },
+        "lscadsftdumeaetaurotbtroniejea": {
+          "FullName": "João Castelar",
+          "1aFase": {
+            "2022": 292.0
+          }
+        },
+        "gmnsmiaalocwlgnieot": {
+          "FullName": "Welington Silva",
+          "1aFase": {
+            "2022": 331.0
+          }
+        },
+        "iiogaglcgoamndimcaca": {
+          "FullName": "André Nicacio",
+          "1aFase": {
+            "2022": 331.0
+          }
+        },
+        "g2lc587mmgim8o5a4": {
+          "FullName": "Guilherme Martins",
+          "1aFase": {
+            "2022": 413.0
+          }
+        },
+        "oal7lcgniiggmasum": {
+          "FullName": "Saulo Brilhante",
+          "1aFase": {
+            "2022": 413.0
+          }
+        },
+        "rbgeremmopnimyloarcac": {
+          "FullName": "Marco Tulio Palhares Breyner",
+          "1aFase": {
+            "2022": 413.0
+          }
         }
       },
       "Nacional": {
@@ -37179,6 +40398,10 @@ HISTORY = {
         "2021": {
           "Teams": 3,
           "BestRank": 116
+        },
+        "2022": {
+          "Teams": 4,
+          "BestRank": 260
         }
       },
       "Contestants": {
@@ -37519,7 +40742,8 @@ HISTORY = {
         "aediamwomg32lcimli1l": {
           "FullName": "Ed William Pereira",
           "1aFase": {
-            "2021": 116.0
+            "2021": 116.0,
+            "2022": 312.0
           }
         },
         "lsegsmm5cr0loiau0mmcaao": {
@@ -37543,19 +40767,22 @@ HISTORY = {
         "iademlamlrgiosmucasu": {
           "FullName": "Maria Luisa Durães",
           "1aFase": {
-            "2021": 372.0
+            "2021": 372.0,
+            "2022": 384.0
           }
         },
         "oimslmsugesonsgmacaar": {
           "FullName": "Magnus Soares",
           "1aFase": {
-            "2021": 372.0
+            "2021": 372.0,
+            "2022": 384.0
           }
         },
         "gid0laaofmacmd": {
           "FullName": "Daniel Felipe Araújo",
           "1aFase": {
-            "2021": 372.0
+            "2021": 372.0,
+            "2022": 384.0
           }
         },
         "agmc1clamsormrol2i": {
@@ -37586,6 +40813,54 @@ HISTORY = {
           "FullName": "Vinícius Felipe Botelho Barbosa",
           "Nacional": {
             "2012": 47.0
+          }
+        },
+        "nmdllogcwvaeimamel": {
+          "FullName": "Wendell Bernardo Souza",
+          "1aFase": {
+            "2022": 260.0
+          }
+        },
+        "mbe1maadoclmlsassgrion": {
+          "FullName": "Alessandro Monção",
+          "1aFase": {
+            "2022": 260.0
+          }
+        },
+        "irulooidaieogooimrpngcnmslm": {
+          "FullName": "Rodrigo Nunes",
+          "1aFase": {
+            "2022": 260.0
+          }
+        },
+        "nltcqiommhuaiaeohd": {
+          "FullName": "Luiz Henrique Almeida Gomes",
+          "1aFase": {
+            "2022": 312.0
+          }
+        },
+        "a0raecca36hlulsgmm8ooi0m": {
+          "FullName": "Samuel Silva Rocha",
+          "1aFase": {
+            "2022": 312.0
+          }
+        },
+        "r31uijslcocamiacleogmp": {
+          "FullName": "Júlio César Porto De Carvalho",
+          "1aFase": {
+            "2022": 322.0
+          }
+        },
+        "ehigmt9mvylcemaio0al1ln": {
+          "FullName": "Hemilly Araujo Costa",
+          "1aFase": {
+            "2022": 322.0
+          }
+        },
+        "gii0tto6cmlob1rbilame": {
+          "FullName": "Gabriel Brito Alkmim",
+          "1aFase": {
+            "2022": 322.0
           }
         }
       },
@@ -37637,6 +40912,10 @@ HISTORY = {
         "2021": {
           "Teams": 9,
           "BestRank": 43
+        },
+        "2022": {
+          "Teams": 5,
+          "BestRank": 86
         }
       },
       "Contestants": {
@@ -38392,13 +41671,15 @@ HISTORY = {
         "fuu003i0rdienb41e2026d": {
           "FullName": "Matheus Siston Galdino",
           "1aFase": {
-            "2021": 183.0
+            "2021": 183.0,
+            "2022": 118.0
           }
         },
         "ue602i1r20044ub3dfdein": {
           "FullName": "Dielson Soares De Oliveira Junior",
           "1aFase": {
-            "2021": 183.0
+            "2021": 183.0,
+            "2022": 118.0
           }
         },
         "1in102u0erudfb2306ie6d": {
@@ -38428,7 +41709,8 @@ HISTORY = {
         "viazouadbolmiameosgldrusencas": {
           "FullName": "Bruno Said Alves Souza",
           "1aFase": {
-            "2021": 236.0
+            "2021": 236.0,
+            "2022": 179.0
           }
         },
         "aoriuidaordlcizoedojrmgm": {
@@ -38440,7 +41722,8 @@ HISTORY = {
         "fuu012i0rdienb21e2027d": {
           "FullName": "André Marcos Leifeld Raicoski",
           "1aFase": {
-            "2021": 236.0
+            "2021": 236.0,
+            "2022": 179.0
           }
         },
         "3dei6079ibefr02nuu1d02": {
@@ -38470,7 +41753,8 @@ HISTORY = {
         "fuu011i1rdienb31e2026d": {
           "FullName": "Davi José Moreira Cunha",
           "1aFase": {
-            "2021": 310.0
+            "2021": 310.0,
+            "2022": 118.0
           }
         },
         "27n22dfie0ir0bu011ude4": {
@@ -38570,6 +41854,66 @@ HISTORY = {
           "Nacional": {
             "2012": 26.0
           }
+        },
+        "b6nioefuu7ivio0dojatrrec": {
+          "FullName": "João Victor Candido Monteiro",
+          "1aFase": {
+            "2022": 86.0
+          }
+        },
+        "ltmcmahtinejogo": {
+          "FullName": "João Henrique Pulini Tonet",
+          "1aFase": {
+            "2022": 86.0
+          }
+        },
+        "eomolsm6slchti1omnagae": {
+          "FullName": "Luiz Emanoel Batista Moreira",
+          "1aFase": {
+            "2022": 86.0
+          }
+        },
+        "mrgvrgenaimcoildioaalaegililbo": {
+          "FullName": "Gabriel Galindo",
+          "1aFase": {
+            "2022": 143.0
+          }
+        },
+        "ue802i2r20082ub0dfdein": {
+          "FullName": "Filipe Fernandes",
+          "1aFase": {
+            "2022": 143.0
+          }
+        },
+        "ojamouadri2f0enriubeo3cs8": {
+          "FullName": "João Marcos Cucovia",
+          "1aFase": {
+            "2022": 143.0
+          }
+        },
+        "ncseoyiaoigctmacrlfmamb": {
+          "FullName": "Stéfany Coimbra",
+          "1aFase": {
+            "2022": 179.0
+          }
+        },
+        "070d08f22u4iurd2bin2ee": {
+          "FullName": "Nícolas Rodrigues",
+          "1aFase": {
+            "2022": 265.0
+          }
+        },
+        "1dn0f21bd25i1ei0ueu0r2": {
+          "FullName": "Ana Laura Gonçalves Braga",
+          "1aFase": {
+            "2022": 265.0
+          }
+        },
+        "ue002i2r20093ub8dfdein": {
+          "FullName": "Guilherme Silva",
+          "1aFase": {
+            "2022": 265.0
+          }
         }
       },
       "Nacional": {
@@ -38659,6 +42003,10 @@ HISTORY = {
         },
         "2021": {
           "Teams": 16,
+          "BestRank": 2
+        },
+        "2022": {
+          "Teams": 6,
           "BestRank": 2
         }
       },
@@ -38989,7 +42337,8 @@ HISTORY = {
             "2018": 28.0,
             "2019": 35.0,
             "2020": 8.0,
-            "2021": 35.0
+            "2021": 35.0,
+            "2022": 26.0
           },
           "Nacional": {
             "2020": 9.0
@@ -39011,7 +42360,8 @@ HISTORY = {
             "2018": 29.0,
             "2019": 9.0,
             "2020": 3.0,
-            "2021": 2.0
+            "2021": 2.0,
+            "2022": 2.0
           },
           "Nacional": {
             "2019": 5.0,
@@ -39131,7 +42481,8 @@ HISTORY = {
           "1aFase": {
             "2019": 57.0,
             "2020": 3.0,
-            "2021": 2.0
+            "2021": 2.0,
+            "2022": 2.0
           },
           "Nacional": {
             "2020": 7.0,
@@ -39174,7 +42525,8 @@ HISTORY = {
           "FullName": "Bernardo Neto",
           "1aFase": {
             "2020": 36.0,
-            "2021": 2.0
+            "2021": 2.0,
+            "2022": 2.0
           },
           "Nacional": {
             "2021": 2.0
@@ -39184,7 +42536,8 @@ HISTORY = {
           "FullName": "João Antonio Oliveira Pedrosa",
           "1aFase": {
             "2020": 44.0,
-            "2021": 33.0
+            "2021": 33.0,
+            "2022": 21.0
           }
         },
         "ilsagrvbempvocgdiamlio": {
@@ -39198,14 +42551,16 @@ HISTORY = {
           "FullName": "Bernardo Borges",
           "1aFase": {
             "2020": 78.0,
-            "2021": 42.0
+            "2021": 42.0,
+            "2022": 44.0
           }
         },
         "aeumliortbgomainrlohcmaa": {
           "FullName": "Mariano Glauber Torres Fernandes",
           "1aFase": {
             "2020": 78.0,
-            "2021": 42.0
+            "2021": 42.0,
+            "2022": 21.0
           }
         },
         "elcsisamloaoucasggmtu": {
@@ -39442,7 +42797,8 @@ HISTORY = {
         "cbmagruiabmaiulligrbaeot": {
           "FullName": "Gabriel Ubiratan",
           "1aFase": {
-            "2021": 71.0
+            "2021": 71.0,
+            "2022": 26.0
           }
         },
         "u2cog554emldielaomml": {
@@ -39472,7 +42828,8 @@ HISTORY = {
         "iataenvlmnnctgmao": {
           "FullName": "Natan Ventura Menezes",
           "1aFase": {
-            "2021": 146.0
+            "2021": 146.0,
+            "2022": 44.0
           }
         },
         "cpcrgugarfbmuasrtdar": {
@@ -39655,6 +43012,60 @@ HISTORY = {
           "FullName": "Artur Gripp",
           "Nacional": {
             "2011": 43.0
+          }
+        },
+        "ahas2uilmgaocr1gampt01rr": {
+          "FullName": "Artur Silva",
+          "1aFase": {
+            "2022": 21.0
+          }
+        },
+        "ieelommkroaiagciaisavsm": {
+          "FullName": "Kaio Henrique Masse Vieira",
+          "1aFase": {
+            "2022": 26.0
+          }
+        },
+        "lvaitogbvadmmci": {
+          "FullName": "Davi Veloso",
+          "1aFase": {
+            "2022": 44.0
+          }
+        },
+        "g62imo2a1lnitmomc": {
+          "FullName": "Antônio Caetano Neves Neto",
+          "1aFase": {
+            "2022": 50.0
+          }
+        },
+        "eislgamiscemomae": {
+          "FullName": "Thiago Assis",
+          "1aFase": {
+            "2022": 50.0
+          }
+        },
+        "rganbsevcdctelccummafuooss": {
+          "FullName": "Mateus Vitor Mota Vasconcelos",
+          "1aFase": {
+            "2022": 50.0
+          }
+        },
+        "nbauclzolmeemgacrihire": {
+          "FullName": "Rachel Biezuner",
+          "1aFase": {
+            "2022": 288.0
+          }
+        },
+        "ilamaisleeoixgsrmceati19m": {
+          "FullName": "Melissa Teixeira",
+          "1aFase": {
+            "2022": 288.0
+          }
+        },
+        "itimraahioclomcmddn": {
+          "FullName": "Indra Matsiendra Cardoso Dias Ribeiro",
+          "1aFase": {
+            "2022": 288.0
           }
         }
       },
@@ -40010,6 +43421,10 @@ HISTORY = {
         "2021": {
           "Teams": 19,
           "BestRank": 45
+        },
+        "2022": {
+          "Teams": 8,
+          "BestRank": 14
         }
       },
       "Contestants": {
@@ -41277,7 +44692,8 @@ HISTORY = {
             "2018": 62.0,
             "2019": 19.0,
             "2020": 37.0,
-            "2021": 45.0
+            "2021": 45.0,
+            "2022": 41.0
           },
           "Nacional": {
             "2020": 22.0,
@@ -41647,7 +45063,8 @@ HISTORY = {
             "2018": 35.0,
             "2019": 19.0,
             "2020": 37.0,
-            "2021": 45.0
+            "2021": 45.0,
+            "2022": 14.0
           },
           "Nacional": {
             "2020": 22.0,
@@ -41988,14 +45405,16 @@ HISTORY = {
           "FullName": "Mateus Oliveira Lemos",
           "1aFase": {
             "2019": 475.0,
-            "2021": 127.0
+            "2021": 127.0,
+            "2022": 41.0
           }
         },
         "amagooot1mcglmti": {
           "FullName": "Thiago Carvalho",
           "1aFase": {
             "2019": 475.0,
-            "2021": 127.0
+            "2021": 127.0,
+            "2022": 41.0
           }
         },
         "bfrucuikr": {
@@ -42107,7 +45526,8 @@ HISTORY = {
         "il5mcr2gyil5maeulom": {
           "FullName": "Murielly Oliveira Nascimento",
           "1aFase": {
-            "2020": 258.0
+            "2020": 258.0,
+            "2022": 508.0
           }
         },
         "urao9raacm9gecesiflirfl2m": {
@@ -42181,21 +45601,24 @@ HISTORY = {
           "FullName": "Bruno Fernandes",
           "1aFase": {
             "2020": 467.0,
-            "2021": 211.0
+            "2021": 211.0,
+            "2022": 250.0
           }
         },
         "gfgiibeurllmhrebuuera": {
           "FullName": "Guilherme Gabriel",
           "1aFase": {
             "2020": 467.0,
-            "2021": 211.0
+            "2021": 211.0,
+            "2022": 250.0
           }
         },
         "buotnrzrupsfare": {
           "FullName": "Renzo Souza",
           "1aFase": {
             "2020": 467.0,
-            "2021": 211.0
+            "2021": 211.0,
+            "2022": 250.0
           }
         },
         "imgarrgjdoaegcilm": {
@@ -42364,13 +45787,15 @@ HISTORY = {
         "nocouattalaotoocmybkis1pm0": {
           "FullName": "Maycon Santos",
           "1aFase": {
-            "2021": 124.0
+            "2021": 124.0,
+            "2022": 419.0
           }
         },
         "ofdauruuscobolter": {
           "FullName": "Lucas Gabriel Teodoro Araújo",
           "1aFase": {
-            "2021": 124.0
+            "2021": 124.0,
+            "2022": 96.0
           }
         },
         "ernfirnambellumcuuistoy": {
@@ -42430,7 +45855,8 @@ HISTORY = {
         "gcdzrlaberecmiairmloacgoe": {
           "FullName": "Gabriel Cezar Ferreira",
           "1aFase": {
-            "2021": 259.0
+            "2021": 259.0,
+            "2022": 313.0
           }
         },
         "rlrureouiaivbfub": {
@@ -42657,6 +46083,84 @@ HISTORY = {
             "2011": 18.0,
             "2012": 23.0
           }
+        },
+        "crhileg1zeaie2ndceumommls3egme": {
+          "FullName": "Guilherme Cabral",
+          "1aFase": {
+            "2022": 14.0
+          }
+        },
+        "poiclammmlguaoeraitpioaor": {
+          "FullName": "Amauri Pietropaolo",
+          "1aFase": {
+            "2022": 14.0
+          }
+        },
+        "freuceulanifbp": {
+          "FullName": "Felipe Cintra",
+          "1aFase": {
+            "2022": 96.0
+          }
+        },
+        "mmacsmttcmaohiocunsmloertgeioa": {
+          "FullName": "Matheus Costa",
+          "1aFase": {
+            "2022": 96.0
+          }
+        },
+        "aoilsehaztdmcrom": {
+          "FullName": "Esdras Oliveira",
+          "1aFase": {
+            "2022": 313.0
+          }
+        },
+        "0j9limmcomlogerma": {
+          "FullName": "Leonardo Junior",
+          "1aFase": {
+            "2022": 313.0
+          }
+        },
+        "azfueruviablsr": {
+          "FullName": "Israel Lúcio De Vaz",
+          "1aFase": {
+            "2022": 344.0
+          }
+        },
+        "brriivllsafaaueeufr": {
+          "FullName": "Rafael Silveira",
+          "1aFase": {
+            "2022": 344.0
+          }
+        },
+        "aneanudoaugtfrhrbb": {
+          "FullName": "Dathan Nobrega",
+          "1aFase": {
+            "2022": 344.0
+          }
+        },
+        "a0lhcacrrsgbojlc0mdmoi": {
+          "FullName": "Carlos Humberto Martins Junior",
+          "1aFase": {
+            "2022": 419.0
+          }
+        },
+        "ocavol0aelatuhmohl0spim": {
+          "FullName": "Paulo Henrique Alves Santos",
+          "1aFase": {
+            "2022": 419.0
+          }
+        },
+        "lagoican5omn1iaomgvm": {
+          "FullName": "Giovanna Martins",
+          "1aFase": {
+            "2022": 508.0
+          }
+        },
+        "amedalgraaoilcrimknad": {
+          "FullName": "Klaria Andrade",
+          "1aFase": {
+            "2022": 508.0
+          }
         }
       },
       "Nacional": {
@@ -42747,6 +46251,10 @@ HISTORY = {
         "2021": {
           "Teams": 3,
           "BestRank": 219
+        },
+        "2022": {
+          "Teams": 1,
+          "BestRank": 508
         }
       },
       "Contestants": {
@@ -43147,7 +46655,8 @@ HISTORY = {
           "FullName": "Hellen Harada",
           "1aFase": {
             "2020": 477.0,
-            "2021": 400.0
+            "2021": 400.0,
+            "2022": 508.0
           }
         },
         "mmacsmttcmaohiocunsmloertgeioa": {
@@ -43181,6 +46690,18 @@ HISTORY = {
           "FullName": "Leandro Pedrosa",
           "1aFase": {
             "2021": 354.0
+          }
+        },
+        "ooolimsrn9aamclraugelma9icd": {
+          "FullName": "Carlos Daniel Moura Santos",
+          "1aFase": {
+            "2022": 508.0
+          }
+        },
+        "lao1icfrmmf0cg": {
+          "FullName": "Rhuan Fernandes",
+          "1aFase": {
+            "2022": 508.0
           }
         }
       },
@@ -43308,6 +46829,10 @@ HISTORY = {
         "2021": {
           "Teams": 7,
           "BestRank": 40
+        },
+        "2022": {
+          "Teams": 5,
+          "BestRank": 17
         }
       },
       "Contestants": {
@@ -43565,7 +47090,8 @@ HISTORY = {
             "2018": 245.0,
             "2019": 69.0,
             "2020": 56.0,
-            "2021": 40.0
+            "2021": 40.0,
+            "2022": 17.0
           },
           "Nacional": {
             "2020": 25.0
@@ -43583,7 +47109,8 @@ HISTORY = {
             "2018": 245.0,
             "2019": 69.0,
             "2020": 56.0,
-            "2021": 40.0
+            "2021": 40.0,
+            "2022": 17.0
           },
           "Nacional": {
             "2020": 25.0
@@ -43594,7 +47121,8 @@ HISTORY = {
           "1aFase": {
             "2019": 69.0,
             "2020": 56.0,
-            "2021": 40.0
+            "2021": 40.0,
+            "2022": 17.0
           },
           "Nacional": {
             "2020": 25.0
@@ -43632,7 +47160,8 @@ HISTORY = {
           "1aFase": {
             "2019": 266.0,
             "2020": 115.0,
-            "2021": 121.0
+            "2021": 121.0,
+            "2022": 132.0
           }
         },
         "rabasfvraoiidvunm": {
@@ -43668,28 +47197,32 @@ HISTORY = {
         "6ml1ciiimkr8aoaecgml": {
           "FullName": "Erick Figueiredo",
           "1aFase": {
-            "2020": 115.0
+            "2020": 115.0,
+            "2022": 132.0
           }
         },
         "iuulnnjvrfibacoovsa": {
           "FullName": "Lucas Rodrigues Joviniano",
           "1aFase": {
             "2020": 196.0,
-            "2021": 348.0
+            "2021": 348.0,
+            "2022": 247.0
           }
         },
         "ivnbuasgliroraroibf": {
           "FullName": "Igor Teixeira Brasiliano",
           "1aFase": {
             "2020": 196.0,
-            "2021": 348.0
+            "2021": 348.0,
+            "2022": 247.0
           }
         },
         "italrbnscvhsfcaouo": {
           "FullName": "Nicholas Barbosa E Costa",
           "1aFase": {
             "2020": 196.0,
-            "2021": 348.0
+            "2021": 348.0,
+            "2022": 247.0
           }
         },
         "rclsfvbaahesaurv": {
@@ -43756,13 +47289,15 @@ HISTORY = {
         "pellulc3latromalomhsi1m": {
           "FullName": "Samuel Raimundo Lopes Pinto",
           "1aFase": {
-            "2021": 112.0
+            "2021": 112.0,
+            "2022": 113.0
           }
         },
         "voanrjufsebao": {
           "FullName": "João Pedro Medrado Sena",
           "1aFase": {
-            "2021": 112.0
+            "2021": 112.0,
+            "2022": 180.0
           }
         },
         "eiraraoiujvovofl1b1": {
@@ -43780,7 +47315,8 @@ HISTORY = {
         "rirusnooacbsfalbv": {
           "FullName": "Carlos Sabino",
           "1aFase": {
-            "2021": 121.0
+            "2021": 121.0,
+            "2022": 132.0
           }
         },
         "aerlbrrecuvvffelaira": {
@@ -43887,6 +47423,30 @@ HISTORY = {
           "Nacional": {
             "2012": 28.0
           }
+        },
+        "nnfaurbzebeverduro": {
+          "FullName": "Bruno Rezende",
+          "1aFase": {
+            "2022": 113.0
+          }
+        },
+        "ucvkabesufsrzroi": {
+          "FullName": "Erick Soares De Souza",
+          "1aFase": {
+            "2022": 113.0
+          }
+        },
+        "cvtmbrnerfbaruoaas": {
+          "FullName": "Marco Abrantes",
+          "1aFase": {
+            "2022": 180.0
+          }
+        },
+        "osoaanovjlblrfuo": {
+          "FullName": "João Lucas Silva Solano",
+          "1aFase": {
+            "2022": 180.0
+          }
         }
       },
       "Nacional": {
@@ -43949,6 +47509,10 @@ HISTORY = {
         "2017": {
           "Teams": 1,
           "BestRank": 144
+        },
+        "2022": {
+          "Teams": 1,
+          "BestRank": 343
         }
       },
       "Contestants": {
@@ -44014,6 +47578,24 @@ HISTORY = {
           "Nacional": {
             "2017": 62.0
           }
+        },
+        "uarrbvoegaairlhbfc": {
+          "FullName": "Gabriel Alves Resende Rocha",
+          "1aFase": {
+            "2022": 343.0
+          }
+        },
+        "pbiaevaniqhervfuru": {
+          "FullName": "Henrique Alves Ferreira De Paiva",
+          "1aFase": {
+            "2022": 343.0
+          }
+        },
+        "ubrrojfevumsoae": {
+          "FullName": "José Eduardo Rodrigues Moura",
+          "1aFase": {
+            "2022": 343.0
+          }
         }
       },
       "Nacional": {
@@ -44036,6 +47618,10 @@ HISTORY = {
         "2019": {
           "Teams": 1,
           "BestRank": 647
+        },
+        "2022": {
+          "Teams": 3,
+          "BestRank": 287
         }
       },
       "Contestants": {
@@ -44127,6 +47713,60 @@ HISTORY = {
           "FullName": "Marco Antônio",
           "1aFase": {
             "2019": 647.0
+          }
+        },
+        "elrdeesdbybiuuiunun": {
+          "FullName": "Luisdney Sene",
+          "1aFase": {
+            "2022": 287.0
+          }
+        },
+        "itbsuainebdeattrasuumo": {
+          "FullName": "Arthur Tosta",
+          "1aFase": {
+            "2022": 287.0
+          }
+        },
+        "asubenreiubiirvnucdiu": {
+          "FullName": "Vinícius Ribeiro",
+          "1aFase": {
+            "2022": 287.0
+          }
+        },
+        "gvompooht13imlaibac": {
+          "FullName": "Otavio Palhares",
+          "1aFase": {
+            "2022": 319.0
+          }
+        },
+        "cgrmolibsalgomoc": {
+          "FullName": "Luis Bosco",
+          "1aFase": {
+            "2022": 319.0
+          }
+        },
+        "tdublseertfinibusuua": {
+          "FullName": "Luís Felipe Torres Saturnino",
+          "1aFase": {
+            "2022": 319.0
+          }
+        },
+        "cgl0gsarimlomebcggo0i0r42iu4iaderar2a": {
+          "FullName": "Gabriel Rodrigues Garcia",
+          "1aFase": {
+            "2022": 402.0
+          }
+        },
+        "mvcaiorsalmnbuiigrzbic": {
+          "FullName": "Vinicius Braz Quintino",
+          "1aFase": {
+            "2022": 402.0
+          }
+        },
+        "mpalrm3y30gioc": {
+          "FullName": "Pablio Richardy",
+          "1aFase": {
+            "2022": 402.0
           }
         }
       }
@@ -44602,6 +48242,10 @@ HISTORY = {
         "2021": {
           "Teams": 6,
           "BestRank": 75
+        },
+        "2022": {
+          "Teams": 8,
+          "BestRank": 123
         }
       },
       "Contestants": {
@@ -45217,13 +48861,15 @@ HISTORY = {
         "irlu2rmleamgg513mgocia": {
           "FullName": "Mariana Gurgel Ferreira",
           "1aFase": {
-            "2021": 400.0
+            "2021": 400.0,
+            "2022": 441.0
           }
         },
         "mvoiclraisgmohma0l7bsac": {
           "FullName": "Marcos Paulo Santos Da Silva",
           "1aFase": {
-            "2021": 400.0
+            "2021": 400.0,
+            "2022": 207.0
           }
         },
         "uoanmicmslaioihntmla": {
@@ -45248,6 +48894,138 @@ HISTORY = {
           "FullName": "Pablo Felipe Fernandes Cardozo",
           "1aFase": {
             "2021": 400.0
+          }
+        },
+        "iivocorammteohtlilrcpa": {
+          "FullName": "Victor Samuel Levindo Mont'mor",
+          "1aFase": {
+            "2022": 123.0
+          }
+        },
+        "epdorcvlmaomoiteooohlsi": {
+          "FullName": "Pedro Veloso Inacio De Oliveira",
+          "1aFase": {
+            "2022": 123.0
+          }
+        },
+        "aoaamaargliccmmcrmcle": {
+          "FullName": "Marcela C Caram Peito",
+          "1aFase": {
+            "2022": 123.0
+          }
+        },
+        "mmaoi1gdagiscooedl": {
+          "FullName": "Diogo Emanuel Antunes Santos",
+          "1aFase": {
+            "2022": 176.0
+          }
+        },
+        "s2rdi00elopcamcog2am": {
+          "FullName": "Pedro Oliveira",
+          "1aFase": {
+            "2022": 176.0
+          }
+        },
+        "eigmaieavludeuohm66segoaomgclurtiril": {
+          "FullName": "Guilherme Augusto De Oliveira",
+          "1aFase": {
+            "2022": 176.0
+          }
+        },
+        "lasaaramigtsgammconaol": {
+          "FullName": "Lara Gama Santos",
+          "1aFase": {
+            "2022": 181.0
+          }
+        },
+        "iisi0voemn20iriapc3guocihlmn": {
+          "FullName": "Vinicius Pinheiro",
+          "1aFase": {
+            "2022": 181.0
+          }
+        },
+        "2oma3ogcala0ms0cisulnt": {
+          "FullName": "Lucas Santos Rodrigues",
+          "1aFase": {
+            "2022": 181.0
+          }
+        },
+        "pmrlatooigcmlalbissue": {
+          "FullName": "Luis Lopes",
+          "1aFase": {
+            "2022": 207.0
+          }
+        },
+        "asuacmit0aoubofomg01iglcir0": {
+          "FullName": "Fabrício Augusto Lima Pereira",
+          "1aFase": {
+            "2022": 207.0
+          }
+        },
+        "rliemacihiolomeftrnfg": {
+          "FullName": "Adjailson Freire De Sá Filho",
+          "1aFase": {
+            "2022": 231.0
+          }
+        },
+        "ngum3ctoilam0esmoag": {
+          "FullName": "Mateus Gonçalves Soares",
+          "1aFase": {
+            "2022": 231.0
+          }
+        },
+        "ot6amemezem8nsasm0h0giulce": {
+          "FullName": "Matheus Costa De Menezes",
+          "1aFase": {
+            "2022": 231.0
+          }
+        },
+        "igcjdlommoohlorptair": {
+          "FullName": "Rodrigo Luiz Panta Junior",
+          "1aFase": {
+            "2022": 336.0
+          }
+        },
+        "gudraioa12ld0eiemrseocao0tdmmefgs": {
+          "FullName": "Eduardo Gomes De Freitas",
+          "1aFase": {
+            "2022": 336.0
+          }
+        },
+        "elnnhciimreuiegqm2hr5oa": {
+          "FullName": "Henrique Pereira Cristófaro",
+          "1aFase": {
+            "2022": 336.0
+          }
+        },
+        "aorrcmdduadnmalnaagasbloice": {
+          "FullName": "Lucas Brandão",
+          "1aFase": {
+            "2022": 438.0
+          }
+        },
+        "icmus3afmsillesgog": {
+          "FullName": "Ulisses Carvalho",
+          "1aFase": {
+            "2022": 438.0
+          }
+        },
+        "altrhd8e0corp1io4ampmo": {
+          "FullName": "Pedro Augusto De Portilho Ronzani",
+          "1aFase": {
+            "2022": 438.0
+          }
+        },
+        "e21y9mllmigroao100c": {
+          "FullName": "Luiz Eduardo Leroy Souza",
+          "1aFase": {
+            "2022": 441.0
+          }
+        },
+        "hama4eirlcro6pogcdom3": {
+          "FullName": "Pedro Castro",
+          "1aFase": {
+            "2022": 441.0
           }
         }
       },
@@ -45700,6 +49478,10 @@ HISTORY = {
         "2019": {
           "Teams": 2,
           "BestRank": 571
+        },
+        "2022": {
+          "Teams": 2,
+          "BestRank": 399
         }
       },
       "Contestants": {
@@ -45881,6 +49663,42 @@ HISTORY = {
           "FullName": "Geraldo Guilherme Neto Da Costa",
           "1aFase": {
             "2019": 618.0
+          }
+        },
+        "aceomi4srnagodwlnmm": {
+          "FullName": "Wanderson Mendonça Da Silva",
+          "1aFase": {
+            "2022": 399.0
+          }
+        },
+        "teeyedidrtnftomveubuakmnlse": {
+          "FullName": "Kevyn Melo",
+          "1aFase": {
+            "2022": 399.0
+          }
+        },
+        "hiechtcpstgleoloumsooerokr": {
+          "FullName": "Christopher Lee",
+          "1aFase": {
+            "2022": 399.0
+          }
+        },
+        "c58lcdlom3aismeodaovecnges": {
+          "FullName": "Andre Santos",
+          "1aFase": {
+            "2022": 478.0
+          }
+        },
+        "dasateorutedevfitiudisbnmegl": {
+          "FullName": "Diego Silva",
+          "1aFase": {
+            "2022": 478.0
+          }
+        },
+        "p0mslgileo20rceosaemiaf": {
+          "FullName": "Felipe Santana",
+          "1aFase": {
+            "2022": 478.0
           }
         }
       },
@@ -46210,6 +50028,10 @@ HISTORY = {
         "2021": {
           "Teams": 6,
           "BestRank": 185
+        },
+        "2022": {
+          "Teams": 6,
+          "BestRank": 221
         }
       },
       "Contestants": {
@@ -46408,7 +50230,8 @@ HISTORY = {
           "1aFase": {
             "2019": 339.0,
             "2020": 345.0,
-            "2021": 324.0
+            "2021": 324.0,
+            "2022": 320.0
           }
         },
         "aasmuogpmlioospctugmca": {
@@ -46421,7 +50244,8 @@ HISTORY = {
           "FullName": "Ian Souza",
           "1aFase": {
             "2019": 665.0,
-            "2020": 606.0
+            "2020": 606.0,
+            "2022": 320.0
           }
         },
         "ionsmggaslmlesafrcudoi": {
@@ -46461,19 +50285,22 @@ HISTORY = {
           "FullName": "João Ribeiro",
           "1aFase": {
             "2020": 370.0,
-            "2021": 400.0
+            "2021": 400.0,
+            "2022": 291.0
           }
         },
         "qdaftbeeriyrhienruinu": {
           "FullName": "Arthur Santos",
           "1aFase": {
-            "2020": 370.0
+            "2020": 370.0,
+            "2022": 291.0
           }
         },
         "urbsdzefduieisuogunopirodeearr": {
           "FullName": "Pedro Souza",
           "1aFase": {
-            "2020": 370.0
+            "2020": 370.0,
+            "2022": 352.0
           }
         },
         "erdoburirebeidefuo6isnrgura0nd": {
@@ -46504,7 +50331,8 @@ HISTORY = {
           "FullName": "Natan Vaz",
           "1aFase": {
             "2020": 603.0,
-            "2021": 400.0
+            "2021": 400.0,
+            "2022": 229.0
           }
         },
         "vdnbebfeuieirbilanrgacoua": {
@@ -46525,7 +50353,8 @@ HISTORY = {
           "FullName": "Eduardo Perotti",
           "1aFase": {
             "2020": 606.0,
-            "2021": 400.0
+            "2021": 400.0,
+            "2022": 291.0
           }
         },
         "ieccatsmlaebroueafniudiraso": {
@@ -46594,6 +50423,72 @@ HISTORY = {
           "1aFase": {
             "2021": 400.0
           }
+        },
+        "zn3nolggoliacsiememiel": {
+          "FullName": "Geziel Silva",
+          "1aFase": {
+            "2022": 221.0
+          }
+        },
+        "neaogpblrddaofomoxwmaciill": {
+          "FullName": "Pablo Santos",
+          "1aFase": {
+            "2022": 221.0
+          }
+        },
+        "ibacclosmrgse32ac3u2lomal": {
+          "FullName": "Lucas Barcelos",
+          "1aFase": {
+            "2022": 221.0
+          }
+        },
+        "2lo0mm0zligi1aoc": {
+          "FullName": "Oziel Ferreira Da Silva",
+          "1aFase": {
+            "2022": 229.0
+          }
+        },
+        "e1giaivemsexenlqao6iritihucrmal": {
+          "FullName": "Henrique Teixeira Silva",
+          "1aFase": {
+            "2022": 229.0
+          }
+        },
+        "1u4b0r9e31e0di20dfu2ni": {
+          "FullName": "Jonas Guimarães",
+          "1aFase": {
+            "2022": 320.0
+          }
+        },
+        "crms0nm1yraoislga7eroas": {
+          "FullName": "Ryan Soares",
+          "1aFase": {
+            "2022": 352.0
+          }
+        },
+        "galam2baci93arno0aericg0gmlb": {
+          "FullName": "Gabriel Bragança",
+          "1aFase": {
+            "2022": 352.0
+          }
+        },
+        "i2u02in3140ud1ebe2d2rf": {
+          "FullName": "Danyel Martins",
+          "1aFase": {
+            "2022": 363.0
+          }
+        },
+        "2u4b7r2e31e0di20dfu0ni": {
+          "FullName": "Gabriel Pereira",
+          "1aFase": {
+            "2022": 363.0
+          }
+        },
+        "2u5b6r2e11e0di20dfu4ni": {
+          "FullName": "Davi Henrique",
+          "1aFase": {
+            "2022": 363.0
+          }
         }
       },
       "Nacional": {
@@ -46616,6 +50511,10 @@ HISTORY = {
         "2021": {
           "Teams": 6,
           "BestRank": 196
+        },
+        "2022": {
+          "Teams": 3,
+          "BestRank": 199
         }
       },
       "Contestants": {
@@ -46714,7 +50613,8 @@ HISTORY = {
         "decmoiamgpseercfhl": {
           "FullName": "Frederico Esch Pereira",
           "1aFase": {
-            "2021": 196.0
+            "2021": 196.0,
+            "2022": 199.0
           }
         },
         "gdosgiadepoioajmmoalrvrci": {
@@ -46726,13 +50626,15 @@ HISTORY = {
         "rgesmacsomllcoissaz": {
           "FullName": "Lucas Souza Soares",
           "1aFase": {
-            "2021": 196.0
+            "2021": 196.0,
+            "2022": 468.0
           }
         },
         "zotonmooedsciusoeadmgekuolr": {
           "FullName": "Igor De Souza Mendes",
           "1aFase": {
-            "2021": 302.0
+            "2021": 302.0,
+            "2022": 199.0
           }
         },
         "taeoribgacloheumalrebarrcomi": {
@@ -46756,7 +50658,8 @@ HISTORY = {
         "cenlaeadmaprisdasaexmgueomcrlr": {
           "FullName": "Marcus Alexandre Paredes Oliveira Marcus",
           "1aFase": {
-            "2021": 375.0
+            "2021": 375.0,
+            "2022": 468.0
           }
         },
         "lacamglaammsirinliaiom": {
@@ -46768,7 +50671,8 @@ HISTORY = {
         "cldacimzlloynmruaiegirmvaad": {
           "FullName": "Emily Da Cruz Landivar",
           "1aFase": {
-            "2021": 375.0
+            "2021": 375.0,
+            "2022": 199.0
           }
         },
         "olc1mlalgbaiec2ep9fsmlsui0io": {
@@ -46805,6 +50709,30 @@ HISTORY = {
           "FullName": "Paulo Henrique Silva",
           "1aFase": {
             "2021": 400.0
+          }
+        },
+        "5ycimgu2oammlso": {
+          "FullName": "Yuri Magalhães De Souza",
+          "1aFase": {
+            "2022": 305.0
+          }
+        },
+        "pmviai1dasulodi6iermglalaonce": {
+          "FullName": "Danilo Siervi De Paula",
+          "1aFase": {
+            "2022": 305.0
+          }
+        },
+        "szrbnfrageclicooemmju": {
+          "FullName": "Bruno Jeferson Resende Cruz",
+          "1aFase": {
+            "2022": 305.0
+          }
+        },
+        "omcmccgiarbaallaiaaomrmdiaeb": {
+          "FullName": "Bárbara Maciel Lima",
+          "1aFase": {
+            "2022": 468.0
           }
         }
       }
@@ -47048,6 +50976,10 @@ HISTORY = {
         "2021": {
           "Teams": 2,
           "BestRank": 400
+        },
+        "2022": {
+          "Teams": 1,
+          "BestRank": 387
         }
       },
       "Contestants": {
@@ -47272,6 +51204,24 @@ HISTORY = {
           "FullName": "Brendon Augusto",
           "1aFase": {
             "2021": 400.0
+          }
+        },
+        "eoiso1mbrtoat1acimhoa0d9ronl": {
+          "FullName": "Sabrina Teodoro",
+          "1aFase": {
+            "2022": 387.0
+          }
+        },
+        "poi0omm1ric0olfigarr": {
+          "FullName": "Francisco Porfírio",
+          "1aFase": {
+            "2022": 387.0
+          }
+        },
+        "oiori7ecm8elccrgamhriilbaome1r": {
+          "FullName": "Michel Corrêa",
+          "1aFase": {
+            "2022": 387.0
           }
         }
       }
@@ -48271,6 +52221,10 @@ HISTORY = {
         "2016": {
           "Teams": 1,
           "BestRank": 510
+        },
+        "2022": {
+          "Teams": 2,
+          "BestRank": 171
         }
       },
       "Contestants": {
@@ -48290,6 +52244,42 @@ HISTORY = {
           "FullName": "Otto Gabriel Oliveira",
           "1aFase": {
             "2016": 510.0
+          }
+        },
+        "omac7mcll7moas88iopeg": {
+          "FullName": "Leonardo De Oliveira Campos",
+          "1aFase": {
+            "2022": 171.0
+          }
+        },
+        "oldgrapcpirrmeeemhairo": {
+          "FullName": "Pedro Pereira",
+          "1aFase": {
+            "2022": 171.0
+          }
+        },
+        "1ocairolgimebtaoomt4culh": {
+          "FullName": "Gabriel Couto",
+          "1aFase": {
+            "2022": 171.0
+          }
+        },
+        "aelceioimd5zs23mb0aaoulgrg": {
+          "FullName": "Gabriel Rosa",
+          "1aFase": {
+            "2022": 227.0
+          }
+        },
+        "tlinuapoctryrmmmdroiioei": {
+          "FullName": "Yuri Dimitre Dias De Faria",
+          "1aFase": {
+            "2022": 227.0
+          }
+        },
+        "om4m8vor2g1liai0tc3": {
+          "FullName": "Vitor Martins Soares",
+          "1aFase": {
+            "2022": 227.0
           }
         }
       }
@@ -48666,6 +52656,10 @@ HISTORY = {
         "2021": {
           "Teams": 11,
           "BestRank": 139
+        },
+        "2022": {
+          "Teams": 9,
+          "BestRank": 97
         }
       },
       "Contestants": {
@@ -49196,7 +53190,8 @@ HISTORY = {
           "1aFase": {
             "2019": 89.0,
             "2020": 54.0,
-            "2021": 139.0
+            "2021": 139.0,
+            "2022": 97.0
           },
           "Nacional": {
             "2020": 46.0
@@ -49206,7 +53201,8 @@ HISTORY = {
           "FullName": "João Silva",
           "1aFase": {
             "2019": 145.0,
-            "2020": 294.0
+            "2020": 294.0,
+            "2022": 245.0
           }
         },
         "mioyo59acaalmlmgpeli": {
@@ -49220,7 +53216,8 @@ HISTORY = {
           "FullName": "Leonardo Pereira",
           "1aFase": {
             "2019": 145.0,
-            "2020": 294.0
+            "2020": 294.0,
+            "2022": 245.0
           }
         },
         "ectmotomalfhmiaala": {
@@ -49244,7 +53241,8 @@ HISTORY = {
         "g5lcmeecamola0ievl2irsz1e": {
           "FullName": "Eliezer Alves",
           "1aFase": {
-            "2019": 205.0
+            "2019": 205.0,
+            "2022": 97.0
           }
         },
         "rim2amobfac5il1o1ic0g": {
@@ -49256,7 +53254,8 @@ HISTORY = {
         "mosmgcairioaxsluotpmlng": {
           "FullName": "Murilo Augusto Santos",
           "1aFase": {
-            "2019": 205.0
+            "2019": 205.0,
+            "2022": 245.0
           }
         },
         "naomcfmizhilgeoelimnagda": {
@@ -49409,7 +53408,8 @@ HISTORY = {
           "FullName": "Larissa Pereira",
           "1aFase": {
             "2019": 582.0,
-            "2021": 293.0
+            "2021": 293.0,
+            "2022": 242.0
           }
         },
         "ieartm7iaallamhomnlco": {
@@ -49436,21 +53436,24 @@ HISTORY = {
           "FullName": "Maria Silva",
           "1aFase": {
             "2020": 213.0,
-            "2021": 400.0
+            "2021": 400.0,
+            "2022": 307.0
           }
         },
         "laocmuzcisafpsgmsoisiaa": {
           "FullName": "Isaias Souza",
           "1aFase": {
             "2020": 213.0,
-            "2021": 400.0
+            "2021": 400.0,
+            "2022": 307.0
           }
         },
         "mm1smaai1gl99cllciaaodac": {
           "FullName": "Camila Caldas",
           "1aFase": {
             "2020": 557.0,
-            "2021": 139.0
+            "2021": 139.0,
+            "2022": 348.0
           }
         },
         "omimieoohgact3taltn": {
@@ -49475,19 +53478,22 @@ HISTORY = {
         "muclmg2iaoima3g3il": {
           "FullName": "Guilherme Vaz",
           "1aFase": {
-            "2021": 186.0
+            "2021": 186.0,
+            "2022": 353.0
           }
         },
         "iamm21cmg0ion0saee210l4": {
           "FullName": "Neemias Alcântara Brandão",
           "1aFase": {
-            "2021": 186.0
+            "2021": 186.0,
+            "2022": 348.0
           }
         },
         "jeioraamigb1bo0nocmilgla": {
           "FullName": "João Gabriel Francisco De Azevedo",
           "1aFase": {
-            "2021": 186.0
+            "2021": 186.0,
+            "2022": 307.0
           }
         },
         "meirtmuliolqeenaimhhcgueorho": {
@@ -49517,7 +53523,8 @@ HISTORY = {
         "grtclclodsaeirpayimacaiasmaa": {
           "FullName": "Cássia Aparecida Torlai De Souza",
           "1aFase": {
-            "2021": 400.0
+            "2021": 400.0,
+            "2022": 264.0
           }
         },
         "ohnmaoreamaeaerioyrfbcrarslo": {
@@ -49529,7 +53536,8 @@ HISTORY = {
         "cacopmamaziorrdluuimogl": {
           "FullName": "Paulo Ricardo Alves Chagas",
           "1aFase": {
-            "2021": 400.0
+            "2021": 400.0,
+            "2022": 353.0
           }
         },
         "donaoaamislccahoudrlclmyzamilcg": {
@@ -49554,6 +53562,84 @@ HISTORY = {
           "FullName": "Ian Vitor Batista Da Silva",
           "1aFase": {
             "2021": 400.0
+          }
+        },
+        "1a0cgloimvc002g06m2": {
+          "FullName": "Gabriel Vieira Cardoso",
+          "1aFase": {
+            "2022": 97.0
+          }
+        },
+        "iewmeloimmsasclbgassiarg": {
+          "FullName": "Gabriel Oliveira",
+          "1aFase": {
+            "2022": 242.0
+          }
+        },
+        "mamjlaoivm2c60o7go": {
+          "FullName": "João Vítor Paiva Moreira",
+          "1aFase": {
+            "2022": 242.0
+          }
+        },
+        "flsbiueueferuodnudznsllianlriiasm": {
+          "FullName": "Luiz Ricardo Ferlin Alves",
+          "1aFase": {
+            "2022": 264.0
+          }
+        },
+        "am0oislal00emr1gicx0tn5ma0": {
+          "FullName": "Alex Silva",
+          "1aFase": {
+            "2022": 264.0
+          }
+        },
+        "2aoisl1comlgaap3slmi": {
+          "FullName": "Lais Palos",
+          "1aFase": {
+            "2022": 281.0
+          }
+        },
+        "ol1im0alod6milnemacg4e": {
+          "FullName": "Daniel Augusto",
+          "1aFase": {
+            "2022": 281.0
+          }
+        },
+        "ovanoolictmithvmar": {
+          "FullName": "Vitor Augusto Negrão De Assis",
+          "1aFase": {
+            "2022": 281.0
+          }
+        },
+        "uelton6h2amz1icoja0msao": {
+          "FullName": "Juan Ozeas",
+          "1aFase": {
+            "2022": 339.0
+          }
+        },
+        "utjlcmobmolmaphooaouiaoicl": {
+          "FullName": "João Paulo Lucio Aparecido",
+          "1aFase": {
+            "2022": 339.0
+          }
+        },
+        "uuofes6lsmodinbbndsilseusnraatragliae": {
+          "FullName": "Gabriel Henrique",
+          "1aFase": {
+            "2022": 339.0
+          }
+        },
+        "g0dish3omgmo6lcoia": {
+          "FullName": "Diogo Henrique Da Silva",
+          "1aFase": {
+            "2022": 348.0
+          }
+        },
+        "atesorilgcncimdaabmoarn": {
+          "FullName": "Bruno Dantas",
+          "1aFase": {
+            "2022": 353.0
           }
         }
       },
@@ -49593,6 +53679,10 @@ HISTORY = {
         "2020": {
           "Teams": 6,
           "BestRank": 211
+        },
+        "2022": {
+          "Teams": 7,
+          "BestRank": 276
         }
       },
       "Contestants": {
@@ -49703,7 +53793,8 @@ HISTORY = {
           "FullName": "Isabella Damião",
           "1aFase": {
             "2019": 341.0,
-            "2020": 325.0
+            "2020": 325.0,
+            "2022": 294.0
           }
         },
         "6baciamm1igoil3g4": {
@@ -49734,7 +53825,8 @@ HISTORY = {
         "sludunsidmafalrbniaioueocnoiatsnoe": {
           "FullName": "Caio Antônio",
           "1aFase": {
-            "2020": 414.0
+            "2020": 414.0,
+            "2022": 372.0
           }
         },
         "adsfeareutmssladunoiuueseatvlmbsianr": {
@@ -49746,7 +53838,8 @@ HISTORY = {
         "animdndlunulfasolrieseilvsamausieb": {
           "FullName": "Milena Silva",
           "1aFase": {
-            "2020": 523.0
+            "2020": 523.0,
+            "2022": 317.0
           }
         },
         "omoieakleotmnatibouczre": {
@@ -49776,7 +53869,8 @@ HISTORY = {
         "ifdnalsnsacsuuihsenirezeamrdoualbma": {
           "FullName": "Maria Maria Clara",
           "1aFase": {
-            "2020": 563.0
+            "2020": 563.0,
+            "2022": 372.0
           }
         },
         "dicuauinunslraemhfisolbdulisuecnxirasave": {
@@ -49795,6 +53889,108 @@ HISTORY = {
           "FullName": "Antonio Amaral",
           "1aFase": {
             "2020": 590.0
+          }
+        },
+        "gl6dcmer1lane1eodxiograumrais": {
+          "FullName": "Alexandre Rodrigues",
+          "1aFase": {
+            "2022": 276.0
+          }
+        },
+        "ueinbdgroeasouutrsfiendmcailarldssoiru": {
+          "FullName": "Tarcio Henrique Santos",
+          "1aFase": {
+            "2022": 276.0
+          }
+        },
+        "rtiemachzrociopblmovtiar": {
+          "FullName": "Victor Prezia",
+          "1aFase": {
+            "2022": 276.0
+          }
+        },
+        "vrnoedsbfemlrvsaupendlsdiuoapiaui": {
+          "FullName": "Pedro Piva",
+          "1aFase": {
+            "2022": 294.0
+          }
+        },
+        "dndbdalldsmuirauuasiefemolnaaenisebr": {
+          "FullName": "Brenda Almeida",
+          "1aFase": {
+            "2022": 294.0
+          }
+        },
+        "farairrmaucecemoigecl": {
+          "FullName": "Cauê Ferreira",
+          "1aFase": {
+            "2022": 317.0
+          }
+        },
+        "nlielmegcnaclovimyde": {
+          "FullName": "Cindel Sousa",
+          "1aFase": {
+            "2022": 317.0
+          }
+        },
+        "eyrlslsnaaoablfdrunaejiiuseouisdcdma": {
+          "FullName": "Jádyla Maria Cesário Firmino",
+          "1aFase": {
+            "2022": 372.0
+          }
+        },
+        "ioqcsaarnmneliromgouveaamhrri": {
+          "FullName": "Henrique Navarro",
+          "1aFase": {
+            "2022": 418.0
+          }
+        },
+        "iagmoiaceelmrstlmtnia": {
+          "FullName": "Aline Stephanie Santos Gonçalves",
+          "1aFase": {
+            "2022": 418.0
+          }
+        },
+        "niesanselaisseadfdulfslrlublroaemua": {
+          "FullName": "Rafael Aparecido Carvalho Salles",
+          "1aFase": {
+            "2022": 418.0
+          }
+        },
+        "oot0himu1thlagmc2austaao0nn": {
+          "FullName": "Nathan Rufino",
+          "1aFase": {
+            "2022": 452.0
+          }
+        },
+        "lea0i5ogvclaivotmmr3il": {
+          "FullName": "Vitor Vilela",
+          "1aFase": {
+            "2022": 452.0
+          }
+        },
+        "nmcioarliiomgfvncaumisar": {
+          "FullName": "Vinícius Marrafon",
+          "1aFase": {
+            "2022": 452.0
+          }
+        },
+        "2igoammos3omird1hgenlc": {
+          "FullName": "Rebeca Rosa",
+          "1aFase": {
+            "2022": 467.0
+          }
+        },
+        "eirhaaiycbmemnoaobo": {
+          "FullName": "Beatriz Do Prado Neaime",
+          "1aFase": {
+            "2022": 467.0
+          }
+        },
+        "bandusrdacebulannbtsaaieruflosrimhssioi": {
+          "FullName": "Cristhian Cintra Barbosa",
+          "1aFase": {
+            "2022": 467.0
           }
         }
       },
@@ -50157,6 +54353,10 @@ HISTORY = {
         "2018": {
           "Teams": 3,
           "BestRank": 675
+        },
+        "2022": {
+          "Teams": 1,
+          "BestRank": 508
         }
       },
       "Contestants": {
@@ -50293,6 +54493,24 @@ HISTORY = {
           "1aFase": {
             "2018": 691.0
           }
+        },
+        "wmcioig73ahsl9vymliajonll": {
+          "FullName": "Jhon Silva",
+          "1aFase": {
+            "2022": 508.0
+          }
+        },
+        "oslbpuereiavaannludrascoaomt": {
+          "FullName": "Alvaro Santos",
+          "1aFase": {
+            "2022": 508.0
+          }
+        },
+        "9b4ogji9plvmm1ca": {
+          "FullName": "Joao Vitor Pereira",
+          "1aFase": {
+            "2022": 508.0
+          }
         }
       }
     },
@@ -50349,6 +54567,10 @@ HISTORY = {
         "2021": {
           "Teams": 2,
           "BestRank": 178
+        },
+        "2022": {
+          "Teams": 4,
+          "BestRank": 241
         }
       },
       "Contestants": {
@@ -50465,7 +54687,8 @@ HISTORY = {
         "onooksfvutel9ummgsioci9cio": {
           "FullName": "Vinicius Gomes Franco",
           "1aFase": {
-            "2018": 536.0
+            "2018": 536.0,
+            "2022": 370.0
           }
         },
         "reuomlciuffestammgrairlac": {
@@ -50497,7 +54720,8 @@ HISTORY = {
           "FullName": "Arthur Lopes",
           "1aFase": {
             "2019": 151.0,
-            "2020": 283.0
+            "2020": 283.0,
+            "2022": 350.0
           },
           "Nacional": {
             "2019": 48.0
@@ -50514,7 +54738,8 @@ HISTORY = {
           "1aFase": {
             "2019": 337.0,
             "2020": 265.0,
-            "2021": 178.0
+            "2021": 178.0,
+            "2022": 241.0
           }
         },
         "allagtpobmerocrgaemsii": {
@@ -50624,7 +54849,8 @@ HISTORY = {
         "momnaamaclscaagaoramciridsig": {
           "FullName": "Isaac Camargos",
           "1aFase": {
-            "2021": 178.0
+            "2021": 178.0,
+            "2022": 241.0
           }
         },
         "mgmescr6laovmaialc2": {
@@ -50642,7 +54868,50 @@ HISTORY = {
         "dclgilco2mizmnoaa0mngireaoizia": {
           "FullName": "Nicole Maia",
           "1aFase": {
-            "2021": 400.0
+            "2021": 400.0,
+            "2022": 241.0
+          }
+        },
+        "d9t1u98eb0m002drf1u": {
+          "FullName": "Itallo Morais Beirigo Silva",
+          "1aFase": {
+            "2022": 350.0
+          }
+        },
+        "rbaolcvglgtmaosmroeiirocai": {
+          "FullName": "Gabriel Cristóvão Rodrigues De Oliveira",
+          "1aFase": {
+            "2022": 350.0
+          }
+        },
+        "0ddmf5utr10u3812be8": {
+          "FullName": "Brena Fernanda Vicente De Souza",
+          "1aFase": {
+            "2022": 370.0
+          }
+        },
+        "vacelsaobchlilinetggovoormma": {
+          "FullName": "Gabriel Da Silva Gonçalves",
+          "1aFase": {
+            "2022": 370.0
+          }
+        },
+        "11u1te02fmdbd4u029r": {
+          "FullName": "André Luiz Marques De Andrade",
+          "1aFase": {
+            "2022": 482.0
+          }
+        },
+        "d101m222dt6eu0bf0ru": {
+          "FullName": "Millena Da Silva",
+          "1aFase": {
+            "2022": 482.0
+          }
+        },
+        "md2d0u27tfb2e12u0r1": {
+          "FullName": "Julia Goes Alpendre Elias",
+          "1aFase": {
+            "2022": 482.0
           }
         }
       },
@@ -51147,6 +55416,10 @@ HISTORY = {
         "2019": {
           "Teams": 1,
           "BestRank": 344
+        },
+        "2022": {
+          "Teams": 1,
+          "BestRank": 295
         }
       },
       "Contestants": {
@@ -51190,6 +55463,24 @@ HISTORY = {
           "FullName": "Agmar De Ávila Torres",
           "1aFase": {
             "2017": 705.0
+          }
+        },
+        "soafnsuaeluvridilsleeaaydbrnsnmu": {
+          "FullName": "Ryan Alves",
+          "1aFase": {
+            "2022": 295.0
+          }
+        },
+        "ieonarlticdaoaieuniomsblstivfrauduils": {
+          "FullName": "Victoria Moraes",
+          "1aFase": {
+            "2022": 295.0
+          }
+        },
+        "goecljnanmrminmli": {
+          "FullName": "Milnner Andrade",
+          "1aFase": {
+            "2022": 295.0
           }
         }
       }
@@ -52154,6 +56445,10 @@ HISTORY = {
         "2018": {
           "Teams": 1,
           "BestRank": 177
+        },
+        "2022": {
+          "Teams": 2,
+          "BestRank": 451
         }
       },
       "Contestants": {
@@ -52173,6 +56468,42 @@ HISTORY = {
           "FullName": "Carla Amaral Pereira Ponciano",
           "1aFase": {
             "2018": 177.0
+          }
+        },
+        "icartckomsemillegiaachrnosc": {
+          "FullName": "Carlos Henrique Cenachi Ferreira",
+          "1aFase": {
+            "2022": 451.0
+          }
+        },
+        "ntalrixlmcgomliaasimov": {
+          "FullName": "Rilton Max Da Silva Pedrosa",
+          "1aFase": {
+            "2022": 451.0
+          }
+        },
+        "a3ilwjkiugamcnom": {
+          "FullName": "Juan Israel Anjos",
+          "1aFase": {
+            "2022": 451.0
+          }
+        },
+        "srocbooolbgomrmgieteakuol": {
+          "FullName": "Gabriel Gomes",
+          "1aFase": {
+            "2022": 484.0
+          }
+        },
+        "tuvmlosaoouorcckm": {
+          "FullName": "Marcus Andrade",
+          "1aFase": {
+            "2022": 484.0
+          }
+        },
+        "remacsaosiinvoltlg1auticm": {
+          "FullName": "Victor Estanislau",
+          "1aFase": {
+            "2022": 484.0
           }
         }
       }
@@ -52434,6 +56765,10 @@ HISTORY = {
         "2021": {
           "Teams": 6,
           "BestRank": 63
+        },
+        "2022": {
+          "Teams": 5,
+          "BestRank": 40
         }
       },
       "Contestants": {
@@ -52514,7 +56849,8 @@ HISTORY = {
           "1aFase": {
             "2019": 91.0,
             "2020": 104.0,
-            "2021": 63.0
+            "2021": 63.0,
+            "2022": 40.0
           },
           "Nacional": {
             "2020": 48.0,
@@ -52570,7 +56906,8 @@ HISTORY = {
           "FullName": "Guilherme Melos",
           "1aFase": {
             "2020": 104.0,
-            "2021": 63.0
+            "2021": 63.0,
+            "2022": 40.0
           },
           "Nacional": {
             "2020": 48.0,
@@ -52644,7 +56981,8 @@ HISTORY = {
           "FullName": "Guilherme Souza",
           "1aFase": {
             "2020": 367.0,
-            "2021": 213.0
+            "2021": 213.0,
+            "2022": 311.0
           }
         },
         "fobasumziuarrnavsa": {
@@ -52688,7 +57026,8 @@ HISTORY = {
           "FullName": "Melissa Araújo",
           "1aFase": {
             "2020": 574.0,
-            "2021": 250.0
+            "2021": 250.0,
+            "2022": 188.0
           }
         },
         "raomavsbudsratfn": {
@@ -52706,13 +57045,15 @@ HISTORY = {
         "rbnauafanuvtcens": {
           "FullName": "Ana Rocha",
           "1aFase": {
-            "2020": 604.0
+            "2020": 604.0,
+            "2022": 188.0
           }
         },
         "gicgmlmbeonlroeeagasc": {
           "FullName": "Germano Santos",
           "1aFase": {
-            "2021": 63.0
+            "2021": 63.0,
+            "2022": 40.0
           },
           "Nacional": {
             "2021": 49.0
@@ -52727,7 +57068,8 @@ HISTORY = {
         "arvrjfabluiuifa": {
           "FullName": "Júlia Costa De Faria",
           "1aFase": {
-            "2021": 250.0
+            "2021": 250.0,
+            "2022": 188.0
           }
         },
         "clmrsollagiimormotue": {
@@ -52758,6 +57100,54 @@ HISTORY = {
           "FullName": "Gabriel Miranda",
           "1aFase": {
             "2021": 400.0
+          }
+        },
+        "pelvfruoarcohirnabu": {
+          "FullName": "Paulo Silva",
+          "1aFase": {
+            "2022": 255.0
+          }
+        },
+        "lbiecf1itvuiaavrls": {
+          "FullName": "Letícia Silva",
+          "1aFase": {
+            "2022": 255.0
+          }
+        },
+        "afelvrumyiibmeald": {
+          "FullName": "Emily Lopes",
+          "1aFase": {
+            "2022": 255.0
+          }
+        },
+        "vdumrfldeaaeinigrb": {
+          "FullName": "Ingred Almeida",
+          "1aFase": {
+            "2022": 311.0
+          }
+        },
+        "leumuegrwlheikrifvb": {
+          "FullName": "Guilherme Augusto Schwann Wilke",
+          "1aFase": {
+            "2022": 311.0
+          }
+        },
+        "frirmrveuyaipebru": {
+          "FullName": "Iury Martins",
+          "1aFase": {
+            "2022": 453.0
+          }
+        },
+        "uaecbvhoanolrmdgfa": {
+          "FullName": "Angelo Machado",
+          "1aFase": {
+            "2022": 453.0
+          }
+        },
+        "rbcmiafrauvvinaa": {
+          "FullName": "Maria Clara Viana",
+          "1aFase": {
+            "2022": 453.0
           }
         }
       },
@@ -53070,6 +57460,10 @@ HISTORY = {
         "2021": {
           "Teams": 1,
           "BestRank": 367
+        },
+        "2022": {
+          "Teams": 1,
+          "BestRank": 383
         }
       },
       "Contestants": {
@@ -53107,6 +57501,24 @@ HISTORY = {
           "FullName": "Ivam Novais",
           "1aFase": {
             "2021": 367.0
+          }
+        },
+        "0maglarm0bciokelme": {
+          "FullName": "Kléber Moreira",
+          "1aFase": {
+            "2022": 383.0
+          }
+        },
+        "plaliac7oiemvamgo": {
+          "FullName": "Leonardo Paiva Pinto",
+          "1aFase": {
+            "2022": 383.0
+          }
+        },
+        "ndctmesumoamgeralaih": {
+          "FullName": "Matheus Ribeiro",
+          "1aFase": {
+            "2022": 383.0
           }
         }
       }
@@ -53172,6 +57584,10 @@ HISTORY = {
         "2021": {
           "Teams": 1,
           "BestRank": 400
+        },
+        "2022": {
+          "Teams": 3,
+          "BestRank": 508
         }
       },
       "Contestants": {
@@ -53184,13 +57600,50 @@ HISTORY = {
         "mioratleml4ozacm4mcgoa": {
           "FullName": "Marcelo Tomaz",
           "1aFase": {
-            "2021": 400.0
+            "2021": 400.0,
+            "2022": 508.0
           }
         },
         "pmacrrimoerplgiad7eohe": {
           "FullName": "Pedro Henrique Almeida Pereira",
           "1aFase": {
             "2021": 400.0
+          }
+        },
+        "iicgoadcd2namalim": {
+          "FullName": "Daniela Foquer Vergilio",
+          "1aFase": {
+            "2022": 508.0
+          }
+        },
+        "amao3kleac7glbomzilus": {
+          "FullName": "Kalleb Souza",
+          "1aFase": {
+            "2022": 508.0
+          }
+        },
+        "bi2oiccmgaasm2lsa": {
+          "FullName": "Isaac Caetano",
+          "1aFase": {
+            "2022": 508.0
+          }
+        },
+        "vmulltiisjcgeoavuoo": {
+          "FullName": "Gustavo Júlio Costa Coelho",
+          "1aFase": {
+            "2022": 508.0
+          }
+        },
+        "amlolvacoedoaimcgihnsinr": {
+          "FullName": "Nicholas Verdiano Pereira",
+          "1aFase": {
+            "2022": 508.0
+          }
+        },
+        "5tcao6oll9ruapeoh4kom": {
+          "FullName": "Raphael Dutra Cunha",
+          "1aFase": {
+            "2022": 508.0
           }
         }
       }
@@ -53220,6 +57673,48 @@ HISTORY = {
           "Nacional": {
             "2009": 46.0
           }
+        },
+        "iolgrabamcuadvbotkoo": {
+          "FullName": "Davi Braga",
+          "1aFase": {
+            "2022": 310.0
+          }
+        },
+        "tuiomacsgmlmgasuaof": {
+          "FullName": "Felipe Morais",
+          "1aFase": {
+            "2022": 310.0
+          }
+        },
+        "ogspdmrqoeriaslchipaoueemcnotel": {
+          "FullName": "Pedro Lopes",
+          "1aFase": {
+            "2022": 310.0
+          }
+        },
+        "0md7mmoarieal80cgm": {
+          "FullName": "Edmar Melandes Junior",
+          "1aFase": {
+            "2022": 432.0
+          }
+        },
+        "mnl2iroagcnddopimmceeo5i": {
+          "FullName": "Pedro Mendicino",
+          "1aFase": {
+            "2022": 432.0
+          }
+        },
+        "ovsinalgoetacridmmmnel": {
+          "FullName": "Leon Júniomartins Ferreira",
+          "1aFase": {
+            "2022": 432.0
+          }
+        }
+      },
+      "1aFase": {
+        "2022": {
+          "Teams": 2,
+          "BestRank": 310
         }
       }
     },
@@ -53247,6 +57742,164 @@ HISTORY = {
           "FullName": "César Augusto Chaves Pereira",
           "Nacional": {
             "2009": 38.0
+          }
+        }
+      }
+    },
+    "Dom Helder Escola Superior": {
+      "1aFase": {
+        "2022": {
+          "Teams": 2,
+          "BestRank": 256
+        }
+      },
+      "Contestants": {
+        "gogi4ladcimeoimo0g6de": {
+          "FullName": "Diego Rafael",
+          "1aFase": {
+            "2022": 256.0
+          }
+        },
+        "smkldzigotcmaiaea": {
+          "FullName": "Gabriel Dias",
+          "1aFase": {
+            "2022": 256.0
+          }
+        },
+        "reamarabcsartousimaarlgoht": {
+          "FullName": "Arthur Soares",
+          "1aFase": {
+            "2022": 256.0
+          }
+        },
+        "scvaimlimo4aiulic09gnmi": {
+          "FullName": "Vinícius Silva",
+          "1aFase": {
+            "2022": 455.0
+          }
+        },
+        "ciglmhchmueamtoismaa": {
+          "FullName": "Matheus Achim",
+          "1aFase": {
+            "2022": 455.0
+          }
+        },
+        "ofmueifcoocldc": {
+          "FullName": "Felipe Campelo",
+          "1aFase": {
+            "2022": 455.0
+          }
+        }
+      }
+    },
+    "FACULDADE MONTES CLAROS – FACULMONTES": {
+      "1aFase": {
+        "2022": {
+          "Teams": 1,
+          "BestRank": 508
+        }
+      },
+      "Contestants": {
+        "ltcroagjimamisamuoha": {
+          "FullName": "Mateus Araújo Silva",
+          "1aFase": {
+            "2022": 508.0
+          }
+        },
+        "nddonistmsaeahdoosoyodlasc": {
+          "FullName": "Daniel Dos Santos",
+          "1aFase": {
+            "2022": 508.0
+          }
+        },
+        "tlge3nsa1camyuio2amhm6": {
+          "FullName": "Yan Matheus",
+          "1aFase": {
+            "2022": 508.0
+          }
+        }
+      }
+    },
+    "Instituto Federal do Norte de Minas Gerais Campus Pirapora": {
+      "1aFase": {
+        "2022": {
+          "Teams": 1,
+          "BestRank": 407
+        }
+      },
+      "Contestants": {
+        "lciaaarocismgghtdm": {
+          "FullName": "Thiago Cardoso Silva",
+          "1aFase": {
+            "2022": 407.0
+          }
+        },
+        "milggugoaiilrcmen": {
+          "FullName": "Ilgner Becheleni",
+          "1aFase": {
+            "2022": 407.0
+          }
+        },
+        "alountlomcuo1msiac2aigusg": {
+          "FullName": "Luciano Augusto De Souza Filho",
+          "1aFase": {
+            "2022": 407.0
+          }
+        }
+      }
+    },
+    "UNIFIPMOC": {
+      "1aFase": {
+        "2022": {
+          "Teams": 1,
+          "BestRank": 436
+        }
+      },
+      "Contestants": {
+        "eaooewriomhnnsladecrby": {
+          "FullName": "Elian Morais",
+          "1aFase": {
+            "2022": 436.0
+          }
+        },
+        "deaegliiomgociaappmlfhinule": {
+          "FullName": "Felipe Paula",
+          "1aFase": {
+            "2022": 436.0
+          }
+        },
+        "mclgrlosiamcefneu": {
+          "FullName": "Lucas Ferreira",
+          "1aFase": {
+            "2022": 436.0
+          }
+        }
+      }
+    },
+    "Instituto Federal do Triângulo Mineiro": {
+      "1aFase": {
+        "2022": {
+          "Teams": 1,
+          "BestRank": 508
+        }
+      },
+      "Contestants": {
+        "th1cnaleootmaarmefisgosl0i": {
+          "FullName": "Solange Brasileiro De Freitas Neto",
+          "1aFase": {
+            "2022": 508.0
+          }
+        },
+        "cmi1giaii9cmeolmoeelsat8dr": {
+          "FullName": "Letícia Medeiros Nascimento",
+          "1aFase": {
+            "2022": 508.0
+          }
+        },
+        "tjsn5agoilaosadcmm": {
+          "FullName": "Arthur José Dos Santos",
+          "1aFase": {
+            "2022": 508.0
           }
         }
       }
@@ -53609,6 +58262,10 @@ HISTORY = {
         "2021": {
           "Teams": 4,
           "BestRank": 4
+        },
+        "2022": {
+          "Teams": 4,
+          "BestRank": 8
         }
       },
       "Contestants": {
@@ -54023,7 +58680,8 @@ HISTORY = {
           "1aFase": {
             "2019": 66.0,
             "2020": 30.0,
-            "2021": 4.0
+            "2021": 4.0,
+            "2022": 8.0
           },
           "Nacional": {
             "2020": 13.0,
@@ -54052,7 +58710,8 @@ HISTORY = {
           "FullName": "Sergio Macário",
           "1aFase": {
             "2020": 30.0,
-            "2021": 4.0
+            "2021": 4.0,
+            "2022": 8.0
           },
           "Nacional": {
             "2020": 13.0,
@@ -54116,7 +58775,8 @@ HISTORY = {
         "sziemgeaamcasencmslztoou": {
           "FullName": "Mateus Cosenza",
           "1aFase": {
-            "2021": 68.0
+            "2021": 68.0,
+            "2022": 32.0
           }
         },
         "apmimcojrsofugacl": {
@@ -54153,6 +58813,60 @@ HISTORY = {
           "FullName": "Ebert Melo",
           "1aFase": {
             "2021": 400.0
+          }
+        },
+        "aiabenbvhimrqoreunreer": {
+          "FullName": "Henrique Navarro",
+          "1aFase": {
+            "2022": 8.0
+          }
+        },
+        "meseeumtbabirrboehtra": {
+          "FullName": "Matheus Andrade Barreto",
+          "1aFase": {
+            "2022": 32.0
+          }
+        },
+        "buvoinansmgebedrota": {
+          "FullName": "Gustavo Ewbank Rodrigues Danon",
+          "1aFase": {
+            "2022": 32.0
+          }
+        },
+        "avbmlelbrauseeimis": {
+          "FullName": "Samuel Barbosa E Silva",
+          "1aFase": {
+            "2022": 74.0
+          }
+        },
+        "eobbrmirbaaeajog": {
+          "FullName": "João Braga",
+          "1aFase": {
+            "2022": 74.0
+          }
+        },
+        "eoieibtlgenrscahoomacbsv": {
+          "FullName": "Thiago Vasconcelos",
+          "1aFase": {
+            "2022": 74.0
+          }
+        },
+        "ibooemjpsbraroedoe": {
+          "FullName": "João Caruso Pedroso",
+          "1aFase": {
+            "2022": 125.0
+          }
+        },
+        "ezebnairniambmu": {
+          "FullName": "Ana Livia Matos Muniz",
+          "1aFase": {
+            "2022": 125.0
+          }
+        },
+        "iiebserlnafbtmoeeps": {
+          "FullName": "Felipe Lins Dos Santos",
+          "1aFase": {
+            "2022": 125.0
           }
         }
       },
@@ -54236,6 +58950,10 @@ HISTORY = {
         "2021": {
           "Teams": 5,
           "BestRank": 104
+        },
+        "2022": {
+          "Teams": 2,
+          "BestRank": 95
         }
       },
       "Contestants": {
@@ -54777,14 +59495,16 @@ HISTORY = {
           "FullName": "Théo Falcato Ribeiro Palmeirim De Athayde",
           "1aFase": {
             "2020": 144.0,
-            "2021": 104.0
+            "2021": 104.0,
+            "2022": 95.0
           }
         },
         "rionesraopibnczmdeeulaulen": {
           "FullName": "Daniel Menezes Cavalcante Lemos Dos Passos",
           "1aFase": {
             "2020": 144.0,
-            "2021": 104.0
+            "2021": 104.0,
+            "2022": 95.0
           }
         },
         "mamuosmhnicliaecdggila": {
@@ -54873,21 +59593,24 @@ HISTORY = {
           "FullName": "Alexandre Rodrigues Bomfim Junior",
           "1aFase": {
             "2020": 396.0,
-            "2021": 241.0
+            "2021": 241.0,
+            "2022": 508.0
           }
         },
         "gcompm32aiij5aal0m": {
           "FullName": "João Pedro Monteiro Maia",
           "1aFase": {
             "2020": 396.0,
-            "2021": 241.0
+            "2021": 241.0,
+            "2022": 508.0
           }
         },
         "aulmocoxruicoatol7kve7s": {
           "FullName": "José Lucas Teixeira Xavier",
           "1aFase": {
             "2020": 396.0,
-            "2021": 241.0
+            "2021": 241.0,
+            "2022": 508.0
           }
         },
         "miovcragkatoumlri": {
@@ -55002,6 +59725,12 @@ HISTORY = {
             "2011": 15.0,
             "2012": 29.0
           }
+        },
+        "recmhoabalmlzmoiemdiogaalrtn": {
+          "FullName": "Thomaz Rebello Miranda",
+          "1aFase": {
+            "2022": 95.0
+          }
         }
       },
       "Nacional": {
@@ -55076,6 +59805,10 @@ HISTORY = {
         "2021": {
           "Teams": 3,
           "BestRank": 304
+        },
+        "2022": {
+          "Teams": 3,
+          "BestRank": 151
         }
       },
       "Contestants": {
@@ -55276,7 +60009,8 @@ HISTORY = {
         "pcl0amotormdro3iirgoo1g4": {
           "FullName": "Rodrigo Porto",
           "1aFase": {
-            "2019": 123.0
+            "2019": 123.0,
+            "2022": 151.0
           }
         },
         "lcmaorarm1ilgcb1": {
@@ -55335,7 +60069,8 @@ HISTORY = {
           "FullName": "Gabriel Ribeiro",
           "1aFase": {
             "2020": 417.0,
-            "2021": 304.0
+            "2021": 304.0,
+            "2022": 282.0
           }
         },
         "ifsfbridaslue": {
@@ -55430,6 +60165,48 @@ HISTORY = {
           "1aFase": {
             "2021": 387.0
           }
+        },
+        "ursifordafsrbie": {
+          "FullName": "Ricardo Soares",
+          "1aFase": {
+            "2022": 151.0
+          }
+        },
+        "ibfluffervepdif": {
+          "FullName": "Felipe Falcão",
+          "1aFase": {
+            "2022": 151.0
+          }
+        },
+        "brofdunmgjfirpe": {
+          "FullName": "João Moren",
+          "1aFase": {
+            "2022": 208.0
+          }
+        },
+        "efrglcfuehdiibrrcum": {
+          "FullName": "Guilherme Costa",
+          "1aFase": {
+            "2022": 208.0
+          }
+        },
+        "rfyfucdiebur": {
+          "FullName": "Carlos Yure Domingues",
+          "1aFase": {
+            "2022": 208.0
+          }
+        },
+        "gfrwiuedbnrmaf": {
+          "FullName": "Wagner Lima Filho",
+          "1aFase": {
+            "2022": 282.0
+          }
+        },
+        "idfurrfkyobadv": {
+          "FullName": "Yohan Mendes",
+          "1aFase": {
+            "2022": 282.0
+          }
         }
       }
     },
@@ -55470,6 +60247,10 @@ HISTORY = {
         "2021": {
           "Teams": 4,
           "BestRank": 18
+        },
+        "2022": {
+          "Teams": 5,
+          "BestRank": 5
         }
       },
       "Contestants": {
@@ -55808,7 +60589,8 @@ HISTORY = {
             "2018": 298.0,
             "2019": 103.0,
             "2020": 110.0,
-            "2021": 18.0
+            "2021": 18.0,
+            "2022": 5.0
           },
           "Nacional": {
             "2021": 7.0
@@ -55829,7 +60611,8 @@ HISTORY = {
           "1aFase": {
             "2019": 58.0,
             "2020": 24.0,
-            "2021": 18.0
+            "2021": 18.0,
+            "2022": 5.0
           },
           "Nacional": {
             "2020": 6.0,
@@ -55857,7 +60640,8 @@ HISTORY = {
           "1aFase": {
             "2019": 100.0,
             "2020": 69.0,
-            "2021": 31.0
+            "2021": 31.0,
+            "2022": 36.0
           }
         },
         "iimcvtlniorcutieseemi": {
@@ -55865,7 +60649,8 @@ HISTORY = {
           "1aFase": {
             "2019": 100.0,
             "2020": 69.0,
-            "2021": 31.0
+            "2021": 31.0,
+            "2022": 36.0
           }
         },
         "pavoivorljaufresigibutr": {
@@ -55878,21 +60663,24 @@ HISTORY = {
           "FullName": "Luan Felix",
           "1aFase": {
             "2020": 69.0,
-            "2021": 31.0
+            "2021": 31.0,
+            "2022": 36.0
           }
         },
         "gmacomacormlirlbgoiea": {
           "FullName": "Gabriel De Março",
           "1aFase": {
             "2020": 110.0,
-            "2021": 72.0
+            "2021": 72.0,
+            "2022": 5.0
           }
         },
         "lokrgaaolirmegucnmloams": {
           "FullName": "Markson Arguello",
           "1aFase": {
             "2020": 167.0,
-            "2021": 72.0
+            "2021": 72.0,
+            "2022": 77.0
           }
         },
         "jherfadrccucgba": {
@@ -55910,7 +60698,8 @@ HISTORY = {
         "emcbpesirrcrfuollejiaklrarfiu": {
           "FullName": "Lucas Melick",
           "1aFase": {
-            "2021": 72.0
+            "2021": 72.0,
+            "2022": 77.0
           }
         },
         "rafrablbjuarmrielag": {
@@ -55928,7 +60717,8 @@ HISTORY = {
         "ueerrfdlojvb": {
           "FullName": "Leonardo De Melo Soares",
           "1aFase": {
-            "2021": 301.0
+            "2021": 301.0,
+            "2022": 77.0
           }
         },
         "ucitmmaoingnsl": {
@@ -55983,6 +60773,42 @@ HISTORY = {
           "FullName": "Mauricio De Lemos Rodrigues Collares Neto",
           "Nacional": {
             "2011": 5.0
+          }
+        },
+        "pitddocsarjgfbucr": {
+          "FullName": "Tiago Silva",
+          "1aFase": {
+            "2022": 56.0
+          }
+        },
+        "2p22bd0ieflb1orfurbjr": {
+          "FullName": "Frederico Boller",
+          "1aFase": {
+            "2022": 56.0
+          }
+        },
+        "cbsmhjrsmfcbrarjdcou": {
+          "FullName": "Marcos Henrique Junqueira Muniz Barbi Silva",
+          "1aFase": {
+            "2022": 56.0
+          }
+        },
+        "frrugjdkicecbcrs": {
+          "FullName": "Erick Gaiote Dos Santos",
+          "1aFase": {
+            "2022": 149.0
+          }
+        },
+        "ijubjjrmcfdraeoo": {
+          "FullName": "João David Jotta",
+          "1aFase": {
+            "2022": 149.0
+          }
+        },
+        "lbidacubcegfrjrfrl": {
+          "FullName": "Gabriel Leão",
+          "1aFase": {
+            "2022": 149.0
           }
         }
       },
@@ -56074,6 +60900,10 @@ HISTORY = {
         "2021": {
           "Teams": 4,
           "BestRank": 65
+        },
+        "2022": {
+          "Teams": 2,
+          "BestRank": 91
         }
       },
       "Contestants": {
@@ -56331,14 +61161,16 @@ HISTORY = {
           "FullName": "Victor Vieira",
           "1aFase": {
             "2020": 252.0,
-            "2021": 125.0
+            "2021": 125.0,
+            "2022": 91.0
           }
         },
         "5uorcpaanaleclii0cegmondpms": {
           "FullName": "Pedro Pancine",
           "1aFase": {
             "2020": 252.0,
-            "2021": 125.0
+            "2021": 125.0,
+            "2022": 91.0
           }
         },
         "uoor1bgoilanrc4cmm": {
@@ -56351,20 +61183,23 @@ HISTORY = {
           "FullName": "Lucas Formaggine",
           "1aFase": {
             "2020": 268.0,
-            "2021": 125.0
+            "2021": 125.0,
+            "2022": 91.0
           }
         },
         "mtomk21ucamislmgdiri": {
           "FullName": "Pedrogabriel Nogueira",
           "1aFase": {
-            "2020": 268.0
+            "2020": 268.0,
+            "2022": 190.0
           }
         },
         "h01oiaoamoprelojlegmnrrlcagta": {
           "FullName": "Raphael Ortolan",
           "1aFase": {
             "2020": 268.0,
-            "2021": 240.0
+            "2021": 240.0,
+            "2022": 190.0
           }
         },
         "audrueljagcohurobfinaailrco": {
@@ -56440,6 +61275,12 @@ HISTORY = {
           "FullName": "Moysés Sampaio",
           "Nacional": {
             "2012": 22.0
+          }
+        },
+        "esaonscoiarooo4lpnm2jmegdlh": {
+          "FullName": "Leonardo Josephson",
+          "1aFase": {
+            "2022": 190.0
           }
         }
       },
@@ -57134,6 +61975,10 @@ HISTORY = {
         "2021": {
           "Teams": 3,
           "BestRank": 76
+        },
+        "2022": {
+          "Teams": 2,
+          "BestRank": 29
         }
       },
       "Contestants": {
@@ -57209,7 +62054,8 @@ HISTORY = {
           "1aFase": {
             "2019": 385.0,
             "2020": 168.0,
-            "2021": 76.0
+            "2021": 76.0,
+            "2022": 29.0
           },
           "Nacional": {
             "2021": 35.0
@@ -57227,7 +62073,8 @@ HISTORY = {
           "1aFase": {
             "2019": 385.0,
             "2020": 168.0,
-            "2021": 76.0
+            "2021": 76.0,
+            "2022": 29.0
           },
           "Nacional": {
             "2021": 35.0
@@ -57237,27 +62084,31 @@ HISTORY = {
           "FullName": "Nicolas Magalhães",
           "1aFase": {
             "2020": 103.0,
-            "2021": 266.0
+            "2021": 266.0,
+            "2022": 174.0
           }
         },
         "1oeao0e0grir2nzigcmlmseed": {
           "FullName": "Sergio Felipe Rezende Do Nascimento",
           "1aFase": {
             "2020": 103.0,
-            "2021": 266.0
+            "2021": 266.0,
+            "2022": 174.0
           }
         },
         "mliocnmfagmyca": {
           "FullName": "Yan Machado",
           "1aFase": {
             "2020": 103.0,
-            "2021": 266.0
+            "2021": 266.0,
+            "2022": 174.0
           }
         },
         "1oismg0ohmas5ilc7bttagao": {
           "FullName": "Thiago Felipe Bastos Da Silva",
           "1aFase": {
-            "2021": 76.0
+            "2021": 76.0,
+            "2022": 29.0
           },
           "Nacional": {
             "2021": 35.0
@@ -57314,6 +62165,10 @@ HISTORY = {
         "2021": {
           "Teams": 4,
           "BestRank": 69
+        },
+        "2022": {
+          "Teams": 2,
+          "BestRank": 78
         }
       },
       "Contestants": {
@@ -57458,7 +62313,8 @@ HISTORY = {
             "2018": 199.0,
             "2019": 102.0,
             "2020": 61.0,
-            "2021": 69.0
+            "2021": 69.0,
+            "2022": 78.0
           },
           "Nacional": {
             "2020": 42.0,
@@ -57524,7 +62380,8 @@ HISTORY = {
           "1aFase": {
             "2019": 264.0,
             "2020": 198.0,
-            "2021": 69.0
+            "2021": 69.0,
+            "2022": 78.0
           },
           "Nacional": {
             "2021": 40.0
@@ -57593,7 +62450,8 @@ HISTORY = {
         "ugeolrrbsapscfaeorsjrteon": {
           "FullName": "Roger Passos",
           "1aFase": {
-            "2021": 69.0
+            "2021": 69.0,
+            "2022": 78.0
           },
           "Nacional": {
             "2021": 40.0
@@ -57633,6 +62491,24 @@ HISTORY = {
           "FullName": "Pedro Pizzi",
           "1aFase": {
             "2021": 260.0
+          }
+        },
+        "lrftdeujrbnrarjpoaogeenac": {
+          "FullName": "Pedro Victor Soares",
+          "1aFase": {
+            "2022": 184.0
+          }
+        },
+        "fhtnjborrraraeouitabclnehlu": {
+          "FullName": "Arthur Souza",
+          "1aFase": {
+            "2022": 184.0
+          }
+        },
+        "lgrimcmalmg3o0bss": {
+          "FullName": "Gabriel Moura",
+          "1aFase": {
+            "2022": 184.0
           }
         }
       },
@@ -58142,6 +63018,10 @@ HISTORY = {
         "2019": {
           "Teams": 2,
           "BestRank": 366
+        },
+        "2022": {
+          "Teams": 1,
+          "BestRank": 392
         }
       },
       "Contestants": {
@@ -58448,6 +63328,24 @@ HISTORY = {
           "FullName": "Gustavo B Constantino",
           "1aFase": {
             "2018": 691.0
+          }
+        },
+        "smarcehlmnanoaigscy": {
+          "FullName": "Ryan Sanches",
+          "1aFase": {
+            "2022": 392.0
+          }
+        },
+        "lcisrboakhmtmomoura": {
+          "FullName": "Mauro Custódio",
+          "1aFase": {
+            "2022": 392.0
+          }
+        },
+        "imcmiltlma0ai1olgoie": {
+          "FullName": "Leonardo Barbosa",
+          "1aFase": {
+            "2022": 392.0
           }
         }
       },
@@ -59013,6 +63911,10 @@ HISTORY = {
         "2021": {
           "Teams": 2,
           "BestRank": 205
+        },
+        "2022": {
+          "Teams": 3,
+          "BestRank": 177
         }
       },
       "Contestants": {
@@ -59391,7 +64293,8 @@ HISTORY = {
           "1aFase": {
             "2019": 605.0,
             "2020": 310.0,
-            "2021": 205.0
+            "2021": 205.0,
+            "2022": 177.0
           }
         },
         "mutcniineooaslogtaovv": {
@@ -59421,7 +64324,8 @@ HISTORY = {
         "gfgeesafouiinubcrelvnd": {
           "FullName": "Guilherme Vieira Silva Gonçalves",
           "1aFase": {
-            "2021": 400.0
+            "2021": 400.0,
+            "2022": 177.0
           }
         },
         "heignioeamtlarlgotcueoismcqmr": {
@@ -59433,7 +64337,8 @@ HISTORY = {
         "kfufragisudinieueb": {
           "FullName": "Kenzo Sugai",
           "1aFase": {
-            "2021": 400.0
+            "2021": 400.0,
+            "2022": 177.0
           }
         },
         "umcoajagilcmiblomil": {
@@ -59464,6 +64369,42 @@ HISTORY = {
           "FullName": "Leandro Carlos Rodrigues",
           "Nacional": {
             "2011": 48.0
+          }
+        },
+        "ialeumsidvnrebffiu": {
+          "FullName": "Murilo Darce",
+          "1aFase": {
+            "2022": 315.0
+          }
+        },
+        "akionaalliag9mimdc": {
+          "FullName": "Alan Suga",
+          "1aFase": {
+            "2022": 315.0
+          }
+        },
+        "pfinrebfursuionide": {
+          "FullName": "Pedro Rosin",
+          "1aFase": {
+            "2022": 315.0
+          }
+        },
+        "eunsebriulacfoifdt": {
+          "FullName": "Lucca Kirsten",
+          "1aFase": {
+            "2022": 365.0
+          }
+        },
+        "chajcamomrtmuhaoonxalptsie": {
+          "FullName": "Matheus Arcanjo",
+          "1aFase": {
+            "2022": 365.0
+          }
+        },
+        "moacgrsymieuislom": {
+          "FullName": "Rodrigo Ruy",
+          "1aFase": {
+            "2022": 365.0
           }
         }
       },
@@ -59848,6 +64789,10 @@ HISTORY = {
         "2019": {
           "Teams": 4,
           "BestRank": 137
+        },
+        "2022": {
+          "Teams": 4,
+          "BestRank": 79
         }
       },
       "Contestants": {
@@ -60122,13 +65067,15 @@ HISTORY = {
         "aeioxleatavclmsmmg": {
           "FullName": "Alexandre Estevam",
           "1aFase": {
-            "2019": 166.0
+            "2019": 166.0,
+            "2022": 79.0
           }
         },
         "mfjocmepihtaliieleoi": {
           "FullName": "Felipe Maruyama",
           "1aFase": {
-            "2019": 166.0
+            "2019": 166.0,
+            "2022": 79.0
           }
         },
         "foaamauigricsllarmmla": {
@@ -60159,6 +65106,66 @@ HISTORY = {
           "FullName": "Gabriel Costa",
           "1aFase": {
             "2019": 443.0
+          }
+        },
+        "dlmmuajmgmtoaeisc": {
+          "FullName": "Mateus Jose Daemon Martins",
+          "1aFase": {
+            "2022": 79.0
+          }
+        },
+        "aollrmmfsrriccafnceoagail": {
+          "FullName": "Rafael Francisco",
+          "1aFase": {
+            "2022": 196.0
+          }
+        },
+        "alalg6mlilm2m1ico": {
+          "FullName": "Leonardo Daniel Lima De Veras",
+          "1aFase": {
+            "2022": 196.0
+          }
+        },
+        "eu08do1rimloa6mlacgdm": {
+          "FullName": "Eduardo Lima Marcolino",
+          "1aFase": {
+            "2022": 196.0
+          }
+        },
+        "baaloooijaavmcumgtug1rs": {
+          "FullName": "Gustavo Araujo Borges",
+          "1aFase": {
+            "2022": 371.0
+          }
+        },
+        "ogpiaagc0lmlasmleuc": {
+          "FullName": "Lucas Pagel De Faria",
+          "1aFase": {
+            "2022": 371.0
+          }
+        },
+        "toflihicuauomoblflzmo": {
+          "FullName": "Luiz Antonio Buffolo",
+          "1aFase": {
+            "2022": 371.0
+          }
+        },
+        "fbeaieamlotshcmrtgmua": {
+          "FullName": "Matheus Bernardo Frate",
+          "1aFase": {
+            "2022": 440.0
+          }
+        },
+        "cvmedcgdaomsnvlgigeeauol": {
+          "FullName": "Eduardo Gonçalves",
+          "1aFase": {
+            "2022": 440.0
+          }
+        },
+        "uawimcdsgoorjkmaliao": {
+          "FullName": "João Victor Da Costa Wudarski",
+          "1aFase": {
+            "2022": 440.0
           }
         }
       },
@@ -60274,6 +65281,10 @@ HISTORY = {
         "2019": {
           "Teams": 1,
           "BestRank": 422
+        },
+        "2022": {
+          "Teams": 2,
+          "BestRank": 274
         }
       },
       "Contestants": {
@@ -60471,6 +65482,42 @@ HISTORY = {
           "FullName": "Guilherme Silva",
           "1aFase": {
             "2019": 422.0
+          }
+        },
+        "icimaleiymoagglcnsltsylmomai": {
+          "FullName": "Emily Gil Dos Santos",
+          "1aFase": {
+            "2022": 274.0
+          }
+        },
+        "gmacamimoirllgtpbesiea": {
+          "FullName": "Gabriel Da Silveira Mello",
+          "1aFase": {
+            "2022": 274.0
+          }
+        },
+        "ogtuocrgmclpnmaokaoeoe": {
+          "FullName": "Eduardo Camargo",
+          "1aFase": {
+            "2022": 274.0
+          }
+        },
+        "s6omceregacillmmfaipoe": {
+          "FullName": "Felipe Moraes Costa",
+          "1aFase": {
+            "2022": 396.0
+          }
+        },
+        "gomricmhaaolicitmmaaomr": {
+          "FullName": "Miriam Camargo",
+          "1aFase": {
+            "2022": 396.0
+          }
+        },
+        "iozlhscaiaoimsralmbati": {
+          "FullName": "Isaias Leao Borges",
+          "1aFase": {
+            "2022": 396.0
           }
         }
       }
@@ -60947,6 +65994,10 @@ HISTORY = {
         "2021": {
           "Teams": 1,
           "BestRank": 400
+        },
+        "2022": {
+          "Teams": 1,
+          "BestRank": 375
         }
       },
       "Contestants": {
@@ -61120,6 +66171,24 @@ HISTORY = {
           "1aFase": {
             "2021": 400.0
           }
+        },
+        "oesambsteg5rceualspofvpl": {
+          "FullName": "Samuel Ribeiro Da Silva Lopes",
+          "1aFase": {
+            "2022": 375.0
+          }
+        },
+        "ibgs90via1l2moalimoc": {
+          "FullName": "Vinícius Gonçalves Basílio",
+          "1aFase": {
+            "2022": 375.0
+          }
+        },
+        "gc1malralorairacm89aim": {
+          "FullName": "Maria Clara Rocha Coutinho Da Silva",
+          "1aFase": {
+            "2022": 375.0
+          }
         }
       },
       "Nacional": {
@@ -61158,6 +66227,10 @@ HISTORY = {
         "2020": {
           "Teams": 1,
           "BestRank": 634
+        },
+        "2022": {
+          "Teams": 1,
+          "BestRank": 251
         }
       },
       "Contestants": {
@@ -61334,6 +66407,24 @@ HISTORY = {
           "1aFase": {
             "2020": 634.0
           }
+        },
+        "plqegmcireinomahauulqa": {
+          "FullName": "Henrique Paula",
+          "1aFase": {
+            "2022": 251.0
+          }
+        },
+        "iliagelsamgpocgtlomiio": {
+          "FullName": "Tiago Lopes",
+          "1aFase": {
+            "2022": 251.0
+          }
+        },
+        "ietgacimnrciiamznueoiuclv": {
+          "FullName": "Cauê Ruiz",
+          "1aFase": {
+            "2022": 251.0
+          }
         }
       }
     },
@@ -61466,6 +66557,10 @@ HISTORY = {
         "2014": {
           "Teams": 5,
           "BestRank": 191
+        },
+        "2022": {
+          "Teams": 1,
+          "BestRank": 442
         }
       },
       "Contestants": {
@@ -61612,6 +66707,24 @@ HISTORY = {
           "Nacional": {
             "2012": 34.0
           }
+        },
+        "mo71hliualmasn3cotvcialoi": {
+          "FullName": "Luciano Augusto Da Silva Junior",
+          "1aFase": {
+            "2022": 442.0
+          }
+        },
+        "oofvoalictmenhrmat": {
+          "FullName": "Renato Veríssimo Ferreira",
+          "1aFase": {
+            "2022": 442.0
+          }
+        },
+        "lsomkgjmqiamaiucbo": {
+          "FullName": "Joaquim Kennedy Batista De Souza",
+          "1aFase": {
+            "2022": 442.0
+          }
         }
       },
       "Nacional": {
@@ -61662,6 +66775,10 @@ HISTORY = {
         "2021": {
           "Teams": 1,
           "BestRank": 96
+        },
+        "2022": {
+          "Teams": 2,
+          "BestRank": 159
         }
       },
       "Contestants": {
@@ -62057,6 +67174,42 @@ HISTORY = {
           "Nacional": {
             "2010": 39.0
           }
+        },
+        "vribeoizriasafbpreercbott2g1": {
+          "FullName": "Beatriz Alves Ribeiro",
+          "1aFase": {
+            "2022": 159.0
+          }
+        },
+        "jrse0rretas1bbongdevcopaafo": {
+          "FullName": "João Marcos Bernardes",
+          "1aFase": {
+            "2022": 159.0
+          }
+        },
+        "vfrgcaorapsaelgbfioret": {
+          "FullName": "Igor Rafael",
+          "1aFase": {
+            "2022": 159.0
+          }
+        },
+        "docnspsrivccatroeasegfbofn": {
+          "FullName": "Edson Isaac José Francisco",
+          "1aFase": {
+            "2022": 268.0
+          }
+        },
+        "iovlohotgneprhatbrsifsaccec": {
+          "FullName": "Christian Cezar Coelho",
+          "1aFase": {
+            "2022": 268.0
+          }
+        },
+        "ue5srlcoaacbvqtgpavsife2i": {
+          "FullName": "Caique Oliveira Silva",
+          "1aFase": {
+            "2022": 268.0
+          }
         }
       },
       "Nacional": {
@@ -62119,6 +67272,10 @@ HISTORY = {
         "2021": {
           "Teams": 2,
           "BestRank": 191
+        },
+        "2022": {
+          "Teams": 3,
+          "BestRank": 219
         }
       },
       "Contestants": {
@@ -62392,7 +67549,8 @@ HISTORY = {
           "FullName": "Cesar Kazuyoshi Ando",
           "1aFase": {
             "2018": 366.0,
-            "2019": 222.0
+            "2019": 222.0,
+            "2022": 219.0
           }
         },
         "ilooseraigdtmmcmecarlhla": {
@@ -62453,7 +67611,8 @@ HISTORY = {
         "mrohiaozrmathutuklc": {
           "FullName": "Arthur Zukeram",
           "1aFase": {
-            "2019": 222.0
+            "2019": 222.0,
+            "2022": 219.0
           }
         },
         "a8o1lvmu3asdaciocamr1gsl5l": {
@@ -62490,7 +67649,8 @@ HISTORY = {
         "aillngmueiotsimtc": {
           "FullName": "Luís Souza",
           "1aFase": {
-            "2021": 191.0
+            "2021": 191.0,
+            "2022": 390.0
           }
         },
         "maigsifpvtaovareynbiercs": {
@@ -62521,6 +67681,42 @@ HISTORY = {
           "FullName": "David Esteban Marçal Cabrera",
           "Nacional": {
             "2012": 45.0
+          }
+        },
+        "igcadiomgheairiolmkdora": {
+          "FullName": "Rodrigo Ando",
+          "1aFase": {
+            "2022": 219.0
+          }
+        },
+        "orsgmcforbdonivcldtaapaee": {
+          "FullName": "Camila Silveira Redondo",
+          "1aFase": {
+            "2022": 374.0
+          }
+        },
+        "actmlr7iso9mfhoa": {
+          "FullName": "Rafael Furtado",
+          "1aFase": {
+            "2022": 374.0
+          }
+        },
+        "guehnc19noloqtmi1i2emrea": {
+          "FullName": "Henrique Pinto Ferreira Neto",
+          "1aFase": {
+            "2022": 374.0
+          }
+        },
+        "uia2malcgo5amjr1maili": {
+          "FullName": "Julia Maria Santos Barroso",
+          "1aFase": {
+            "2022": 390.0
+          }
+        },
+        "vgitcnlagsmomoaduoak": {
+          "FullName": "Gustavo Kenji Ando",
+          "1aFase": {
+            "2022": 390.0
           }
         }
       },
@@ -63168,6 +68364,10 @@ HISTORY = {
         "2021": {
           "Teams": 8,
           "BestRank": 20
+        },
+        "2022": {
+          "Teams": 3,
+          "BestRank": 43
         }
       },
       "Contestants": {
@@ -63523,7 +68723,8 @@ HISTORY = {
           "1aFase": {
             "2019": 45.0,
             "2020": 38.0,
-            "2021": 20.0
+            "2021": 20.0,
+            "2022": 43.0
           },
           "Nacional": {
             "2020": 20.0,
@@ -63622,7 +68823,8 @@ HISTORY = {
         "uaoailrmcnmdgagog": {
           "FullName": "Gabriel Gandour",
           "1aFase": {
-            "2020": 102.0
+            "2020": 102.0,
+            "2022": 130.0
           }
         },
         "illj23mogvc5ma": {
@@ -63668,14 +68870,16 @@ HISTORY = {
           "FullName": "Eric Ribeiro",
           "1aFase": {
             "2020": 246.0,
-            "2021": 108.0
+            "2021": 108.0,
+            "2022": 130.0
           }
         },
         "omamhglortcmlaeoiucab": {
           "FullName": "Marcelo Buga",
           "1aFase": {
             "2020": 246.0,
-            "2021": 108.0
+            "2021": 108.0,
+            "2022": 130.0
           }
         },
         "naihaeraogsnluealnmmci": {
@@ -63717,7 +68921,8 @@ HISTORY = {
         "mcofsametogimslmgi": {
           "FullName": "Moisés Thimoteo",
           "1aFase": {
-            "2021": 86.0
+            "2021": 86.0,
+            "2022": 43.0
           }
         },
         "ipsipfrdloeellemieamainlscgir": {
@@ -63735,7 +68940,8 @@ HISTORY = {
         "cdroiolfumrgmanb": {
           "FullName": "Francisco Bruno Dias Ribeiro Da Silva",
           "1aFase": {
-            "2021": 97.0
+            "2021": 97.0,
+            "2022": 43.0
           }
         },
         "bimogmazrninfanicmuorl": {
@@ -63858,6 +69064,24 @@ HISTORY = {
           "Nacional": {
             "2011": 2.0,
             "2012": 1.0
+          }
+        },
+        "ilrhfocilaamyomhgee": {
+          "FullName": "Heyder Falheiro",
+          "1aFase": {
+            "2022": 128.0
+          }
+        },
+        "imil2c0072ggba202arlemo": {
+          "FullName": "Gabriel Teófilo",
+          "1aFase": {
+            "2022": 128.0
+          }
+        },
+        "reomclmihfilgieuugmngzma": {
+          "FullName": "Guilherme Muniz",
+          "1aFase": {
+            "2022": 128.0
           }
         }
       },
@@ -65127,6 +70351,10 @@ HISTORY = {
         "2020": {
           "Teams": 1,
           "BestRank": 94
+        },
+        "2022": {
+          "Teams": 3,
+          "BestRank": 191
         }
       },
       "Contestants": {
@@ -65553,6 +70781,60 @@ HISTORY = {
           "Nacional": {
             "2012": 37.0
           }
+        },
+        "omlctlonohigeaatmoolsemge": {
+          "FullName": "Leonardo Gomes Anholetto",
+          "1aFase": {
+            "2022": 191.0
+          }
+        },
+        "ilmcgbemtolaiaidehomora": {
+          "FullName": "Gabriel Carvalho",
+          "1aFase": {
+            "2022": 191.0
+          }
+        },
+        "ctvmoirozarrliotmghguam": {
+          "FullName": "Vitor Hugo Rossi Martinez",
+          "1aFase": {
+            "2022": 191.0
+          }
+        },
+        "oeglleoocemghmncmrlhueisai": {
+          "FullName": "Guilherme Colonhese Camargo",
+          "1aFase": {
+            "2022": 273.0
+          }
+        },
+        "id111fttlcgoemiolaiormp": {
+          "FullName": "Pedro Correia Felitto",
+          "1aFase": {
+            "2022": 273.0
+          }
+        },
+        "elnomagiarcdktma": {
+          "FullName": "André Shiratsu Takahashi",
+          "1aFase": {
+            "2022": 273.0
+          }
+        },
+        "aciiiyklammgmohsal": {
+          "FullName": "Lucas Hideki Miyasaki",
+          "1aFase": {
+            "2022": 378.0
+          }
+        },
+        "imuamocutiasrogvtkl": {
+          "FullName": "Vitor Eyki Akutsu",
+          "1aFase": {
+            "2022": 378.0
+          }
+        },
+        "6rasrsoolmm5mgacmaci1u": {
+          "FullName": "Marcus Vinicius Ramos De Araujo",
+          "1aFase": {
+            "2022": 378.0
+          }
         }
       },
       "Nacional": {
@@ -65655,6 +70937,10 @@ HISTORY = {
         "2021": {
           "Teams": 9,
           "BestRank": 294
+        },
+        "2022": {
+          "Teams": 4,
+          "BestRank": 212
         }
       },
       "Contestants": {
@@ -66027,7 +71313,8 @@ HISTORY = {
           "FullName": "Guilherme Evangelista Dos Santos Fittipaldi Barros",
           "1aFase": {
             "2020": 399.0,
-            "2021": 400.0
+            "2021": 400.0,
+            "2022": 244.0
           }
         },
         "nntaommtoacgrlocosaecit": {
@@ -66238,13 +71525,15 @@ HISTORY = {
         "lsrocvmcrga81oaeitloanamh": {
           "FullName": "Renato Santos Carvalho",
           "1aFase": {
-            "2021": 400.0
+            "2021": 400.0,
+            "2022": 244.0
           }
         },
         "mlrhqmgoeiecanrr1igu": {
           "FullName": "Henrique Rinaldi Gomes Ricardo",
           "1aFase": {
-            "2021": 400.0
+            "2021": 400.0,
+            "2022": 244.0
           }
         },
         "uevlstanriiiroisuiscornnbbi": {
@@ -66288,6 +71577,60 @@ HISTORY = {
           "1aFase": {
             "2021": 400.0
           }
+        },
+        "gmoouolsmtscamriec0ahgahi": {
+          "FullName": "Matheus Gois Rocha",
+          "1aFase": {
+            "2022": 212.0
+          }
+        },
+        "7aekalia57nshicgmm1roy": {
+          "FullName": "Henry Mitsuo Kasai",
+          "1aFase": {
+            "2022": 212.0
+          }
+        },
+        "liiogmtleamgawimlorhc": {
+          "FullName": "Leonardo Wright Lima",
+          "1aFase": {
+            "2022": 212.0
+          }
+        },
+        "eeosumnrrslicbanatei": {
+          "FullName": "Alec Meier",
+          "1aFase": {
+            "2022": 216.0
+          }
+        },
+        "omsloinoanrrsmycecgad": {
+          "FullName": "Rennys Rodrigues Cardoso",
+          "1aFase": {
+            "2022": 216.0
+          }
+        },
+        "omateudomstmlmahioehclo": {
+          "FullName": "Matheus Moledo Fonseca Vasconcelos",
+          "1aFase": {
+            "2022": 216.0
+          }
+        },
+        "rnafrobbeunislirgetieasrra": {
+          "FullName": "Gabriel Ferreira Pereira",
+          "1aFase": {
+            "2022": 337.0
+          }
+        },
+        "ilaahmmoalvc3rlg1ecibogrcal": {
+          "FullName": "Gabriel Carvalho Santana",
+          "1aFase": {
+            "2022": 337.0
+          }
+        },
+        "usovtnrebitirocrtpnaiso": {
+          "FullName": "Vitor Cordeiro Paes Prieto",
+          "1aFase": {
+            "2022": 337.0
+          }
         }
       }
     },
@@ -66328,6 +71671,10 @@ HISTORY = {
         "2021": {
           "Teams": 9,
           "BestRank": 9
+        },
+        "2022": {
+          "Teams": 10,
+          "BestRank": 1
         }
       },
       "Contestants": {
@@ -66760,7 +72107,8 @@ HISTORY = {
           "FullName": "Andrês Rodrigues Oliveira",
           "1aFase": {
             "2018": 57.0,
-            "2021": 84.0
+            "2021": 84.0,
+            "2022": 25.0
           }
         },
         "mbxpgimaimehloclip": {
@@ -66828,7 +72176,8 @@ HISTORY = {
           "FullName": "Yan Guimarães",
           "1aFase": {
             "2019": 15.0,
-            "2020": 9.0
+            "2020": 9.0,
+            "2022": 25.0
           },
           "Nacional": {
             "2019": 15.0,
@@ -66839,7 +72188,8 @@ HISTORY = {
           "FullName": "Tiago Souza",
           "1aFase": {
             "2019": 15.0,
-            "2020": 1.0
+            "2020": 1.0,
+            "2022": 1.0
           },
           "Nacional": {
             "2019": 15.0,
@@ -66867,7 +72217,8 @@ HISTORY = {
         "slfrloanmaeasa2sgotii1cm": {
           "FullName": "Larissa Gomes De Stefano Escaliante",
           "1aFase": {
-            "2019": 74.0
+            "2019": 74.0,
+            "2022": 84.0
           }
         },
         "cnmru3c32rd3pa44bia": {
@@ -66888,7 +72239,8 @@ HISTORY = {
           "1aFase": {
             "2019": 203.0,
             "2020": 66.0,
-            "2021": 46.0
+            "2021": 46.0,
+            "2022": 204.0
           }
         },
         "ootlmi9ugv00ca0gsa20ml": {
@@ -66896,7 +72248,8 @@ HISTORY = {
           "1aFase": {
             "2019": 203.0,
             "2020": 66.0,
-            "2021": 46.0
+            "2021": 46.0,
+            "2022": 204.0
           }
         },
         "domisgiqmvltiraoacuvearm": {
@@ -66927,7 +72280,8 @@ HISTORY = {
         "algt0isa2csmnoio0amnm2": {
           "FullName": "Naim Shaikhzadeh",
           "1aFase": {
-            "2020": 1.0
+            "2020": 1.0,
+            "2022": 1.0
           },
           "Nacional": {
             "2020": 2.0
@@ -66955,7 +72309,8 @@ HISTORY = {
           "FullName": "Cirilo Morais",
           "1aFase": {
             "2020": 19.0,
-            "2021": 9.0
+            "2021": 9.0,
+            "2022": 3.0
           },
           "Nacional": {
             "2021": 34.0
@@ -66965,7 +72320,8 @@ HISTORY = {
           "FullName": "Igor Brito",
           "1aFase": {
             "2020": 19.0,
-            "2021": 9.0
+            "2021": 9.0,
+            "2022": 23.0
           },
           "Nacional": {
             "2021": 34.0
@@ -66991,7 +72347,8 @@ HISTORY = {
           "FullName": "Renan Fernando Franco Da Silva",
           "1aFase": {
             "2020": 66.0,
-            "2021": 46.0
+            "2021": 46.0,
+            "2022": 25.0
           }
         },
         "taionlslmecetdilictoouc": {
@@ -67050,7 +72407,8 @@ HISTORY = {
         "ydamcoiglmlhdoa": {
           "FullName": "Luiz Henrique Yuji Delgado Oda",
           "1aFase": {
-            "2021": 19.0
+            "2021": 19.0,
+            "2022": 3.0
           },
           "Nacional": {
             "2021": 9.0
@@ -67059,7 +72417,8 @@ HISTORY = {
         "graaohriemcednarocbmlgsa": {
           "FullName": "Bernardo Archegas",
           "1aFase": {
-            "2021": 19.0
+            "2021": 19.0,
+            "2022": 3.0
           },
           "Nacional": {
             "2021": 9.0
@@ -67068,13 +72427,15 @@ HISTORY = {
         "aviarlimlgceipmag20ab20o": {
           "FullName": "Gabriel Paiva",
           "1aFase": {
-            "2021": 48.0
+            "2021": 48.0,
+            "2022": 23.0
           }
         },
         "dducp8cna45b5m2iar2": {
           "FullName": "Daniel Yuji Hosomi",
           "1aFase": {
-            "2021": 48.0
+            "2021": 48.0,
+            "2022": 23.0
           }
         },
         "croatbiitmmvgajooolpm": {
@@ -67220,6 +72581,102 @@ HISTORY = {
           "Nacional": {
             "2012": 16.0
           }
+        },
+        "lehtacausymtormmsveiagn0a3a": {
+          "FullName": "Yan Silva",
+          "1aFase": {
+            "2022": 1.0
+          }
+        },
+        "iu2c0a4crml8apb23nd": {
+          "FullName": "Lawrence Francisco Martins De Melo",
+          "1aFase": {
+            "2022": 18.0
+          }
+        },
+        "mmhzocalpioeomstn": {
+          "FullName": "Enzo Pontes Saraiva De Moraes",
+          "1aFase": {
+            "2022": 18.0
+          }
+        },
+        "cag15oaimmgiohlmtot0a": {
+          "FullName": "Thiago Mota Martins",
+          "1aFase": {
+            "2022": 18.0
+          }
+        },
+        "ricaefmlgcoeimrdrpmoare": {
+          "FullName": "Pedro César Mesquita Ferreira",
+          "1aFase": {
+            "2022": 20.0
+          }
+        },
+        "mollnalcuicmcmga": {
+          "FullName": "Lucca Nunes",
+          "1aFase": {
+            "2022": 20.0
+          }
+        },
+        "ybm38d10unicaca4p1r": {
+          "FullName": "Yvens Porto",
+          "1aFase": {
+            "2022": 20.0
+          }
+        },
+        "umka75abc1rn5dpc22i": {
+          "FullName": "Karyn Huamán",
+          "1aFase": {
+            "2022": 84.0
+          }
+        },
+        "alm7gymnkmsnola3iicaie": {
+          "FullName": "Yasmin Kaline",
+          "1aFase": {
+            "2022": 84.0
+          }
+        },
+        "mltcupoceorgcimoirsacaia": {
+          "FullName": "Caio Petrucci Dos Santos Rosa",
+          "1aFase": {
+            "2022": 117.0
+          }
+        },
+        "2n4lapbar9umdi038cc": {
+          "FullName": "Lucas Francisco Silva Paiva",
+          "1aFase": {
+            "2022": 117.0
+          }
+        },
+        "ca32n52maup1cbvdri1": {
+          "FullName": "Vinícius Damasceno",
+          "1aFase": {
+            "2022": 117.0
+          }
+        },
+        "m201acbipr8dnlau30c": {
+          "FullName": "Luísa Penze",
+          "1aFase": {
+            "2022": 186.0
+          }
+        },
+        "ca82n41maup4cbldri3": {
+          "FullName": "Letícia Lopes",
+          "1aFase": {
+            "2022": 186.0
+          }
+        },
+        "m281acbipr7dnjau41c": {
+          "FullName": "Jasmine Battestin Nunes",
+          "1aFase": {
+            "2022": 186.0
+          }
+        },
+        "30ig2rhii0clreenmgabipaolmo": {
+          "FullName": "Gabriel Pinheiro",
+          "1aFase": {
+            "2022": 204.0
+          }
         }
       },
       "Nacional": {
@@ -67314,6 +72771,10 @@ HISTORY = {
         "2021": {
           "Teams": 7,
           "BestRank": 149
+        },
+        "2022": {
+          "Teams": 3,
+          "BestRank": 99
         }
       },
       "Contestants": {
@@ -67668,7 +73129,8 @@ HISTORY = {
           "1aFase": {
             "2019": 90.0,
             "2020": 158.0,
-            "2021": 149.0
+            "2021": 149.0,
+            "2022": 99.0
           },
           "Nacional": {
             "2019": 51.0,
@@ -67717,7 +73179,8 @@ HISTORY = {
           "1aFase": {
             "2019": 536.0,
             "2020": 158.0,
-            "2021": 149.0
+            "2021": 149.0,
+            "2022": 99.0
           },
           "Nacional": {
             "2021": 47.0
@@ -67823,7 +73286,8 @@ HISTORY = {
         "ehbactamaamdtorhsvercsasrartoulnufeus": {
           "FullName": "Matheus Ramos De Carvalho",
           "1aFase": {
-            "2021": 248.0
+            "2021": 248.0,
+            "2022": 99.0
           }
         },
         "imerumeqaasialcfrimoghn": {
@@ -67877,7 +73341,8 @@ HISTORY = {
         "isabttodabarrseuuirrlnieeocft": {
           "FullName": "Italo Carvalho Vianelli Ribeiro",
           "1aFase": {
-            "2021": 339.0
+            "2021": 339.0,
+            "2022": 152.0
           }
         },
         "crfeblsvunaaemrusirtsehitdaglue": {
@@ -67936,6 +73401,36 @@ HISTORY = {
           "FullName": "Carlos Roberto Silveira Junior",
           "Nacional": {
             "2011": 29.0
+          }
+        },
+        "gumlmbda1uergaasre1mlo1icsgqiiaalor1i": {
+          "FullName": "Gabriel Malaquias",
+          "1aFase": {
+            "2022": 152.0
+          }
+        },
+        "eocatndeiizcvroecmogomlaanoi": {
+          "FullName": "Antônio Cícero De Azevedo",
+          "1aFase": {
+            "2022": 152.0
+          }
+        },
+        "utasbrdoercsooenaatnfuuejb": {
+          "FullName": "Joao Victor De Caldas",
+          "1aFase": {
+            "2022": 195.0
+          }
+        },
+        "arietammicztmlsohemiuohoa": {
+          "FullName": "Matheus De Almeida Mazieiro",
+          "1aFase": {
+            "2022": 195.0
+          }
+        },
+        "rustaoenacseupbseeedrvnrtfd": {
+          "FullName": "Pedro Guilherme Torres Das Neves",
+          "1aFase": {
+            "2022": 195.0
           }
         }
       },
@@ -68019,6 +73514,10 @@ HISTORY = {
         "2019": {
           "Teams": 3,
           "BestRank": 185
+        },
+        "2022": {
+          "Teams": 2,
+          "BestRank": 137
         }
       },
       "Contestants": {
@@ -68351,6 +73850,42 @@ HISTORY = {
           "Nacional": {
             "2011": 16.0
           }
+        },
+        "cebadatbrktftaaeunsurscisul": {
+          "FullName": "Lucas Katib Do Amaral",
+          "1aFase": {
+            "2022": 137.0
+          }
+        },
+        "easremadoborgrraicfsraautntuld": {
+          "FullName": "Rodrigo Araujo",
+          "1aFase": {
+            "2022": 137.0
+          }
+        },
+        "reeouftbigausamrlansugrhrdtmeccae": {
+          "FullName": "Guilherme Silva De Camargo",
+          "1aFase": {
+            "2022": 137.0
+          }
+        },
+        "easetfshdertsbonrpuaucraad": {
+          "FullName": "Pedro Alves",
+          "1aFase": {
+            "2022": 173.0
+          }
+        },
+        "lrfcdcutmstaevbluasasroern": {
+          "FullName": "Marcos Lira",
+          "1aFase": {
+            "2022": 173.0
+          }
+        },
+        "mrrkeigimcllwabo": {
+          "FullName": "Wilker Ribeiro",
+          "1aFase": {
+            "2022": 173.0
+          }
         }
       },
       "Nacional": {
@@ -68413,6 +73948,10 @@ HISTORY = {
         "2021": {
           "Teams": 2,
           "BestRank": 400
+        },
+        "2022": {
+          "Teams": 3,
+          "BestRank": 153
         }
       },
       "Contestants": {
@@ -68651,7 +74190,8 @@ HISTORY = {
         "g1nueupfiivbsbtesroairr9o": {
           "FullName": "Gustavo Silveira Ribeiro",
           "1aFase": {
-            "2021": 400.0
+            "2021": 400.0,
+            "2022": 194.0
           }
         },
         "iusrn81bfepaiprsi": {
@@ -68697,6 +74237,54 @@ HISTORY = {
           "FullName": "Felipe Tonello",
           "Nacional": {
             "2011": 45.0
+          }
+        },
+        "draeureseenjanparefirirfbn": {
+          "FullName": "Jardeanne Ferreira",
+          "1aFase": {
+            "2022": 153.0
+          }
+        },
+        "isebeorsgnuepf": {
+          "FullName": "Eduardo Paulo Goes",
+          "1aFase": {
+            "2022": 153.0
+          }
+        },
+        "ranzcebsofurpiipdcraea": {
+          "FullName": "Pedro Henrique Castro Zaccaria Rodrigues",
+          "1aFase": {
+            "2022": 153.0
+          }
+        },
+        "raaesoauaesfnelcipdnrbpmh": {
+          "FullName": "Raphael Moraes",
+          "1aFase": {
+            "2022": 194.0
+          }
+        },
+        "cfiuoassserpbm2tnan3": {
+          "FullName": "Marco Antonio Santos",
+          "1aFase": {
+            "2022": 194.0
+          }
+        },
+        "urbseno1hoelpfci6a": {
+          "FullName": "Ana Coelho",
+          "1aFase": {
+            "2022": 420.0
+          }
+        },
+        "eerfastsrinpunifb": {
+          "FullName": "Nicolas Freitas",
+          "1aFase": {
+            "2022": 420.0
+          }
+        },
+        "riunaoecpnsbcfruvcrniiiise": {
+          "FullName": "Vinicius Carrocine Leite",
+          "1aFase": {
+            "2022": 420.0
           }
         }
       },
@@ -68756,6 +74344,10 @@ HISTORY = {
         "2021": {
           "Teams": 3,
           "BestRank": 57
+        },
+        "2022": {
+          "Teams": 4,
+          "BestRank": 68
         }
       },
       "Contestants": {
@@ -69035,7 +74627,8 @@ HISTORY = {
           "FullName": "Pedro De Souza Tunin",
           "1aFase": {
             "2018": 412.0,
-            "2019": 324.0
+            "2019": 324.0,
+            "2022": 187.0
           }
         },
         "hcbaodbiaoulumroclefanarua": {
@@ -69072,7 +74665,8 @@ HISTORY = {
           "FullName": "Robert Chinem Fujii",
           "1aFase": {
             "2019": 176.0,
-            "2021": 57.0
+            "2021": 57.0,
+            "2022": 68.0
           },
           "Nacional": {
             "2021": 25.0
@@ -69148,7 +74742,8 @@ HISTORY = {
           "FullName": "Nathalia Favero Amorim",
           "1aFase": {
             "2019": 472.0,
-            "2021": 57.0
+            "2021": 57.0,
+            "2022": 175.0
           },
           "Nacional": {
             "2021": 25.0
@@ -69209,6 +74804,60 @@ HISTORY = {
           "FullName": "Vinícius Brito",
           "1aFase": {
             "2021": 309.0
+          }
+        },
+        "uhaiglcmogeemgiclkgemir": {
+          "FullName": "Guilherme Gigeck",
+          "1aFase": {
+            "2022": 68.0
+          }
+        },
+        "acliuuesvabnbacufldoduar": {
+          "FullName": "Lucas Olinda",
+          "1aFase": {
+            "2022": 68.0
+          }
+        },
+        "ntsoambcayerrmilrcthoo": {
+          "FullName": "Bryan Da Costa Torres",
+          "1aFase": {
+            "2022": 146.0
+          }
+        },
+        "li9m7onjaap5cgmu": {
+          "FullName": "Juan Aguiar",
+          "1aFase": {
+            "2022": 146.0
+          }
+        },
+        "boyaiolihfiakruubndnuseucd": {
+          "FullName": "Valter Yudi Konishi De Oliveira",
+          "1aFase": {
+            "2022": 146.0
+          }
+        },
+        "bsfcaoeulabuddouunerazdruaa": {
+          "FullName": "Maria Souza",
+          "1aFase": {
+            "2022": 175.0
+          }
+        },
+        "ednnuiubrmrbadrfaocauauaall": {
+          "FullName": "Laura Miranda",
+          "1aFase": {
+            "2022": 175.0
+          }
+        },
+        "dlaam0eou0idrc3omoegra2rca": {
+          "FullName": "Eduardo De Araújo Corrêa",
+          "1aFase": {
+            "2022": 187.0
+          }
+        },
+        "cimaoia7rn0lcgm01f": {
+          "FullName": "Nicolas Frasson",
+          "1aFase": {
+            "2022": 187.0
           }
         }
       },
@@ -69403,6 +75052,10 @@ HISTORY = {
         "2021": {
           "Teams": 1,
           "BestRank": 249
+        },
+        "2022": {
+          "Teams": 4,
+          "BestRank": 289
         }
       },
       "Contestants": {
@@ -70031,6 +75684,78 @@ HISTORY = {
           "FullName": "Lucas Souza Silva",
           "1aFase": {
             "2021": 249.0
+          }
+        },
+        "4z1eta4a2s53cim1cno0bmrk": {
+          "FullName": "Leonardo Borim",
+          "1aFase": {
+            "2022": 289.0
+          }
+        },
+        "oacib5re79mamn3czt21sk94": {
+          "FullName": "Bruno Hayek",
+          "1aFase": {
+            "2022": 289.0
+          }
+        },
+        "b1sz3ccmrk4en23omit246aa": {
+          "FullName": "Guilherme De Oliveira",
+          "1aFase": {
+            "2022": 289.0
+          }
+        },
+        "ra4mm2oze7csna0ti41c9k0b": {
+          "FullName": "Gabriel De França Marques",
+          "1aFase": {
+            "2022": 366.0
+          }
+        },
+        "2z2eta1a2s14cim1cno5bmrk": {
+          "FullName": "Rafaela Perrotti Zyngier",
+          "1aFase": {
+            "2022": 366.0
+          }
+        },
+        "g6ottra0mgie0ag7lbamic": {
+          "FullName": "Gustavo Garabetti",
+          "1aFase": {
+            "2022": 366.0
+          }
+        },
+        "pscgseiioaromkbaeglrm": {
+          "FullName": "Erika Borges Piaui",
+          "1aFase": {
+            "2022": 471.0
+          }
+        },
+        "iilcomamuioglcpjlmama": {
+          "FullName": "Júlia Campolim",
+          "1aFase": {
+            "2022": 471.0
+          }
+        },
+        "ceiiugabrzcltmcaimo": {
+          "FullName": "Beatriz Andreucci",
+          "1aFase": {
+            "2022": 471.0
+          }
+        },
+        "3m1c3tbirmec3a2sozn3ak52": {
+          "FullName": "David Pessoa",
+          "1aFase": {
+            "2022": 475.0
+          }
+        },
+        "aeomilerlfaaijldpmcg": {
+          "FullName": "Fellipe Jardanovski",
+          "1aFase": {
+            "2022": 475.0
+          }
+        },
+        "oadjgielooosompaa7cumrzg2g": {
+          "FullName": "João Costa",
+          "1aFase": {
+            "2022": 475.0
           }
         }
       },
@@ -71145,6 +76870,10 @@ HISTORY = {
         "2021": {
           "Teams": 13,
           "BestRank": 3
+        },
+        "2022": {
+          "Teams": 10,
+          "BestRank": 6
         }
       },
       "Contestants": {
@@ -71703,7 +77432,8 @@ HISTORY = {
             "2018": 67.0,
             "2019": 68.0,
             "2020": 17.0,
-            "2021": 17.0
+            "2021": 17.0,
+            "2022": 46.0
           }
         },
         "fnrotemihsoolnahltriaecomoapc": {
@@ -71712,7 +77442,8 @@ HISTORY = {
             "2018": 67.0,
             "2019": 24.0,
             "2020": 17.0,
-            "2021": 17.0
+            "2021": 17.0,
+            "2022": 46.0
           }
         },
         "iieilglhteplsmcafmo": {
@@ -71779,7 +77510,8 @@ HISTORY = {
           "1aFase": {
             "2019": 50.0,
             "2020": 57.0,
-            "2021": 3.0
+            "2021": 3.0,
+            "2022": 59.0
           },
           "Nacional": {
             "2021": 15.0
@@ -71790,7 +77522,8 @@ HISTORY = {
           "1aFase": {
             "2019": 68.0,
             "2020": 17.0,
-            "2021": 17.0
+            "2021": 17.0,
+            "2022": 46.0
           }
         },
         "mloza5rg7neiactm": {
@@ -71844,7 +77577,8 @@ HISTORY = {
           "FullName": "Nathan Martins",
           "1aFase": {
             "2020": 62.0,
-            "2021": 3.0
+            "2021": 3.0,
+            "2022": 6.0
           },
           "Nacional": {
             "2021": 15.0
@@ -71866,7 +77600,8 @@ HISTORY = {
           "FullName": "Willian Wang",
           "1aFase": {
             "2020": 100.0,
-            "2021": 10.0
+            "2021": 10.0,
+            "2022": 6.0
           }
         },
         "uvaiacaorbvsipotr": {
@@ -71898,7 +77633,8 @@ HISTORY = {
           "FullName": "Antonio Hachisuca",
           "1aFase": {
             "2020": 125.0,
-            "2021": 50.0
+            "2021": 50.0,
+            "2022": 16.0
           }
         },
         "hobaaurtzrufrspi": {
@@ -71931,7 +77667,8 @@ HISTORY = {
         "wmrglomanrcimm": {
           "FullName": "Willian Miura Mori",
           "1aFase": {
-            "2021": 10.0
+            "2021": 10.0,
+            "2022": 6.0
           }
         },
         "gpiaiafllleelkmcaoms": {
@@ -71955,13 +77692,15 @@ HISTORY = {
         "uhoigmt2milokca6mls": {
           "FullName": "Matheus Ferreira",
           "1aFase": {
-            "2021": 61.0
+            "2021": 61.0,
+            "2022": 16.0
           }
         },
         "faliilomabir0gaecacg8maf": {
           "FullName": "Gabriel Mendonça",
           "1aFase": {
-            "2021": 61.0
+            "2021": 61.0,
+            "2022": 16.0
           }
         },
         "vtsuxpkuboaargs": {
@@ -71991,7 +77730,8 @@ HISTORY = {
         "vbmegr1eela6rpuslshui": {
           "FullName": "João Guilherme Santos",
           "1aFase": {
-            "2021": 115.0
+            "2021": 115.0,
+            "2022": 59.0
           }
         },
         "asenprurouibrbper": {
@@ -72069,7 +77809,116 @@ HISTORY = {
         "icsammoogcasiailocnca": {
           "FullName": "Cássio Cancio",
           "1aFase": {
-            "2021": 176.0
+            "2021": 176.0,
+            "2022": 59.0
+          }
+        },
+        "uclmalsramgopeber": {
+          "FullName": "Marcelo Lage",
+          "1aFase": {
+            "2022": 54.0
+          }
+        },
+        "uesossrakoalfberp": {
+          "FullName": "Rafael Sesoko",
+          "1aFase": {
+            "2022": 54.0
+          }
+        },
+        "lsubvaritooops": {
+          "FullName": "Otávio Silva",
+          "1aFase": {
+            "2022": 54.0
+          }
+        },
+        "mkgmoacoeiolstaaneis": {
+          "FullName": "Ian Takose",
+          "1aFase": {
+            "2022": 131.0
+          }
+        },
+        "jicinoiamamtmneullgiah": {
+          "FullName": "Juliana Hosne Nakata",
+          "1aFase": {
+            "2022": 131.0
+          }
+        },
+        "ibtpiclmtufhusszr": {
+          "FullName": "Luiz Felipe Schmitt",
+          "1aFase": {
+            "2022": 131.0
+          }
+        },
+        "rupesodupabfrd": {
+          "FullName": "Eduardo Figueredo Pacheco",
+          "1aFase": {
+            "2022": 140.0
+          }
+        },
+        "imsbaaieiramrntspum": {
+          "FullName": "Mariana Misu",
+          "1aFase": {
+            "2022": 140.0
+          }
+        },
+        "ymdlispuoubrnscaaa": {
+          "FullName": "Maysa Cristina Claudino Da Silva",
+          "1aFase": {
+            "2022": 140.0
+          }
+        },
+        "mmagacknaysiblreaiuonk": {
+          "FullName": "Anna Beatriz Serikyaku",
+          "1aFase": {
+            "2022": 193.0
+          }
+        },
+        "pitlailvubrastahs": {
+          "FullName": "Thalita Silva",
+          "1aFase": {
+            "2022": 193.0
+          }
+        },
+        "ltbroissuunap": {
+          "FullName": "Lais Rossman",
+          "1aFase": {
+            "2022": 193.0
+          }
+        },
+        "cisamomltsltllyaag": {
+          "FullName": "Tássyla Lima",
+          "1aFase": {
+            "2022": 205.0
+          }
+        },
+        "brburparbeuabosan": {
+          "FullName": "Bárbara Bueno",
+          "1aFase": {
+            "2022": 205.0
+          }
+        },
+        "uicudrtomoqoelaioeemaznrhudsah": {
+          "FullName": "Henrique Eduardo",
+          "1aFase": {
+            "2022": 205.0
+          }
+        },
+        "p53r2butgaeni9a21cs75esomu": {
+          "FullName": "Mateus Pinheiro Negocia",
+          "1aFase": {
+            "2022": 234.0
+          }
+        },
+        "3usrbrpcu2lsap": {
+          "FullName": "Lucas Rodrigues",
+          "1aFase": {
+            "2022": 234.0
+          }
+        },
+        "rjpsmeuretdnuboan": {
+          "FullName": "Juan D'angelo",
+          "1aFase": {
+            "2022": 234.0
           }
         }
       },
@@ -72149,6 +77998,10 @@ HISTORY = {
         "2021": {
           "Teams": 13,
           "BestRank": 6
+        },
+        "2022": {
+          "Teams": 6,
+          "BestRank": 7
         }
       },
       "Contestants": {
@@ -72818,7 +78671,8 @@ HISTORY = {
           "1aFase": {
             "2019": 26.0,
             "2020": 12.0,
-            "2021": 16.0
+            "2021": 16.0,
+            "2022": 7.0
           },
           "Nacional": {
             "2020": 19.0
@@ -72829,7 +78683,8 @@ HISTORY = {
           "1aFase": {
             "2019": 26.0,
             "2020": 12.0,
-            "2021": 16.0
+            "2021": 16.0,
+            "2022": 7.0
           },
           "Nacional": {
             "2020": 19.0
@@ -72840,7 +78695,8 @@ HISTORY = {
           "1aFase": {
             "2019": 26.0,
             "2020": 12.0,
-            "2021": 16.0
+            "2021": 16.0,
+            "2022": 7.0
           },
           "Nacional": {
             "2020": 19.0
@@ -73166,7 +79022,8 @@ HISTORY = {
         "a1caomr10g2lilhvpaleme": {
           "FullName": "Raphael David Philippe Leveque",
           "1aFase": {
-            "2021": 118.0
+            "2021": 118.0,
+            "2022": 213.0
           }
         },
         "rpdsacurdruibbeoot": {
@@ -73178,7 +79035,8 @@ HISTORY = {
         "0nl6gl11e9imociama1d": {
           "FullName": "Daniel Henrique Lelis De Almeida",
           "1aFase": {
-            "2021": 120.0
+            "2021": 120.0,
+            "2022": 93.0
           }
         },
         "aldsrsgbus4neaopr5": {
@@ -73306,6 +79164,84 @@ HISTORY = {
           "Nacional": {
             "2012": 4.0
           }
+        },
+        "prubgvacshou": {
+          "FullName": "Vitor Hugo Almeida Couto",
+          "1aFase": {
+            "2022": 31.0
+          }
+        },
+        "gehailmltgaoeamcnomo": {
+          "FullName": "Matheo Dantas",
+          "1aFase": {
+            "2022": 31.0
+          }
+        },
+        "ariucplbaalagsnr": {
+          "FullName": "Allan Garcia Cavalcante Silva",
+          "1aFase": {
+            "2022": 31.0
+          }
+        },
+        "ruejogubzplsir": {
+          "FullName": "Jorge Franco",
+          "1aFase": {
+            "2022": 66.0
+          }
+        },
+        "murqpbsthuarr": {
+          "FullName": "Arthur Moura",
+          "1aFase": {
+            "2022": 66.0
+          }
+        },
+        "utnhsuembb0rasrpu": {
+          "FullName": "Bruno Ricardo",
+          "1aFase": {
+            "2022": 66.0
+          }
+        },
+        "emrlpoegcifamopemsn": {
+          "FullName": "Emerson Pereira Portela Filho",
+          "1aFase": {
+            "2022": 83.0
+          }
+        },
+        "omn0zau3olhg9micdi": {
+          "FullName": "Eduardo Figueiredo Freire Andrade",
+          "1aFase": {
+            "2022": 83.0
+          }
+        },
+        "eelbsairsumlpsistaurva": {
+          "FullName": "Mateus Israel Silva",
+          "1aFase": {
+            "2022": 83.0
+          }
+        },
+        "audmalspibedrelreafa": {
+          "FullName": "Rafael De Almeida",
+          "1aFase": {
+            "2022": 93.0
+          }
+        },
+        "uuepbmlisrhbg": {
+          "FullName": "Miguel Henriques",
+          "1aFase": {
+            "2022": 93.0
+          }
+        },
+        "iavgmae1sllc5ieplfmlo": {
+          "FullName": "Fellip Silva Alves",
+          "1aFase": {
+            "2022": 213.0
+          }
+        },
+        "mczdiomarmvemrigle": {
+          "FullName": "Rafael Zimmer",
+          "1aFase": {
+            "2022": 213.0
+          }
         }
       },
       "Nacional": {
@@ -73368,6 +79304,10 @@ HISTORY = {
         "2013": {
           "Teams": 3,
           "BestRank": 82
+        },
+        "2022": {
+          "Teams": 3,
+          "BestRank": 80
         }
       },
       "Contestants": {
@@ -73441,6 +79381,60 @@ HISTORY = {
           "FullName": "Roberto Rodrigues",
           "Nacional": {
             "2011": 35.0
+          }
+        },
+        "eiurprcoaoxusbsmtp": {
+          "FullName": "Marcus Peixoto",
+          "1aFase": {
+            "2022": 80.0
+          }
+        },
+        "erfdpprobus": {
+          "FullName": "Pedro Simões",
+          "1aFase": {
+            "2022": 80.0
+          }
+        },
+        "ubrrsmupiaolma": {
+          "FullName": "Aluisio Amorim",
+          "1aFase": {
+            "2022": 80.0
+          }
+        },
+        "frulptrtmooseiaeab": {
+          "FullName": "Rafael Timoteo",
+          "1aFase": {
+            "2022": 150.0
+          }
+        },
+        "lttsssaeohuusrpcmba": {
+          "FullName": "Matheus Costa",
+          "1aFase": {
+            "2022": 150.0
+          }
+        },
+        "osenpruupaibhlinr": {
+          "FullName": "Luan Pereira Pinheiro",
+          "1aFase": {
+            "2022": 150.0
+          }
+        },
+        "uljepvisbraieor": {
+          "FullName": "Joel Silva",
+          "1aFase": {
+            "2022": 327.0
+          }
+        },
+        "iialsaerpdprbauekfsi": {
+          "FullName": "Felipe Akira Dias",
+          "1aFase": {
+            "2022": 327.0
+          }
+        },
+        "mursospdascuiairab": {
+          "FullName": "Mauricio Georges Silva Assad",
+          "1aFase": {
+            "2022": 327.0
           }
         }
       },
@@ -74309,6 +80303,10 @@ HISTORY = {
         "2021": {
           "Teams": 4,
           "BestRank": 158
+        },
+        "2022": {
+          "Teams": 3,
+          "BestRank": 138
         }
       },
       "Contestants": {
@@ -74623,27 +80621,31 @@ HISTORY = {
           "FullName": "Willian Leme",
           "1aFase": {
             "2020": 195.0,
-            "2021": 311.0
+            "2021": 311.0,
+            "2022": 304.0
           }
         },
         "hiupeoieartleotgepmcmdqrnaliu": {
           "FullName": "Pedro Pauletti",
           "1aFase": {
-            "2020": 298.0
+            "2020": 298.0,
+            "2022": 138.0
           }
         },
         "mstmmcgi1lluycaiao": {
           "FullName": "Lucas Kamado",
           "1aFase": {
             "2020": 298.0,
-            "2021": 158.0
+            "2021": 158.0,
+            "2022": 138.0
           }
         },
         "1gprmiao7mm5lroa39blyagic": {
           "FullName": "Gabriel Martins",
           "1aFase": {
             "2020": 298.0,
-            "2021": 158.0
+            "2021": 158.0,
+            "2022": 138.0
           }
         },
         "nviprefbiusurnioadlisuc": {
@@ -74704,6 +80706,36 @@ HISTORY = {
           "FullName": "Joaquim Amorim Nunes Junior",
           "1aFase": {
             "2021": 399.0
+          }
+        },
+        "cooguastiec1gram1lsm": {
+          "FullName": "Cesar Augusto Gomes Dos Santos",
+          "1aFase": {
+            "2022": 304.0
+          }
+        },
+        "shajlo2o1mgimci3": {
+          "FullName": "Gustavo Shoji Nishimura",
+          "1aFase": {
+            "2022": 304.0
+          }
+        },
+        "ornasnbutlogrpifouaeshdis": {
+          "FullName": "Higor Grigorio Dos Santos",
+          "1aFase": {
+            "2022": 345.0
+          }
+        },
+        "ldabadnsfnropsaetiuru": {
+          "FullName": "Raul Prado Dantas",
+          "1aFase": {
+            "2022": 345.0
+          }
+        },
+        "snneiourresrlsaudeebpf": {
+          "FullName": "Leonardo Reneres Dos Santos",
+          "1aFase": {
+            "2022": 345.0
           }
         }
       }
@@ -74891,6 +80923,10 @@ HISTORY = {
         "2021": {
           "Teams": 4,
           "BestRank": 258
+        },
+        "2022": {
+          "Teams": 5,
+          "BestRank": 154
         }
       },
       "Contestants": {
@@ -74975,7 +81011,8 @@ HISTORY = {
           "1aFase": {
             "2018": 381.0,
             "2019": 119.0,
-            "2021": 258.0
+            "2021": 258.0,
+            "2022": 301.0
           }
         },
         "gisimameprdlaoamangic": {
@@ -74983,7 +81020,8 @@ HISTORY = {
           "1aFase": {
             "2018": 381.0,
             "2019": 119.0,
-            "2021": 258.0
+            "2021": 258.0,
+            "2022": 301.0
           }
         },
         "cnomnaihcaoiiaignvngiamolt": {
@@ -75008,7 +81046,8 @@ HISTORY = {
         "ouyhaeicermnlqxreh8aoo5b": {
           "FullName": "Alex Henrique Moura",
           "1aFase": {
-            "2019": 313.0
+            "2019": 313.0,
+            "2022": 154.0
           }
         },
         "alnrmgrcifiaamciylodle": {
@@ -75059,7 +81098,8 @@ HISTORY = {
           "FullName": "Thomas Taino",
           "1aFase": {
             "2020": 274.0,
-            "2021": 360.0
+            "2021": 360.0,
+            "2022": 154.0
           }
         },
         "uiecnimghrloaaamilarcmltboi": {
@@ -75089,25 +81129,29 @@ HISTORY = {
         "lalmmocbisioygl": {
           "FullName": "Felipe Bis",
           "1aFase": {
-            "2021": 258.0
+            "2021": 258.0,
+            "2022": 301.0
           }
         },
         "fnsanoiisiidjubpaooulrasoelp": {
           "FullName": "João Pedro Pianissoli Da Silva",
           "1aFase": {
-            "2021": 319.0
+            "2021": 319.0,
+            "2022": 246.0
           }
         },
         "pls64haalomumce2sgtmeoi": {
           "FullName": "Matheus Mendonca Lopes",
           "1aFase": {
-            "2021": 319.0
+            "2021": 319.0,
+            "2022": 246.0
           }
         },
         "amomdirrleolohfcgo": {
           "FullName": "Rodolfo Henrique Raymundo Engelmann",
           "1aFase": {
-            "2021": 319.0
+            "2021": 319.0,
+            "2022": 246.0
           }
         },
         "aaogilsnloommscauaisfss": {
@@ -75119,19 +81163,46 @@ HISTORY = {
         "ucmamliamatopghroci": {
           "FullName": "Giuliano Campra",
           "1aFase": {
-            "2021": 369.0
+            "2021": 369.0,
+            "2022": 376.0
           }
         },
         "aolamcrqgjicuaydumale": {
           "FullName": "Lucy Késsila Arquejada Velasco",
           "1aFase": {
-            "2021": 369.0
+            "2021": 369.0,
+            "2022": 427.0
           }
         },
         "mecibndluoafencioagmolia": {
           "FullName": "Caio Bueno",
           "1aFase": {
-            "2021": 369.0
+            "2021": 369.0,
+            "2022": 376.0
+          }
+        },
+        "anlfrnpsoriamdrnaupubsstiadaose": {
+          "FullName": "Lucas Miranda",
+          "1aFase": {
+            "2022": 154.0
+          }
+        },
+        "tiiigniubsvnaredsuoflponanvare": {
+          "FullName": "Giovanni Trevisan",
+          "1aFase": {
+            "2022": 376.0
+          }
+        },
+        "urliipamcoencifmvllgei": {
+          "FullName": "Filipe Gomes Cruvinel",
+          "1aFase": {
+            "2022": 427.0
+          }
+        },
+        "nhiucsloubisiflpdnsdekaurrojoe": {
+          "FullName": "Julio Schendroski",
+          "1aFase": {
+            "2022": 427.0
           }
         }
       },
@@ -75625,6 +81696,10 @@ HISTORY = {
         "2021": {
           "Teams": 4,
           "BestRank": 365
+        },
+        "2022": {
+          "Teams": 3,
+          "BestRank": 380
         }
       },
       "Contestants": {
@@ -76020,6 +82095,60 @@ HISTORY = {
           "FullName": "Tobias De Castilho",
           "1aFase": {
             "2021": 400.0
+          }
+        },
+        "lmtlomtpsosukororcoe": {
+          "FullName": "João Vitor Lopes Santos",
+          "1aFase": {
+            "2022": 380.0
+          }
+        },
+        "misnalmims7oisctvaehgialt": {
+          "FullName": "Thalissa Visentim Lopes",
+          "1aFase": {
+            "2022": 380.0
+          }
+        },
+        "sribgaoiomltamsomaacc": {
+          "FullName": "Tobias Augusto Ramos De Castilho",
+          "1aFase": {
+            "2022": 380.0
+          }
+        },
+        "241brep1e9": {
+          "FullName": "Bruno Luiz Wittmann",
+          "1aFase": {
+            "2022": 430.0
+          }
+        },
+        "341brep5e9": {
+          "FullName": "Rafael De Andrade Siqueira",
+          "1aFase": {
+            "2022": 430.0
+          }
+        },
+        "teogbaglleummtcaigiiidr": {
+          "FullName": "Gabriel Guidetti",
+          "1aFase": {
+            "2022": 430.0
+          }
+        },
+        "bcaeolraikagrlmfrdogdim": {
+          "FullName": "Igor Rochelle Ferreira",
+          "1aFase": {
+            "2022": 446.0
+          }
+        },
+        "ibcomoclpiliaiemaacsglr": {
+          "FullName": "Isabelli Palma Roccia",
+          "1aFase": {
+            "2022": 446.0
+          }
+        },
+        "tmacoolmoimliaeagrsgh": {
+          "FullName": "Thais Gerolamo",
+          "1aFase": {
+            "2022": 446.0
           }
         }
       }
@@ -76937,6 +83066,10 @@ HISTORY = {
         "2021": {
           "Teams": 3,
           "BestRank": 80
+        },
+        "2022": {
+          "Teams": 7,
+          "BestRank": 109
         }
       },
       "Contestants": {
@@ -77236,7 +83369,8 @@ HISTORY = {
           "FullName": "Arissa Yoshida",
           "1aFase": {
             "2020": 170.0,
-            "2021": 106.0
+            "2021": 106.0,
+            "2022": 116.0
           }
         },
         "rmilhlooitcmlamoilsue": {
@@ -77264,7 +83398,8 @@ HISTORY = {
         "urarknpaaebsimiardmn": {
           "FullName": "Maria Angélica Miranda",
           "1aFase": {
-            "2021": 80.0
+            "2021": 80.0,
+            "2022": 109.0
           },
           "Nacional": {
             "2021": 46.0
@@ -77279,7 +83414,8 @@ HISTORY = {
         "ooeginnrmslacusespb": {
           "FullName": "Nicolas Gomes",
           "1aFase": {
-            "2021": 106.0
+            "2021": 106.0,
+            "2022": 116.0
           }
         },
         "mapheonxalmaiilitoohnc": {
@@ -77298,6 +83434,114 @@ HISTORY = {
           "FullName": "Jorge Henrique Piazentin Ono",
           "Nacional": {
             "2011": 24.0
+          }
+        },
+        "nasormelblrpicu": {
+          "FullName": "Renato Leite Camilo",
+          "1aFase": {
+            "2022": 109.0
+          }
+        },
+        "srbaaerupmsnfo": {
+          "FullName": "Arthur Francisco Ramos",
+          "1aFase": {
+            "2022": 109.0
+          }
+        },
+        "uuilielnorlmsbpres": {
+          "FullName": "Luis Morelli",
+          "1aFase": {
+            "2022": 116.0
+          }
+        },
+        "rbkpnpialouuaseo": {
+          "FullName": "Kaio Paulo",
+          "1aFase": {
+            "2022": 122.0
+          }
+        },
+        "ico1eivrieigmucmnfallsid": {
+          "FullName": "Vinicius Garcia",
+          "1aFase": {
+            "2022": 122.0
+          }
+        },
+        "arnplinlbxuseeseiscal": {
+          "FullName": "Alex Cassinelli",
+          "1aFase": {
+            "2022": 122.0
+          }
+        },
+        "lbpausennraeu": {
+          "FullName": "Luana Lima",
+          "1aFase": {
+            "2022": 157.0
+          }
+        },
+        "pa3ud2ugrorded0be0ierssuonr": {
+          "FullName": "Eduardo Rodrigues",
+          "1aFase": {
+            "2022": 157.0
+          }
+        },
+        "hukboosiaeyaphwssnirub": {
+          "FullName": "Yoshio Masuyama Shibukawa",
+          "1aFase": {
+            "2022": 157.0
+          }
+        },
+        "vlbnareuprsicveis": {
+          "FullName": "Vinicius Da Silveira",
+          "1aFase": {
+            "2022": 214.0
+          }
+        },
+        "posberssiufarnao": {
+          "FullName": "Sofia Rosa",
+          "1aFase": {
+            "2022": 214.0
+          }
+        },
+        "neerpaafmrhulbentoucsiosl": {
+          "FullName": "Manuele Sabatini Christófalo",
+          "1aFase": {
+            "2022": 214.0
+          }
+        },
+        "oeaarnarzsbdelpomnuu": {
+          "FullName": "Leonardo Azuma",
+          "1aFase": {
+            "2022": 359.0
+          }
+        },
+        "oasaeorgksokubpvdntua": {
+          "FullName": "Gustavo Kadooka",
+          "1aFase": {
+            "2022": 359.0
+          }
+        },
+        "d1cildiohakmmiegaln0ie1": {
+          "FullName": "Daniel Hideki Rocha Kanashiro",
+          "1aFase": {
+            "2022": 359.0
+          }
+        },
+        "enpecsdruounablrtnai": {
+          "FullName": "Luciano Henrique Arendt Rodrigues",
+          "1aFase": {
+            "2022": 386.0
+          }
+        },
+        "ecgiprreasbfnaluoncrb": {
+          "FullName": "Gabriel Cardoso Franco",
+          "1aFase": {
+            "2022": 386.0
+          }
+        },
+        "sabgllfuienrbhopea": {
+          "FullName": "Fábio Leal",
+          "1aFase": {
+            "2022": 386.0
           }
         }
       },
@@ -77540,6 +83784,10 @@ HISTORY = {
         "2021": {
           "Teams": 2,
           "BestRank": 373
+        },
+        "2022": {
+          "Teams": 1,
+          "BestRank": 472
         }
       },
       "Contestants": {
@@ -77816,6 +84064,24 @@ HISTORY = {
           "FullName": "Caio Ferreira Silva Dos Santos",
           "1aFase": {
             "2021": 400.0
+          }
+        },
+        "keunairupbdn9ua": {
+          "FullName": "Kauan Pinheiro Dos Santos",
+          "1aFase": {
+            "2022": 472.0
+          }
+        },
+        "unddmmi9iealahaorub": {
+          "FullName": "Ali Abbas Mohamad",
+          "1aFase": {
+            "2022": 472.0
+          }
+        },
+        "lu7omcoig0g4raim": {
+          "FullName": "Guilherme Augusto Saraiva Leite",
+          "1aFase": {
+            "2022": 472.0
           }
         }
       }
@@ -78757,6 +85023,10 @@ HISTORY = {
         "2020": {
           "Teams": 1,
           "BestRank": 271
+        },
+        "2022": {
+          "Teams": 5,
+          "BestRank": 272
         }
       },
       "Contestants": {
@@ -78796,7 +85066,8 @@ HISTORY = {
           "FullName": "William Douglas",
           "1aFase": {
             "2019": 409.0,
-            "2020": 271.0
+            "2020": 271.0,
+            "2022": 328.0
           }
         },
         "towialmtmhtnalimoalic": {
@@ -78840,7 +85111,86 @@ HISTORY = {
           "FullName": "David Almeida",
           "1aFase": {
             "2019": 609.0,
-            "2020": 271.0
+            "2020": 271.0,
+            "2022": 328.0
+          }
+        },
+        "ltag91lovgeaceimimea2m3nonc": {
+          "FullName": "Giovana Clemente",
+          "1aFase": {
+            "2022": 272.0
+          }
+        },
+        "roemlrd1apav0miolcoeicicg": {
+          "FullName": "Pedro Oliveira",
+          "1aFase": {
+            "2022": 272.0
+          }
+        },
+        "m33gc9glo8i8va9m": {
+          "FullName": "Guilherme Santos",
+          "1aFase": {
+            "2022": 272.0
+          }
+        },
+        "j98io2agac9rmmilo": {
+          "FullName": "Jairo Mendes",
+          "1aFase": {
+            "2022": 286.0
+          }
+        },
+        "comg4uas1lmcm6l208ia": {
+          "FullName": "Lucas Silva",
+          "1aFase": {
+            "2022": 286.0
+          }
+        },
+        "clicgrmmrlioeabiomg": {
+          "FullName": "Guilherme Costa",
+          "1aFase": {
+            "2022": 286.0
+          }
+        },
+        "amgqrsoemuhpaaathclierlom": {
+          "FullName": "Raphael Santos",
+          "1aFase": {
+            "2022": 299.0
+          }
+        },
+        "dirmoodammsaedgpilrcuo": {
+          "FullName": "Eduardo Rios",
+          "1aFase": {
+            "2022": 299.0
+          }
+        },
+        "elgctamiahicmaofomg": {
+          "FullName": "Thiago Silva",
+          "1aFase": {
+            "2022": 299.0
+          }
+        },
+        "lmc0iomigcmo2la1aairb7uireu": {
+          "FullName": "Mauricio Ramos",
+          "1aFase": {
+            "2022": 328.0
+          }
+        },
+        "gl40aca2oom0zgmail": {
+          "FullName": "Pedro Dota",
+          "1aFase": {
+            "2022": 428.0
+          }
+        },
+        "kn1acl2mayiiomgo00": {
+          "FullName": "Nikayo Inacio",
+          "1aFase": {
+            "2022": 428.0
+          }
+        },
+        "maistumadcololuncg": {
+          "FullName": "Lucas Tundo",
+          "1aFase": {
+            "2022": 428.0
           }
         }
       }
@@ -78858,6 +85208,10 @@ HISTORY = {
         "2020": {
           "Teams": 1,
           "BestRank": 432
+        },
+        "2022": {
+          "Teams": 2,
+          "BestRank": 406
         }
       },
       "Contestants": {
@@ -78971,6 +85325,42 @@ HISTORY = {
           "1aFase": {
             "2020": 432.0
           }
+        },
+        "mnnohvujstelioic": {
+          "FullName": "Marcos Silva",
+          "1aFase": {
+            "2022": 406.0
+          }
+        },
+        "gcaolomlmiclpiti": {
+          "FullName": "Lucas Picoli",
+          "1aFase": {
+            "2022": 406.0
+          }
+        },
+        "garptbnelfosoaumvaact": {
+          "FullName": "Ana Laura Zocca Mulato",
+          "1aFase": {
+            "2022": 406.0
+          }
+        },
+        "l09iom6mgc1el2ca49ai1it": {
+          "FullName": "Leticia Franconeto",
+          "1aFase": {
+            "2022": 508.0
+          }
+        },
+        "2adbenpfiagntasrr0acomeflv": {
+          "FullName": "Fernanda Lima",
+          "1aFase": {
+            "2022": 508.0
+          }
+        },
+        "sfpvaracrgealbeuitlcacostc": {
+          "FullName": "Lara Castelucci",
+          "1aFase": {
+            "2022": 508.0
+          }
         }
       }
     },
@@ -78987,6 +85377,10 @@ HISTORY = {
         "2021": {
           "Teams": 1,
           "BestRank": 400
+        },
+        "2022": {
+          "Teams": 1,
+          "BestRank": 340
         }
       },
       "Contestants": {
@@ -79056,6 +85450,24 @@ HISTORY = {
           "1aFase": {
             "2021": 400.0
           }
+        },
+        "lmmiaiemogbblrgemca": {
+          "FullName": "Gabriel Bocaletti Morato",
+          "1aFase": {
+            "2022": 340.0
+          }
+        },
+        "varnmnaomaoatgglieic": {
+          "FullName": "Renan Chaves",
+          "1aFase": {
+            "2022": 340.0
+          }
+        },
+        "49alc9ocimr1gooeviiatml": {
+          "FullName": "Victor Aiello",
+          "1aFase": {
+            "2022": 340.0
+          }
         }
       }
     },
@@ -79096,6 +85508,10 @@ HISTORY = {
         "2019": {
           "Teams": 1,
           "BestRank": 201
+        },
+        "2022": {
+          "Teams": 3,
+          "BestRank": 324
         }
       },
       "Contestants": {
@@ -79123,6 +85539,60 @@ HISTORY = {
           "FullName": "Felipe Gianni Bertivello",
           "1aFase": {
             "2019": 201.0
+          }
+        },
+        "nslauesmadbtarlaimcuiorarfi": {
+          "FullName": "Cristiano Moreira Do Amaral",
+          "1aFase": {
+            "2022": 324.0
+          }
+        },
+        "raisebbinbatramaudrllossveufoa": {
+          "FullName": "Renato Barbosa",
+          "1aFase": {
+            "2022": 324.0
+          }
+        },
+        "dbioasuslritvuefimnrta": {
+          "FullName": "Vitor Tanis Almeida Gonçalves",
+          "1aFase": {
+            "2022": 324.0
+          }
+        },
+        "mlsceusieaadcauuvrlfbls": {
+          "FullName": "Luccas Heinrique Alves",
+          "1aFase": {
+            "2022": 488.0
+          }
+        },
+        "mnfesnlsrafdoeiderbuuendrlaoa": {
+          "FullName": "Leonardo Fernandes",
+          "1aFase": {
+            "2022": 488.0
+          }
+        },
+        "dieatievisbpslsluarrurfoam": {
+          "FullName": "Vitor Franco Passareli",
+          "1aFase": {
+            "2022": 488.0
+          }
+        },
+        "bielimdemomklfreysuaarus": {
+          "FullName": "Kesley Henrique Pereira Amorim",
+          "1aFase": {
+            "2022": 508.0
+          }
+        },
+        "cslabumailtaseruudurdf": {
+          "FullName": "Lucas Camilo Dutra",
+          "1aFase": {
+            "2022": 508.0
+          }
+        },
+        "reouudluimtafzuilirfsblh": {
+          "FullName": "Luiz Gustavo Ferreira Da Silva Trufilho",
+          "1aFase": {
+            "2022": 508.0
           }
         }
       }
@@ -79268,6 +85738,10 @@ HISTORY = {
         "2020": {
           "Teams": 3,
           "BestRank": 194
+        },
+        "2022": {
+          "Teams": 1,
+          "BestRank": 302
         }
       },
       "Contestants": {
@@ -79376,6 +85850,24 @@ HISTORY = {
           "FullName": "Rafael Silva Mostasso",
           "1aFase": {
             "2020": 609.0
+          }
+        },
+        "car4asfsbtcv8rploftoaaege": {
+          "FullName": "Rafael Costa",
+          "1aFase": {
+            "2022": 302.0
+          }
+        },
+        "arbsseovmdfenpacrtd2nege": {
+          "FullName": "Andre Oliveira Mendes",
+          "1aFase": {
+            "2022": 302.0
+          }
+        },
+        "soplcsoaiavaoasrgbtjemf": {
+          "FullName": "João Vitor Ramos Assalim",
+          "1aFase": {
+            "2022": 302.0
           }
         }
       },
@@ -79505,6 +85997,10 @@ HISTORY = {
         "2020": {
           "Teams": 2,
           "BestRank": 234
+        },
+        "2022": {
+          "Teams": 3,
+          "BestRank": 172
         }
       },
       "Contestants": {
@@ -79538,19 +86034,58 @@ HISTORY = {
         "urgmaogdha0lttmsiec0mh7aoo": {
           "FullName": "Matheus Henrique Gotardo Pintor",
           "1aFase": {
-            "2020": 440.0
+            "2020": 440.0,
+            "2022": 172.0
           }
         },
         "gimgrmcamlvsatotuo": {
           "FullName": "Gustavo Medeiros",
           "1aFase": {
-            "2020": 440.0
+            "2020": 440.0,
+            "2022": 469.0
           }
         },
         "aliivsgcslelomlaireoumacbla": {
           "FullName": "Lucas Bolela",
           "1aFase": {
-            "2020": 440.0
+            "2020": 440.0,
+            "2022": 469.0
+          }
+        },
+        "shicsvmatorcmiiillnuocoi": {
+          "FullName": "Vinícius Crisol",
+          "1aFase": {
+            "2022": 172.0
+          }
+        },
+        "lori5igmaa9ogtdm4pchoa": {
+          "FullName": "Thiago Prado",
+          "1aFase": {
+            "2022": 172.0
+          }
+        },
+        "comrocaesmiaoairlrapmgmoan": {
+          "FullName": "Aaron Campos",
+          "1aFase": {
+            "2022": 314.0
+          }
+        },
+        "ooomrrglidarerolimcoaqfmbi": {
+          "FullName": "Rodolfo Ribeiro",
+          "1aFase": {
+            "2022": 314.0
+          }
+        },
+        "rmibodrririorcoiogqgmemaal": {
+          "FullName": "Rodrigo Ribeiro",
+          "1aFase": {
+            "2022": 314.0
+          }
+        },
+        "a3ioeuc1egolrmncmo2cl": {
+          "FullName": "Carlos Eduardo Ferreira",
+          "1aFase": {
+            "2022": 469.0
           }
         }
       },
@@ -79598,6 +86133,10 @@ HISTORY = {
         "2021": {
           "Teams": 1,
           "BestRank": 199
+        },
+        "2022": {
+          "Teams": 3,
+          "BestRank": 253
         }
       },
       "Contestants": {
@@ -79666,6 +86205,60 @@ HISTORY = {
           "FullName": "Miguel Silva",
           "1aFase": {
             "2021": 199.0
+          }
+        },
+        "uranbslienpogecarsrba": {
+          "FullName": "Gabriel De Oliveira",
+          "1aFase": {
+            "2022": 253.0
+          }
+        },
+        "oolmaasjinlpeernbu": {
+          "FullName": "João Millane",
+          "1aFase": {
+            "2022": 253.0
+          }
+        },
+        "ajsreuupnheanrcbo": {
+          "FullName": "Jean Achour",
+          "1aFase": {
+            "2022": 253.0
+          }
+        },
+        "urarenpenebshpeaprdi": {
+          "FullName": "Daphne Pereira",
+          "1aFase": {
+            "2022": 332.0
+          }
+        },
+        "cnaesbaplvnseuorug": {
+          "FullName": "Lucas Genova",
+          "1aFase": {
+            "2022": 332.0
+          }
+        },
+        "jbbvessvrusenup": {
+          "FullName": "Bruno De Jesus",
+          "1aFase": {
+            "2022": 332.0
+          }
+        },
+        "leeuuogepdssrnabap": {
+          "FullName": "Paola Bacca",
+          "1aFase": {
+            "2022": 496.0
+          }
+        },
+        "raranzaascnlevcpubiu": {
+          "FullName": "Luiza Cavarcan",
+          "1aFase": {
+            "2022": 496.0
+          }
+        },
+        "sbnnaiiaapsbsaruce": {
+          "FullName": "Bianca Aissa Santos",
+          "1aFase": {
+            "2022": 496.0
           }
         }
       }
@@ -79955,6 +86548,10 @@ HISTORY = {
         "2021": {
           "Teams": 3,
           "BestRank": 292
+        },
+        "2022": {
+          "Teams": 2,
+          "BestRank": 298
         }
       },
       "Contestants": {
@@ -80009,7 +86606,38 @@ HISTORY = {
         "m0adca6csgedauaomr1lot6i": {
           "FullName": "Eduarda Ferreira Costa",
           "1aFase": {
-            "2021": 389.0
+            "2021": 389.0,
+            "2022": 377.0
+          }
+        },
+        "oasaiamgmlrsgocvaumtuo": {
+          "FullName": "Gustavo Moura",
+          "1aFase": {
+            "2022": 298.0
+          }
+        },
+        "riomc1eioo0gtlcvrcampam": {
+          "FullName": "Victor Precoma",
+          "1aFase": {
+            "2022": 298.0
+          }
+        },
+        "glmcldmaepidporrfooa": {
+          "FullName": "Pedro Lemos",
+          "1aFase": {
+            "2022": 298.0
+          }
+        },
+        "camveiydaumsdvloignearol": {
+          "FullName": "Evandro Ribeiro",
+          "1aFase": {
+            "2022": 377.0
+          }
+        },
+        "crgmoaijyalgemoc": {
+          "FullName": "Joyce Abrantes",
+          "1aFase": {
+            "2022": 377.0
           }
         }
       }
@@ -80019,6 +86647,10 @@ HISTORY = {
         "2021": {
           "Teams": 1,
           "BestRank": 400
+        },
+        "2022": {
+          "Teams": 1,
+          "BestRank": 507
         }
       },
       "Contestants": {
@@ -80038,6 +86670,24 @@ HISTORY = {
           "FullName": "Vinicius Pereira Lucchesi",
           "1aFase": {
             "2021": 400.0
+          }
+        },
+        "mcalitroiivmtamoh1ovl": {
+          "FullName": "Vitor Valim",
+          "1aFase": {
+            "2022": 507.0
+          }
+        },
+        "noptmueoroskcdpoloplohve": {
+          "FullName": "Pedro Henrique Lopes Negreiros Vieira Pinto",
+          "1aFase": {
+            "2022": 507.0
+          }
+        },
+        "mgrocmpeihtaliararof": {
+          "FullName": "Gustavo Pereira De Avila Ferrari",
+          "1aFase": {
+            "2022": 507.0
           }
         }
       }
@@ -80222,6 +86872,162 @@ HISTORY = {
           "FullName": "Vinicius Henrique Aurichio",
           "Nacional": {
             "2012": 21.0
+          }
+        }
+      }
+    },
+    "Insper Institute of Education and Research": {
+      "1aFase": {
+        "2022": {
+          "Teams": 5,
+          "BestRank": 111
+        }
+      },
+      "Contestants": {
+        "siitebturlldaefanespr": {
+          "FullName": "Tales Ivalque Taveira De Freitas",
+          "1aFase": {
+            "2022": 111.0
+          }
+        },
+        "rubuairsneinpvisef2ridlc": {
+          "FullName": "Vinicius Freitas",
+          "1aFase": {
+            "2022": 111.0
+          }
+        },
+        "zeipdfrar1lbneruetsriba": {
+          "FullName": "Beatriz Freitas",
+          "1aFase": {
+            "2022": 111.0
+          }
+        },
+        "rrssecddlnuierespagba": {
+          "FullName": "Esdras Carvalho",
+          "1aFase": {
+            "2022": 202.0
+          }
+        },
+        "majaatueeeisphsrunlrbd": {
+          "FullName": "Matheus Jesus",
+          "1aFase": {
+            "2022": 202.0
+          }
+        },
+        "ronualergvu9psbastdeia": {
+          "FullName": "Gustavo Antony De Assis",
+          "1aFase": {
+            "2022": 202.0
+          }
+        },
+        "herassbsetpunmaurdemiol": {
+          "FullName": "Matheus Oliveira",
+          "1aFase": {
+            "2022": 233.0
+          }
+        },
+        "vrgeruripobljneadsao": {
+          "FullName": "Joao Rocha",
+          "1aFase": {
+            "2022": 233.0
+          }
+        },
+        "saediroerircalspebnu": {
+          "FullName": "Caio Rocha",
+          "1aFase": {
+            "2022": 233.0
+          }
+        },
+        "osuhcctraseledampisbrn": {
+          "FullName": "Thomas Souza",
+          "1aFase": {
+            "2022": 238.0
+          }
+        },
+        "dciprlalbnushcacereu": {
+          "FullName": "Lucca Hiratsuca",
+          "1aFase": {
+            "2022": 238.0
+          }
+        },
+        "fpmlleiareneidusd1rbpec": {
+          "FullName": "Felipe Maluli De Carvalho Dias",
+          "1aFase": {
+            "2022": 238.0
+          }
+        },
+        "sdmuaneailenar2lbrp": {
+          "FullName": "Alan Barbosa",
+          "1aFase": {
+            "2022": 458.0
+          }
+        },
+        "eebaitpruvsinr1ilald": {
+          "FullName": "Livia Tanaka",
+          "1aFase": {
+            "2022": 458.0
+          }
+        },
+        "nnriprsvaeodbnrafeuse4dl": {
+          "FullName": "Fernando Santos",
+          "1aFase": {
+            "2022": 458.0
+          }
+        }
+      }
+    },
+    "Institute for Technological Research of the State of São Paulo": {
+      "1aFase": {
+        "2022": {
+          "Teams": 1,
+          "BestRank": 477
+        }
+      },
+      "Contestants": {
+        "sumlorgaemscoccei": {
+          "FullName": "Mauro Leite",
+          "1aFase": {
+            "2022": 477.0
+          }
+        },
+        "iams7eoalmctavmaupimg": {
+          "FullName": "Mateus Marques",
+          "1aFase": {
+            "2022": 477.0
+          }
+        },
+        "kekoymoacitalioviamgta": {
+          "FullName": "Otavio Nicesio",
+          "1aFase": {
+            "2022": 477.0
+          }
+        }
+      }
+    },
+    "Universidade Estadual Paulista Unesp Rio Claro": {
+      "1aFase": {
+        "2022": {
+          "Teams": 1,
+          "BestRank": 85
+        }
+      },
+      "Contestants": {
+        "fsoaeplaurpibiesbne": {
+          "FullName": "Felipe Saboia",
+          "1aFase": {
+            "2022": 85.0
+          }
+        },
+        "plmlbliuebrnsorue": {
+          "FullName": "Murilo Missano Bell",
+          "1aFase": {
+            "2022": 85.0
+          }
+        },
+        "fbnpiyrdueeualsar": {
+          "FullName": "Rafael Fuziyama",
+          "1aFase": {
+            "2022": 85.0
           }
         }
       }
@@ -80829,6 +87635,10 @@ HISTORY = {
         "2021": {
           "Teams": 6,
           "BestRank": 126
+        },
+        "2022": {
+          "Teams": 5,
+          "BestRank": 158
         }
       },
       "Contestants": {
@@ -81301,7 +88111,8 @@ HISTORY = {
             "2018": 421.0,
             "2019": 241.0,
             "2020": 291.0,
-            "2021": 188.0
+            "2021": 188.0,
+            "2022": 259.0
           }
         },
         "hmatloarnreohimcaiomsca": {
@@ -81418,7 +88229,8 @@ HISTORY = {
           "FullName": "Victor Almeida",
           "1aFase": {
             "2020": 474.0,
-            "2021": 202.0
+            "2021": 202.0,
+            "2022": 259.0
           }
         },
         "aidahoemgnoetratlsolvolcm": {
@@ -81448,25 +88260,88 @@ HISTORY = {
         "lgmpag00arboiceaigm20l": {
           "FullName": "Gabriel Pereira De Araújo",
           "1aFase": {
-            "2021": 364.0
+            "2021": 364.0,
+            "2022": 226.0
           }
         },
         "rovomaraogiscimlsfia": {
           "FullName": "Sofia Zanette Rovaris",
           "1aFase": {
-            "2021": 364.0
+            "2021": 364.0,
+            "2022": 226.0
           }
         },
         "rootaoolcaikimoizvuctas": {
           "FullName": "Victória Zaias",
           "1aFase": {
-            "2021": 364.0
+            "2021": 364.0,
+            "2022": 226.0
           }
         },
         "rman6alicemacon0imeag": {
           "FullName": "Ana Paula Merencia",
           "1aFase": {
             "2021": 400.0
+          }
+        },
+        "sgcianwamokamgslila": {
+          "FullName": "Aliana Wakassugui De Paula E Silva",
+          "1aFase": {
+            "2022": 158.0
+          }
+        },
+        "eaacorkmugabgnolleiarmrip": {
+          "FullName": "Paula Regina Nascimento Korber",
+          "1aFase": {
+            "2022": 158.0
+          }
+        },
+        "mwgmsacoiiolrsalagln": {
+          "FullName": "Larissa Lewartoski Wong",
+          "1aFase": {
+            "2022": 158.0
+          }
+        },
+        "omtgliacsoaoiimcuammrld": {
+          "FullName": "Lucas Tomio Darim",
+          "1aFase": {
+            "2022": 254.0
+          }
+        },
+        "tgaoyexliilgemmiacaaar": {
+          "FullName": "Gustavo Ayala",
+          "1aFase": {
+            "2022": 254.0
+          }
+        },
+        "gonclnyacllmyomni": {
+          "FullName": "Lyncon Baez",
+          "1aFase": {
+            "2022": 254.0
+          }
+        },
+        "eubeplnsunooidjaestar": {
+          "FullName": "Jedson Gabriel Ferreira De Paula",
+          "1aFase": {
+            "2022": 259.0
+          }
+        },
+        "lgcougmcsgaovnediisauommt": {
+          "FullName": "Gustavo Camargo Domingues",
+          "1aFase": {
+            "2022": 271.0
+          }
+        },
+        "mfifpoftalmloeeigoollc": {
+          "FullName": "Fellipe Toffolo De Souza",
+          "1aFase": {
+            "2022": 271.0
+          }
+        },
+        "jrsoimaipemgnocl": {
+          "FullName": "João Pedro Niero Da Silva",
+          "1aFase": {
+            "2022": 271.0
           }
         }
       },
@@ -81494,6 +88369,10 @@ HISTORY = {
         "2020": {
           "Teams": 3,
           "BestRank": 242
+        },
+        "2022": {
+          "Teams": 1,
+          "BestRank": 424
         }
       },
       "Contestants": {
@@ -81682,7 +88561,20 @@ HISTORY = {
         "ruoeietafsoyesldroiruolpbe": {
           "FullName": "Felipe Abrahão",
           "1aFase": {
-            "2020": 313.0
+            "2020": 313.0,
+            "2022": 424.0
+          }
+        },
+        "omaioiotvagitrocmlijukk": {
+          "FullName": "Joao Vitor Kikuti",
+          "1aFase": {
+            "2022": 424.0
+          }
+        },
+        "mcuk1alsioocmalagi": {
+          "FullName": "Lucas Shin-iti Aoki",
+          "1aFase": {
+            "2022": 424.0
           }
         }
       }
@@ -81880,6 +88772,10 @@ HISTORY = {
         "2021": {
           "Teams": 5,
           "BestRank": 282
+        },
+        "2022": {
+          "Teams": 3,
+          "BestRank": 220
         }
       },
       "Contestants": {
@@ -82138,21 +89034,24 @@ HISTORY = {
           "1aFase": {
             "2019": 621.0,
             "2020": 249.0,
-            "2021": 282.0
+            "2021": 282.0,
+            "2022": 220.0
           }
         },
         "hhztgmciacuiwsamrmelseokoo": {
           "FullName": "Matheus Partika Orzechowski",
           "1aFase": {
             "2020": 249.0,
-            "2021": 282.0
+            "2021": 282.0,
+            "2022": 220.0
           }
         },
         "a97miconrlldiigamalebsn": {
           "FullName": "Daniel Machado Brasil",
           "1aFase": {
             "2020": 249.0,
-            "2021": 282.0
+            "2021": 282.0,
+            "2022": 220.0
           }
         },
         "uoigmcgbaomrkl": {
@@ -82166,7 +89065,8 @@ HISTORY = {
           "FullName": "Eric Militão",
           "1aFase": {
             "2020": 351.0,
-            "2021": 352.0
+            "2021": 352.0,
+            "2022": 323.0
           }
         },
         "croomkamciaizaloejpga": {
@@ -82234,7 +89134,32 @@ HISTORY = {
         "otlarnocuoasooorcynamkt": {
           "FullName": "Yorranan Costa",
           "1aFase": {
-            "2021": 400.0
+            "2021": 400.0,
+            "2022": 323.0
+          }
+        },
+        "ocvaacgcpyrkircommeolsimz": {
+          "FullName": "Marcos Vinicius Procykevicz",
+          "1aFase": {
+            "2022": 270.0
+          }
+        },
+        "iefcloxmaelgdmmnl4i7e": {
+          "FullName": "Mendel Felix Da Silva",
+          "1aFase": {
+            "2022": 270.0
+          }
+        },
+        "tiufeieagprlicoplmmec": {
+          "FullName": "Felipe Peruci",
+          "1aFase": {
+            "2022": 270.0
+          }
+        },
+        "coseisacuilgimtnaisdhm": {
+          "FullName": "Carlos Stachissini",
+          "1aFase": {
+            "2022": 323.0
           }
         }
       }
@@ -82390,6 +89315,10 @@ HISTORY = {
         "2021": {
           "Teams": 2,
           "BestRank": 62
+        },
+        "2022": {
+          "Teams": 4,
+          "BestRank": 39
         }
       },
       "Contestants": {
@@ -82623,7 +89552,8 @@ HISTORY = {
             "2017": 273.0,
             "2019": 167.0,
             "2020": 33.0,
-            "2021": 79.0
+            "2021": 79.0,
+            "2022": 39.0
           },
           "Nacional": {
             "2020": 45.0
@@ -82662,14 +89592,16 @@ HISTORY = {
         "arcalinatomumgmrth": {
           "FullName": "Arthur Antonietto",
           "1aFase": {
-            "2019": 167.0
+            "2019": 167.0,
+            "2022": 92.0
           }
         },
         "fprnrgbaf81puir": {
           "FullName": "Raul Almeida",
           "1aFase": {
             "2019": 167.0,
-            "2021": 79.0
+            "2021": 79.0,
+            "2022": 39.0
           }
         },
         "frbffprjwupvin18": {
@@ -82683,7 +89615,8 @@ HISTORY = {
           "1aFase": {
             "2019": 269.0,
             "2020": 142.0,
-            "2021": 62.0
+            "2021": 62.0,
+            "2022": 42.0
           },
           "Nacional": {
             "2021": 45.0
@@ -82704,7 +89637,8 @@ HISTORY = {
         "paeoircmptorimlnliioag": {
           "FullName": "Pietro Cavassin",
           "1aFase": {
-            "2020": 142.0
+            "2020": 142.0,
+            "2022": 42.0
           }
         },
         "bkprshif0f2upnr": {
@@ -82755,7 +89689,8 @@ HISTORY = {
         "miktgataamerlocdia": {
           "FullName": "Vinicius Tikara Venturi Date",
           "1aFase": {
-            "2021": 62.0
+            "2021": 62.0,
+            "2022": 42.0
           },
           "Nacional": {
             "2021": 45.0
@@ -82764,7 +89699,8 @@ HISTORY = {
         "soapquecdilgimouaoretm": {
           "FullName": "Pedro Vinicius Sousa Da Silva",
           "1aFase": {
-            "2021": 79.0
+            "2021": 79.0,
+            "2022": 39.0
           }
         },
         "vrrafliuoirrpniftbe": {
@@ -82799,6 +89735,36 @@ HISTORY = {
           "FullName": "Rafael Tibães",
           "Nacional": {
             "2012": 11.0
+          }
+        },
+        "rf91rfupsbnifcb": {
+          "FullName": "Bryan Fellipe",
+          "1aFase": {
+            "2022": 92.0
+          }
+        },
+        "cnmirmoooalcigaigsm": {
+          "FullName": "Nico Iancoski Guimarães Ramos",
+          "1aFase": {
+            "2022": 92.0
+          }
+        },
+        "auaelmgdcalomiv": {
+          "FullName": "Eduardo Vudala Senoski",
+          "1aFase": {
+            "2022": 163.0
+          }
+        },
+        "oiuamnacgioolecgbm": {
+          "FullName": "Carlos Iago Bueno",
+          "1aFase": {
+            "2022": 163.0
+          }
+        },
+        "amileumlrgoeddscv": {
+          "FullName": "Gabriel Lüders",
+          "1aFase": {
+            "2022": 163.0
           }
         }
       },
@@ -83908,6 +90874,10 @@ HISTORY = {
         "2021": {
           "Teams": 3,
           "BestRank": 151
+        },
+        "2022": {
+          "Teams": 3,
+          "BestRank": 112
         }
       },
       "Contestants": {
@@ -84228,7 +91198,8 @@ HISTORY = {
           "1aFase": {
             "2019": 579.0,
             "2020": 256.0,
-            "2021": 151.0
+            "2021": 151.0,
+            "2022": 112.0
           }
         },
         "hroogme1misroca8mlj": {
@@ -84236,7 +91207,8 @@ HISTORY = {
           "1aFase": {
             "2019": 579.0,
             "2020": 256.0,
-            "2021": 151.0
+            "2021": 151.0,
+            "2022": 112.0
           }
         },
         "72era15rb1m6u": {
@@ -84244,28 +91216,32 @@ HISTORY = {
           "1aFase": {
             "2019": 579.0,
             "2020": 256.0,
-            "2021": 151.0
+            "2021": 151.0,
+            "2022": 112.0
           }
         },
         "1e5u5m3r71rab": {
           "FullName": "Sergio Alvarez",
           "1aFase": {
             "2020": 475.0,
-            "2021": 363.0
+            "2021": 363.0,
+            "2022": 165.0
           }
         },
         "61rbu8a11r2em": {
           "FullName": "Gabriel Vendrame",
           "1aFase": {
             "2020": 475.0,
-            "2021": 363.0
+            "2021": 363.0,
+            "2022": 165.0
           }
         },
         "bugimpanalooigcicamn": {
           "FullName": "Guilherme Ferrari",
           "1aFase": {
             "2020": 475.0,
-            "2021": 363.0
+            "2021": 363.0,
+            "2022": 165.0
           }
         },
         "80r8a9m1eu5br": {
@@ -84284,6 +91260,24 @@ HISTORY = {
           "FullName": "Vítor Silva",
           "1aFase": {
             "2021": 288.0
+          }
+        },
+        "1e8u5m3r11rab": {
+          "FullName": "Renan Leonel",
+          "1aFase": {
+            "2022": 189.0
+          }
+        },
+        "93era23rb1m6u": {
+          "FullName": "William Vernaschi",
+          "1aFase": {
+            "2022": 189.0
+          }
+        },
+        "a2rb0m4r67eu1": {
+          "FullName": "William Tsutumi",
+          "1aFase": {
+            "2022": 189.0
           }
         }
       },
@@ -84774,6 +91768,10 @@ HISTORY = {
         "2021": {
           "Teams": 6,
           "BestRank": 89
+        },
+        "2022": {
+          "Teams": 2,
+          "BestRank": 105
         }
       },
       "Contestants": {
@@ -84796,7 +91794,8 @@ HISTORY = {
             "2018": 411.0,
             "2019": 529.0,
             "2020": 114.0,
-            "2021": 89.0
+            "2021": 89.0,
+            "2022": 105.0
           },
           "Nacional": {
             "2021": 48.0
@@ -84807,7 +91806,8 @@ HISTORY = {
           "1aFase": {
             "2019": 529.0,
             "2020": 114.0,
-            "2021": 89.0
+            "2021": 89.0,
+            "2022": 105.0
           },
           "Nacional": {
             "2021": 48.0
@@ -84838,7 +91838,8 @@ HISTORY = {
           "FullName": "Douglas Carvalho",
           "1aFase": {
             "2020": 114.0,
-            "2021": 89.0
+            "2021": 89.0,
+            "2022": 105.0
           },
           "Nacional": {
             "2021": 48.0
@@ -84883,7 +91884,8 @@ HISTORY = {
         "4olvlmm7cseaacrlognig": {
           "FullName": "Lucas Roberto",
           "1aFase": {
-            "2021": 287.0
+            "2021": 287.0,
+            "2022": 262.0
           }
         },
         "jiceaiholatnnmvfom": {
@@ -84901,7 +91903,8 @@ HISTORY = {
         "domulkgaiiisremzcby": {
           "FullName": "Yuri Vacelh Zamulhak Zdebski",
           "1aFase": {
-            "2021": 371.0
+            "2021": 371.0,
+            "2022": 262.0
           }
         },
         "horoemactihnkclima": {
@@ -84913,7 +91916,8 @@ HISTORY = {
         "igeokdldupsmmararnaiiecwso": {
           "FullName": "Eduardo Prasniewski",
           "1aFase": {
-            "2021": 371.0
+            "2021": 371.0,
+            "2022": 262.0
           }
         },
         "u5bmcabglo5ngemrloioarir": {
@@ -85019,6 +92023,10 @@ HISTORY = {
         "2021": {
           "Teams": 6,
           "BestRank": 58
+        },
+        "2022": {
+          "Teams": 8,
+          "BestRank": 70
         }
       },
       "Contestants": {
@@ -85048,7 +92056,8 @@ HISTORY = {
           "1aFase": {
             "2019": 109.0,
             "2020": 93.0,
-            "2021": 58.0
+            "2021": 58.0,
+            "2022": 70.0
           },
           "Nacional": {
             "2020": 44.0
@@ -85155,7 +92164,8 @@ HISTORY = {
         "datbpiduounbreugslleirogohnrfa": {
           "FullName": "Gabriel Godinho",
           "1aFase": {
-            "2021": 130.0
+            "2021": 130.0,
+            "2022": 71.0
           }
         },
         "biut1pna20ruaafsele9mdlorud": {
@@ -85228,6 +92238,138 @@ HISTORY = {
           "FullName": "Gustavo Pasqualli",
           "1aFase": {
             "2021": 400.0
+          }
+        },
+        "fuanfrprueodacanelsubott": {
+          "FullName": "Fernando Henrique Ratusznei Caetano",
+          "1aFase": {
+            "2022": 70.0
+          }
+        },
+        "hlaacseosamcgbgacriolilbm": {
+          "FullName": "Gabriel Cassol Bach",
+          "1aFase": {
+            "2022": 70.0
+          }
+        },
+        "lohckmcaofyuetiarmumia": {
+          "FullName": "Eric Fukuyama",
+          "1aFase": {
+            "2022": 71.0
+          }
+        },
+        "ltouemstpolocargdaatorouigm": {
+          "FullName": "Pedro Tortola Pereira",
+          "1aFase": {
+            "2022": 71.0
+          }
+        },
+        "lgcamamrohoicugk": {
+          "FullName": "Victor Mota",
+          "1aFase": {
+            "2022": 94.0
+          }
+        },
+        "uoduhrlalvauaspbotfrsctrheain": {
+          "FullName": "Thaís Say De Carvalho",
+          "1aFase": {
+            "2022": 94.0
+          }
+        },
+        "crsmvloamogdmadreeeninb": {
+          "FullName": "Bernardo Mendes",
+          "1aFase": {
+            "2022": 94.0
+          }
+        },
+        "caatvmimroiorrelhcgtott": {
+          "FullName": "Victor Garrett",
+          "1aFase": {
+            "2022": 124.0
+          }
+        },
+        "mnuchoiaijmagmtiaallo": {
+          "FullName": "Ana Julia De Paula Militão",
+          "1aFase": {
+            "2022": 124.0
+          }
+        },
+        "mugmgacsiiolroyoderk": {
+          "FullName": "Rodrigo Yamauchi",
+          "1aFase": {
+            "2022": 124.0
+          }
+        },
+        "leuosnemrparrbujtatsoonduafo": {
+          "FullName": "João Sarmento",
+          "1aFase": {
+            "2022": 170.0
+          }
+        },
+        "fcaaureooabtldrurcnhposui": {
+          "FullName": "Caio Andrade",
+          "1aFase": {
+            "2022": 170.0
+          }
+        },
+        "pfdouosnrbumruraietalmd": {
+          "FullName": "Mateus Vinícios Franceschetto Marodim",
+          "1aFase": {
+            "2022": 170.0
+          }
+        },
+        "eprnatbclgfoulnurdeasuo": {
+          "FullName": "Ângelo Emanuel Marques Costa",
+          "1aFase": {
+            "2022": 266.0
+          }
+        },
+        "mmis0bagayosromlecin1": {
+          "FullName": "Moisés Bryan Carneiro Roja",
+          "1aFase": {
+            "2022": 266.0
+          }
+        },
+        "edap0gersun2uubafs1o0doonstlrti": {
+          "FullName": "Diego Santos",
+          "1aFase": {
+            "2022": 266.0
+          }
+        },
+        "asrrsg0io4lsseamcloaa0mi": {
+          "FullName": "Larissa Soares",
+          "1aFase": {
+            "2022": 501.0
+          }
+        },
+        "uibptlrfoeurodaelrarnafuassdpa": {
+          "FullName": "Rafael Pasdiora Cardozo",
+          "1aFase": {
+            "2022": 501.0
+          }
+        },
+        "neprahsauagutoabntfriussurrlndm": {
+          "FullName": "Arthur Vieira",
+          "1aFase": {
+            "2022": 501.0
+          }
+        },
+        "naictmaglhmridoooucm": {
+          "FullName": "Gustavo Raimundo",
+          "1aFase": {
+            "2022": 508.0
+          }
+        },
+        "iionadthtommnlaidljotirecau": {
+          "FullName": "Júlio Tinti De Andrade",
+          "1aFase": {
+            "2022": 508.0
+          }
+        },
+        "maileuocmi1cagih0jir": {
+          "FullName": "Eric Mei",
+          "1aFase": {
+            "2022": 508.0
           }
         }
       },
@@ -85335,6 +92477,52 @@ HISTORY = {
           "FullName": "Micaela Diniz",
           "Nacional": {
             "2017": 69.0
+          }
+        }
+      }
+    },
+    "Centro de Ensino Integrado de Campo Mourão": {
+      "1aFase": {
+        "2022": {
+          "Teams": 2,
+          "BestRank": 499
+        }
+      },
+      "Contestants": {
+        "laptromdcaugugiiansrrbgacroere": {
+          "FullName": "Marcus Calegari",
+          "1aFase": {
+            "2022": 499.0
+          }
+        },
+        "orurugrprizantbagotleoirbde": {
+          "FullName": "Luiz Barreto",
+          "1aFase": {
+            "2022": 499.0
+          }
+        },
+        "tmpuogiudheggobrierrerrlvan": {
+          "FullName": "Guilherme Vieira",
+          "1aFase": {
+            "2022": 499.0
+          }
+        },
+        "biprlpugitsearpogadoatanro": {
+          "FullName": "Paola Sensato Pasti",
+          "1aFase": {
+            "2022": 505.0
+          }
+        },
+        "dprrtaamnebsgtgueougorreio": {
+          "FullName": "Mateus Rego",
+          "1aFase": {
+            "2022": 505.0
+          }
+        },
+        "rerokttrulbabegrrgooneiigpdul": {
+          "FullName": "Kleber Trugilo",
+          "1aFase": {
+            "2022": 505.0
           }
         }
       }
@@ -85609,6 +92797,10 @@ HISTORY = {
         "2021": {
           "Teams": 4,
           "BestRank": 147
+        },
+        "2022": {
+          "Teams": 3,
+          "BestRank": 100
         }
       },
       "Contestants": {
@@ -85921,7 +93113,8 @@ HISTORY = {
           "1aFase": {
             "2019": 138.0,
             "2020": 145.0,
-            "2021": 147.0
+            "2021": 147.0,
+            "2022": 103.0
           }
         },
         "aiapesgmmlouarvmalcctliriapiee": {
@@ -85965,7 +93158,8 @@ HISTORY = {
           "FullName": "Mateus Pietro",
           "1aFase": {
             "2020": 145.0,
-            "2021": 147.0
+            "2021": 147.0,
+            "2022": 100.0
           }
         },
         "cisiaeslovllbecgammaolt": {
@@ -86023,7 +93217,8 @@ HISTORY = {
         "dg0udmvaen0ologlectiaaira22mse": {
           "FullName": "Eduardo Evangelista",
           "1aFase": {
-            "2021": 172.0
+            "2021": 172.0,
+            "2022": 100.0
           }
         },
         "iziucmagaazorolkmt": {
@@ -86041,7 +93236,8 @@ HISTORY = {
         "mnlaamrsituaohmcmeiusig": {
           "FullName": "Mateus Fonseca",
           "1aFase": {
-            "2021": 254.0
+            "2021": 254.0,
+            "2022": 100.0
           }
         },
         "ooacmitllaglbima": {
@@ -86060,6 +93256,36 @@ HISTORY = {
           "FullName": "Rodrigo Ruas Oliveira",
           "Nacional": {
             "2009": 34.0
+          }
+        },
+        "ovrhoraomycuyioact": {
+          "FullName": "Victor Aury Freitas",
+          "1aFase": {
+            "2022": 103.0
+          }
+        },
+        "gookarilrslabtbbebocbgomguao": {
+          "FullName": "Gabriel Barbosa",
+          "1aFase": {
+            "2022": 103.0
+          }
+        },
+        "dmvllemeogrdluiascamaaaara": {
+          "FullName": "Eduarda Alves Amaral",
+          "1aFase": {
+            "2022": 508.0
+          }
+        },
+        "cooaefnirgmoguptallum": {
+          "FullName": "Paulo Renato Neto",
+          "1aFase": {
+            "2022": 508.0
+          }
+        },
+        "odmonlcalatmibouahcaoorgmb": {
+          "FullName": "Bruno Machado Lobato",
+          "1aFase": {
+            "2022": 508.0
           }
         }
       },
@@ -86559,6 +93785,10 @@ HISTORY = {
         "2020": {
           "Teams": 1,
           "BestRank": 355
+        },
+        "2022": {
+          "Teams": 2,
+          "BestRank": 82
         }
       },
       "Contestants": {
@@ -86767,6 +93997,42 @@ HISTORY = {
           "Nacional": {
             "2012": 46.0
           }
+        },
+        "follmfharbngsiu": {
+          "FullName": "Luiz Lago",
+          "1aFase": {
+            "2022": 82.0
+          }
+        },
+        "esrbcimfihufsbrrnbm": {
+          "FullName": "Bento Schirmer",
+          "1aFase": {
+            "2022": 82.0
+          }
+        },
+        "tcmisrnnmiffshutib": {
+          "FullName": "Natã Schmitt",
+          "1aFase": {
+            "2022": 82.0
+          }
+        },
+        "enoeorgvzclmeeoinzma": {
+          "FullName": "Enzo Veroneze",
+          "1aFase": {
+            "2022": 223.0
+          }
+        },
+        "roanommenzpgflrcpdaeoiz": {
+          "FullName": "Fernando Pozzer",
+          "1aFase": {
+            "2022": 223.0
+          }
+        },
+        "iia4r2ntemelompirlgocda": {
+          "FullName": "Andriel Prieto",
+          "1aFase": {
+            "2022": 223.0
+          }
         }
       },
       "Nacional": {
@@ -86821,6 +94087,10 @@ HISTORY = {
         "2021": {
           "Teams": 5,
           "BestRank": 54
+        },
+        "2022": {
+          "Teams": 8,
+          "BestRank": 49
         }
       },
       "Contestants": {
@@ -87301,7 +94571,8 @@ HISTORY = {
         "llgcuixmmbnaraoomc": {
           "FullName": "Bruno Corrêa De Almeida",
           "1aFase": {
-            "2019": 342.0
+            "2019": 342.0,
+            "2022": 133.0
           }
         },
         "toii9fhomrmo7lcbga": {
@@ -87370,7 +94641,8 @@ HISTORY = {
           "FullName": "Rodrigo Bervig Rocha",
           "1aFase": {
             "2020": 117.0,
-            "2021": 54.0
+            "2021": 54.0,
+            "2022": 49.0
           },
           "Nacional": {
             "2021": 41.0
@@ -87380,7 +94652,8 @@ HISTORY = {
           "FullName": "Arthur Hoff",
           "1aFase": {
             "2020": 239.0,
-            "2021": 73.0
+            "2021": 73.0,
+            "2022": 69.0
           }
         },
         "ztgntmcoanaigaasdmolgiohoa": {
@@ -87412,7 +94685,8 @@ HISTORY = {
         "orteamlearligcpmhyaf": {
           "FullName": "Rafael Humann Petry",
           "1aFase": {
-            "2020": 260.0
+            "2020": 260.0,
+            "2022": 55.0
           }
         },
         "rrnrucseacfiobfmmrg": {
@@ -87463,7 +94737,8 @@ HISTORY = {
           "FullName": "Matheus Oliveira Mews",
           "1aFase": {
             "2020": 473.0,
-            "2021": 73.0
+            "2021": 73.0,
+            "2022": 69.0
           }
         },
         "oaoebcsuorolumlwtcksm": {
@@ -87484,7 +94759,8 @@ HISTORY = {
         "gbfrnsafncrfosufgie": {
           "FullName": "Gabriel Fagundes Da Fonseca",
           "1aFase": {
-            "2021": 54.0
+            "2021": 54.0,
+            "2022": 49.0
           },
           "Nacional": {
             "2021": 41.0
@@ -87585,6 +94861,114 @@ HISTORY = {
           "FullName": "Leonardo Piletti Chatain",
           "Nacional": {
             "2012": 12.0
+          }
+        },
+        "imoardalmhlctgmeo": {
+          "FullName": "Léo Marco De Assis Hardt",
+          "1aFase": {
+            "2022": 49.0
+          }
+        },
+        "saaicigmlnvsfrrfbu": {
+          "FullName": "Marco Antônio Chitolina Da Silva",
+          "1aFase": {
+            "2022": 55.0
+          }
+        },
+        "hurasircabfnffglf": {
+          "FullName": "Augusto Falcão Flach",
+          "1aFase": {
+            "2022": 55.0
+          }
+        },
+        "grcifdunsenufsnrb": {
+          "FullName": "Diego Cardoso Nunes",
+          "1aFase": {
+            "2022": 69.0
+          }
+        },
+        "ndfespbsgrlimeuenfr": {
+          "FullName": "Luís Eduardo Pereira Mendes",
+          "1aFase": {
+            "2022": 101.0
+          }
+        },
+        "nffaposgiplurribm": {
+          "FullName": "Pedro Poli Miola",
+          "1aFase": {
+            "2022": 101.0
+          }
+        },
+        "iferaabsnirnmuusagfgr": {
+          "FullName": "Nathan Alonso Guimarães",
+          "1aFase": {
+            "2022": 101.0
+          }
+        },
+        "ocdtiiamloolrcgubgmea": {
+          "FullName": "Gabriel Couto Domingues",
+          "1aFase": {
+            "2022": 133.0
+          }
+        },
+        "drlagdopmlonaoimmci": {
+          "FullName": "Pedro Lago",
+          "1aFase": {
+            "2022": 133.0
+          }
+        },
+        "ldchlagoimomelbpcore": {
+          "FullName": "Pedro Henrique Boniatti Colle",
+          "1aFase": {
+            "2022": 147.0
+          }
+        },
+        "mllvrmgoioicathcoiep": {
+          "FullName": "Vithor Pileco",
+          "1aFase": {
+            "2022": 147.0
+          }
+        },
+        "mmagbcvomicialdhlaaoms": {
+          "FullName": "Júlia Mombach Da Silva",
+          "1aFase": {
+            "2022": 147.0
+          }
+        },
+        "atmlrtoaheanilinmexdcoercsa": {
+          "FullName": "Alexandre Crestani",
+          "1aFase": {
+            "2022": 284.0
+          }
+        },
+        "uriporfriusegfnrsdgjb": {
+          "FullName": "Júlia Pelayo Rodrigues",
+          "1aFase": {
+            "2022": 284.0
+          }
+        },
+        "tngoaaoorirltcceanmgm": {
+          "FullName": "Garrenlus Souza",
+          "1aFase": {
+            "2022": 284.0
+          }
+        },
+        "gnseuhmquarffjrirssb": {
+          "FullName": "Jade Satyko Hatanaka Marques",
+          "1aFase": {
+            "2022": 508.0
+          }
+        },
+        "whigmcdcaomtrl": {
+          "FullName": "Eduarda Carvalho Waechter",
+          "1aFase": {
+            "2022": 508.0
+          }
+        },
+        "filcmmonplgocalei": {
+          "FullName": "Nicolle Pimentel Favero",
+          "1aFase": {
+            "2022": 508.0
           }
         }
       },
@@ -91794,6 +99178,10 @@ HISTORY = {
         "2021": {
           "Teams": 3,
           "BestRank": 244
+        },
+        "2022": {
+          "Teams": 3,
+          "BestRank": 203
         }
       },
       "Contestants": {
@@ -92022,13 +99410,15 @@ HISTORY = {
         "iaabmsiirkeludolnumocer": {
           "FullName": "Maiki Marolli",
           "1aFase": {
-            "2020": 665.0
+            "2020": 665.0,
+            "2022": 429.0
           }
         },
         "gapubsvalaigmtomosric": {
           "FullName": "Gustavo Paris",
           "1aFase": {
-            "2020": 665.0
+            "2020": 665.0,
+            "2022": 429.0
           }
         },
         "arrcghanltegaoomgmiofoit": {
@@ -92053,6 +99443,48 @@ HISTORY = {
           "FullName": "Eduardo Kasper Copati",
           "1aFase": {
             "2021": 388.0
+          }
+        },
+        "nbrnbsroyeeiwllaoedeutucg": {
+          "FullName": "Welyton Leidens",
+          "1aFase": {
+            "2022": 203.0
+          }
+        },
+        "idceuonilsbrvehaoreu": {
+          "FullName": "Heron Westendorff",
+          "1aFase": {
+            "2022": 203.0
+          }
+        },
+        "mooslapadljemooociwgr": {
+          "FullName": "Joao Pedro Wolschick",
+          "1aFase": {
+            "2022": 203.0
+          }
+        },
+        "idachjtmlagnoamocazn": {
+          "FullName": "Jonathan Andrei Da Cruz",
+          "1aFase": {
+            "2022": 429.0
+          }
+        },
+        "eedaseculsaluvnrsibuom": {
+          "FullName": "Samuel Ferreira Da Silva",
+          "1aFase": {
+            "2022": 483.0
+          }
+        },
+        "mxrlsotconaiobwlxommnaicoh": {
+          "FullName": "Wilson Silva",
+          "1aFase": {
+            "2022": 483.0
+          }
+        },
+        "huaaogjalnmcapiqmtnosa": {
+          "FullName": "Jonathan Pasqualotto",
+          "1aFase": {
+            "2022": 483.0
           }
         }
       },
@@ -92209,6 +99641,10 @@ HISTORY = {
         "2021": {
           "Teams": 4,
           "BestRank": 359
+        },
+        "2022": {
+          "Teams": 3,
+          "BestRank": 209
         }
       },
       "Contestants": {
@@ -92330,7 +99766,8 @@ HISTORY = {
           "FullName": "Kalyan Lucas Basso",
           "1aFase": {
             "2020": 284.0,
-            "2021": 391.0
+            "2021": 391.0,
+            "2022": 209.0
           }
         },
         "clivimqraauialceenmoglh": {
@@ -92472,6 +99909,54 @@ HISTORY = {
           "1aFase": {
             "2021": 400.0
           }
+        },
+        "gboncmmsmglieiaoca": {
+          "FullName": "Gustavo José Bones Cima",
+          "1aFase": {
+            "2022": 209.0
+          }
+        },
+        "ouuhodtrpnoolcubrmecedilbraoie": {
+          "FullName": "Murilo Dalla Costa Debortoli",
+          "1aFase": {
+            "2022": 209.0
+          }
+        },
+        "nrohaunceeubdecboob1rp": {
+          "FullName": "Breno Brandt",
+          "1aFase": {
+            "2022": 293.0
+          }
+        },
+        "toeobcaodtcrznndaehprbnruaeuei": {
+          "FullName": "Bernardo Cortina Zanetti",
+          "1aFase": {
+            "2022": 293.0
+          }
+        },
+        "anrebhaegucmoapradaoinruwcen": {
+          "FullName": "Mariana De Souza Wagner",
+          "1aFase": {
+            "2022": 293.0
+          }
+        },
+        "ltiemojoonolourssauckno": {
+          "FullName": "Alesson Junior Toniazzo",
+          "1aFase": {
+            "2022": 508.0
+          }
+        },
+        "laavegmnoicjobiroionmti": {
+          "FullName": "João Vitor Curtarelli Benini",
+          "1aFase": {
+            "2022": 508.0
+          }
+        },
+        "ooealrimslrboraiiabgrnocidcsm": {
+          "FullName": "Ricardo Barbieri Olsson",
+          "1aFase": {
+            "2022": 508.0
+          }
         }
       }
     },
@@ -92531,6 +100016,10 @@ HISTORY = {
         "2021": {
           "Teams": 2,
           "BestRank": 144
+        },
+        "2022": {
+          "Teams": 2,
+          "BestRank": 269
         }
       },
       "Contestants": {
@@ -92772,7 +100261,8 @@ HISTORY = {
         "23eoeo3mlaamgridlcv": {
           "FullName": "Everaldo Gomes",
           "1aFase": {
-            "2020": 445.0
+            "2020": 445.0,
+            "2022": 269.0
           }
         },
         "ilileamaogoohccimunamdgc": {
@@ -92796,7 +100286,8 @@ HISTORY = {
         "ynaectnlco1rmiatneagm1": {
           "FullName": "Ryan Ten Caten",
           "1aFase": {
-            "2021": 234.0
+            "2021": 234.0,
+            "2022": 357.0
           }
         },
         "iupmlmdacgeohorpniqhkeengeirl": {
@@ -92828,6 +100319,30 @@ HISTORY = {
           "FullName": "Daniel Mello Konflanz",
           "Nacional": {
             "2019": 40.0
+          }
+        },
+        "u5cdsima0ticaslmmghol1c": {
+          "FullName": "Lucas Schmidt",
+          "1aFase": {
+            "2022": 269.0
+          }
+        },
+        "aonmcaaznehagletikgmlrnoia": {
+          "FullName": "Natanael Zago",
+          "1aFase": {
+            "2022": 269.0
+          }
+        },
+        "iivlmcilnout5e4mgrmrajao": {
+          "FullName": "Valtemir Gomes",
+          "1aFase": {
+            "2022": 357.0
+          }
+        },
+        "dlfhvaaoiaomohctiirml": {
+          "FullName": "Pedro Dariva",
+          "1aFase": {
+            "2022": 357.0
           }
         }
       },
@@ -93416,6 +100931,10 @@ HISTORY = {
         "2021": {
           "Teams": 8,
           "BestRank": 36
+        },
+        "2022": {
+          "Teams": 10,
+          "BestRank": 15
         }
       },
       "Contestants": {
@@ -94169,7 +101688,8 @@ HISTORY = {
             "2018": 338.0,
             "2019": 78.0,
             "2020": 42.0,
-            "2021": 36.0
+            "2021": 36.0,
+            "2022": 15.0
           },
           "Nacional": {
             "2021": 23.0
@@ -94181,7 +101701,8 @@ HISTORY = {
             "2018": 338.0,
             "2019": 78.0,
             "2020": 42.0,
-            "2021": 36.0
+            "2021": 36.0,
+            "2022": 15.0
           },
           "Nacional": {
             "2021": 23.0
@@ -94232,7 +101753,8 @@ HISTORY = {
           "1aFase": {
             "2019": 198.0,
             "2020": 42.0,
-            "2021": 36.0
+            "2021": 36.0,
+            "2022": 15.0
           },
           "Nacional": {
             "2021": 23.0
@@ -94266,14 +101788,16 @@ HISTORY = {
           "FullName": "Pedro Serpa",
           "1aFase": {
             "2020": 131.0,
-            "2021": 114.0
+            "2021": 114.0,
+            "2022": 166.0
           }
         },
         "1amocoolfmrgsig4i": {
           "FullName": "Igor Froehner",
           "1aFase": {
             "2020": 131.0,
-            "2021": 114.0
+            "2021": 114.0,
+            "2022": 166.0
           }
         },
         "ilg1aisaltmecobmm3mia": {
@@ -94414,13 +101938,15 @@ HISTORY = {
         "iromiceroagosaralnmagdcrobeav": {
           "FullName": "Giovana Corrêa De Barros",
           "1aFase": {
-            "2021": 165.0
+            "2021": 165.0,
+            "2022": 73.0
           }
         },
         "tiojmemrrhaltouialeoc": {
           "FullName": "Julia Retore",
           "1aFase": {
-            "2021": 165.0
+            "2021": 165.0,
+            "2022": 73.0
           }
         },
         "gioeaenrccuahpaaoiydralanmmalat": {
@@ -94492,7 +102018,8 @@ HISTORY = {
         "llmegdmalobgoaerincarn": {
           "FullName": "Débora Langner",
           "1aFase": {
-            "2021": 400.0
+            "2021": 400.0,
+            "2022": 182.0
           }
         },
         "rilcidmsilrogocoaamvic": {
@@ -94529,6 +102056,138 @@ HISTORY = {
           "FullName": "Guilherme Jarentchuk",
           "Nacional": {
             "2012": 25.0
+          }
+        },
+        "on0o0imgea2cm23zl5": {
+          "FullName": "Enzo De Almeida Rodrigues",
+          "1aFase": {
+            "2022": 58.0
+          }
+        },
+        "birdgesreecuudc": {
+          "FullName": "Eric Grochowicz",
+          "1aFase": {
+            "2022": 58.0
+          }
+        },
+        "aceooia0crmtgmo1jlaomsn": {
+          "FullName": "João Marcos Oliveira",
+          "1aFase": {
+            "2022": 58.0
+          }
+        },
+        "ontoismvmlecgocharmyio": {
+          "FullName": "Victor Moresco",
+          "1aFase": {
+            "2022": 73.0
+          }
+        },
+        "ku1gweenlacmartlioma": {
+          "FullName": "Kauan Welter Bruggmann",
+          "1aFase": {
+            "2022": 114.0
+          }
+        },
+        "uhlmg2idd8toeeari6gamco": {
+          "FullName": "Eduardo Schwarz Moreira",
+          "1aFase": {
+            "2022": 114.0
+          }
+        },
+        "ixorgmeetieumca3mlg": {
+          "FullName": "Guilherme Santos",
+          "1aFase": {
+            "2022": 114.0
+          }
+        },
+        "csmespppoolpigauram": {
+          "FullName": "Matheus Soppa Geremias",
+          "1aFase": {
+            "2022": 166.0
+          }
+        },
+        "zariiaaomlifliggmumc": {
+          "FullName": "Maria Luiza Corrêa Figueiredo",
+          "1aFase": {
+            "2022": 182.0
+          }
+        },
+        "amg6iiaolavum2mimilcy": {
+          "FullName": "Lívia Mayumi Alves",
+          "1aFase": {
+            "2022": 182.0
+          }
+        },
+        "mkoeeodulcoiyolmtshm": {
+          "FullName": "Monique Mendes",
+          "1aFase": {
+            "2022": 197.0
+          }
+        },
+        "moa8usomllartcbsgoal9eoigcu": {
+          "FullName": "Carlos Belo",
+          "1aFase": {
+            "2022": 197.0
+          }
+        },
+        "lnnommlancgeiehegl1aima": {
+          "FullName": "Anna Paula Meneghelli De Oliveira",
+          "1aFase": {
+            "2022": 197.0
+          }
+        },
+        "oruenusagbcsrtcsideaadood": {
+          "FullName": "Santiago Cardoso",
+          "1aFase": {
+            "2022": 330.0
+          }
+        },
+        "caioctruhglaammmzezus": {
+          "FullName": "Matheus Amorim",
+          "1aFase": {
+            "2022": 330.0
+          }
+        },
+        "aa2gimlr1bgac0imo0le78": {
+          "FullName": "Gabriela Alves Ilezyszyn",
+          "1aFase": {
+            "2022": 330.0
+          }
+        },
+        "mrodmnlao1mlione5gca": {
+          "FullName": "Leonardo Muniz",
+          "1aFase": {
+            "2022": 394.0
+          }
+        },
+        "eameslarenuqiamoudcasojgml": {
+          "FullName": "Emanuel Quadras",
+          "1aFase": {
+            "2022": 394.0
+          }
+        },
+        "gilodaanrlefcrimmoocoo": {
+          "FullName": "Leonardo Fagundes Rócio",
+          "1aFase": {
+            "2022": 394.0
+          }
+        },
+        "lbna2jia2ulrcaigc0o0momr": {
+          "FullName": "Claudinei Cabral",
+          "1aFase": {
+            "2022": 398.0
+          }
+        },
+        "ivheosaamiolislaccnrimgucnn": {
+          "FullName": "Vinicius Hansen",
+          "1aFase": {
+            "2022": 398.0
+          }
+        },
+        "toeqmucfsmaioihlgmla": {
+          "FullName": "Mauricio Taques",
+          "1aFase": {
+            "2022": 398.0
           }
         }
       },
@@ -95050,6 +102709,10 @@ HISTORY = {
         "2015": {
           "Teams": 2,
           "BestRank": 241
+        },
+        "2022": {
+          "Teams": 1,
+          "BestRank": 476
         }
       },
       "Contestants": {
@@ -95087,6 +102750,24 @@ HISTORY = {
           "FullName": "Ramon Voltolini",
           "1aFase": {
             "2015": 432.0
+          }
+        },
+        "lcilneeeapbasesvowduyudr": {
+          "FullName": "Wesley Dalpiva",
+          "1aFase": {
+            "2022": 476.0
+          }
+        },
+        "ecleselgirohohtogmcmlabtait": {
+          "FullName": "Heitor Bottega Schell",
+          "1aFase": {
+            "2022": 476.0
+          }
+        },
+        "aeamiamlc0gn324olrlrc0oood9s": {
+          "FullName": "Carlos Lazzari",
+          "1aFase": {
+            "2022": 476.0
           }
         }
       }
@@ -95184,6 +102865,10 @@ HISTORY = {
         "2020": {
           "Teams": 2,
           "BestRank": 576
+        },
+        "2022": {
+          "Teams": 4,
+          "BestRank": 335
         }
       },
       "Contestants": {
@@ -95307,6 +102992,78 @@ HISTORY = {
           "FullName": "Leandro Machado",
           "1aFase": {
             "2020": 650.0
+          }
+        },
+        "rlpirnocilteniuvsvubioi": {
+          "FullName": "Vinicius Leinate Porto",
+          "1aFase": {
+            "2022": 335.0
+          }
+        },
+        "alauialeibnvknrrfcdu": {
+          "FullName": "Kadu Gabriel Marques De França",
+          "1aFase": {
+            "2022": 335.0
+          }
+        },
+        "illidaihrriindurvbbenc": {
+          "FullName": "Richard Bidin Santos",
+          "1aFase": {
+            "2022": 335.0
+          }
+        },
+        "ascgs00lllc15roiacaomsmo": {
+          "FullName": "Carlos Alberto Cassol",
+          "1aFase": {
+            "2022": 385.0
+          }
+        },
+        "soi7emalgpfwlclime": {
+          "FullName": "Fellipe Wyllyan Schenekemberg",
+          "1aFase": {
+            "2022": 385.0
+          }
+        },
+        "ihracedmnmaoiotl": {
+          "FullName": "Matheus Augusto Arend",
+          "1aFase": {
+            "2022": 385.0
+          }
+        },
+        "che74ufimmgthalsdom9a": {
+          "FullName": "Matheus Henrique De Faria",
+          "1aFase": {
+            "2022": 425.0
+          }
+        },
+        "hraoadtdaoocaimocnaloiojmznr": {
+          "FullName": "João Ricardo Zandoná",
+          "1aFase": {
+            "2022": 425.0
+          }
+        },
+        "enaormuam3idz1oa4dgoral2ahccs5": {
+          "FullName": "André Da Rocha Souza",
+          "1aFase": {
+            "2022": 425.0
+          }
+        },
+        "kolcainblrouviieciulnd": {
+          "FullName": "Claudio Luiz Defrein Ionck",
+          "1aFase": {
+            "2022": 489.0
+          }
+        },
+        "oevatdasenaamgmicdllmaus": {
+          "FullName": "Daslan Mateus Alves De Mesquita",
+          "1aFase": {
+            "2022": 489.0
+          }
+        },
+        "blbiturernvesliodovil": {
+          "FullName": "Vitor Antonio Bonin Sebold",
+          "1aFase": {
+            "2022": 489.0
           }
         }
       }
@@ -95486,6 +103243,10 @@ HISTORY = {
         "2021": {
           "Teams": 6,
           "BestRank": 66
+        },
+        "2022": {
+          "Teams": 3,
+          "BestRank": 48
         }
       },
       "Contestants": {
@@ -95535,7 +103296,8 @@ HISTORY = {
             "2018": 254.0,
             "2019": 75.0,
             "2020": 113.0,
-            "2021": 66.0
+            "2021": 66.0,
+            "2022": 48.0
           },
           "Nacional": {
             "2020": 41.0,
@@ -95588,7 +103350,8 @@ HISTORY = {
           "FullName": "Gustavo Biage",
           "1aFase": {
             "2020": 113.0,
-            "2021": 66.0
+            "2021": 66.0,
+            "2022": 48.0
           },
           "Nacional": {
             "2020": 41.0,
@@ -95619,14 +103382,16 @@ HISTORY = {
           "FullName": "Gabriel Jacinto",
           "1aFase": {
             "2020": 397.0,
-            "2021": 368.0
+            "2021": 368.0,
+            "2022": 48.0
           }
         },
         "weceesymieeegldmcrzaol": {
           "FullName": "Wesley Decezere",
           "1aFase": {
             "2020": 397.0,
-            "2021": 368.0
+            "2021": 368.0,
+            "2022": 141.0
           }
         },
         "ogieromraommrlcgviait": {
@@ -95717,6 +103482,36 @@ HISTORY = {
           "FullName": "Rebeca Komatsu",
           "1aFase": {
             "2021": 368.0
+          }
+        },
+        "ellamaciahgtomnphialg": {
+          "FullName": "Pedro Taglialenha",
+          "1aFase": {
+            "2022": 139.0
+          }
+        },
+        "tfnoiromrlbggsioidrdro": {
+          "FullName": "Matheus Bigolin",
+          "1aFase": {
+            "2022": 139.0
+          }
+        },
+        "tduologcararimamrs": {
+          "FullName": "Artur Soda",
+          "1aFase": {
+            "2022": 139.0
+          }
+        },
+        "cipdgcaocraoetlmtsomi": {
+          "FullName": "Pedro Casotti",
+          "1aFase": {
+            "2022": 141.0
+          }
+        },
+        "kldsercobiamouatoolt": {
+          "FullName": "Tális Breda",
+          "1aFase": {
+            "2022": 141.0
           }
         }
       },
@@ -95951,6 +103746,10 @@ HISTORY = {
         "2021": {
           "Teams": 2,
           "BestRank": 318
+        },
+        "2022": {
+          "Teams": 1,
+          "BestRank": 355
         }
       },
       "Contestants": {
@@ -95993,7 +103792,8 @@ HISTORY = {
         "3tceutsiohch5mamohalm": {
           "FullName": "Matheus Felipe Christmann",
           "1aFase": {
-            "2021": 397.0
+            "2021": 397.0,
+            "2022": 355.0
           }
         },
         "ngltnmaeriogucgbamaor": {
@@ -96006,6 +103806,82 @@ HISTORY = {
           "FullName": "Ana Luiza Epping",
           "1aFase": {
             "2021": 397.0
+          }
+        },
+        "lgdaapomcopuomigajlo": {
+          "FullName": "João Paulo Gregolon Paludo",
+          "1aFase": {
+            "2022": 355.0
+          }
+        },
+        "ire0abaogprmim4ic1gc2ello": {
+          "FullName": "Gabriel Périco",
+          "1aFase": {
+            "2022": 355.0
+          }
+        }
+      }
+    },
+    "Horus Faculdades - Pinhalzinho": {
+      "1aFase": {
+        "2022": {
+          "Teams": 3,
+          "BestRank": 263
+        }
+      },
+      "Contestants": {
+        "kglmzaunoc2raibigm2l0e1": {
+          "FullName": "Gabriel Kunz",
+          "1aFase": {
+            "2022": 263.0
+          }
+        },
+        "9mhimmcu7sgocbaaral": {
+          "FullName": "Renan Schabarum",
+          "1aFase": {
+            "2022": 263.0
+          }
+        },
+        "aamt10cmg6iog0ovus230l1": {
+          "FullName": "Gustavo Wiebbeling",
+          "1aFase": {
+            "2022": 263.0
+          }
+        },
+        "ramgncos0licimltiiam2a": {
+          "FullName": "Cristian Müller",
+          "1aFase": {
+            "2022": 356.0
+          }
+        },
+        "aanifalirtonceomihiskmr": {
+          "FullName": "Karin Serafini",
+          "1aFase": {
+            "2022": 356.0
+          }
+        },
+        "apgmk41puoclnaima": {
+          "FullName": "Maicon Kappaun",
+          "1aFase": {
+            "2022": 356.0
+          }
+        },
+        "myaochmirclingssatc": {
+          "FullName": "Cristyan Schabarum",
+          "1aFase": {
+            "2022": 454.0
+          }
+        },
+        "undlgiermgtioaicmaoiieacl": {
+          "FullName": "Claudinei Mayolo",
+          "1aFase": {
+            "2022": 454.0
+          }
+        },
+        "mgmcmcrjoagnolii": {
+          "FullName": "Adilson Junior",
+          "1aFase": {
+            "2022": 454.0
           }
         }
       }
@@ -97202,6 +105078,10 @@ HISTORY = {
         "2021": {
           "Teams": 4,
           "BestRank": 27
+        },
+        "2022": {
+          "Teams": 1,
+          "BestRank": 155
         }
       },
       "Contestants": {
@@ -97674,7 +105554,8 @@ HISTORY = {
           "1aFase": {
             "2019": 457.0,
             "2020": 394.0,
-            "2021": 335.0
+            "2021": 335.0,
+            "2022": 155.0
           }
         },
         "e9dfs1uensdrausbd": {
@@ -97705,7 +105586,8 @@ HISTORY = {
         "2arbudsdfessneu0l": {
           "FullName": "Leandro Santiago",
           "1aFase": {
-            "2020": 319.0
+            "2020": 319.0,
+            "2022": 155.0
           }
         },
         "sololrnaouoikaooctlrmcumma": {
@@ -97755,6 +105637,12 @@ HISTORY = {
           "FullName": "Gabriel Lima",
           "1aFase": {
             "2021": 225.0
+          }
+        },
+        "dunerugafef0b2sfh": {
+          "FullName": "Gustavo Fadel",
+          "1aFase": {
+            "2022": 155.0
           }
         }
       },
@@ -98027,6 +105915,10 @@ HISTORY = {
         "2020": {
           "Teams": 9,
           "BestRank": 64
+        },
+        "2022": {
+          "Teams": 6,
+          "BestRank": 24
         }
       },
       "Contestants": {
@@ -98035,7 +105927,8 @@ HISTORY = {
           "1aFase": {
             "2018": 37.0,
             "2019": 23.0,
-            "2020": 75.0
+            "2020": 75.0,
+            "2022": 24.0
           },
           "Nacional": {
             "2018": 37.0,
@@ -98047,7 +105940,8 @@ HISTORY = {
           "1aFase": {
             "2018": 37.0,
             "2019": 23.0,
-            "2020": 75.0
+            "2020": 75.0,
+            "2022": 24.0
           },
           "Nacional": {
             "2018": 37.0,
@@ -98126,7 +106020,8 @@ HISTORY = {
           "1aFase": {
             "2018": 269.0,
             "2019": 209.0,
-            "2020": 64.0
+            "2020": 64.0,
+            "2022": 38.0
           }
         },
         "beleelsttaumooichaicnudmpnisromnf": {
@@ -98134,7 +106029,8 @@ HISTORY = {
           "1aFase": {
             "2018": 269.0,
             "2019": 209.0,
-            "2020": 64.0
+            "2020": 64.0,
+            "2022": 27.0
           }
         },
         "raqdilmgcmroog": {
@@ -98148,7 +106044,8 @@ HISTORY = {
           "FullName": "Raquel Folz Cavalcante",
           "1aFase": {
             "2019": 131.0,
-            "2020": 133.0
+            "2020": 133.0,
+            "2022": 38.0
           },
           "Nacional": {
             "2020": 47.0
@@ -98164,7 +106061,8 @@ HISTORY = {
           "FullName": "João Alfredo Holanda Bessa Neto",
           "1aFase": {
             "2019": 131.0,
-            "2020": 64.0
+            "2020": 64.0,
+            "2022": 38.0
           }
         },
         "imceoabraubasdufipdmcain": {
@@ -98298,6 +106196,78 @@ HISTORY = {
           "FullName": "Thiago Augusto Lima Hartman",
           "1aFase": {
             "2020": 608.0
+          }
+        },
+        "mesruupmlrtaubaccoasiofdc": {
+          "FullName": "Lucas Castro De Souza",
+          "1aFase": {
+            "2022": 24.0
+          }
+        },
+        "tdembonaeaaduieucvapojfrmszo": {
+          "FullName": "Jônatas Lima",
+          "1aFase": {
+            "2022": 27.0
+          }
+        },
+        "upenarnmcaifreeundorbddemfo": {
+          "FullName": "Fernando Vitor Ventilari Neder",
+          "1aFase": {
+            "2022": 27.0
+          }
+        },
+        "sgmot3aagsiln0oomflcie": {
+          "FullName": "Leonardo Figueiredo Santos",
+          "1aFase": {
+            "2022": 185.0
+          }
+        },
+        "iebmoaneaslunufmcrudipevcroldfiasrea": {
+          "FullName": "Lucas Fernandes Oliveira",
+          "1aFase": {
+            "2022": 185.0
+          }
+        },
+        "mcbrufbiaodoifmecamduoniprr": {
+          "FullName": "Ricardo Bonfim",
+          "1aFase": {
+            "2022": 185.0
+          }
+        },
+        "eecbocfbmrdpelmroaaiiariuvue": {
+          "FullName": "Rebeca Oliveira",
+          "1aFase": {
+            "2022": 326.0
+          }
+        },
+        "saihndrtpcmloomzovt": {
+          "FullName": "Thiago Silva Vieira",
+          "1aFase": {
+            "2022": 326.0
+          }
+        },
+        "rmocontmisaaosamlsuaeigvas": {
+          "FullName": "Saimon Leandro De Sousa Tavares",
+          "1aFase": {
+            "2022": 326.0
+          }
+        },
+        "pcmbdfcrofoaouhriideramuil": {
+          "FullName": "Ricardo Nogueira Miranda Filho",
+          "1aFase": {
+            "2022": 329.0
+          }
+        },
+        "acidcerbbfmiuaeplumanaomki": {
+          "FullName": "Bianka Maciel",
+          "1aFase": {
+            "2022": 329.0
+          }
+        },
+        "aobuarvnmueepaaimldcrioealfitn": {
+          "FullName": "Natanael Oliveira",
+          "1aFase": {
+            "2022": 329.0
           }
         }
       },
@@ -99310,6 +107280,10 @@ HISTORY = {
         "2017": {
           "Teams": 4,
           "BestRank": 513
+        },
+        "2022": {
+          "Teams": 1,
+          "BestRank": 508
         }
       },
       "Contestants": {
@@ -99396,6 +107370,24 @@ HISTORY = {
           "FullName": "Cayque Lima",
           "1aFase": {
             "2017": 708.0
+          }
+        },
+        "nsioepshcitgcpsloatmmy": {
+          "FullName": "Tiago Pontes",
+          "1aFase": {
+            "2022": 508.0
+          }
+        },
+        "aaeiog7so0muom8tullgnc": {
+          "FullName": "Leon Augusto Queiroz Bentes",
+          "1aFase": {
+            "2022": 508.0
+          }
+        },
+        "rlmh6aaaloa0iicgmrolacv": {
+          "FullName": "Raila Carvalho Araújo",
+          "1aFase": {
+            "2022": 508.0
           }
         }
       }
@@ -99956,6 +107948,10 @@ HISTORY = {
         "2020": {
           "Teams": 4,
           "BestRank": 509
+        },
+        "2022": {
+          "Teams": 2,
+          "BestRank": 306
         }
       },
       "Contestants": {
@@ -100179,6 +108175,42 @@ HISTORY = {
           "1aFase": {
             "2020": 578.0
           }
+        },
+        "lmacolidoamlinacgrsdu": {
+          "FullName": "Lucas Darlindo Freitas Rodrigues",
+          "1aFase": {
+            "2022": 306.0
+          }
+        },
+        "sm5h0olacinjvol0imiag": {
+          "FullName": "Jhonicley Pereira Da Silva",
+          "1aFase": {
+            "2022": 306.0
+          }
+        },
+        "1glriabab4moo1acsm": {
+          "FullName": "Ramon Barbosa Pessoa",
+          "1aFase": {
+            "2022": 306.0
+          }
+        },
+        "dafsacbondtesueiudruolnazpeei": {
+          "FullName": "Daniel Souza",
+          "1aFase": {
+            "2022": 445.0
+          }
+        },
+        "aesaaaivodnbeiupcouiedfrgts": {
+          "FullName": "Sávio Godinho Gaia",
+          "1aFase": {
+            "2022": 445.0
+          }
+        },
+        "feyeusrtaupcrdrbetaodineuude": {
+          "FullName": "Yure Samarone Gomes Duarte",
+          "1aFase": {
+            "2022": 445.0
+          }
         }
       },
       "Nacional": {
@@ -100201,6 +108233,10 @@ HISTORY = {
         "2020": {
           "Teams": 1,
           "BestRank": 461
+        },
+        "2022": {
+          "Teams": 2,
+          "BestRank": 360
         }
       },
       "Contestants": {
@@ -100254,6 +108290,42 @@ HISTORY = {
           "FullName": "Cristiane Da Conceição Dias",
           "1aFase": {
             "2020": 461.0
+          }
+        },
+        "eulg5r33unmqnicoheamjai": {
+          "FullName": "Juan Henrique Campos Alves",
+          "1aFase": {
+            "2022": 360.0
+          }
+        },
+        "hmuaeasolgcmlanrinala": {
+          "FullName": "Allan Victor Serra Hanauer",
+          "1aFase": {
+            "2022": 360.0
+          }
+        },
+        "ascsloioagmdm9mlrmce6": {
+          "FullName": "Marcelo Santos Dos Santos",
+          "1aFase": {
+            "2022": 360.0
+          }
+        },
+        "anljigoamlvailrais4o5uv1al1acmch": {
+          "FullName": "Juliana Silva",
+          "1aFase": {
+            "2022": 508.0
+          }
+        },
+        "idm0ceba1scilaseauj18mong": {
+          "FullName": "Bianca De Jesus",
+          "1aFase": {
+            "2022": 508.0
+          }
+        },
+        "gnaoejaia6s1ycimerml": {
+          "FullName": "Jayne Aires Oliveira",
+          "1aFase": {
+            "2022": 508.0
           }
         }
       }
@@ -100341,6 +108413,10 @@ HISTORY = {
         "2021": {
           "Teams": 3,
           "BestRank": 197
+        },
+        "2022": {
+          "Teams": 5,
+          "BestRank": 156
         }
       },
       "Contestants": {
@@ -100383,19 +108459,22 @@ HISTORY = {
         "mfeestjopatouenesertliudbsd": {
           "FullName": "José Lopes",
           "1aFase": {
-            "2021": 197.0
+            "2021": 197.0,
+            "2022": 156.0
           }
         },
         "geeouitscmbftnagrudairedtair": {
           "FullName": "Igor Garcia",
           "1aFase": {
-            "2021": 197.0
+            "2021": 197.0,
+            "2022": 156.0
           }
         },
         "eumdfuautbryauedintredirttes": {
           "FullName": "Yuri Duarte",
           "1aFase": {
-            "2021": 197.0
+            "2021": 197.0,
+            "2022": 156.0
           }
         },
         "hoiacgieln2mmeborqen3srus1": {
@@ -100469,6 +108548,78 @@ HISTORY = {
           "Nacional": {
             "2018": 70.0
           }
+        },
+        "gcpmgeorr12imlikoac": {
+          "FullName": "Erick Andrade",
+          "1aFase": {
+            "2022": 183.0
+          }
+        },
+        "saeidlemrxlacechlmetloroloaan": {
+          "FullName": "Carlos Silva",
+          "1aFase": {
+            "2022": 183.0
+          }
+        },
+        "dogsqlcdlnvom4uaphcneodreiarimiiea1": {
+          "FullName": "Pedro Silva",
+          "1aFase": {
+            "2022": 183.0
+          }
+        },
+        "dacfrusumaaeuingetosdtlmestrba": {
+          "FullName": "Lucas Moragas Melo Oliveira",
+          "1aFase": {
+            "2022": 347.0
+          }
+        },
+        "2toic2iccaurm0avslpkmignii": {
+          "FullName": "Vinicius Patrick Ramos",
+          "1aFase": {
+            "2022": 347.0
+          }
+        },
+        "n0i2ag22oneiomms0dolcug": {
+          "FullName": "Diogo Nunes Batista",
+          "1aFase": {
+            "2022": 347.0
+          }
+        },
+        "tmrnosrhmmhieimgclaeua": {
+          "FullName": "Matheus Ramos",
+          "1aFase": {
+            "2022": 362.0
+          }
+        },
+        "fungaedbmudiestttiohurneabro": {
+          "FullName": "Bruno Xavier",
+          "1aFase": {
+            "2022": 362.0
+          }
+        },
+        "utrdutiseariefmagtlndojbrnumie": {
+          "FullName": "Gilmar Reis Junior",
+          "1aFase": {
+            "2022": 362.0
+          }
+        },
+        "cuprftjdubenoediemtadatoers": {
+          "FullName": "Pedro Melo",
+          "1aFase": {
+            "2022": 443.0
+          }
+        },
+        "zubereitrudefttrneieoqamusedd": {
+          "FullName": "Eder Queiroz",
+          "1aFase": {
+            "2022": 443.0
+          }
+        },
+        "oifoznltooaoigdnllioarhmcafumil": {
+          "FullName": "Luiz Folador",
+          "1aFase": {
+            "2022": 443.0
+          }
         }
       },
       "Nacional": {
@@ -100479,6 +108630,226 @@ HISTORY = {
         "2018": {
           "Teams": 1,
           "BestRank": 70
+        }
+      }
+    },
+    "Faculdade Católica Cavanis do Sudoeste do Pará": {
+      "1aFase": {
+        "2022": {
+          "Teams": 1,
+          "BestRank": 508
+        }
+      },
+      "Contestants": {
+        "oerrtiottaocmdeeiaimtcaonalrooailjhl": {
+          "FullName": "Nori Mabel",
+          "1aFase": {
+            "2022": 508.0
+          }
+        },
+        "aloi4ooco4mltmh1hlbtec": {
+          "FullName": "Laura Botelho",
+          "1aFase": {
+            "2022": 508.0
+          }
+        },
+        "ialgmladcblmo5relgii0": {
+          "FullName": "João Gabriel Dill",
+          "1aFase": {
+            "2022": 508.0
+          }
+        }
+      }
+    },
+    "Instituto Federal do Pará - IFPA Campus Paragominas": {
+      "1aFase": {
+        "2022": {
+          "Teams": 1,
+          "BestRank": 236
+        }
+      },
+      "Contestants": {
+        "loncieomaal1grmeidra": {
+          "FullName": "André Oleari Bastos",
+          "1aFase": {
+            "2022": 236.0
+          }
+        },
+        "i4ea1i6csgpmtlocettlrii7ama": {
+          "FullName": "Estélit Patricia De Oliveira",
+          "1aFase": {
+            "2022": 236.0
+          }
+        },
+        "asaimasooslgtlimnicanratmicrlv": {
+          "FullName": "Lian Silva Martins Castro",
+          "1aFase": {
+            "2022": 236.0
+          }
+        }
+      }
+    },
+    "Universidade Federal do Oeste do Para - Campus Oriximina": {
+      "1aFase": {
+        "2022": {
+          "Teams": 7,
+          "BestRank": 434
+        }
+      },
+      "Contestants": {
+        "c9ocsillh8gmhaymmeaalocrdi": {
+          "FullName": "Chrislley Augusto Farias Machado",
+          "1aFase": {
+            "2022": 434.0
+          }
+        },
+        "uossremokeotlremounoc": {
+          "FullName": "Augusto Junior",
+          "1aFase": {
+            "2022": 434.0
+          }
+        },
+        "aomkchrlmhgavlamoatic": {
+          "FullName": "Matheus Carvalho",
+          "1aFase": {
+            "2022": 434.0
+          }
+        },
+        "iemsraocrnspboadlasemlg": {
+          "FullName": "Andressa Dos Santos Lopes",
+          "1aFase": {
+            "2022": 447.0
+          }
+        },
+        "g00p2l5at1o2imc1m": {
+          "FullName": "Patrick Teixeira",
+          "1aFase": {
+            "2022": 447.0
+          }
+        },
+        "agosima8csamrcnld": {
+          "FullName": "Ana Cristina Santos",
+          "1aFase": {
+            "2022": 447.0
+          }
+        },
+        "aimrnlmawnesigaaapcaooigmv": {
+          "FullName": "Wagner Viana Sampaio",
+          "1aFase": {
+            "2022": 473.0
+          }
+        },
+        "ic3inle9naaoamgrlcem": {
+          "FullName": "Anne Larice Dos Santos Souza",
+          "1aFase": {
+            "2022": 473.0
+          }
+        },
+        "emioodnicias8lma4ae72rnseg": {
+          "FullName": "Neidiane Andrade Soares",
+          "1aFase": {
+            "2022": 473.0
+          }
+        },
+        "umioavcocoansgllsriiam": {
+          "FullName": "Carlos Sarubi",
+          "1aFase": {
+            "2022": 481.0
+          }
+        },
+        "ocaiamsipnimctlsgrc": {
+          "FullName": "Crystian Cativo",
+          "1aFase": {
+            "2022": 481.0
+          }
+        },
+        "1mdaijlgos8ousmsdooecg": {
+          "FullName": "Francisco Nunes",
+          "1aFase": {
+            "2022": 481.0
+          }
+        },
+        "slmaciigzaou1olmladhk": {
+          "FullName": "Khalil Souza",
+          "1aFase": {
+            "2022": 500.0
+          }
+        },
+        "cipamomlmrne2sivtg": {
+          "FullName": "Marcos Vinicius Castro Printes",
+          "1aFase": {
+            "2022": 500.0
+          }
+        },
+        "cwisaammagelrmoplco": {
+          "FullName": "Marcelo Ferreira De Souza",
+          "1aFase": {
+            "2022": 500.0
+          }
+        },
+        "acioiigtnprgerolsmm": {
+          "FullName": "Igor Printes",
+          "1aFase": {
+            "2022": 502.0
+          }
+        },
+        "imalifcopnegarcmluoao": {
+          "FullName": "Caroline Silva",
+          "1aFase": {
+            "2022": 502.0
+          }
+        },
+        "egrzmosiguhmaacuactcloo": {
+          "FullName": "Cezar Rocha",
+          "1aFase": {
+            "2022": 502.0
+          }
+        },
+        "cslalnlamo2aouiec03gpmi": {
+          "FullName": "Luciana Sousa",
+          "1aFase": {
+            "2022": 506.0
+          }
+        },
+        "acoatbmcamzaginciisrllie": {
+          "FullName": "Izabela Cristina Lopes Carvalho",
+          "1aFase": {
+            "2022": 506.0
+          }
+        },
+        "cdemlnrfisarlmaaamaoavrieriiego": {
+          "FullName": "Amanda Ferreira Oliveira",
+          "1aFase": {
+            "2022": 506.0
+          }
+        }
+      }
+    },
+    "Universidade do Estado do Pará": {
+      "1aFase": {
+        "2022": {
+          "Teams": 1,
+          "BestRank": 119
+        }
+      },
+      "Contestants": {
+        "narmoiamgeoacichrl": {
+          "FullName": "Hian Motley Stafford Correa Barroso",
+          "1aFase": {
+            "2022": 119.0
+          }
+        },
+        "mo2aaolimncomrojgia5a": {
+          "FullName": "João Mariano",
+          "1aFase": {
+            "2022": 119.0
+          }
+        },
+        "ifeal9cmpiefolar0maleg": {
+          "FullName": "Rafael Sales",
+          "1aFase": {
+            "2022": 119.0
+          }
         }
       }
     }
@@ -101089,6 +109460,10 @@ HISTORY = {
         "2021": {
           "Teams": 2,
           "BestRank": 142
+        },
+        "2022": {
+          "Teams": 7,
+          "BestRank": 168
         }
       },
       "Contestants": {
@@ -101362,7 +109737,8 @@ HISTORY = {
           "1aFase": {
             "2018": 563.0,
             "2019": 526.0,
-            "2020": 324.0
+            "2020": 324.0,
+            "2022": 168.0
           }
         },
         "aseomml2ccgkileial0rbma": {
@@ -101370,7 +109746,8 @@ HISTORY = {
           "1aFase": {
             "2018": 563.0,
             "2019": 526.0,
-            "2020": 324.0
+            "2020": 324.0,
+            "2022": 168.0
           }
         },
         "egasl1icmt4l8raifenrmelou5": {
@@ -101477,6 +109854,120 @@ HISTORY = {
           "Nacional": {
             "2011": 20.0
           }
+        },
+        "unbuicaastajoraonrpnctoiofh": {
+          "FullName": "Jhonatan Patrocínio",
+          "1aFase": {
+            "2022": 168.0
+          }
+        },
+        "amacbrimoosnlgpfejdsal": {
+          "FullName": "Alessandro Costa",
+          "1aFase": {
+            "2022": 338.0
+          }
+        },
+        "2mrloaccmm646ogai63s": {
+          "FullName": "Marcos Vinicios De Morais",
+          "1aFase": {
+            "2022": 338.0
+          }
+        },
+        "crll1cigenumlimdosaaoahlb": {
+          "FullName": "Lucas Carvalho",
+          "1aFase": {
+            "2022": 338.0
+          }
+        },
+        "mcuaiomaghsotmiglz": {
+          "FullName": "Marcos Thomaz",
+          "1aFase": {
+            "2022": 404.0
+          }
+        },
+        "iaaiglnoa30cs1mdlm0iele": {
+          "FullName": "Daniel Souza",
+          "1aFase": {
+            "2022": 404.0
+          }
+        },
+        "ii0omji2ol3c0faccamgp": {
+          "FullName": "João Pacífico",
+          "1aFase": {
+            "2022": 404.0
+          }
+        },
+        "olesfarknazrobcsueuilc": {
+          "FullName": "Kleilson Cezar",
+          "1aFase": {
+            "2022": 422.0
+          }
+        },
+        "dmfbrluaniaosrauec": {
+          "FullName": "André Lima",
+          "1aFase": {
+            "2022": 422.0
+          }
+        },
+        "vsbiulcdoaufajraoo": {
+          "FullName": "João Vidal",
+          "1aFase": {
+            "2022": 422.0
+          }
+        },
+        "aruitamacm5m0is1ginorclo": {
+          "FullName": "Francisco Cristian Barbosa De Moura",
+          "1aFase": {
+            "2022": 433.0
+          }
+        },
+        "ahgr1aocmcaimansuhl": {
+          "FullName": "Sara Cunha",
+          "1aFase": {
+            "2022": 433.0
+          }
+        },
+        "a1shftolmasorimotcglain": {
+          "FullName": "Thalisson Frota",
+          "1aFase": {
+            "2022": 433.0
+          }
+        },
+        "amg7riomim0celool8g": {
+          "FullName": "Igor Melo",
+          "1aFase": {
+            "2022": 479.0
+          }
+        },
+        "rrml91uaoel0oaiemcimghsgmc0": {
+          "FullName": "Marcos Guilherme Sousa Rocha",
+          "1aFase": {
+            "2022": 479.0
+          }
+        },
+        "i1poevra1glme0caaidrim7d": {
+          "FullName": "David Pereira",
+          "1aFase": {
+            "2022": 479.0
+          }
+        },
+        "3gmpsocbfrilmaias": {
+          "FullName": "Fabiana Santana",
+          "1aFase": {
+            "2022": 490.0
+          }
+        },
+        "ihlaecgoas0mo0toml2m": {
+          "FullName": "Athos Melo",
+          "1aFase": {
+            "2022": 490.0
+          }
+        },
+        "ueeldiammamlm3tic1o0asga": {
+          "FullName": "Mateus Rocha",
+          "1aFase": {
+            "2022": 490.0
+          }
         }
       },
       "Nacional": {
@@ -101523,6 +110014,10 @@ HISTORY = {
         "2021": {
           "Teams": 2,
           "BestRank": 227
+        },
+        "2022": {
+          "Teams": 1,
+          "BestRank": 178
         }
       },
       "Contestants": {
@@ -101650,7 +110145,8 @@ HISTORY = {
           "FullName": "Luis Santiago",
           "1aFase": {
             "2020": 337.0,
-            "2021": 227.0
+            "2021": 227.0,
+            "2022": 178.0
           }
         },
         "nlnrmfigaoecmoadsara": {
@@ -101690,6 +110186,18 @@ HISTORY = {
           "FullName": "Bento Viana",
           "1aFase": {
             "2021": 326.0
+          }
+        },
+        "mmajingjsarocoredl": {
+          "FullName": "Jardesson Mendes",
+          "1aFase": {
+            "2022": 178.0
+          }
+        },
+        "mi0moagcmia0agorl12i": {
+          "FullName": "Igor Maia",
+          "1aFase": {
+            "2022": 178.0
           }
         }
       }
