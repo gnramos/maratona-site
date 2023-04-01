@@ -54331,6 +54331,10 @@ HISTORY = {
         "2019": {
           "Teams": 2,
           "BestRank": 250
+        },
+        "2022": {
+          "Teams": 5,
+          "BestRank": 156
         }
       },
       "Contestants": {
@@ -54655,18 +54659,99 @@ HISTORY = {
           "FullName": "José Lopes",
           "Nacional": {
             "2022": 45.0
+          },
+          "1aFase": {
+            "2022": 156.0
           }
         },
         "eumdfuautbryauedintredirttes": {
           "FullName": "Yuri Duarte",
           "Nacional": {
             "2022": 45.0
+          },
+          "1aFase": {
+            "2022": 156.0
           }
         },
         "geeouitscmbftnagrudairedtair": {
           "FullName": "Igor Garcia",
           "Nacional": {
             "2022": 45.0
+          },
+          "1aFase": {
+            "2022": 156.0
+          }
+        },
+        "gcpmgeorr12imlikoac": {
+          "FullName": "Erick Andrade",
+          "1aFase": {
+            "2022": 183.0
+          }
+        },
+        "saeidlemrxlacechlmetloroloaan": {
+          "FullName": "Carlos Silva",
+          "1aFase": {
+            "2022": 183.0
+          }
+        },
+        "dogsqlcdlnvom4uaphcneodreiarimiiea1": {
+          "FullName": "Pedro Silva",
+          "1aFase": {
+            "2022": 183.0
+          }
+        },
+        "dacfrusumaaeuingetosdtlmestrba": {
+          "FullName": "Lucas Moragas Melo Oliveira",
+          "1aFase": {
+            "2022": 347.0
+          }
+        },
+        "2toic2iccaurm0avslpkmignii": {
+          "FullName": "Vinicius Patrick Ramos",
+          "1aFase": {
+            "2022": 347.0
+          }
+        },
+        "n0i2ag22oneiomms0dolcug": {
+          "FullName": "Diogo Nunes Batista",
+          "1aFase": {
+            "2022": 347.0
+          }
+        },
+        "tmrnosrhmmhieimgclaeua": {
+          "FullName": "Matheus Ramos",
+          "1aFase": {
+            "2022": 362.0
+          }
+        },
+        "fungaedbmudiestttiohurneabro": {
+          "FullName": "Bruno Xavier",
+          "1aFase": {
+            "2022": 362.0
+          }
+        },
+        "utrdutiseariefmagtlndojbrnumie": {
+          "FullName": "Gilmar Reis Junior",
+          "1aFase": {
+            "2022": 362.0
+          }
+        },
+        "cuprftjdubenoediemtadatoers": {
+          "FullName": "Pedro Melo",
+          "1aFase": {
+            "2022": 443.0
+          }
+        },
+        "zubereitrudefttrneieoqamusedd": {
+          "FullName": "Eder Queiroz",
+          "1aFase": {
+            "2022": 443.0
+          }
+        },
+        "oifoznltooaoigdnllioarhmcafumil": {
+          "FullName": "Luiz Folador",
+          "1aFase": {
+            "2022": 443.0
           }
         }
       },
