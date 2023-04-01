@@ -123,7 +123,7 @@ def _to_js(year, phase, df):
         if t in coaches['teamName'].values:
             coach = coaches.loc[coaches['teamName'] == t].iloc[0]['FullName']
         else:
-            coach = df.loc[(df['role'] == 'STUDENT_COACH') &
+            coach = df.loc[((df['role'] == 'STUDENT_COACH') | (df['role'] == 'CONTESTANT_COACH')) &
                            (df['teamName'] == t)].iloc[0]['FullName']
 
         # int(Rank) pois json não reconhece tipos do NumPy.

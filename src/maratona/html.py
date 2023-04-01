@@ -289,7 +289,7 @@ def _show_region_best(df):
 
 def _show_site_best(df):
     _log('Campeões por Sede')
-    sites = df.sort_values(by=['siteName', 'teamRank']).groupby(
+    sites = df.sort_values(by=['Region', 'UF', 'siteName', 'teamRank']).groupby(
             by=['Region', 'UF', 'siteName'])
     for _, group_df in sites:
         r = group_df.iloc[0]

@@ -1,46 +1,53 @@
 UF,Institution short name,Institution
+AC,FAAO,Faculdade da Amazônia Ocidental
 AC,FAMETA,Faculdade Meta
+AC,FBRC,Faculdade Barão do Rio Branco
 AC,IFAC,Instituto Federal de Educação, Ciência e Tecnologia do Acre
-AC,U:VERSE,Centro Universitário U:VERSE
 AC,UFAC,Universidade Federal do Acre
-AL,UFAL Arapiraca,Universidade Federal de Alagoas - Campus Arapiraca
+AC,UVERSE,Centro Universitário U:VERSE
 AL,UFAL,Universidade Federal de Alagoas
+AL,UFALCA,Universidade Federal de Alagoas - Campus Arapiraca
 AM,IComp/UFAM,Institute of Computing - Federal University of Amazonas
 AM,IESAM,Instituto de Estudos Superiores da Amazônia
 AM,IFAM,Instituto Federal de Educação, Ciência e Tecnologia do Amazonas
 AM,UEA,Universidade do Estado do Amazonas
 AM,UEA-CEST,Universidade do Estado do Amazonas - Itacoatiara
-AM,UFAM - Itacoatiara,Universidade Federal do Amazonas - Campus Itacoatiara
 AM,UFAM,Universidade Federal do Amazonas
+AM,UFAM-CI,Universidade Federal do Amazonas - Campus Itacoatiara
 AM,UNINORTE,UNINORTE - Laureate International Universities
 AP,UNIFAP,Universidade Federal do Amapá
-BA,,Universidade Estadual do Sudoeste da Bahia - Campus Jequié
-BA,,Área1 – Faculdade de Ciência e Tecnologia
+BA,FA1,Área1 – Faculdade de Ciência e Tecnologia
+BA,FRB,Faculdade Ruy Barbosa
+BA,IFBA-VC,Instituto Federal de Educação, Ciência e Tecnologia da Bahia - Campus Vitória da Conquista
 BA,UCSAL,Universidade Catolica do Salvador
 BA,UEFS,Universidade Estadual de Feira de Santana
 BA,UESB,Universidade Estadual do Sudoeste da Bahia
+BA,UESB-CJ,Universidade Estadual do Sudoeste da Bahia - Campus Jequié
 BA,UESC,Universidade Estadual de Santa Cruz
 BA,UFBA,Universidade Federal da Bahia
 BA,UNIFACS,Universidade Salvador
 BA,UNIME,UNIME - União Metropolitana de Educação e Cultura
-CE,,Universidade Estadual Vale do Acaraú
-CE,,Universidade Federal do Ceará - Campus Quixadá
 CE,FAP,Faculdade Paraíso do Ceará
 CE,FLF,Faculdade Lourenço Filho
-CE,IFCE - Aracati,Instituto Federal de Educação, Ciência e Tecnologia do Ceará - Campus Aracati
-CE,IFCE - Campus Crato,Instituto Federal de Educação, Ciência e Tecnologia do Ceará - Campus Crato
 CE,IFCE,Instituto Federal de Ensino, Ciência e Tecnologia do Ceará
-CE,IFCE-Tianguá,Instituto Federal de Educação, Ciência e Tecnologia do Ceará - Campus Tianguá
+CE,IFCE-CA,Instituto Federal de Educação, Ciência e Tecnologia do Ceará - Campus Aracati
+CE,IFCE-CC,Instituto Federal de Educação, Ciência e Tecnologia do Ceará - Campus Crato
+CE,IFCE-CM,Instituto Federal de Educação, Ciência e Tecnologia do Ceará - Maracanaú
+CE,IFCE-CT,Instituto Federal de Educação, Ciência e Tecnologia do Ceará - Campus Tianguá
 CE,UECE,Universidade Estadual do Ceará
+CE,UEVA,Universidade Estadual Vale do Acaraú
 CE,UFC - Crateús,Universidade Federal do Ceará - Campus Crateús
 CE,UFC - Russas,Universidade Federal do Ceará - Campus Russas
 CE,UFC,Universidade Federal do Ceará
 CE,UFCA,Universidade Federal do Cariri
+CE,UFCQXD,Universidade Federal do Ceará - Campus Quixadá
 CE,UFERSA,Universidade Federal Rural do Semi-Árido
 CE,Unichristus,Centro Universitário Christus
 DF,CU - IESB,Centro Universitário IESB
 DF,IFB,Instituto Federal de Educação, Ciência e Tecnologia de Brasília
+DF,IFBT,Instituto Federal de Educação, Ciência e Tecnologia de Brasília - Taguatinga
 DF,UnB,Universidade de Brasília
+DF,UnB-FT,Faculdade de Tecnologia - UnB
 DF,UnB/FGA,Universidade de Brasília - Faculdade UnB Gama
 DF,UniCEUB,Centro Universitário de Brasília
 ES,Ceunes UFES,Centro Universitário Norte do Espírito Santo - Universidade Federal do Espírito Santo
@@ -49,17 +56,19 @@ ES,UFES,Universidade Federal do Espirito Santo
 ES,UFES-CCENS-Alegre,UFES-Campus Alegre
 ES,UVV,Centro Universitário Vila Velha
 GO,CAJ/UFG,Universidade Federal de Goiás - Câmpus Jataí
-GO,IFGoiano - Campus Ri,Instituto Federal Goiano - Campus Rio Verde
-GO,PUC-Goiás,Pontifícia Universidade Católica de Goiás
+GO,IFG-CI,Instituto Federal de Educação, Ciência e Tecnologia Goiano - Câmpus Iporá
+GO,IFG-CU,Instituto Federal Goiano - Campus Urutaí
+GO,IFGo-RV,Instituto Federal Goiano - Campus Rio Verde
+GO,PUC-GO,Pontifícia Universidade Católica de Goiás
 GO,UCG,Universidade Católica de Goiás
 GO,UEG,Unidade Universitária de Ciências Exatas e Tecnológicas - UEG
 GO,UFG,Instituto de Informática - UFG
 GO,UniRV,Universidade de Rio Verde
+MA,FACAM,FACULDADE DO MARANHAO
+MA,IFMA,Instituto Federal de Educação, Ciência e Tecnologia do Maranhão
 MA,UFMA,Universidade Federal do Maranhão
 MA,UNDB,Unidade de Ensino Superior Dom Bosco - UNDB
 MA,UNIBALSAS,Faculdade de Balsas
-MG,,Faculdade Governador Ozanam Coelho
-MG,,Faculdade Pitágoras Divinópolis
 MG,CEFET-MG - Timóteo,Centro Federal de Educação Tecnológica de Minas Gerais Campus Timóteo
 MG,CEFET-MG,Centro Federal de Educação Tecnológica de Minas Gerais
 MG,CEFET-MG-C2,Centro Federal de Educação Tecnológica de Minas Gerais - Campus 2
@@ -68,6 +77,9 @@ MG,CES/JF,Centro de Ensino Superior de Juiz de Fora
 MG,DPI-UFV,Universidade Federal de Viçosa
 MG,FACIT,Faculdade de Ciencia e Tecnologia de Montes Claros
 MG,FAI,FAI - Centro de Ensino Superior em Gestão, Tecnologia e Educação
+MG,FASA,Faculdades Santo Agostinho
+MG,FGOC,Faculdade Governador Ozanam Coelho
+MG,FPD,Faculdade Pitágoras Divinópolis
 MG,FPU,Faculdade Politécnica de Uberlândia
 MG,IFMG - Bambuí,Instituto Federal de Minas Gerais - Campus Bambuí
 MG,IFMS,Instituto Federal de Educação, Ciência e Tecnologia do Sul de Minas
@@ -78,12 +90,14 @@ MG,IFSULMGMch,Instituto Federal de Educação, Ciência e Tecnologia do Sul de M
 MG,IFSULMGMuz,Instituto Federal de Educação, Ciência e Tecnologia do Sul de Minas Gerais - Campus Muzambinho
 MG,IFSULMGPassos,Instituto Federal de Educação, Ciência e Tecnologia do Sul de Minas Gerais - Campus Passos
 MG,IFSULMGPoços,Instituto Federal de Educação, Ciência e Tecnologia do Sul de Minas Gerais - Campus Poços de Caldas
-MG,IFTM - Patrocínio,Instituto Federal do Triângulo Mineiro Campus Patrocínio
-MG,IFTM - Uberaba,Instituto Federal de Educação, Ciência e Tecnologia de Uberaba
-MG,IFTM Campus UPT,Instituto Federal do Triângulo Mineiro Campus Uberaba Parque Tecnológico
-MG,IFTM Paracatu,Instituto Federal de Educação, Ciência e Tecnologia do Triângulo Mineiro - Campus Paracatu
-MG,IFTM,Instituto Federal de Educação, Ciência e Tecnologia do Triângulo Mineiro - Campus Ituiutaba
-MG,IFTM,Instituto Federal de Educação, Ciência e Tecnologia do Triângulo Mineiro - Campus Uberaba
+MG,IFTM-CI,Instituto Federal de Educação, Ciência e Tecnologia do Triângulo Mineiro - Campus Ituiutaba
+MG,IFTM-CP,Instituto Federal de Educação, Ciência e Tecnologia do Triângulo Mineiro - Campus Paracatu
+MG,IFTM-CPt,Instituto Federal do Triângulo Mineiro Campus Patrocínio
+MG,IFTM-CU,Instituto Federal de Educação, Ciência e Tecnologia do Triângulo Mineiro - Campus Uberaba
+MG,IFTM-Patrocinio/ADS,Instituto Federal do Triangulo Mineiro - Análise e Desenvolvimento Sistemas - Patrocínio
+MG,IFTM-Udi/TSPI,Instituto Federal de Educação, Ciência e Tecnologia de Uberlandia - Tecnologia em Sistemas para Internet
+MG,IFTM-UPT,Instituto Federal de Educação, Ciência e Tecnologia do Triângulo Mineiro campus Uberaba Parque Tecnológico
+MG,IFU,Instituto Federal de Educação, Ciência e Tecnologia de Uberaba
 MG,II-PUC Minas,Instituto de Informática-PUC Minas
 MG,INATEL,INATEL - Instituto Nacional de Telecomunicações
 MG,PUC-MG,Pontifícia Universidade Católica de Minas Gerais
@@ -97,6 +111,7 @@ MG,UFU,Universidade Federal de Uberlândia
 MG,UFU-Monte Carmelo/SI,Universidade Federal de Uberlândia - Campus Monte Carmelo - Sistemas de Informação
 MG,UFV-Campus Florestal,Universidade Federal de Viçosa - Campus Florestal
 MG,UFV-Rio Paranaíba,Universidade Federal de Viçosa - Campus Rio Paranaíba - Sistemas de Informação
+MG,UNA-BH,UNA - Belo Horizonte
 MG,UNICA,Faculdade Única de Ipatinga (Única Educacional)
 MG,Unifei Itabira,Universidade Federal de Itajubá - Campus Itabira
 MG,UNIFEI,Universidade Federal de Itajubá - Campus Itajubá
@@ -107,23 +122,27 @@ MG,UNIS,Centro Universitário do Sul de Minas
 MG,Unitri,Centro Universitário do Triângulo
 MG,UNIVALE,Universidade Vale do Rio Doce- Univale
 MG,UNIVAS,Universidade do Vale do Sapucaí - UNIVAS
+MG,UNIVERSO,Universidade Salgado de Oliveira - UNIVERSO
+MG,UNIVERSO-JF,Universidade Salgado de Oliveira - Juiz de Fora
+MG,UU-CU,Universidade de Uberaba - Campus Uberaba
 MS,CPPP - UFMS,Campus de Ponta Porã - Universidade Federal de Mato Grosso do Sul
 MS,FACOM - UFMS,Faculdade de Computação - UFMS
 MS,IFMS- NA,Instituto Federal de Educação, Ciências e Tecnologia do Mato Grosso do Sul - Campus Nova Andradina
 MS,Instituto Federal de,Instituto Federal de Educação, Ciência e Tecnologia de Mato Grosso do Sul - Campus Três Lagoas
 MS,UEMS,Universidade Estadual de Mato Grosso do Sul
 MS,UFGD,Universidade Federal da Grande Dourados
+MS,UFMS-CPCX,Departamento de Ciências Exatas - CPCX/UFMS
 MT,UFMT - Cuiabá,Universidade Federal de Mato Grosso - Campus Cuiabá
 MT,UNEMAT,Universidade do Estado de Mato Grosso
-PA,,Universidade Federal do Pará
-PA,IFPA - Campus Itaitu,Instituto Federal de Educação, Ciência e Tecnologia do Pará - IFPA Campus Itaituba
-PA,IFTM campus UPT,Instituto Federal de Educação, Ciência e Tecnologia do Triângulo Mineiro campus Uberaba Parque Tecnológico
-PA,IFTM-Patrocinio/ADS,Instituto Federal do Triangulo Mineiro - Análise e Desenvolvimento Sistemas - Patrocínio
-PA,IFTM-Udi/TSPI,Instituto Federal de Educação, Ciência e Tecnologia de Uberlandia - Tecnologia em Sistemas para Internet
+PA,CESUPA,Centro Universitario do Para - CESUPA
+PA,IFPA,Instituto Federal de Educação, Ciência e Tecnologia do Pará
+PA,IFPA-CI,Instituto Federal de Educação, Ciência e Tecnologia do Pará - IFPA Campus Itaituba
 PA,UFOPA,Universidade Federal do Oeste do Pará
-PB,IFPB - Campina Grand,Instituto Federal de Educação, Ciência e Tecnologia da Paraíba - Campus Campina Grande
-PB,IFPB - João Pessoa,Instituto Federal de Educação, Ciência e Tecnologia da Paraíba - Campus João Pessoa
+PA,UFPA,Universidade Federal do Pará
+PB,FACISA,Faculdade de Ciências Sociais Aplicadas - FACISA (PB)
 PB,IFPB,Instituto Federal de Educação, Ciência e Tecnologia da Paraíba
+PB,IFPB-CG,Instituto Federal de Educação, Ciência e Tecnologia da Paraíba - Campus Campina Grande
+PB,IFPB-JP,Instituto Federal de Educação, Ciência e Tecnologia da Paraíba - Campus João Pessoa
 PB,UEPB,Universidade Estadual da Paraíba
 PB,UFCG,Universidade Federal de Campina Grande
 PB,UFPB,Universidade Federal da Paraíba
@@ -134,12 +153,16 @@ PE,CESAR School,CESAR School
 PE,UAG-UFRPE,Federal Rural University of Pernambuco - Academic Unit of Garanhuns
 PE,UFPE,Universidade Federal de Pernambuco
 PE,UFRPE,Universidade Federal Rural de Pernambuco
+PE,UNIAESO,Faculdades Integradas Barros Melo
 PE,UNIVASF,Universidade Federal do Vale do São Francisco
+PE,UPE,Universidade de Pernambuco
 PI,IFPI,Instituto Federal de Educação, Ciência e Tecnologia do Piauí
+PI,IFPI-CP,Instituto Federal de Educação, Ciência e Tecnologia do Piauí - Campus Picos
 PI,UESPI Parnaíba,Universidade Estadual do Piauí - Campus de Parnaíba
 PI,UESPI,Universidade Estadual do Piauí
-PI,UFPI - Picos,Universidade Federal do Piauí - Campus Picos
 PI,UFPI,Universidade Federal do Piauí
+PI,UFPI-CP,Universidade Federal do Piauí - Campus Picos
+PI,UNINASSAU,Faculdade Maurício de Nassau Parnaíba
 PR,CEULJI-ULBRA,Centro Universitário Luterano de Ji-Paraná da ULBRA
 PR,PUCPR,Pontificia Universidade Católica do Paraná
 PR,UEL,Universidade Estadual de Londrina
@@ -148,13 +171,17 @@ PR,UEPG,Universidade Estadual de Ponta Grossa
 PR,UF Paraná,Universidade Federal do Paraná
 PR,UFPR-JA,Universidade Federal do Paraná - Jandaia do Sul
 PR,UNICENTRO,Universidade Estadual do Centro-Oeste
+PR,UNICESUMAR,UNICESUMAR - University Center of Maringa
 PR,Uninter,Centro Universitário Internacional
-PR,UNIOESTE - Cascavel,UNIOESTE - Campus Cascavel
-PR,UNIOESTE - Foz do Iguaçu,UNIOESTE - Campus de Foz do Iguaçu
-PR,UTFPR Toledo,Universidade Tecnológica Federal do Paraná (UTFPR) - Campus Toledo
-PR,UTFPR- Ponta Grossa,Universidade Tecnológica Federal do Paraná - campus Ponta Grossa
+PR,UNIOESTE-C,UNIOESTE - Campus Cascavel
+PR,UNIOESTE-FI,UNIOESTE - Campus de Foz do Iguaçu
+PR,UP,Universidade Positivo
+PR,UTFPR,Universidade Tecnológica Federal do Paraná
+PR,UTFPR-CM, Universidade Tecnológica Federal do Paraná - Campus Medianeira
 PR,UTFPR-CT,Universidade Tecnológica Federal do Paraná - Campus Curitiba
 PR,UTFPR-DV,Universidade Tecnológica Federal do Paraná (UTFPR) - Campus Dois Vizinhos
+PR,UTFPR-PG,Universidade Tecnológica Federal do Paraná - Campus Ponta Grossa
+PR,UTFPR-T,Universidade Tecnológica Federal do Paraná (UTFPR) - Campus Toledo
 RJ,CEFET/RJ Petrópolis,Centro Federal de Educação Tecnológica Celso Suckow da Fonseca - Campus Petrópolis
 RJ,CEFET/RJ,Centro Federal de Educação Tecnológica Celso Suckow da Fonseca
 RJ,Descomplica-RJ,Faculdade Descomplica
@@ -173,8 +200,8 @@ RN,IFRN - CNAT,Instituto Federal de Educação, Ciência e Tecnologia do Rio Gra
 RN,IFRN-Par,Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte - Campus Parnamirim
 RN,UERN,Universidade do Estado do Rio Grande do Norte
 RN,UFRN,Universidade Federal do Rio Grande do Norte
-RO,,Faculdade de Porto Velho
-RO,UNIR,Fundação Universidade Federal de Rondônia
+RO,FIP,Faculdade de Porto Velho
+RO,UNIR,UNIR - Universidade Federal de Rondonia
 RR,CUEdA,Centro Universitário Estácio da Amazônia
 RR,FAAr,FAAr - Faculdades Associadas de Ariquemes
 RR,UERR,Universidade Estadual de Roraima
@@ -183,19 +210,21 @@ RS,FACCAT,Faculdades Integradas de Taquara
 RS,FURG,Fundação Universidade Federal do Rio Grande
 RS,PUCRS,Pontifícia Universidade Católica do Rio Grande do Sul
 RS,UCPEL,Universidade Católica de Pelotas
+RS,UFP-CA,Universidade Federal do Pampa - Campus Alegrete
 RS,UFPEL,Universidade Federal de Pelotas
 RS,UFRGS,Universidade Federal do Rio Grande do Sul
 RS,UFSM,Universidade Federal de Santa Maria
 RS,UNIJUI - Santa Rosa,Universidade Regional do Noroeste do Estado do Rio Grande do Sul
 RS,UNIJUI,Universidade Regional do Noroeste do Estado do Rio Grande do Sul
 RS,UPF,Universidade de Passo Fundo
-RS,URI - Erechim,Universidade Regional Integrada - Campus de Erechim
-SC,Chapecó,Universidade Comunitária Regional de Chapecó
+RS,URI-CE,Universidade Regional Integrada - Campus de Erechim
+RS,URI-CSA,Universidade Regional Integrada - Campus de Santo Ângelo
 SC,FIE,Faculdade Exponencial - FIE
 SC,FURB,Universidade Regional de Blumenau
 SC,IESGF,Instituto de Ensino Superior da Grande Florianópolis
 SC,IFC,Instituto Federal Catarinense
 SC,IFSC,Instituto Federal de Santa Catarina
+SC,UCRC,Universidade Comunitária Regional de Chapecó
 SC,UDESC,Universidade do Estado de Santa Catarina
 SC,UDESC-CEPLAN,Centro de Educação do Planalto Norte
 SC,UF Santa Catarina,Universidade Federal de Santa Catarina (Campus Florianópolis)
@@ -209,29 +238,30 @@ SC,UNOESC - São Miguel,UNOESC - Universidade do Oeste de Santa Catarina - São 
 SC,UNOESC,Universidade do Oeste de Santa Catarina - Joaçaba
 SE,Senai Cimatic,Faculdade de Tecnologia SENAI CIMATEC
 SE,UFS,Universidade Federal de Sergipe
-SP,,Faculdade Anhanguera Taubaté - Unidade II
-SP,,Faculdade de Tecnologia de Sorocaba
-SP,,Universidade Presbiteriana Mackenzie
 SP,CBM,Centro Universitário Barão de Mauá
 SP,EEP,Escola de Engenharia de Piracicaba
 SP,ESAMC,ESAMC Sorocaba
 SP,ESPM,Escola Superior de Propaganda e Marketing de São Paulo
 SP,FACENS,FACENS - Faculdade de Engenharia de Sorocaba
 SP,FAJ,Faculdade de Jaguariúna - FAJ
+SP,FAT-II,Faculdade Anhanguera Taubaté - Unidade II
 SP,FATEC Americana,Faculdade de Tecnologia Americana
-SP,Fatec Bauru,Fatec Bauru
+SP,FATEC Bauru,Fatec Bauru
 SP,FATEC Cruzeiro,Faculdade de Tecnologia de Cruzeiro
 SP,FATEC Garça,Faculdade de Tecnologia de Garça
 SP,Fatec Lins,Faculdade de Tecnologia de Lins
 SP,Fatec Mococa,Faculdade de Tecnologia de Mococa
 SP,Fatec Ourinhos,Fatec Ourinhos
 SP,FATEC São Paulo,Faculdade de Tecnologia de São Paulo
+SP,FATEC-C,FATEC Carapicuíba
 SP,Fatec-MC,Faculdade de Tecnologia de Mogi das Cruzes
 SP,FATEC-SJC,Faculdade de Tecnologia de São José dos Campos
 SP,FCT-UNESP,UNESP - Universidade Estadual Paulista (Faculdade de Ciências e Tecnologia - Presidente Prudente)
 SP,FEI,Centro Universitário da FEI
 SP,FIAP,Faculdade de Informática e Administração Paulista
 SP,FIB,Faculdades Integradas de Bauru
+SP,FTI,Faculdade de Tecnologia de Itu
+SP,FTS,Faculdade de Tecnologia de Sorocaba
 SP,FTT,Faculdade de Tecnologia Termomecanica
 SP,IBILCE-UNESP,UNESP - Universidade Estadual Paulista (IBILCE)
 SP,IFSC-USP,IFSC - Instituto de Física de São Carlos - USP
@@ -251,6 +281,7 @@ SP,UFSCar-Sorocaba,Universidade Federal de São Carlos - Campus Sorocaba
 SP,UNESC,Universidade do Extremo Sul Catarinense
 SP,UNESP Rio Claro,Universidade Estadual Paulista Rio Claro
 SP,UNESP-Bauru,UNESP - Universidade Estadual Paulista - (Faculdade de Ciências - Bauru)
+SP,UNESP-RC,Universidade Estadual Paulista Unesp Rio Claro
 SP,UNIARARAS,Centro Universitário Hermínio Ometto
 SP,UNIBTA,Instituto Brasileiro de Tecnologia Avançada
 SP,UNICAMP,Universidade Estadual de Campinas
@@ -259,13 +290,16 @@ SP,UNIFAE,Centro Universitário das Faculdades Associadas de Ensino
 SP,UNIFESP,Universidade Federal de São Paulo
 SP,UNILINS,Centro Universitário de Lins
 SP,UNINOVE,Universidade Nove de Julho
+SP,UNIP-SC,UNIP - Campus Sorocaba
 SP,UNISAL,Centro Universitário Salesiano de São Paulo
 SP,UNISALESIANO,Centro Universitário Católico Salesiano Auxilum
 SP,UniSantos,Universidade Católica de Santos
+SP,UNISO,Universidade de Sorocaba
 SP,UNITAU,Universidade de Taubaté
 SP,UNIVEM,UNIVEM - Centro Universitário Eurípides de Marília
 SP,Univesp,Universidade Virtual do Estado de São Paulo
 SP,UNOESTE,UNOESTE - Universidade do Oeste Paulista
+SP,UPM,Universidade Presbiteriana Mackenzie
 SP,USF,Universidade São Francisco
 SP,USJT,Universidade São Judas Tadeu
 SP,USP - São Carlos,Universidade de São Paulo - Campus de São Carlos
