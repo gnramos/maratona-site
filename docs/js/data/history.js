@@ -110304,5 +110304,1691 @@ HISTORY = {
         }
       }
     }
+  },
+  "BR": {
+    "Centro Federal de Educação Tecnológica Celso Suckow da Fonseca - Campus Petrópolis": {
+      "Nacional": {
+        "2022": {
+          "Teams": 1,
+          "BestRank": 27
+        }
+      },
+      "Contestants": {
+        "ugeolrrbsapscfaeorsjrteon": {
+          "FullName": "Roger Passos",
+          "Nacional": {
+            "2022": 27.0
+          }
+        },
+        "lcomateansosugoemmitnuotcko": {
+          "FullName": "Mateus Garcia",
+          "Nacional": {
+            "2022": 27.0
+          }
+        },
+        "maoa0dro1c0ge2iudml60": {
+          "FullName": "Eduardo Gomes",
+          "Nacional": {
+            "2022": 27.0
+          }
+        }
+      }
+    },
+    "Centro Federal de Educação Tecnológica de Minas Gerais - Campus 2": {
+      "Nacional": {
+        "2022": {
+          "Teams": 1,
+          "BestRank": 32
+        }
+      },
+      "Contestants": {
+        "aoaamaargliccmmcrmcle": {
+          "FullName": "Marcela C Caram Peito",
+          "Nacional": {
+            "2022": 32.0
+          }
+        },
+        "epdorcvlmaomoiteooohlsi": {
+          "FullName": "Pedro Veloso Inacio De Oliveira",
+          "Nacional": {
+            "2022": 32.0
+          }
+        },
+        "iivocorammteohtlilrcpa": {
+          "FullName": "Victor Samuel Levindo Mont'mor",
+          "Nacional": {
+            "2022": 32.0
+          }
+        }
+      }
+    },
+    "Centro Universitario Municipal de Franca": {
+      "Nacional": {
+        "2022": {
+          "Teams": 1,
+          "BestRank": 60
+        }
+      },
+      "Contestants": {
+        "lori5igmaa9ogtdm4pchoa": {
+          "FullName": "Thiago Prado",
+          "Nacional": {
+            "2022": 60.0
+          }
+        },
+        "urgmaogdha0lttmsiec0mh7aoo": {
+          "FullName": "Matheus Henrique Gotardo Pintor",
+          "Nacional": {
+            "2022": 60.0
+          }
+        },
+        "shicsvmatorcmiiillnuocoi": {
+          "FullName": "Vinícius Crisol",
+          "Nacional": {
+            "2022": 60.0
+          }
+        }
+      }
+    },
+    "Centro Universitário da FEI": {
+      "Nacional": {
+        "2022": {
+          "Teams": 1,
+          "BestRank": 41
+        }
+      },
+      "Contestants": {
+        "smsirmbeniaowcwgvoeel": {
+          "FullName": "Weverson Da Silva",
+          "Nacional": {
+            "2022": 41.0
+          }
+        },
+        "kfufragisudinieueb": {
+          "FullName": "Kenzo Sugai",
+          "Nacional": {
+            "2022": 41.0
+          }
+        },
+        "gfgeesafouiinubcrelvnd": {
+          "FullName": "Guilherme Vieira Silva Gonçalves",
+          "Nacional": {
+            "2022": 41.0
+          }
+        }
+      }
+    },
+    "FACENS - Faculdade de Engenharia de Sorocaba": {
+      "Nacional": {
+        "2022": {
+          "Teams": 1,
+          "BestRank": 42
+        }
+      },
+      "Contestants": {
+        "mfjocmepihtaliieleoi": {
+          "FullName": "Felipe Maruyama",
+          "Nacional": {
+            "2022": 42.0
+          }
+        },
+        "dlmmuajmgmtoaeisc": {
+          "FullName": "Mateus Jose Daemon Martins",
+          "Nacional": {
+            "2022": 42.0
+          }
+        },
+        "aeioxleatavclmsmmg": {
+          "FullName": "Alexandre Estevam",
+          "Nacional": {
+            "2022": 42.0
+          }
+        }
+      }
+    },
+    "Faculdade de Computação - UFMS": {
+      "Nacional": {
+        "2022": {
+          "Teams": 1,
+          "BestRank": 28
+        }
+      },
+      "Contestants": {
+        "tmcsghcyaiommlueav": {
+          "FullName": "Matheus Vyctor Aranda Espíndola",
+          "Nacional": {
+            "2022": 28.0
+          }
+        },
+        "loucalmagoavmissltiinhsz": {
+          "FullName": "Luiz Henrique Santos",
+          "Nacional": {
+            "2022": 28.0
+          }
+        },
+        "llrsublvriusafcam": {
+          "FullName": "Lucas Villar",
+          "Nacional": {
+            "2022": 28.0
+          }
+        }
+      }
+    },
+    "Fundação Universidade Federal de Rondônia": {
+      "Nacional": {
+        "2022": {
+          "Teams": 1,
+          "BestRank": 56
+        }
+      },
+      "Contestants": {
+        "ocjm43gzmal6io90i": {
+          "FullName": "João Marcos Carvalho De Souza",
+          "Nacional": {
+            "2022": 56.0
+          }
+        },
+        "imsdcaiamlgsomh": {
+          "FullName": "Samih Santos De Oliveira",
+          "Nacional": {
+            "2022": 56.0
+          }
+        },
+        "m3lwmanadcl2lii1agrioc": {
+          "FullName": "William Cardoso Barbosa",
+          "Nacional": {
+            "2022": 56.0
+          }
+        }
+      }
+    },
+    "INATEL - Instituto Nacional de Telecomunicações": {
+      "Nacional": {
+        "2022": {
+          "Teams": 1,
+          "BestRank": 60
+        }
+      },
+      "Contestants": {
+        "ablrontdrbniegodcbenaariel": {
+          "FullName": "Bernardo Gandolpho",
+          "Nacional": {
+            "2022": 60.0
+          }
+        },
+        "gnrsletalbcaaueai": {
+          "FullName": "Lucas Marques",
+          "Nacional": {
+            "2022": 60.0
+          }
+        },
+        "ptgbinhopceaaavrecrll": {
+          "FullName": "Pedro Piccichelli",
+          "Nacional": {
+            "2022": 60.0
+          }
+        }
+      }
+    },
+    "Institute of Computing - Federal University of Amazonas": {
+      "Nacional": {
+        "2022": {
+          "Teams": 1,
+          "BestRank": 31
+        }
+      },
+      "Contestants": {
+        "ocbucucoerhfrmuaalmsdpia": {
+          "FullName": "Lucas Rocha Dos Santos",
+          "Nacional": {
+            "2022": 31.0
+          }
+        },
+        "mesruupmlrtaubaccoasiofdc": {
+          "FullName": "Lucas Castro De Souza",
+          "Nacional": {
+            "2022": 31.0
+          }
+        },
+        "udemucebnoarflrapmieofpicf": {
+          "FullName": "Felipe Pereira Franco",
+          "Nacional": {
+            "2022": 31.0
+          }
+        }
+      }
+    },
+    "Instituto Federal Do Norte de Minas Gerais - Campus Montes Claros": {
+      "Nacional": {
+        "2022": {
+          "Teams": 1,
+          "BestRank": 48
+        }
+      },
+      "Contestants": {
+        "cagimvinuloiigcb7ams": {
+          "FullName": "Gabriel Ferreira",
+          "Nacional": {
+            "2022": 48.0
+          }
+        },
+        "somiilaosntmailesaongecnadnuc": {
+          "FullName": "Caio Santos",
+          "Nacional": {
+            "2022": 48.0
+          }
+        },
+        "ncoalarmlhhumodhmgoadooeacito": {
+          "FullName": "Hugo Leonardo Machado",
+          "Nacional": {
+            "2022": 48.0
+          }
+        }
+      }
+    },
+    "Instituto Federal de Educação, Ciência e Tecnologia da Paraíba - Campus João Pessoa": {
+      "Nacional": {
+        "2022": {
+          "Teams": 1,
+          "BestRank": 37
+        }
+      },
+      "Contestants": {
+        "urtngdaesccpoibbaiaffidormee": {
+          "FullName": "Igor Stefan",
+          "Nacional": {
+            "2022": 37.0
+          }
+        },
+        "oorltostcreikhmoervocubt": {
+          "FullName": "Victor Herbert Ferreira De Sousa",
+          "Nacional": {
+            "2022": 37.0
+          }
+        },
+        "meialfogaocbm14ecl": {
+          "FullName": "Calebe Oliveira De Figueirêdo",
+          "Nacional": {
+            "2022": 37.0
+          }
+        }
+      }
+    },
+    "Instituto Federal de Educação, Ciência e Tecnologia de São Paulo - Campus Birigui": {
+      "Nacional": {
+        "2022": {
+          "Teams": 1,
+          "BestRank": 43
+        }
+      },
+      "Contestants": {
+        "hiupeoieartleotgepmcmdqrnaliu": {
+          "FullName": "Pedro Pauletti",
+          "Nacional": {
+            "2022": 43.0
+          }
+        },
+        "mstmmcgi1lluycaiao": {
+          "FullName": "Lucas Mity Kamado",
+          "Nacional": {
+            "2022": 43.0
+          }
+        },
+        "1gprmiao7mm5lroa39blyagic": {
+          "FullName": "Gabriel Martins",
+          "Nacional": {
+            "2022": 43.0
+          }
+        }
+      }
+    },
+    "Instituto Federal de Educação, Ciência e Tecnologia do Acre": {
+      "Nacional": {
+        "2022": {
+          "Teams": 1,
+          "BestRank": 49
+        }
+      },
+      "Contestants": {
+        "eceiicmaodrlsvuglmeaolp": {
+          "FullName": "Luis Antonio Lima Santiago",
+          "Nacional": {
+            "2022": 49.0
+          }
+        },
+        "mi0moagcmia0agorl12i": {
+          "FullName": "Igor Maia",
+          "Nacional": {
+            "2022": 49.0
+          }
+        },
+        "mmajingjsarocoredl": {
+          "FullName": "Jardesson Mendes",
+          "Nacional": {
+            "2022": 49.0
+          }
+        }
+      }
+    },
+    "Instituto Federal de Educação, Ciência e Tecnologia do Ceará - Campus Fortaleza": {
+      "Nacional": {
+        "2022": {
+          "Teams": 1,
+          "BestRank": 44
+        }
+      },
+      "Contestants": {
+        "st2holci0yoaanbsmnoml": {
+          "FullName": "Alyson Noronha",
+          "Nacional": {
+            "2022": 44.0
+          }
+        },
+        "folgmrimibcleatmh": {
+          "FullName": "Mardonio França",
+          "Nacional": {
+            "2022": 44.0
+          }
+        },
+        "oabonj7oclrmooairemg1": {
+          "FullName": "João Venancio",
+          "Nacional": {
+            "2022": 44.0
+          }
+        }
+      }
+    },
+    "Instituto Federal de Educação, Ciência e Tecnologia do Maranhão": {
+      "Nacional": {
+        "2022": {
+          "Teams": 1,
+          "BestRank": 57
+        }
+      },
+      "Contestants": {
+        "bafeliemaafudmaeorcdl": {
+          "FullName": "Alef Joseneudo Silveira Gomes De Melo",
+          "Nacional": {
+            "2022": 57.0
+          }
+        },
+        "apneaeeiaclbfrnmrdiaduelf": {
+          "FullName": "Renan Fellipe Amaral Da Silva",
+          "Nacional": {
+            "2022": 57.0
+          }
+        },
+        "maesricdabnaeanaocmuluidtnf": {
+          "FullName": "Robson Luan Do Nascimento De Sousa",
+          "Nacional": {
+            "2022": 57.0
+          }
+        }
+      }
+    },
+    "Instituto Federal de Educação, Ciência e Tecnologia do Triângulo Mineiro campus Uberaba Parque Tecnológico": {
+      "Nacional": {
+        "2022": {
+          "Teams": 1,
+          "BestRank": 45
+        }
+      },
+      "Contestants": {
+        "mfeestjopatouenesertliudbsd": {
+          "FullName": "José Lopes",
+          "Nacional": {
+            "2022": 45.0
+          }
+        },
+        "eumdfuautbryauedintredirttes": {
+          "FullName": "Yuri Duarte",
+          "Nacional": {
+            "2022": 45.0
+          }
+        },
+        "geeouitscmbftnagrudairedtair": {
+          "FullName": "Igor Garcia",
+          "Nacional": {
+            "2022": 45.0
+          }
+        }
+      }
+    },
+    "Instituto Militar de Engenharia": {
+      "Nacional": {
+        "2022": {
+          "Teams": 1,
+          "BestRank": 5
+        }
+      },
+      "Contestants": {
+        "amiborgseroreciabmei": {
+          "FullName": "Sergio Macário",
+          "Nacional": {
+            "2022": 5.0
+          }
+        },
+        "na0iamc9vldmldaooiagh": {
+          "FullName": "Davi Holanda",
+          "Nacional": {
+            "2022": 5.0
+          }
+        },
+        "aiabenbvhimrqoreunreer": {
+          "FullName": "Henrique Navarro",
+          "Nacional": {
+            "2022": 5.0
+          }
+        }
+      }
+    },
+    "Instituto Tecnológico de Aeronautica": {
+      "Nacional": {
+        "2022": {
+          "Teams": 1,
+          "BestRank": 15
+        }
+      },
+      "Contestants": {
+        "ugwcmgikickrmleouhzloalema": {
+          "FullName": "Guilherme Kowalczuk",
+          "Nacional": {
+            "2022": 15.0
+          }
+        },
+        "cdroiolfumrgmanb": {
+          "FullName": "Francisco Bruno Dias Ribeiro Da Silva",
+          "Nacional": {
+            "2022": 15.0
+          }
+        },
+        "mcofsametogimslmgi": {
+          "FullName": "Moisés Thimoteo",
+          "Nacional": {
+            "2022": 15.0
+          }
+        }
+      }
+    },
+    "Instituto de Informática - UFG": {
+      "Nacional": {
+        "2022": {
+          "Teams": 1,
+          "BestRank": 33
+        }
+      },
+      "Contestants": {
+        "mgtgaioelos3caurvmall": {
+          "FullName": "Gustavo Leal",
+          "Nacional": {
+            "2022": 33.0
+          }
+        },
+        "mmnaaoialelugc1m6o": {
+          "FullName": "Lauane Mateus Oliveira De Moraes",
+          "Nacional": {
+            "2022": 33.0
+          }
+        },
+        "sisfdategilnuueencborss": {
+          "FullName": "Nelsi Junior",
+          "Nacional": {
+            "2022": 33.0
+          }
+        }
+      }
+    },
+    "Pontifícia Universidade Católica de Goiás": {
+      "Nacional": {
+        "2022": {
+          "Teams": 1,
+          "BestRank": 26
+        }
+      },
+      "Contestants": {
+        "icahmomogigerlbleu": {
+          "FullName": "Gabriel Huglio Pineli Simoes",
+          "Nacional": {
+            "2022": 26.0
+          }
+        },
+        "btluleceiaroimhaslaacmoggrril": {
+          "FullName": "Lucas Arriel",
+          "Nacional": {
+            "2022": 26.0
+          }
+        },
+        "vlcgmiaolacmdporioma": {
+          "FullName": "Valdomiro Roberto Neto",
+          "Nacional": {
+            "2022": 26.0
+          }
+        }
+      }
+    },
+    "UNESP - Universidade Estadual Paulista - (Faculdade de Ciências - Bauru)": {
+      "Nacional": {
+        "2022": {
+          "Teams": 1,
+          "BestRank": 46
+        }
+      },
+      "Contestants": {
+        "srbaaerupmsnfo": {
+          "FullName": "Arthur Francisco Ramos",
+          "Nacional": {
+            "2022": 46.0
+          }
+        },
+        "urarknpaaebsimiardmn": {
+          "FullName": "Maria Angélica Miranda",
+          "Nacional": {
+            "2022": 46.0
+          }
+        },
+        "nasormelblrpicu": {
+          "FullName": "Renato Leite Camilo",
+          "Nacional": {
+            "2022": 46.0
+          }
+        }
+      }
+    },
+    "UNOESC - Universidade do Oeste de Santa Catarina - Chapecó": {
+      "Nacional": {
+        "2022": {
+          "Teams": 1,
+          "BestRank": 53
+        }
+      },
+      "Contestants": {
+        "mooslapadljemooociwgr": {
+          "FullName": "Joao Pedro Wolschick",
+          "Nacional": {
+            "2022": 53.0
+          }
+        },
+        "idceuonilsbrvehaoreu": {
+          "FullName": "Heron Westendorff",
+          "Nacional": {
+            "2022": 53.0
+          }
+        },
+        "nbrnbsroyeeiwllaoedeutucg": {
+          "FullName": "Welyton Leidens",
+          "Nacional": {
+            "2022": 53.0
+          }
+        }
+      }
+    },
+    "UNOESTE - Universidade do Oeste Paulista": {
+      "Nacional": {
+        "2022": {
+          "Teams": 1,
+          "BestRank": 50
+        }
+      },
+      "Contestants": {
+        "ctvmoirozarrliotmghguam": {
+          "FullName": "Vitor Hugo Rossi Martinez",
+          "Nacional": {
+            "2022": 50.0
+          }
+        },
+        "ilmcgbemtolaiaidehomora": {
+          "FullName": "Gabriel Carvalho",
+          "Nacional": {
+            "2022": 50.0
+          }
+        },
+        "omlctlonohigeaatmoolsemge": {
+          "FullName": "Leonardo Gomes Anholetto",
+          "Nacional": {
+            "2022": 50.0
+          }
+        }
+      }
+    },
+    "Universidade Estadual Paulista Unesp Rio Claro": {
+      "Nacional": {
+        "2022": {
+          "Teams": 1,
+          "BestRank": 39
+        }
+      },
+      "Contestants": {
+        "fbnpiyrdueeualsar": {
+          "FullName": "Rafael Fuziyama",
+          "Nacional": {
+            "2022": 39.0
+          }
+        },
+        "plmlbliuebrnsorue": {
+          "FullName": "Murilo Missano Bell",
+          "Nacional": {
+            "2022": 39.0
+          }
+        },
+        "fsoaeplaurpibiesbne": {
+          "FullName": "Felipe Saboia",
+          "Nacional": {
+            "2022": 39.0
+          }
+        }
+      }
+    },
+    "Universidade Estadual de Campinas": {
+      "Nacional": {
+        "2022": {
+          "Teams": 3,
+          "BestRank": 3
+        }
+      },
+      "Contestants": {
+        "cdmazao0smaoilguotgi": {
+          "FullName": "Tiago Souza",
+          "Nacional": {
+            "2022": 3.0
+          }
+        },
+        "algt0isa2csmnoio0amnm2": {
+          "FullName": "Naim Shaikhzadeh",
+          "Nacional": {
+            "2022": 3.0
+          }
+        },
+        "lehtacausymtormmsveiagn0a3a": {
+          "FullName": "Yan Silva",
+          "Nacional": {
+            "2022": 3.0
+          }
+        },
+        "ydamcoiglmlhdoa": {
+          "FullName": "Luiz Henrique Yuji Delgado Oda",
+          "Nacional": {
+            "2022": 4.0
+          }
+        },
+        "graaohriemcednarocbmlgsa": {
+          "FullName": "Bernardo Panka Archegas",
+          "Nacional": {
+            "2022": 4.0
+          }
+        },
+        "c002cilorimoile2v": {
+          "FullName": "Cirilo Morais",
+          "Nacional": {
+            "2022": 4.0
+          }
+        },
+        "slfrloanmaeasa2sgotii1cm": {
+          "FullName": "Larissa Gomes De Stefano Escaliante",
+          "Nacional": {
+            "2022": 36.0
+          }
+        },
+        "alm7gymnkmsnola3iicaie": {
+          "FullName": "Yasmin Kaline",
+          "Nacional": {
+            "2022": 36.0
+          }
+        },
+        "umka75abc1rn5dpc22i": {
+          "FullName": "Karyn Huamán",
+          "Nacional": {
+            "2022": 36.0
+          }
+        }
+      }
+    },
+    "Universidade Estadual do Ceará": {
+      "Nacional": {
+        "2022": {
+          "Teams": 1,
+          "BestRank": 34
+        }
+      },
+      "Contestants": {
+        "gaosoiucmoeclgmahj": {
+          "FullName": "José Gabriel Uchoa Holanda",
+          "Nacional": {
+            "2022": 34.0
+          }
+        },
+        "uunobaueocortaacnloej": {
+          "FullName": "João Guilherme Araujo Canuto",
+          "Nacional": {
+            "2022": 34.0
+          }
+        },
+        "ernohaaovyarecuubtflr": {
+          "FullName": "Rhavy Souza",
+          "Nacional": {
+            "2022": 34.0
+          }
+        }
+      }
+    },
+    "Universidade Federal Rural do Rio de Janeiro": {
+      "Nacional": {
+        "2022": {
+          "Teams": 1,
+          "BestRank": 13
+        }
+      },
+      "Contestants": {
+        "iocgeaevlodmlauscigrbaloiemarn": {
+          "FullName": "Lucas Nóbrega",
+          "Nacional": {
+            "2022": 13.0
+          }
+        },
+        "rlm8199oiadpmoerigjoaoc": {
+          "FullName": "João Pedro Ribeiro De Moura",
+          "Nacional": {
+            "2022": 13.0
+          }
+        },
+        "1oismg0ohmas5ilc7bttagao": {
+          "FullName": "Thiago Felipe Bastos Da Silva",
+          "Nacional": {
+            "2022": 13.0
+          }
+        }
+      }
+    },
+    "Universidade Federal da Bahia": {
+      "Nacional": {
+        "2022": {
+          "Teams": 1,
+          "BestRank": 20
+        }
+      },
+      "Contestants": {
+        "iaommlocchtewilv3": {
+          "FullName": "Levi Weber Costa",
+          "Nacional": {
+            "2022": 20.0
+          }
+        },
+        "mvtsmcnigiiuaolhcti": {
+          "FullName": "Vinicius Teixeira Hirschle",
+          "Nacional": {
+            "2022": 20.0
+          }
+        },
+        "atheaormcoosomirsbln": {
+          "FullName": "Breno Henrique Rosas Do Nascimento",
+          "Nacional": {
+            "2022": 20.0
+          }
+        }
+      }
+    },
+    "Universidade Federal de Alagoas": {
+      "Nacional": {
+        "2022": {
+          "Teams": 1,
+          "BestRank": 23
+        }
+      },
+      "Contestants": {
+        "cijrvubalaaaf": {
+          "FullName": "João Alcântara",
+          "Nacional": {
+            "2022": 23.0
+          }
+        },
+        "e4otldricovi8pvrmeco": {
+          "FullName": "Pedro Ferreira",
+          "Nacional": {
+            "2022": 23.0
+          }
+        },
+        "otnilimhi7s1rnoamoo8hcorpeb": {
+          "FullName": "Robson Pinheiro",
+          "Nacional": {
+            "2022": 23.0
+          }
+        }
+      }
+    },
+    "Universidade Federal de Campina Grande": {
+      "Nacional": {
+        "2022": {
+          "Teams": 1,
+          "BestRank": 8
+        }
+      },
+      "Contestants": {
+        "m0r2oactha0aol7imepl8h": {
+          "FullName": "Raphael De Paula Fonseca",
+          "Nacional": {
+            "2022": 8.0
+          }
+        },
+        "cfuculbucagqradeqeucrsueulcb": {
+          "FullName": "Lucas Brenner Herculano E Albuquerque",
+          "Nacional": {
+            "2022": 8.0
+          }
+        },
+        "drncfcsrnfutinacebcaeureg": {
+          "FullName": "Rennan Rocha De Freitas",
+          "Nacional": {
+            "2022": 8.0
+          }
+        }
+      }
+    },
+    "Universidade Federal de Itajubá - Campus Itajubá": {
+      "Nacional": {
+        "2022": {
+          "Teams": 1,
+          "BestRank": 30
+        }
+      },
+      "Contestants": {
+        "eomolsm6slchti1omnagae": {
+          "FullName": "Luiz Emanoel Batista Moreira",
+          "Nacional": {
+            "2022": 30.0
+          }
+        },
+        "ltmcmahtinejogo": {
+          "FullName": "João Henrique Pulini Tonet",
+          "Nacional": {
+            "2022": 30.0
+          }
+        },
+        "b6nioefuu7ivio0dojatrrec": {
+          "FullName": "João Victor Candido Monteiro",
+          "Nacional": {
+            "2022": 30.0
+          }
+        }
+      }
+    },
+    "Universidade Federal de Mato Grosso - Campus Cuiabá": {
+      "Nacional": {
+        "2022": {
+          "Teams": 1,
+          "BestRank": 47
+        }
+      },
+      "Contestants": {
+        "coalmhlmliatedlooanto": {
+          "FullName": "Allan Toledo",
+          "Nacional": {
+            "2022": 47.0
+          }
+        },
+        "sao4ai8clomggmsu4": {
+          "FullName": "Gabriel De Sousa Gomes Pedroso",
+          "Nacional": {
+            "2022": 47.0
+          }
+        },
+        "aiimceerhedrsounoamesfglq": {
+          "FullName": "Henrique Soares",
+          "Nacional": {
+            "2022": 47.0
+          }
+        }
+      }
+    },
+    "Universidade Federal de Minas Gerais": {
+      "Nacional": {
+        "2022": {
+          "Teams": 1,
+          "BestRank": 2
+        }
+      },
+      "Contestants": {
+        "lmesluaaulaooimcgmnmjnei": {
+          "FullName": "Emanuel Silva",
+          "Nacional": {
+            "2022": 2.0
+          }
+        },
+        "mrgmtacutioleabalomn": {
+          "FullName": "Bruno Monteiro",
+          "Nacional": {
+            "2022": 2.0
+          }
+        },
+        "abimraomdaotmirrenmcolg": {
+          "FullName": "Bernardo Amorim",
+          "Nacional": {
+            "2022": 2.0
+          }
+        }
+      }
+    },
+    "Universidade Federal de Pernambuco": {
+      "Nacional": {
+        "2022": {
+          "Teams": 1,
+          "BestRank": 11
+        }
+      },
+      "Contestants": {
+        "ijsbcnpfrucec": {
+          "FullName": "José Carlos Cruz",
+          "Nacional": {
+            "2022": 11.0
+          }
+        },
+        "muprensgabifc": {
+          "FullName": "Gabriel Meireles",
+          "Nacional": {
+            "2022": 11.0
+          }
+        },
+        "icsurpfc3nfbme": {
+          "FullName": "Clodes Silva",
+          "Nacional": {
+            "2022": 11.0
+          }
+        }
+      }
+    },
+    "Universidade Federal de Santa Catarina (Campus Florianópolis)": {
+      "Nacional": {
+        "2022": {
+          "Teams": 1,
+          "BestRank": 35
+        }
+      },
+      "Contestants": {
+        "aiwaemssyeaoircemngilaldmcti": {
+          "FullName": "Wesly Ataide",
+          "Nacional": {
+            "2022": 35.0
+          }
+        },
+        "ueiolgbatsmgcmgavcoai": {
+          "FullName": "Gustavo Biage",
+          "Nacional": {
+            "2022": 35.0
+          }
+        },
+        "lcgiiaareoioagjlmbacmtniml": {
+          "FullName": "Gabriel Jacinto",
+          "Nacional": {
+            "2022": 35.0
+          }
+        }
+      }
+    },
+    "Universidade Federal de Sergipe": {
+      "Nacional": {
+        "2022": {
+          "Teams": 1,
+          "BestRank": 58
+        }
+      },
+      "Contestants": {
+        "mkhblotomriejca": {
+          "FullName": "Pedro Steinbach",
+          "Nacional": {
+            "2022": 58.0
+          }
+        },
+        "pcmoigsekesarumduol": {
+          "FullName": "Pedro Santos",
+          "Nacional": {
+            "2022": 58.0
+          }
+        },
+        "icdemgysjmolanam": {
+          "FullName": "Endy Melo",
+          "Nacional": {
+            "2022": 58.0
+          }
+        }
+      }
+    },
+    "Universidade Federal de Uberlândia": {
+      "Nacional": {
+        "2022": {
+          "Teams": 1,
+          "BestRank": 22
+        }
+      },
+      "Contestants": {
+        "heocsptalolmmciorteomsifclaa": {
+          "FullName": "Marcos Felipe Belisário Costa",
+          "Nacional": {
+            "2022": 22.0
+          }
+        },
+        "poiclammmlguaoeraitpioaor": {
+          "FullName": "Amauri Pietropaolo",
+          "Nacional": {
+            "2022": 22.0
+          }
+        },
+        "crhileg1zeaie2ndceumommls3egme": {
+          "FullName": "Guilherme Cabral",
+          "Nacional": {
+            "2022": 22.0
+          }
+        }
+      }
+    },
+    "Universidade Federal de Viçosa": {
+      "Nacional": {
+        "2022": {
+          "Teams": 1,
+          "BestRank": 18
+        }
+      },
+      "Contestants": {
+        "aiaaslgrmnscagotinmac": {
+          "FullName": "Natan Garcias",
+          "Nacional": {
+            "2022": 18.0
+          }
+        },
+        "lbevfefxrgliairbu": {
+          "FullName": "Gabriel Felix",
+          "Nacional": {
+            "2022": 18.0
+          }
+        },
+        "ioeamlmimsrvetugilaacideoht": {
+          "FullName": "Matheus Aguilar De Oliveira",
+          "Nacional": {
+            "2022": 18.0
+          }
+        }
+      }
+    },
+    "Universidade Federal de Viçosa - Campus Florestal": {
+      "Nacional": {
+        "2022": {
+          "Teams": 1,
+          "BestRank": 38
+        }
+      },
+      "Contestants": {
+        "leumusgrmlheiorefvb": {
+          "FullName": "Guilherme Melos",
+          "Nacional": {
+            "2022": 38.0
+          }
+        },
+        "mgedaibioon0cre1imrle": {
+          "FullName": "Dener Ribeiro",
+          "Nacional": {
+            "2022": 38.0
+          }
+        },
+        "gicgmlmbeonlroeeagasc": {
+          "FullName": "Germano Santos",
+          "Nacional": {
+            "2022": 38.0
+          }
+        }
+      }
+    },
+    "Universidade Federal do ABC": {
+      "Nacional": {
+        "2022": {
+          "Teams": 1,
+          "BestRank": 29
+        }
+      },
+      "Contestants": {
+        "hogimertnlocircbmame": {
+          "FullName": "Robert Chinem Fujii",
+          "Nacional": {
+            "2022": 29.0
+          }
+        },
+        "acliuuesvabnbacufldoduar": {
+          "FullName": "Lucas Olinda",
+          "Nacional": {
+            "2022": 29.0
+          }
+        },
+        "uhaiglcmogeemgiclkgemir": {
+          "FullName": "Guilherme Gigeck",
+          "Nacional": {
+            "2022": 29.0
+          }
+        }
+      }
+    },
+    "Universidade Federal do Ceará": {
+      "Nacional": {
+        "2022": {
+          "Teams": 1,
+          "BestRank": 21
+        }
+      },
+      "Contestants": {
+        "l2molaaoecc2gilemaapfr": {
+          "FullName": "Rafael Capelo Domingues",
+          "Nacional": {
+            "2022": 21.0
+          }
+        },
+        "gameobcaanrlcdleiigiaam": {
+          "FullName": "Gabriel Candeia",
+          "Nacional": {
+            "2022": 21.0
+          }
+        },
+        "pacpc2l5momgri0": {
+          "FullName": "Paulo Roberto Pinto Costa",
+          "Nacional": {
+            "2022": 21.0
+          }
+        }
+      }
+    },
+    "Universidade Federal do Ceará - Campus Quixadá": {
+      "Nacional": {
+        "2022": {
+          "Teams": 1,
+          "BestRank": 59
+        }
+      },
+      "Contestants": {
+        "frtfaieblaclfupgueier": {
+          "FullName": "Felipe Rodrigues De Santana Freitag",
+          "Nacional": {
+            "2022": 59.0
+          }
+        },
+        "vfcaaolouadrasutsiferbstnids": {
+          "FullName": "Davi Dos Santos Freitas",
+          "Nacional": {
+            "2022": 59.0
+          }
+        }
+      }
+    },
+    "Universidade Federal do Espirito Santo": {
+      "Nacional": {
+        "2022": {
+          "Teams": 1,
+          "BestRank": 52
+        }
+      },
+      "Contestants": {
+        "nuerbueisvsicfrdseiliu": {
+          "FullName": "Vinicius Lucas Dos Reis",
+          "Nacional": {
+            "2022": 52.0
+          }
+        },
+        "motogloeuolpcmciiaaixnh": {
+          "FullName": "Luciano Henrique Peixoto Da Silva",
+          "Nacional": {
+            "2022": 52.0
+          }
+        },
+        "mahaalcledlafeagsueprub": {
+          "FullName": "Pamella Galacha",
+          "Nacional": {
+            "2022": 52.0
+          }
+        }
+      }
+    },
+    "Universidade Federal do Oeste do Pará": {
+      "Nacional": {
+        "2022": {
+          "Teams": 1,
+          "BestRank": 55
+        }
+      },
+      "Contestants": {
+        "1glriabab4moo1acsm": {
+          "FullName": "Ramon Barbosa Pessoa",
+          "Nacional": {
+            "2022": 55.0
+          }
+        },
+        "sm5h0olacinjvol0imiag": {
+          "FullName": "Jhonicley Pereira Da Silva",
+          "Nacional": {
+            "2022": 55.0
+          }
+        },
+        "lmacolidoamlinacgrsdu": {
+          "FullName": "Lucas Darlindo Freitas Rodrigues",
+          "Nacional": {
+            "2022": 55.0
+          }
+        }
+      }
+    },
+    "Universidade Federal do Paraná": {
+      "Nacional": {
+        "2022": {
+          "Teams": 1,
+          "BestRank": 25
+        }
+      },
+      "Contestants": {
+        "nrmakbfoiffetikrhpu": {
+          "FullName": "Fernando Kiotheka",
+          "Nacional": {
+            "2022": 25.0
+          }
+        },
+        "fprnrgbaf81puir": {
+          "FullName": "Raul Almeida",
+          "Nacional": {
+            "2022": 25.0
+          }
+        },
+        "soapquecdilgimouaoretm": {
+          "FullName": "Pedro Vinicius Sousa Da Silva",
+          "Nacional": {
+            "2022": 25.0
+          }
+        }
+      }
+    },
+    "Universidade Federal do Piauí ": {
+      "Nacional": {
+        "2022": {
+          "Teams": 1,
+          "BestRank": 17
+        }
+      },
+      "Contestants": {
+        "mccogaiosodldlmiarifuaepr": {
+          "FullName": "Carlos Eduardo De Santana Bastos",
+          "Nacional": {
+            "2022": 17.0
+          }
+        },
+        "wmis3liguim1accllom3ala": {
+          "FullName": "Lucas Amaral",
+          "Nacional": {
+            "2022": 17.0
+          }
+        },
+        "ag1igrriomae1mmclom": {
+          "FullName": "Gabriel Moreira",
+          "Nacional": {
+            "2022": 17.0
+          }
+        }
+      }
+    },
+    "Universidade Federal do Piauí - Campus Picos": {
+      "Nacional": {
+        "2022": {
+          "Teams": 1,
+          "BestRank": 60
+        }
+      },
+      "Contestants": {
+        "llmlesmoumas8igil8eca": {
+          "FullName": "Samuel Pedro Beserra Dantas Lélis",
+          "Nacional": {
+            "2022": 60.0
+          }
+        },
+        "meiriemaodnjollscg": {
+          "FullName": "Jederilson Sousa Luz",
+          "Nacional": {
+            "2022": 60.0
+          }
+        }
+      }
+    },
+    "Universidade Federal do Rio Grande do Norte": {
+      "Nacional": {
+        "2022": {
+          "Teams": 1,
+          "BestRank": 14
+        }
+      },
+      "Contestants": {
+        "eafnoiru0uep0ubosdelrmr7d": {
+          "FullName": "Paulo Augusto De Lima Medeiros",
+          "Nacional": {
+            "2022": 14.0
+          }
+        },
+        "mtisgrcrimbailmloavooge": {
+          "FullName": "Paulo Vitor Lima Borges",
+          "Nacional": {
+            "2022": 14.0
+          }
+        },
+        "gocvaojfilmommaa": {
+          "FullName": "João Victor Aquino",
+          "Nacional": {
+            "2022": 14.0
+          }
+        }
+      }
+    },
+    "Universidade Federal do Rio Grande do Sul": {
+      "Nacional": {
+        "2022": {
+          "Teams": 1,
+          "BestRank": 16
+        }
+      },
+      "Contestants": {
+        "gbfrnsafncrfosufgie": {
+          "FullName": "Gabriel Fagundes Da Fonseca",
+          "Nacional": {
+            "2022": 16.0
+          }
+        },
+        "imoardalmhlctgmeo": {
+          "FullName": "Léo Marco De Assis Hardt",
+          "Nacional": {
+            "2022": 16.0
+          }
+        },
+        "frugaioigrngvsbrdbiheroorrcf": {
+          "FullName": "Rodrigo Bervig Rocha",
+          "Nacional": {
+            "2022": 16.0
+          }
+        }
+      }
+    },
+    "Universidade Federal do Rio de Janeiro": {
+      "Nacional": {
+        "2022": {
+          "Teams": 1,
+          "BestRank": 1
+        }
+      },
+      "Contestants": {
+        "ubprjeamfneitrcltecahamife": {
+          "FullName": "Felipe Chen",
+          "Nacional": {
+            "2022": 1.0
+          }
+        },
+        "crtiaejdbrclcfucfis": {
+          "FullName": "Letícia Freire Carvalho De Sousa",
+          "Nacional": {
+            "2022": 1.0
+          }
+        },
+        "gmacomacormlirlbgoiea": {
+          "FullName": "Gabriel De Março",
+          "Nacional": {
+            "2022": 1.0
+          }
+        }
+      }
+    },
+    "Universidade Federal do Vale do São Francisco": {
+      "Nacional": {
+        "2022": {
+          "Teams": 1,
+          "BestRank": 19
+        }
+      },
+      "Contestants": {
+        "gi4minsvlocinuacm2srig": {
+          "FullName": "Gerson Macedo",
+          "Nacional": {
+            "2022": 19.0
+          }
+        },
+        "o5tanirovlm4a1lci8amcg": {
+          "FullName": "Alan Pinho",
+          "Nacional": {
+            "2022": 19.0
+          }
+        },
+        "ob1agvsiaimol1alm1rggielc3": {
+          "FullName": "Gabriel Silva",
+          "Nacional": {
+            "2022": 19.0
+          }
+        }
+      }
+    },
+    "Universidade Tecnológica Federal do Paraná (UTFPR) - Campus Toledo": {
+      "Nacional": {
+        "2022": {
+          "Teams": 1,
+          "BestRank": 54
+        }
+      },
+      "Contestants": {
+        "maocluspcotaiaomnmachl": {
+          "FullName": "Luana Campos",
+          "Nacional": {
+            "2022": 54.0
+          }
+        },
+        "terlobupuapdorenlgtofus": {
+          "FullName": "Guilherme Poleto",
+          "Nacional": {
+            "2022": 54.0
+          }
+        },
+        "drrusuepbncadfouutlaro": {
+          "FullName": "Douglas Carvalho",
+          "Nacional": {
+            "2022": 54.0
+          }
+        }
+      }
+    },
+    "Universidade de Brasília": {
+      "Nacional": {
+        "2022": {
+          "Teams": 2,
+          "BestRank": 6
+        }
+      },
+      "Contestants": {
+        "oceit002iowglsn2mnlaom": {
+          "FullName": "Wilson Guimarães",
+          "Nacional": {
+            "2022": 6.0
+          }
+        },
+        "mirradnieuvcuqliolgoordiimeoaa": {
+          "FullName": "Eduardo Quirino De Oliveira",
+          "Nacional": {
+            "2022": 6.0
+          }
+        },
+        "coonelthzmmayino": {
+          "FullName": "Enzo Niho",
+          "Nacional": {
+            "2022": 6.0
+          }
+        },
+        "leanigmeltcroraooedhmri": {
+          "FullName": "Leonardo Riether",
+          "Nacional": {
+            "2022": 9.0
+          }
+        },
+        "ctomdlormttonaoblhetiea": {
+          "FullName": "Alberto Neto",
+          "Nacional": {
+            "2022": 9.0
+          }
+        },
+        "g0siti02tlfmco0aamog": {
+          "FullName": "Tiago Fernandes",
+          "Nacional": {
+            "2022": 9.0
+          }
+        }
+      }
+    },
+    "Universidade de Brasília - Faculdade UnB Gama": {
+      "Nacional": {
+        "2022": {
+          "Teams": 1,
+          "BestRank": 40
+        }
+      },
+      "Contestants": {
+        "loihgparjlsmcamoc1v2a": {
+          "FullName": "Joao Carvalho",
+          "Nacional": {
+            "2022": 40.0
+          }
+        },
+        "ormiarl4o0airmggc": {
+          "FullName": "Iago Marques",
+          "Nacional": {
+            "2022": 40.0
+          }
+        },
+        "iogmmcla2sasthn30io0l": {
+          "FullName": "Thalisson Alves G. De Jesus",
+          "Nacional": {
+            "2022": 40.0
+          }
+        }
+      }
+    },
+    "Universidade de São Paulo": {
+      "Nacional": {
+        "2022": {
+          "Teams": 2,
+          "BestRank": 7
+        }
+      },
+      "Contestants": {
+        "cgiwaimllmkwox": {
+          "FullName": "Willian Wang",
+          "Nacional": {
+            "2022": 7.0
+          }
+        },
+        "wmrglomanrcimm": {
+          "FullName": "Willian Miura Mori",
+          "Nacional": {
+            "2022": 7.0
+          }
+        },
+        "tmlmcogaili3nzhnaua3": {
+          "FullName": "Nathan Martins",
+          "Nacional": {
+            "2022": 7.0
+          }
+        },
+        "uhoigmt2milokca6mls": {
+          "FullName": "Matheus Ferreira",
+          "Nacional": {
+            "2022": 24.0
+          }
+        },
+        "faliilomabir0gaecacg8maf": {
+          "FullName": "Gabriel Mendonça",
+          "Nacional": {
+            "2022": 24.0
+          }
+        },
+        "ahrsbmupas": {
+          "FullName": "Antonio Hachisuca",
+          "Nacional": {
+            "2022": 24.0
+          }
+        }
+      }
+    },
+    "Universidade de São Paulo - Campus de São Carlos": {
+      "Nacional": {
+        "2022": {
+          "Teams": 1,
+          "BestRank": 10
+        }
+      },
+      "Contestants": {
+        "dgnclskroimemafoi": {
+          "FullName": "Dikson Santos",
+          "Nacional": {
+            "2022": 10.0
+          }
+        },
+        "pnibnppslcluorc": {
+          "FullName": "Fernando Lincoln",
+          "Nacional": {
+            "2022": 10.0
+          }
+        },
+        "odcqigahumairomtslzioeg": {
+          "FullName": "Thiago Queiroz",
+          "Nacional": {
+            "2022": 10.0
+          }
+        }
+      }
+    },
+    "Universidade do Estado de Santa Catarina": {
+      "Nacional": {
+        "2022": {
+          "Teams": 1,
+          "BestRank": 12
+        }
+      },
+      "Contestants": {
+        "ogmlarcoiandlagealaelfmzrme": {
+          "FullName": "Rafael Granza De Mello",
+          "Nacional": {
+            "2022": 12.0
+          }
+        },
+        "aivmcocijfrohotahlmoorgli": {
+          "FullName": "João Vitor Fröhlich",
+          "Nacional": {
+            "2022": 12.0
+          }
+        },
+        "atc2ailogahmim0od0ecdnlmo": {
+          "FullName": "Eliton Machado Da Silva",
+          "Nacional": {
+            "2022": 12.0
+          }
+        }
+      }
+    },
+    "Universidade do Estado do Pará": {
+      "Nacional": {
+        "2022": {
+          "Teams": 1,
+          "BestRank": 51
+        }
+      },
+      "Contestants": {
+        "ifeal9cmpiefolar0maleg": {
+          "FullName": "Rafael Sales",
+          "Nacional": {
+            "2022": 51.0
+          }
+        },
+        "mo2aaolimncomrojgia5a": {
+          "FullName": "João Mariano",
+          "Nacional": {
+            "2022": 51.0
+          }
+        },
+        "narmoiamgeoacichrl": {
+          "FullName": "Hian Motley Stafford Correa Barroso",
+          "Nacional": {
+            "2022": 51.0
+          }
+        }
+      }
+    }
   }
 };
